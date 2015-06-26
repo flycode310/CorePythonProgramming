@@ -4,6 +4,7 @@
 import os
 import string
 import re
+import datetime
 
 os.chdir('/home/chen.yayun/local/FlowDroid/fanqiang')
 platforms = '/home/chen.yayun/local/sdk/platforms'
@@ -14,12 +15,14 @@ logbase = '/home/chen.yayun/local/logs/fanqiang'
 
 files = os.listdir(apksbase)
 isFQ = {}
+starttime = datetime.datetime.now()
+print 'start at: ', starttime
 for each in files:
     apkpath = apksbase + '/' + each
     resultpath = resultsbase + '/' + each.split('.apk')[0] + '.txt'
     logpath = logbase + '/' + each.split('.apk')[0] + '.log.txt'
-    # cmd = 'java -jar flowdroid-custom-fq.jar ' + apkpath + ' ' + platforms + ' ' + resultpath + ' ' + '--nocallbacks > ' + logpath + ' 2>&1'
-    # os.system(cmd)
+    cmd = 'java -jar flowdroid-custom-fq.jar ' + apkpath + ' ' + platforms + ' ' + resultpath + ' ' + '--nocallbacks > ' + logpath + ' 2>&1'
+    os.system(cmd)
     print apkpath
     info_path = resultpath.split(".txt")[0] + '.info.txt'
     call_path = resultpath.split(".txt")[0] + '.calls.txt'
@@ -57,6 +60,11 @@ for each in files:
         netApp = True
     isFQ[each] = netApp
 
+finishtime = datetime.datetime.now()
+print 'finish at: ', finishtime
+
+print 'using time ', (finishtime - starttime).seconds, '秒'
+
 detectResult = resultsbase + '/detect.txt'
 detect_file = open(detectResult, 'w')
 for key in isFQ:
@@ -64,5 +72,4 @@ for key in isFQ:
     if isFQ[key]:
         tmp = "is"
     detect_file.write(key + " " + tmp + " fanqiang app\n")
-    print key
 detect_file.close()
