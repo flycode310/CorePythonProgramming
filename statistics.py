@@ -92,6 +92,7 @@ def get_call_list():
     callfile.close()
     return call_list
 
+# 根据分类的名称返回分类名称对应的代码
 def dir_map(dir_name):
     if dir_name == "社交通信":
         return 1
