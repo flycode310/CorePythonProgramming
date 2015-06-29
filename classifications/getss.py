@@ -86,5 +86,5 @@ def gen_power():
 
 
 if __name__ == '__main__':
-    # gen_ss()
+    gen_ss()
     gen_power()

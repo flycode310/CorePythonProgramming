@@ -3,7 +3,6 @@
 <android.content.ContentResolver: android.net.Uri insert(android.net.Uri,android.content.ContentValues)> -> _SINK_
 <android.content.ContentResolver: int delete(android.net.Uri,java.lang.String,java.lang.String[])> -> _SINK_
 <android.content.ContentResolver: int update(android.net.Uri,android.content.ContentValues,java.lang.String,java.lang.String[])> -> _SINK_
-<android.content.pm.PackageManager: java.util.List getInstalledApplications(int)> -> _SOURCE_
 <android.content.pm.PackageManager: java.util.List getInstalledPackages(int)> -> _SOURCE_
 <android.content.pm.PackageManager: java.util.List queryBroadcastReceivers(android.content.Intent,int)> -> _SOURCE_
 <android.content.pm.PackageManager: java.util.List queryIntentActivities(android.content.Intent,int)> -> _SOURCE_
@@ -15,13 +14,10 @@
 <android.net.wifi.WifiInfo: java.lang.String getSSID()> -> _SOURCE_
 <android.os.Handler: android.os.Message obtainMessage()> -> _SOURCE_
 <android.os.Handler: android.os.Message obtainMessage(int)> -> _SOURCE_
-<android.os.Handler: android.os.Message obtainMessage(int,int,int)> -> _SOURCE_
-<android.os.Handler: android.os.Message obtainMessage(int,int,int,java.lang.Object)> -> _SOURCE_
 <android.os.Handler: android.os.Message obtainMessage(int,java.lang.Object)> -> _SOURCE_
 <android.os.Handler: boolean sendMessage(android.os.Message)> -> _SINK_
 <android.telephony.gsm.GsmCellLocation: int getCid()> -> _SOURCE_
 <android.telephony.gsm.GsmCellLocation: int getLac()> -> _SOURCE_
-<android.telephony.SmsManager: void sendTextMessage(java.lang.String,java.lang.String,java.lang.String,android.app.PendingIntent,android.app.PendingIntent)> -> _SINK_
 <android.telephony.TelephonyManager: java.lang.String getDeviceId()> -> _SINK_
 <android.telephony.TelephonyManager: java.lang.String getLine1Number()> -> _SINK_
 <android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()> -> _SINK_
@@ -37,13 +33,8 @@
 <android.util.Log: int w(java.lang.String,java.lang.String)> -> _SINK_
 <android.util.Log: int w(java.lang.String,java.lang.String,java.lang.Throwable)> -> _SINK_
 <android.util.Log: int w(java.lang.String,java.lang.Throwable)> -> _SINK_
-<android.util.Log: int wtf(java.lang.String,java.lang.String)> -> _SINK_
-<android.util.Log: int wtf(java.lang.String,java.lang.String,java.lang.Throwable)> -> _SINK_
-<java.net.Socket: void <init>(java.lang.String,int)> -> _SINK_
 <java.net.URL: java.net.URLConnection openConnection()> -> _SOURCE_
 <java.net.URL: void <init>(java.lang.String)> -> _SINK_
-<java.net.URL: void <init>(java.lang.String,java.lang.String,int,java.lang.String)> -> _SINK_
-<java.net.URL: void <init>(java.net.URL,java.lang.String)> -> _SINK_
 <java.net.URLConnection: java.io.InputStream getInputStream()> -> _SOURCE_
 <java.net.URLConnection: java.io.OutputStream getOutputStream()> -> _SOURCE_
 <java.net.URLConnection: void setRequestProperty(java.lang.String,java.lang.String)> -> _SINK_

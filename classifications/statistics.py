@@ -9,67 +9,65 @@ import MySQLdb
 
 basedir = "/opt/results/classifications"
 
-def insert(call_dict, apk_count):
+
+def insert(call_dict):
     conn = MySQLdb.Connect(host="localhost", user="root", passwd="root", db="asec", port=3306, charset='utf8')
     cur = conn.cursor()
-    for i in range(len(apk_count)):
-        if apk_count[i] == 0:
-            apk_count[i] = 1
+    call_count = []
+    for index in range(11):
+        call_count.append(0)
     for call in call_dict:
         slist = call_dict[call]
-        sqlString = "insert into asec_app_statistics values('%s',%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"\
+        for index in range(11):
+            call_count[index] += slist[index]
+    for index in range(11):
+        if call_count[index] == 0:
+            call_count[index] = 1
+    for call in call_dict:
+        slist = call_dict[call]
+        sqlstring = "insert into asec_app_statistics values('%s',%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)" \
                     % (call,
-                       slist[0] * 1.0 / apk_count[0],
-                       slist[1] * 1.0 / apk_count[1],
-                       slist[2] * 1.0 / apk_count[2],
-                       slist[3] * 1.0 / apk_count[3],
-                       slist[4] * 1.0 / apk_count[4],
-                       slist[5] * 1.0 / apk_count[5],
-                       slist[6] * 1.0 / apk_count[6],
-                       slist[7] * 1.0 / apk_count[7],
-                       slist[8] * 1.0 / apk_count[8],
-                       slist[9] * 1.0 / apk_count[9],
-                       slist[10] * 1.0 / apk_count[10])
-        cur.execute(sqlString)
+                       slist[0] * 1.0 / call_count[0],
+                       slist[1] * 1.0 / call_count[1],
+                       slist[2] * 1.0 / call_count[2],
+                       slist[3] * 1.0 / call_count[3],
+                       slist[4] * 1.0 / call_count[4],
+                       slist[5] * 1.0 / call_count[5],
+                       slist[6] * 1.0 / call_count[6],
+                       slist[7] * 1.0 / call_count[7],
+                       slist[8] * 1.0 / call_count[8],
+                       slist[9] * 1.0 / call_count[9],
+                       slist[10] * 1.0 / call_count[10])
+        cur.execute(sqlstring)
     conn.commit()
     cur.close()
     conn.close()
 
+
 def list_dir():
     call_list = get_call_list()
     call_dict = {}
-    apk_count = []
     for ele in call_list:
         slist = []
         for i in range(11):
             slist.append(0)
         call_dict[ele] = slist
-    for i in range(11):
-        apk_count.append(0)
     dirs = os.listdir(basedir)
-    for dir in dirs:
-        index = dir_map(dir)
-        process_dir(basedir + '/' + dir, call_dict, apk_count, index - 1)
-    insert(call_dict, apk_count)
-    '''
-    result_file = open("Statistics.txt", 'w')
-    for call in call_dict:
-        result_file.write(call)
-        slist = call_dict[call]
-        for s in slist:
-            result_file.write(str(s) + ' ')
-        result_file.write('\n')
-    result_file.close()
-    '''
+    for dir_name in dirs:
+        index = dir_map(dir_name)
+        process_dir(basedir + '/' + dir_name, call_dict, index - 1)
+    insert(call_dict)
 
 
-def process_dir(dirpath, call_dict, apk_count, index):
+# 处理每个分类目录下面的文件
+def process_dir(dirpath, call_dict, index):
     files = os.listdir(dirpath)
     for ele in files:
         if len(ele.split('.calls.txt')) == 2:
-            apk_count[index] += 1
             process_file(dirpath + '/' + ele, call_dict, index)
 
+
+# 处理单个文件
 def process_file(filepath, call_dict, index):
     callfile = open(filepath)
     for call in callfile:
@@ -77,6 +75,7 @@ def process_file(filepath, call_dict, index):
         if callstr in call_dict:
             call_dict[callstr][index] += 1
     callfile.close()
+
 
 def get_call_list():
     callfile = open("SourcesAndSinks.txt")
@@ -91,6 +90,7 @@ def get_call_list():
             call_list.append(line.split('>')[0].split('<')[1])
     callfile.close()
     return call_list
+
 
 # 根据分类的名称返回分类名称对应的代码
 def dir_map(dir_name):
@@ -116,6 +116,7 @@ def dir_map(dir_name):
         return 10
     elif dir_name == "办公学习":
         return 11
+
 
 if __name__ == "__main__":
     list_dir()
