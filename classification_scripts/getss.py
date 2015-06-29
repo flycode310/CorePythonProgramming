@@ -37,7 +37,6 @@ def gen_ss():
                     files_list[index].write(' -> _SOURCE_\n')
                 else:
                     files_list[index].write(' -> _SINK_\n')
-                    # files_list[index].write(' ' + str(item[index+1]) + '\n')
     # close file
     for index in range(0, 11):
         files_list[index].close()
@@ -47,6 +46,16 @@ def gen_ss():
 
 
 def gen_power():
+    # get the source list
+    ss_file = open("SourcesAndSinks.txt")
+    sources_list = []
+    for line in ss_file:
+        if re.search('_SOURCE_', line):
+            call_name = line.split(' -> ')[0]
+            call_no_para = call_name.split('(')[0] + '()>'
+            if call_no_para not in sources_list:
+                sources_list.append(call_no_para)
+
     # query the mysql
     conn = MySQLdb.Connect(host="localhost", user="root", passwd="root", db="asec", port=3306, charset='utf8')
     cur = conn.cursor()
@@ -79,7 +88,11 @@ def gen_power():
         power_list = power_dict[call]
         for index in range(0, 11):
             if power_list[index] != 0.0:
-                files_list[index].write(call + ';' + str(power_list[index]) + '\n')
+                files_list[index].write(call + ';' + str(power_list[index]))
+                if call in sources_list:
+                    files_list[index].write(' -> _SOURCE_\n')
+                else:
+                    files_list[index].write(' -> _SINK_\n')
     # close file
     for index in range(0, 11):
         files_list[index].close()
