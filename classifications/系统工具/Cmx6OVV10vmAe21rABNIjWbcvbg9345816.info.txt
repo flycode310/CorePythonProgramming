@@ -1,0 +1,64 @@
+com.ada.app.myqrcode
+2
+1.0.2
+9
+19
+13
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+18
+<activity name="com.ada.app.myqrcode.MainActivity" label="2131296256">
+<activity screenOrientation="1" name="com.zxing.activity.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity name="com.ada.app.myqrcode.CreateCodeActivity" label="2131296257">
+<activity name="com.ada.app.myqrcode.ScanresultActivity" label="2131296270">
+<activity name="com.ada.app.myqrcode.Generatecode" label="2131296273">
+<activity name="com.ada.app.myqrcode.HistoryActivity" label="2131296276">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="a.b.c.AdBrowser" theme="16973837" configChanges="1200">
+<activity name="com.adasdk.SplashActivity">
+<activity name="com.adaappui.RecommendActivity">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.adaappui.ImageActivity">
+<activity screenOrientation="1" name="com.qihoo.gamead.activity.LightAppActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.qihoo.gamead.activity.AppDetailActivity" theme="16973837" configChanges="160">
+<activity name="com.clipgle.bn.WebViewActivity" configChanges="160">
+<activity name="com.clipgle.wall.WA" theme="16973830">
+<activity excludeFromRecents="true" name="com.clipgle.cp.SA" theme="16973841" launchMode="3">
+<activity name="com.clipgle.cp.WA" launchMode="3">
+6
+<service name="a.b.c.AdService" exported="false">
+<service name="a.b.c.ExpService" exported="false">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.adasdk.AdaService">
+<service name="com.qihoo.gamead.download.DownloadService">
+<service process=":QEvent" name="com.qihoo.gamead.event.QEventService" exported="false">
+7
+<receiver name="a.b.c.AdReceiver">
+<receiver name="a.b.c.os.OffersReceiver" exported="false">
+<receiver name="com.adasdk.BootBroadcastReceiver" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver name="com.adasdk.AlarmReceiver" exported="false">
+<receiver name="com.clipgle.bn.AdReceiver">
+<receiver name="com.clipgle.wall.SR">
+<receiver name="com.clipgle.cp.SR">
+0
+Owner: CN=ada, OU=ada, O=ada, L=jiangsu, ST=wuxi, C=CN
+Issuer: CN=ada, OU=ada, O=ada, L=jiangsu, ST=wuxi, C=CN
+Serial number: 422e158e
+Valid from: Tue Jun 10 09:33:35 CST 2014 until: Sun May 31 09:33:35 CST 2054
+Certificate fingerprints: 
+	MD5:1F:D6:5E:3B:C5:2F:57:BB:09:3C:73:EE:79:34:C2:F1
+	SHA1: D3:E3:BD:E6:9B:54:66:FA:D6:37:F3:68:5D:61:53:F9:89:D2:45:75
+	SHA256: FC:DC:17:41:37:4B:9D:0C:5C:20:92:C3:80:17:7C:B6:0F:4A:74:53:DD:8A:7D:99:A2:07:31:5A:CE:D7:C4:1D
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,146 @@
+com.kxe.ca.activity
+76
+5.2.5
+7
+-1
+22
+android.permission.INSTALL_PACKAGES
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+93
+<activity screenOrientation="1" name="com.kxe.ca.activity.MainActivity" theme="2131427340" label="2131296314" launchMode="0">
+<activity name="io.card.payment.CardIOActivity" configChanges="160">
+<activity screenOrientation="1" name="io.card.payment.DataEntryActivity">
+<activity screenOrientation="1" name="com.kxe.ca.activity.MyScanActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.RefreshableView" theme="16973833">
+<activity screenOrientation="0" name="com.kxe.ca.activity.CameraActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.VideoActivity" theme="16973839">
+<activity screenOrientation="1" name="com.kxe.ca.activity.InitActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.WeiboActivity" theme="16973839">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PageActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.ManaEmailActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.ManaEmailOtherActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.UCUserLogin" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.CardInfoActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.MenuActivity" theme="16973839">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PasswdActivity" theme="16973839">
+<activity screenOrientation="1" name="com.kxe.ca.activity.HelpActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.BanksActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.CardInfoSmsActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.ChangePwdActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.ADVActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmIndexActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmPayThurderActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmUserInfoActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmCreditEditActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmCreditListActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmDebitEditActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmDebitListActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmUserInfoChkActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmPayConfirmActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmPayConfirmChkActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmPayStatusActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PmHistoryActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.PbActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.TestActivity" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.NotificationWebView" theme="16973839">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlIndexUnlog" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerify" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyInfo" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyAccount" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyAccountConfirm" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyInfomation" theme="16973833">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyLocation" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyBill" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyBillResult" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyWeibo" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyInternet" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyCreditReport" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyCareer" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlLoanConfirm" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlLoanContract" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlLoanSigned" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlHelp" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlIndexLogged" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlShanDianBorrowActivity4_1" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlHistoryMore" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlLoanHistory" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlUserLogin" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyAccountAddNew" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlShortMsgVerify" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyAccountSdjOld" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlEveVerifyCreditCard" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlDebitCardVerify" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlEveVerifyCreditCard_Ing" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlVerifyInfoOldUser" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.pbcPayDemo" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlDraft" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlLoanChangeCard" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlInterestCounter" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.UCAccount" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.UCAccountwithdrawals" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.receiver.KlNotificationActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.receiver.KlNotifiItemActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.umeng.fb.ConversationActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.umeng.fb.ContactActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlSendInviteCodeActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlInvitedFriendsListActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.KlInviteRank" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.NewMenuActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.NewPasswdActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.NewAboutUsActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.NewContactServiceActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.NewCommonProblemActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.InvestIndexActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.Cardinfolist" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.NewNotificationItemActivity" theme="16973833" windowSoftInputMode="34">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973833" configChanges="32" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.kxe.ca.activity.InvestIndex2Activity" configChanges="160">
+<activity screenOrientation="1" name="com.zxing.activity.CaptureActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="com.kxe.umeng.fb.NewConversationActivity" theme="16973833" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.umeng.fb.ContactActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.kxe.ca.activity.NewWechatActivity" theme="16973833" windowSoftInputMode="34">
+4
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+7
+<receiver name="com.kxe.ca.receiver.ConnectionChangeReceiver" label="NetworkConnection">
+<receiver name="com.kxe.ca.receiver.MyStartReceiver" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver name="com.kxe.ca.receiver.MyStepReceiver">
+<receiver name="com.kxe.ca.receiver.MyServiceReceiver">
+<receiver name="com.kxe.ca.receiver.MyPushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=kaxiaobao, OU=kuukaa
+Issuer: CN=kaxiaobao, OU=kuukaa
+Serial number: 4ffbfdf6
+Valid from: Tue Jul 10 18:03:34 CST 2012 until: Sat Jul 04 18:03:34 CST 2037
+Certificate fingerprints: 
+	MD5:68:DE:9A:67:05:87:7D:AF:5F:CD:E0:D9:ED:5D:6F:75
+	SHA1: 8D:FC:27:B1:74:76:9A:54:5E:CE:0C:74:8A:A8:DE:B0:D3:22:B5:7E
+	SHA256: 5E:97:BC:B3:8B:6B:A0:6E:A1:9E:73:FD:45:C9:08:35:77:61:FC:35:B7:1C:38:53:24:B4:7E:17:66:91:83:3F
+	Signature algorithm name: SHA1withRSA
+	version: 3

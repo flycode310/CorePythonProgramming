@@ -1,0 +1,35 @@
+com.android.caojing.TakeJoke
+1
+1.0
+8
+15
+9
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+5
+<activity name=".MainActivity" label="2131034115">
+<activity name=".ListActivity">
+<activity name=".InfoActivity">
+<activity name=".JokeContent">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+0
+1
+<receiver name="net.youmi.android.YoumiReceiver">
+0
+Owner: CN=caojing, OU=cctv, O=cctv, L=hubei, ST=hubei, C=cn
+Issuer: CN=caojing, OU=cctv, O=cctv, L=hubei, ST=hubei, C=cn
+Serial number: 50500ce1
+Valid from: Wed Sep 12 12:17:37 CST 2012 until: Thu Jun 16 12:17:37 CST 2067
+Certificate fingerprints: 
+	MD5:24:3F:D7:72:9B:81:D9:B2:08:7E:81:7B:EF:10:F3:90
+	SHA1: F1:7D:D3:BE:57:2E:9C:70:91:F0:E9:7E:20:9A:2B:C3:F3:C9:25:9B
+	SHA256: 1B:D7:59:6D:4A:05:FE:54:C5:31:83:B5:C8:1F:23:9B:56:43:16:D4:9D:E9:F3:A4:DE:81:BD:23:E8:6F:94:9B
+	Signature algorithm name: SHA1withRSA
+	version: 3

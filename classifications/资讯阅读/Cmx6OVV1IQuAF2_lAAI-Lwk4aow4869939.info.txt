@@ -1,0 +1,23 @@
+com.yagushou.qndaohang5
+1
+1.0
+8
+8
+2
+android.permission.CAMERA
+android.permission.INTERNET
+1
+<activity screenOrientation="1" name="com.yagushou.qndaohang5.MainActivity" configChanges="1184" label="2130968576" launchMode="3">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 125b3f21
+Valid from: Mon Dec 08 18:13:18 CST 2014 until: Wed Nov 30 18:13:18 CST 2044
+Certificate fingerprints: 
+	MD5:69:9B:8D:48:D2:00:88:03:99:D4:0F:89:F2:C3:0A:15
+	SHA1: BC:DC:E4:D1:63:68:35:71:F5:90:3A:8B:ED:F2:37:D3:EE:61:A3:B9
+	SHA256: F2:C8:A7:4C:4A:54:40:42:6F:93:0F:5B:9F:76:04:5A:4A:83:9E:BF:73:5B:1F:34:F4:8A:03:05:CF:25:15:4E
+	Signature algorithm name: SHA256withRSA
+	version: 3

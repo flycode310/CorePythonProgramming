@@ -1,0 +1,48 @@
+com.android.stockclient
+1
+2.3
+10
+-1
+2
+android.permission.INTERNET
+android.permission.VIBRATE
+26
+<activity name=".StockClientActivity" theme="16973830" label="2131099649">
+<activity name=".Login" theme="16973835" label="2131099649">
+<activity name=".Register" theme="16973830" label="2131099649">
+<activity name=".Buy" theme="16973830" label="2131099649">
+<activity name=".HeavenSword" theme="16973830" label="2131099649">
+<activity name=".DragonKnife" theme="16973830" label="2131099649">
+<activity name=".KingTreasure" theme="16973830" label="2131099649">
+<activity name=".SelfChoice" theme="16973830" label="2131099649">
+<activity name=".AddStock" theme="16973835" label="2131099649">
+<activity name=".ExpertRecommend" theme="16973830" label="2131099649">
+<activity name=".ExpertManager" theme="16973830" label="2131099649">
+<activity name=".ExpertManager_Add" theme="16973835" label="2131099649">
+<activity name=".ShareFriend" theme="16973830" label="2131099649">
+<activity name=".CustomerService" theme="16973830" label="2131099649">
+<activity name=".RecommendInfo" theme="16973830" label="2131099649">
+<activity name=".MyCount" theme="16973830" label="2131099649">
+<activity name=".KLineActivity" theme="16973830" label="2131099649">
+<activity name=".VolumeActivity" theme="16973830" label="2131099649">
+<activity name=".TimeActivity" theme="16973830" label="2131099649">
+<activity name=".WeiboQQTestActivity" theme="16973830" label="2131099649" launchMode="2">
+<activity name=".Userhelp" theme="16973830" label="2131099649">
+<activity name=".Experthelp" theme="16973830" label="2131099649">
+<activity name="org.achartengine.chartdemo.demo.chart.XYChartBuilder">
+<activity name="org.achartengine.chartdemo.demo.chart.PieChartBuilder">
+<activity name="org.achartengine.GraphicalActivity">
+<activity name=".GeneratedChartDemo">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 548b4664
+Valid from: Sat May 04 15:18:37 CST 2013 until: Mon Apr 27 15:18:37 CST 2043
+Certificate fingerprints: 
+	MD5:AF:2F:26:0C:2C:7C:97:C7:8F:C1:99:51:4C:D7:3B:5A
+	SHA1: 01:78:42:0A:4E:B7:0E:76:A1:5B:34:13:66:A0:05:0F:DD:AD:B2:B5
+	SHA256: B3:C4:25:E6:C9:20:E0:AB:48:46:58:53:5B:EA:3B:20:09:96:51:6C:D2:5A:2D:6D:80:EA:21:AD:EE:D8:CF:6F
+	Signature algorithm name: SHA256withRSA
+	version: 3

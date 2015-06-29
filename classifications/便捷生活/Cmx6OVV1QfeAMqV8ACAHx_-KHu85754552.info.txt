@@ -1,0 +1,71 @@
+com.jkom.privatenutritionist
+4
+1.31
+11
+17
+10
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+40
+<activity name="com.jkom.privatenutritionist.SplashActivity" theme="16973831" label="2131296256">
+<activity screenOrientation="1" name=".MainActivity">
+<activity screenOrientation="1" name="cn.sharesdk.framework.AuthorizeActivity" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.demo.GetTokenPage" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.sharesdk.demo.GetInforPage" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.sharesdk.demo.JsonPage" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" exported="true">
+<activity excludeFromRecents="true" name=".yxapi.YXEntryActivity" theme="16973840" exported="true" launchMode="1">
+<activity screenOrientation="1" name=".personal.PersonalLoginActivity">
+<activity screenOrientation="1" name=".personal.PersonalRegisterActivity">
+<activity screenOrientation="1" name=".personal.FindPwdPage1Activity">
+<activity screenOrientation="1" name=".personal.FindPwdPage2Activity">
+<activity screenOrientation="1" name=".yypc.FeedbackActivity">
+<activity screenOrientation="1" name=".yypc.AboutusActivity">
+<activity screenOrientation="1" name=".yypc.YYPCNewMainActivity">
+<activity screenOrientation="1" name=".yypc.YYPCSearchActivity">
+<activity screenOrientation="1" name=".yypc.YYPCSearchAddMenuActivity">
+<activity screenOrientation="1" name=".yypc.YYPCSearchFirstMenuActivity">
+<activity screenOrientation="1" name=".yypc.YYPCSearchSecondMenuActivity">
+<activity screenOrientation="1" name=".yypc.YYPCDiancaiElistviewActivity">
+<activity screenOrientation="1" name=".yypc.YYPCDiancaiFoodListActivity">
+<activity screenOrientation="1" name=".yypc.YYPCFoodDetailActivity">
+<activity name=".yypc.YYPCUserinfoActivity" theme="2131361797">
+<activity name=".yypc.YYPCPingjiaActivity" theme="2131361797">
+<activity name=".yypc.YYPCBmiIntroActivity" theme="2131361797">
+<activity name=".yypc.YYPCPingguActivity" theme="2131361797">
+<activity name=".yypc.YYPCMainFavoriteActivity" theme="2131361797">
+<activity screenOrientation="1" name=".yypc.YYPCFavoriteTabPeicanActivity">
+<activity screenOrientation="1" name=".yypc.YYPCFavPeicanSubActivity">
+<activity screenOrientation="1" name=".yypc.YYPCFavoriteTabDishActivity">
+<activity name=".yypc.YYPCPeicanByDateDialogActivity" theme="2131361797">
+<activity screenOrientation="1" name=".yypc.YYPCFavoriteActivity">
+<activity name=".yypc.YYPCCalenderActivity" theme="2131361797">
+<activity screenOrientation="1" name=".yypc.YYPCImportFavActivity">
+<activity screenOrientation="1" name=".yypc.YYPCPersonalPeicanAddActivity">
+<activity screenOrientation="1" name=".yypc.YYPCPersonalPeicanAddMoreFavoriteDishActivity">
+<activity name=".yypc.YYPCKeduActivity" theme="2131361797">
+<activity name=".yypc.YYPCFoodWeightModActivity" theme="2131361797">
+<activity name=".activity.SoftwareUpdateDialogActivity" theme="2131361797">
+1
+<service name=".service.UpdateService">
+0
+0
+Owner: CN=liu Longqiang, OU=Jkom, O=Jkom, L=Nanjing, ST=Jiangsu, C=86
+Issuer: CN=liu Longqiang, OU=Jkom, O=Jkom, L=Nanjing, ST=Jiangsu, C=86
+Serial number: 4e0ae542
+Valid from: Wed Jun 29 16:41:38 CST 2011 until: Tue Oct 30 16:41:38 CST 3010
+Certificate fingerprints: 
+	MD5:4C:AA:4A:9B:3D:18:9C:E1:82:04:68:90:12:91:BE:47
+	SHA1: CE:A3:CA:A7:31:37:28:20:B7:CA:EB:E6:57:03:D3:BE:41:C3:F8:C8
+	SHA256: BA:84:6C:1B:4C:AF:83:B4:62:CA:CC:A0:D0:F1:42:A6:BC:48:E5:9A:7D:5F:1A:63:41:CA:A7:28:47:C2:96:EA
+	Signature algorithm name: SHA1withRSA
+	version: 3

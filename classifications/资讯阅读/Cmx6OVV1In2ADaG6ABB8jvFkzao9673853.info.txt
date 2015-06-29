@@ -1,0 +1,46 @@
+com.so.news.reader
+12
+1.0.0
+8
+17
+11
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+12
+<activity screenOrientation="1" name=".SplashScreenActivity" configChanges="160" label="2131099661">
+<activity screenOrientation="1" name="MainActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="ManageActivity" configChanges="160">
+<activity screenOrientation="1" name="GuideActivity" configChanges="160">
+<activity screenOrientation="1" name="ChannelActivity" configChanges="160">
+<activity screenOrientation="1" name="SettingsActivity" configChanges="160">
+<activity screenOrientation="1" name="ArticleActivity" configChanges="160">
+<activity screenOrientation="1" name="GeneralSettingsActivity" configChanges="160">
+<activity screenOrientation="1" name="AboutActivity" configChanges="160">
+<activity screenOrientation="1" name="SearchActivity" configChanges="160" windowSoftInputMode="4">
+<activity screenOrientation="1" name="FeedbackActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.reader.OneIsEnoughWebViewActivity" configChanges="160">
+2
+<service name="com.so.news.reader.service.OfflineService">
+<service name="com.so.news.reader.service.MessengerService">
+1
+<receiver name=".service.ServiceGuardReceiver">
+0
+Owner: OU=Qihoo Corp
+Issuer: OU=Qihoo Corp
+Serial number: 6a0bc68f
+Valid from: Tue Jun 04 17:24:28 CST 2013 until: Sat May 29 17:24:28 CST 2038
+Certificate fingerprints: 
+	MD5:3D:05:2F:08:17:AE:AA:A8:3C:55:06:77:15:A4:03:6E
+	SHA1: 64:16:80:74:70:93:95:81:DE:7E:62:C7:B5:71:C3:2D:B3:89:9F:9D
+	SHA256: FE:4A:9E:1F:8E:C4:B8:1B:A5:92:95:CC:A6:10:80:C4:34:8F:25:1C:AC:9F:C2:70:B3:F2:86:38:80:D6:39:24
+	Signature algorithm name: SHA256withRSA
+	version: 3

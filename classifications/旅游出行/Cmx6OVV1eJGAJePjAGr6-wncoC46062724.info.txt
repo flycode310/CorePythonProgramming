@@ -1,0 +1,121 @@
+com.edog
+3200
+3.2.0.0
+8
+-1
+28
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.edog.permission.JPUSH_MESSAGE
+android.permission.CALL_PHONE
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.EXPAND_STATUS_BAR
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+54
+<activity screenOrientation="1" name="com.edog.activity.SplashActivity" theme="2131624016" launchMode="1">
+<activity screenOrientation="1" name="com.flow.activity.SplashLoginActivity">
+<activity name="com.flow.activity.VisitorActivity" label="2131165211">
+<activity name="com.edog.activity.GeneralActivity" label="2131165211">
+<activity name="com.flow.activity.BindAccountActivity" label="2131165211">
+<activity name=".wxapi.WXEntryActivity" exported="true" label="2131165211" launchMode="1">
+<activity screenOrientation="1" name="com.flow.activity.CameraActivity" label="2131165211">
+<activity screenOrientation="4" hardwareAccelerated="true" name="com.flow.FlowActivity" theme="16973830" configChanges="1184" label="2131165211" launchMode="2">
+<activity screenOrientation="1" name="com.flow.activity.AlbumActicity" theme="2131623989" launchMode="1">
+<activity screenOrientation="1" name="com.flow.activity.FeedBackActivity" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.flow.live.LiveProgramActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.flow.live.Act_Live" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.flow.activity.OfflineEdogActivity" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.flow.activity.CommonActivity" label="2131165211">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.flow.activity.LibraryActivity" theme="2131623989" label="2131165211" launchMode="3">
+<activity screenOrientation="1" name="com.flow.activity.VipBrowserActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.flow.activity.ScreenOnActivity" taskAffinity="com.edog.lockscreen" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.PhoneActivity" theme="16973830">
+<activity screenOrientation="4" name="com.edog.HomeActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.AboutActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.UsageActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.QuestionActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.DogAddedActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.RecommendActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.PushActivity" theme="16973830" launchMode="0">
+<activity screenOrientation="1" name="com.edog.activity.SetActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.PreferActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.LocationDetailActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.TrackActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.RouteActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.BrowserActivity" theme="16973830">
+<activity screenOrientation="1" name="com.edog.activity.AccountActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.edog.activity.ModifyActivity" theme="16973830">
+<activity screenOrientation="0" name="com.edog.activity.HudActivity" theme="16973831" launchMode="2">
+<activity screenOrientation="1" name="com.sdfm.activity.PagerActivity">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131624025" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.umeng.socialize.view.CommentActivity" theme="2131624026" configChanges="144">
+<activity name="com.umeng.socialize.view.CommentDetail" theme="2131624026" configChanges="144" noHistory="true">
+<activity name="com.umeng.socialize.view.CommentDetailNoMap" theme="2131624026" configChanges="144" noHistory="true">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.google.zxing.CaptureActivity" theme="16973830">
+<activity screenOrientation="1" name="com.edog.activity.klp.KlpChoiceActivity" theme="2131624002" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.edog.activity.klp.KlpChoiceByInputActivity" theme="2131624002">
+<activity screenOrientation="1" name="com.edog.activity.klp.KlpCenterActivity" theme="2131624002">
+<activity screenOrientation="1" name="com.edog.activity.klp.KlpMyKlpActivity" theme="2131624002">
+<activity screenOrientation="1" name="com.edog.activity.klp.KlpPackageDetailActivity" theme="2131624002">
+<activity screenOrientation="1" name="com.edog.activity.klp.KlpFrequencySettingActivity" theme="2131624002">
+<activity screenOrientation="1" name="com.edog.activity.klp.KlpControlActivity" theme="2131624002">
+<activity screenOrientation="1" name="com.edog.activity.klp.KlpHardwareInfoActivity" theme="2131624002">
+<activity screenOrientation="1" name="com.edog.activity.klp.KlpWebBrowserActivity" theme="2131624002">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity name="com.ixintui.push.PushActivity" theme="16973840" configChanges="160">
+13
+<service name="com.flow.service.KlDownloadService">
+<service name="com.flow.cache.CacheService">
+<service name="com.flow.service.CommonService">
+<service process=":remoteProcess" name="com.edog.remote.RemoteService">
+<service name="com.edog.DogService" exported="false">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.flow.live.LiveProgramService">
+<service name="com.flow.live.KaolaLiveService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service name="org.openudid.OpenUDID_service">
+<service process=":ixintui_service_v1" name="com.ixintui.push.PushService" exported="true">
+6
+<receiver name="com.sdfm.receiver.MediaButtonReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.edog.service.JgMsgReceiver">
+<receiver name="com.edog.service.IxPushReceiver">
+<receiver process=":ixintui_service_v1" name="com.ixintui.push.Receiver">
+0
+Owner: CN=li, OU=lkfm, O=lkfm, L=bj, ST=bj, C=cn
+Issuer: CN=li, OU=lkfm, O=lkfm, L=bj, ST=bj, C=cn
+Serial number: 50d8db4c
+Valid from: Tue Dec 25 06:46:36 CST 2012 until: Sat May 12 06:46:36 CST 2040
+Certificate fingerprints: 
+	MD5:84:A9:95:85:48:E6:EE:D0:C1:E4:25:43:47:C7:D4:0E
+	SHA1: DE:D1:C1:CF:8A:1A:93:40:8B:5A:4B:07:69:9D:D0:BD:42:D5:7C:74
+	SHA256: 9A:81:79:F7:81:EF:E4:68:34:B3:77:41:B3:EB:D6:3E:4F:2A:1E:CD:B5:4E:82:F6:91:58:A1:09:87:8A:C3:40
+	Signature algorithm name: SHA1withRSA
+	version: 3

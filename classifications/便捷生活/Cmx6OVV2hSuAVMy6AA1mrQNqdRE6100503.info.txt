@@ -1,0 +1,31 @@
+com.dodo.calendar
+14
+1.0.14
+8
+19
+8
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+1
+<activity screenOrientation="1" name="com.dodo.calendar.DCalendarAt" theme="16973830" configChanges="1184" label="2131099648" windowSoftInputMode="16" launchMode="3">
+1
+<service name="hz.dodo.LaunchService">
+1
+<receiver name="hz.dodo.download.DownloadReceiver">
+0
+Owner: CN=dodo, OU=MMB, O=MMB, L=BJ, C=010
+Issuer: CN=dodo, OU=MMB, O=MMB, L=BJ, C=010
+Serial number: 516f6e30
+Valid from: Thu Apr 18 11:53:20 CST 2013 until: Sat Mar 25 11:53:20 CST 2113
+Certificate fingerprints: 
+	MD5:58:AE:A8:9C:EB:1B:64:9C:E5:B2:94:31:49:0C:B9:DC
+	SHA1: F9:E7:1B:CF:F6:21:0D:88:E5:57:4D:B5:DE:62:D4:2D:75:60:27:5E
+	SHA256: C4:A3:F2:2E:3D:34:59:CD:4D:EE:BA:26:1F:51:2F:E1:59:9A:DD:CB:B7:3D:23:C0:42:0E:EB:98:3A:9D:DB:7A
+	Signature algorithm name: SHA1withRSA
+	version: 3

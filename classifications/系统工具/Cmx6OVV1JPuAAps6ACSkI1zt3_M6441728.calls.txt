@@ -1,0 +1,1 @@
+android.database.Cursor: java.lang.String getString(int)

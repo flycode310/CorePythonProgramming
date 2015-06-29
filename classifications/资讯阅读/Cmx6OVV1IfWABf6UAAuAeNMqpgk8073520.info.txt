@@ -1,0 +1,68 @@
+com.yilan.mengdao
+1
+1.0
+9
+-1
+8
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+36
+<activity name="com.yilan.mengdao.ui.SplashActivity" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.MainTabFrame" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.MyComicTab" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.BookstoreTab" label="2131165185" launchMode="2">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.SettingsTab" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.SearchTab" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.SearchResult" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.SettingTabActivity" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.Login" label="2131165185" launchMode="2">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.Register" label="2131165185" launchMode="2">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.Copyright" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.About" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.FriendShare" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.MyComicAll" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.MyComicLastDownload" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.MyComicRecentlyRead" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.MyComicIndex" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.MyComicRead" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.BookstoreRanking" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.BookstoreJingPin" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.BookstoreZuiXin" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.BookstoreZhenren" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.BookstoreFree" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.BookstoreIndex" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.BookstoreIndex4Free" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.Main" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.DownloadManagerActivity" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.DownloadingManagerActivity" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.DownloadedManagerActivity" label="2131165185">
+<activity screenOrientation="1" name="com.yilan.mengdao.ui.SmallPic" label="2131165185">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity screenOrientation="1" name="com.yilan.mengdao.ability.PayView" configChanges="128" label="2131165185">
+<activity name="com.yilan.mengdao.ability.ClassifyListView" label="2131165185">
+<activity name="com.yilan.mengdao.ability.OpusListView" label="2131165185">
+<activity name="com.yilan.mengdao.ability.ChapterDetailView" label="2131165185">
+2
+<service enabled="true" name="com.yilan.mengdao.service.DownSrv">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+2
+<receiver name="sms.purchasesdk.cartoon.sms.SMSReceiver" exported="true">
+<receiver name="com.google.ads.InstallReceiver" exported="true">
+0
+Owner: CN=Mobile, OU="Sun Ground Co., Ltd.", O=http://www.90123.com, L=beijing, ST=beijing, C=cn
+Issuer: CN=Mobile, OU="Sun Ground Co., Ltd.", O=http://www.90123.com, L=beijing, ST=beijing, C=cn
+Serial number: 4dba64c3
+Valid from: Fri Apr 29 15:12:03 CST 2011 until: Thu Mar 21 15:12:03 CST 2148
+Certificate fingerprints: 
+	MD5:49:75:5F:8A:80:E4:1E:5C:03:7F:4D:32:89:4A:8C:6D
+	SHA1: E3:5A:92:FB:FE:8F:90:3F:CA:F6:96:43:28:DE:6C:4D:9A:35:C0:C2
+	SHA256: FF:96:F6:2D:90:60:6A:B5:C2:55:72:82:EB:68:F8:69:2D:03:5C:7E:88:3C:1E:30:61:BE:F9:A2:2B:B6:BB:51
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,85 @@
+com.tianqi2345
+16
+3.5.1
+8
+19
+27
+android.permission.READ_EXTERNAL_STORAGE
+com.android.alarm.permission.SET_ALARM
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.tianqi2345.permission.JPUSH_MESSAGE
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.RECEIVE_USER_PRESENT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+18
+<activity screenOrientation="1" name=".weather.CoveryActivity" theme="2131492887" label="2131427350">
+<activity icon="2130837700" screenOrientation="1" name=".weather.MainActivity" theme="2131492887" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".weather.AddressActivity1" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".weather.AddressActivity2">
+<activity screenOrientation="1" name=".weather.AddressActivity3">
+<activity screenOrientation="1" name=".weather.AboutUsActivity">
+<activity screenOrientation="1" name=".weather.WaringActivity">
+<activity screenOrientation="1" name=".weather.AirDetailActivity">
+<activity screenOrientation="1" name=".weather.ShowWeatherHelp">
+<activity screenOrientation="1" name=".weather.FeedBackActivity" launchMode="2">
+<activity screenOrientation="1" name=".weather.WebWeatherActivity">
+<activity screenOrientation="1" name=".weather.ShowWidgetHelp">
+<activity screenOrientation="1" name="com.tianqi2345.weather.TodayMergeActivity">
+<activity screenOrientation="1" name=".weather.ClockHelpActivity" theme="16973839">
+<activity screenOrientation="1" excludeFromRecents="true" name=".weather.LockActivity" noHistory="true">
+<activity screenOrientation="1" name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.tianqi2345.widget.MiUiPremissionActivity" theme="16973835" launchMode="3">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+10
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service enabled="false" name="com.tianqi2345.services.ClockService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":w_service" name="com.tianqi2345.services.WidgetService">
+<service name="com.tianqi2345.services.TTSService2">
+<service name="com.tianqi2345.push.PushJumpService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service name="com.tianqi2345.services.AlarmCacheService">
+10
+<receiver enabled="true" name="com.tianqi2345.broadcast.MyDJReceiver" label="2345天气王">
+<receiver enabled="true" name="com.tianqi2345.broadcast.MonitorInstallBroadcast" label="监听安装卸载广播">
+<receiver name="com.tianqi2345.widget.WeatherWidget" label="(4x1)2345天气王">
+<receiver name="com.tianqi2345.widget.WeatherWidget2" label="(4x2)2345天气王">
+<receiver name="com.tianqi2345.broadcast.RestartSelfReceiver">
+<receiver process=":newbroadcast" name="com.tianqi2345.deamon.DeamonBroadcast">
+<receiver enabled="true" name="com.tianqi2345.push.MyReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="com.tianqi2345.widget.StaticReceiver">
+0
+Owner: CN=2345tianqi, OU=2345tianqi, O=2345tianqi, L=2345tianqi, ST=2345tianqi, C=2345tianqi
+Issuer: CN=2345tianqi, OU=2345tianqi, O=2345tianqi, L=2345tianqi, ST=2345tianqi, C=2345tianqi
+Serial number: 51de4c37
+Valid from: Thu Jul 11 14:09:59 CST 2013 until: Fri Jun 29 14:09:59 CST 2063
+Certificate fingerprints: 
+	MD5:AE:E5:5F:D8:72:28:3B:69:5B:8C:09:5D:19:16:BF:26
+	SHA1: 45:17:F0:9F:F1:A1:38:1A:84:EC:9A:D7:D4:D9:89:CC:4A:82:74:87
+	SHA256: 57:FD:F3:43:84:A4:E9:55:8B:D0:A0:08:B6:3E:4B:97:7D:3D:02:A0:77:65:84:13:83:B9:F0:D6:CB:C1:A6:7C
+	Signature algorithm name: SHA1withRSA
+	version: 3

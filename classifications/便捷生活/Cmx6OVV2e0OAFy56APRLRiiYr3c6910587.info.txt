@@ -1,0 +1,148 @@
+com.lvtech.hipal
+154
+3.10.290
+14
+21
+30
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.WAKE_LOCK
+android.permission.USE_CREDENTIALS
+androd.permission.INSTALL_PACKAGES
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.REORDER_TASKS
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.WRITE_SETTINGS
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+com.lvtech.hipal.permission.MAPS_RECEIVE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.BLUETOOTH_ADMIN
+91
+<activity screenOrientation="1" name="com.lvtech.hipal.LoadingActivity" theme="16973831" label="2131099734" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.common.BaseActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.common.BaseFragmentActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.sporting.Sporting" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.summary.Summary" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.SportHistory" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.sporting.SportCountDown" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.NavigationActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.setting.SelectSportType" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.setting.SettingActivity">
+<activity screenOrientation="1" name="com.lvtech.hipal.setting.SelectPlayTime" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.setting.SelectPlayDistance" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.setting.SelectPlayVoice" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.AboutActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.common.CommonWebViewActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.account.LoginOrRegisterActivity" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.account.ForgetPassActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.account.ResetPassActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.PersonInfoActivity" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.BirthNumberPickerActivity" theme="2131296266" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.SingleNumberPickerActivity" theme="2131296266" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.baidumap.StepFrequencySettingActivity" theme="2131296266">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.DoubleNumberPickerActivity" theme="2131296266" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.summary.ShareActivity" theme="2131296263" launchMode="1">
+<activity screenOrientation="1" name="cn.sharesdk.framework.AuthorizeActivity" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.lvtech.hipal.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CommonWebView" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.SportAnalysisActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.baidumap.BaiduSportingMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.DiscovryCommonActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.GuidePage" theme="16973831" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.ValidatePhoneActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.PersonSettingActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.SearchCircleActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.SearchCircleDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.AddCircleActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.InputCirclefAdActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.InputCirclePlaceActivity">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleDetailWithMemberActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleDetailWithSysActivity">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleDetailWithNotMemberActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleDynamicActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleMemberActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleRankActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.ModifyCirclefAdActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleMessageActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.NoticeActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleDetailWithAdminActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleCommonRelease" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.ImageScanActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.ShowImageActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CirlceActivityDetails" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.ImageBrowseActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.campaign.CampaignMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.campaign.CampaignDetail" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.campaign.CampaignCountAvtivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.campaign.CampaignSendMessage" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.campaign.SearchCampaign" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.DiscoverMessageActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.campaign.CampaignEnrollActivity" configChanges="160" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleCampaignActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.PlaceActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.chat.ChatActivity" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.friend.UserDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.friend.FriendListActivity" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.friend.AddFriendActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.chat.HistoryChatActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.account.PhoneCheckActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.campaign.CampaignEnrollSelectCircle" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.campaign.CreateCircleDialog" theme="2131296266" launchMode="1">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.PrivateActivityList">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.person.PrivateActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.SportsGuideActivity1" theme="2131296271" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.SportsGuideActivity2" theme="2131296271" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.SportsGuideActivity3" theme="2131296271" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.SportsGuideActivity4" theme="2131296271" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.CreateEvent" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.CreateEventStep2" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.CreateEventStep3" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.JoinCircleSendAuditMsgActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.EventDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.DevoteRankActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.CircleUpdateActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.event.ChoiceCircleActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.AboutCircleLevel" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.sport.SportHistoryHelpActivity" launchMode="2">
+<activity screenOrientation="1" name=".modules.person.BindEquipMentActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.common.CommonWebViewResultActivity" launchMode="2">
+<activity logo="2130837897" screenOrientation="1" name="com.lvtech.hipal.modules.person.BoothListActivity" theme="2131296261" label="蓝牙列表" launchMode="2">
+<activity screenOrientation="1" name="com.lvtech.hipal.modules.circle.ModifyCircleQuestionActivity">
+7
+<service name="com.easemob.chat.EMChatService">
+<service name="com.lvtech.hipal.service.BaiduLocationService" label="baiduLocationService">
+<service icon="2130837522" name="com.lvtech.hipal.service.GPSService" label="gpsService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.lvtech.hipal.service.CircleMessageService">
+<service name="com.lvtech.hipal.service.MyCallBack">
+<service enabled="true" name="com.lvtech.hipal.service.BluetoothLeService">
+0
+0
+Owner: CN=Hipal Sports, OU="Hipal Sports Co.,Limited", O="Hipal Sports Co.,Limited", L=shenzhen, ST=Guangdong, C=CN
+Issuer: CN=Hipal Sports, OU="Hipal Sports Co.,Limited", O="Hipal Sports Co.,Limited", L=shenzhen, ST=Guangdong, C=CN
+Serial number: 522437b1
+Valid from: Mon Sep 02 15:01:05 CST 2013 until: Tue Jun 05 15:01:05 CST 2068
+Certificate fingerprints: 
+	MD5:A2:F5:43:D9:94:A5:DD:3A:08:4F:CC:BD:79:97:A1:A0
+	SHA1: 87:99:34:69:F3:30:C5:26:47:6A:B3:71:D4:1B:22:D4:09:04:59:FA
+	SHA256: 47:D7:A2:0F:C8:40:6B:5F:7E:C0:C2:D2:39:6A:C8:BD:03:3D:89:B0:99:8C:52:C8:F1:8A:1D:D2:84:EA:57:D3
+	Signature algorithm name: SHA1withRSA
+	version: 3

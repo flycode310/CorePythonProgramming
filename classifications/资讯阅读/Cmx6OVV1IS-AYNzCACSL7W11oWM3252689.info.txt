@@ -1,0 +1,44 @@
+com.ytxt.mmhatchforimg14472
+1
+1.0.0
+3
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.ACCESS_NETWORK_STATE
+15
+<activity name=".WelcomeActivity" theme="2131230722">
+<activity screenOrientation="1" name=".MainActivity" theme="2131230722" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".DescribeActivity" theme="2131230722" configChanges="160" windowSoftInputMode="2">
+<activity name=".ImageDetailActivity" theme="2131230722">
+<activity name=".CommentListActivity" theme="2131230722" windowSoftInputMode="2">
+<activity name=".AboutActivity" theme="2131230722">
+<activity name=".MoreSettingActivity" theme="2131230722">
+<activity name=".OpinionActivity" theme="2131230722" windowSoftInputMode="2">
+<activity name=".RecommendActivity" theme="2131230722" windowSoftInputMode="2">
+<activity name=".TutorialsActivity" theme="2131230722" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".StatementActivty" theme="16973830" configChanges="160">
+<activity name=".MarketActivity" theme="2131230722">
+<activity name=".AppInfoNotifyActivity" theme="2131230722">
+<activity screenOrientation="4" name=".ImageBowserActivity" theme="2131230723" configChanges="160">
+<activity screenOrientation="1" name="com.mobcent.share.android.activity.MCShareAppActivity" configChanges="160">
+1
+<service name=".NotifyService">
+0
+0
+Owner: CN=YuTian gd, OU=YTTech, O=Yutian, L=TianHe, ST=GuangZhou, C=China
+Issuer: CN=YuTian gd, OU=YTTech, O=Yutian, L=TianHe, ST=GuangZhou, C=China
+Serial number: 4c89c9c2
+Valid from: Fri Sep 10 14:01:38 CST 2010 until: Sat Jun 13 14:01:38 CST 2065
+Certificate fingerprints: 
+	MD5:58:59:DF:0F:4C:92:B3:81:4A:B5:90:96:C7:B2:DD:36
+	SHA1: BF:64:B5:84:A2:57:D2:4B:70:D2:7E:C7:DC:C9:B5:63:17:76:29:D6
+	SHA256: 70:2F:A3:FC:6C:20:6D:A9:17:3E:49:23:BF:A0:9F:86:2B:4A:23:8C:16:74:BB:34:3F:8E:1E:E8:45:46:F3:CC
+	Signature algorithm name: SHA1withRSA
+	version: 3

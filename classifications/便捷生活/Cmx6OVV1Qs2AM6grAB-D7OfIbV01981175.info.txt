@@ -1,0 +1,74 @@
+thunderLog.activity
+5
+1.4.15
+8
+-1
+16
+android.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.FLASHLIGHT
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+33
+<activity screenOrientation="1" name="thunderLog.activity.Record" label="2131099648">
+<activity screenOrientation="1" name="thunderLog.activity.Whatsnew" label="2131099648">
+<activity screenOrientation="1" name="thunderLog.activity.WhatsnewDoor" label="2131099648">
+<activity screenOrientation="1" name="thunderLog.activity.AddRecord" label="2131099648">
+<activity name="thunderLog.activity.CameraEntering" label="2131099648">
+<activity screenOrientation="1" name="thunderLog.activity.ResetPicture" label="2131099648">
+<activity screenOrientation="1" name="thunderLog.activity.About" label="2131099648">
+<activity screenOrientation="1" name="thunderLog.activity.AlarmRecordList" label="2131099648">
+<activity screenOrientation="1" name="thunderLog.activity.OffersWall" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.SaveRecord" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.ResetAlarm" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.SaveRecordAlarmSet" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.AddDetailAlarmSet" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.ResetRecord" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.UpdatePicture" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.RecordList" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.SearchRecordList" label="2131099648">
+<activity screenOrientation="1" name="thunderLog.activity.Detail" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.RecordRename" label="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="thunderLog.activity.RecordDelete" label="2131099648" windowSoftInputMode="16">
+<activity name="net.youmi.android.AdBrowser" theme="16973837" configChanges="176">
+<activity screenOrientation="1" name="thunderLog.activity.Configuration" label="2131099648">
+<activity name="thunderLog.activity.AlarmAlert" label="2131099648">
+<activity name="thunderLog.activity.Share" label="2131099648">
+<activity name="thunderLog.activity.FeedBack" label="2131099648">
+<activity name="thunderLog.activity.SinaShareShow" label="2131099648">
+<activity name="thunderLog.activity.SinaShareIncreaseShow" label="2131099648">
+<activity name="thunderLog.activity.ShareItemSuccess" label="2131099648">
+<activity name="thunderLog.activity.ShareIncreaseSuccess" label="2131099648">
+<activity name="thunderLog.activity.SendSuggestionsSuccess" label="2131099648">
+<activity name="thunderLog.activity.TecentShareShow" label="2131099648">
+<activity name="thunderLog.activity.ShareItemFailed" label="2131099648">
+<activity name="thunderLog.activity.wxapi.WXEntryActivity" exported="true" label="2131099648">
+2
+<service name="net.youmi.android.AdService" exported="false">
+<service name="thunderLog.activity.AlarmService">
+3
+<receiver name="net.youmi.android.AdReceiver">
+<receiver name="net.youmi.android.offers.OffersReceiver" exported="false">
+<receiver process=":remote" name="thunderLog.activity.AlermReceiver">
+0
+Owner: CN=Heap Technology, OU=Heap Technology, O=Heap Technology, L=ChongQing, ST=ChongQing, C=86
+Issuer: CN=Heap Technology, OU=Heap Technology, O=Heap Technology, L=ChongQing, ST=ChongQing, C=86
+Serial number: 3a363d6c
+Valid from: Mon Jun 24 11:13:49 CST 2013 until: Tue Jun 12 11:13:49 CST 2063
+Certificate fingerprints: 
+	MD5:DB:A3:37:96:FB:3A:B4:67:C4:7B:BD:AF:1C:F5:77:12
+	SHA1: C1:9C:1B:BE:65:3E:8D:67:9D:FE:C9:C3:14:DB:72:7D:C7:31:61:2C
+	SHA256: 30:C8:50:62:22:6F:55:23:FF:30:95:99:A5:FE:C2:D1:48:DB:A0:13:B4:F1:AF:CF:8D:76:BB:A8:C0:E6:1E:3F
+	Signature algorithm name: SHA256withRSA
+	version: 3

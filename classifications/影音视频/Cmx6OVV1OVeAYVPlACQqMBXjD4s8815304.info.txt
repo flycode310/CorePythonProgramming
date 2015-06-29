@@ -1,0 +1,82 @@
+cn.x4b3fb.e86acc04
+2015041419
+5.4.14
+4
+10
+22
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_MEDIA_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.DEVICE_POWER
+android.permission.CHANGE_CONFIGURATION
+18
+<activity screenOrientation="1" excludeFromRecents="true" name="com.joyradio.fm.Welcome" theme="16973831" configChanges="160" label="2131296285" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.joyradio.fm.TestProtocolActivity">
+<activity screenOrientation="1" name="com.joyradio.fm.SingleLockSreenFragment" theme="16973831" configChanges="160" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="com.joyradio.fm.SingleRecommendAppActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.joyradio.fm.alarm.SelectRadio" configChanges="160">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.joyradio.fm.NewAlbumInfoActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.joyradio.fm.ClassifyMain" configChanges="160">
+<activity finishOnTaskLaunch="true" screenOrientation="1" excludeFromRecents="true" name="com.joyradio.fm.TPlay" configChanges="160" launchMode="3">
+<activity screenOrientation="1" name="com.joyradio.fm.AnyRadio_Action" configChanges="160">
+<activity screenOrientation="1" name="com.joyradio.fm.alarm.AnyRadioClockPlay" configChanges="160">
+<activity screenOrientation="1" name="com.joyradio.fm.alarm.SetAlarm" theme="2131230728" configChanges="240" label="2131296328">
+<activity screenOrientation="1" name="com.joyradio.fm.Version_Info" configChanges="160" label="2131296360" launchMode="2">
+<activity screenOrientation="1" name="com.joyradio.fm.DebugTestActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.joyradio.fm.SingleMainActivity" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.joyradio.fm.SinglePlayActivity" launchMode="2">
+<activity screenOrientation="1" name="com.joyradio.fm.lib.BaseFragmentActivity" launchMode="2">
+<activity screenOrientation="1" name="com.joyradio.fm.lib.BaseSecondFragmentActivity" launchMode="2">
+<activity name="lyx.bmvp.jyftm.a" theme="16973835">
+8
+<service name="cn.anyradio.utils.UpdateService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="com.zong.android.engine.process.ZongServiceProcess" exported="false">
+<service process=":play" name="cn.anyradio.utils.PlayServer">
+<service name="cn.anyradio.utils.UpdateService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.joyradio.fm.LockScreenService">
+<service name="lyx.bmvp.jyftm.s">
+12
+<receiver name="com.joyradio.fm.alarm.AlarmReceiver" exported="false">
+<receiver name="com.joyradio.fm.alarm.AlarmInitReceiver">
+<receiver name="cn.anyradio.utils.WiredControler">
+<receiver name="cn.anyradio.utils.InstallReceiver">
+<receiver name="cn.anyradio.utils.AnyRadio_GetPushInfoReceiver">
+<receiver name="cn.anyradio.utils.AnyRadio_AdsReceiver">
+<receiver name="cn.anyradio.utils.AlarmPushReceiver">
+<receiver process=":remote" enabled="true" name="cn.anyradio.utils.TimerReceiver" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver name="cn.anyradio.utils.AnyRadio_UmengInfoReceiver">
+<receiver name="cn.anyradio.utils.UmengReceiver">
+<receiver name="cn.anyradio.utils.ExitReceiver">
+<receiver name="lyx.bmvp.jyftm.b">
+2
+<provider authorities="com.joyradio.fm" name="com.joyradio.fm.alarm.AlarmProvider" exported="false">
+<provider authorities="com.joyradio.fm.AnyRadioProvider" name="com.joyradio.fm.AnyRadioProvider">
+Owner: CN=www.14289319314430.com, OU=www.14289319314430.com, O=www.14289319314430.com, L=www.14289319314430.com, ST=www.14289319314430.com, C=cn
+Issuer: CN=www.14289319314430.com, OU=www.14289319314430.com, O=www.14289319314430.com, L=www.14289319314430.com, ST=www.14289319314430.com, C=cn
+Serial number: d7fa798
+Valid from: Mon Apr 13 21:32:16 CST 2015 until: Wed Oct 18 21:32:16 CST 2124
+Certificate fingerprints: 
+	MD5:6B:E1:EA:57:FD:BF:26:86:DD:C5:EE:AB:ED:6C:02:44
+	SHA1: 30:24:9A:43:5E:A7:37:6E:4E:22:E4:FE:84:9F:7F:BA:2B:A0:7C:C9
+	SHA256: 44:2D:5E:C9:EA:0F:FE:07:D4:5E:C6:89:1F:13:DC:2D:10:41:F3:7D:59:F5:7C:35:7A:13:0D:53:FA:A7:1B:7C
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,38 @@
+com.youku.beta_1_6
+4
+1.01.33.07008
+4
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INSTALL_PACKAGES
+android.permission.CAMERA
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name=".Activity_Agreement" label="2131034112">
+<activity name=".Activity_First" configChanges="160">
+<activity name=".Activity_native_ItemList" configChanges="160">
+<activity name=".Activity_Text" configChanges="160">
+<activity name=".Activity_TextList" configChanges="160">
+<activity name=".Activity_Search" configChanges="160">
+<activity name=".Activity_SMS">
+<activity name=".Activity_AboutVideo" configChanges="160">
+<activity name=".Activity_online_ListVideo" configChanges="160">
+0
+0
+0
+Owner: CN=meky, OU=youku, O=youku, L=beijing, ST=beijing, C=cn
+Issuer: CN=meky, OU=youku, O=youku, L=beijing, ST=beijing, C=cn
+Serial number: 4b8740db
+Valid from: Fri Feb 26 11:32:43 CST 2010 until: Sat Nov 29 11:32:43 CST 2064
+Certificate fingerprints: 
+	MD5:AF:67:33:17:20:E2:61:CB:85:DB:C0:60:B1:70:C4:66
+	SHA1: E0:E8:C5:42:81:5B:07:FA:A6:A5:31:56:98:C2:2D:5C:CC:DE:AA:F4
+	SHA256: 9F:32:AE:4F:07:B7:D7:D3:E7:34:F9:2F:00:EE:54:3E:B6:2D:79:63:36:7E:03:98:44:FD:BE:60:B7:FF:08:D0
+	Signature algorithm name: SHA1withRSA
+	version: 3

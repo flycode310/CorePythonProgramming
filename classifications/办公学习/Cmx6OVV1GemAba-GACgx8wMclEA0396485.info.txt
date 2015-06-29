@@ -1,0 +1,79 @@
+com.sub4.deyuxuexizus
+38996
+1.0.0
+10
+17
+22
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+21
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.check.activity.SubCheckListTemplate1Activity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.check.activity.SubCheckListTemplate2Activity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.check.activity.SubCheckListTemplate3Activity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.check.activity.SubCheckPlayControlTemplate1Activity" theme="16973830" configChanges="160">
+<activity screenOrientation="0" name="com.yibasan.subfm.Sub.check.activity.SubCheckPlayControlTemplate2Activity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.check.activity.SubCheckPlayControlTemplate3Activity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.check.activity.SubCheckPlayControlTemplate4Activity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.activities.EntryPointActivity" theme="16973840" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.yibasan.subfm.activities.SplashActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.activitis.SubMainActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.activitis.RadioInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.activitis.PlayControlActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.activitis.SubClearCacheActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.activitis.GainPointsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.activitis.SubAboutUsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.activitis.SubSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yibasan.subfm.Sub.activitis.WebViewActivity" configChanges="160">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.yibasan.subfm.activities.LockScreenActivity" theme="2131427354" taskAffinity="com.yibasan.subfm.lockscreen" launchMode="2">
+<activity screenOrientation="1" name="com.yibasan.subfm.activities.ShowAlertDialogActivity" theme="2131427353" noHistory="true">
+<activity screenOrientation="1" name="com.yibasan.subfm.activities.settings.FileExplorerActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.sub4.deyuxuexizus.wxapi.WXEntryActivity" theme="16973909" configChanges="224" exported="true" launchMode="1">
+3
+<service name="com.yibasan.subfm.boot.NotifyReceiver$NotifyService">
+<service process=":push" name="com.yibasan.subfm.boot.CoreService" exported="false">
+<service process=":player" name="com.yibasan.subfm.audioengine.MediaPlayerService">
+13
+<receiver process=":push" name="com.yibasan.subfm.boot.LZReceivers$AlarmReceiver" exported="false">
+<receiver process=":push" name="com.yibasan.subfm.boot.LZReceivers$BootReceiver" exported="false">
+<receiver process=":push" name="com.yibasan.subfm.boot.LZReceivers$ConnectionReceiver" exported="false">
+<receiver process=":ums" name="com.wbtech.ums.controller.UmsAgent" exported="false">
+<receiver process=":push" name="com.yibasan.subfm.modelstat.WatchDogPushReceiver" exported="false">
+<receiver name="com.yibasan.subfm.boot.NotifyReceiver" exported="false">
+<receiver name="com.yibasan.subfm.audioengine.PlayerStateReceiver$PlayerStateChangedReceiver" exported="false">
+<receiver name="com.yibasan.subfm.boot.StopPlayerReceiver" exported="true">
+<receiver name="com.yibasan.subfm.boot.AutoStopPlayerReceiver" exported="true">
+<receiver name="com.yibasan.subfm.audioengine.PlayerStateReceiver$NotificationReceiver" exported="false">
+<receiver name="com.yibasan.subfm.audioengine.PlayerStateReceiver$MediaButtonEventReceiver" exported="true">
+<receiver name="com.yibasan.subfm.boot.OpenLockScreenReceiver" exported="false">
+<receiver name="com.yibasan.subfm.boot.TimermingAlarmPushReceiver">
+0
+Owner: CN=subapp, OU=subapp, O=subapp, L=guangzhou, ST=guangdong, C=86
+Issuer: CN=subapp, OU=subapp, O=subapp, L=guangzhou, ST=guangdong, C=86
+Serial number: 1648d10c
+Valid from: Wed Mar 18 12:00:42 CST 2015 until: Sun Mar 11 12:00:42 CST 2040
+Certificate fingerprints: 
+	MD5:FF:18:13:BC:60:21:81:9F:73:E0:E3:5C:3A:05:33:D9
+	SHA1: 61:66:D8:FB:1C:91:40:92:1A:D0:8B:5A:38:64:70:39:9B:38:CD:AE
+	SHA256: D2:CC:FF:3A:09:8D:71:9B:B4:AB:F8:AD:3C:E3:A2:9C:D6:35:B5:EF:AF:18:23:D4:A2:25:21:12:53:18:23:68
+	Signature algorithm name: SHA256withRSA
+	version: 3

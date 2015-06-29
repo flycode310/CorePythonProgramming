@@ -1,0 +1,29 @@
+com.rd.XLTest
+1
+1.0
+8
+-1
+6
+android.permission.INSTALL_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name=".XLTestActivity" label="2130968576">
+<activity name=".ShowResume">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+0
+0
+0
+Owner: CN=rongdong, OU=无组织，个人, O=无, L=南京市鼓楼区, ST=江苏省, C=86
+Issuer: CN=rongdong, OU=无组织，个人, O=无, L=南京市鼓楼区, ST=江苏省, C=86
+Serial number: 1cbffa94
+Valid from: Sat Dec 17 21:15:31 CST 2011 until: Mon Dec 09 21:15:31 CST 2041
+Certificate fingerprints: 
+	MD5:A9:4F:F3:0C:31:B2:95:37:97:61:45:6D:2A:BE:3F:23
+	SHA1: EB:EC:6D:A7:55:6F:1C:D2:93:DF:70:A7:C1:48:8E:10:FF:02:CA:16
+	SHA256: 06:42:9D:1B:7A:76:CD:06:E9:3A:49:3D:F6:D6:81:D5:5F:77:3C:A6:55:22:56:D3:31:4F:FA:DD:F3:4D:9C:CD
+	Signature algorithm name: SHA256withRSA
+	version: 3

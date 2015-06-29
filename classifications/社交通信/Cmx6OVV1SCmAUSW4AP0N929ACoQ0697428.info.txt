@@ -1,0 +1,111 @@
+com.touch18.lmtjl.app
+100
+1.0
+8
+19
+20
+android.permission.READ_EXTERNAL_STORAGE
+com.touch18.lmtjl.app.permission.JPUSH_MESSAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+63
+<activity screenOrientation="1" name="com.touch18.demo.app.GuideActivity">
+<activity screenOrientation="1" name="com.touch18.demo.app.HomeActivity" theme="2131165197" configChanges="1152" launchMode="2">
+<activity screenOrientation="1" name="com.touch18.demo.app.ui.DemoArticleActivity">
+<activity screenOrientation="1" name="com.touch18.demo.app.ui.DemoSearchActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.touch18.demo.app.ui.DemoCommentActivity" theme="2131165265" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.touch18.demo.app.ui.DemoCommentListActivity">
+<activity screenOrientation="1" name="com.touch18.demo.app.ui.DemoSettingActivity">
+<activity screenOrientation="1" name="com.touch18.demo.app.ui.AboutActivity">
+<activity screenOrientation="1" name="com.touch18.demo.app.ui.DemoArticleCollectActivity">
+<activity screenOrientation="1" name="com.touch18.demo.app.ui.WebQQLoginActivity">
+<activity screenOrientation="1" name="com.liux.app.ArticleActivity">
+<activity screenOrientation="1" name="com.liux.app.ArticleActivity2">
+<activity screenOrientation="1" name="com.liux.app.shop.ShopMainActivity">
+<activity screenOrientation="1" name="com.liux.app.shop.ShopDetailActivity">
+<activity screenOrientation="1" name="com.liux.app.shop.ShopOrdersActivity">
+<activity screenOrientation="1" name="com.liux.app.shop.ShopUserAddressActivity">
+<activity screenOrientation="1" name="uk.co.senab.photoview.ImagePagerActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.BbsActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ForumListActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ForumPublishActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ForumInfoActivity" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ForumInfoActivity2" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.CommentActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.AlbumListActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.chat.InputActivity" theme="16973839" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.GalleryActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.SearchActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.ForumLoginActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ReplayActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UserInfoActiviy">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.EditUserInfoActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.MessageActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.MsgPrivateDetailActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UserArticlesActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UserCommentArticlesActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UserForumActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UpdateMimaActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UpdateMobileActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.RegisterActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.CenterWebCenterActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.libao.LiBaoInfoActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.libao.LiBaoActivity" theme="2131165197">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ForumCommentActivity" theme="16973839" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.AboutActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ArticleActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ImageActivity">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.FriendWebActivity">
+<activity screenOrientation="1" name="com.liux.app.LiBaoActivity">
+<activity screenOrientation="1" name="com.liux.app.center.CenterWebCenterActivity">
+<activity screenOrientation="0" name="com.yingpeng.heartstoneyp.activity.PlayerActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.umeng.socialize.view.ShareActivity" theme="2131165214" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="com.tencent.weibo.webview.OAuthV1AuthorizeWebView" label="2131099667">
+<activity screenOrientation="1" name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.umeng.fb.ConversationActivity">
+<activity screenOrientation="1" name="com.umeng.fb.ContactActivity">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity screenOrientation="1" name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+4
+<service name="org.openudid.OpenUDID_service">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+4
+<receiver name="com.liux.app.receiver.DownloadCompleteReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.liux.app.receiver.MyReceiver">
+0
+Owner: CN=18touch, OU=18touch.com, O=18touch.com, L=Shenzhen, ST=Guangdong, C=CN
+Issuer: CN=18touch, OU=18touch.com, O=18touch.com, L=Shenzhen, ST=Guangdong, C=CN
+Serial number: 516ba148
+Valid from: Mon Apr 15 14:42:16 CST 2013 until: Fri Apr 09 14:42:16 CST 2038
+Certificate fingerprints: 
+	MD5:05:53:29:44:7B:5C:00:3F:DD:51:8E:B1:14:EB:15:E1
+	SHA1: 46:30:C8:DE:78:50:6F:13:45:D9:5B:84:EA:8D:57:FB:19:B1:1D:22
+	SHA256: 3F:00:09:BF:89:03:E5:1F:E8:97:F4:C4:8E:1B:0B:DF:DA:34:31:80:5A:F5:95:FD:A1:7F:33:A4:8E:9A:19:4B
+	Signature algorithm name: SHA1withRSA
+	version: 3

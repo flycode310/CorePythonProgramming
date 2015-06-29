@@ -1,0 +1,66 @@
+com.okhqb.manhattan
+5
+1.1.2
+14
+20
+11
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.GET_TASKS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+android.permission.MODIFY_AUDIO_SETTINGS
+35
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.SplashActivity" label="华强北商城">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.AccountActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.IndexActivity" launchMode="2">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.RegisterActivity" launchMode="1">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.item.ItemDescriptionActivity">
+<activity screenOrientation="1" name="com.alipay.sdk.app.H5PayActivity" exported="false">
+<activity screenOrientation="1" name="com.alipay.sdk.auth.AuthActivity" exported="false">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.item.GalleryUrlActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.item.ItemFragmentActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.LoginActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.ForgetPasswordActivity" launchMode="1">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.RegisterContextActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.AccountSettingActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.AddressManageActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.FeedbackActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.ConfirmActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.item.PropActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.CartActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.AllOrderListActivity" label="2131427490">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.WaitToPayActivity" label="2131427509">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.NetworkFailActivity" launchMode="3">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.PayResultActivity">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.OrderDetailActivity" label="2131427503">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.AddAddressActivity" label="2131427488">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.GiftCardActivity" label="2131427497">
+<activity screenOrientation="1" name="com.okhqb.manhattan.ui.my.AboutUsAcitivity">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity name="com.okhqb.manhattan.ui.item.ItemViewPagerActivity" label="2131427502">
+<activity name="com.okhqb.manhattan.ui.item.RateActivity" label="2131427505">
+<activity name="com.okhqb.manhattan.ui.my.BindMobileActivity" label="2131427491">
+<activity name="com.okhqb.manhattan.ui.my.FeeActivity" label="2131427494">
+<activity screenOrientation="1" name="com.okhqb.manhattan.wxapi.WXEntryActivity" theme="16973909" exported="true" label="2131427356">
+<activity name="com.okhqb.manhattan.ui.my.GiftCardHelpActivity" label="2131427498">
+0
+0
+0
+Owner: CN=WangLaoBao, OU=深圳市华强北在线商务有限公司, O=华强北在线, L=深圳市, ST=广东省, C=86
+Issuer: CN=WangLaoBao, OU=深圳市华强北在线商务有限公司, O=华强北在线, L=深圳市, ST=广东省, C=86
+Serial number: 545ad761
+Valid from: Thu Nov 06 10:05:21 CST 2014 until: Mon Oct 31 10:05:21 CST 2039
+Certificate fingerprints: 
+	MD5:9F:D8:62:C7:ED:78:92:1B:20:C0:2A:3B:1B:DF:9B:2B
+	SHA1: 41:2B:9B:66:4F:CD:73:71:CA:96:71:E9:1B:FD:D5:A0:A3:80:32:52
+	SHA256: E0:8E:F8:88:F6:9E:E6:F5:97:46:67:89:33:21:11:9C:F0:97:D6:10:08:4C:AA:39:F5:3F:C7:4F:32:62:9C:DE
+	Signature algorithm name: SHA1withRSA
+	version: 3

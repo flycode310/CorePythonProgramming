@@ -1,0 +1,32 @@
+me.rgmipk.jrhmjv.kspsvjopjpti
+128
+1.28
+8
+8
+9
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+1
+<activity icon="2130837504" screenOrientation="1" name=".j" theme="16973830" label="2130903040">
+1
+<service name=".n" exported="false">
+1
+<receiver enabled="true" name=".t" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+0
+Owner: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Issuer: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Serial number: 49d1fa3c
+Valid from: Tue May 05 16:50:49 CST 2015 until: Sat May 17 16:50:49 CST 2234
+Certificate fingerprints: 
+	MD5:DC:A1:D8:AE:13:8A:A3:E1:8A:03:7D:FE:9F:71:36:0C
+	SHA1: B6:73:10:DD:5E:54:76:4A:7F:B8:D6:02:89:49:C7:64:E2:14:72:BE
+	SHA256: 75:71:BD:0A:E8:C8:F1:73:09:06:6B:FA:C4:46:3B:D7:1B:D4:66:2B:48:FD:4B:1A:09:97:A0:BD:4A:AB:01:76
+	Signature algorithm name: SHA256withRSA
+	version: 3

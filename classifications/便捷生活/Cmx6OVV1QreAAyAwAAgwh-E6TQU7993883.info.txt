@@ -1,0 +1,39 @@
+com.birthay
+3575
+3.5.7.5
+4
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_CALENDAR
+android.permission.READ_CALENDAR
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.DELETE_CALENDAR
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+10
+<activity name=".BirthdayView" label="2131165185">
+<activity name="AddDayView">
+<activity name="AboutView">
+<activity name="UpdateDayView">
+<activity name="BakView">
+<activity name="RegisterView">
+<activity name="LoginView">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="com.mobclick.android.UmengFeedback">
+<activity name="com.mt.airad.MultiAD" theme="16973840" configChanges="176">
+0
+0
+0
+Owner: CN=tilents, OU=tilents, O=tilents, L=china, ST=shenzhen, C=CH
+Issuer: CN=tilents, OU=tilents, O=tilents, L=china, ST=shenzhen, C=CH
+Serial number: 4d908b17
+Valid from: Mon Mar 28 21:20:23 CST 2011 until: Fri Aug 13 21:20:23 CST 2038
+Certificate fingerprints: 
+	MD5:86:11:49:DD:7D:76:01:54:D3:7E:98:4B:24:F9:47:A7
+	SHA1: F9:71:2E:C1:29:1D:25:2F:42:71:8F:9E:39:72:6E:DF:CE:80:78:97
+	SHA256: FA:51:76:13:35:86:BC:F0:D8:AD:97:04:44:6F:88:88:70:EC:4F:B8:68:EB:C8:7A:96:4A:AA:77:70:33:3A:6F
+	Signature algorithm name: SHA1withRSA
+	version: 3

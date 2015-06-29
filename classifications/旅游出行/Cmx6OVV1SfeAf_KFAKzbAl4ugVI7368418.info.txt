@@ -1,0 +1,103 @@
+com.agoda.mobile.consumer
+82
+2.14.5
+8
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+67
+<activity screenOrientation="1" name=".SplashActivity" theme="16973830" configChanges="164">
+<activity screenOrientation="1" name=".NewSearchActivity" theme="16973830" configChanges="164">
+<activity name=".NewOptionActivity" theme="2131361795" configChanges="164">
+<activity name=".NewSearchResultFragmentActivity" theme="16973830" configChanges="164">
+<activity name="SearchResultAmapActivity" configChanges="164" label="2131296492">
+<activity name="CurrencyActivity" configChanges="164" label="2131296376">
+<activity screenOrientation="1" name=".AboutActivity" configChanges="164" label="2131296285">
+<activity name=".PlaceTabActivity" configChanges="164" label="2131296498">
+<activity name=".PlaceSearchActivity" configChanges="164">
+<activity name=".PlaceNearActivity" configChanges="164">
+<activity name=".FilterListActivity" theme="16973830" configChanges="164" label="2131296397" windowSoftInputMode="32">
+<activity name=".NewAreaFilterActivity" theme="2131361794" configChanges="164" label="2131296395">
+<activity name=".StarFilterActivity" theme="2131361794" configChanges="164">
+<activity name=".NewFacilityFilterActivity" theme="2131361794" configChanges="164" label="2131296396">
+<activity name=".NewDistanceFilterActivity" theme="2131361794" configChanges="164">
+<activity name=".HotelDetailActivity" configChanges="164" label="2131296449">
+<activity name="EditSearchCriteriaActivity" configChanges="164" label="2131296433">
+<activity name=".HotelPhotoActivity" configChanges="164" label="2131296450">
+<activity name=".ReviewActivity" configChanges="164" label="2131296505">
+<activity name=".ReviewDetailAcivity" configChanges="164" label="2131296509">
+<activity name=".HotelAmapActivity" configChanges="164" label="2131296453">
+<activity name=".RoomDetailActivity" configChanges="164" label="2131296533">
+<activity name=".HotelFacilityActivity" configChanges="164" label="2131296389">
+<activity name=".HotelDescriptionActivity" configChanges="164" label="2131296435">
+<activity name=".HotelPolicyActivity" configChanges="164" label="2131296719">
+<activity name=".HotelImportantNoticeActivity" configChanges="164" label="2131296739">
+<activity name=".HotelInfoActivity" configChanges="164" label="2131296478">
+<activity name="BookingDetailActivity" configChanges="164" label="2131296317" windowSoftInputMode="2">
+<activity name="ExtendedGuestDetailActivity" configChanges="164" label="2131296388" windowSoftInputMode="2">
+<activity name="GuestDetailActivity" configChanges="164" label="2131296426" windowSoftInputMode="2">
+<activity name="GuestSetupActivity" configChanges="164" label="2131296421" windowSoftInputMode="2">
+<activity name="CountryActivity" configChanges="164" label="2131296557">
+<activity name="SpecialRequestActivity" configChanges="164" label="2131296559">
+<activity name="BillingDetailActivity" configChanges="164" label="2131296311">
+<activity name="BookingConfirmationActivity" configChanges="164" label="2131296316">
+<activity name="RewardMemberActivity" configChanges="164" label="2131296570">
+<activity name="RewardPasswordActivity" configChanges="164" label="2131296570">
+<activity name="RewardMemberPointActivity" configChanges="164" label="2131296570">
+<activity name="TermConditionActivity" configChanges="164" label="2131296524">
+<activity name="RedeemsOptionActivity" configChanges="164" label="2131296571">
+<activity name="MemberBookingActivity" theme="16973830" configChanges="164" label="2131296611">
+<activity screenOrientation="1" name="MemberBookingInfoActivity" configChanges="164" label="2131296637">
+<activity name="EmailMemberVoucherActivity" configChanges="164" label="2131296632">
+<activity name="BookingCancellationActivity" configChanges="164" label="2131296638">
+<activity name="ServiceAgentActivity" configChanges="164" label="2131296638">
+<activity name="BookingCancellationReasonActivity" configChanges="164" label="2131296628">
+<activity name="BookingVoucherActivity" configChanges="164" label="2131296637">
+<activity screenOrientation="1" name=".PDFRenderActivity" configChanges="164" label="2131296637">
+<activity name=".LanguageActivity" configChanges="164" label="2131296663">
+<activity name=".MapSelectionActivity" configChanges="164" label="2131296492">
+<activity name=".NewPriceFilterActivity" theme="2131361794" configChanges="164" label="2131296674">
+<activity name=".UnitConversionActivity" configChanges="164" label="2131296664">
+<activity name=".TOUActivity" configChanges="164" label="2131296710">
+<activity name=".AgodaPolicyActivity" configChanges="164" label="2131296709">
+<activity screenOrientation="1" name=".FacebookHandlerActivity" theme="2131361794" configChanges="164">
+<activity screenOrientation="1" name=".AddressBookActivity" configChanges="164" label="2131296421">
+<activity screenOrientation="1" name=".PayPalWebviewActivity" configChanges="164" label="2131296744">
+<activity name=".ContextualHelpActivity" theme="16973839" configChanges="164">
+<activity name=".PaymentMetodActivity" theme="16973835" label="2131296558">
+<activity name=".CustomersLikeActivity" theme="16973839" configChanges="164" label="2131296449">
+<activity name=".PMCSplashViewActivity" theme="16973835">
+<activity name=".PromoCodeActivity" configChanges="164" label="2131296793">
+<activity name=".PMCTermsOfUseActivity" configChanges="164" label="2131296792">
+<activity name=".OfflineVoucherActivity" configChanges="164" label="2131296637">
+<activity name=".OfflineModeDialogActivity" theme="16973835" configChanges="164">
+<activity name=".WhiteboardActivity" theme="16973835" configChanges="164">
+<activity screenOrientation="1" name=".AlipayWebViewActivity" configChanges="164" label="2131296744">
+3
+<service name=".GCMIntentService">
+<service name="com.google.analytics.tracking.android.CampaignTrackingService">
+<service name=".SearchResultControlService" exported="false">
+4
+<receiver name=".core.ReferralsReceiver" exported="true">
+<receiver name=".core.SamsungWalletHandler" exported="true">
+<receiver name="com.google.android.gcm.GCMBroadcastReceiver" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="com.google.analytics.tracking.android.CampaignTrackingReceiver" exported="true">
+0
+Owner: CN=agoda service, OU=mobile, O=agoda, L=bangkok, ST=bangkok, C=TH
+Issuer: CN=agoda service, OU=mobile, O=agoda, L=bangkok, ST=bangkok, C=TH
+Serial number: 4e13e584
+Valid from: Wed Jul 06 12:33:08 CST 2011 until: Sun Nov 21 12:33:08 CST 2038
+Certificate fingerprints: 
+	MD5:4A:8F:85:AB:05:83:F7:FE:4D:F7:35:DD:9B:9F:7A:C4
+	SHA1: 44:38:57:BE:6E:AA:DF:59:DD:FF:58:A3:39:8E:BC:A4:E7:C8:23:7D
+	SHA256: 95:77:55:B4:AD:AD:A7:34:E6:BC:FB:0E:EA:1A:07:9F:54:4E:6F:8E:F2:87:A2:4A:F8:39:21:2F:10:13:8E:1C
+	Signature algorithm name: SHA1withRSA
+	version: 3

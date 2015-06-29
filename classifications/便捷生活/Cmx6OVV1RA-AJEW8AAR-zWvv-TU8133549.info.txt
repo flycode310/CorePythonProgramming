@@ -1,0 +1,32 @@
+loongmobile.WeatherForecast
+1
+1.1
+3
+-1
+4
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+4
+<activity name=".InfoActivity" label="2131165199">
+<activity excludeFromRecents="true" name=".DetailsActivity" label="2131165196">
+<activity name=".ConfigureActivity" label="2131165197" windowSoftInputMode="2" launchMode="1">
+<activity name=".WidgetUpgradeActivity" theme="16973835" label="2131165198" launchMode="1">
+1
+<service name=".UpdateService">
+2
+<receiver name=".MedAppWidget" label="2131165200">
+<receiver name=".TinyAppWidget" label="2131165201">
+1
+<provider authorities="loongmobile.WeatherForecast" name="ForecastProvider">
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4bac5f0b
+Valid from: Fri Mar 26 15:15:23 CST 2010 until: Sat Mar 26 15:15:23 CST 2011
+Certificate fingerprints: 
+	MD5:97:9E:3A:7E:2F:A6:D7:13:62:9E:32:0A:C8:1A:71:67
+	SHA1: 49:62:A8:E3:A5:28:34:8C:2A:B0:7E:9B:7D:EA:6A:43:2D:4E:E5:DA
+	SHA256: 85:7A:B6:40:CD:9A:18:52:C0:42:D0:4C:81:30:DF:B1:3A:F0:A8:95:B1:AE:48:C6:51:BD:04:0A:43:9B:4F:00
+	Signature algorithm name: SHA1withRSA
+	version: 3

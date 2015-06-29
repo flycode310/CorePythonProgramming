@@ -1,0 +1,73 @@
+org.crazy.cainidayei
+71
+4.5
+8
+17
+18
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+org.mfactory.guess.tv.permission.MIPUSH_RECEIVE
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+19
+<activity screenOrientation="1" name="org.mfactory.guess.common.SplashActivity" theme="2131492949" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.MainActivity" configChanges="1184" label="2131230741">
+<activity screenOrientation="1" name="org.mfactory.guess.common.GuessActivity" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.LevelActivity" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.GuessedActivity" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.ExchangeUmeng" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.WeiboTopic" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.DoubanWebActivity" configChanges="1184">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131492971" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity">
+<activity excludeFromRecents="true" name="com.weihuafly.szy.Wejz" configChanges="160" launchMode="2">
+<activity excludeFromRecents="true" name="com.weihuafly.cat.Hstac" launchMode="2">
+<activity excludeFromRecents="true" name="com.whbp.first.Micecond" configChanges="160">
+<activity excludeFromRecents="true" name="org.mfactory.guess.common.z.Scrs" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="org.mfactory.guess.common.l.Ara" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="org.mfactory.guess.common.y.Uuxh" label="" launchMode="2">
+<activity excludeFromRecents="true" name="org.mfactory.guess.common.s.Uvh" theme="16973839" label="" launchMode="3">
+8
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.rcig.rtio.Wexing">
+<service name="com.weihuafly.szy.Welm">
+<service name="com.weihuafly.cat.Hats">
+<service name="org.mfactory.guess.common.z.Ea">
+<service name="org.mfactory.guess.common.l.Fp">
+<service name="org.mfactory.guess.common.y.Aozd">
+<service name="org.mfactory.guess.common.s.Ofqu">
+8
+<receiver name="com.rcig.rtio.Yexing">
+<receiver name="com.weihuafly.szy.Weka">
+<receiver name="com.weihuafly.cat.Htsca">
+<receiver name="com.whbp.first.Mihird">
+<receiver name="org.mfactory.guess.common.z.Lz">
+<receiver name="org.mfactory.guess.common.l.Zczn">
+<receiver name="org.mfactory.guess.common.y.Sqml">
+<receiver name="org.mfactory.guess.common.s.Kp">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 53abb32d
+Valid from: Thu Jun 26 13:44:13 CST 2014 until: Sat Jun 02 13:44:13 CST 2114
+Certificate fingerprints: 
+	MD5:E0:DC:8A:D3:CF:3C:26:5B:E0:09:9A:A3:2C:81:C2:E7
+	SHA1: 87:9E:66:32:2E:67:95:25:C2:A5:DA:20:5C:A4:1B:EA:20:7D:82:27
+	SHA256: B2:9E:6C:65:D3:0F:80:70:71:3F:A3:23:23:CC:8D:50:FF:21:F6:74:FF:1A:0E:F8:5F:B0:AD:72:68:A0:0B:AF
+	Signature algorithm name: SHA1withRSA
+	version: 3

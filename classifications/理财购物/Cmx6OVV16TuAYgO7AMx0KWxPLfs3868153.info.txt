@@ -1,0 +1,150 @@
+com.activity.csbank
+5
+1.0.4
+10
+-1
+21
+android.permission.NFC
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+108
+<activity name="com.yitong.jybank.activity.Splash" label="2131296447">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.MBankAccount" label="2131296447" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.MBankWeb" label="2131296447" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yitong.jybank.YTActivity" label="2131296447">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.SettingActivity">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.SlideActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.WelcomeActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.ResetPwdActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yitong.jybank.EmptyActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yitong.csbank.noticeinfo.NoticeInfoActivity" label="2131296447" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.yitong.csbank.noticeinfo.NoticeDetail" label="2131296447" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.contact.ContactusActivity" label="2131296447" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.node.NodeBaseActivity" theme="16973837" label="2131296637">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.node.NodeListActivity" theme="16973837" label="2131296632">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.node.NodeSearchActivity" theme="16973837" label="2131296633">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.node.NodeSearchListActivity" theme="16973837" label="2131296633">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.node.NodeListMapViewActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.merchant.MerchantBaseActivity" theme="16973837" label="2131296467">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.merchant.MerchantNearbyActivity" theme="16973837" label="2131296612">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.merchant.MerchantNearbyListActivity" theme="16973837" label="2131296612">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.merchant.MerchantNearbyDetailActivity" theme="16973833" label="2131296612">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.merchant.MerchantSearchActivity" theme="16973837" label="2131296613">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.merchant.MerchantSearchListActivity" theme="16973837" label="2131296613">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.node.SalesInfoListActivity" theme="16973837" label="2131296694">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.node.SalesInfoDetailActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.financeassistant.AssistantMenuActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.financeassistant.AssistantGeRenDaiKuanActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.financeassistant.CallDepositActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.financeassistant.CurrentDepositActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.financeassistant.LoadHouseActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.financeassistant.LoadRateListActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.financeassistant.LoadRepayDetailListActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.financeassistant.SaveScatteredActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.financeassistant.SaveWholeActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.charge.ChargeStandardView" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.charge.ChargeStandardMenu2Activity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.charge.ChargeDetailView" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.finance.MBankFinaceMarket" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.finance.FinanceLoanRateActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.finance.FinanceSaveRateActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.finance.MBankForeignActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.finance.MBankFundActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.finance.MBankFundQueryResultActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.SafeActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.NewerActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.SPDBMapView">
+<activity screenOrientation="1" name="com.yitong.csbank.activity.EPurseActivity" theme="16973837" launchMode="1">
+<activity screenOrientation="1" name="com.yitong.csbank.activity.EPurseLoadActivity" theme="16973837" launchMode="1">
+<activity screenOrientation="1" name="com.yitong.activity.MainActivity" label="2131296270">
+<activity screenOrientation="1" name="com.yitong.login.activity.LoginSuccessActivity" theme="16973837" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.calendar.demo.MainActivity" theme="16973908" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yitong.activity.AirActivity">
+<activity screenOrientation="1" name="com.yitong.activity.LotteryOrder">
+<activity screenOrientation="1" name="com.yitong.activity.CitiesActivity" label="2131296289">
+<activity screenOrientation="1" name="com.yitong.book.activity.BookActivity">
+<activity screenOrientation="1" name="com.yitong.flightSearch.activity.FlightListActivity" label="2131296317">
+<activity screenOrientation="1" name="com.yitong.flightSearch.activity.FlightReturnActivity" label="2131296318">
+<activity screenOrientation="1" name="com.yitong.book.activity.AddPersonActivity" label="2131296326">
+<activity screenOrientation="1" name="com.yitong.book.activity.FlightDetail">
+<activity screenOrientation="1" name="com.yitong.book.activity.PassengerActivity">
+<activity screenOrientation="1" name="com.yitong.jybank.LoginActivity" label="登录">
+<activity screenOrientation="1" name="com.yitong.book.activity.ContactActivity">
+<activity screenOrientation="1" name="com.yitong.activity.AirorderActivity">
+<activity screenOrientation="1" name="com.yitong.activity.OrderReadActivity">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.PayActivity" label="2131296367">
+<activity screenOrientation="1" name="com.yitong.book.activity.DeliveryActivity" label="2131296381">
+<activity screenOrientation="1" name="com.yitong.book.activity.AddDeliverActivity" label="2131296382">
+<activity screenOrientation="1" name="com.yitong.hotel.index.HotelCitiesActivity">
+<activity screenOrientation="1" name="com.yitong.hotel.index.HotelIndexActivity">
+<activity screenOrientation="1" name="com.yitong.book.activity.CityName">
+<activity screenOrientation="1" name="com.yitong.hotel.hotelSearch.activity.DetailActivity">
+<activity screenOrientation="1" name="com.yitong.hotel.hotelSearch.activity.HotelDetailActivity">
+<activity screenOrientation="1" name="com.yitong.hotel.hotelSearch.activity.HotelListActivity">
+<activity screenOrientation="1" name="com.yitong.hotel.book.activity.BookActivity">
+<activity screenOrientation="1" name="com.yitong.hotel.book.activity.MdfOrderInfoActivity">
+<activity screenOrientation="1" name="com.yitong.hotel.book.activity.BookSuccessActivity">
+<activity screenOrientation="1" name="com.yitong.hotel.order.activity.HotelOrderViewActivity">
+<activity screenOrientation="1" name="com.yitong.activity.HotelOrderActivity">
+<activity screenOrientation="1" name="com.yitong.jybank.ContactUs">
+<activity screenOrientation="1" name="com.yitong.activity.CompanyName" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.LotteryTicket" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.TicketActivity" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.LotteryinformationActivity" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.ColorBallLotteryinformation" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.Fifteen_selected_fiveLotteryinformation" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.LottoLotteryinformation" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.Seven_lotteryLotteryinformation" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.HandSelectActivity" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.SelectBallActivity" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.Lottery" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.SelectLottery" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.FormActivity" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.activity.GetlotteryForm" label="2131296414">
+<activity screenOrientation="1" name="com.yitong.mobile.activity.IponeOrderActivity" label="2131296416">
+<activity screenOrientation="1" name="com.yitong.activity.LotteryOrderDetail" label="2131296417">
+<activity screenOrientation="1" name="com.yitong.mobile.activity.MobilePay">
+<activity screenOrientation="1" name="com.yitong.mobile.activity.MobilePayDetails">
+<activity screenOrientation="1" name="com.yitong.mobile.activity.RechargeInfo">
+<activity screenOrientation="1" name="com.yitong.mobile.activity.SysContact">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.CashActivity" label="2131296438">
+<activity screenOrientation="1" name="com.yitong.ticket.activity.LotteryTransActivity">
+<activity screenOrientation="1" name="com.yitong.jybank.SkinInfoActivity">
+<activity screenOrientation="1" name="com.yitong.jybank.SkinChangeActivity">
+<activity screenOrientation="1" name="com.polyvi.activity.LaunchActivity" theme="16973830" configChanges="160" label="2131296447" launchMode="1">
+<activity screenOrientation="0" name="com.polyvi.scaner.CaptureActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.node.NodeGroupActiviy" theme="16973837" label="2131296637">
+<activity screenOrientation="1" name="com.yitong.jybank.activity.merchant.MerchantGroup" theme="16973837" label="2131296637">
+<activity screenOrientation="1" name="com.yitong.jybank.MapViewActivity" theme="16973837" label="地图">
+1
+<service enabled="true" name="com.polyvi.push.NotificationService" label="NotificationService">
+0
+0
+Owner: CN=csns, OU=bank, O=bank, L=changshu, ST=jiangsu, C=3055
+Issuer: CN=csns, OU=bank, O=bank, L=changshu, ST=jiangsu, C=3055
+Serial number: 52b2a854
+Valid from: Thu Dec 19 16:03:32 CST 2013 until: Sat Nov 25 16:03:32 CST 2113
+Certificate fingerprints: 
+	MD5:E3:57:66:93:F3:3B:64:1D:2D:4F:B6:88:8D:C0:39:AB
+	SHA1: E4:84:2D:D8:C1:20:B0:8E:DE:5F:31:A0:94:08:A0:E8:FB:2A:C5:E0
+	SHA256: 75:3F:72:6D:84:18:24:37:DC:F3:7F:5E:B9:9C:E3:20:35:5F:84:68:0F:EC:0A:D3:B6:F1:8F:58:1F:3F:3B:4F
+	Signature algorithm name: SHA1withRSA
+	version: 3

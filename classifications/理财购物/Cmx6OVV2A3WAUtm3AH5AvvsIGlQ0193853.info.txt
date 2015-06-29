@@ -1,0 +1,266 @@
+com.tencent.portfolio
+81
+4.0.1
+14
+19
+109
+com.ty.launcher.permission.WRITE_SETTINGS
+com.aspire.mm.permission.WRITE_SETTINGS
+android.permission.READ_PHONE_STATE
+org.adw.launcher.permission.INSTALL_SHORTCUT
+com.sec.android.app.twlauncher.WRITE_SETTINGS
+com.ty.launcher.permission.INSTALL_SHORTCUT
+org.adwfreak.launcher.permission.UNINSTALL_SHORTCUT
+org.adw.launcher.permission.UNINSTALL_SHORTCUT
+com.huawei.launcher3.permission.INSTALL_SHORTCUT
+com.oppo.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+com.sec.android.app.twlauncher.INSTALL_SHORTCUT
+com.oppo.launcher.permission.UNINSTALL_SHORTCUT
+com.huawei.launcher2.permission.READ_SETTINGS
+com.motorola.dock.DesktopDock.permission.UNINSTALL_SHORTCUT
+com.aspire.mm.permission.INSTALL_SHORTCUT
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+com.thunderst.launcher.permission.WRITE_SETTINGS
+com.huawei.launcher2.permission.WRITE_SETTINGS
+com.sonyericsson.homescreen.permission.UNINSTALL_SHORTCUT
+com.huawei.launcher2.permission.UNINSTALL_SHORTCUT
+com.fede.launcher.permission.UNINSTALL_SHORTCUT
+com.gau.go.launcherex.permission.INSTALL_SHORTCUT
+com.fede.launcher.permission.READ_SETTINGS
+com.sonyericsson.homescreen.permission.WRITE_SETTINGS
+com.lge.launcher.permission.WRITE_SETTINGS
+mobi.SyndicateApps.ICS.launcher.permission.READ_SETTINGS
+com.ty.launcher.permission.UNINSTALL_SHORTCUT
+com.tencent.portfolio.permission.APP_GO_FOREGROUND_BROADCAST
+com.sec.android.app.twlauncher.READ_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+com.huawei.launcher3.permission.READ_SETTINGS
+com.motorola.dock.DesktopDock.permission.WRITE_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.tencent.portfolio.permission.USERINFO_RECEIVER
+com.oppo.launcher.permission.INSTALL_SHORTCUT
+com.gau.go.launcherex.permission.UNINSTALL_SHORTCUT
+com.huawei.launcher3.permission.WRITE_SETTINGS
+com.ty.launcher.permission.READ_SETTINGS
+com.gau.go.launcherex.permission.READ_SETTINGS
+com.htc.launcher.permission.UNINSTALL_SHORTCUT
+com.baiqi.weather.permission.INSTALL_SHORTCUT
+mobi.SyndicateApps.ICS.launcher.permission.WRITE_SETTINGS
+android.permission.BATTERY_STATS
+com.mediatek.launcherplus.permission.INSTALL_SHORTCUT
+com.sonyericsson.homescreen.permission.INSTALL_SHORTCUT
+com.mediatek.launcherplus.permission.WRITE_SETTINGS
+com.htc.launcher.permission.INSTALL_SHORTCUT
+com.tencent.portfolio.permission.WIDGET_RECEIVER
+com.baiqi.weather.permission.READ_SETTINGS
+android.permission.READ_SETTINGS
+com.motorola.dlauncher.permission.UNINSTALL_SHORTCUT
+com.mediatek.launcherplus.permission.READ_SETTINGS
+com.qihoo360.launcher.permission.INSTALL_SHORTCUT
+com.oppo.launcher.permission.WRITE_SETTINGS
+com.lge.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_LOGS
+com.motorola.dlauncher.permission.READ_SETTINGS
+com.tencent.portfolio.permission.BROADCAST_RECEIVER
+org.adwfreak.launcher.permission.READ_SETTINGS
+android.permission.RESTART_PACKAGES
+com.aspire.mm.permission.UNINSTALL_SHORTCUT
+android.permission.RECEIVE_BOOT_COMPLETED
+mobi.SyndicateApps.ICS.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.WAKE_LOCK
+com.motorola.dlauncher.permission.WRITE_SETTINGS
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.fede.launcher.permission.WRITE_SETTINGS
+com.baiqi.weather.permission.WRITE_SETTINGS
+com.gau.go.launcherex.permission.WRITE_SETTINGS
+com.huawei.launcher2.permission.INSTALL_SHORTCUT
+com.sec.android.app.twlauncher.UNINSTALL_SHORTCUT
+com.motorola.mmsp.motoswitch.permission.INSTALL_SHORTCUT
+com.thunderst.launcher.permission.READ_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+com.motorola.mmsp.motoswitch.permission.READ_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+com.qihoo360.launcher.permission.READ_SETTINGS
+com.fede.launcher.permission.INSTALL_SHORTCUT
+com.mediatek.launcherplus.permission.UNINSTALL_SHORTCUT
+org.adw.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.READ_SETTINGS
+com.sonyericsson.homescreen.permission.READ_SETTINGS
+org.adwfreak.launcher.permission.INSTALL_SHORTCUT
+com.android.launcher.permission.WRITE_SETTINGS
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.thunderst.launcher.permission.INSTALL_SHORTCUT
+com.motorola.dlauncher.permission.INSTALL_SHORTCUT
+com.htc.launcher.permission.WRITE_SETTINGS
+com.motorola.dock.DesktopDock.permission.READ_SETTINGS
+com.thunderst.launcher.permission.UNINSTALL_SHORTCUT
+com.huawei.launcher3.permission.UNINSTALL_SHORTCUT
+org.adwfreak.launcher.permission.WRITE_SETTINGS
+com.lge.launcher.permission.READ_SETTINGS
+mobi.SyndicateApps.ICS.launcher.permission.INSTALL_SHORTCUT
+com.qihoo360.launcher.permission.WRITE_SETTINGS
+com.qihoo360.launcher.permission.UNINSTALL_SHORTCUT
+com.tencent.portfolio.permission.TRANSACTION_BROADCAST_PERMISSION
+com.motorola.mmsp.motoswitch.permission.WRITE_SETTINGS
+com.aspire.mm.permission.READ_SETTINGS
+org.adw.launcher.permission.WRITE_SETTINGS
+com.motorola.mmsp.motoswitch.permission.UNINSTALL_SHORTCUT
+com.motorola.dock.DesktopDock.permission.INSTALL_SHORTCUT
+com.htc.launcher.permission.READ_SETTINGS
+com.baiqi.weather.permission.UNINSTALL_SHORTCUT
+android.permission.VIBRATE
+com.lge.launcher.permission.UNINSTALL_SHORTCUT
+125
+<activity screenOrientation="1" name="com.tencent.portfolio.CSplashActivity" label="2131230720">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.tencent.portfolio.QQStockActivity" configChanges="160" label="2131230720" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.mygroups.MyGroupEditActivity" exported="false" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.mygroups.MyGroupAddOrRenameActivity" theme="2131296266" exported="false" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.mygroups.MyGroupChooseActivity" theme="2131296266" exported="false" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.mygroups.MyStockEditActivity" exported="false" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.mystocks.StockEditActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.mystocks.GroupEditActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.mystocks.RenameOrNewGroupActivity" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.tencent.portfolio.CPreShowGuideActivity" label="2131230720">
+<activity screenOrientation="1" name="com.tencent.portfolio.news.CColumnsEditActivity" configChanges="160" label="2131230720">
+<activity screenOrientation="1" name="com.tencent.portfolio.news.CNewsColumnActivity" configChanges="160" label="2131230720">
+<activity screenOrientation="1" name="com.tencent.portfolio.WelcomeGuideActivity" configChanges="160" label="2131230720">
+<activity screenOrientation="1" name="com.tencent.portfolio.searchbox.SearchBoxActivity" configChanges="160" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.searchbox2.SearchBoxActivity" configChanges="160" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.searchbox3.SearchBoxActivity" configChanges="160" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.market.CMarketListActivity" configChanges="160" label="2131230720">
+<activity screenOrientation="1" name="com.tencent.portfolio.market.IPOListActivity" configChanges="160" label="2131230720">
+<activity screenOrientation="1" name="com.tencent.portfolio.market.IPODetailActivity" configChanges="160" label="2131230720">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.SettingsActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.CSetingLoginActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.VersionCheckActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.VersionCheckActivityNew" launchMode="2">
+<activity process=":splashWebview" screenOrientation="1" name="com.tencent.portfolio.settings.CSetingSoftwareLicenseAgreementActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.DisclaimerActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.CPushSettingActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.CPdfSettingActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.CFeedbackActivity" windowSoftInputMode="4" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.RecommendActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.RecommendActivityNew" launchMode="2">
+<activity process=":splashWebview" screenOrientation="1" name="com.tencent.portfolio.remotecontrol.SplashWebViewActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.RefreshRateActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.DisplaySettingsActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.CUpdateInfoActivity" theme="2131296282" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.NewsFontSizeSettingActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.HSKLineSetActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.MALineSetting">
+<activity screenOrientation="1" name="com.tencent.portfolio.settings.GesturePasswordSettingActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.gesturepassword.GesturePasswordMainActivity">
+<activity process=":mupdf" name="com.artifex.mupdf.MuPDFActivity" theme="16973831" exported="false" label="2131230720" taskAffinity="com.tencent.portfolio.mupdf" launchMode="3">
+<activity screenOrientation="1" name="com.artifex.mupdf.OutlineActivity" label="2131230888">
+<activity screenOrientation="1" name="com.tencent.portfolio.common.shares.agents.ShareInputAndSubmitActivity" theme="2131296288" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tencent.portfolio.common.shares.agents.StockDetailShareInputAndSubmitActivity" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.tencent.portfolio.common.shares.LoginToSINAWBActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.common.shares.agents.DownLoadWXAPKActivity" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity process="com.tencent.portfolio" screenOrientation="1" name="com.tencent.portfolio.stockdetails.StockDetailsActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="0" name="com.tencent.portfolio.graphics.view.HorizontalStockGraphActivity">
+<activity screenOrientation="0" name="com.tencent.portfolio.graphics.view.HorizontalFundGraphActivity">
+<activity screenOrientation="0" name="com.tencent.portfolio.graphics.view.HorizontalFJGraphActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.news.CStockNewsActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.news.CNewsSpecialListActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.msgbox.MessageCenterActivity">
+<activity process="com.tencent.portfolio" screenOrientation="1" name="com.tencent.portfolio.news.details.NewsDetailsActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.news.details.HtmlFileActivity" label="2131230888">
+<activity name="com.tencent.agiletxt.ImageBrowserActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.alertSetting.AlertSettingGPActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.alertSetting.AlertSettingJZActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.alertSetting.AlertSettingJJActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.alertSetting.AlertSettingJJHBActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.alertSetting.AlertSettingUSGPActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.alertSetting.AlertSettingIndexActivity">
+<activity screenOrientation="1" name="com.tencent.portfolio.stockdetails.hkTurbine.HKTurbineListActivity" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.stockdetails.hkTurbo.HKTurboListActivity" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.stockdetails.finance.FinanceDetailActivity" label="2131231143">
+<activity screenOrientation="1" name="com.tencent.portfolio.huodong.ui.HuoDongActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.huodong.ui.HuoDongDetailWebViewActivity" exported="false" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.huodong.ui.HuoDongMessageActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.tencent.portfolio.wxapi.WXEntryActivity" theme="16973839" exported="true" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.tencent.portfolio.login.WXLoginGuideActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.tencent.portfolio.login.WXQQLoginGuideChooseActivity" exported="false" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.login.WXReLoginActivity" theme="2131296282" label="2131230720" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.tencent.portfolio.login.LoginChooseAcvity" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.common.shares.ShareNewsToStockCircleActivity" theme="2131296288" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.multiImages.CircleCameraActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.multiImages.CircleLocalGalleryActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.multiImages.CircleImageDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.multiImages.CircleLocalGalleryGroupItemActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.trade.BrokerDealerSelectActivity" exported="false" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.trade.TradeDisclaimerActivity" exported="false">
+<activity screenOrientation="1" name="com.tencent.portfolio.trade.TradeEntryActivity" exported="false">
+<activity screenOrientation="1" name="com.tencent.portfolio.trade.hk.ui.TradeFragmentActivity" exported="false" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.trade.hk.ui.TradeLoginActivity" exported="false">
+<activity screenOrientation="1" name="com.tencent.portfolio.trade.hk.ui.TradePasswordActivity" theme="2131296304" exported="false">
+<activity screenOrientation="1" name="com.tencent.portfolio.trade.hk.ui.TradeHKDisclaimerActivity" exported="false">
+<activity screenOrientation="1" name="com.tencent.portfolio.trade.hk.ui.TradeOrderDetailActivity" exported="false" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.portfolio.profitloss.ui.ProfitLossAddActivity" configChanges="160" exported="false" label="2131230720" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.profitloss.ui.ProfitLossMainActivity" configChanges="160" exported="false" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.profitloss.ui.ProfitLossMainActivity1" configChanges="160" exported="false" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.newscollection.ui.NewsCollectionListActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.news.details.NewsDetailsVideoPlayerActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.profitlosssummary.ProfitLossStatisticsActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.stockdetails.hszq.HSZQStockListActivity" exported="false" launchMode="1">
+<activity finishOnTaskLaunch="true" hardwareAccelerated="true" name="com.tencent.portfolio.widget.SimpleBrowserActivity" configChanges="1184" exported="false" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.tencent.portfolio.common.shares.ShareAnimationSelectorActivity" exported="false">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.StockRssListActivity" exported="false" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.FriendRssListActivity" exported="false" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.ReportActivity" exported="false" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.AppealActivity" exported="false" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.SubjectDetailActivity" exported="false" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.tencent.portfolio.social.ui.FriendMainPageActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.PublishSubjectActivity" theme="2131296290" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.SightRankingActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.MessageBoxActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.social.ui.MyFriendsListActivity" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.BuyAndSellOrderActivity" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TodayCommissionActivity" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TodayDealActivity" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.HistoryDealActivity" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionInitActivity" theme="16973840" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionServiceAgreementActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionBindDetailActivity" exported="false" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionCenterActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionBindBrokerActivity" exported="false" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionManageBrokerActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.tencent.portfolio.transaction.ui.BankAndSecuritiesTransferActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransferMoneyRecordActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionMoreActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionBrokerMzsmActivity" exported="false">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionIPOListActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.QueryOfNewStockWinActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionCheckPhoneActivity" exported="false" windowSoftInputMode="52" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.portfolio.transaction.ui.TransactionIPODetailActivity" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.foundation.plugin.proxy.TPPluginProxyActivity" exported="false" label="2131230720" launchMode="1">
+4
+<service name="com.tencent.portfolio.appwidgetnew.WidgetNewService" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.tencent.portfolio.appwidget.StockWidgetDataService" exported="false">
+<service process=":push" name="com.tencent.portfolio.pushsdk.service.RemotePushService" exported="false">
+<service process=":push" name="com.tencent.portfolio.pushsdk.service.NotifyService" exported="false">
+6
+<receiver name="com.tencent.portfolio.appwidget.StockWidgetProvider" exported="false" label="(4X2)自选股">
+<receiver name="com.tencent.portfolio.appwidget.StockWidgetProviderBig" exported="false" label="(4X4)自选股">
+<receiver process=":push" name="com.tencent.portfolio.pushsdk.receiver.NotifyReceiver" exported="false">
+<receiver process=":push" name="com.tencent.portfolio.pushsdk.receiver.PushAlarmReceiver" exported="false">
+<receiver process=":push" name="com.tencent.portfolio.pushsdk.receiver.DaemonReciever" exported="false" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver process=":push" name="com.tencent.portfolio.pushsdk.receiver.NetStateChangedReceiver" exported="false">
+2
+<provider authorities="com.tencent.portfolio.data" name="com.tencent.portfolio.mystocks.provider.PortfolioDataProvider" exported="true">
+<provider authorities="com.tencent.portfolio.table" name="com.tencent.portfolio.common.smartDB.smartDBDataProvider" exported="false">
+Owner: CN=Tencent Technology (Shenzhen) Company Ltd., OU=Tencent Technology (Shenzhen) Company Ltd., O=Tencent Technology (Shenzhen) Company Ltd., L=beijing, ST=beijing
+Issuer: CN=Tencent Technology (Shenzhen) Company Ltd., OU=Tencent Technology (Shenzhen) Company Ltd., O=Tencent Technology (Shenzhen) Company Ltd., L=beijing, ST=beijing
+Serial number: 4fedb633
+Valid from: Fri Jun 29 22:05:39 CST 2012 until: Sat Jun 06 22:05:39 CST 2111
+Certificate fingerprints: 
+	MD5:98:A6:78:8B:EE:AE:AA:94:46:E0:A7:D1:46:D2:22:BE
+	SHA1: 69:3A:6B:FF:ED:0D:92:94:BC:66:F4:F1:08:AE:05:AE:88:DE:68:DA
+	SHA256: 4A:16:C2:2C:F6:6D:44:72:DA:B9:F9:6F:F2:FF:A4:90:41:42:5B:22:B9:83:9E:D0:74:17:92:DE:E7:AB:3C:6A
+	Signature algorithm name: SHA1withRSA
+	version: 3

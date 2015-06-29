@@ -1,0 +1,94 @@
+com.mato.android
+28
+4.0.0
+8
+14
+21
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_APN_SETTINGS
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+43
+<activity screenOrientation="1" name=".LoadActivity" label="2131296256" launchMode="2">
+<activity screenOrientation="1" name=".MainActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".TabTrafficSaved" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".TabTrafficMonitor" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".TabUserDefined" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".TabNetworkCheck" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".SettingActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".HelpeViewPagerActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".SettingFloatActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".MyAppTrafficRanking" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".NetAddrListActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".AddNetAddrActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".ModifyWebSiteActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".FloatWindowActivity" theme="2131361794" configChanges="160" taskAffinity="com.mato" launchMode="2">
+<activity screenOrientation="1" name=".SettingBackground" configChanges="160">
+<activity screenOrientation="1" name=".ViewPagerActivity" configChanges="160">
+<activity screenOrientation="1" name=".SettingCompress" configChanges="160">
+<activity screenOrientation="1" name=".SettingFaq" configChanges="160">
+<activity screenOrientation="1" name=".SettingFaqDetail" configChanges="160">
+<activity screenOrientation="1" name=".SettingTrafficCombo" configChanges="160">
+<activity screenOrientation="1" name=".SettingFreeTime" configChanges="160">
+<activity screenOrientation="1" name=".MonthSaveDetail" configChanges="160">
+<activity screenOrientation="1" name=".BackSaveDetail" configChanges="160">
+<activity screenOrientation="1" name=".SettingWarnTrafficOver" theme="2131361794" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".TrafficOverWarnDay" theme="2131361794" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".ShareActivity" theme="2131361794" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".SettingFeedback" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".SettingAbout" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".SettingPackage" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".SettingTrdet" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".TrafficUsedDetail" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".TrafficRemainActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".AppRecommend" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".FirewallActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".PushMessage" theme="16973835" configChanges="160" label="2131296320">
+<activity screenOrientation="1" name=".SpeedMeasureActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.umeng.api.activity.OauthActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.umeng.api.activity.UpdateStatusActivity" theme="2131361801" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".SettingContact" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ShutDownActivity" theme="2131361794" configChanges="160">
+<activity screenOrientation="1" name=".StartProxyActivity" theme="2131361794" configChanges="160">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131361810" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity">
+4
+<service name="com.mato.android.matoid.service.vpn.LocalVpnService" permission="android.permission.BIND_VPN_SERVICE">
+<service name="com.traffic.service.TotalTrafficService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.mato.android.matoid.service.iptables.ProxyService">
+6
+<receiver name="com.mato.android.matoid.monitor.NetworkStateMonitor">
+<receiver name="com.mato.android.matoid.monitor.ScreenStateMonitor">
+<receiver name="com.traffic.monitor.BootMonitor">
+<receiver name="com.traffic.monitor.ShutdownMonitor">
+<receiver name="com.traffic.monitor.SmsMonitor">
+<receiver name="com.traffic.monitor.AlarmReceiver">
+0
+Owner: CN=郑育云, OU=网宿科技, O=网宿科技, L=厦门, ST=福建, C=ch
+Issuer: CN=郑育云, OU=网宿科技, O=网宿科技, L=厦门, ST=福建, C=ch
+Serial number: 4f06b145
+Valid from: Fri Jan 06 16:31:01 CST 2012 until: Sat Oct 09 16:31:01 CST 2066
+Certificate fingerprints: 
+	MD5:C9:6C:15:E2:21:60:81:48:62:B8:8A:7C:6D:53:94:AC
+	SHA1: FD:D9:1D:F9:DE:34:C6:D4:4D:88:25:DF:70:3B:3F:57:6E:DA:FD:CC
+	SHA256: BB:46:BE:B7:EB:64:F1:DD:9D:7D:4C:80:48:44:E7:77:7E:36:B7:CC:37:76:99:55:7C:1C:C3:D0:DC:3E:AA:58
+	Signature algorithm name: SHA1withRSA
+	version: 3

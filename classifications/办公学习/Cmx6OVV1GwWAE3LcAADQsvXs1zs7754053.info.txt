@@ -1,0 +1,39 @@
+com.jishigu
+5
+2.3
+4
+-1
+10
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity screenOrientation="1" name=".MainActivity" label="2130968577" launchMode="2">
+<activity screenOrientation="1" name=".LoginActivity" label="登陆绝密日记本">
+<activity screenOrientation="1" name=".RegActivity" label="注册绝密日记本">
+<activity name=".HelpActivity" label="软件简介">
+<activity name=".LookActivity" label="查看日记">
+<activity name=".KeyActivity" label="解读密码验证">
+<activity name=".PwdActivity" label="修改密码">
+<activity name=".BackActivity" label="意见反馈">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+0
+0
+0
+Owner: CN=li ming, OU=jishigu, O=jishigu, L=yanai, ST=shandong, C=86
+Issuer: CN=li ming, OU=jishigu, O=jishigu, L=yanai, ST=shandong, C=86
+Serial number: 4f4e1555
+Valid from: Wed Feb 29 20:08:53 CST 2012 until: Mon Jul 02 20:08:53 CST 3010
+Certificate fingerprints: 
+	MD5:6D:40:D8:3C:4E:13:E3:58:B0:5F:C3:A3:98:D6:9C:DD
+	SHA1: 96:72:E0:62:A2:F1:EC:63:95:26:FA:07:76:33:4B:41:11:8E:18:4F
+	SHA256: 4F:92:74:23:3D:40:F4:95:74:3D:CF:F1:C6:E8:95:9D:0D:A4:53:5F:E5:83:90:72:BD:92:CD:7E:B0:7E:DC:60
+	Signature algorithm name: SHA1withRSA
+	version: 3

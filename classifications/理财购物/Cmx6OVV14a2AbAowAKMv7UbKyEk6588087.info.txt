@@ -1,0 +1,278 @@
+com.wochacha
+810
+8.1.0
+8
+21
+21
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.CHANGE_CONFIGURATION
+230
+<activity screenOrientation="1" name=".MainActivity" configChanges="164" exported="true" label="2131099656" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".StartupActivity" theme="2131361805" configChanges="164" launchMode="1">
+<activity screenOrientation="1" name=".CitySelectedActivity" theme="16973830">
+<activity screenOrientation="3" hardwareAccelerated="false" name=".PopMessageView" theme="16973841">
+<activity screenOrientation="1" name="com.wochacha.qrcode.QRContentResultView" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".horoscope.HoroscopeView" theme="2131361803" launchMode="2">
+<activity screenOrientation="1" name=".HelpActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name=".WccTransferActivity" theme="2131361803" configChanges="160">
+<activity screenOrientation="1" name=".UpdateVersionActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".SelectCategoryActivity" theme="2131361803" launchMode="1">
+<activity screenOrientation="1" name="com.wochacha.search.SearchHistoryActivity" launchMode="2">
+<activity screenOrientation="1" name="com.wochacha.WccWebViewActivity">
+<activity screenOrientation="1" name="com.wochacha.award.CreditActivity">
+<activity screenOrientation="1" name=".rank.RankMainActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".download.DownLoadManageActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".download.DownLoadPanel" theme="2131361803">
+<activity screenOrientation="1" name=".exposure.ExposureMainActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".exposure.ExposureSearchResultActivity" theme="16973830">
+<activity screenOrientation="1" name=".exposure.ExposureTopicDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".exposure.ExposureTopicSpecificActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".exposure.ExposureTipoffDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".exposure.ExposureDetailInfoActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".exposure.UserTipoffActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".photoalbum.WccPhotoAlbumActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".photoalbum.WccPhotoDirectoryActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.wochacha.exposure.ExposureSubjectDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".compare.CommodityQualisActivity" theme="16973830">
+<activity screenOrientation="1" name=".compare.NearbyPriceActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.ProductQualifyDetectionActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.StorePriceActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.UploadPriceActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.CheckTrueOrFalseActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.ExposureFakeDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".compare.CommodityCompareResultActivity" theme="16973830" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".compare.WccCommodityDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".compare.AntifakeInquireActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".compare.GoodsBarcodeCenterActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.GoodsBarcodeCenterDetailInfoActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.DrugFlowPicActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.AddMoreInfoActivity" theme="16973830" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".compare.CommentsActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.MyCommentActivity" theme="16973830" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".compare.GrabHostActivity" theme="16973830">
+<activity screenOrientation="1" name=".compare.NewsReportActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".compare.DrugAdminCodeActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".compare.WeiboSendActivity" theme="16973830">
+<activity screenOrientation="1" name=".more.MoreActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".more.SettingActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".more.WccCooperationActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".more.FeedbackActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".more.ShareActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".more.AboutWccActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".more.CommonSoftwareActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".more.TopicSoftwareActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".scan.BarcodeScanActivity" theme="16973831" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name=".scan.BarcodeInputActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".scan.ImageChooseActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".scan.PlateActivity" theme="16973830" configChanges="160">
+<activity name=".scan.FileBrowser" label="2130903209">
+<activity screenOrientation="1" name=".search.SearchResultActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".search.MallSearchResultActivity" launchMode="2">
+<activity screenOrientation="1" name=".search.SearchActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".search.SearchFliterActivity" theme="16973830" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".map.StoreMapActivity" theme="16973830">
+<activity screenOrientation="1" name=".map.WccStoresMapActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".map.RouteMapActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".express.ExpressMainActivity" theme="16973830" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name=".express.ExpressInquiryActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".express.ExpressCompanyChoiceFragmentActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".express.ExpressSendSMSActivity" theme="16973830" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".brand.PearlDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".brand.ShowBigImageActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".user.UserDetailInfoActivity" theme="16973830" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".user.UserInfoGoodsActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.UserInfoPointActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.MyGrowthValueActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.MyLevelActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.UserTipOffHistoryActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.UserChangePwdActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.CutPictureActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".user.WccLoginActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".user.FixPhotoBugActivity" theme="16973830">
+<activity screenOrientation="1" name=".user.WccRegisterActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.WccRegisterActivityNew" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.GetPointsActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.UserCouponsActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.CouponActivateActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.NewCouponDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".user.UserContactAddrActivity" launchMode="1">
+<activity screenOrientation="1" name=".user.UserShoppingOrderActivity">
+<activity screenOrientation="1" name=".user.ContactAddrEditActivity" launchMode="1">
+<activity screenOrientation="1" name=".user.MessageCenterActivity" launchMode="1">
+<activity screenOrientation="1" name=".qc.QcStartupActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".qc.QcMainActivity" theme="16973830">
+<activity screenOrientation="1" name=".qc.QcStatisticsActivity" theme="16973830">
+<activity screenOrientation="1" name=".qc.QcResultActivity" theme="16973830">
+<activity screenOrientation="1" name=".qc.QcStoreSelectActivity" theme="2131361803" launchMode="1">
+<activity screenOrientation="1" name=".nettest.NetTestActivity" theme="16973830">
+<activity screenOrientation="1" name=".nettest.NetworkTrafficListActivity" theme="16973830">
+<activity screenOrientation="1" name=".pay.PayRechargeActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".pay.PayRechargeFeeChooseActivity" theme="16973830">
+<activity screenOrientation="1" name=".pay.PayRechargeOrderActivity" theme="16973830">
+<activity screenOrientation="1" name=".pay.PayRechargeRecordActivity" theme="16973830">
+<activity screenOrientation="1" name=".pay.PayRechargeDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".award.LuckyRegularActivity" theme="16973830">
+<activity screenOrientation="1" name=".award.ExchangePearlDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".award.UserAttendanceSuccessActivity" theme="2131361803">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".mart.MartMainActivity" theme="16973830" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".mart.MartPosterFragmentActivity" theme="16973830">
+<activity screenOrientation="1" name=".mart.MartPosterCollectActivity" theme="16973830">
+<activity screenOrientation="1" name=".mart.BusLineListActivity" theme="16973830">
+<activity screenOrientation="1" name=".map.MartMapActivity" theme="16973830">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".mart.MartStoreDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".mart.MartActsDetailsActivity" theme="16973830">
+<activity screenOrientation="1" name=".mart.MartAllStoresListActivity" theme="16973830">
+<activity screenOrientation="1" name=".mart.MartPromotionProductListActivity" theme="16973830">
+<activity screenOrientation="1" name=".mart.MartCouponListActivity" theme="16973830">
+<activity screenOrientation="1" name=".mart.MartPromotionActsActivity" theme="16973830">
+<activity screenOrientation="1" name=".mart.MartBusinessInfomationActivity" theme="16973830">
+<activity screenOrientation="1" name=".mart.MainBillActivity" theme="16973830" configChanges="160" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name=".mart.OneMorePictrueActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".mart.BillResultActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".mart.BillHistoryActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".mart.MartListActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".mart.SupermarketPosterDisplayActivity">
+<activity screenOrientation="1" name=".mart.SupermarketActsActivity" launchMode="1">
+<activity screenOrientation="1" name=".card.CardListActivity" theme="16973830">
+<activity screenOrientation="1" name=".card.CardCategoryGridActivity" theme="16973830">
+<activity screenOrientation="1" name=".card.CardContentActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".mall.MallShoppingCartActivity" launchMode="2">
+<activity screenOrientation="1" name=".shopping.SelectDeliveryTimeActivity" launchMode="1">
+<activity screenOrientation="1" name=".shopping.ShoppingCommodityDetailActivity">
+<activity screenOrientation="1" name=".shopping.SpiltShoppingOrderResultActivity">
+<activity screenOrientation="1" name=".shopping.CommonShoppingOrderConfirmActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".shopping.CommonShoppingOrderDetailActivity" launchMode="1">
+<activity screenOrientation="1" name=".shopping.OrderExtraOptionActivity" launchMode="1">
+<activity screenOrientation="1" name=".shopping.ShoppingOrderResultActivity" launchMode="1">
+<activity screenOrientation="1" name=".shopping.DetailExtraCommentActivity" theme="16973830" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.wochacha.mall.MallDetailActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".mall.MallChooseSpecActivity" theme="2131361803" launchMode="1">
+<activity screenOrientation="1" name=".mall.LeaveMessageActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.RefundAndAfterSaleActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.RefundDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.wochacha.mall.MallGoodsSortActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".franchiser.WebOrListViewInViewPagerActivity" launchMode="1">
+<activity screenOrientation="1" name=".franchiser.ExpandableSearchResultActivity" launchMode="2">
+<activity screenOrientation="1" name=".franchiser.FranchiserHeadOrganationDetailActivity" launchMode="1">
+<activity screenOrientation="1" name=".franchiser.CouponDetailsActivity" launchMode="1">
+<activity screenOrientation="1" name=".franchiser.ExpandableStoresActivity" launchMode="1">
+<activity screenOrientation="1" name=".luxury.LuxuryActivity">
+<activity screenOrientation="1" name=".shoppingguide.GuideFollowsFragment" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".user.MyFavActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".rank.ScanHistoryFragmentActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".chat.OnlineSupportActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".chat.ExpertConsultationActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".chat.ExpertIntroductionActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".chat.ConsultationCommentActivity" theme="2131361803" launchMode="1">
+<activity screenOrientation="1" name=".chat.PictureDialogActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".comment.SingleCommentActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".zdm.ZdmWantBuyInputActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".zdm.ZdmWantBuyListActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".zdm.ZDMMainActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".zdm.ZDMDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".lyg.LYGMainActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".lyg.LYGMineActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".lyg.LYGLuckyChanceActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".lyg.LYGEventsDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".lyg.LYGRulesActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".lyg.LYGAwardDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".lyg.LYGHowToGetActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".lyg.LYGMyactDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".lyg.WelfareDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".zdm.MyCollectionActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".zdm.WantBuyRecommendListActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.MallMainActivity" launchMode="2">
+<activity screenOrientation="1" name=".mall.MallShoppingOrderConfirmActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.MallShoppingOrderResultActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.MallShoppingOrderDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.MallOrderExtraOptionActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.MallOrderCommentActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.MallExtraOrderCommentActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.MallDetailExtraCommentActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.MallBrandActivity" launchMode="1">
+<activity screenOrientation="1" name=".mall.BrandCategoryActivity" launchMode="1">
+<activity screenOrientation="1" name=".mall.ConsultationActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.IWantConsultationActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.ComplainActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.ReturnMoneyActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".mall.ReturnGoodsActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".mall.SelectExpressActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".mall.CategoryExhibitionActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.MallCommodityDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".mall.CategoryActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".qrcode.QrCodeMainActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".qrcode.QrLocationActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".qrcode.ContactCardActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".qrcode.GeoMapActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".qrcode.MakeCodeTypeActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".qrcode.PictureTrimActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".qrcode.TypeEditActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SplashActivity" theme="2131361803" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayMainActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayUserCreditActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayUserDebitActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayOnUserTelActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultLoseActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.RegisterActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.RegisterResultActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.UserProtocalActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserCardManageActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserUserManageActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.changePswActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.changeTelActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardCreditActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardDebitActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardPanActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardResultActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SupportActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.GetpassActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AuthBindCardActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AboutActivity" theme="2131361803" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wochacha.user.DistrictSelectActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wochacha.user.MallCitySelectedActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wochacha.mart.PriceRankingListActivity" theme="2131361803" launchMode="1">
+<activity screenOrientation="1" name="com.wochacha.mall.SubmitOrderSuccessActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.wochacha.mall.CashierDeskActivity" theme="16973830" windowSoftInputMode="32">
+<activity name=".wxapi.WXEntryActivity" theme="16973839" exported="true" label="2131099656">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+2
+<service name=".download.DownloadService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+5
+<receiver name=".mart.BillBroadcastReceiver">
+<receiver name=".CheckNetReceiver">
+<receiver name=".baidupush.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=wochacha, OU=wochacha, O=wochacha, L=Shanghai, ST=Shanghai, C=CN
+Issuer: CN=wochacha, OU=wochacha, O=wochacha, L=Shanghai, ST=Shanghai, C=CN
+Serial number: 4c3cc2d2
+Valid from: Wed Jul 14 03:47:30 CST 2010 until: Sun Nov 29 03:47:30 CST 2037
+Certificate fingerprints: 
+	MD5:FF:72:F8:06:8B:A3:05:C1:E8:86:F7:A7:B4:66:D0:8C
+	SHA1: 31:F7:D1:B2:11:1E:E2:9B:74:F2:DD:A0:EE:1D:34:C7:FE:49:0D:1D
+	SHA256: DC:CE:20:4A:B9:56:23:CA:F3:E0:92:95:1E:0E:21:CF:47:65:E0:51:39:B5:A6:F6:DB:2F:E2:94:51:AF:7B:EE
+	Signature algorithm name: SHA1withRSA
+	version: 3

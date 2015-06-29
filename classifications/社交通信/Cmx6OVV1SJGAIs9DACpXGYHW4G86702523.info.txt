@@ -1,0 +1,143 @@
+com.voice360.main
+20704
+2.0.70.4
+7
+8
+30
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.SEND_SMS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.DISABLE_KEYGUARD
+android.permission.REORDER_TASKS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+75
+<activity screenOrientation="1" name=".Voice360" theme="16973830" label="2131361917">
+<activity name=".wxapi.WXEntryActivity" theme="16973830" exported="true" label="2131361917">
+<activity name=".wxapi.WXPayEntryActivity" theme="16973830" exported="true" label="2131361917">
+<activity screenOrientation="1" name="com.voice360.activitys.BaoheActivity">
+<activity screenOrientation="1" name="com.voice360.remind.view.AlarmStartActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.AccountBuyActivity" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.voice360.activitys.DisclaimersActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.AccountActivity" theme="16973830" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.BuyMattersActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.BuyPackageActivity" theme="16973830">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SplashActivity" theme="16973830">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.IndexActivityGroup" theme="16973830">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.HomeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.PayActivity" theme="16973830">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AccountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.BankCardInfoActivity" theme="16973830">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SupportCardActivity" theme="16973830">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.UserProtocolActivity" theme="16973830">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AboutActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.QuestionActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.HelpActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.set.NewSetStatic" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.set.SetCommonActivity" theme="16973830" configChanges="224">
+<activity screenOrientation="1" name="com.voice360.set.SetRecordActivity" theme="16973830" configChanges="224">
+<activity screenOrientation="1" name="com.voice360.set.RefuserSetActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.set.SetRemindActivity" theme="16973830" configChanges="224">
+<activity screenOrientation="1" name="com.voice360.activitys.refuser.RefuseListDropActivity" theme="16973830" configChanges="224">
+<activity screenOrientation="1" name="com.voice360.set.CallMsgTemplateListActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.KeyActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.RemindActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.RemindMainActivity" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.RemindCalendarActivity" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.TalkRecordMainActivity" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.TalkRecordActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.TalkRecordCalendarActivity" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.RecordMainActivity" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.RecordActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.RecordCalendarActivity" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.RecordCalendarByDay" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.RecordCalendarByMonth" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.ReminderCalendarByMonth" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.ReminderCalendarByDay" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.RemindEditActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.TimeSelectActivity">
+<activity screenOrientation="1" name="com.voice360.activitys.RecordEditActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.refuser.RefuserSelectTimeActivity" theme="16973830">
+<activity name="com.voice360.callmessage.RefuserSelectTimeActivity" theme="16973835">
+<activity screenOrientation="1" name="com.voice360.activitys.refuser.RefuserActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.CallMsgMainActivity" launchMode="1">
+<activity name="com.paypal.android.MEP.PayPalActivity" theme="16973839" configChanges="160">
+<activity screenOrientation="1" name="com.voice360.set.SetUmengFeedBack" configChanges="224">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity screenOrientation="1" name="com.voice360.activitys.TalkrecSpecifiedNumberActivity" theme="16973830" configChanges="224">
+<activity screenOrientation="1" name="com.voice360.activitys.blacklist.BlacklistActivity" theme="16973830" configChanges="224">
+<activity screenOrientation="1" name="com.voice360.activitys.refuser.RefuserAutoActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.blacklist.BlacklistChooseNumberActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.ChooseNumberActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.set.CallMsgSetViewActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.upgrade.NewVersionDetailActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.TalkRecordLookActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.RecordLookActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.RestoreFileActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.voice360.activitys.refuser.RefuserCalendarActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.upgrade.ForceUpgradeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.AboutActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.view.DownloadActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.BuyRecordInfoActivity" theme="16973830">
+<activity screenOrientation="1" name="com.voice360.activitys.QuestHelpActivity" theme="16973830" windowSoftInputMode="2">
+<activity name="com.payeco.android.plugin.PayecoPluginLoadingActivity" theme="16973839" configChanges="160" windowSoftInputMode="34">
+<activity name="com.payeco.android.plugin.PayecoOrderDetailActivity" configChanges="160" windowSoftInputMode="34">
+<activity name="com.payeco.android.plugin.PayecoPayResultActivity" configChanges="160" windowSoftInputMode="34">
+<activity name="com.payeco.android.plugin.PayecoWebViewActivity" configChanges="160" windowSoftInputMode="34">
+<activity name="com.payeco.android.plugin.PayecoRiskControlActivity" configChanges="160" windowSoftInputMode="34">
+12
+<service name="com.voice360.services.MainService">
+<service name="com.voice360.remind.services.AlarmMediaService">
+<service name="com.voice360.mail.MailSenderServer">
+<service name="com.voice360.mail.MailSenderDetectService">
+<service name="com.voice360.contacts.DataObserverService">
+<service name="com.voice360.services.BootStartupServices">
+<service name="com.voice360.services.EncryptionServer">
+<service name="com.voice360.move.MoveDataService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.voice360.upgrade.UpgradeService">
+<service name="com.voice360.services.RestoreFileService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+6
+<receiver name="com.voice360.remind.receiver.AlarmReceiver">
+<receiver name="com.voice360.mail.ConnectionReceiver">
+<receiver name="com.voice360.receiver.BootStartupReceiver">
+<receiver name="com.voice360.receiver.EnsureServiceActiveReceiver">
+<receiver name="com.voice360.common.util.NotificationReceiver">
+<receiver name="com.voice360.widget.Widget" label="2131361917">
+0
+Owner: CN=hy
+Issuer: CN=hy
+Serial number: 4d88aafe
+Valid from: Tue Mar 22 21:58:22 CST 2011 until: Wed Mar 09 21:58:22 CST 2061
+Certificate fingerprints: 
+	MD5:01:61:8A:49:EE:75:DE:87:85:19:45:59:4B:A1:09:3F
+	SHA1: 42:8B:7A:F9:79:D9:20:76:6C:03:7D:22:84:E9:3D:79:2E:6C:AF:91
+	SHA256: 4D:26:81:01:1E:D0:B8:70:0B:54:AA:1B:A8:E6:40:88:24:4C:DF:23:5D:84:F3:C7:95:E1:6B:C9:C0:AB:AB:F0
+	Signature algorithm name: SHA1withRSA
+	version: 3

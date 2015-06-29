@@ -1,0 +1,44 @@
+com.hxb.joke
+24
+V3.9.7
+7
+-1
+7
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity screenOrientation="1" name=".WelcomeActivity" theme="16973830" label="2131099649">
+<activity screenOrientation="1" name="com.hxb.joke.JokeTypeListActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hxb.joke.JokeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hxb.joke.JokeListActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hxb.joke.AppListActivity">
+<activity screenOrientation="1" name="com.hxb.joke.AboutActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="MenuActivity" theme="2131165184">
+<activity name="com.iurejk.alarm.AdOutActivity">
+<activity name="com.iurejk.alarm.AdLoadActivity" theme="16973835">
+5
+<service name="com.android.boot.getADS.MyService">
+<service name="com.androidad.admob.FloatWindowService">
+<service name="com.androidad.admob.customerwidget.DownloadService">
+<service name="com.iurejk.alarm.get.DownloadService">
+<service name="com.hxb.joke.dl.MyService">
+3
+<receiver name="com.android.boot.getADS.BootReceiver">
+<receiver process=":remote" name="com.iurejk.alarm.AlarmReceiver">
+<receiver name="com.iurejk.alarm.BootReceiver">
+0
+Owner: CN=huang xibo, OU=ChongQing, O=ChongQing, L=ChongQing, ST=ChongQing, C=CN
+Issuer: CN=huang xibo, OU=ChongQing, O=ChongQing, L=ChongQing, ST=ChongQing, C=CN
+Serial number: 4e3f5c77
+Valid from: Mon Aug 08 11:48:07 CST 2011 until: Tue Jul 26 11:48:07 CST 2061
+Certificate fingerprints: 
+	MD5:9C:67:93:E7:4C:05:9B:BD:E0:C4:96:44:5C:0E:C5:0E
+	SHA1: C5:86:96:A9:06:39:EB:97:38:73:3C:F5:B7:92:D8:4A:EF:AE:54:C2
+	SHA256: 72:8D:47:8A:F4:B9:72:2A:CB:97:77:4D:1B:F3:07:42:20:3B:2D:EB:4D:AE:E0:7B:E0:63:A0:19:CD:DD:36:63
+	Signature algorithm name: SHA1withRSA
+	version: 3

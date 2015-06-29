@@ -1,0 +1,28 @@
+com.jokes.android
+20
+2.0
+7
+19
+7
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+1
+<activity screenOrientation="1" name=".MainActivity" configChanges="240" label="2131165192" windowSoftInputMode="48" launchMode="2">
+0
+0
+0
+Owner: CN=CsHeng
+Issuer: CN=CsHeng
+Serial number: 533bd95a
+Valid from: Wed Apr 02 17:33:14 CST 2014 until: Sun Mar 27 17:33:14 CST 2039
+Certificate fingerprints: 
+	MD5:B9:60:27:31:F4:07:05:77:1F:27:13:30:DE:BC:5B:33
+	SHA1: D7:2A:3C:83:00:DF:5B:AB:4D:FB:EA:74:A5:C8:A0:D4:71:00:CB:44
+	SHA256: 66:62:DD:DB:24:F5:19:81:82:F2:65:E2:92:8D:B9:9F:29:F2:A9:56:24:60:66:4A:32:EB:F8:5F:D7:BA:02:C4
+	Signature algorithm name: SHA1withRSA
+	version: 3

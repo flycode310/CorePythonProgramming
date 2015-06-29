@@ -1,0 +1,251 @@
+com.tmall.wireless
+244
+5.4.0
+14
+19
+47
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+net.xinzeling2.permission.JPUSH_MESSAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.BROADCAST_PACKAGE_CHANGED
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+com.setaobao.bbox.permission.APP_STATE
+org.agoo.android.permission.MESSAGE
+com.taobao.permission.USE_CREDENTIALS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.taobao.permission.UPDATE_CREDENTIALS
+android.permission.USE_CREDENTIALS
+com.tmall.wireless.privateinfo.permission.READ_MESSAGE
+android.permission.BROADCAST_PACKAGE_INSTALL
+android.permission.BROADCAST_PACKAGE_REPLACED
+com.tmall.wireless.permission.MIPUSH_RECEIVE
+android.permission.MODIFY_AUDIO_SETTINGS
+com.google.android.c2dm.permission.RECEIVE
+android.permission.RECEIVE_USER_PRESENT
+com.taobao.taobao.permission.C2D_MESSAGE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SETTINGS
+android.permission.BROADCAST_PACKAGE_ADDED
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+152
+<activity screenOrientation="1" name="com.tmall.wireless.module.launchalert.TMLaunchAlertActivity" theme="16973839" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.module.splash.TMSplashActivity" theme="16973830" configChanges="160" label="2131230720">
+<activity screenOrientation="1" name="com.tmall.wireless.module.exit.ExitAppActivity" theme="16973840" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.module.main.TMMainTabActivity" theme="16974064" configChanges="160" exported="false" label="2131230720" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.tmall.wireless.module.floatdialog.TMFloatDialogActivity" theme="16973839" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.test.TMTestActivity" label="2131232018" launchMode="2">
+<activity screenOrientation="0" name="com.tmall.wireless.module.personalcenter.TMMoviePlayActivity" configChanges="160">
+<activity name="com.tmall.wireless.test.MUI.MUITestActivity">
+<activity name="com.tmall.wireless.test.netbus.NetbusTestActivity">
+<activity screenOrientation="1" name="com.tmall.wireless.module.motherbaby.TMBadyInfoModifyActivity" configChanges="160" exported="false" label="2131232047" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tmall.wireless.module.alarm.TMAlarmListActivity" configChanges="160" label="2131232071">
+<activity screenOrientation="1" name="com.tmall.wireless.module.feedback.TMNewFeedbackActivity" configChanges="160" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tmall.wireless.activity.TMJumpActivity" theme="16973839" configChanges="160" exported="false">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.tao.sku.DetailSkuActivity" theme="16973840" configChanges="160" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="com.tmall.wireless.shop.TMShopActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.shop.TMShopWeappActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.shop.TMShopCategoryActivity" exported="false" launchMode="2">
+<activity screenOrientation="1" name="com.taobao.ju.android.activity.JuMainActivity" theme="2131296470" configChanges="160" exported="false" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.taobao.ju.android.compat.activity.ActionViewReceiver" configChanges="160" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.taobao.ju.android.activity.FragmentContainerActivity" theme="2131296470">
+<activity screenOrientation="1" name="com.taobao.ju.android.compat.activity.JuTouActivity" theme="16973932">
+<activity screenOrientation="1" name="com.taobao.ju.android.activity.BrandDetailActivity" theme="2131296470" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.taobao.ju.android.compat.activity.SelectCityActivity" theme="16973837" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.taobao.ju.android.activity.LifeActivity" theme="2131296470" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.taobao.ju.android.activity.JuItemListActivity" theme="2131296470" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.taobao.ju.android.activity.TodayActivity" theme="2131296470" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.taobao.ju.android.activity.TodayActivityGb" theme="2131296470">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name="com.tmall.wireless.scanner.activity.TMCameraScannerActivity" theme="16973831" configChanges="160" exported="false" windowSoftInputMode="3" stateNotNeeded="true">
+<activity screenOrientation="1" name="com.tmall.wireless.scanner.activity.TMCameraScanInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.scanner.activity.TMCameraScannerCodebarResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.scanner.activity.TMScannerHistoryActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.mbuy.ui.TMOrderMbuyActivity" configChanges="160" exported="false" label="2131231054">
+<activity name="com.tmall.wireless.ordermanager.list.TMOrderListActivity" configChanges="160" exported="false" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tmall.wireless.ordermanager.detail.TMOrderDetailActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.orderlogistics.ui.TMLogisticsActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.orderlist.ui.ordercomment.TMOrderCommentActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.orderlist.ui.ordercomment.TMSubOrderCommentActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.refund.ui.TMRefundListActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.purchase.TMPurchaseTestActivity" configChanges="160" exported="false" label="修改下单接口">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.tmall.wireless.address.ui.TMAddressActivity" configChanges="160" exported="false" label="选择收货地址">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.tmall.wireless.address.ui.TMAddressManageActivity" configChanges="160" exported="false" label="管理收货地址">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.tmall.wireless.address.ui.TMAddressEditActivity" configChanges="160" exported="false" label="编辑收货地址">
+<activity screenOrientation="1" name="com.tmall.wireless.market.TMMarketActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.trade.ui.biz.recommend.TradeRecommendActivity" configChanges="160" exported="false" label="更多好货推荐">
+<activity screenOrientation="1" name="com.tmall.wireless.cart.ui.TMCartActivity" configChanges="160" exported="false" label="购物车">
+<activity screenOrientation="1" name="com.tmall.wireless.xinshui.ui.TMXinShuiHomeActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.xinshui.ui.TMXinShuiTopicOverActivity" launchMode="3">
+<activity screenOrientation="1" name="com.tmall.wireless.xinshui.ui.TMXinShuiHistoryTopicActivity" launchMode="3">
+<activity screenOrientation="1" name="com.tmall.wireless.homepage.activity.TMHomePageActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.sharesdk.TMShareWeiboActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.sharesdk.TMShareMainActivity" theme="16973840" configChanges="160" exported="false" launchMode="2">
+<activity screenOrientation="1" name="com.tmall.wireless.share.ui.TMMiniShareActivity" theme="2131296370" exported="false" launchMode="1">
+<activity screenOrientation="1" name="com.tmall.wireless.share.ui.TMShareToWeChatActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.share.ui.TMShareToQrcodeActivity" theme="2131296337" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.share.ui.TMShareToWeiboActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.messagebox.activity.TMMsgboxCategoryActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.messagebox.activity.TMMsgboxListActivity" configChanges="160" exported="false">
+<activity name="com.tmall.wireless.messagebox.activity.TMMsgboxAlertDialogActivity" theme="2131296337" exported="false" launchMode="3">
+<activity screenOrientation="1" name="com.tmall.wireless.brand.index.TMBrandFeedIndexActivity" theme="16974064" exported="false" label="2131230720">
+<activity screenOrientation="1" name="com.tmall.wireless.brand.detail.TMBrandShopListActivity" exported="false" label="2131230720">
+<activity screenOrientation="1" name="com.tmall.wireless.brand.detail.TMBrandFollowListActivity" exported="false" label="2131230720">
+<activity screenOrientation="1" name="com.tmall.wireless.brand.comment.TMBrandCommentActivity" exported="false" label="评论" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tmall.wireless.brand.detail.TMBrandFeedActivity" theme="16974064" exported="false" label="2131230720">
+<activity screenOrientation="1" name="com.tmall.wireless.mytmall.ui.TMMtmallActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.mytmall.ui.TMSettingsActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.mytmall.ui.TMCouponListActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.mytmall.ui.TMPointListActivity" configChanges="160" exported="false" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tmall.wireless.mytmall.ui.TMAboutusActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.mytmall.ui.TMMyTmallActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.mytmall.ui.TMGeneItemListActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.webview.TMBlankWebViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.webview.TMCommonWebViewActivity" theme="2131296483" configChanges="1184">
+<activity screenOrientation="1" name="com.tmall.wireless.wangxin.ui.ContactsActivity" exported="false" label="旺信" launchMode="2">
+<activity screenOrientation="1" name="com.tmall.wireless.wangxin.ui.ChatActivity" exported="false" label="旺信" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.tmall.wireless.voice.TMVoiceActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.module.login.TMLoginActivity" theme="16973840" configChanges="160" exported="false" label="2131231556">
+<activity screenOrientation="1" name="com.ali.user.mobile.login.ui.UserLoginActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.ali.user.mobile.sms.ui.SMSBizActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.webview.WebViewActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.account.bind.AlipayUserBindActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.account.bind.TaobaoAccountBindActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.register.ui.AliUserRegisterActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.webview.HtmlActivity" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.register.ui.AliUserRegisterChoiceRegionActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.register.ui.AliUserRegisterSMSActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.register.ui.WebViewActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.webview.AliUserRegisterWebview_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.register.ui.AliUserRegisterSetLoginPassword_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ali.user.mobile.account.bind.NewAccountBindActivity_" theme="2131296539" configChanges="224" windowSoftInputMode="18">
+<activity excludeFromRecents="true" name="com.alipay.android.app.pay.MiniLaucherActivity" theme="2131296523" configChanges="224" exported="false" launchMode="1">
+<activity screenOrientation="3" excludeFromRecents="true" name="com.alipay.android.app.ui.quickpay.window.MiniPayActivity" theme="2131296523" configChanges="224" exported="false" label="2131231830" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="3" excludeFromRecents="true" name="com.alipay.android.app.ui.quickpay.window.MiniWebActivity" theme="2131296523" configChanges="224" exported="false" launchMode="1">
+<activity windowIsTranslucent="true" screenOrientation="1" name="com.tmall.wireless.detail.ui.TMItemDetailsActivity" configChanges="160" colorBackgroundCacheHint="0">
+<activity screenOrientation="1" name="com.tmall.wireless.detail.ui.gallery.TMGalleryActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.detail.ui.seckill.TMSeckillDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.detail.ui.TMDetailSettingActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.taobao.sku.TaobaoSkuActivity" theme="16973840" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.detail.ui.TMDetailMulColorActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.module.search.searchResult.TMSearchResultActivity" theme="2131296354" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.module.search.searchHint.TMSearchHintActivity" theme="2131296354" configChanges="160" exported="false" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.tmall.wireless.module.search.location.TMLocationSelectActivity" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tmall.wireless.module.search.components.TMSearchLandingPageActivity" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tmall.wireless.module.searchinshop.brandshop.TMBrandShopActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.module.searchinshop.shop.TMSearchInShopActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.module.category.TMNewCategoryActivity" theme="2131296468" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostLabelDetailActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostItemDetailActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostAnchorActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostAlbumDetailActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostSelectListActivity" theme="2131296475" configChanges="160" exported="false" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostNewSelectListActivity" configChanges="160" exported="false" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostCommentActivity" configChanges="160" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostProductListActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostVideoPlayActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostVideoJumpActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostCreateActivity" theme="16973831" exported="true" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostEditActivity" configChanges="160" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.tmall.wireless.fun.activity.TMPostImageEditActivity" theme="16973831" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostSubmitActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostSearchActivity" exported="false" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostDetailActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostMsgActivity" configChanges="160" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostProfileActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostQRCodeActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMUserInfoEditorActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMSearchLabelActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMUserListActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostMainActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostReportActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostOrderCommentActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostOrderCommentResultActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostCameraActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fun.activity.TMPostTopicListActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.magicmirror.MagicMirrorActivity" configChanges="160" exported="false">
+<activity name="com.tmall.wireless.module.footprint.TMFootprintMainActivity" exported="false">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.tmall.wireless.imagelab.activities.TMImlabImageEditor" exported="false">
+<activity process=":photoPicker" screenOrientation="1" hardwareAccelerated="true" name="com.tmall.wireless.imagelab.activities.TMImlabPhotoPicker" theme="2131296453" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.imagelab.activities.TMImlabImageGallery" theme="2131296453" exported="false">
+<activity process=":photoPicker" screenOrientation="1" name="com.tmall.wireless.imagelab.cropImage.TMImlabCropActivity" theme="2131296454" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.fav.test.FavoriteTestActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.fav.ui.TMFavoriteItemActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.fav.shop.TMShopFavoriteActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.fav.shop.TMNewArrivalActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.fav.itempre.TMFavoriteInMtopActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.fav.ui.TMShopCampaignItemActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tmall.wireless.wuse.activity.TMWuSeMainActivity">
+<activity screenOrientation="1" name="com.tmall.wireless.wuse.activity.TMWuSeDetailActivity">
+<activity screenOrientation="1" name="com.tmall.wireless.wuse.activity.TMWuSeStyleActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.wuse.activity.TMWuSeTopicRankingActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.wuse.activity.TMWuSeThemeActivity" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.bizgroup.activity.TMBrandSnapupActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.tmall.wireless.bizgroup.activity.TMRenewalActivity" configChanges="160" exported="false">
+20
+<service icon="2130837781" name="com.tmall.wireless.service.TMBackgroundTriggerService" label="2131230720">
+<service process=":push" name="com.taobao.agoo.PushService" exported="true">
+<service process=":push" name="com.tmall.wireless.TaobaoIntentService">
+<service process=":push" name="com.taobao.agoo.TaobaoMessageIntentReceiverService" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service name="com.tmall.wireless.service.TMBackgroundPeriodNetService">
+<service process=":core" icon="2130837781" name="com.tmall.wireless.service.TMDownloadService" exported="false" label="2131232043">
+<service process=":utremote" name="com.taobao.statistic.module.data.Yolanda">
+<service name="anetwork.channel.aidl.NetworkService">
+<service name="mtopsdk.xstate.XStateService">
+<service name="com.taobao.nbcache.service.NBCacheService" exported="false">
+<service name="com.taobao.ju.android.compat.service.JuIntentService">
+<service name="com.alibaba.mobileim.channel.service.InetIOService" exported="false">
+<service process=":notify" name="com.taobao.appcenter.downloadmanage.DownloadAppService">
+<service name="com.taobao.android.sso.internal.PidGetterService" exported="true">
+<service enabled="false" name="com.taobao.android.sso.internal.AuthenticationService" exported="true" permission="android.permission.ACCOUNT_MANAGER">
+<service enabled="false" name="com.taobao.android.sso.internal.AlipayAuthenticationService" exported="true" permission="android.permission.ACCOUNT_MANAGER">
+<service name="com.alipay.android.app.MspService" exported="false">
+<service name="com.tmall.wireless.cache.api.TMCacheJobService" exported="false">
+12
+<receiver name="com.taobao.agoo.SystemReceiver">
+<receiver process=":push" name="com.taobao.agoo.MessageReceiver">
+<receiver process=":push" name="com.taobao.agoo.ElectionReceiver">
+<receiver name="com.taobao.agoo.RegistrationReceiver" exported="false">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver name="com.taobao.taobao.MiPushBroadcastReceiver" exported="true">
+<receiver name="com.tmall.wireless.widget.TMSearchAppWidget" exported="false" label="2131232028">
+<receiver name="com.tmall.wireless.receiver.TMBootCompletedReceiver" exported="false">
+<receiver name="com.alipay.android.app.LiveConnectReceiver" exported="false">
+<receiver name="com.taobao.nbcache.CacheRebootReceiver" exported="true">
+<receiver name="com.tmall.wireless.sharesdk.TMShareBroadCastReceiver" exported="false">
+<receiver process=":notify" name="com.taobao.appcenter.util.app.PhoneStatusReceiver">
+0
+Owner: CN=Android Tmall, OU=TMALL.COM, O=TMALL.COM, L=Hangzhou, ST=Zhejiang, C=86
+Issuer: CN=Android Tmall, OU=TMALL.COM, O=TMALL.COM, L=Hangzhou, ST=Zhejiang, C=86
+Serial number: 4ff3b684
+Valid from: Wed Jul 04 11:20:36 CST 2012 until: Fri Jun 10 11:20:36 CST 2112
+Certificate fingerprints: 
+	MD5:15:94:22:1E:91:9D:5F:05:5B:F3:C1:2B:4F:A4:C6:82
+	SHA1: B9:F1:39:AC:74:93:CD:EB:EC:DE:5C:A1:81:A6:DB:2A:12:0F:54:5E
+	SHA256: 0F:76:B3:65:07:DE:28:D9:E7:BE:BE:47:14:3E:13:18:38:6C:FA:E3:7B:C9:68:2F:F0:CA:02:97:B8:21:E3:C5
+	Signature algorithm name: SHA1withRSA
+	version: 3

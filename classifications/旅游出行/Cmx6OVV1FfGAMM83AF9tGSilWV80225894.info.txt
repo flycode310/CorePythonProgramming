@@ -1,0 +1,87 @@
+com.hyx.maizuo.main
+28
+3.2.2
+8
+-1
+21
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.DISABLE_KEYGUARD
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+40
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.EnterActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.SelectCityActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.hyx.maizuo.main.MainActivity" configChanges="160" label="2131230732" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.hyx.maizuo.main.YinDaoActivity" theme="16973830" configChanges="160" label="2131230732" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.MovieDetailActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.MoviePaiQiActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.AdActivity" theme="16973830" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.SelectPiaoActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.SelectSeatActivity" configChanges="160" label="2131230732" launchMode="2">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.LoginActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.GoodsActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.OrderConfirmActivity" configChanges="160" label="2131230732" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.PayActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.CouponcardActivity" configChanges="160" label="2131230732" launchMode="2">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.MaizuokaPayActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.ActivateActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.BuyNoteActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.CardInfoActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.PaySuccessActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="0" name="com.hyx.maizuo.main.PlayerActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.ScanNoteActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.SearchCardActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.CinemaPaiqiActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.CinemaDetailActivity" configChanges="160" label="2131230732" launchMode="2">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.MyTicketsActivity" configChanges="160" label="2131230732" launchMode="2">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.PayForOrderActivity" configChanges="160" label="2131230732" launchMode="2">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.SecretaryActivity" configChanges="160" label="2131230732" launchMode="2">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.MyTicketsDetialActivity" configChanges="160" label="2131230732" launchMode="2">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.MoreActivity" configChanges="160" label="2131230732" launchMode="2">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.WebActivity" configChanges="160" label="2131230732" launchMode="2">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.RecommendAppsActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.CashCardSupportInfoActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.TailoringImgActivity" configChanges="160" label="2131230732">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity screenOrientation="1" name="com.hyx.maizuo.main.ScanActivity" theme="16973831" configChanges="160" label="2131230732" windowSoftInputMode="3">
+<activity name=".wxapi.WXEntryActivity" exported="true" label="2131230732" launchMode="1">
+<activity name=".wxapi.WXPayEntryActivity" exported="true" launchMode="1">
+<activity name="com.tencent.tauth.TAuthView" configChanges="224" launchMode="2">
+2
+<service name=".server.UpdateService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+4
+<receiver name="com.hyx.maizuo.main.server.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name=".example.DownloadCompleteReceiver">
+0
+Owner: CN=henry, OU=www.maizuo.com, O=深圳华宇讯科技有限公司, L=深圳, ST=广东, C=CN
+Issuer: CN=henry, OU=www.maizuo.com, O=深圳华宇讯科技有限公司, L=深圳, ST=广东, C=CN
+Serial number: 504dd225
+Valid from: Mon Sep 10 19:42:29 CST 2012 until: Wed Aug 17 19:42:29 CST 2112
+Certificate fingerprints: 
+	MD5:2E:EF:B6:C7:2E:43:CB:7E:08:3F:97:87:EF:66:70:5A
+	SHA1: 8C:99:75:70:E2:33:C4:1B:A5:76:17:47:21:93:BA:21:60:8D:D0:A6
+	SHA256: 1D:9D:04:17:D7:0D:F4:9B:70:8B:B7:56:0B:99:80:B2:24:17:C7:99:F8:E4:FD:8E:20:77:57:56:20:DC:5D:29
+	Signature algorithm name: SHA1withRSA
+	version: 3

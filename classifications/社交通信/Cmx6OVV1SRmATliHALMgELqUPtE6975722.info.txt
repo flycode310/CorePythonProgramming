@@ -1,0 +1,182 @@
+cn.cj.pe
+20150508
+6.1.0
+10
+15
+38
+android.permission.READ_EXTERNAL_STORAGE
+cn.cj.pe.permission.READ_ATTACHMENT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+cn.cj.pe.permission.READ_MESSAGES
+android.permission.SEND_SMS
+android.permission.INTERACT_ACROSS_USERS_FULL
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_SYNC_STATS
+android.permission.WRITE_CALENDAR
+android.permission.RECEIVE_USER_PRESENT
+org.thialfihar.android.apg.permission.READ_KEY_DETAILS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+cn.cj.pe.permission.REMOTE_CONTROL
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SYNC_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+cn.cj.pe.permission.DELETE_MESSAGES
+83
+<activity name="cn.cj.pe.activity.ChooseFolder" theme="2131361814" configChanges="4" label="2131296325" noHistory="true">
+<activity name="cn.cj.pe.activity.BaseListActivity" theme="2131361814" configChanges="4" label="2131296325" noHistory="true">
+<activity name="cn.cj.pe.activity.BaseFragmentActivity" theme="2131361814" configChanges="4" label="2131296325" noHistory="true">
+<activity name="cn.cj.pe.activity.ChooseIdentity" theme="2131361814" configChanges="4" label="2131296830">
+<activity name="cn.cj.pe.activity.ManageIdentities" configChanges="4" label="2131296807">
+<activity name="cn.cj.pe.activity.EditIdentity" configChanges="4" label="2131296809">
+<activity excludeFromRecents="true" name="cn.cj.pe.activity.NotificationDeleteConfirmation" theme="16973840" taskAffinity="" launchMode="1">
+<activity name="cn.cj.pe.activity.TestActivity">
+<activity screenOrientation="1" name="cn.cj.pe.activity.MessageList" theme="16973918" uiOptions="1" configChanges="1184" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="cn.cj.pe.activity.MessageViewActivity" theme="16973950" windowSoftInputMode="16" launchMode="2">
+<activity enabled="false" screenOrientation="1" name="cn.cj.pe.activity.MessageCompose" theme="16973918" uiOptions="1" configChanges="1184" label="2131296288" windowSoftInputMode="18">
+<activity name="cn.cj.pe.activity.Search" uiOptions="1" configChanges="4" label="2131296360">
+<activity name="cn.cj.pe.activity.AccessibleEmailContentActivity">
+<activity name="cn.cj.pe.attachment.AttachmentDetailActivity" theme="16973932" configChanges="4" label="2131296290">
+<activity name="cn.cj.pe.attachment.AttachmentUploadActivity" theme="16973932" configChanges="4" label="2131296290">
+<activity name="cn.cj.pe.activity.UpgradeDatabases" theme="2131361833" label="2131297101">
+<activity name="com.mail139.account.activity.AccountSetupActivity">
+<activity name="com.mail139.contacts.activity.ContactAppSelectActivity" windowSoftInputMode="32">
+<activity name="com.mail139.contacts.activity.ContactAppGroupActivity">
+<activity name="com.mail139.contacts.activity.ContactAppDetailActivity">
+<activity name="com.mail139.contacts.activity.ContactAppAddOrEditActivity">
+<activity name="com.mail139.account.activity.AccountLoginActivity" theme="16973919" exported="false" launchMode="1">
+<activity name="com.mail139.about.AboutActivity">
+<activity name="com.mail139.account.activity.OperationSetupActivity" launchMode="1">
+<activity name="com.mail139.account.activity.AccountSignActivity">
+<activity name="com.mail139.account.activity.AddAccountActivity">
+<activity name="com.mail139.about.FeedBackActivity" windowSoftInputMode="32">
+<activity name="com.mail139.about.SplashActivity">
+<activity name="com.mail139.dropbox.activity.DropboxSelectActivity">
+<activity name="com.mail139.dropbox.activity.DropboxAccountActivity">
+<activity name="com.dropbox.client2.android.AuthActivity" configChanges="144" launchMode="2">
+<activity name="com.mail139.account.activity.AccountTypeActivity">
+<activity name="com.mail139.account.activity.AccountNameActivity">
+<activity name="com.mail139.account.activity.NewEmailRmindActivity">
+<activity name="com.mail139.account.activity.NoDisturbActivity">
+<activity name="com.mail139.dropbox.activity.SelectAttachmentDialog" theme="2131361817">
+<activity name="com.mail139.managers.dialog.UpdateDialog" theme="2131361817">
+<activity name="com.mail139.dropbox.activity.SdcardSelectActivity">
+<activity name="com.mail139.contacts.activity.ContactGroupEditActivity">
+<activity name="com.mail139.contacts.activity.ContactGroupShowActivity" windowSoftInputMode="32">
+<activity name="com.mail139.alarm.AlarmAlertActivity" theme="2131361833">
+<activity name="com.mail139.account.activity.NotifySmsDialogActivity" theme="2131361833">
+<activity name="com.mail139.account.activity.LingxiActivity">
+<activity name="com.mail139.account.activity.ForgetPasswordActivity">
+<activity name="com.mail139.account.activity.AppRecommindActivity">
+<activity name="com.mail139.about.PublicWebView">
+<activity name="com.mail139.account.activity.NotifySettingActivity">
+<activity name="com.mail139.account.activity.DischargeActivity">
+<activity name="com.mail139.protect.activity.PasswordActivity">
+<activity screenOrientation="1" name="com.mail139.protect.activity.CheckPasswordActivity" theme="16973834" launchMode="2">
+<activity name="com.mail139.protect.activity.EmailModifyActivity">
+<activity name="com.mail139.cloud.activity.CloudSelectActivity">
+<activity name="com.mail139.cloud.activity.CloudDetailActivity">
+<activity name="com.mail139.account.activity.IPPushSettingActivity">
+<activity name="com.mail139.account.activity.LoadEmaiSettingActivity">
+<activity name="com.mail139.account.activity.AppRecommendActivity">
+<activity screenOrientation="1" name="com.mail139.about.LaunchActivity" theme="16973919">
+<activity name="com.mail139.managers.activity.CalenderAddScheduleActivity" theme="2131361840">
+<activity name="com.mail139.managers.activity.CalenderDetailActivity">
+<activity name="com.mail139.filepicker.FilePickerActivity">
+<activity name="com.mail139.filepicker.PicturePickerActivity">
+<activity name="com.mail139.filepicker.PictureGalleryActivity">
+<activity name="com.mail139.filepicker.AttachmentSelectActivity">
+<activity name="com.mail139.filepicker.AttachmentUploadActivity">
+<activity name="com.mail139.filepicker.PreviewAttFileActivity">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.AddScheduleActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.ScheduleDetailActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.ScheduleShareListActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.ScheduleShareDetailActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.RepeatSettingActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.contact.ContactActivity" theme="2131361840" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.LabelManageActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.LabelCreateActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.LabelDetailActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.authenticator.AccountSetupActivity" theme="2131361840">
+<activity screenOrientation="1" excludeFromRecents="true" name="cn.richinfo.calendar.alert.AlertActivity" theme="2131361875" launchMode="3">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.CalMainActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.AttendeesDetailActivity" theme="2131361840">
+<activity screenOrientation="1" name="cn.richinfo.calendar.ui.contact.InviteActivity" theme="2131361840">
+<activity screenOrientation="1" name="com.mail139.whiteblacklist.WhiteblackListManagerActivity" theme="2131361840">
+<activity screenOrientation="1" name="com.mail139.whiteblacklist.WhiteblackListDetailActivity" theme="2131361840">
+<activity screenOrientation="1" name="com.mail139.contacts.activity.ContactAppEditActivity" theme="2131361840">
+<activity screenOrientation="1" name="com.mail139.account.activity.OpenImapHelpActivity" theme="2131361840">
+20
+<service enabled="true" name="cn.cj.pe.service.MailService">
+<service enabled="true" name="cn.cj.pe.service.NotificationActionService">
+<service enabled="false" name="cn.cj.pe.service.PushService">
+<service enabled="true" name="cn.cj.pe.service.PollService">
+<service enabled="true" name="cn.cj.pe.service.RemoteControlService" permission="cn.cj.pe.permission.REMOTE_CONTROL">
+<service enabled="true" name="cn.cj.pe.service.SleepService">
+<service name="com.mail139.contacts.service.LoadContactService">
+<service name="com.mail139.contacts.service.ContactsChangedService">
+<service enabled="true" name="cn.cj.pe.attachment.AttachmentService">
+<service enabled="true" name="cn.cj.pe.ippush.LongPollingService">
+<service enabled="true" name="cn.cj.pe.helper.CommonService">
+<service name="cn.cj.pe.service.DatabaseUpgradeService" exported="false">
+<service name="cn.richinfo.calendar.alert.AlertService">
+<service name="cn.richinfo.calendar.alert.DismissAlarmsService">
+<service name="cn.richinfo.calendar.sync.SyncService">
+<service name="cn.richinfo.calendar.sync.account.AuthenticationService" exported="false">
+<service name="cn.richinfo.calendar.sync.contact.ContactsSyncService">
+<service name="cn.richinfo.calendar.sync.calendar.LocalSyncService" exported="false">
+<service enabled="true" name="cn.richinfo.pns.service.PushService" exported="false">
+<service name="mail139.umcsdk.trustauthentication.UMCAuthenticatorService" permission="android.permission.ACCOUNT_MANAGER">
+17
+<receiver enabled="true" name="cn.cj.pe.service.BootReceiver">
+<receiver enabled="true" name="cn.cj.pe.service.RemoteControlReceiver" permission="cn.cj.pe.permission.REMOTE_CONTROL">
+<receiver enabled="true" name="cn.cj.pe.service.CoreReceiver">
+<receiver name="cn.cj.pe.service.SMSReceiver">
+<receiver enabled="true" name="cn.cj.pe.service.StorageReceiver">
+<receiver name="com.mail139.contacts.receiver.BootCompletedReceiver">
+<receiver name="com.mail139.alarm.CallAlarmReceiver">
+<receiver name="com.mail139.account.receiver.DischargeReceiver">
+<receiver name="com.mail139.account.receiver.ShutdownReceiver">
+<receiver name="com.mail139.account.receiver.ConnectivityReceiver">
+<receiver name="com.mail139.account.smLogin.PeBroadcastReceiver">
+<receiver name="com.mail139.managers.wedgit.EmailAppWidgetProvider" label="139邮箱">
+<receiver name="cn.richinfo.calendar.alert.AlertReceiver">
+<receiver name="cn.richinfo.calendar.receivers.StartUpIntentReceiver">
+<receiver enabled="true" name="cn.richinfo.pns.service.PushReceiver">
+<receiver enabled="true" name="cn.richinfo.pns.service.AlarmReceiver">
+<receiver enabled="true" name="cn.richinfo.calendar.sync.SyncMessageReceiver">
+4
+<provider authorities="cn.cj.pe.mail139.contacts" name="com.mail139.contacts.provider.ContactsProvider" exported="false">
+<provider authorities="cn.cj.pe.attachmentprovider" multiprocess="true" name="cn.cj.pe.provider.AttachmentProvider" grantUriPermissions="true" exported="false" readPermission="cn.cj.pe.permission.READ_ATTACHMENT">
+<provider writePermission="cn.cj.pe.permission.DELETE_MESSAGES" authorities="cn.cj.pe.messageprovider" multiprocess="true" name="cn.cj.pe.provider.MessageProvider" grantUriPermissions="true" exported="false" readPermission="cn.cj.pe.permission.READ_MESSAGES">
+<provider authorities="cn.cj.pe.provider.email" name="cn.cj.pe.provider.EmailProvider" exported="false">
+Owner: CN=Beijing Wireless Leadtone Ltd., OU=www.leadtone.com, O=Beijing Wireless Leadtone Ltd., L=Beijing, ST=Beijing, C=cn
+Issuer: CN=Beijing Wireless Leadtone Ltd., OU=www.leadtone.com, O=Beijing Wireless Leadtone Ltd., L=Beijing, ST=Beijing, C=cn
+Serial number: 4c7395e8
+Valid from: Tue Aug 24 17:50:32 CST 2010 until: Mon Dec 25 17:50:32 CST 3009
+Certificate fingerprints: 
+	MD5:18:AE:71:CB:B9:8F:81:FA:F0:C2:67:C8:B8:3B:C5:84
+	SHA1: 60:34:32:04:BB:88:44:0E:73:8E:55:83:A4:69:EF:ED:34:2A:ED:AA
+	SHA256: 8D:4E:D1:5A:7D:9B:BF:E3:CF:3E:C2:4E:31:A5:F5:2A:C5:8F:EF:74:2E:3A:B6:7B:1B:A1:C9:7A:0E:22:72:E9
+	Signature algorithm name: SHA1withRSA
+	version: 3

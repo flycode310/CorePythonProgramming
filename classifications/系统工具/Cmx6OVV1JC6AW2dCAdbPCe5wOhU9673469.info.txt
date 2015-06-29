@@ -1,0 +1,220 @@
+org.mozilla.fennec_mylinux
+2015042914
+40.2
+9
+21
+33
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.WRITE_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+org.mozilla.fennec_mylinux.permission.PER_ANDROID_PACKAGE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+org.mozilla.fennec_mylinux.permissions.BROWSER_PROVIDER
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+org.mozilla.fennec_mylinux_fxaccount.permission.PER_ACCOUNT_TYPE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.NFC
+com.android.launcher.permission.INSTALL_SHORTCUT
+org.mozilla.fennec_mylinux.permissions.FORMHISTORY_PROVIDER
+android.permission.USE_CREDENTIALS
+org.mozilla.fennec_mylinux.permissions.PASSWORD_PROVIDER
+org.mozilla.fennec_mylinux_sync.permission.PER_ACCOUNT_TYPE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_SYNC_STATS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SYNC_SETTINGS
+android.permission.VIBRATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+129
+<activity name="org.mozilla.gecko.BrowserApp" theme="2131165649" configChanges="9399" exported="true" label="2131230777" windowSoftInputMode="16" taskAffinity="org.mozilla.fennec_mylinux.BROWSER" alwaysRetainTaskState="true" launchMode="2">
+<activity name="org.mozilla.gecko.tabqueue.TabQueuePrompt" theme="2131165652" launchMode="1">
+<activity name="org.mozilla.gecko.tabqueue.TabQueueDispatcher" theme="2131165609" label="Fennec mylinux" launchMode="2">
+<activity excludeFromRecents="true" name="org.mozilla.gecko.StartPane" theme="2131165651">
+<activity name="org.mozilla.gecko.webapp.Dispatcher" noHistory="true">
+<activity process=":org.mozilla.fennec_mylinux.Webapp" excludeFromRecents="true" name="org.mozilla.gecko.Webapp" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" taskAffinity="org.mozilla.gecko.WEBAPP" launchMode="2">
+<activity process=":org.mozilla.fennec_mylinux.Webapp0" name="org.mozilla.gecko.webapp.Webapps$Webapp0" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp1" name="org.mozilla.gecko.webapp.Webapps$Webapp1" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp2" name="org.mozilla.gecko.webapp.Webapps$Webapp2" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp3" name="org.mozilla.gecko.webapp.Webapps$Webapp3" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp4" name="org.mozilla.gecko.webapp.Webapps$Webapp4" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp5" name="org.mozilla.gecko.webapp.Webapps$Webapp5" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp6" name="org.mozilla.gecko.webapp.Webapps$Webapp6" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp7" name="org.mozilla.gecko.webapp.Webapps$Webapp7" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp8" name="org.mozilla.gecko.webapp.Webapps$Webapp8" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp9" name="org.mozilla.gecko.webapp.Webapps$Webapp9" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp10" name="org.mozilla.gecko.webapp.Webapps$Webapp10" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp11" name="org.mozilla.gecko.webapp.Webapps$Webapp11" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp12" name="org.mozilla.gecko.webapp.Webapps$Webapp12" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp13" name="org.mozilla.gecko.webapp.Webapps$Webapp13" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp14" name="org.mozilla.gecko.webapp.Webapps$Webapp14" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp15" name="org.mozilla.gecko.webapp.Webapps$Webapp15" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp16" name="org.mozilla.gecko.webapp.Webapps$Webapp16" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp17" name="org.mozilla.gecko.webapp.Webapps$Webapp17" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp18" name="org.mozilla.gecko.webapp.Webapps$Webapp18" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp19" name="org.mozilla.gecko.webapp.Webapps$Webapp19" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp20" name="org.mozilla.gecko.webapp.Webapps$Webapp20" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp21" name="org.mozilla.gecko.webapp.Webapps$Webapp21" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp22" name="org.mozilla.gecko.webapp.Webapps$Webapp22" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp23" name="org.mozilla.gecko.webapp.Webapps$Webapp23" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp24" name="org.mozilla.gecko.webapp.Webapps$Webapp24" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp25" name="org.mozilla.gecko.webapp.Webapps$Webapp25" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp26" name="org.mozilla.gecko.webapp.Webapps$Webapp26" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp27" name="org.mozilla.gecko.webapp.Webapps$Webapp27" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp28" name="org.mozilla.gecko.webapp.Webapps$Webapp28" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp29" name="org.mozilla.gecko.webapp.Webapps$Webapp29" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp30" name="org.mozilla.gecko.webapp.Webapps$Webapp30" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp31" name="org.mozilla.gecko.webapp.Webapps$Webapp31" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp32" name="org.mozilla.gecko.webapp.Webapps$Webapp32" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp33" name="org.mozilla.gecko.webapp.Webapps$Webapp33" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp34" name="org.mozilla.gecko.webapp.Webapps$Webapp34" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp35" name="org.mozilla.gecko.webapp.Webapps$Webapp35" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp36" name="org.mozilla.gecko.webapp.Webapps$Webapp36" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp37" name="org.mozilla.gecko.webapp.Webapps$Webapp37" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp38" name="org.mozilla.gecko.webapp.Webapps$Webapp38" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp39" name="org.mozilla.gecko.webapp.Webapps$Webapp39" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp40" name="org.mozilla.gecko.webapp.Webapps$Webapp40" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp41" name="org.mozilla.gecko.webapp.Webapps$Webapp41" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp42" name="org.mozilla.gecko.webapp.Webapps$Webapp42" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp43" name="org.mozilla.gecko.webapp.Webapps$Webapp43" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp44" name="org.mozilla.gecko.webapp.Webapps$Webapp44" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp45" name="org.mozilla.gecko.webapp.Webapps$Webapp45" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp46" name="org.mozilla.gecko.webapp.Webapps$Webapp46" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp47" name="org.mozilla.gecko.webapp.Webapps$Webapp47" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp48" name="org.mozilla.gecko.webapp.Webapps$Webapp48" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp49" name="org.mozilla.gecko.webapp.Webapps$Webapp49" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp50" name="org.mozilla.gecko.webapp.Webapps$Webapp50" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp51" name="org.mozilla.gecko.webapp.Webapps$Webapp51" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp52" name="org.mozilla.gecko.webapp.Webapps$Webapp52" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp53" name="org.mozilla.gecko.webapp.Webapps$Webapp53" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp54" name="org.mozilla.gecko.webapp.Webapps$Webapp54" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp55" name="org.mozilla.gecko.webapp.Webapps$Webapp55" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp56" name="org.mozilla.gecko.webapp.Webapps$Webapp56" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp57" name="org.mozilla.gecko.webapp.Webapps$Webapp57" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp58" name="org.mozilla.gecko.webapp.Webapps$Webapp58" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp59" name="org.mozilla.gecko.webapp.Webapps$Webapp59" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp60" name="org.mozilla.gecko.webapp.Webapps$Webapp60" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp61" name="org.mozilla.gecko.webapp.Webapps$Webapp61" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp62" name="org.mozilla.gecko.webapp.Webapps$Webapp62" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp63" name="org.mozilla.gecko.webapp.Webapps$Webapp63" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp64" name="org.mozilla.gecko.webapp.Webapps$Webapp64" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp65" name="org.mozilla.gecko.webapp.Webapps$Webapp65" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp66" name="org.mozilla.gecko.webapp.Webapps$Webapp66" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp67" name="org.mozilla.gecko.webapp.Webapps$Webapp67" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp68" name="org.mozilla.gecko.webapp.Webapps$Webapp68" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp69" name="org.mozilla.gecko.webapp.Webapps$Webapp69" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp70" name="org.mozilla.gecko.webapp.Webapps$Webapp70" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp71" name="org.mozilla.gecko.webapp.Webapps$Webapp71" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp72" name="org.mozilla.gecko.webapp.Webapps$Webapp72" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp73" name="org.mozilla.gecko.webapp.Webapps$Webapp73" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp74" name="org.mozilla.gecko.webapp.Webapps$Webapp74" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp75" name="org.mozilla.gecko.webapp.Webapps$Webapp75" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp76" name="org.mozilla.gecko.webapp.Webapps$Webapp76" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp77" name="org.mozilla.gecko.webapp.Webapps$Webapp77" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp78" name="org.mozilla.gecko.webapp.Webapps$Webapp78" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp79" name="org.mozilla.gecko.webapp.Webapps$Webapp79" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp80" name="org.mozilla.gecko.webapp.Webapps$Webapp80" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp81" name="org.mozilla.gecko.webapp.Webapps$Webapp81" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp82" name="org.mozilla.gecko.webapp.Webapps$Webapp82" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp83" name="org.mozilla.gecko.webapp.Webapps$Webapp83" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp84" name="org.mozilla.gecko.webapp.Webapps$Webapp84" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp85" name="org.mozilla.gecko.webapp.Webapps$Webapp85" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp86" name="org.mozilla.gecko.webapp.Webapps$Webapp86" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp87" name="org.mozilla.gecko.webapp.Webapps$Webapp87" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp88" name="org.mozilla.gecko.webapp.Webapps$Webapp88" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp89" name="org.mozilla.gecko.webapp.Webapps$Webapp89" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp90" name="org.mozilla.gecko.webapp.Webapps$Webapp90" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp91" name="org.mozilla.gecko.webapp.Webapps$Webapp91" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp92" name="org.mozilla.gecko.webapp.Webapps$Webapp92" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp93" name="org.mozilla.gecko.webapp.Webapps$Webapp93" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp94" name="org.mozilla.gecko.webapp.Webapps$Webapp94" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp95" name="org.mozilla.gecko.webapp.Webapps$Webapp95" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp96" name="org.mozilla.gecko.webapp.Webapps$Webapp96" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp97" name="org.mozilla.gecko.webapp.Webapps$Webapp97" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp98" name="org.mozilla.gecko.webapp.Webapps$Webapp98" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process=":org.mozilla.fennec_mylinux.Webapp99" name="org.mozilla.gecko.webapp.Webapps$Webapp99" theme="2131165649" configChanges="1203" exported="true" label="2131231346" windowSoftInputMode="16" launchMode="1">
+<activity process="org.mozilla.fennec_mylinuxRestarter" name="org.mozilla.gecko.Restarter" theme="2131165645" noHistory="true">
+<activity clearTaskOnLaunch="true" name="org.mozilla.gecko.fxa.activities.FxAccountStatusActivity" theme="2131165429" configChanges="8196" label="2131230927" windowSoftInputMode="16" taskAffinity="org.mozilla.fennec_mylinux.FXA">
+<activity clearTaskOnLaunch="true" name="org.mozilla.gecko.fxa.activities.FxAccountGetStartedActivity" theme="2131165428" configChanges="8196" label="2131230803" windowSoftInputMode="16" taskAffinity="org.mozilla.fennec_mylinux.FXA">
+<activity name="org.mozilla.gecko.fxa.activities.FxAccountCreateAccountActivity" theme="2131165428" configChanges="8196" windowSoftInputMode="16">
+<activity name="org.mozilla.gecko.fxa.activities.FxAccountConfirmAccountActivity" theme="2131165428" configChanges="8196" windowSoftInputMode="16" noHistory="true">
+<activity name="org.mozilla.gecko.fxa.activities.FxAccountSignInActivity" theme="2131165428" configChanges="8196" windowSoftInputMode="16">
+<activity name="org.mozilla.gecko.fxa.activities.FxAccountVerifiedAccountActivity" theme="2131165428" configChanges="8196" windowSoftInputMode="16" noHistory="true">
+<activity name="org.mozilla.gecko.fxa.activities.FxAccountUpdateCredentialsActivity" theme="2131165428" configChanges="8196" windowSoftInputMode="16">
+<activity name="org.mozilla.gecko.fxa.activities.FxAccountFinishMigratingActivity" theme="2131165428" configChanges="8196" windowSoftInputMode="16">
+<activity name="org.mozilla.gecko.fxa.activities.FxAccountMigrationFinishedActivity" theme="2131165428" configChanges="8196" windowSoftInputMode="16" noHistory="true">
+<activity name="org.mozilla.gecko.fxa.activities.FxAccountCreateAccountNotAllowedActivity" theme="2131165428" configChanges="8196" windowSoftInputMode="16" noHistory="true">
+<activity icon="2130837721" name="org.mozilla.gecko.sync.setup.activities.SetupSyncActivity" theme="2131165633" configChanges="1184" label="2131230803" windowSoftInputMode="19" taskAffinity="org.mozilla.gecko.sync.setup">
+<activity name="org.mozilla.gecko.sync.setup.activities.WebViewActivity" theme="2131165645">
+<activity clearTaskOnLaunch="true" name="org.mozilla.gecko.sync.setup.activities.AccountActivity" theme="2131165633" windowSoftInputMode="18">
+<activity clearTaskOnLaunch="true" name="org.mozilla.gecko.sync.setup.activities.RedirectToSetupActivity" theme="2131165633" windowSoftInputMode="18">
+<activity excludeFromRecents="true" name="org.mozilla.gecko.sync.setup.activities.SetupFailureActivity" theme="2131165633" noHistory="true">
+<activity excludeFromRecents="true" name="org.mozilla.gecko.sync.setup.activities.SetupSuccessActivity" theme="2131165633" noHistory="true">
+<activity excludeFromRecents="true" name="org.mozilla.gecko.sync.config.activities.SelectEnginesActivity" theme="2131165633" taskAffinity="org.mozilla.gecko.sync.setup">
+<activity icon="2130837825" name="org.mozilla.search.SearchActivity" theme="2131165447" configChanges="1152" label="2131230788" launchMode="1">
+<activity logo="2130837825" name="org.mozilla.search.SearchPreferenceActivity" theme="2131165448" parentActivityName="org.mozilla.search.SearchActivity" label="2131230792">
+<activity process="org.mozilla.fennec_mylinux.CrashReporter" icon="2130837631" excludeFromRecents="true" name="org.mozilla.gecko.CrashReporter" theme="2131165645" exported="false" label="2131230987">
+<activity excludeFromRecents="true" name="org.mozilla.gecko.preferences.GeckoPreferences" theme="2131165650" configChanges="9348">
+<activity name="org.mozilla.gecko.overlays.ui.ShareDialog" theme="2131165652" configChanges="8247" label="2131231035" windowSoftInputMode="19" launchMode="1">
+16
+<service name="org.mozilla.gecko.tabqueue.TabQueueService">
+<service name="org.mozilla.gecko.overlays.service.OverlayActionService">
+<service process="org.mozilla.f3nn3c_mylinux.UpdateService" name="org.mozilla.gecko.updater.UpdateService" exported="false">
+<service name="org.mozilla.gecko.NotificationService" exported="false">
+<service name="org.mozilla.gecko.fxa.authenticator.FxAccountAuthenticatorService" exported="true">
+<service name="org.mozilla.gecko.fxa.receivers.FxAccountDeletedService" exported="false">
+<service name="org.mozilla.gecko.fxa.sync.FxAccountSyncService" exported="false">
+<service name="org.mozilla.gecko.reading.ReadingListSyncService" exported="false">
+<service name="org.mozilla.gecko.background.healthreport.HealthReportBroadcastService" exported="false">
+<service name="org.mozilla.gecko.background.healthreport.upload.HealthReportUploadService" exported="false">
+<service name="org.mozilla.gecko.background.healthreport.prune.HealthReportPruneService" exported="false">
+<service name="org.mozilla.gecko.sync.setup.SyncAuthenticatorService" exported="false">
+<service name="org.mozilla.gecko.sync.syncadapter.SyncService" exported="false">
+<service name="org.mozilla.gecko.sync.receivers.SyncAccountDeletedService" exported="false">
+<service name="org.mozilla.mozstumbler.service.stumblerthread.StumblerService" label="stumbler">
+<service name="org.mozilla.mozstumbler.service.uploadthread.UploadAlarmReceiver$UploadAlarmService">
+13
+<receiver name="org.mozilla.gecko.webapp.UninstallListener">
+<receiver name="org.mozilla.gecko.webapp.TaskKiller">
+<receiver name="org.mozilla.gecko.GeckoUpdateReceiver">
+<receiver name="org.mozilla.gecko.GeckoMessageReceiver" permission="org.mozilla.fennec_mylinux.permissions.PASSWORD_PROVIDER">
+<receiver name="org.mozilla.gecko.distribution.ReferrerReceiver" exported="true">
+<receiver name="org.mozilla.gecko.fxa.receivers.FxAccountDeletedReceiver" permission="org.mozilla.fennec_mylinux_fxaccount.permission.PER_ACCOUNT_TYPE">
+<receiver name="org.mozilla.gecko.fxa.receivers.FxAccountUpgradeReceiver">
+<receiver name="org.mozilla.gecko.background.healthreport.HealthReportBroadcastReceiver">
+<receiver name="org.mozilla.gecko.sync.receivers.UpgradeReceiver">
+<receiver name="org.mozilla.gecko.sync.receivers.SyncAccountDeletedReceiver" permission="org.mozilla.fennec_mylinux_sync.permission.PER_ACCOUNT_TYPE">
+<receiver name="org.mozilla.search.SearchWidget" label="2131230798">
+<receiver name="org.mozilla.mozstumbler.service.uploadthread.UploadAlarmReceiver">
+<receiver name="org.mozilla.mozstumbler.service.mainthread.PassiveServiceReceiver">
+9
+<provider authorities="org.mozilla.fennec_mylinux.health" name="org.mozilla.gecko.background.healthreport.HealthReportProvider" permission="org.mozilla.fennec_mylinux.permissions.HEALTH_PROVIDER">
+<provider authorities="org.mozilla.fennec_mylinux.db.browser" name="org.mozilla.gecko.db.BrowserProvider" permission="org.mozilla.fennec_mylinux.permissions.BROWSER_PROVIDER">
+<provider process="org.mozilla.f3nn3c_mylinux.PasswordsProvider" authorities="org.mozilla.fennec_mylinux.db.passwords" name="org.mozilla.gecko.db.PasswordsProvider" permission="org.mozilla.fennec_mylinux.permissions.PASSWORD_PROVIDER" label="2131230836">
+<provider authorities="org.mozilla.fennec_mylinux.db.formhistory" name="org.mozilla.gecko.db.FormHistoryProvider" permission="org.mozilla.fennec_mylinux.permissions.FORMHISTORY_PROVIDER" label="2131230837" protectionLevel="2">
+<provider authorities="org.mozilla.fennec_mylinux.profiles" name="org.mozilla.gecko.GeckoProfilesProvider">
+<provider authorities="org.mozilla.fennec_mylinux.db.tabs" name="org.mozilla.gecko.db.TabsProvider" permission="org.mozilla.fennec_mylinux.permissions.BROWSER_PROVIDER" label="2131230838">
+<provider authorities="org.mozilla.fennec_mylinux.db.home" name="org.mozilla.gecko.db.HomeProvider" permission="org.mozilla.fennec_mylinux.permissions.BROWSER_PROVIDER">
+<provider authorities="org.mozilla.fennec_mylinux.db.readinglist" name="org.mozilla.gecko.db.ReadingListProvider" exported="false" permission="org.mozilla.fennec_mylinux.permissions.BROWSER_PROVIDER" label="2131230984">
+<provider authorities="org.mozilla.fennec_mylinux.db.searchhistory" name="org.mozilla.gecko.db.SearchHistoryProvider" permission="org.mozilla.fennec_mylinux.permissions.BROWSER_PROVIDER">
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 52e60278
+Valid from: Mon Jan 27 14:53:44 CST 2014 until: Wed Jan 20 14:53:44 CST 2044
+Certificate fingerprints: 
+	MD5:8C:87:2D:2B:94:95:FE:98:19:8F:F3:D5:F7:D2:85:B1
+	SHA1: 43:DB:91:41:B1:10:B5:7B:2D:63:3B:78:E4:40:07:7D:AD:B6:00:4E
+	SHA256: 16:26:A8:2E:A9:20:14:C5:BD:D1:A6:06:EC:A0:B4:6F:92:09:C1:33:76:D5:24:E4:1B:98:31:48:B2:FF:6E:32
+	Signature algorithm name: SHA1withRSA
+	version: 3

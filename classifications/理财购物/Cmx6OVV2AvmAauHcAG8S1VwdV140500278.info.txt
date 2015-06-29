@@ -1,0 +1,151 @@
+com.yrz.atourong
+26
+4.1.6
+9
+17
+23
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.GET_PACKAGE_SIZE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+102
+<activity screenOrientation="1" name=".ui.LoadingActivity" label="2131361857">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name=".ui.FirstActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.MainActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".ui.AgreementActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.HomeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.MainWebActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.finance.ManageFinanceActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.finance.ManageFinanceInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.finance.ManageFinanceBidSuccessActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.transfer.ManageTransferActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.AccountActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.AccountListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.ManageFinanceListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.FinanceListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.FinanceListInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.FundListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.FundListInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.ManageFinanceListInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.ShareListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.ShareTransferActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserNameAuthActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserMailAuthActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserMailUpdaterActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserMobileAuthActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserMobileUpdaterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.pwdmanage.UserPwdManageActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserPwdUpdaterActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserBankListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserBankAddActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.BankListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserCancelBindingActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.RepaymentListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.RechargeListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.RechargeInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.RechargeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.RechargeNewActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.MyTestRecharge" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.WithdrawalsListActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".ui.account.WithdrawalsInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.WithdrawalsActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.account.BalancePaymentsActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.SelectBankCardActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.AccountBankSearchActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.CityListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.SafeQuestionActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.SafeQuestionSelectActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserPayPwdFindActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserPayPwdUpdaterActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.AccountSettingActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.UserPayPwdSetActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.pwdmanage.GesturePwdActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.pwdmanage.UserMobilePayPwdActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.pwdmanage.UserMobileCodeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.pwdmanage.PayPwdChannelVerifyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.pwdmanage.PayPwdGeneralActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.pwdmanage.PayPwdResetShowActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.UserPayPwdFirstSetActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.UserPayPwdSecondSetActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.account.MyRewardActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.MoreActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.LinkUsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.more.FeedbackActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.OperateDataActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.more.NewDynamicActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.more.DynamicInfoActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.more.MoveZoneActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.more.MoveZoneDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.more.InviteActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.more.XinbakeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.SettingGestureLockActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".ui.GestureLoginActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".ui.LoginActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.LoginAuthActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.RichHandsomeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.more.NoviceActivity" configChanges="160">
+<activity name=".ui.ShakeActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.account.user.ForgetPasswordFirstActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.user.ForgetPasswordGeneralActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.user.ForgetPasswordChannelActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.user.ForgetPasswordChannelVerifyActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.UserRegisterFirActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.UserRegisterSecActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.UserRegisterAuthActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.NoviceGuideActivity" configChanges="160">
+<activity screenOrientation="1" name=".bdpush.AlarmDialogActivity" theme="2131492962" configChanges="160" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.transfer.CashActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.transfer.CashConfirmActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yrz.atourong.ui.transfer.CashSuccessActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.bespeak.BespeakInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.bespeak.BespeakApplyActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.account.bespeak.BespeakAreaActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.bespeak.BespeakApplySuccessActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.MessageCentreActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.ManageFinanceListProtocol" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.MessageDetailActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".ui.account.qifuxin.QifuxinApplyActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.account.qifuxin.QifuxinListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.newfinan.NewFinanceActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.newfinan.QualificationsAuthenticationActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.newfinan.InvestorAuthenticationActivity" configChanges="160">
+1
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+5
+<receiver name=".bdpush.BDPushNotifiClickRecevier">
+<receiver name=".bdpush.UpdateDownloadReceiver" exported="false">
+<receiver name=".bdpush.BDPushMessageReciever">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=xiaozheng, OU=www.upg.cn, O=www.upg.cn, L=hangzhou, ST=zhejiang, C=cn
+Issuer: CN=xiaozheng, OU=www.upg.cn, O=www.upg.cn, L=hangzhou, ST=zhejiang, C=cn
+Serial number: 4f76ec06
+Valid from: Sat Mar 31 19:35:34 CST 2012 until: Sun Jan 02 19:35:34 CST 2067
+Certificate fingerprints: 
+	MD5:E2:22:64:66:18:49:67:93:CF:70:67:39:64:82:D4:9B
+	SHA1: 8B:F6:DB:2C:8C:77:32:31:EB:0A:37:19:04:C9:40:C2:3F:B9:7F:07
+	SHA256: 41:CC:FF:25:B5:77:19:90:F9:9B:B4:FD:E0:73:8A:54:B2:9B:66:EB:01:5B:34:6B:0C:91:E0:85:F2:0D:51:6A
+	Signature algorithm name: SHA1withRSA
+	version: 3

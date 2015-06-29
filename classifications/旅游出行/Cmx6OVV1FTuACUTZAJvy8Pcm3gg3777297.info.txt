@@ -1,0 +1,285 @@
+com.linlang.app.firstapp
+15
+1.8.71
+11
+19
+35
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.DISABLE_KEYGUARD
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+223
+<activity name=".SplashActivity" label="2131427341">
+<activity name=".LoginActivity" theme="16973837" launchMode="2">
+<activity name=".MainActivity" launchMode="2">
+<activity name="com.linlang.app.shop.ShopActivity">
+<activity screenOrientation="1" name="com.linlang.app.qrcode.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="4" name=".MapActivity" theme="16973837" configChanges="160">
+<activity screenOrientation="4" name=".MapLocationActivity" theme="16973837" configChanges="160">
+<activity name=".shop.NoticeActivity" theme="16973837">
+<activity name=".NearLifeDetailActivity">
+<activity name="com.linlang.app.firstapp.ZiYingProductDetailActivity">
+<activity name="com.linlang.app.firstapp.ShopOrCardGetValidateCodeActivity">
+<activity name=".shop.OnlineGoodsActivity" theme="16973837">
+<activity name=".shop.OpenVipActivity" theme="16973837">
+<activity name=".shop.OrderOkActivity" theme="16973837">
+<activity name=".shop.RuleActivity" theme="16973837">
+<activity name=".shop.TodayActivity" theme="16973837">
+<activity name=".shop.TrunActivity" theme="16973837">
+<activity name=".shop.UpImgActivity" theme="16973837">
+<activity name=".ReadInformsActivity" theme="16973837">
+<activity name=".MyActivity" theme="16973837">
+<activity name=".MyFabuActivity" theme="16973837">
+<activity name=".shop.OrderListActivity" theme="16973837">
+<activity name=".shop.VipListActivity" theme="16973837">
+<activity name=".GetPwdActivity" theme="16973837">
+<activity name=".GetPwdShopActivity" theme="16973837">
+<activity name=".StoreAllGoodsActivity" theme="16973837">
+<activity name=".ChooseGetPwdActivity" theme="16973837">
+<activity name=".HuiYuanSelectAddressActivity">
+<activity name=".HuiYuanFillInaddressActivity">
+<activity name=".TsjcjbActivity" theme="16973837">
+<activity name=".MyCollectActivity" theme="16973837">
+<activity name=".ErrorCorrectionActivity" theme="16973837">
+<activity name=".FeedbackActivity" theme="16973837">
+<activity name=".ShopShopRountOnMapActivity" theme="16973837">
+<activity name=".QzDetailActivity" theme="16973837">
+<activity name=".SupplyDetailActivity" theme="16973837">
+<activity name=".ZpDetailActivity" theme="16973837">
+<activity name="com.linlang.app.qrcode.ResultActivity" theme="16973837">
+<activity name=".SearchResultActivity">
+<activity name=".HuiYuanApplyForShopActivity">
+<activity name=".SearchActivity" windowSoftInputMode="4">
+<activity name=".DaXueActivity" theme="16973837">
+<activity name=".ShowShopActivity" theme="16973837">
+<activity name=".shop.VipDetailActivity" theme="16973837">
+<activity name=".PerInfoActivity" theme="16973837">
+<activity name=".ChangeEmailActivity" theme="16973837">
+<activity name=".ChangePwdActivity">
+<activity name=".ChangeTelActivity" theme="16973837">
+<activity name=".AuthActitity" theme="16973837">
+<activity name=".HuiYuanAuthActitity" theme="16973837">
+<activity name=".CheckVipActivity" theme="16973837">
+<activity name=".MapLocationOfVideoActivity" theme="16973837">
+<activity name=".shop.OrderDetailActivity" theme="16973837">
+<activity name=".OrderSuccessActivity" theme="16973837">
+<activity name=".shop.OnlineGoodsDetailActivity" theme="16973837">
+<activity name=".shop.AuthVipActivity" theme="16973837">
+<activity name=".PlActivity" theme="16973837">
+<activity name=".PinglunActivity" theme="16973837">
+<activity name=".ChangeNameActivity">
+<activity name=".MyFbQzActivity" theme="16973837">
+<activity name=".MyFbZpActivity" theme="16973837">
+<activity name=".test">
+<activity name=".DingDanActivity" windowSoftInputMode="16">
+<activity name=".GuildActivity">
+<activity name="com.linlang.app.welcome.HomeActivity">
+<activity name="com.linlang.app.zuce.ZuCeHuiYuanActivity" theme="16973830">
+<activity name="com.linlang.app.zuce.ZuCeHuiYuanSuccess" theme="16973830">
+<activity name="com.linlang.app.zuce.ZuCeDianPu" theme="16973830" windowSoftInputMode="16">
+<activity name="com.linlang.app.zuce.ZuCeHuiDianPuSuccess" theme="16973830">
+<activity name=".ChangePayPwdActivity" theme="16973830">
+<activity name=".NewPayPwdActivity" theme="16973830">
+<activity name=".HuiYuanOnlineBankingSettlementActivity">
+<activity name=".ChangePayPwdByLoginPwdActivity" theme="16973830">
+<activity name="com.linlang.app.wode.MyQianBaoActivity" theme="16973830">
+<activity name="com.linlang.app.wode.SetActivity" theme="16973830">
+<activity name="com.linlang.app.wode.TuPianSetActivity" theme="16973830">
+<activity name="com.linlang.app.wode.MessageSetActivity" theme="16973830">
+<activity name="com.linlang.app.wode.XiaoFeiJiLvAcitivity">
+<activity name="com.linlang.app.wode.Page1" theme="16973830">
+<activity name="com.linlang.app.wode.Page2" theme="16973830">
+<activity name="com.linlang.app.wode.Page3" theme="16973830">
+<activity name="com.linlang.app.wode.YiWanJieXiangQingActivity" theme="16973830">
+<activity name="com.linlang.app.wode.XiaoFeiPingJiaActivity" theme="16973830">
+<activity name="com.linlang.app.wode.YuYueXinXiAcitivity" theme="16973830">
+<activity name="com.linlang.app.wode.YuYueOrderActivity">
+<activity name="com.linlang.app.wode.HuiYuanCollectActivity">
+<activity name="com.linlang.app.wode.LiJiTouSuActivity" theme="16973830">
+<activity name="com.linlang.app.wode.YiShuangYueXiangQingActivity" theme="16973830">
+<activity name="com.linlang.app.wode.YiTouSuXiangQingActivity" theme="16973830">
+<activity name=".MoreMiaoShuActivity" theme="16973830">
+<activity name="com.linlang.app.picture.PhotoAlbumChoiceActivity" theme="16973830">
+<activity name="com.linlang.app.shop.ProductApproveActivity">
+<activity name="com.linlang.app.shop.PutAwayActivity" label="2131427710">
+<activity name="com.linlang.app.shop.ProductHadApprovedActivity" label="2131427713">
+<activity name="com.linlang.app.shop.OrderHandingActivity" label="2131427714">
+<activity name="com.linlang.app.shop.ShopInfoActivity" label="2131427715">
+<activity name="com.linlang.app.shop.PutAwayAndBackActivity" label="2131427716" windowSoftInputMode="2">
+<activity name="com.linlang.app.shop.PutAwayAndBackTokenActivity" label="2131427716" windowSoftInputMode="2">
+<activity name="com.linlang.app.shop.OrderQueryActivity" label="2131427728">
+<activity name="com.linlang.app.shop.ShopInfoApprovedActivity">
+<activity name="com.linlang.app.shop.order.ShopOrderSubscribeActivity" label="2131427744">
+<activity name="com.linlang.app.shop.order.ShopOrderSubscribePushActivity" label="2131427744">
+<activity name="com.linlang.app.shop.order.ShopOrderConfirmActivity" label="2131427745">
+<activity name="com.linlang.app.shop.order.ShopOrderBreakActivity" label="2131427746">
+<activity name="com.linlang.app.shop.order.ShopOrderComplainActivity" label="2131427747">
+<activity name="com.linlang.app.shop.order.ShopOrderDetailActivity" label="2131427747">
+<activity name="com.linlang.app.shop.order.ShopConfirmOrderOperateActivity" theme="16973830">
+<activity name="com.linlang.app.shop.order.ErWeiConfirmOrderActivity" theme="16973830">
+<activity name="com.linlang.app.shop.order.ErWeiConfirmSingleOrderActivity" theme="16973830">
+<activity name="com.linlang.app.shop.ShopInfoMaintainActivity" label="2131427748">
+<activity name="com.linlang.app.shop.ShopInfoSettingActivity" label="2131427749">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoChangeLoginPWActivity">
+<activity name="com.linlang.app.shop.ShopZiYingActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopUploadLogoActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoChangeBankCardActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoChangeEmailActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoChangePhoneNumberActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoChangeTradersPWActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoChangeTradersPWByLoginActivity">
+<activity name="com.linlang.app.shop.ShopInfoChangeInfoActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoShowEQActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoNewTradersPWActivity">
+<activity name="com.linlang.app.shop.mobile.ShopMobileAddressMaintainActivity">
+<activity name="com.linlang.app.shop.mobile.MobileShopIncomeActivity">
+<activity name="com.linlang.app.shop.mobile.HistoryIncomeOneDayActivity">
+<activity name="com.linlang.app.shop.mobile.ProductDetailActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopSettingActivity" label="2131427773">
+<activity name="com.linlang.app.shop.shopinfo.ShopSettingMessageActivity" label="2131427774">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoNewPhoneEmailActivity" label="2131427775">
+<activity name="com.linlang.app.shop.ShangYuChaXunActivity" theme="16973837">
+<activity name="com.linlang.app.shop.ShangYuDengJiGuiZeActivity" theme="16973837">
+<activity name="com.linlang.app.shop.HuiYuanFuWuActivity" theme="16973837">
+<activity name="com.linlang.app.shop.YiKaiKaActivity" theme="16973837">
+<activity name="com.linlang.app.shop.HuiYuanJiHuoOperateActivity">
+<activity name="com.linlang.app.shop.HuiYuanZhuanChuActivity">
+<activity name="com.linlang.app.shop.HuiYuanYiYuanChaXunActivity" theme="16973837">
+<activity name="com.linlang.app.video.HuiYuanVideoViewActivity">
+<activity name="com.linlang.app.shop.JiuCuoXinXiChaXunActivity" theme="16973837">
+<activity name="com.linlang.app.shop.wallet.ShopWalletActivity" label="2131427776">
+<activity name="com.linlang.app.wallet.StoredValuesActivity" label="2131427777">
+<activity name="com.linlang.app.shop.wallet.ShopWalletStoresActivity" label="2131427778">
+<activity name="com.linlang.app.shop.wallet.ShopOnlineBankingSettlementActivity">
+<activity name="com.linlang.app.shop.wallet.ShopWalletStroesDetailActivity" label="2131427779">
+<activity name=".HuiyuanStroesDetailActivity">
+<activity name="com.linlang.app.shop.wallet.ShopWalletStoresDetailInActivity" label="2131427786">
+<activity name="com.linlang.app.shop.wallet.ShopWalletKitingActivity" label="2131427787" windowSoftInputMode="16">
+<activity name="com.linlang.app.shop.wallet.JieSuanDetailActivity">
+<activity name="com.linlang.app.shop.wallet.ShopWalletSaveMarginActivity" label="2131427788">
+<activity name="com.linlang.app.shop.wallet.ShopWalletKitingDetailActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopInfoNewBankCardActivity">
+<activity name="com.linlang.app.shop.shopinfo.TeBieTuiJianActivity">
+<activity name="com.linlang.app.shop.wallet.ShopWalletKitingDetailInActivity">
+<activity name="com.linlang.app.shop.wallet.ShopWalletVirementDetailActivity">
+<activity name="com.linlang.app.shop.wallet.ShopWalletVirementDetailInActivity">
+<activity name="com.linlang.app.shop.wallet.ShopWalletFundFormActivity">
+<activity name="com.linlang.app.shop.mobile.ShopMobileActivity">
+<activity name="com.linlang.app.shop.mobile.ShopMobieProductManger">
+<activity name="com.linlang.app.shop.wallet.ShopJYandGKandJSActivity">
+<activity name="com.linlang.app.shop.mobile.SwitchHistoryActivity">
+<activity name="com.linlang.app.shop.mobile.KaiDianDetailInfoActivity">
+<activity name="com.linlang.app.shop.wallet.ShopYingShouXianJinDetailActivity">
+<activity name="com.linlang.app.shop.mobile.SwitchHistoryDetailActivity">
+<activity name="com.linlang.app.shop.wallet.ShopWalletFundFormDetailActivity">
+<activity name="com.linlang.app.shop.wallet.ShopWalletMarginApplyReturnActivity" label="2131427790">
+<activity name="com.linlang.app.shop.mobile.ShopMobileAddressMoveActivity" label="2131427791">
+<activity name="com.linlang.app.shop.wallet.ShopCommentDetailActivity" label="2131427792">
+<activity name="com.linlang.app.shop.wallet.ShopCostDetailActivity" label="2131427793">
+<activity name="com.linlang.app.shop.wallet.ShopChuXiaoActivity" label="2131427794">
+<activity name="com.linlang.app.shop.wallet.ShopChuXiaoDetailActivity" label="2131427795">
+<activity name="com.linlang.app.shop.wallet.ShopTodayCashActivity" label="2131427796">
+<activity name="com.linlang.app.shop.mobile.SateliteShopActivity" label="2131427797">
+<activity name="com.linlang.app.shop.mobile.ShopMobileMangerProductActivity" label="2131427798" windowSoftInputMode="32">
+<activity name="com.linlang.app.wode.DisplayQRC" theme="16973837">
+<activity name="com.linlang.app.pickpicture.PublishedActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.linlang.app.pickpicture.ImageGridActivity" theme="16973830">
+<activity name="com.linlang.app.pickpicture.CameraActivity">
+<activity screenOrientation="1" name="com.linlang.app.pickpicture.TestPicActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.linlang.app.pickpicture.PhotoActivity" theme="16973830">
+<activity name=".ShopLocationOnBMapActivity" label="2131427799">
+<activity name="com.linlang.app.shop.order.ShopEvaluateReplyActivity" label="2131427800">
+<activity name="com.linlang.app.shop.order.ShopComplainReplyActivity">
+<activity name="com.linlang.app.shop.order.ShopEPingJuBaoActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopVideoMActivity">
+<activity name="com.linlang.app.shop.shopinfo.VideoADMangerActivity">
+<activity name="com.linlang.app.shop.shopinfo.ShopWifiMaintainActivity">
+<activity name="com.linlang.app.shop.mobile.SateliteDealActivity" label="2131427801">
+<activity name="com.linlang.app.shop.ShangXiaJiaDetailInfoActivity">
+<activity name="com.linlang.app.shop.wallet.ShowResultActivity" label="2131427803">
+<activity name="com.linlang.app.shop.SeleBmapPointActivity" windowSoftInputMode="34">
+<activity name=".HuiYuanWalletStoresActivity">
+<activity name="com.linlang.app.view.ImageBrowseActivity">
+<activity name=".HuiyuanStoresDetailInActivity">
+<activity name=".ShopOnlineBankingSettlementActivity">
+<activity name="com.linlang.app.video.ShopVideoListActivity" label="2131427804">
+<activity name="com.linlang.app.video.ShopVideoMangerActivity">
+<activity name="com.linlang.app.video.HuiYuanShopVideoViewActivity" label="2131427804">
+<activity name="com.linlang.app.video.VideoViewActivity">
+<activity name="com.linlang.app.wode.HongbaoTypeListActivity">
+<activity name="com.linlang.app.wode.HongbaoDetailActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreProductListActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreDetailActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreSubmitOrderActivity">
+<activity name="com.linlang.app.shop.UnitPassActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreGetAddressActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreOrderListActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreOrderDetailActivity">
+<activity name="com.linlang.app.shop.chainstore.BrandListActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreCommentActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreApplyCancelActivity">
+<activity name="com.linlang.app.shop.ShopInfoSubmitPersonIdImgActivity">
+<activity name="com.linlang.app.shop.chainstore.BrandStoreActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreSelectOrderActivity">
+<activity name="com.linlang.app.shop.chainstore.BrandProductDetailActivity">
+<activity name="com.linlang.app.shop.chainstore.BrandStoreSubmitOrderActivity">
+<activity name="com.linlang.app.shop.chainstore.BrandOrderDetailActivity">
+<activity name="com.linlang.app.shop.chainstore.BrandOrderListActivity">
+<activity name="com.linlang.app.shop.chainstore.ChainStoreUploadWuliuActivity">
+<activity name="phonelist.PhoneListActivity">
+<activity name="com.linlang.app.shop.ShopShareHuiYuanRegActivity">
+<activity name="com.linlang.app.shop.ShopShareHistoryActivity">
+<activity name="com.linlang.app.util.errorreport.ErrorActivity" theme="2131493032">
+<activity name=".TckplusdrawableActivity" label="2131427805">
+4
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="com.baidu.android.pushservice.CommandService" exported="true">
+<service name="com.linlang.app.util.errorreport.SendErrorLogInfoService">
+3
+<receiver name="com.linlang.app.push.MyPushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=尚艳涛
+Issuer: CN=尚艳涛
+Serial number: 78647ba7
+Valid from: Mon Nov 10 15:55:29 CST 2014 until: Sun Nov 05 15:55:29 CST 2034
+Certificate fingerprints: 
+	MD5:0A:DA:97:D2:A1:B5:AC:AB:04:41:B0:0F:C9:B3:1D:C8
+	SHA1: 88:37:29:58:42:31:34:A7:1A:6D:73:55:BE:0E:4B:44:BB:CC:24:AD
+	SHA256: 10:A5:BB:6B:CC:9C:BB:09:31:35:F8:BE:B0:5C:C3:BD:2A:67:39:44:21:1C:7C:49:8A:60:9D:5E:D5:97:04:5E
+	Signature algorithm name: SHA256withRSA
+	version: 3

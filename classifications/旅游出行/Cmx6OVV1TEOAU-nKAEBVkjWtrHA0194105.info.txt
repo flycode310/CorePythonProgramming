@@ -1,0 +1,49 @@
+com.dns.package115
+112
+1.1.2
+4
+-1
+12
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+17
+<activity screenOrientation="1" name=".MainActivity" configChanges="160" label="2131165184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.dns.faq.Abs_Faq" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name="com.dns.rdbase.MessageBrowserInfo" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name="com.dns.rdbase.MessageBrowser" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name="com.dns.shopshow.AbsShop" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name="com.dns.search_result.AbsSearch" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name="com.dns.view.mapView.MyMapView" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name="com.dns.shopsearch.ShopCategory" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name="com.dns.shopsearch.ShopCity" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name=".RecommandInfo" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name=".Weibo" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name=".AboutCompany" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name=".Contactus" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name=".ProductInfo" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name=".Ask" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name="com.dns.main.CopyOfMain_Shop" configChanges="160" label="2131165184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.dns.main.news.NewsDetail" configChanges="160" label="2131165184" windowSoftInputMode="32">
+0
+0
+0
+Owner: CN=dns.com.cn Inc., OU=www.dns.com.cn, O=dzs.mobi, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=dns.com.cn Inc., OU=www.dns.com.cn, O=dzs.mobi, L=Beijing, ST=Beijing, C=CN
+Serial number: 4c3f2bcc
+Valid from: Thu Jul 15 23:39:56 CST 2010 until: Mon Jul 09 23:39:56 CST 2035
+Certificate fingerprints: 
+	MD5:C3:85:B8:2B:DF:17:3C:D9:4E:28:93:28:3A:C6:09:9C
+	SHA1: 6D:5A:76:AD:41:91:DC:7A:4F:AA:BD:38:45:29:FB:42:73:0C:D8:C9
+	SHA256: 1A:25:34:A2:0C:09:E7:3A:19:F6:6B:91:AA:40:60:4A:D9:15:9B:02:BB:50:19:F5:37:40:F5:1C:EA:0C:C0:0B
+	Signature algorithm name: SHA1withRSA
+	version: 3

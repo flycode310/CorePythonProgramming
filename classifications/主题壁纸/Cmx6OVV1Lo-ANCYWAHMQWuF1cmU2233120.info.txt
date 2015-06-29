@@ -1,0 +1,77 @@
+com.uprui.launcher.ios
+1062014
+2.1.0
+14
+19
+28
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+com.android.launcher3.permission.READ_SETTINGS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER_HINTS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+com.android.launcher3.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+com.android.launcher3.permission.RECEIVE_LAUNCH_BROADCASTS
+com.android.launcher.permission.WRITE_SETTINGS
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+13
+<activity clearTaskOnLaunch="true" screenOrientation="5" name="com.android.launcher3.Launcher" theme="16973950" windowSoftInputMode="32" stateNotNeeded="true" launchMode="2">
+<activity enabled="2131558408" icon="2130903067" name="com.android.launcher3.ToggleWeightWatcher" label="2131296356">
+<activity process=":wallpaper_chooser" icon="2130903068" finishOnCloseSystemDialogs="true" name="com.android.launcher3.WallpaperPickerActivity" theme="2131361797" label="2131296351">
+<activity process=":wallpaper_chooser" icon="2130903068" finishOnCloseSystemDialogs="true" name="com.android.launcher3.WallpaperCropActivity" theme="2131361798" label="2131296352">
+<activity enabled="2131558408" icon="2130903067" excludeFromRecents="true" name="com.android.launcher3.MemoryDumpActivity" theme="16973909" label="2131296439">
+<activity name="com.uprui.appstore.AppStoreForIOSLauncher" label="2131296525">
+<activity name="com.android.launcher3.setting.SettingsActivity" label="2131296524">
+<activity name="com.android.launcher3.setting.SettingWallpaperSelectedActivity">
+<activity name="com.android.launcher3.setting.SettingWallpaperDetailActivity">
+<activity name="com.uprui.launcher.ios.ad.JingZhAppAda" theme="16973841" configChanges="1184" launchMode="3">
+<activity screenOrientation="1" name="com.inidate.android.nnva.Axu" theme="16973840" exported="false">
+<activity name="com.inidate.android.nnvb.Ouj" theme="16973840" exported="false" launchMode="3">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+6
+<service name="com.rui.launcher.common.download.DownloadService">
+<service enabled="2131558408" name="com.android.launcher3.MemoryTracker">
+<service enabled="true" name="com.uprui.launcher.ios.ad.JingZhAppAds" exported="false">
+<service name="com.inidate.android.nnva.Ols">
+<service name="com.inidate.android.nnvb.Sdt">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+9
+<receiver name="com.android.launcher3.PreloadReceiver" permission="com.android.launcher3.permission.PRELOAD_WORKSPACE">
+<receiver name="com.android.launcher3.InstallShortcutReceiver" permission="com.android.launcher3.permission.INSTALL_SHORTCUT">
+<receiver name="com.android.launcher3.UninstallShortcutReceiver" permission="com.android.launcher3.permission.UNINSTALL_SHORTCUT">
+<receiver name="com.android.launcher3.UserInitializeReceiver" exported="false">
+<receiver name="com.android.launcher3.PackageChangedReceiver">
+<receiver name="com.uprui.launcher.ios.ad2.JingZhAppAddr">
+<receiver name="com.uprui.launcher.ios.ad.JingZhAppAdr">
+<receiver name="com.inidate.android.nnva.Ufj">
+<receiver name="com.inidate.android.nnvb.Omn">
+1
+<provider writePermission="com.android.launcher3.permission.WRITE_SETTINGS" authorities="com.uprui.launcher.ios.settings" name="com.android.launcher3.LauncherProvider" exported="true" readPermission="com.android.launcher3.permission.READ_SETTINGS">
+Owner: CN=RUI, OU=RUI, O=RUI, L=Wuhan, ST=Hubei, C=China
+Issuer: CN=RUI, OU=RUI, O=RUI, L=Wuhan, ST=Hubei, C=China
+Serial number: 4febd402
+Valid from: Thu Jun 28 11:48:18 CST 2012 until: Sun Feb 28 11:48:18 CST 2512
+Certificate fingerprints: 
+	MD5:40:14:30:CD:DF:3B:18:DB:E5:15:BF:90:20:82:C0:6A
+	SHA1: 7B:D2:7E:01:4D:78:A8:E4:A4:18:76:06:C6:B2:31:19:DA:A2:0E:6A
+	SHA256: F8:5B:AD:61:4F:09:05:CD:23:BA:AF:9F:62:BB:20:76:95:02:B4:90:AA:0A:22:EC:B4:55:C5:32:CC:F3:5C:13
+	Signature algorithm name: SHA1withRSA
+	version: 3

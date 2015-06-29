@@ -1,0 +1,184 @@
+gf.king.app
+22
+4.8.7
+8
+15
+19
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+129
+<activity screenOrientation="1" name="com.gf.control.nontrade.TsMain" label="2131165268">
+<activity screenOrientation="1" name="gf.king.app.InitWindow" label="2131165268">
+<activity screenOrientation="1" name="gf.king.app.StartActivity" label="2131165268">
+<activity screenOrientation="1" name="com.gf.control.quotations.SmsLoginWindow" theme="16973832" configChanges="160" label="" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.gf.control.quotations.MainMenuWindow" configChanges="160" label="">
+<activity screenOrientation="1" name="com.gf.control.quotations.HostSelectWindow" theme="16973835" configChanges="160" label="站点选择">
+<activity screenOrientation="1" name="com.gf.control.quotations.MASettingWindow" theme="16973835" configChanges="160" label="MA参数设置">
+<activity screenOrientation="1" name="com.gf.control.nontrade.SettingActivity" theme="16973832" configChanges="160" label="个性设置">
+<activity screenOrientation="1" name="com.gf.control.quotations.PubNoticeWindow" theme="16973832" configChanges="160" label="">
+<activity name="com.gf.control.quotations.StockListWindow" configChanges="160" label="">
+<activity name="com.gf.control.quotations.FundQuoteWindow" configChanges="160" label="">
+<activity name="com.gf.control.quotations.QuotationWindow" label="">
+<activity screenOrientation="1" name="com.gf.control.quotations.SearchStockWindow" configChanges="160" label="">
+<activity name="com.gf.control.quotations.MyStockWindow" configChanges="160" label="">
+<activity name="com.gf.control.quotations.EditStockWindow" configChanges="160" label="">
+<activity name="com.gf.control.quotations.TradeLoginWindow" theme="16973832" configChanges="160" label="">
+<activity screenOrientation="1" name="com.gf.control.nontrade.FeedbackActivity" theme="16973832" configChanges="160" label="">
+<activity screenOrientation="1" name="com.gf.control.nontrade.FeedbackRecordActivity" theme="16973832" configChanges="160" label="">
+<activity name="com.gf.control.quotations.KTextInfoHandler" theme="16973832" configChanges="160" label="文本信息界面">
+<activity name="com.gf.control.trade.StockTradingNavigation" theme="16973832" configChanges="160" label="股票交易">
+<activity name="com.gf.control.trade.ChangePassword" theme="16973832" configChanges="160" label="交易密码修改">
+<activity name="com.gf.control.trade.transfer.BankSecuritiesTransferNavigation" theme="16973832" configChanges="160" label="银证转账菜单">
+<activity name="com.gf.control.trade.transfer.BankSecuritiesTransfer" theme="16973832" configChanges="160" label="银证转帐">
+<activity name="com.gf.control.trade.transfer.BankDepositoryTransfer" theme="16973832" configChanges="160" label="多存管资金划转">
+<activity name="com.gf.control.trade.transfer.QueryBankBalance" theme="16973832" configChanges="160" label=" 查询银行余额">
+<activity name="com.gf.control.trade.transfer.TransferQuery" theme="16973832" configChanges="160" label="银证转帐查询">
+<activity name="com.gf.control.trade.transfer.TransferChangeQuery" theme="16973832" configChanges="160" label="资金划转查询">
+<activity name="com.gf.control.trade.StockOrderActivity" theme="16973832" configChanges="160" label="交易委托 ">
+<activity name="com.gf.control.trade.PreviewStockOrder" theme="16973832" configChanges="160" label="交易委托确定">
+<activity name="com.gf.control.trade.OrderQuery" theme="16973832" configChanges="160" label="交易查询模块：modeID:0-撤单查询,1-委托查询,2-成交查询,3-资产查询....">
+<activity name="com.gf.control.trade.bjhg.QuoterepurchaseChange" theme="16973832" configChanges="160" label=" 1-报价回购展期变更">
+<activity name="com.gf.control.trade.bjhg.QuoterepurchaseHandler" theme="16973832" configChanges="160" label="0-报价回购买入">
+<activity name="com.gf.control.trade.bjhg.QuoterepurchaseContract" theme="16973832" configChanges="160" label=" * 0-综合业务协议签署 * 1-综合业务协议注销">
+<activity name="com.gf.control.trade.bjhg.QuoteRepurchaseQuery" theme="16973832" configChanges="160" label="报价回购查询模块">
+<activity name="com.gf.control.trade.contract.TSZL" theme="16973832" configChanges="160" label="退市整理股票电子协议">
+<activity name="com.gf.control.trade.fund.FundationInfomation" theme="16973832" configChanges="160" label="基金详细信息">
+<activity name="com.gf.control.trade.fund.FundationList" theme="16973832" configChanges="160" label="基金产品列表">
+<activity name="com.gf.control.trade.fund.FundCorporationList" theme="16973832" configChanges="160" label="基金产品列表">
+<activity name="com.gf.control.trade.fund.KFundDTSQHandler" theme="16973832" configChanges="160" label="基金定投">
+<activity name="com.gf.control.trade.fund.FundOpenAccount" theme="16973832" configChanges="160" label="基金开户">
+<activity name="com.gf.control.trade.fund.FundQuery" theme="16973832" configChanges="160" label="基金查询">
+<activity name="com.gf.control.trade.fund.FundRansom" theme="16973832" configChanges="160" label="赎回">
+<activity name="com.gf.control.trade.fund.FundSubscription" theme="16973832" configChanges="160" label="认购">
+<activity name="com.gf.control.trade.fund.FundRiskAndTesting" theme="16973832" configChanges="160" label=" 基金开户：风险提示及答题测评">
+<activity name="com.gf.control.trade.fund.FundApplyFor" theme="16973832" configChanges="160" label="申购">
+<activity name="com.gf.control.trade.fund.FundShareMode" theme="16973832" configChanges="160" label=" 分红方式">
+<activity name="com.gf.control.trade.fund.FundTransfer" theme="16973832" configChanges="160" label=" 基金转换">
+<activity name="com.gf.control.trade.fund.monetary.MonetaryFundNavigation" theme="16973832" configChanges="160" label="多添利(场内货币基金)">
+<activity name="com.gf.control.trade.fund.monetary.MonetaryFundRansom" theme="16973832" configChanges="160" label="场内货币基金赎回">
+<activity name="com.gf.control.trade.fund.monetary.MonetaryFundSubscription" theme="16973832" configChanges="160" label="场内货币基金申购">
+<activity name="com.gf.control.trade.hkstock.HkStockNavigation" theme="16973832" configChanges="160" label="港股通.导航">
+<activity name="com.gf.control.trade.hkstock.HkStockEntrustActivity" theme="16973832" configChanges="160" label="港股通.买卖">
+<activity name="com.gf.control.trade.hkstock.DetailInfoListActivity" theme="16973832" configChanges="160" label="港股通.通用详情列表">
+<activity name="com.gf.control.trade.hkstock.query.list.HkStockCommonQueryListActivity" theme="16973832" configChanges="160" label="港股通.通用列表">
+<activity name="com.gf.control.trade.hkstock.query.list.HkStockDateFilterQueryListActivity" theme="16973832" configChanges="160" label="港股通.日期筛选列表">
+<activity name="com.gf.control.trade.hkstock.query.list.HkStockEntrustListActivity" theme="16973832" configChanges="160" label="港股通.委托撤单">
+<activity name="com.gf.control.trade.hkstock.query.list.HkStockTradingDateListActivity" theme="16973832" configChanges="160" label="港股通.交易日查询">
+<activity name="com.gf.control.trade.hkstock.query.HkStockAssetInfoActivity" theme="16973832" configChanges="160" label="港股通.资产查询">
+<activity name="com.gf.control.trade.hkstock.query.HkStockDegreeInfoActivity" theme="16973832" configChanges="160" label="港股通.汇率额度查询">
+<activity name="com.gf.control.nontrade.advertisementWebview" theme="16973832" configChanges="160" label="广告界面">
+<activity name="com.gf.control.nontrade.BookopenList" theme="16973832" configChanges="160" label="预约开户分类">
+<activity name="com.gf.control.nontrade.Bookopenaccount" theme="16973832" configChanges="160" label="预约开户">
+<activity name="com.gf.control.nontrade.Bookopenaccount1" theme="16973832" configChanges="160" label="预约开户1">
+<activity name="com.gf.control.nontrade.KFriendHandler" theme="16973832" configChanges="160" label="好友推荐">
+<activity name="com.gf.control.nontrade.KHotlineHandler" theme="16973832" configChanges="160" label="客服热线">
+<activity name="com.gf.control.nontrade.KTextInfoHandler" theme="16973832" configChanges="160" label="手机快讯内容">
+<activity name="com.gf.control.webview.OpenAccountBookPage" theme="16973832" configChanges="160" label="预约上门开户" windowSoftInputMode="32">
+<activity name="com.gf.control.nontrade.SaftwareUpdate" theme="16973832" configChanges="160" label="软件更新">
+<activity name="com.gf.control.nontrade.SiteSelector_JY" theme="16973835" configChanges="160" label="交易站点选择">
+<activity name="com.gf.control.nontrade.SiteSelector_ZX" theme="16973835" configChanges="160" label="资讯站点选择">
+<activity name="com.gf.control.nontrade.SiteSelector_HK" theme="16973835" configChanges="160" label="认证站点选择">
+<activity name="com.gf.control.nontrade.SiteSelector_RZ" theme="16973835" configChanges="160" label="认证站点选择">
+<activity name="com.gf.control.nontrade.SiteSelector_HQ" theme="16973835" configChanges="160" label="行情站点选择">
+<activity name="com.gf.control.trade.rzrq.MarginTradingAndShortSellingOrder" theme="16973832" configChanges="160" label="融资融券交易">
+<activity name="com.gf.control.trade.rzrq.PreviewMarginTradingAndShortSellingOrder" theme="16973832" configChanges="160" label="融资融券交易确认">
+<activity name="com.gf.control.trade.rzrq.MarginTradingAndShortSellingLogin" theme="16973832" configChanges="160" label="登录">
+<activity name="com.gf.control.trade.rzrq.MarginTradingAndShortSellingMortgage" theme="16973832" configChanges="160" label="担保品划转">
+<activity name="com.gf.control.trade.rzrq.MarginTradingAndShortSellingPayoff" theme="16973832" configChanges="160" label="直接还款">
+<activity name="com.gf.control.trade.rzrq.MarginTradingAndShortSellingQueryView" theme="16973832" configChanges="160" label="融资融券查询模块">
+<activity name="com.gf.control.trade.rzrq.MarginTradingAndShortSellingSetDegree" theme="16973832" configChanges="160" label="额度调整">
+<activity name="com.gf.control.trade.rzrq.MarginTradingAndShortSellingStockoff" theme="16973832" configChanges="160" label="0-直接还券">
+<activity name="com.gf.control.trade.rzrq.transfer.MoneyTransferNavigation" theme="16973832" configChanges="160" label="信用转账导航列表">
+<activity name="com.gf.control.trade.rzrq.transfer.MarginTradingAndShortSellingTransfer" theme="16973832" configChanges="160" label="银证转账:0-银行转证券,1-证券转银行">
+<activity name="com.gf.control.trade.rzrq.transfer.MarginTradingAndShortSellingTransferQuery" theme="16973832" configChanges="160" label="银证转账查询">
+<activity name="com.gf.control.trade.xjb.xjb_redemption" theme="16973832" configChanges="160" label="现金增利取现">
+<activity name="com.gf.control.trade.xjb.XJBOrderQuery" theme="16973832" configChanges="160" label="现金增利查询">
+<activity name="com.gf.control.trade.xjb.XJBNavigationList" theme="16973832" configChanges="160" label="现金增利">
+<activity name="com.gf.control.trade.xjb.xjb_regesite" theme="16973832" configChanges="160" label="现金增利登记">
+<activity name="com.gf.control.trade.nxb.Nxb_xcr" theme="16973832" configChanges="160" label="多空杠杆生成日">
+<activity name="com.gf.control.trade.nxb.Nxb_shuangxiangWT" theme="16973832" configChanges="160" label="多空杠杆双向申报">
+<activity name="com.gf.control.trade.nxb.WuDang" theme="16973832" configChanges="160" label="多空杠杆五档行情">
+<activity name="com.gf.control.trade.nxb.Nxb_danxiangWT" theme="16973832" configChanges="160" label="多空单向委托">
+<activity name="com.gf.control.trade.nxb.Nxb_query" theme="16973832" configChanges="160" label="多空杠杆查询">
+<activity name="com.gf.control.trade.nxb.Nxb_KFundRansomHandler" theme="16973832" configChanges="160" label="多空杠杆赎回">
+<activity name="com.gf.control.trade.nxb.Nxb_KFundSGHandler" theme="16973832" configChanges="160" label="多空杠杆申购">
+<activity name="com.gf.control.trade.nxb.Nxb_FundationInfomation" theme="16973832" configChanges="160" label="多空杠杆委托详情">
+<activity name="com.gf.control.trade.ReservedStockOrderActivity" theme="16973832" configChanges="160" label="预约委托 ">
+<activity name="com.gf.control.trade.PreviewReservedStockOrder" theme="16973832" configChanges="160" label="预约委托确定">
+<activity name="com.gf.control.trade.ReservedEntrustOrderListActivity" theme="16973832" configChanges="160" label="预约委托撤单查询">
+<activity name="com.gf.control.trade.ReservedEntrustOrderDetailActivity" theme="16973832" configChanges="160" label="预约委托详情">
+<activity name="com.gf.control.trade.nxb.Nxb_xcr_Both" theme="16973832" configChanges="160" label="生成日双向申报">
+<activity name="com.gf.control.nontrade.TradeTimeOut" theme="16973832" configChanges="160" label="设置交易账号登录超时时间">
+<activity name="com.gf.control.trade.nxb.Nxb_ShareSplit" theme="16973832" configChanges="160" label="份额拆分">
+<activity name="com.gf.notification.NotificationWarn" theme="16973832" configChanges="160" label="提醒设置">
+<activity name="com.gf.control.webview.FinanceSuperMarket" theme="16973832" configChanges="160" label="理财超市">
+<activity name="com.gf.control.webview.FinanceSuperMarketHome" theme="16973832" configChanges="160" label="理财超市首页">
+<activity name="com.gf.control.webview.OpenAccount" theme="16973832" configChanges="160" label="掌上开户">
+<activity name="com.gf.control.webview.Fund" theme="16973832" configChanges="160" label="掌上基金">
+<activity screenOrientation="1" name="com.gf.control.SlideMenuWindow" configChanges="160" label="2131165184">
+<activity name="com.gf.control.LocalMap" configChanges="160" label="地图">
+<activity name="com.gf.control.CustomPageEdit" configChanges="160" label="快捷方式">
+<activity name="com.gf.control.MessageBody" configChanges="160" label="信息内容">
+<activity name="com.gf.control.Statement" configChanges="160" label="免责声明">
+<activity name="com.gf.control.webview.Financing" configChanges="160" label="我要融资">
+<activity name="com.gf.mobile.share.control.WBAuthActivity">
+<activity name="com.gf.control.trade.BankInformation" label="2131165361">
+<activity name="com.gf.control.webview.MyGf" label="2131165363">
+<activity name="com.gf.control.webview.WashGoldMarket" label="2131165363">
+<activity name="com.gf.control.webview.ZzCompanyNotice" label="中证公告快递">
+<activity name="com.gf.control.webview.OnlineServer" label="2131165363">
+<activity name="com.gf.control.webview.News" label="2131165363">
+<activity name="com.gf.control.webview.CommonWebView" label="2131165184">
+<activity name="com.gf.control.nontrade.MessageCenter" label="2131165364">
+<activity name="com.gf.control.trade.bjhg.RepurchaseNavigation" theme="16973832" configChanges="160" label="金快线(报价回购)">
+<activity name="com.gf.control.trade.rzrq.MarginTradingAndShortSellingNavigation" theme="16973832" configChanges="160" label="融资融券导航列表">
+<activity name="com.gf.control.trade.nxb.NxbNavigation" theme="16973832" configChanges="160" label="多空杠杆导航列表">
+<activity name="com.gf.control.trade.fund.FundQueryNavigation" theme="16973832" configChanges="160" label="基金查询">
+<activity name="com.gf.control.trade.fund.FundNavigation" theme="16973832" configChanges="160" label="掌上基金">
+<activity name="com.gf.control.trade.bjhg.QuoterepurchaseContractConfirm" label="2131165382">
+8
+<service enabled="true" name="com.gf.nettracking.NetLogService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="org.openudid.OpenUDID_service">
+<service process=":pushservice" name="com.gf.messaging.MessagePushService">
+<service process=":floatwindow" name="com.gf.floatwindow.FloatWindowService">
+<service process=":widgetservice" name="com.gf.floatwindow.PushWidget$UpdateService">
+<service process=":widgetservice" name="com.gf.floatwindow.SmallPushWidget$SmallUpdateService">
+<service name="com.gf.floatwindow.FloatMessageInService">
+7
+<receiver name="com.gf.control.NetBroadcastReceiver">
+<receiver name="com.gf.notification.MainThreadReceiver">
+<receiver process=":pushservice" name="com.gf.notification.NotificationReceiver">
+<receiver process=":pushservice" name="com.gf.notification.NotificationHandler">
+<receiver process=":pushservice" name="com.gf.messaging.NetWorkChangeReceiver">
+<receiver process=":widgetservice" name="com.gf.floatwindow.PushWidget" label="2131165184">
+<receiver process=":widgetservice" name="com.gf.floatwindow.SmallPushWidget" label="2131165184">
+1
+<provider authorities="com.gf.activity" name="com.gf.views.tools.db.MainProvider">
+Owner: CN=gfzq, OU=GF SECURITIES CO, O=GF SECURITIES CO, L=guangzhou, ST=guangdong
+Issuer: CN=gfzq, OU=GF SECURITIES CO, O=GF SECURITIES CO, L=guangzhou, ST=guangdong
+Serial number: 4ec46a53
+Valid from: Thu Nov 17 09:58:43 CST 2011 until: Wed Mar 20 09:58:43 CST 3011
+Certificate fingerprints: 
+	MD5:3D:5E:8D:4C:AC:DE:2B:5B:08:19:FF:0B:C2:9F:9A:9F
+	SHA1: A9:AB:5C:51:20:99:33:12:9E:58:49:91:71:6A:6A:F1:B0:F1:93:37
+	SHA256: A9:36:E2:08:3B:4C:E5:C2:82:75:51:0C:8C:31:BD:BB:39:C4:56:E4:37:98:0C:26:C8:91:74:F8:42:B0:FF:6B
+	Signature algorithm name: SHA1withRSA
+	version: 3

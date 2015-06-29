@@ -1,0 +1,64 @@
+com.looxiang.quan
+7
+1.7
+8
+17
+12
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_SETTINGS
+android.permission.BLUETOOTH
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+32
+<activity screenOrientation="1" name=".WelComeActivity" label="2131099648">
+<activity screenOrientation="1" name=".TeachingActivity">
+<activity screenOrientation="1" name=".MainActivity1">
+<activity screenOrientation="1" name=".RedeemActivity">
+<activity screenOrientation="1" name=".MyPrizesActivity">
+<activity screenOrientation="1" name=".GoldStoreActivity">
+<activity screenOrientation="1" name=".CreditListActivity">
+<activity screenOrientation="1" name=".MainActivity">
+<activity screenOrientation="1" name=".SettingActivity">
+<activity screenOrientation="1" name=".MeActivity">
+<activity screenOrientation="1" name=".FeedBackActivity">
+<activity screenOrientation="1" name=".LookMoreActivity">
+<activity screenOrientation="1" name=".AboutActivity">
+<activity screenOrientation="1" name=".CallMeActivity">
+<activity screenOrientation="1" name=".DetailActivity">
+<activity screenOrientation="1" name=".CouponInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".WebActivity">
+<activity screenOrientation="1" name=".SerchEndActivity">
+<activity screenOrientation="1" name=".ChangePassword">
+<activity screenOrientation="1" name=".MyGoldActivity">
+<activity screenOrientation="1" name=".LoginActivity">
+<activity screenOrientation="1" name=".RgisterActivity">
+<activity screenOrientation="1" name=".XieyiActivity">
+<activity screenOrientation="1" name=".FindPassword">
+<activity screenOrientation="1" name=".Mycop">
+<activity screenOrientation="1" name=".SerchActivity" configChanges="160" windowSoftInputMode="50">
+<activity name=".wxapi.WXEntryActivity" theme="16973841" exported="true" label="2131099648">
+<activity name="com.baidu.sharesdk.PlatformSsoCallBackActivity" theme="16973841" exported="true" label="2131099648">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.cloudsdk.social.oauth.SocialOAuthActivity" theme="16973841" exported="true">
+<activity name="com.baidu.cloudsdk.social.share.handler.LocalShareActivity" launchMode="2">
+<activity name="com.baidu.cloudsdk.social.share.handler.QQFriendShareReceiverActivity" launchMode="2">
+0
+0
+0
+Owner: CN=more-top, OU=more-top, O=more-top, L=more-top
+Issuer: CN=more-top, OU=more-top, O=more-top, L=more-top
+Serial number: 4ff454ca
+Valid from: Wed Jul 04 22:35:54 CST 2012 until: Thu Jun 22 22:35:54 CST 2062
+Certificate fingerprints: 
+	MD5:28:35:85:3D:1E:A7:86:94:1B:61:F4:F4:ED:53:53:42
+	SHA1: EF:2A:FD:3B:F7:E9:30:9B:3D:E7:4A:BA:39:C9:5C:94:07:81:98:AA
+	SHA256: 93:39:8F:46:02:A3:03:34:8B:B9:8E:C5:ED:6D:CF:FD:25:98:4F:1E:61:2D:96:04:DB:02:E8:D8:F1:9F:E7:86
+	Signature algorithm name: SHA1withRSA
+	version: 3

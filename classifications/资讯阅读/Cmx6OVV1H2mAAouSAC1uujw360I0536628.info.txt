@@ -1,0 +1,86 @@
+com.aareader
+120
+3.2.1
+5
+19
+13
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+47
+<activity name="com.aareader.MainActivity" theme="2131492887" configChanges="1460" launchMode="1">
+<activity name="com.aareader.LoginMainActivity" theme="2131492886" configChanges="1460" launchMode="2">
+<activity name="com.aareader.vipimage.VipImageActivity" theme="2131492886" configChanges="1524" launchMode="2">
+<activity name="com.aareader.toplist.TopTableActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.toplist.TopInfoActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.download.ChapterActivity" theme="2131492886" configChanges="1460" launchMode="2">
+<activity name="com.aareader.download.ChapterOverActivity" theme="16973830" configChanges="1460" launchMode="1">
+<activity name="com.aareader.download.BookSearchActivity" configChanges="1460" windowSoftInputMode="18" launchMode="1">
+<activity name="com.aareader.download.ConfigSearchActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.rule.ConfigRuleActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.ConfigUpdateActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.CleanActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.RemoveActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.EmptyActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.BakupActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.MsgActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.lbook.ChapterExplorerActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.RootExplorer" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.SortNetButtonActivity" configChanges="1460">
+<activity name="com.aareader.config.SortLocButtonActivity" configChanges="1460">
+<activity name="com.aareader.config.NetButtonConfigActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.LocButtonConfigActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.FontExplorer" configChanges="1460" launchMode="1">
+<activity name="com.aareader.style.StyleExplorer" configChanges="1460" launchMode="1">
+<activity name="com.aareader.style.StyleManageActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.FontSettingActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.AppConfigActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.ReadConfigActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.ToolConfigActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.BgConfigActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.BgModeConfigActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.SettingActivity" theme="2131492886" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.ColorConfig" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.ColorConfigNight" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.ImgExplorer" configChanges="1460" launchMode="1">
+<activity name="com.aareader.config.ImageExplorer" configChanges="1460" launchMode="1">
+<activity name="com.aareader.ErrorActivity" configChanges="1460" launchMode="1">
+<activity name="com.aareader.lbook.TxtBookActivity" theme="2131492886" configChanges="1460" launchMode="2">
+<activity name="com.aareader.lbook.TxtExplorer" configChanges="1460" launchMode="1">
+<activity name="com.aareader.lbook.BookImportExplorer" configChanges="1460" launchMode="1">
+<activity name="com.aareader.lbook.FavExplorer" configChanges="1460" launchMode="1">
+<activity name="com.aareader.lbook.TxtMarkExplorer" configChanges="1460" launchMode="1">
+<activity name="com.umeng.fb.ConversationActivity" configChanges="1460">
+<activity name="com.umeng.fb.ContactActivity" configChanges="1460">
+<activity name="com.qq.e.ads.AdActivity" theme="16973839" configChanges="1460">
+<activity name="com.baidu.mobads.AppActivity" configChanges="1460">
+<activity name="com.baidu.appx.ui.BDInnerBrowser">
+3
+<service priority="1000" name="com.aareader.download.service.UpdateService">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+3
+<receiver name="com.aareader.MediaButtonReceiver" exported="true">
+<receiver name="com.aareader.MyReceiver" exported="true">
+<receiver name="com.baidu.appx.app_download.CompleteReceiver">
+0
+Owner: CN=yuanyawei, OU=freeprg, O=freeprg, L=chsnagsha, ST=hunan, C=86
+Issuer: CN=yuanyawei, OU=freeprg, O=freeprg, L=chsnagsha, ST=hunan, C=86
+Serial number: 4ca586d8
+Valid from: Fri Oct 01 14:59:36 CST 2010 until: Sat Jul 04 14:59:36 CST 2065
+Certificate fingerprints: 
+	MD5:86:B3:84:A8:97:04:4F:1C:97:13:62:75:BB:02:EC:6B
+	SHA1: B3:C2:87:F9:00:3E:8A:AC:A0:3F:95:C1:DC:01:BB:A9:FE:FF:5D:B2
+	SHA256: E0:67:B1:D7:21:95:D1:B4:20:60:46:DA:86:43:C1:35:2E:48:92:E3:C7:D4:F5:49:2A:8B:1E:30:60:52:AE:AF
+	Signature algorithm name: SHA1withRSA
+	version: 3

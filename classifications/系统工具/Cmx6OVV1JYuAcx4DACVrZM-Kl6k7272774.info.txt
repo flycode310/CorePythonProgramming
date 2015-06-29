@@ -1,0 +1,57 @@
+com.tencent.LyFileManager
+4
+1.3
+8
+15
+16
+android.permission.WRITE_MEDIA_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WRITE_SECURE_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_MTP
+android.permission.RECEIVE_BOOT_COMPLETED
+adnroid.permission.ACCESS_CHECKIN_PROPERTTES
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.BROADCAST_STICKY
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+16
+<activity screenOrientation="1" name="com.tencent.FileManager.FileManager" label="2131427339" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.FileManager.fragments.SplashViewActivity" label="2131427339">
+<activity screenOrientation="1" name="com.tencent.FileManager.fragments.SetPageActivity" label="2131427395">
+<activity screenOrientation="1" name="com.tencent.FileManager.fragments.SetPageAboutActivity" label="2131427396">
+<activity name="com.tencent.FileManager.fragments.FileCategoryFragment" label="2131427340">
+<activity name="com.tencent.FileManager.fragments.SDCardFragment" label="2131427341">
+<activity name="com.tencent.FileManager.fragments.SearchFragment" label="2131427563">
+<activity name="com.tencent.FileManager.wifftp.gui.ServerPreferenceActivity" label="2131427563">
+<activity name="com.tencent.FileManager.wifftp.gui.WifiStatusActivity" label="2131427563">
+<activity name="com.tencent.FileManager.fragments.WifiActivity" label="2131427614">
+<activity screenOrientation="1" name="com.tencent.FileManager.FtpUI" theme="16973830" label="2131427339">
+<activity screenOrientation="1" name="com.tencent.FileManager.NoSDCardActivity" label="2131427339" launchMode="3">
+<activity screenOrientation="1" name="com.tencent.FileManager.FtpTaskManagerUI" label="2131427339" launchMode="3">
+<activity screenOrientation="1" name="com.tencent.FileManager.PasswordActivity" theme="16973830" label="2131427339">
+<activity screenOrientation="1" name="com.tencent.FileManager.SearchActivity" label="2131427339">
+<activity name="com.tencent.appwallsdk.activity.QQAppWallActivity" theme="2131296258" configChanges="160" label="2131427336" windowSoftInputMode="2" launchMode="2">
+3
+<service name="com.tencent.FileManager.wifftp.FTPServerService">
+<service name="com.tencent.appwallsdk.service.DownloadService">
+<service enabled="true" name="com.tencent.ftpserver.utils.FtpService">
+1
+<receiver name="com.tencent.FileManager.USBReceiver">
+1
+<provider authorities="com.tencent.FileManager" name="com.tencent.FileManager.FileManagerProvider">
+Owner: O=Tencent
+Issuer: O=Tencent
+Serial number: 4e3a4bd0
+Valid from: Thu Aug 04 15:35:44 CST 2011 until: Sat Jul 27 15:35:44 CST 2041
+Certificate fingerprints: 
+	MD5:D2:32:53:39:2C:B4:F6:22:44:C7:C5:6C:79:CB:78:EF
+	SHA1: D4:BA:E4:5A:67:87:CA:2D:96:2E:89:88:0B:1E:22:68:65:B9:B5:31
+	SHA256: EE:A1:31:4A:C0:58:0F:C9:AA:12:19:63:C7:C5:E2:33:BC:C8:EE:65:56:D0:4D:C6:0C:94:2C:65:DB:16:FC:8A
+	Signature algorithm name: SHA1withRSA
+	version: 3

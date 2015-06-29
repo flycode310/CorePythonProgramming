@@ -1,0 +1,63 @@
+com.topinfo.zgmall
+8
+2.6
+7
+-1
+8
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.ACCESS_NETWORK_STATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+34
+<activity screenOrientation="1" name=".ActWelcome" configChanges="224" label="2131165185">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name=".ActMain" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActClassify">
+<activity screenOrientation="1" name=".ActAccount">
+<activity screenOrientation="1" name=".ActCellPhone">
+<activity screenOrientation="1" name=".ActSearch" theme="2131099649">
+<activity screenOrientation="1" name=".ActShoppingCart" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActGoodsList">
+<activity screenOrientation="1" name=".ActGoodsDetail">
+<activity screenOrientation="1" name=".ActUserLogin">
+<activity screenOrientation="1" name=".ActUserRegister">
+<activity screenOrientation="1" name=".ActUserinfo" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActModifyPassword" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActStoreList" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActPlaceOrder" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActSaleGoodsList" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActShowImage" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActMore" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActBugAndSuggest" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActSubmitComment" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActAboutUs" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActUsingHelp" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActContactUs" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActPlaceOrderSuccess" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActOrderList" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActPriseList" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActRobGoodsDetail" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActRobGoodsDetailLeft" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActRobGoodsDetailRight" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActShoppingGuarante" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ActShoppingGuide" windowSoftInputMode="32">
+<activity screenOrientation="1" name="ActHistoryList" windowSoftInputMode="32">
+<activity screenOrientation="1" name="ActAlipay" windowSoftInputMode="32">
+1
+<service name=".service.MessageService">
+0
+0
+Owner: CN=wang, OU=www.zg51.com, O=www.zg51.com, L=shenzhen, ST=guanggong, C=86
+Issuer: CN=wang, OU=www.zg51.com, O=www.zg51.com, L=shenzhen, ST=guanggong, C=86
+Serial number: 50dd9575
+Valid from: Fri Dec 28 20:49:57 CST 2012 until: Sun Dec 04 20:49:57 CST 2112
+Certificate fingerprints: 
+	MD5:1F:09:74:21:18:56:1C:E3:BC:A5:01:9B:D5:48:4C:60
+	SHA1: 4B:03:A8:B8:D7:83:7C:D9:C9:6A:BD:E9:55:B1:4F:9D:C3:65:DD:C0
+	SHA256: C4:67:AA:52:A6:03:64:26:7F:76:FD:80:DB:7D:2D:AC:69:BF:10:99:1B:96:E5:E3:D7:90:17:29:B4:20:25:CE
+	Signature algorithm name: SHA1withRSA
+	version: 3

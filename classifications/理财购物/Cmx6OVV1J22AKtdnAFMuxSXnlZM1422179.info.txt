@@ -1,0 +1,45 @@
+com.zhangdan.safebox
+12
+5.0.0
+8
+16
+7
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+15
+<activity icon="2130837614" screenOrientation="1" name="com.zhangdan.safebox.activitiy.splash.SplashActivity" configChanges="160" label="2131230724">
+<activity screenOrientation="1" name="com.zhangdan.safebox.activitiy.main.MainActivity" configChanges="160" label="2131230724" launchMode="2">
+<activity screenOrientation="1" name=".activitiy.setting.GesturePwdActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.zhangdan.safebox.fragment.login.LoginActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.zhangdan.safebox.fragment.login.RegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.zhangdan.safebox.fragment.login.RetrivePwdByMobileActivity" configChanges="160">
+<activity screenOrientation="1" name="com.zhangdan.safebox.fragment.login.RetrivePwdByEmailActivity" configChanges="160">
+<activity hardwareAccelerated="true" name="io.card.payment.CardIOActivity" configChanges="160">
+<activity screenOrientation="1" name="io.card.payment.DataEntryActivity">
+<activity screenOrientation="1" name="com.zhangdan.banka.activities.WebActivity" configChanges="160">
+<activity screenOrientation="1" name="com.zhangdan.safebox.activitiy.web.BaseWebActivity" configChanges="160">
+<activity name="com.zhangdan.safebox.activitiy.update.UpdateActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+2
+<service name="com.zhangdan.safebox.service.DownloadApkService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+0
+1
+<provider authorities="com.zhangdan.safeboxnew" name="com.zhangdan.safebox.data.db.SafeBoxDataProvider" permission="com.zhangdan.safebox.access_db">
+Owner: CN=chenjun, OU=51zhangdan, O=51zhangdan, L=hangzhou, ST=zhejiang, C=ZH
+Issuer: CN=chenjun, OU=51zhangdan, O=51zhangdan, L=hangzhou, ST=zhejiang, C=ZH
+Serial number: 4ff26b2a
+Valid from: Tue Jul 03 11:46:50 CST 2012 until: Wed Apr 06 11:46:50 CST 2067
+Certificate fingerprints: 
+	MD5:65:C6:0E:23:68:BD:B1:74:84:C8:F8:5A:BE:65:72:FA
+	SHA1: A0:A9:41:64:4D:E1:25:48:4F:7E:E9:92:F3:70:B7:93:45:29:7C:71
+	SHA256: 9B:A8:E4:2B:7F:3C:56:EE:4B:4D:E1:13:18:0F:18:53:F5:08:10:EC:20:B7:9A:E7:F2:C5:8D:6D:C2:C1:98:F6
+	Signature algorithm name: SHA1withRSA
+	version: 3

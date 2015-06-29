@@ -1,0 +1,47 @@
+com.douban.radio
+69
+1.8.3
+4
+11
+12
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+12
+<activity screenOrientation="1" name=".Welcome" theme="16973830" label="2131230720" launchMode="3">
+<activity screenOrientation="1" name=".app.RadioPlayer" theme="16973830" label="2131230720" launchMode="2">
+<activity name=".app.Login" theme="16973830" configChanges="160" label="2131230764" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".app.SelectChannel" label="2131230798" launchMode="1">
+<activity screenOrientation="1" name=".app.Setting" label="2131230799" launchMode="1">
+<activity screenOrientation="1" name=".app.WakeAlarm" theme="2131296256" label="2131230841" launchMode="1">
+<activity screenOrientation="1" name=".app.Feedback" label="2131230824" launchMode="1">
+<activity screenOrientation="1" name=".app.ResetPassword" label="2131230853" launchMode="1">
+<activity excludeFromRecents="true" name=".app.Warning" theme="2131296256" launchMode="3">
+<activity name=".app.AlarmSetting" theme="2131296256" launchMode="1">
+<activity name=".widget.RadioWidgetConfigure">
+<activity name=".app.Browser" theme="16973830" configChanges="224" launchMode="1">
+1
+<service process=":radio" name="com.douban.radio.service.RadioService" exported="false">
+2
+<receiver name=".widget.RadioWidgetProvider" label="2131230890">
+<receiver name=".widget.RadioWidgetProvider2" label="2131230891">
+0
+Owner: CN=Bear Tung, OU=Douban Inc., O=Douban Inc, L=Beijing, ST=Beijing, C=zh
+Issuer: CN=Bear Tung, OU=Douban Inc., O=Douban Inc, L=Beijing, ST=Beijing, C=zh
+Serial number: 4b72d4c3
+Valid from: Wed Feb 10 23:46:11 CST 2010 until: Sat Jun 27 23:46:11 CST 2037
+Certificate fingerprints: 
+	MD5:25:1B:93:78:F5:35:34:48:4E:25:76:95:A4:41:B9:01
+	SHA1: E4:DD:80:ED:E2:71:03:66:E2:BA:1A:67:2F:80:1E:8A:05:1B:BF:4A
+	SHA256: BA:0C:40:F9:D4:55:17:06:F3:59:4C:72:09:F2:32:F3:0B:26:8E:6E:FB:CD:B7:89:A8:B3:DF:F8:17:61:6D:25
+	Signature algorithm name: MD5withRSA
+	version: 1

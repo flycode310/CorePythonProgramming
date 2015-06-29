@@ -1,0 +1,48 @@
+com.android.acehk.ebook.ebb20140902152504541
+5
+C3602.04
+4
+13
+12
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_SMS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+15
+<activity screenOrientation="1" name="com.android.acehk.ebook.ebb20140902152504541.Welcome" theme="16973830">
+<activity screenOrientation="1" name="com.android.acehk.ebook.ebb20140902152504541.Cover" configChanges="160" label="2131296256">
+<activity screenOrientation="1" name="com.android.acehk.ebook.ebb20140902152504541.BookIndex" theme="16973830">
+<activity screenOrientation="1" name="com.android.acehk.ebook.ebb20140902152504541.Copyright" theme="16973830">
+<activity screenOrientation="1" name="com.android.acehk.ebook.ebb20140902152504541.BookListActivity" configChanges="160" label="2131296256">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.android.acehk.ebook.ebb20140902152504541.Read" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.android.acehk.ebook.ebb20140902152504541.Review" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.android.acehk.ebook.ebb20140902152504541.MyWebview" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.android.acehk.ebook.ebb20140902152504541.ReviewDetail" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.android.acehk.ebook.ebb20140902152504541.AppPageActivity" label="2131296256">
+<activity screenOrientation="1" name="com.android.acehk.ebook.ebb20140902152504541.InActivity">
+<activity screenOrientation="1" name="com.android.acehk.ebook.ebb20140902152504541.Recharge">
+<activity screenOrientation="1" name="com.android.acehk.ebook.ebb20140902152504541.PayMethord">
+<activity screenOrientation="1" name="com.android.acehk.ebook.ebb20140902152504541.QihooPayStartActivity" theme="16973830">
+<activity name="com.android.acehk.ebook.ebb20140902152504541.BookDetailActivity" label="2131296256">
+1
+<service enabled="true" name="appstar.com.cn.service.AppstarService">
+0
+0
+Owner: CN=3840269, SERIALNUMBER=20130309000455112, C=CN
+Issuer: CN=CMCA application signing CA, C=CN
+Serial number: 648c11b
+Valid from: Sat Mar 09 00:05:57 CST 2013 until: Wed Mar 09 00:05:57 CST 2033
+Certificate fingerprints: 
+	MD5:39:D0:C9:40:05:E6:5A:02:8A:86:AA:6D:CB:CE:4B:54
+	SHA1: E8:CA:08:0F:77:52:C9:04:8D:85:D8:EB:C2:7A:FA:76:B2:55:AF:4D
+	SHA256: 4E:4F:A7:30:57:10:BC:86:45:5F:30:B0:13:7F:8B:E6:D6:B5:F9:4D:D5:4A:1D:65:39:3F:11:7D:F2:49:6A:12
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,155 @@
+com.axon.atx
+66
+3.5.8
+8
+16
+31
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+com.axon.atx.permission.JPUSH_MESSAGE
+69
+<activity screenOrientation="1" name=".activity.StartupActivity" theme="16973830">
+<activity screenOrientation="1" hardwareAccelerated="true" name=".activity.MainNewActivity" theme="16973830">
+<activity screenOrientation="1" hardwareAccelerated="true" name=".activity.MainDrawerActivity" theme="16973830">
+<activity screenOrientation="1" name=".activity.AboutActivity" theme="16973830" label="2131296618">
+<activity name=".activity.AppTrafficListActivity" theme="16973830" label="2131296618">
+<activity name=".activity.LockTrafficListActivity" theme="16973830" label="2131296618">
+<activity name=".activity.ConfigTixingHourActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.ConfigJiaozhunActivity" theme="16973830" label="2131296618">
+<activity name=".activity.ChongZhiActivity" theme="16973830" label="2131296618">
+<activity name=".activity.ShowOrderActivity" theme="16973830" label="2131296618">
+<activity name=".activity.JiaozhunActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity name=".activity.ConfigJiesuanriActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.ConfigMonthTotalActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.ConfigProvinceActivity" theme="16973830" label="2131296618">
+<activity name=".activity.ConfigProvinceActivity2" theme="16973830" label="2131296618">
+<activity name=".activity.GuideProvinceActivity" theme="16973830" label="2131296618">
+<activity name=".activity.GuideSmsActivity" theme="16973830" label="2131296618">
+<activity name=".activity.ConfigTixingDayActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.ConfigSMSActivity" theme="16973830" label="2131296618">
+<activity name=".activity.ConfigTixingMonthLeftActivity" theme="16973830" label="2131296618">
+<activity name=".activity.ConfigXianshiActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.ConfigXianshiBeginActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.ConfigXianshiEndActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.ConfigXianshiUsedActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.ConfigTotalAndUsedActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.SetingXianshiActivity" theme="16973830" label="2131296618">
+<activity name=".activity.SetingXuanfuActivity" theme="16973830" label="2131296618">
+<activity name=".activity.SetingZidongActivity" theme="16973830" label="2131296618">
+<activity name=".activity.FankuiActivity" theme="16973830" label="2131296618" windowSoftInputMode="16">
+<activity name=".activity.AlertActivity" theme="2131558414" label="2131296618">
+<activity name=".activity.ExitActivity" theme="2131558414" label="2131296618">
+<activity name=".activity.NetChangeActivity" theme="16973830" label="2131296618">
+<activity hardwareAccelerated="false" name=".activity.BrowserActivity" theme="16973830" label="2131296618">
+<activity name=".activity.FlowListActivity" theme="16973830" label="2131296618">
+<activity name=".activity.RankingFragmentActivity" theme="16973830" label="2131296618">
+<activity hardwareAccelerated="false" name=".activity.TixingFragmentActivity" theme="16973830" label="2131296618">
+<activity hardwareAccelerated="false" name=".activity.TixingFragmentActivity2" theme="16973830" label="2131296618">
+<activity name=".activity.SettingFragmentActivity" theme="16973830" label="2131296618">
+<activity name=".activity.JiayouFragmentActivity" theme="16973830" label="2131296618">
+<activity name=".activity.HongbaoFragmentActivity" theme="16973830" label="2131296618">
+<activity name=".activity.RemindDetailActivity" theme="2131558414" label="2131296618">
+<activity screenOrientation="1" name=".activity.WelcomeActivity" theme="16973830" label="2131296618">
+<activity name=".activity.AppScrollActivity" theme="16973830" label="2131296618">
+<activity name=".activity.OpenAppActivity" theme="2131558414" label="2131296618">
+<activity name=".activity.OpenAndDeleteAppActivity" theme="2131558414" label="2131296618">
+<activity name=".activity.WindowActivity" theme="2131558414" label="2131296618">
+<activity name=".activity.NoWeixinActivity" theme="2131558414" label="2131296618">
+<activity name=".driodwall.FirewallActivity" theme="16973830" label="2131296618">
+<activity hardwareAccelerated="true" name=".activity.HongbaoActivity" theme="16973830" label="2131296618">
+<activity screenOrientation="1" name=".activity.HongbaoDetailActivity" theme="16973830" label="2131296618">
+<activity name=".activity.JiaozhunFailActivity" theme="2131558414" label="2131296618">
+<activity name=".activity.JiaozhunRuningActivity" theme="2131558414" label="2131296618">
+<activity hardwareAccelerated="false" name=".activity.AboutGuideActivity" theme="16973830" label="2131296618">
+<activity hardwareAccelerated="false" name=".activity.AboutQaActivity" theme="16973830" label="2131296618">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".activity.ShareActivity" theme="16973830" label="2131296618">
+<activity name=".fb.ConversationActivity" theme="16973830" label="2131296618">
+<activity name=".fb.ContactActivity" theme="16973830" label="2131296618">
+<activity name=".lan.LanActivity" theme="16973830" label="2131296618">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity hardwareAccelerated="false" name=".activity.LoginActivity" theme="16973830" label="2131296618">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830" label="2131296618">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830" label="2131296618">
+<activity screenOrientation="1" name="io.rong.imkit.RongActivity">
+<activity screenOrientation="1" name="io.rong.imkit.RongSingleActivity" launchMode="2">
+<activity screenOrientation="1" name="io.rong.imkit.RongSecActivity" launchMode="2">
+<activity screenOrientation="1" name="io.rong.voipkit.activity.CallSideActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="io.rong.voipkit.activity.CalledSideActivity">
+13
+<service name=".service.SendLockService">
+<service name=".service.SendUnLockService">
+<service name=".service.AlarmServiceDayTraffic">
+<service name=".service.AlarmServiceAppTraffic">
+<service name=".service.AlarmServiceAppList">
+<service name=".service.AlarmServiceCleanDB">
+<service name=".service.LockService">
+<service process=":push" name="com.umeng.message.UmengService" exported="true" label="PushService">
+<service process=":push" name="com.umeng.message.UmengIntentService">
+<service process=":push" name="com.umeng.message.UmengMessageIntentReceiverService" exported="true">
+<service enabled="true" priority="1000" name="io.rong.imkit.service.RongIMService" exported="false">
+<service process="io.rong.push.service" name="io.rong.imlib.PushService">
+<service name="io.rong.imlib.RongService">
+22
+<receiver name=".service.AppChangeReciver">
+<receiver name=".service.UserPresentReceiver">
+<receiver name=".service.TrafficBootReciver">
+<receiver name=".service.TrafficNetworkReciver">
+<receiver name=".service.SMSReciver">
+<receiver name=".service.SendLockReciver">
+<receiver name=".service.AlarmReceiverDayTraffic">
+<receiver name=".service.AlarmReceiverAppTraffic">
+<receiver name=".service.AlarmReceiverFloatView">
+<receiver name=".service.AlarmReceiverWangsuView">
+<receiver name=".service.AlarmReceiverJiaozhun">
+<receiver name=".service.AlarmReceiverRemind">
+<receiver name=".service.AlarmReceiverSendLock">
+<receiver name=".service.AlarmReceiverAppList">
+<receiver name=".service.AlarmReceiverCleanDB">
+<receiver process=":push" name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver process=":push" name="com.umeng.message.SystemReceiver">
+<receiver process=":push" name="com.umeng.message.MessageReceiver">
+<receiver process=":push" name="com.umeng.message.ElectionReceiver">
+<receiver name="com.umeng.message.RegistrationReceiver" exported="false">
+<receiver name="com.umeng.message.BootBroadcastReceiver">
+<receiver process="io.rong.push.service" name="io.rong.imlib.PushReceiver">
+0
+Owner: CN=王光辉
+Issuer: CN=王光辉
+Serial number: 1b330a4b
+Valid from: Tue Sep 10 21:20:07 CST 2013 until: Thu Aug 17 21:20:07 CST 2113
+Certificate fingerprints: 
+	MD5:62:AD:2B:42:0B:3A:8E:87:99:F0:C4:CA:47:4B:92:74
+	SHA1: 02:DC:B3:9B:0D:A5:A1:FA:84:E5:D0:C6:E0:25:BC:44:75:DA:27:1D
+	SHA256: 7C:DF:BA:0B:89:5F:E6:03:1B:EF:98:2D:51:54:3A:BE:E5:50:69:88:44:7D:E2:17:41:5C:26:34:52:10:8F:03
+	Signature algorithm name: SHA256withRSA
+	version: 3

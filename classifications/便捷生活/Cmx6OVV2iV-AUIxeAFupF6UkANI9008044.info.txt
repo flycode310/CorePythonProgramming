@@ -1,0 +1,227 @@
+cn.etouch.ecalendar
+470
+4.6.0
+4
+11
+34
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_SYNC_STATS
+android.permission.DISABLE_KEYGUARD
+android.permission.WRITE_CALENDAR
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SYNC_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+141
+<activity screenOrientation="1" name="cn.etouch.ecalendar.DealIntentActivity" theme="16973839" configChanges="160" noHistory="true" launchMode="3">
+<activity name="cn.etouch.ecalendar.wxapi.WXEntryActivity" theme="16973839" exported="true" launchMode="1">
+<activity name="cn.etouch.ecalendar.settings.ConfigureWeatherActivity4x1" theme="16973839" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ConfigureWeatherTrendWidget4x4Activity" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ConfigureDaoshuriActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ConfigureDaoshuriBackground" theme="16973839" configChanges="160">
+<activity name="cn.etouch.ecalendar.widget.WidgetDialog" theme="2131427368" configChanges="160" noHistory="true" launchMode="3">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.dream.DreamActivity" theme="2131427368" configChanges="160" label="2131099728">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.dream.DreamSecondActivity" theme="2131427368" configChanges="160" label="2131099728">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.dream.DreamSecondTabActivity" theme="2131427368" configChanges="160" label="2131099728">
+<activity screenOrientation="1" hardwareAccelerated="true" name="cn.etouch.ecalendar.ECalendar" configChanges="160" label="2131099720" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.LoadingActivity" configChanges="160" label="2131099718" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.GuideActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.GuideActivityOld" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.FirstSlideGuideActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.SearchAllDataActivityNew" theme="2131427367" configChanges="160" windowSoftInputMode="36">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.SearchAllDataActivity" theme="2131427367" configChanges="160" windowSoftInputMode="36">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.ShowNotSyncDataActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.NoticeAddActivity2" theme="2131427368" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.FlightNoticeActivity" theme="2131427368" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.NoticeAddChoseActivity" theme="2131427368" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.ByTimeNoticeActivity" theme="2131427367" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.CustomNoticeActivity" theme="2131427367" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.DiyNoticeActivity" theme="2131427367" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.FriendNoticeSettingActivity" theme="2131427367" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.MonthCycleActivity" theme="2131427367" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.TimingGreetingActivity" theme="2131427367" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.WaterDrugActivity" theme="2131427367" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.NoticeDetailActivity" theme="2131427368" configChanges="160" label="2131099724">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notice.FlightDetailActivity" theme="2131427368" configChanges="160" label="2131099724">
+<activity name="cn.etouch.ecalendar.tools.astro.AstroActivity" theme="2131427368" configChanges="160" label="2131099725">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.almanac.AlmanacActivity" theme="2131427368" configChanges="160" label="2131099726">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.almanac.ChooseDayActivity" theme="2131427368" configChanges="160" label="2131099727">
+<activity name="cn.etouch.ecalendar.tools.history.HelpActivity" theme="2131427368" configChanges="160" label="2131099729">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.mc.MCActivity" theme="2131427368" configChanges="160" label="2131099730">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.mc.MCResult" theme="2131427368" configChanges="160" label="2131099730">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.almanac.CompassActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.TaskCategoryActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.TaskAndImportantMeetingActivity" theme="2131427367" configChanges="144" windowSoftInputMode="20">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.SelectContactActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.TaskRemarkEditActivity" theme="2131427368" configChanges="144" windowSoftInputMode="4">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.SettingsActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.UserInfoSettingsActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.SubUserInfoSettingActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.alarm.AlarmSettingActivity" theme="2131427367" configChanges="160" windowSoftInputMode="2">
+<activity name="cn.etouch.ecalendar.WebViewActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.weather.SelectCityActivity" theme="2131427367" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.AboutActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ChooseRingActivity">
+<activity name="cn.etouch.ecalendar.settings.BackupAndRecoveryActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.BackUpDetailsActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.NoteBookSettingsActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity name="cn.etouch.ecalendar.settings.NoteBookLockedActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity name="cn.etouch.ecalendar.settings.WidgetSettingsActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ChooseAppActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.weather.WeatherMainActivity" theme="2131427368" configChanges="160" launchMode="2">
+<activity name="cn.etouch.ecalendar.settings.RemindSettingActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.tools.calculate.CalculateActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.NewSelectTimeActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity name="cn.etouch.ecalendar.settings.ConfigureNote2x2Activity" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ConfigureWeatherActivity" theme="16973839" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ConfigureRrecordActivity" theme="16973839" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ConfigureWeatherActivity2" theme="16973839" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ConfigureDayActivity" theme="16973839" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ConfigureMonthActivity" theme="16973839" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ConfigureNewMonthActivity" theme="16973839" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.AdvanceSettingsActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.AppsAndGameActivity" theme="2131427367" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.ImportBirthdayActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.share.ShareToSnsActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notebook.NoteBookDetailActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.skin.SDCardSkinActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.skin.DiySkinActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.ToolsActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.BindSNSActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notebook.NoteBookGroupActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.SelectPlaceActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.NewChooseRingActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.locked.CreateGesturePasswordActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.locked.UnlockGesturePasswordActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.ManagerLoginUserActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.LoginWebviewActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.RegistAndLoginActivity" theme="2131427368" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.ChoiceCityActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.PreviewTaskActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.GetBackPswWithEmailActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.BindPhoneActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.GetBackPswWithPhoneActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.PhoneRegistActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.EmailRegistActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notebook.ImageViewer" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.ConfigureStatusBarWeatherActivity" theme="16973839" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.ConfigureStatusBarWeeklyActivity" theme="16973839" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notebook.NoteAddGroupActivity" theme="2131427368" configChanges="160" windowSoftInputMode="5">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.account.OauthManagerActivity" theme="2131427367" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.account.QQTokenActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.account.SinaTokenActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.account.BaiduTokenActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.sync.account.RenRenTokenActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notebook.imagelvjing.DealImageActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notebook.DealHttpUrlActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notebook.imagelvjing.FingerPaintActivity" theme="2131427367" configChanges="160">
+<activity name="cn.etouch.ecalendar.tools.systemcalendar.SelectSystemCalendarActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.tools.systemcalendar.under4.SelectSystemCalendarActivityUnder4" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.WeatherNotificationSettingActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.tools.notebook.imagelvjing.SelectPicturesFromDeviceActivity" theme="2131427368">
+<activity name="cn.etouch.ecalendar.tools.notebook.imagelvjing.SelectLocalPicturesActivity" theme="2131427368">
+<activity name="cn.etouch.ecalendar.tools.weather.AddCityActivity" theme="2131427368" windowSoftInputMode="32">
+<activity process="cn.etouch.ecalendar.camera" screenOrientation="0" name="cn.etouch.ecalendar.tools.notebook.imagelvjing.MyCameraActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="false" name="cn.etouch.ecalendar.service.AlarmRemindFgmActivity" theme="2131427367" configChanges="160" windowSoftInputMode="2">
+<activity name="cn.etouch.ecalendar.service.NoticeRemindActivity" theme="16973839" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.CustomCalendarSettingActivity" theme="2131427368">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notebook.AddRichNoteActivity" theme="2131427367" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.notebook.TodoActivity" theme="2131427367" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.todo.TodoEditActivity" theme="2131427367" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.todo.TodoDetailActivity" theme="2131427367" configChanges="160" windowSoftInputMode="20">
+<activity name="cn.etouch.ecalendar.settings.ThirdPartyProxyActivity" theme="2131427368">
+<activity name="cn.etouch.ecalendar.TestActivity">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.ImportRenrenBirthActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.tools.find.FindActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.tools.find.EventDetailActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.tools.facebook.ImportFaceBookBirthdayActivity" theme="2131427368">
+<activity name="cn.etouch.ecalendar.tools.facebook.OauthFaceBookActivity" theme="2131427368">
+<activity name="cn.etouch.ecalendar.settings.ImportFestivalActivity" theme="16973839">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.settings.AppsGamesDetailActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.TaskPlaceEditActivity" theme="2131427367" configChanges="144" windowSoftInputMode="4">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.task.activity.TaskPlaceSelectActivity" theme="2131427368" configChanges="160" windowSoftInputMode="2">
+<activity name="cn.etouch.ecalendar.ShortCutGroupActivity" theme="16973839" configChanges="160" noHistory="true" launchMode="3">
+<activity screenOrientation="1" name="cn.etouch.ecalendar.tools.history.CaiPiaoActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.tools.wongtaisin.WongTaiSinActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.tools.wongtaisin.ResultActivity" theme="2131427368" configChanges="160">
+<activity name="com.tencent.android.tpush.XGPushActivity">
+<activity name="cn.etouch.ecalendar.settings.MyBindingPhone" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.sync.PhoneRegistASecondActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.sync.BindingPhoneSecondActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.sync.BindingPhoneJumpActivity" theme="2131427368" configChanges="160">
+<activity name="cn.etouch.ecalendar.settings.AGamesListInCatActivity" theme="2131427368" configChanges="160">
+<activity name=".sync.GetBackPswWithPhoneSecondActivity" theme="2131427368" configChanges="160">
+<activity name=".sync.ReLoginAcitivity" theme="2131427368" configChanges="160">
+11
+<service process=":remote" description="2131099738" name="cn.etouch.ecalendar.sync.SynService" label="2131099737">
+<service name="suishen.mobi.market.download.DownloadMarketService">
+<service name="cn.etouch.ecalendar.service.DaoshuriWidgetService">
+<service name="cn.etouch.ecalendar.service.RingService">
+<service name="cn.etouch.ecalendar.service.NotificationService">
+<service name="cn.etouch.ecalendar.service.NotificationServiceWeekly">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="cn.etouch.ecalendar.tools.systemcalendar.AsyncQueryServiceHelper">
+<service process=":remote" description="2131099736" name="cn.etouch.ecalendar.service.MyService" label="2131099735">
+<service name="cn.etouch.ecalendar.service.NotificationServiceWeekly">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+20
+<receiver name="cn.etouch.ecalendar.widget.MyWidget_Note4x1" label="2131100025">
+<receiver name="cn.etouch.ecalendar.widget.Widget_Note2x2" label="2131100028">
+<receiver name="cn.etouch.ecalendar.widget.myWidget" label="2131100018">
+<receiver name="cn.etouch.ecalendar.widget.myWidget1x1" label="2131100022">
+<receiver name="cn.etouch.ecalendar.widget.myWidget_Month" label="2131100019">
+<receiver name="cn.etouch.ecalendar.widget.myWidget_weather" label="2131100020">
+<receiver name="cn.etouch.ecalendar.widget.myWidget_weather2" label="2131100026">
+<receiver name="cn.etouch.ecalendar.widget.myWidget_weather4x1" label="2131100027">
+<receiver name="cn.etouch.ecalendar.widget.WeatherTrendWidget4x4" label="2131100029">
+<receiver name="cn.etouch.ecalendar.widget.NewWidget_Month" label="2131100021">
+<receiver name="cn.etouch.ecalendar.widget.MyWidget_daoshuri" label="2131100024">
+<receiver name="cn.etouch.ecalendar.service.SDCardStatusChangeReceiver">
+<receiver name="cn.etouch.ecalendar.service.CheckAppStateReceiver">
+<receiver name="cn.etouch.ecalendar.tools.task.util.SystemEventAddReceiver">
+<receiver name="cn.etouch.ecalendar.service.BootReceiver" label="2131099718">
+<receiver name="cn.etouch.ecalendar.service.NoticesReceiver">
+<receiver name="cn.etouch.ecalendar.service.AlarmsReceiver">
+<receiver name="cn.psea.sdk.PeacockManager$PeacockReveiver">
+<receiver name="suishen.mobi.market.download.DownLoadMarketReceiver">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+1
+<provider authorities="cn.etouch.ecalendar.provider" name="cn.etouch.ecalendar.provider.EcalendarProvider">
+Owner: CN=allove, OU=allove, O=allove
+Issuer: CN=allove, OU=allove, O=allove
+Serial number: 4abe3d8a
+Valid from: Sun Sep 27 00:12:58 CST 2009 until: Thu Aug 10 00:12:58 CST 2209
+Certificate fingerprints: 
+	MD5:53:8B:7C:79:CA:EC:50:08:FB:1B:DD:27:DC:5B:F8:FA
+	SHA1: 14:9A:A9:10:EF:49:BA:39:BA:B1:32:B3:05:F5:CB:A0:C3:DE:BE:B9
+	SHA256: 00:BD:7B:F0:A0:80:25:0C:78:EF:72:2B:9D:BB:E5:3C:E6:23:0E:F1:C6:1E:C7:A7:70:97:8A:81:88:B8:95:19
+	Signature algorithm name: SHA1withRSA
+	version: 3

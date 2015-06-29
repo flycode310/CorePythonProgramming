@@ -1,0 +1,33 @@
+lfr.ustc.statcis
+40
+4.0
+3
+-1
+5
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.android.permission.READ_PHONE_STATE
+android.permission.READ_LOGS
+android.permission.VIBRATE
+5
+<activity screenOrientation="1" name=".StatcisActivity" label="2131034112" launchMode="2">
+<activity screenOrientation="1" name=".HelpActivity">
+<activity name="com.mobclick.android.UmengFeedback">
+<activity screenOrientation="1" name=".SetupActivity">
+<activity screenOrientation="1" name=".RecommendApp" theme="16973835" configChanges="160" launchMode="2">
+1
+<service name=".StatcisServer">
+2
+<receiver name=".BroadcastServer">
+<receiver name=".BroadcastServerBootComplete">
+0
+Owner: CN=Lian xiang, OU=Lenovo, O=Lenovo, L=Shanghai, ST=Shanghai, C=86
+Issuer: CN=Lian xiang, OU=Lenovo, O=Lenovo, L=Shanghai, ST=Shanghai, C=86
+Serial number: 4c907142
+Valid from: Wed Sep 15 15:09:54 CST 2010 until: Thu Sep 02 15:09:54 CST 2060
+Certificate fingerprints: 
+	MD5:4F:DE:EC:6B:99:A3:26:34:17:B3:5F:D2:36:16:D3:D4
+	SHA1: EF:34:0E:5F:87:9C:A7:36:FC:DA:C7:8B:CD:8A:44:EC:B3:DA:D9:B4
+	SHA256: 8E:F2:00:C9:40:76:4D:77:D2:DD:44:6D:70:86:F7:C9:69:E2:C8:E2:6B:EB:1A:01:60:F2:A9:3E:20:A9:B0:5E
+	Signature algorithm name: SHA1withRSA
+	version: 3

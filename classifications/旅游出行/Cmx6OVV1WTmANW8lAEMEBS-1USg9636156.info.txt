@@ -1,0 +1,89 @@
+com.qunar.hotel
+12
+1.1.2
+8
+19
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+52
+<activity screenOrientation="1" name="com.qunar.hotel.NoteActivity" theme="16973834" configChanges="160" exported="true">
+<activity screenOrientation="1" name="com.qunar.hotel.HomeActivity" configChanges="160" exported="true">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelCityActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.calendar.HotelCalendarActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelKeywordsSuggestionActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelImageDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelDetailMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelRoomsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelCollectionsListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelCommentActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelCommentEditActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelCommentRecommendActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.MultiPhotoChooserActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelRoomImageGalleryActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelRoomsPickActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelOrderFillActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelOrderConfirmActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelOrderDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelOrderListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelPhoneOrderListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelOrderSOPResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelLocationReportActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelOtherInfoReportActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCFastLoginActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.RegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.RegisterVerifyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCFindPwdActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCFindpwdInputverifyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCVerifyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelContactListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelCustomerListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCAddContactActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCAddphoneActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCModifyContactActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCModifyPwdActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCModifyPhoneActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCModifyPhoneVerifyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCContactListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.SelProvinceActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.SelCityActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.SelQuActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HotelApplyCashbackActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.TTSVouchActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.TTSPaymentBalancePswCreateActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UCBalanceAccountActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.HelpInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.WebActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.MyHotelActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qunar.hotel.UpgradeActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="com.Qunar.sdk.pay.activity.CashierActivity" theme="2131427369" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.qunar.hotel.cfg.ConfigurationActivity" configChanges="160">
+1
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+0
+0
+Owner: CN=huan.cai, OU=qunar.com, O=qunar.com, L=beijing, ST=beijing, C=86
+Issuer: CN=huan.cai, OU=qunar.com, O=qunar.com, L=beijing, ST=beijing, C=86
+Serial number: 4c354d24
+Valid from: Thu Jul 08 11:59:32 CST 2010 until: Fri Apr 10 11:59:32 CST 2065
+Certificate fingerprints: 
+	MD5:CB:61:9D:34:F2:EC:B8:2E:96:91:7C:D6:25:A6:4C:E6
+	SHA1: 85:90:C3:56:CB:3B:B6:CA:E8:C3:78:BC:FD:BE:6A:A3:F5:E2:52:DE
+	SHA256: DC:FB:86:EF:F5:BA:39:6B:F0:66:C0:9F:6A:0A:30:8E:2D:75:E5:C9:1E:FE:7E:09:1C:81:B8:8F:A8:7C:05:EE
+	Signature algorithm name: SHA1withRSA
+	version: 3

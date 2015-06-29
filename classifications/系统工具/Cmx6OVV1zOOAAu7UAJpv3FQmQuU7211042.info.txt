@@ -1,0 +1,276 @@
+com.lenovo.safecenter
+4231766
+V5.2.0.1766
+10
+17
+65
+android.permission.MOUNT_FORMAT_FILESYSTEMS
+android.permission.MASTER_CLEAR
+com.lenovo.launcher.permission.WRITE_SETTINGS
+android.permission.WRITE_CALL_LOG
+android.permission.READ_LOGS
+android.permission.SET_ACTIVITY_WATCHER
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.CLEAR_APP_CACHE
+android.permission.WRITE_CONTACTS
+android.permission.READ_NETWORK_USAGE_HISTORY
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.STATUS_BAR_SERVICE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.RECEIVE_WAP_PUSH
+android.permission.WRITE_MEDIA_STORAGE
+android.permission.SEND_SMS
+android.permission.MOVE_PACKAGE
+android.permission.RECEIVE_MMS
+android.permission.WRITE_SECURE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.FORCE_STOP_PACKAGES
+android.permission.WRITE_CALENDAR
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.MODIFY_PHONE_STATE
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.BLUETOOTH
+com.android.launcher.permission.READ_SETTINGS
+android.permission.PACKAGE_USAGE_STATS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.DEVICE_POWER
+android.permission.ACCESS_WIFI_SATAE
+android.permission.DELETE_PACKAGES
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.BROADCAST_WAP_PUSH
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+com.lenovo.launcher.permission.READ_SETTINGS
+android.permission.BATTERY_STATUS
+android.permission.GET_PACKAGE_SIZE
+android.permission.BROADCAST_PACKAGE_REMOVED
+android.permission.DELETE_CACHE_FILES
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.READ_CALL_LOG
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+125
+<activity screenOrientation="1" name="com.lenovo.safecenter.utils.update.VersionUpdateDIalogActivity" theme="2131361873">
+<activity name="com.lenovo.lps.sus.control.SUSPromptActivity" theme="16973839">
+<activity name="com.lenovo.lps.sus.control.SUSCustdefNotificationActivity" theme="2131361873">
+<activity name="com.lenovo.lps.sus.control.SUSNotificationActivity" theme="16973839">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.AddContract" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.ContractSetting" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.EditSettingActivity" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.ErrorAddContract" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.ErrorWhiteContract">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.ErrorWhiteSms">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.HandActivity" theme="2131361945" noHistory="true">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.ManWhiteSms" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.NewContractSetting" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.PrivateMainActivity" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.SafeMainActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.SofeModeMain" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.WhiteCall">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.WhiteContract">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.WhiteSms">
+<activity screenOrientation="1" name="com.lenovo.safecenter.safemode.WhiteSmsShowByNumber" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.CallNotifyActivity" theme="2131361873" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.SMSNotifyActivity" theme="2131361873" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.newview.LocalBlackListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.newview.LocalWhiteListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.views.ManAddWhiteContract" theme="2131361945" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.views.HandBlackActivity" theme="2131361945" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.views.ManLocalBlackAddActivity" theme="2131361945" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.views.SpamConfirm" theme="2131361873">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.newview.UpLoadSMS" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.newview.HarassSet" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.newview.FirstSignActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.newview.FirstHarssActivity" theme="2131361873" launchMode="3">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.newview.ShowConfirm" theme="2131361873">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.fragment.AntiSpamLogActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.fragment.SignActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.fragment.WBMainActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.newview.IPCallSetting" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.lenovoAntiSpam.newview.NumberArea" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.DailyToolsActivity" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.SafePageSetting" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.DailyToolsGuestmodeActivity" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.Laboratory.ForbiddenApplication" noHistory="true" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.lenovo.safecenter.Laboratory.SafePaymentDialogActivity" theme="2131361873" exported="false" launchMode="3">
+<activity screenOrientation="1" name="com.lenovo.safecenter.Laboratory.SafePaymentActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.systeminfo.ui.activity.CommonNumberActivity" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.systeminfo.ui.activity.SystemExamActivity" theme="2131361945">
+<activity screenOrientation="1" name="com.lenovo.safecenter.systeminfo.ui.activity.SystemInfoActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.systeminfo.ui.activity.ScreenTestActivity">
+<activity name="com.lenovo.safecenter.Laboratory.RootIntroduction">
+<activity screenOrientation="1" name="com.lenovo.safecenter.Laboratory.DialogActivity" theme="2131361873" launchMode="3">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.PermissionControlTable" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.ApplicationList" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.MessageBlackList" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.DisplayLog" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.NotiSMSActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.AppPermManagerNew">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.ChargeSafeNew">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.SmsSettingsActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.AntiTappingActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.lenovo.install.InstallActivity" launchMode="3">
+<activity screenOrientation="1" name="com.lenovo.install.InstallProgress">
+<activity screenOrientation="1" name="com.lenovo.install.InstallErrorActivity">
+<activity screenOrientation="1" name="com.lenovo.install.ShowPkgInfoActivity">
+<activity icon="2130838405" name="com.lenovo.safecenter.floatwindow.shortcut.CreateShortcutActivity" label="2131296263">
+<activity icon="2130838405" name="com.lenovo.safecenter.floatwindow.shortcut.ShortcutActivity" theme="16973840" label="2131296263" launchMode="3">
+<activity name="com.lenovo.safecenter.floatwindow.view.FloatwindowCache" theme="2131361892" launchMode="3">
+<activity screenOrientation="1" name="com.lenovo.safecenter.net.ui.TrafficDailog" theme="2131361873" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.net.ui.TrafficMonthInfoSetting" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.net.ui.TrafficCorrectSetting" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.net.ui.TrafficShowDataDailog" theme="2131361873" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.net.ui.NetFilter" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.net.ui.TrafficMainUi" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.net.ui.TrafficDailyDetailUi" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.net.ui.NetSetting" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.net.ui.TrafficShowLockScreenData" theme="2131361873" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.lenovo.cleanmanager.CleanMainActivity" label="2131297134">
+<activity screenOrientation="1" name="com.lenovo.cleanmanager.allrubbish.AllRubbish">
+<activity name="com.lenovo.cleanmanager.MemoryInfo" theme="2131361849">
+<activity screenOrientation="1" name="com.lenovo.cleanmanager.media.FileManagerActivity">
+<activity screenOrientation="1" name="com.lenovo.optimizer.AppMgrApkManagerActivity_new" label="2131297080">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="lesafe.modules.antithief.ui.AntithiefMainActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="lesafe.modules.antithief.ui.AntithiefPromptActivity" launchMode="2">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="lesafe.modules.antithief.ui.AntithiefHelpActivity" launchMode="2">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="lesafe.modules.antithief.ui.AntithiefHelpPageActivity" launchMode="2">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="lesafe.modules.antithief.ui.AntithiefSettingsActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.antivirus.MainActivity" theme="2131361945" configChanges="160" label="2131296860">
+<activity screenOrientation="1" name="com.lenovo.safecenter.antivirus.views.AntiVirusSetting" theme="2131361945" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.antivirus.views.FlashProActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.antivirus.views.LogActivity" theme="2131361945" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.antivirus.views.VirusInfo" theme="2131361945" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.antivirus.views.NotiSMSActivity" theme="2131361873" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.amg.ui.AppsManagerMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.amg.ui.AppsUninstallActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.amg.ui.AppsMoveActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.amg.ui.AppsFreezeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.amg.ui.SysAppsOptimizeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.SplashActivity" label="2131296539">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.LeSafeMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.AboutActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.AppDownloadActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.AppLockMustUpdateDialogActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.FirstUsePasswordSettingActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.HelpActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.LabUpdateDialogActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.ShareActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.ShareByQRCodeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.UpdateVersionActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.AppsManager.SettingsActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.QuestionAndAnswer">
+<activity screenOrientation="1" name="com.lenovo.safecenter.MainTab.LeSafeFeedBackActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.notificationintercept.NotificationTabActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.safecenter.notificationintercept.NotificationRecordActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.notificationintercept.AdManager">
+<activity screenOrientation="1" name="com.lenovo.safecenter.notificationintercept.AdDetailActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.notificationintercept.ADInfoActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.notificationintercept.NotiDetailActivity">
+<activity screenOrientation="1" name="com.lenovo.safecenter.notificationintercept.AdReportActivity">
+<activity screenOrientation="1" name="com.lenovo.performancecenter.performance.PhoneAccelerateActivity" theme="2131361945" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.performancecenter.performance.TaskManagerActivity" theme="2131361945" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.performancecenter.performance.PerfWhitelistActivity" theme="2131361945" configChanges="160" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.performancecenter.performance.BootSpeedActivity" theme="2131361945" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.lenovo.performancecenter.performance.AutoRunDialogActivity" theme="2131361873">
+<activity icon="2130838205" excludeFromRecents="true" name="com.lenovo.safecenter.shortcut.CleanAcitivty" theme="2131361796" label="2131296378" launchMode="3">
+<activity name="com.lenovo.desktoptoast.FloatWindowActivity" theme="2131361797" launchMode="3">
+<activity name="com.lenovo.desktoptoast.FloatWindowSettingActivity" theme="2131361800" launchMode="3">
+30
+<service name="com.lenovo.safecenter.services.CheckPermissionService">
+<service name="com.lenovo.safecenter.utils.update.LeSafeDownLoadApk">
+<service name="com.lenovo.safecenter.utils.update.LeSafeCheckApkVersion">
+<service name="com.lenovo.safecenter.lenovoAntiSpam.support.DownNetBlackService">
+<service name="com.lenovo.safecenter.lenovoAntiSpam.support.DownSignCallService">
+<service name="com.lenovo.safecenter.lenovoAntiSpam.support.DownSysService">
+<service name="com.lenovo.safecenter.lenovoAntiSpam.support.UpdateService">
+<service name="com.lenovo.safecenter.lenovoAntiSpam.support.PhoneListenService">
+<service name="com.lenovo.safecenter.services.LaboratoryInstallJudgeService">
+<service name="com.lenovo.safecenter.services.SafePaymentInstallJudgeService">
+<service name="lesafe.modulelib.netmonitor.TrafficStatisticsService">
+<service name="com.lenovo.safecenter.net.flowwindow.TrafficService">
+<service process=":remote" name="com.lenovo.safecenter.services.AlarmService">
+<service name="com.lenovo.safecenter.services.FormatSDService">
+<service name="com.lenovo.safecenter.services.LockScreenService">
+<service name="com.lenovo.safecenter.antivirus.support.DowmdataService">
+<service name="com.lenovo.safecenter.antivirus.support.InitService">
+<service name="com.lenovo.safecenter.antivirus.support.InstallJudgeService">
+<service name="com.lenovo.safecenter.antivirus.support.SyncDownService">
+<service process=":remote" name="com.lenovo.safecenter.aidl.killvirus.RemoteScanVirusService">
+<service process=":remote" name="com.lenovo.safecenter.aidl.healthcheck.RemoteHealthCheckService" permission="com.lenovo.safecenter.permission.RemoteHealthCheck">
+<service process=":remote" name="com.lenovo.safecenter.aidl.usbdebugmode.RemoteUsbDebugModeService" permission="com.lenovo.safecenter.permission.RemoteSetUsbDebugMode">
+<service name="com.lenovo.performancecenter.framework.CustomerWhiteListService">
+<service name="com.lenovo.safecenter.shortcut.CleanViewService">
+<service name="com.lenovo.safecenter.services.AppLockApkDownloadService" exported="false">
+<service name="com.lenovo.safecenter.services.SecurityService" exported="false">
+<service name="com.lenovo.safecenter.services.SafeCenterService">
+<service process=":remote" name="com.lenovo.safecenter.services.SendMsgService">
+<service name="com.lenovo.safecenter.services.SendSmsService">
+<service process=":fore" name="com.lenovo.desktoptoast.FloatWindowBackService">
+27
+<receiver name="com.lenovo.lps.sus.control.SUSReceiver">
+<receiver name="com.lenovo.safecenter.Laboratory.SafeHomePageBroadcast">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.SafeInputMethodBroadcast">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.InputMethodChangeBroadcast">
+<receiver name="com.lenovo.safecenter.platform.NoticeBroadcast">
+<receiver name="lesafe.modulelib.netmonitor.TrafficMainBroadcastReceiver" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver name="com.lenovo.cleanmanager.receiver.UninstallReceiver">
+<receiver name="com.lenovo.safecenter.antivirus.support.Alarmreceiver">
+<receiver name="com.lenovo.safecenter.antivirus.support.AppBroadcast">
+<receiver name="com.lenovo.safecenter.antivirus.support.BootBroadcastReceiver">
+<receiver name="com.lenovo.safecenter.utils.updateLab.UpdateLabReceiver">
+<receiver name="com.lenovo.safecenter.notificationintercept.NotificationReceiver">
+<receiver name="com.lenovo.performance.receiver.LeemCenterReceiver">
+<receiver name="com.lenovo.performance.receiver.KillAllPackageReceiver">
+<receiver name="com.lenovo.safecenter.utils.updateLab.WifiConnectedReceiver">
+<receiver name="com.lenovo.safecenter.utils.updateLab.NetConnectedReceiver">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.SpecialAlarmReceiver">
+<receiver name="com.lenovo.safecenter.platform.BootBroadcast">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.MMSReceiver">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.SMSCheckReceiver">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.AppBroadcast">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.HarassLogBroadcast">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.SmsBroadcast">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.OutPhoneReceiver">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.CheckInterChangeReceiver">
+<receiver name="com.lenovo.safecenter.broadcastReceiver.UpdateTrafficReceiver">
+<receiver name="com.lenovo.safecenter.mmsutils.PushReceiver" permission="android.permission.BROADCAST_WAP_PUSH">
+9
+<provider authorities="com.lenovo.safecenter.netBlackProvider" name="com.lenovo.safecenter.lenovoAntiSpam.provider.NetBlackProvider">
+<provider authorities="com.lenovo.safecenter.LocalBlackProvider" name="com.lenovo.safecenter.lenovoAntiSpam.provider.LocalBlackProvider">
+<provider authorities="com.lenovo.safecenter.WhitePersonProvider" name="com.lenovo.safecenter.lenovoAntiSpam.provider.WhitePersonProvider">
+<provider authorities="com.lenovo.antivirus.AppinfoProvider" name="com.lenovo.safecenter.antivirus.db.AppinfoProvider">
+<provider authorities="com.lenovo.safecenter.whiteperson" name="com.lenovo.safecenter.providers.WhitePersonProvider">
+<provider authorities="com.lenovo.providers.querypermissions" name="com.lenovo.safecenter.providers.QueryPermissionsProvider">
+<provider process="com.lenovo.safecenter.whitelist" authorities="com.lenovo.performancecenter.provider.querywhitelist" name="com.lenovo.performancecenter.db.WhitelistProvider" exported="true">
+<provider authorities="com.lenovo.safecenter.password" name="com.lenovo.safecenter.providers.Password" exported="true">
+<provider authorities="com.lenovo.safecenter.HarassProvider" name="com.lenovo.safecenter.providers.HarssLogProvider">
+Owner: EMAILADDRESS=lenovo@lenovo.com, CN=LeOS, OU=Research, O=Lenovo, L=Beijing View, ST=BJ, C=CN
+Issuer: EMAILADDRESS=lenovo@lenovo.com, CN=LeOS, OU=Research, O=Lenovo, L=Beijing View, ST=BJ, C=CN
+Serial number: 854e5e1bfc1ce89a
+Valid from: Thu Dec 16 15:01:18 CST 2010 until: Wed Oct 16 08:33:02 CST 1974
+Certificate fingerprints: 
+	MD5:5A:BD:F9:B6:49:C2:B8:AC:60:26:B8:83:13:C3:C3:32
+	SHA1: 5A:F3:C8:2B:CD:F9:85:81:F4:BC:98:A5:B8:6A:41:B3:0E:D0:C2:31
+	SHA256: 99:1C:98:97:78:73:28:15:E5:0D:7E:78:8C:45:4D:08:93:CF:9B:19:5C:1A:29:FF:4D:EF:16:1F:84:82:17:D8
+	Signature algorithm name: SHA1withRSA
+	version: 3

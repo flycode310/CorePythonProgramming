@@ -1,0 +1,54 @@
+com.family.notepad
+35
+V1.0.569
+8
+16
+10
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+15
+<activity screenOrientation="5" name="com.family.notepad.MainActivity" label="2131230859">
+<activity screenOrientation="5" name="com.family.notepad.AddNotepad" windowSoftInputMode="17">
+<activity screenOrientation="1" name="com.family.common.ui.AboutActivity" theme="16973830">
+<activity screenOrientation="5" name="com.family.notepad.ParentAppsDownload" windowSoftInputMode="17">
+<activity screenOrientation="5" name="com.family.notepad.SpeechRecognitionMainActivity">
+<activity screenOrientation="5" name="com.family.downloadmgr.RecommendAppListUI">
+<activity screenOrientation="5" name="com.family.downloadmgr.DownloadMgrDeleteUI">
+<activity screenOrientation="5" name="com.family.downloadmgr.DownloadMgrUI">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity screenOrientation="1" name="com.qihoo360.union.ui.UnionAppListActivity">
+<activity screenOrientation="1" name="com.qihoo.gamead.activity.LightAppActivity" theme="16973840" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.qihoo.gamead.activity.AppDetailActivity" theme="16973837" configChanges="160" launchMode="1">
+<activity name="com.qihoo.psdk.app.QStatActivity" theme="16973840" launchMode="3">
+6
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.qihoo360.union.service.UnionService" exported="false" label="UnionService">
+<service name="com.qihoo.gamead.download.DownloadService">
+<service process=":QEvent" name="com.qihoo.gamead.event.QEventService" exported="false">
+<service process=":QRemote" name="com.qihoo.psdk.remote.QRemoteService" exported="true">
+<service process=":QLocal" name="com.qihoo.psdk.local.QLocalService" exported="true">
+2
+<receiver name="com.family.calendar.QIntegralReceiver">
+<receiver name="com.qihoo.psdk.local.QBootReceiver" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+1
+<provider authorities="com.family.notepad" name="com.family.notepad.database.PadProvider" exported="true">
+Owner: CN=Yaoxin, OU=Yaoxin, O=Yaoxin, L=SH, ST=SH, C=CN
+Issuer: CN=Yaoxin, OU=Yaoxin, O=Yaoxin, L=SH, ST=SH, C=CN
+Serial number: 5100e36a
+Valid from: Thu Jan 24 15:31:54 CST 2013 until: Sat Jan 17 15:31:54 CST 2043
+Certificate fingerprints: 
+	MD5:1B:E7:C7:CD:0D:69:A8:B5:76:B9:AD:B7:92:34:38:23
+	SHA1: 71:CB:53:8C:0C:11:A9:8C:AA:EE:8E:69:99:27:CD:72:35:AD:38:C8
+	SHA256: 8D:69:34:DC:37:4B:BE:FA:7B:16:D0:28:C3:4E:B3:4B:04:F3:99:7E:66:E6:AA:7A:58:F3:43:9E:13:84:66:DB
+	Signature algorithm name: SHA1withRSA
+	version: 3

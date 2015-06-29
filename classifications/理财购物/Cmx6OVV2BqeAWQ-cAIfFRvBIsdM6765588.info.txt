@@ -1,0 +1,416 @@
+com.pingan.pabank.activity
+120
+1.2.0
+4
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.INSTALL_PACKAGES
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+387
+<activity screenOrientation="1" name=".login.LoadingActivity" theme="16973830">
+<activity screenOrientation="1" name=".login.LoginActivity" theme="16973830" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".login.AboutActivity" theme="16973830">
+<activity screenOrientation="1" name=".homepage.PingAnHomeActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".register.TOAProtocolActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.BankProtocolActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.AccountCheckActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.SeniorInfoCheckActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.NormalInfoCheckActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.NewAccountSettingActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.RegisterSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.OldENoIdActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.OldEIdActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.NewENoIdActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.NewEIdActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.OneNotSetNameActivity" theme="16973830">
+<activity screenOrientation="1" name=".register.OneSetNameActivity" theme="16973830">
+<activity screenOrientation="1" name=".myWealth.myAssetAndDebt.AssetAndDebtActivity">
+<activity screenOrientation="1" name=".myWealth.mySave.MySaveActivity" theme="16973830">
+<activity screenOrientation="1" name=".myWealth.mySave.MySaveCurrentDepositDetailActivity">
+<activity screenOrientation="1" name=".myWealth.mySave.MySaveRegulerDepositDetailActivity">
+<activity screenOrientation="1" name=".myWealth.mySave.TransactionListActivity">
+<activity screenOrientation="1" name=".myWealth.mySave.TransactionListTodayActivity">
+<activity screenOrientation="1" name=".myWealth.mySave.TransactionListSavenDayActivity">
+<activity screenOrientation="1" name=".myWealth.mySave.TransactionListByCalanderActivity">
+<activity screenOrientation="1" name=".myWealth.mySave.TransactionListBySearchActivity">
+<activity screenOrientation="1" name=".myWealth.mySave.TransactionDetailActivity">
+<activity screenOrientation="1" name=".myWealth.mySave.TransactionSearchActivity">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtFrameActivity">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtCreditCard">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtLoan">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtBillFrameActivity">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtCurrentBill">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtUnpaidBill">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtHistoryBill">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtLoanFrameActivity">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtLoanDetail">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtLoanRepayDetail">
+<activity screenOrientation="1" name=".myWealth.myDebt.MyDebtLoanRepayPlan">
+<activity screenOrientation="1" name=".myWealth.myinvestment.MyInvestmentMainActivity">
+<activity screenOrientation="1" name=".myWealth.myinvestment.FundationDetail">
+<activity screenOrientation="1" name=".myWealth.myinvestment.MyFinancial">
+<activity screenOrientation="1" name=".myWealth.myinvestment.FinancialDetail">
+<activity screenOrientation="1" name=".myWealth.myinvestment.MyFondation">
+<activity screenOrientation="1" name=".myWealth.myinvestment.Mysecurities">
+<activity screenOrientation="1" name=".financial.EconomyMainActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financial.ActivToFixedActivity" launchMode="1">
+<activity screenOrientation="1" name=".financial.FixedToActivFormActivity" launchMode="1">
+<activity screenOrientation="1" name=".financial.FixedToActivActivity" launchMode="1">
+<activity screenOrientation="1" name=".financial.QueryReserverActivity" launchMode="1">
+<activity screenOrientation="1" name=".financial.QueryResultActivity" launchMode="1">
+<activity screenOrientation="1" name=".financial.CheckFormActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".financial.CardDetailInfoActivity" launchMode="1">
+<activity screenOrientation="1" name=".financial.QueryDetailActivity" launchMode="1">
+<activity screenOrientation="1" name=".financial.SearchActivity" launchMode="1">
+<activity screenOrientation="1" name=".financial.ReserverSearchActivity" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name=".financial.ReserverDetailActivity" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.NoticeMainActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.CurToNoticeActivity" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.NoticeToCurActivity" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.QueryNoticeActivity" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.QueryNoticeDetailActivity" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.NoticeToCurrentDetailtivity" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.NoticeToCurrentInstantActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.NoticeToCurrentInstantCheckFormActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.QueryNoticeDetailActivity" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.SearchActivity" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.RegisterCancelActivity" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.RegisterCancelCheckFormtivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.RegisterCancelDetailtivity" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.RegisterCheckFormActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.RegisterFormActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".myWealth.notice.CurrentToNoticeCheckFormActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceHomeActivity">
+<activity screenOrientation="1" name=".myfinance.finance.FinanceFriendDetailsInfoActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceChoiceAccountActivity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceEditFinanceFriendActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceAddAccountBankActivity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceAddFriendActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceUserIconActivity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceSearchBankActivity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceProvinceToCity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceChoiceBranchBankActivity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceChoiceFinanceActivity">
+<activity screenOrientation="1" name=".myfinance.finance.ChoiceBranchBankActivity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceChoiceProvinceActivity">
+<activity screenOrientation="1" name=".myfinance.communitManager.CommunityManageActivity">
+<activity screenOrientation="1" name=".myfinance.transfer.BankTransferActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".myfinance.transfer.BankTransferAddActivity">
+<activity screenOrientation="1" name=".myfinance.transfer.BankTransferConfirmActivity">
+<activity screenOrientation="1" name=".myfinance.transfer.BankTransferfriendsActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".myfinance.transfer.OpenBankActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".myfinance.transfer.OpenProvinceActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".myfinance.transfer.OpenCityActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".myfinance.transfer.OpenSubBankActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".myfinance.transfer.BankTransferFriendsAddActivity">
+<activity screenOrientation="1" name=".myfinance.transfer.BankTransferFriendsSelectActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".myfinance.transfer.BankTransferFriendsConfirmActivity">
+<activity screenOrientation="1" name=".myfinance.collection.CollectionList">
+<activity screenOrientation="1" name=".myfinance.collection.CollectionConfirm" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".myfinance.collection.CollectionFormar" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".myfinance.collection.ProtocalDetailLeft">
+<activity screenOrientation="1" name=".myfinance.collection.ProtocalDetailMain">
+<activity screenOrientation="1" name=".myfinance.collection.ProtocalDetailRight">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferHistoryActivity" theme="16973830">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferTabCircleActivity">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferTabQueryActivity">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferTabAppointActivity">
+<activity screenOrientation="1" name=".myfinance.transferhistory.circle.BanktransferTabForFriendsActivity">
+<activity screenOrientation="1" name=".myfinance.transferhistory.circle.BankTransferTabForMeActivity">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferAppointBatchCancelActivity" theme="16973830">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferBatchListDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferHistoryQueryCircleActivity" theme="16973830">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferHistoryQueryActivity" theme="16973830">
+<activity screenOrientation="1" name=".myfinance.transferhistory.BankTransferAppointBatchDetailListActivity" theme="16973830">
+<activity screenOrientation="1" name=".myfinance.transferhistory.circle.BankTransferCircleActivity" theme="16973830">
+<activity screenOrientation="1" name=".myfinance.myself.MyselfActivity">
+<activity screenOrientation="1" name=".myfinance.myself.TransferAccountsActivity">
+<activity screenOrientation="1" name=".myfinance.myself.TransferAccountsConfirmActivity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceMergerFriendActivity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceMergerSelectDiffActivity">
+<activity screenOrientation="1" name=".myfinance.finance.BankTransferFinanceMergerSuccessActivity">
+<activity screenOrientation="1" name=".financialmarket.market.fund.FundHomeActivity">
+<activity screenOrientation="1" name=".financialmarket.market.fund.FundPurchaseActivity">
+<activity screenOrientation="1" name=".financialmarket.market.fund.FundAccountTabActivity">
+<activity screenOrientation="1" name=".financialmarket.market.fund.FundDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.market.fund.FundNetvalueActivity">
+<activity screenOrientation="1" name=".financialmarket.market.fund.FundSearchActivity">
+<activity screenOrientation="1" name=".financialmarket.market.fund.FundAndFinaceSignActivity">
+<activity screenOrientation="1" name=".financialmarket.market.fund.FundAndFinaceAgreementActivity">
+<activity screenOrientation="1" name=".financialmarket.market.entrust.EntrustRepealActivity">
+<activity screenOrientation="1" name=".financialmarket.market.entrust.EntrustRepealSubmitActivity">
+<activity screenOrientation="1" name=".financialmarket.market.entrust.EntrustRepealDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.market.position.PositionFundActivity">
+<activity screenOrientation="1" name=".financialmarket.market.position.PositionFundRedeemActivity">
+<activity screenOrientation="1" name=".financialmarket.market.position.PositionFundSwitchActivity">
+<activity screenOrientation="1" name=".financialmarket.market.position.PositionFundDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.market.position.PositionFundMelonBonusActivity">
+<activity screenOrientation="1" name=".financialmarket.market.position.PositionFundPurchaseActivity">
+<activity screenOrientation="1" name=".financialmarket.fundFixedPurchase.MyFixedPurcharse" launchMode="3">
+<activity screenOrientation="1" name=".financialmarket.fundFixedPurchase.FixedPurchaseModify" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".financialmarket.fundFixedPurchase.FixedPurchaseDetail">
+<activity screenOrientation="1" name=".financialmarket.fundFixedPurchase.FixedPurchaseEnd" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".financialmarket.fundFixedPurchase.PurchaseProtocol">
+<activity screenOrientation="1" name=".financialmarket.fundFixedPurchase.FixedPurchaseOpen" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".financialmarket.products.transcationhistory.BankTransactionHistoryActivity">
+<activity screenOrientation="1" name=".financialmarket.products.transcationhistory.BankTransactionTabBargainActivity">
+<activity screenOrientation="1" name=".financialmarket.products.transcationhistory.BankTransactionTabEntrustActivity">
+<activity screenOrientation="1" name=".financialmarket.products.transcationhistory.BankTransactionQueryBargainActivity">
+<activity screenOrientation="1" name=".financialmarket.products.transcationhistory.BankTransactionQueryEntrustActivity">
+<activity screenOrientation="1" name=".financialmarket.products.transcationhistory.BankTransactionDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.accountmanage.AccountManagerActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.accountmanage.AccountDestroyActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.market.transactionhistory.BankTransactionHistoryActivity">
+<activity screenOrientation="1" name=".financialmarket.market.transactionhistory.BankTransactionDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.market.transactionhistory.BankTransactionTabRationActivity">
+<activity screenOrientation="1" name=".financialmarket.market.transactionhistory.BankTransactionTabBargainActivity">
+<activity screenOrientation="1" name=".financialmarket.market.transactionhistory.BankTransactionTabEntrustActivity">
+<activity screenOrientation="1" name=".financialmarket.market.transactionhistory.BankTransactionQueryBargainActivity">
+<activity screenOrientation="1" name=".financialmarket.market.transactionhistory.BankTransactionQueryEntrustActivity">
+<activity screenOrientation="1" name=".financialmarket.market.transactionhistory.BankTransactionQueryRationActivity">
+<activity screenOrientation="1" name=".financialmarket.products.myproducts.MyProductActivity">
+<activity screenOrientation="1" name=".financialmarket.products.myproducts.MyProductDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.products.myproducts.MyProductMelonActivity">
+<activity screenOrientation="1" name=".financialmarket.products.myproducts.MyProductHistoryActivity">
+<activity screenOrientation="1" name=".financialmarket.products.myproducts.MyProductRedeemActivity">
+<activity screenOrientation="1" name=".financialmarket.fitnesstest.FitnessTestActivity">
+<activity screenOrientation="1" name=".financialmarket.products.FitnessTestHintActivity">
+<activity screenOrientation="1" name=".financialmarket.products.financialproduct.FinancialProductHomeActivity">
+<activity screenOrientation="1" name=".financialmarket.products.financialproduct.FinancialProductPurchaseActivity">
+<activity screenOrientation="1" name=".financialmarket.products.financialproduct.FinancialProductDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.products.financialproduct.FinancialProductNetvalueActivity">
+<activity screenOrientation="1" name=".financialmarket.products.financialproduct.FinancialProductNotSignActivity">
+<activity screenOrientation="1" name=".financialmarket.products.financialproduct.FinancialProductConfirmLetterActivity">
+<activity screenOrientation="1" name=".financialmarket.products.financialproduct.FinancialProductConfirmLetterUrlActivity">
+<activity screenOrientation="1" name=".financialmarket.products.financialproduct.FinancialProductPurchaseSerialNoActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyDesActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyDYStep1Activity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyDYStep2Activity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyDYStep3Activity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyDYStep4_2Activity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyDYStep4_1Activity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyHomeActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyIntroduceActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyXYHStep1Activity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyXYHStep2Activity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyXYHStep3Activity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyXYHStep4Activity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyXYHTestActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.apply.LoanApplyXYHTestResultActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.saveforloan.SaveForLoanManageActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.saveforloan.SaveForLoanSignActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.saveforloan.SaveForLoanFitnessActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.saveforloan.SaveForLoanProtocolActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.saveforloan.SaveForLoanManageDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.saveforloan.SaveForLoanChange1Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.saveforloan.SaveForLoanHistoryActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.saveforloan.SaveForLoanHistoryDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.saveforloan.SaveForLoanUnsignActivity">
+<activity screenOrientation="1" name=".financialassistant.payment.PaymentMainActivity">
+<activity screenOrientation="1" name=".financialassistant.payment.MyPaymentTabActivity">
+<activity screenOrientation="1" name=".financialassistant.payment.PaymentSettingTabActivity">
+<activity screenOrientation="1" name=".financialassistant.payment.PayMentSettingStep2" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.PhonePaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.InsurePaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.LifePaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.WelfarePaymentSZActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.WelfarePaymentFZActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.PaymentQueryTabActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.PaymentSearchActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.PaymentQueryDetailActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.PaymentCommonListActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.PaymentCommonDetailActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.UserCommonTabActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.UserCommonDetailActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.CareerFZPaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.CareerQZPaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.CareerSZPaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.CollectionPaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.CollectionPaymentNextActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.CollectionPaymentSubmitActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.PropertyPaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.RechargePaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payment.PaymentSubmitActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.NetPayMainActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.NetPayActivity">
+<activity screenOrientation="1" name=".financialassistant.payonline.AlipayActivity">
+<activity screenOrientation="1" name=".financialassistant.payonline.NoCardPayActivity">
+<activity screenOrientation="1" name=".financialassistant.payonline.PayQryActivity">
+<activity screenOrientation="1" name=".financialassistant.payonline.PayLimitModify" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.PayLimitQry" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.OpenNetPay" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.CloseNetPay" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.UnionPayLimitModify" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.UnionPayModifyConfirm" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.CancelUnionProtocol" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.SignProtocolConfirm" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.UnionProtocol" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.SignUnionProtocol" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.payonline.SignAlipayAccStep1Activity">
+<activity screenOrientation="1" name=".financialassistant.payonline.SignAlipayAccStep2Activity">
+<activity screenOrientation="1" name=".financialassistant.payonline.SignAlipayAccAgreementActivity">
+<activity screenOrientation="1" name=".financialmarket.market.FundMainActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.LoanMainActivity">
+<activity screenOrientation="1" name=".financialmarket.products.ProductsMainActivity">
+<activity screenOrientation="1" name=".financialassistant.payonline.PayLimitSettingStep1Activity">
+<activity screenOrientation="1" name=".financialassistant.payonline.PayLimitSettingStep2Activity">
+<activity screenOrientation="1" name=".financialassistant.payonline.UnsignAlipayAccActivity">
+<activity screenOrientation="1" name=".financialassistant.payonline.QryConditionActivity">
+<activity screenOrientation="1" name=".financialassistant.payonline.AlipayDetailActivity">
+<activity screenOrientation="1" name=".financialassistant.payonline.NetPayDetailActivity">
+<activity screenOrientation="1" name=".financialassistant.StockMainActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockBankTransferActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockBankTransferBSEnterActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockBankTransferBSConfirmActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockBankTransferSBEnterActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockBankTransferSBConfirmActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockTradeQueryActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockTradeQuerySearchActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockTradeQueryDetailActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockNoticeActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockNoticeSignActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockNoticeRelieveSignActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockActiveActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockActiveEnableDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialassistant.stock.StockActiveUnEnabeDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialassistant.stock.StockActiveSignActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockActiveUpdateAccActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockActiveUpdateLimitEnterActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockActiveUpdateLimitConfirmActivity">
+<activity screenOrientation="1" name=".financialassistant.stock.StockBankTransferDetailActivity">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.ChoicePaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.SearchAccountBalanceActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.SearchPaymentDetailsActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.SearchSocialSecurityActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.SearchSocialSecurityDetailsActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.ShowPaymentDetailsActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.ShowSocialSecurityActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.SocialSecurityAgreementContract" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.SocialSecurityContractActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialassistant.socialsecurity.SocialSecurityServiceAgreement" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.queryloan.QueryLoanActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.queryloan.QueryLoanDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.queryloan.QueryLoanRepayPlanActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.queryloan.QueryLoanRepayPlanDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.queryloan.LoanRepayPlanSearchActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.queryloan.QueryLoanRepayRecordeActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.queryloan.LoanRepayRecordeSearchActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.queryloan.QueryLoanRepayRecordeDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManageActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManagePrePaymentTabActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManagePrePaymentStep1Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManagePrePaymentStep2Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManagePrePaymentStep3Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManageReduceTermTabActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManageReduceTermStep1Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManageReduceTermStep2Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManagePaymentTypeTabActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManagePaymentTypeStep1Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManagePaymentTypeStep2Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManageAccTabActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManageAccStep1Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManageAccStep2Activity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManageDetailActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManagePaymentTestActivity">
+<activity screenOrientation="1" name=".financialmarket.loanofpersonal.loanmanage.LoanManagePaymentTestDetailActivity">
+<activity screenOrientation="1" name=".mycalendar.MyCalendarActivity">
+<activity screenOrientation="1" name=".mycalendar.MyCalendarListActivity">
+<activity screenOrientation="1" name=".mycalendar.SelectAddEventTypeActivity">
+<activity screenOrientation="1" name=".mycalendar.AddEventActivity">
+<activity screenOrientation="1" name=".mycalendar.FundRegularDetailActivity">
+<activity screenOrientation="1" name=".mycalendar.OrderTransferTipDetailActivity">
+<activity screenOrientation="1" name=".mycalendar.CreditBackTipDetailActivity">
+<activity screenOrientation="1" name=".mycalendar.TimeAreaSelectActivity">
+<activity screenOrientation="1" name=".mycalendar.EditEventActivity">
+<activity screenOrientation="1" name=".mycalendar.LoanRepaymentDetailActivity">
+<activity screenOrientation="1" name=".mycalendar.RegularExpireDetailActivity">
+<activity screenOrientation="1" name=".mycalendar.WeekWeatherActivity">
+<activity screenOrientation="1" name=".mycalendar.SelectProvinceActivity">
+<activity screenOrientation="1" name=".mycalendar.SelectCityActivity">
+<activity screenOrientation="1" name=".mysetting.deallimitation.DealLimitationSummary" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.deallimitation.DealLimitationDetail" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".mysetting.modpaswd.ModPaswdSummary" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.modpaswd.ModPaswdDetail" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".mysetting.modpaswd.ModPaswdComf" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".mysetting.AccountManageActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.AccountManageMoreOperationActivity" theme="2131427391">
+<activity screenOrientation="1" name=".mysetting.manageaccount.AccountManageActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.manageaccount.AccountManageMoreOperationActivity" theme="2131427391">
+<activity screenOrientation="1" name=".mysetting.manageaccount.AccountManageAddAccountActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.manageaccount.AccountManageChangeAliasActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.manageaccount.AccountManageDismissAccountActivity" theme="2131427391">
+<activity screenOrientation="1" name=".mysetting.manageaccount.AccountManageSetHiddenAccountActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.manageaccount.AccountManageDisplayAccountActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.manageaccount.AccountManageAddAliasActivity" theme="16973830">
+<activity name=".mysetting.manageaccount.AccountManageAlertDialogActivity" theme="2131427391">
+<activity screenOrientation="1" name=".mysetting.previousmsg.PreviousMessageSetActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.previousmsg.PreviousMessageSetActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.yizhangtong.FirstStepActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.yizhangtong.SecondStepActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.messagenotice.MessageNoticeMainActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.messagenotice.MessageNoticeSetFirstActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.messagenotice.MessageNoticeSetSecondActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.messagenotice.MessageNoticeSetTranNoticeActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.messagenotice.MessageNoticeSetLowwerNoticeActivity" theme="16973830">
+<activity screenOrientation="1" name=".mysetting.messagenotice.MessageNoticeSeBalanceNoticeActivity" theme="16973830">
+<activity screenOrientation="1" name=".mywish.MyWishActivity" theme="16973830">
+<activity screenOrientation="1" name=".mywish.SelectWishImageActivity" theme="16973830">
+<activity screenOrientation="1" name=".mywish.AboutWishActivity" theme="16973830">
+<activity screenOrientation="1" name=".mywish.WishDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".mywish.ModifyWishImageActivity" theme="16973830">
+<activity screenOrientation="1" name=".mywish.AddWishSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name=".mywish.HistoryWishActivity" theme="16973830">
+<activity screenOrientation="1" name=".mywish.AddWishActivity" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".login.OpinionFeedbackActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.more.FAQSummaryActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.more.FAQDetailActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.more.ExchangeRateSummaryActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.more.ForeignCurrencyEhgActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.soldhot.LoginHotActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.product.ProductMainActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.more.MoreActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.MainActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.product.ProductMainControlBaseActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.product.FinacingProductActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.product.FundMarketActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.product.FinacingProductDetailActivity">
+<activity screenOrientation="1" name=".nonlogin.product.FundDetaiMainActivity">
+<activity screenOrientation="1" name=".nonlogin.product.FundDetailControlBaseActivity">
+<activity screenOrientation="1" name=".nonlogin.product.FundDetailActivity">
+<activity screenOrientation="1" name=".nonlogin.product.FundNetvalueActivity">
+<activity screenOrientation="1" name=".nonlogin.product.FundSearchNoLoginActivity">
+<activity screenOrientation="1" name=".nonlogin.more.CreditCardActivity">
+<activity screenOrientation="1" name=".nonlogin.more.checkbankpoint.CheckNetPointMainActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.more.checkbankpoint.CheckBankNetPointActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.more.checkbankpoint.CheckATMNetPointActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".nonlogin.more.checkbankpoint.CheckNetPointMapActivity" windowSoftInputMode="3">
+<activity name=".myWealth.LayoutDemoActivity">
+<activity screenOrientation="1" name=".BaseTabActivity">
+<activity screenOrientation="1" name=".widget.PwdKeyboardActivity">
+<activity screenOrientation="1" name=".BaseTabParentActivity">
+<activity screenOrientation="1" name=".BaseActivity">
+<activity screenOrientation="1" name=".CheckUpdateActivity" theme="16973840">
+<activity screenOrientation="1" name=".AboutActivity" theme="16973830">
+<activity screenOrientation="1" name=".HelperActivity" theme="16973830">
+<activity screenOrientation="1" name=".HelperListActivity" theme="16973830">
+0
+0
+0
+Owner: CN=Pingan Bank, OU=Pingan Bank, O=Pingan, L=shenzhen, ST=guangdong, C=86
+Issuer: CN=Pingan Bank, OU=Pingan Bank, O=Pingan, L=shenzhen, ST=guangdong, C=86
+Serial number: 4f03c296
+Valid from: Wed Jan 04 11:08:06 CST 2012 until: Sun Dec 28 11:08:06 CST 2036
+Certificate fingerprints: 
+	MD5:31:8E:48:C9:6C:58:5A:C5:49:35:4D:ED:0D:A2:81:78
+	SHA1: 4C:4D:58:D1:6B:53:5C:94:27:3E:A7:93:68:80:B0:9F:9D:05:D0:3C
+	SHA256: EA:29:52:3D:C0:48:29:EF:6D:60:37:D9:EC:AB:5D:64:57:43:3B:6B:2F:F4:DB:15:F7:5E:A7:2B:87:92:E4:16
+	Signature algorithm name: SHA1withRSA
+	version: 3

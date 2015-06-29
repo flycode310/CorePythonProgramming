@@ -1,0 +1,384 @@
+com.csii.tianjin.mobilebank
+22
+2.1.6
+10
+16
+20
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_APN_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+342
+<activity screenOrientation="1" name="com.csii.tj.ui.LoadingActivity" label="2131361858">
+<activity screenOrientation="1" name="com.csii.tj.ui.GuideActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.OperationGuideActivity" theme="2131427365">
+<activity screenOrientation="1" name="com.csii.tj.ui.NoFinanceActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.csii.tj.ui.MyLoveActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.SpeedyFinanceActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.speedymenu.SpeedyMenuActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.speedymenu.CustomListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.map.TextDisplay">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.map.BankMapActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.LoanCountActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.LoanCountResultActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.LoanCResultDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.LoanRateActivityvity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.map.OperationBanksearchActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.BindDeviceActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.helpinfo.HelpInfoActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.helpinfo.HelpInfoListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.helpinfo.HelpInfoListDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.map.MapDetailedInfoActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.LoginActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.register.RegisterActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.register.RegisterConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.register.ServiceAgreementActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.WelcomeActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.FirstWelcomeActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.FinanceActivity" launchMode="1">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.snetbank.SNetBankManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.DefaultAccountActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.AccountOtherNameActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.AccountOtherNameConfirmmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.AccountOtherNameResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.UnBindAccountActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.BindAccountActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.BindAccountResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.AccountManagerActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.FinanceDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.TransactionDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.TransactionQueryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.AccountQueryActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.AccountQueryDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.AccountQueryDetailMoreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.PLogQueryPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.PLogQueryListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.PLogQueryDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankintransfer.BankInTransferManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankintransfer.BankInTransferPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankintransfer.PayeeChooseActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankintransfer.PayeeChoosePreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankintransfer.PayeeChooseAddActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankintransfer.BankInTransferConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.BankoutTransStateQryPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.phonetransfer.PhoneTransferPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.phonetransfer.PhoneTransferConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.phonetransfer.PhoneTransferResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.appointpayeetransfer.AppointPayeeManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.appointpayeetransfer.AppointPayeeTransferPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.appointpayeetransfer.AppointPayeeBranchListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.appointpayeetransfer.AppointPayeeTransferConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.appointpayeetransfer.AppointPayeeTransferResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.appointpayeetransfer.AppointPayeeManagerPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.appointpayeetransfer.AppointPayeeDeleteActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeTransManager" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeTransPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeTransResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.SelectPicPopupWindow" theme="2131427367" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.barcode.CaptureActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeScanPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeScanConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeScanResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeTransPreNewActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeQryPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeQryListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.barcodetrans.BarcodeQryDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankouttransfer.InterbankTransferResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankouttransfer.InterbankTransferConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankouttransfer.InterbankTransferPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankouttransfer.BankListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankouttransfer.BankListSearchActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankintransfer.BankInTransferResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.MoneyManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.SavToSavPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.SavToSavConfirmmActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.SavToSavResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.NoticeDepositActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.SavOrTimMenuActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.SavToTimPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.SavToTimConfirmmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.SavToTimResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.TimToSavPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.TimToSavConfirmmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.TimToSavResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.BookSavToTimPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.AppointTransferRegularQueryActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.AppointTransferRegularSetPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.AppointTransferRegularSetActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.AppointTransferRegularDeleteActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.AppointTransferRegularDeleteResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.AppointTransferRegularSetResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.TradToNoticePreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.NoticeDepositDrawPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.NoticeDepositDrawConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.NoticeDepositDrawResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.TradToNoticeConfirmmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneymanager.TradToNoticeResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmloan.PMLoanActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmloan.PMLoanAmtQryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmloan.RepaymentplanActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmloan.IousinformationActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmloan.RepaymenthistryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmloan.RepayHistroyActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmloan.RepayHistroyinforActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmloan.RepayplayinforActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.bankintransfer.TransferManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSProductPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSProductQryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSProductSubActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FASearchPreAvtivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FASearchRetAvtivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FoundationAccountActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FoundationManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FoundationSearchActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSBargainAvtivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSQueryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSTurstActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FundAcnoInfo">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FundAcnoQry">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSHoldDetail">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSHoldList">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSProductPurActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSProductListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSProductListPurchaseActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSProductPurListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSRiskMatchingActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSProductPurSumActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSProductPurConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSRedemptionActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSRedemptionSubActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSRedemptionConfirmActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSRedemptionResultActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSResultPurchaseActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSRevocationActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSRevocationResultActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSRevocationConfirActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSTransitionActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSTransitionSubActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSTranRiskMatchingActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSTranConfirmActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSTranSucceedActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSShareBonusActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSShareBonusDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSShareBonusConfirmActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSChangedResultActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSValueActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.TFBuyActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.TFChangeActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.TFConvertActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.TFRedemptionActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.TFRetreatActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.TransferFoundationActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MoneyProductManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MoneyProductSearchActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSTrustDateActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MoneyProductTansferActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSBargainActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSBargainListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSBargainListDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSMySelfActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSMySelfInforActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSTrustInforActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSProductActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSProductListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSProductListDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPSTrustActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTRetreatActivity">
+<activity name="com.sa.isecurity.plugin.SAKbdActivity" theme="16973839" configChanges="128" launchMode="2">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PMAgentActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentApplyPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentApplyConfirActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentApplyResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.SelfPaymentPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.SelfPaymentConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.SelfPaymentResultActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentPreNextActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentApplyManagerPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentQryPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentQryListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.MobilePaymentPreLastActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.MobilePaymentPreEnterActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentApplyMangerNextActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentApplyMangerResultActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentEndActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.pmagent.PamgentLastActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.productmarket.ManageMoneryPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.productmarket.ManageMoneryQryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.productmarket.ManageMonerySubQryActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.productmarket.ProductGdManagerActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.productmarket.FundsSubQryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.productmarket.FundsQryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.productmarket.FundsPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FundsProductPreActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FundsProductQryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FundsProductSubQryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradBuyActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTServiceAgreementActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradBuyServicepromActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradpayResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradRevResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradpayPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradRevPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradpayConfirmActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradBuyListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradBuyPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.moneyproduct.MPTradReCfmActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.ChangePictActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.NoFinanceCustomerServerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.helpinfo.CustomerServerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.FinanceToolMenu">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.CaculatorDeposit">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.CalDepositResult">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.CaculatorLoan">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.CaculatorMortgage">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.CalMortResult">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.CaculatorForex">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financetool.CalForexResult">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financerate.FinanceRate">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financerate.FundRateQuery" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financerate.FundRatelist" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financerate.ForexRateQuery">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financerate.LoanRateQuery">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.financerate.DepositRateQuery">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.MySettingMainActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.LoginPswdMdfyPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.LoginPswdMdfyResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.SettingObligateInfoPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.SettingObligateInfoResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.LogoutmobileUserPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.LimitAmountMngPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.DeviceBindingPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.DeviceBindingResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.LimitAmountMngResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.mysetting.LogoutmobileUserResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardQryManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardPayActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardrepayActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.IntegralQryActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.UnsettledBillActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.SettledBillActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardrepaynoActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardRepayConfirmActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.PromptInformationActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardinforActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardRepayResultActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardSettledBillActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardUnsettledActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardPTransferPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardPTransferConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.creditcard.CreditCardPTransferResultActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSTurstDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSBargainListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.foundation.FSBargainDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.TriplicitiesDepositMainActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.BankToSecurityPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.BankToSecurityConfirmActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.SecurityToBankPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.SecurityToBankConfirmActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.SecurityAcctQryResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.SecurityAcctQryPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.TransBetweenRecordQryPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.TransBetweenRecordQryResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.BankToSecurityResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.triplicitiesdeposit.SecurityToBankResActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.FirstPaswdMdfyActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.UnBindAccountResultActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.mylove.MyloveAddOne">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.mylove.MyloveAddTwo">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.mylove.CustomListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.mylove.MyloveAddManagerActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.noticepush.NoticePushActivity" theme="2131427371">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.merchant.MerchantQueryPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.map.MerchantQueryListActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.merchant.MerchantDetailActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.merchant.MerchantMapActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TianTianBaoPreActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TianTianBaoActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureSign">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureSignConfirm">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureSignResult">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureAccountInfo">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureCancel">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureCancelResult">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureUpdate">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureAgreementActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureRulesActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureUpdateResult">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureRedeem">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureRedeemResult">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.AccountQuery">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureIncomeDetail">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureRiskAssessment">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.ActivityInfo">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.tiantianbao.TreasureRiskAssessmentResult">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.mylove.YLSQActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.snetbank.AccountQueryAccountList">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.snetbank.AccountQueryBalance">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.snetbank.MoneyCollectList">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.snetbank.MoneyCollectPre">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.snetbank.MoneyCollectResult">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.BankoutTransStateActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.myaccount.BankoutTransStateBigActivity">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.share.ShareActivity" theme="2131427367" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.nofinance.share.ShareWindow" theme="2131427368">
+<activity process=":remote" screenOrientation="1" name="com.polyvi.activity.LaunchActivity" theme="16973830" configChanges="160" label="2131361858">
+<activity screenOrientation="1" name="com.unionpay.mobile.plugin.zl.MobileActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.unionpay.mobile.uppay.v2.MobileActivityEx" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.unionpay.mobile.uppay.v2.EntryActitivy" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.WaiHui">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.TransferMenu">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.InfoQueryMenu">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.SavToSav" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.SavToSavConfirm" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.AccountDetailQuery" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.AccountDetailQueryResult" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.BalanceQuery" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.BalanceQuerySavResult" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.BalanceQueryTimResult" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.ExchangeRateQuery" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.ExchangeRateQueryResult" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.SavToSavResult" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.SavToTim" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.SavToTimConfirm" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.SavToTimResult" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.TimToSav" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.TimToSavConfirm" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.waihui.TimToSavResult" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.messagepush.ShowPushMessageActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.lottery.Lottery" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.csii.tj.ui.finance.lottery.LotteryResult" windowSoftInputMode="32">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity name="com.csii.tj.ui.finance.barcodetrans.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+2
+<service enabled="true" name="com.polyvi.push.NotificationService" label="NotificationService">
+<service name="com.csii.tj.service.MessagePushService">
+0
+0
+Owner: CN=BANK OF TIANJIN, OU=IT DEPT., O="BANK OF TIANJIN CO.,LTD", L=tianjin, ST=tianjin, C=CN
+Issuer: CN=BANK OF TIANJIN, OU=IT DEPT., O="BANK OF TIANJIN CO.,LTD", L=tianjin, ST=tianjin, C=CN
+Serial number: 5165321d
+Valid from: Wed Apr 10 17:34:21 CST 2013 until: Fri Oct 16 17:34:21 CST 2122
+Certificate fingerprints: 
+	MD5:CA:D9:14:55:13:B3:71:23:5C:3B:5D:B6:D9:FD:45:8D
+	SHA1: 6B:DD:D4:6A:F4:5C:0D:65:E0:DF:C3:F0:69:08:FA:0E:25:B7:27:5D
+	SHA256: 48:93:50:76:49:B6:3D:D1:D4:D0:FD:5C:91:AB:36:C2:FC:97:E4:10:66:93:68:5C:33:E3:20:13:95:75:D2:F0
+	Signature algorithm name: SHA1withRSA
+	version: 3

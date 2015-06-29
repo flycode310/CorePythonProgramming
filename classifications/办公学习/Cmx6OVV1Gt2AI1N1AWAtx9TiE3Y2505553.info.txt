@@ -1,0 +1,46 @@
+com.onesoft.app.Tiiku.CPA
+430
+4.3.0
+7
+17
+8
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+15
+<activity name="com.onesoft.app.Ministudy.Main.WelcomeActivity" theme="2131165306" label="2131099668">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="5" name="com.onesoft.app.Ministudy.Main.MainActivity" theme="2131165306" label="2131099648">
+<activity screenOrientation="5" name="com.onesoft.app.Ministudy.Tiiku.Activity.TiikuActivity" theme="2131165306">
+<activity screenOrientation="5" name="com.onesoft.app.Ministudy.Tiiku.Activity.ErrorTiikuActivity" theme="2131165306">
+<activity screenOrientation="5" name="com.onesoft.app.Ministudy.Tiiku.Activity.MarkTiikuActivity" theme="2131165306">
+<activity screenOrientation="5" name="com.onesoft.app.Ministudy.UserCenter.Activity.MarkTiikuSelectorActivity" theme="2131165306">
+<activity screenOrientation="5" name="com.onesoft.app.Ministudy.UserCenter.Activity.ErrorTiikuSelectorActivity" theme="2131165306">
+<activity name="com.onesoft.app.Ministudy.UserCenter.Activity.DownloadManagerActivity" theme="2131165306">
+<activity screenOrientation="5" name="com.onesoft.app.Tiiku.lecture.LectureActivity" theme="2131165306" windowSoftInputMode="19">
+<activity screenOrientation="4" name="com.onesoft.app.Tiiku.ccvideotest.CCVideoActivity" theme="2131165306" uiOptions="0" configChanges="1184">
+<activity name="com.onesoft.app.Ministudy.UserCenter.Activity.ToVipActivity" theme="2131165315">
+<activity name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="3248" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+3
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service name="com.onesoft.demo.JavaFTPDemo.MultDownloadService">
+<service name="com.onesoft.demo.JavaFTPDemo.DataService">
+0
+0
+Owner: CN=Highso, L=Beijing, ST=Beijing
+Issuer: CN=Highso, L=Beijing, ST=Beijing
+Serial number: 4fe7b9dc
+Valid from: Mon Jun 25 09:07:40 CST 2012 until: Wed Jun 01 09:07:40 CST 2112
+Certificate fingerprints: 
+	MD5:FE:8B:70:E5:E7:C1:1B:32:8B:37:F7:FE:6F:37:CB:E1
+	SHA1: 57:0B:06:4F:41:3A:BF:4D:64:31:E1:67:CD:17:D3:45:4C:4A:5E:23
+	SHA256: B9:15:D4:0F:32:35:EF:79:06:32:CB:D8:89:7F:DF:78:93:CF:38:B2:E3:2A:A9:83:D1:A3:F5:3D:24:19:97:91
+	Signature algorithm name: SHA1withRSA
+	version: 3

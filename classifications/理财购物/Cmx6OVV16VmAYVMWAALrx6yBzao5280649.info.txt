@@ -1,0 +1,28 @@
+com.xyf
+3
+1.2
+4
+-1
+4
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity name=".XyfActivity" label="2130968576">
+<activity name=".BankListActivity" label="2130968576">
+<activity name=".FinanceActivity" label="2130968576">
+<activity name=".ResultActivity" label="2130968576">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: c0541d5
+Valid from: Fri Mar 09 16:00:19 CST 2012 until: Sun Mar 02 16:00:19 CST 2042
+Certificate fingerprints: 
+	MD5:BE:33:39:AB:F5:9B:99:FB:80:6E:88:79:A6:E6:1F:54
+	SHA1: E2:05:F8:04:2C:41:1D:4C:62:9B:34:EF:A3:ED:A6:33:2E:0A:D8:AB
+	SHA256: B8:1A:A0:9C:1A:0D:0A:36:87:29:6E:63:A5:C2:6F:32:EA:B2:1B:55:80:6B:1E:10:57:7E:87:B0:AD:4A:22:1D
+	Signature algorithm name: SHA256withRSA
+	version: 3

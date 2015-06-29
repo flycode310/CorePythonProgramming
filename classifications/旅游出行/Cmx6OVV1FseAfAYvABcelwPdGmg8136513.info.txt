@@ -1,0 +1,34 @@
+cn.baronincredible.bkmokibs
+300
+3.00
+8
+8
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+2
+<activity icon="2130837504" name="cn.baronincredible.bkmokibs.MyActivity" theme="16973841" configChanges="160" label="2130968576">
+<activity name="com.appquanta.wk.MainActivity" theme="16973830" configChanges="160" label="2130968576">
+1
+<service name="com.appquanta.wk.MainService">
+1
+<receiver name="cn.baronincredible.bkmokibs.MyReceiver">
+0
+Owner: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Issuer: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Serial number: 1050424b
+Valid from: Mon Dec 23 10:17:56 CST 2013 until: Sat Dec 23 10:17:56 CST 2113
+Certificate fingerprints: 
+	MD5:19:F1:A4:A2:6F:04:84:1A:D6:2B:75:45:08:78:36:60
+	SHA1: 74:E1:E0:AD:4E:B2:00:53:57:18:26:2F:4B:B7:AD:4E:78:99:5A:C7
+	SHA256: 2C:3F:D0:7F:DC:94:E5:73:D3:0E:A2:A9:E5:C4:E0:DC:9E:DD:46:62:E8:AB:2A:00:39:E5:76:74:4B:4B:3D:B7
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,42 @@
+com.hanley.android.app.callrecorder
+3
+v1.0.2
+8
+-1
+12
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+6
+<activity screenOrientation="1" name=".CallRecorder" configChanges="176" label="2131099648">
+<activity name=".CallLog" label="通话录音记录">
+<activity screenOrientation="1" name=".CallPlayer" configChanges="176" label="通话录音记录播放">
+<activity name=".Preferences">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="net.youmi.android.appoffers.YoumiOffersActivity" configChanges="176">
+2
+<service name=".RecordService">
+<service name=".PlayService">
+1
+<receiver enabled="true" name=".CallBroadcastReceiver" exported="true">
+1
+<provider authorities="com.hanley.android.app.callrecorder" name=".RecordingProvider">
+Owner: CN=Han Lingye
+Issuer: CN=Han Lingye
+Serial number: 4fccfc52
+Valid from: Tue Jun 05 02:20:02 CST 2012 until: Sat May 30 02:20:02 CST 2037
+Certificate fingerprints: 
+	MD5:20:D7:DF:44:24:8E:F8:4C:C2:B7:96:34:E4:4D:5B:3E
+	SHA1: AB:1E:5E:5A:8D:F5:13:22:E3:1C:99:7F:C3:C2:A7:AB:2D:26:85:89
+	SHA256: 6B:BD:7B:33:A8:40:27:CE:48:2E:CF:95:25:E1:EE:04:71:7F:39:E4:B4:99:CA:0A:E2:27:FB:63:CD:EA:A2:8F
+	Signature algorithm name: SHA1withRSA
+	version: 3

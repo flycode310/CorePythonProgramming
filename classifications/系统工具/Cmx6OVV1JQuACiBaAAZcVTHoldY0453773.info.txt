@@ -1,0 +1,36 @@
+com.ponphy.supernote
+5
+2.0.1
+4
+-1
+7
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity name=".main" configChanges="160" label="2131165186" launchMode="2">
+<activity name="note" theme="2131099648" configChanges="160" launchMode="2">
+<activity name="Setting" configChanges="160">
+<activity name="back">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+3
+<service name="myservice">
+<service process=":remote" name="com.adsmogo.controller.service.UpdateService" exported="true">
+<service process=":remote" name="com.adsmogo.controller.service.CountService" exported="true">
+1
+<receiver name="autostart">
+0
+Owner: CN=ponphy
+Issuer: CN=ponphy
+Serial number: 4dfed740
+Valid from: Mon Jun 20 13:14:40 CST 2011 until: Sun Oct 21 13:14:40 CST 3010
+Certificate fingerprints: 
+	MD5:AA:CC:CC:D3:02:B0:4A:96:A0:44:35:4C:50:51:E0:82
+	SHA1: 03:04:A2:B4:CD:4F:89:8E:43:82:C9:2E:3F:62:DC:E7:36:B7:89:DE
+	SHA256: FB:26:33:6F:91:57:5A:3E:E6:A2:73:35:EC:1E:E5:C8:AB:EE:C4:67:CA:1A:44:03:FB:94:3C:C8:E9:14:03:59
+	Signature algorithm name: SHA1withRSA
+	version: 3

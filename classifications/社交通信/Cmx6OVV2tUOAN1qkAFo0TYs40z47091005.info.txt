@@ -1,0 +1,63 @@
+com.markjoker.callrecorder
+68
+1.8
+8
+16
+21
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.huawei.android.launcher.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+com.huawei.android.launcher.permission.READ_SETTINGS
+com.htc.launcher.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+com.htc.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.READ_CALL_LOG
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+19
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.StartActivity" theme="16973831" label="2131099648">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.MainActivity" label="2131099648" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.SecurityActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.NotifyActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.HelpActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.AboutActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.InterceptActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.SettingActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.ThanksActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.RecommendActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.DonateActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.BlockListManageActicity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.BlockAddActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.QualityActivity">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.ChangePwdActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.TipsActivity" launchMode="2">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.FolderActivity" theme="16973835">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.FeedbackActivity" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.markjoker.callrecorder.view.setting.WelcomeActivity" theme="16973835">
+2
+<service name="com.markjoker.callrecorder.service.RecordAudioService">
+<service name="com.markjoker.callrecorder.service.NotificationService">
+1
+<receiver name="com.markjoker.callrecorder.receiver.CallStateReceiver">
+0
+Owner: CN=majian, OU=markjoker, O=markjoker, L=chongqing, ST=chongqing, C=cn
+Issuer: CN=majian, OU=markjoker, O=markjoker, L=chongqing, ST=chongqing, C=cn
+Serial number: 5146cc5d
+Valid from: Mon Mar 18 16:12:13 CST 2013 until: Fri Aug 03 16:12:13 CST 2040
+Certificate fingerprints: 
+	MD5:86:2B:B5:D4:7A:5C:42:5B:58:CA:A3:D1:0C:57:F5:3D
+	SHA1: D9:2D:E6:EE:80:52:64:76:07:60:E6:4E:81:05:69:6B:F3:E5:D6:31
+	SHA256: 8A:85:84:84:0C:CA:DB:48:9B:88:9B:69:07:AD:5A:47:86:16:30:FE:96:2C:AF:FC:09:10:6D:57:CE:CD:4E:47
+	Signature algorithm name: SHA1withRSA
+	version: 3

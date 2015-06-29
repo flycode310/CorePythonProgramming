@@ -1,0 +1,34 @@
+com.Ina.Notegrso
+305
+3.296
+7
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity screenOrientation="1" name=".SmipleNotePad" label="2131165185">
+<activity screenOrientation="1" name=".NoteText">
+<activity screenOrientation="1" name=".ReadText">
+<activity screenOrientation="1" name=".MoreActivity">
+<activity screenOrientation="1" name=".AboutActivity">
+<activity screenOrientation="1" name="com.Ina.Notegrso.MoreAppActivity">
+<activity name="com.m.s.AdActivity" theme="16973839">
+0
+1
+<receiver name="com.games.AdReciver">
+0
+Owner: CN=ewewe1030, OU=eqwe, O=eqwe, L=qwe, ST=qwe, C=086
+Issuer: CN=ewewe1030, OU=eqwe, O=eqwe, L=qwe, ST=qwe, C=086
+Serial number: 4d5e1a31
+Valid from: Wed Oct 30 10:56:55 CST 2013 until: Thu Feb 27 10:56:55 CST 2014
+Certificate fingerprints: 
+	MD5:75:CD:A6:BD:14:7F:D4:51:B1:9C:FD:01:C0:BC:14:FF
+	SHA1: F0:CA:27:03:47:F8:E2:D6:D2:1F:4F:24:9B:B6:FA:82:AB:6F:83:E3
+	SHA256: 9F:52:3F:B6:FF:10:AB:17:C2:BA:64:52:A9:78:0A:3A:26:E8:A8:54:F0:AD:E3:83:8D:B7:17:D0:63:C0:92:48
+	Signature algorithm name: MD5withRSA
+	version: 3

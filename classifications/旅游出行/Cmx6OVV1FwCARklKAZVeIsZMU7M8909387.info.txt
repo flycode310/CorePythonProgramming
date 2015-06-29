@@ -1,0 +1,39 @@
+com.xiaoao.cctgd
+5
+1.1.3
+9
+17
+12
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity screenOrientation="1" name="com.xiaoao.cctgd.MainActivity" configChanges="1073745919" label="2130968576">
+<activity screenOrientation="1" name="cn.egame.terminal.paysdk.EgamePayActivity" theme="16973841" configChanges="176">
+<activity name="cn.play.dserv.EmpActivity" configChanges="176" exported="true">
+<activity name="com.playhaven.android.view.FullScreen" theme="16973840" configChanges="1184" windowSoftInputMode="16">
+1
+<service process=":dservice_v1" enabled="true" name="cn.play.dserv.DService" exported="false" label="dservice">
+2
+<receiver process=":dservice_v1" name="cn.play.dserv.DsReceiver">
+<receiver name="com.playhaven.android.push.PushReceiver">
+0
+Owner: CN=AuotThink
+Issuer: CN=AuotThink
+Serial number: 4d41765a
+Valid from: Thu Jan 27 21:42:50 CST 2011 until: Mon Jan 21 21:42:50 CST 2036
+Certificate fingerprints: 
+	MD5:2B:11:6D:F5:E8:41:5D:B8:1B:6B:30:F8:66:D4:F0:1A
+	SHA1: 29:81:D7:C2:F1:47:6F:5C:F9:44:F1:28:7A:5D:00:0C:EB:D8:5A:5E
+	SHA256: 09:A0:CE:C7:90:5B:A0:C7:EC:ED:EE:0E:52:0F:73:3C:EC:8F:36:CD:CD:8C:DC:29:B9:AE:40:4F:91:3E:8B:08
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,78 @@
+com.hotelvp.tonight
+15
+2.8
+7
+-1
+15
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CONTROL_LOCATION_UPDATES
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+40
+<activity screenOrientation="1" name=".SplashScreen" theme="16973837" configChanges="160" label="2131165189">
+<activity screenOrientation="1" name=".HotelListMapABCActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name=".HotelDetailMapActivity" theme="16973833" configChanges="160" launchMode="1">
+<activity process=":HotelDetailMapABCActivity" screenOrientation="1" name=".HotelDetailMapABCActivity" theme="16973833" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".MapManageActivity" theme="16973833" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".HotelListMapActivity" theme="16973833" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".AccountSettingActivity" theme="16973833" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".HotelDetailActivity" theme="16973833" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".ElongHotelDetailActivity" theme="16973833" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".HotelRatingsDetailActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name=".HotelListActivity" theme="16973833" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".MyOrdersActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name=".OrderDetailActivity" theme="16973833" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".PlaceOrderActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name=".RegistrationActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name=".ShareActivity" theme="16973833" configChanges="160">
+<activity name=".WeiboActivity" theme="16973833">
+<activity screenOrientation="1" name=".MoreActivity" theme="16973833" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".InvoiceEditActivity" theme="16973833" configChanges="160" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name=".MyTicketsActivity" theme="16973833" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".UseTicketActivity" theme="16973833" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SplashActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.IndexActivityGroup">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.HomeActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.PayActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AccountActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.BankCardInfoActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SupportCardActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.UserProtocolActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AboutActivity">
+<activity screenOrientation="1" name=".FeedbackActivity" theme="16973833" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".LearnActivity" theme="16973833" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".QAActivity" theme="16973833" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".MoreAppActivity" theme="16973833" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".CashAccountActivity" theme="16973833" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".CashApplyActivity" theme="16973833" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".DrawMoneyActivity" theme="16973833" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".MyCashsActivity" theme="16973833" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".BackMoneyDetailActivity" theme="16973833" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".DrawMoneyDetailActivity" theme="16973833" configChanges="160" windowSoftInputMode="2" launchMode="1">
+1
+<service name="com.hotelvp.tonight.tools.PushService">
+1
+<receiver name=".AlarmReceiver">
+1
+<provider authorities="com.hotelvp.tonight.widgets.SuggestionProvider" name="com.hotelvp.tonight.widgets.SearchSuggestionProvider">
+Owner: CN=mango wang, OU=hotelvp.com, O=hotelvp.com, L=shanghai, ST=shanghai, C=cn
+Issuer: CN=mango wang, OU=hotelvp.com, O=hotelvp.com, L=shanghai, ST=shanghai, C=cn
+Serial number: 4e97dc01
+Valid from: Fri Oct 14 14:51:45 CST 2011 until: Sun Oct 06 14:51:45 CST 2041
+Certificate fingerprints: 
+	MD5:A9:FE:1C:33:72:84:CA:FD:7A:60:E8:34:62:B5:3E:B4
+	SHA1: 47:15:71:62:15:38:1A:20:4E:0B:9D:C5:DF:79:60:B8:87:68:A8:22
+	SHA256: AD:4B:F7:DC:8C:30:26:F5:7B:C0:34:00:8A:BA:78:9B:C0:CB:74:0C:1F:A6:9D:D4:1C:A9:50:75:F0:46:2C:2C
+	Signature algorithm name: SHA1withRSA
+	version: 3

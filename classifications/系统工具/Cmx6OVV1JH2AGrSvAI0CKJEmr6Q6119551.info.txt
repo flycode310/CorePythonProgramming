@@ -1,0 +1,196 @@
+project.rising
+86
+4.16.28
+7
+-1
+46
+android.permission.SILENT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_CALL_LOG
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.CLEAR_APP_CACHE
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.GET_PACKAGE_SIZE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.BATTERY_STATS
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.REORDER_TASKS
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.intent.action.PHONE_STATE
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.CHANGE_WIFI_STATE
+android.intent.action.SERVICE_STATE_CHANGED_ACTION
+android.permission.VIBRATE
+android.permission.READ_CALL_LOG
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.BLUETOOTH_ADMIN
+com.android.launcher.permission.WRITE_SETTINGS
+126
+<activity screenOrientation="-1" name="com.umeng.api.activity.OauthActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="-1" name="com.umeng.api.activity.UpdateStatusActivity" theme="2131558401" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".ui.SplashActivity" theme="16973834">
+<activity screenOrientation="1" name="project.rising.ui.MainActivity" theme="2131558402" configChanges="224">
+<activity screenOrientation="1" name=".ui.SettingsActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.spam.InterceptActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.test.TestActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.spam.InterceptSettingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.spam.InterceptSettingTimeActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.spam.InterceptSmsActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.spam.InterceptTelActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.spam.InterceptBlackWhiteActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.spam.InterceptBlackWhiteListActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.spam.InterceptReportMessageActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.spam.InterceptReportCalllogActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.OneSoundCallActivity" theme="16973839" configChanges="224">
+<activity screenOrientation="1" name=".ui.UnknownCallActivity" theme="16973839" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyApplicationActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyApplicationSettingsActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyContactActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyMessageActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyPhoneActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyOtherFilesActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyNoteBookActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyNoteBookEditActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyPhotoActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyRegistActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyAudioActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.vip.PrivacyVideoActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.virus.VirusScanActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.virus.VirusScanSettingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.virus.VirusScanLogActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.virus.QuarantineActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.virus.LogDetailsActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.virus.ScanAppInstallActivity" theme="16973839" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.flow.FlowAssistantActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.flow.FlowFireWallActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.flow.FlowShowInfoActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.flow.FlowAppListActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.flow.FlowRegActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.PhoneBootSpeedActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.PhoneMemoryCleanActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.PhoneOptimizeActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.GarbageScanActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.GarbageCleanActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.GarbagePackageRemovedActivity" theme="16973839" configChanges="224" launchMode="3">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.OptimizeSettingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.TaskWhiteActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.TaskWhiteAddActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.RubbishFileActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.RubbishFileCleanActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.SystemCacheActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.SoftwareCacheActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.SoftwareInstallActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.SoftwareManageActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.SoftwareMoveActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.SoftwareUninstallActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.SoftwareUnistallRubbishActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.ContactsCalllogSmsImportActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.InputImportActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.financeguard.NetShoppingGuardActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.chargeassistent.PhoneChargeAssistorActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.chargeassistent.ChargePackageActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.chargeassistent.ChargeRemainActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.chargeassistent.ChargeScanerActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.TicketAssistantActivity" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.TicketAssistantWindowCloseActivity" theme="16973839" configChanges="224">
+<activity screenOrientation="1" name=".ui.ToolNumberActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.ToolCommonPhoneActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.ToolIpOptionActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.batteryAssistant.BatteryAssistantActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.batteryAssistant.BatteryCleanActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.batteryAssistant.HardwareRankingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.batteryAssistant.SoftwareRankingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.AntiLostActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.EmergencyContactsActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.EmergencyContactsEditActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.TrustSIMCardActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.TrustSIMCardAddActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.TrustSIMCardEditActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.AntilostAssitentActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.AntilostSettingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.AntiTheftSettingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.AntiTheftChangeCardActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.AntiTheftAssistActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.applock.SecurityLockActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.applock.SecurityAppLockActivity" configChanges="224">
+<activity screenOrientation="1" excludeFromRecents="true" name="project.rising.ui.activity.applock.SecurityAppLockedScreenActivity" configChanges="224" launchMode="3">
+<activity screenOrientation="1" name="project.rising.ui.activity.applock.SecurityAppLockSettingsActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.antilost.AntilostPhoneSettingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.login.ForgetPwdActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.login.LoginActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.login.RegisterActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.login.ChangepwdActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.batteryAssistant.BatteryAssistantSettingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.backup.CloudyBackupActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.backup.CloudyRecoverActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.backup.BackupRecoverActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.defense.DefensePermissionActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.defense.PermissionManageActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.defense.AppPermissionActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.defense.PermissionAppSettingActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.defense.AppListPermissionActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.defense.NotificationLogActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.defense.DefensePermissionInterceptActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.ToolAttributionActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.financeguard.FinanceAppScanActivity" theme="16973839" configChanges="224" launchMode="3">
+<activity screenOrientation="1" name=".ui.EBankMessageActivity" theme="16973839" configChanges="224" launchMode="3">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.SoftwareInstallActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.SoftwareManageActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.SoftwareMoveActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.SoftwareUninstallActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.AntiTheftSettingActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.AntiTheftChangepwdActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.AntiTheftAssistActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.activity.optimize.MemoryCleanActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.FeedBackActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.AboutActivity" configChanges="224">
+<activity screenOrientation="1" name="project.rising.ui.GuideActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.qrcode.AppCodeScanActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.activity.filemgr.FileManageActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.activity.filemgr.FileMgrListActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.activity.filemgr.FileMgrTypeListActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.activity.filemgr.FileMgrActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.DiDiActivity" configChanges="224">
+2
+<service name="project.rising.service.DaemonService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+2
+<receiver name=".receiver.BootReceiver">
+<receiver enabled="true" name=".ui.activity.virus.VirusScanReceiver">
+0
+Owner: CN=rising, OU=rising, O=rising, L=beijing, ST=beijing, C=china
+Issuer: CN=rising, OU=rising, O=rising, L=beijing, ST=beijing, C=china
+Serial number: 4d1d3f59
+Valid from: Fri Dec 31 10:26:33 CST 2010 until: Tue Dec 25 10:26:33 CST 2035
+Certificate fingerprints: 
+	MD5:4E:2C:64:4B:EA:15:59:E7:0D:65:BC:AD:F8:51:81:00
+	SHA1: 0A:44:77:8E:A7:E8:28:CE:38:26:32:1B:7D:5B:74:7A:EE:31:BB:F2
+	SHA256: 24:D7:BF:D0:76:96:A6:75:AB:17:2E:17:27:7D:96:5F:C0:87:0E:17:09:4A:04:C8:48:38:3A:56:67:18:47:DE
+	Signature algorithm name: SHA1withRSA
+	version: 3

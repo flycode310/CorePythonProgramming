@@ -1,0 +1,113 @@
+com.um.mplayer
+64
+05.01.00.64
+7
+8
+21
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.BLUETOOTH
+android.permission.CHANGE_WIFI_STATE
+com.google.android.gm.permission.READ_GMAIL
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+58
+<activity screenOrientation="1" excludeFromRecents="true" name="jc.apservice.android.MainActivity" theme="2131099651" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="jc.apservice.android.downloadmanagement.ui.DownLoadActivity" theme="16973830" launchMode="3">
+<activity screenOrientation="1" name="com.um.player.phone.SplashScreenActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="com.um.player.phone.GuideActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="0" name="com.um.player.phone.player.UMVideoActivity" theme="16973831" configChanges="1073742068" launchMode="2">
+<activity screenOrientation="1" name="com.um.player.phone.videos.MainUIActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.um.player.phone.videos.ScanningPathActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.um.page.feedbackpage" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.um.page.Aboutpage" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.um.page.searchActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.um.page.settingActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.um.page.renamePage" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.um.page.wifyManagerActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.um.page.moreActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.um.page.VideodlActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.um.page.ProductMan" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.um.share.WeiboShareActivity" theme="16973830" configChanges="144" windowSoftInputMode="2" launchMode="2">
+<activity name="com.open.share.AuthorizeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.um.page.ShareAccountManage" theme="16973830" configChanges="144">
+<activity name="com.tencent.tauth.TAuthView" theme="16973834" configChanges="224" launchMode="2">
+<activity name="com.tencent.tauth.AddShareView" theme="16973834" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="com.um.page.product.ProductDetailActivity" theme="16973830" configChanges="224">
+<activity screenOrientation="1" name="com.um.page.product.productSkimPhotoActivity" theme="16973830" configChanges="224">
+<activity screenOrientation="1" name="com.um.ushow.main.WelcomeActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="com.um.ushow.main.UShow" theme="2131099704" label="2131427554">
+<activity screenOrientation="1" name="com.um.ushow.main.PhotoListActivity" configChanges="1152" label="2131427554">
+<activity screenOrientation="1" name="com.um.ushow.room.ChatRoomActivity" launchMode="2">
+<activity screenOrientation="1" name="com.um.ushow.account.FindPwdActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.room.SendFullBroadcastActivity" configChanges="176" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.um.ushow.account.ResetPwdActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.account.ModifyPwdActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.account.BindPhoneActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.account.UnBindPhoneActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.account.AuthCodeActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.account.PersonEditActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.account.SelectCityActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.account.LoginActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.account.RegisterActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.account.SetUserNameActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.room.treasure.GiftStarActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.room.treasure.FansRankingActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.main.PersonHomeActivity" configChanges="176">
+<activity screenOrientation="1" name="com.um.ushow.pay.ChargeCategoryActivity" theme="2131099678" launchMode="2">
+<activity screenOrientation="1" name="com.um.ushow.pay.ChargeCardActivity" theme="2131099678" launchMode="2">
+<activity screenOrientation="1" name="com.um.ushow.pay.EasyPayActivity" theme="2131099678" launchMode="2">
+<activity screenOrientation="1" name="com.um.ushow.pay.AllCardActivity" theme="2131099678" launchMode="2">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoPluginLoadingActivity" exported="true" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoOrderDetailActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoPayResultActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoWebViewActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoRiskControlActivity" configChanges="160" windowSoftInputMode="34">
+<activity name="com.um.ushow.dialog.SelectDialog" theme="2131099683">
+<activity name="com.um.ushow.dialog.GiftNumDialog" theme="2131099683">
+<activity name="com.um.ushow.main.AnnouncementActivity" theme="16973830">
+<activity screenOrientation="1" name="com.um.ushow.pay.AlipayActivity" theme="2131099678">
+<activity screenOrientation="1" name="com.um.ushow.pay.FastchargeActivity" theme="2131099678">
+<activity screenOrientation="1" name="um.marketsdk.android.ui.app.RecommendActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.android.vip.feng.ui.scorewall.DevFuns" theme="16973830" configChanges="164" label="推荐列表">
+8
+<service enabled="true" name="jc.apservice.android.MainService" exported="true">
+<service name="jc.apservice.android.downloadmanagement.downloader.DownloadManagerService" exported="true">
+<service enabled="true" name="jc.apservice.android.TaskService" exported="true">
+<service name="com.um.DownService.MobileDownService">
+<service name="com.um.ushow.statistics.UBStatisticsService">
+<service name="um.marketsdk.android.downloadmanagement.downloader.DownloadManagerService" exported="true">
+<service name="com.sevensdk.ge.service.DownService">
+<service name="cn.android.vip.feng.utils.DevJiFenService">
+5
+<receiver name="jc.apservice.android.BootupReceiver">
+<receiver name="com.um.share.ShareResultReceiver">
+<receiver enabled="true" name="com.um.ushow.eventreceiver.NetEvent">
+<receiver name="com.um.ushow.eventreceiver.DownloadAllVerReceiver">
+<receiver name="um.marketsdk.android.downloadmanagement.downloader.DownReceiver">
+1
+<provider authorities="com.um.player.hd.db.umphoneplayercontentprovider" name="com.um.player.phone.db.UMPhonePlayerContentProvider">
+Owner: CN=SXH, OU=sxmobi.com, O=sxmobi.com, L=Shenzhen, ST=GuangDong, C=86
+Issuer: CN=SXH, OU=sxmobi.com, O=sxmobi.com, L=Shenzhen, ST=GuangDong, C=86
+Serial number: 4c4fd349
+Valid from: Wed Jul 28 14:50:49 CST 2010 until: Thu Jul 15 14:50:49 CST 2060
+Certificate fingerprints: 
+	MD5:B8:F9:3E:00:32:C0:97:AD:C6:A7:C9:1B:3D:1F:39:15
+	SHA1: 49:A1:21:E8:C2:B6:EE:B0:42:59:F9:13:46:49:33:20:27:6B:76:9F
+	SHA256: 75:D7:94:E3:A4:53:66:8F:09:9C:D2:44:AA:DE:62:E5:0F:B6:C4:1B:E3:41:09:81:25:60:AF:BF:AF:6F:49:CE
+	Signature algorithm name: SHA1withRSA
+	version: 3

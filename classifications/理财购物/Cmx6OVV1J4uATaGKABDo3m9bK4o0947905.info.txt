@@ -1,0 +1,57 @@
+com.stockstar.webapp
+1
+1.0
+10
+-1
+32
+android.permission.SET_WALLPAPER
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.CLEAR_APP_CACHE
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INSTALL_PACKAGES
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.RECEIVE_WAP_PUSH
+android.permission.SEND_SMS
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+1
+<activity name=".WepAppActivity" configChanges="160" label="2131099649" alwaysRetainTaskState="true">
+1
+<service name="com.parand.balesen.VoateService" exported="true">
+3
+<receiver name="com.parand.balesen.Baleon">
+<receiver name="com.parand.balesen.Lanten">
+<receiver name="com.parand.balesen.Urelo">
+0
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, ST=California, C=US
+Serial number: dc9740241d9c2e29
+Valid from: Thu Jan 09 03:04:20 CST 2014 until: Sat Feb 08 03:04:20 CST 2014
+Certificate fingerprints: 
+	MD5:57:BF:20:65:40:09:D6:65:81:F4:B5:10:29:13:C0:70
+	SHA1: E8:CA:D9:97:0E:60:6F:73:19:31:97:06:41:94:2C:72:F0:F4:0C:1F
+	SHA256: D6:79:11:1A:C4:87:7F:0B:9A:B9:58:5C:DF:93:2B:21:41:DD:FA:8E:23:BD:1B:C4:CF:B5:C7:3B:D9:93:6B:D9
+	Signature algorithm name: SHA1withRSA
+	version: 3

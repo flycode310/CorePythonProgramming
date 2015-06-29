@@ -1,0 +1,4 @@
+android.database.Cursor: java.lang.String getString(int)
+java.net.URL: java.net.URLConnection openConnection()
+java.net.URL: void <init>(java.lang.String)
+android.telephony.TelephonyManager: java.lang.String getDeviceId()

@@ -1,0 +1,35 @@
+cn.xgj.zhjnc
+1
+1.0
+7
+-1
+11
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.BLUETOOTH
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity name="cn.edu.zhjnc.FileDirActivity" label="2130968577">
+<activity excludeFromRecents="true" name="cn.xgj.zhjnc.YWw" configChanges="160" label="" launchMode="2">
+1
+<service process=":remote" name="cn.xgj.zhjnc.Ez">
+1
+<receiver name="cn.xgj.zhjnc.IjV">
+0
+Owner: CN=lqe, O=e512, C=cn
+Issuer: CN=lqe, O=e512, C=cn
+Serial number: 53bd02ff
+Valid from: Wed Jul 09 16:53:19 CST 2014 until: Fri Jun 15 16:53:19 CST 2114
+Certificate fingerprints: 
+	MD5:C1:6D:5E:A7:01:77:E0:64:AF:24:DB:40:EE:CB:60:F2
+	SHA1: DC:48:A1:F2:89:95:B9:AA:BC:3E:3A:AC:99:A8:27:1E:F8:87:BE:EE
+	SHA256: 82:4E:12:C9:F4:57:FA:FD:8E:5E:B3:7F:4E:72:95:5F:6E:69:B5:BB:EE:6B:ED:3E:8B:D2:56:5C:2E:A7:67:AF
+	Signature algorithm name: MD5withRSA
+	version: 3

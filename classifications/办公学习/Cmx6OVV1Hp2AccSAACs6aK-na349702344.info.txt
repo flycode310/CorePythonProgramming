@@ -1,0 +1,40 @@
+com.core
+5
+1.1
+5
+-1
+16
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.CAMERA
+android.permission.RECORD_VIDEO
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+4
+<activity screenOrientation="1" name=".LoginActivity" configChanges="160" label="2131034112">
+<activity screenOrientation="1" name="org.apache.cordova.DroidGap" configChanges="160" label="2131034112">
+<activity screenOrientation="1" name=".UpdateActivity" configChanges="160">
+<activity screenOrientation="1" name=".ImageShowActivity" configChanges="160">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4f2f91c6
+Valid from: Mon Feb 06 16:39:34 CST 2012 until: Wed Jan 29 16:39:34 CST 2042
+Certificate fingerprints: 
+	MD5:FD:46:B4:7D:21:70:41:FF:AB:C9:CD:2A:7E:F8:0F:3D
+	SHA1: 1F:BC:EE:69:BE:5C:30:BE:5E:2A:F8:72:F1:09:9E:DB:AE:F9:12:43
+	SHA256: C9:0C:AF:F2:41:A9:DF:7C:11:3D:EE:E7:F5:22:17:16:67:9B:87:AA:40:97:01:AE:35:B8:A3:F2:3F:3D:37:D2
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,87 @@
+com.gift.android
+8
+2.2
+7
+10
+10
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+android.permission.KILL_BACKGROUND_PROCESSES
+57
+<activity screenOrientation="1" name=".HuodongActivity" theme="2131230720">
+<activity screenOrientation="1" name=".PaySuccessful" theme="2131230720">
+<activity screenOrientation="1" name=".CouponActivity" theme="2131230720">
+<activity screenOrientation="1" name=".BootActivity" theme="2131230720">
+<activity screenOrientation="1" name=".ZhinanActivity" theme="2131230720" launchMode="3">
+<activity screenOrientation="1" name=".RouteActivity" theme="2131230720">
+<activity screenOrientation="1" name=".HotelActivity" theme="2131230720" launchMode="3">
+<activity screenOrientation="1" name=".PlaceActivity" theme="2131230720" launchMode="3">
+<activity screenOrientation="1" name=".CalendarActivity" theme="2131230720">
+<activity screenOrientation="1" name=".MyMapActivity" theme="2131230720">
+<activity screenOrientation="1" name=".FillOrderActivity" theme="2131230720">
+<activity screenOrientation="1" name=".IndexActivity">
+<activity screenOrientation="1" name=".ChangeCity" theme="2131230720">
+<activity screenOrientation="1" name=".MoreInfoActivity" theme="2131230720">
+<activity screenOrientation="1" name=".MyLvmamaActivity" theme="2131230720">
+<activity screenOrientation="1" name=".LoginActivity" theme="2131230720">
+<activity screenOrientation="1" name=".PlaceListActivity" theme="2131230720">
+<activity screenOrientation="1" name=".SearchActivity" theme="2131230720" launchMode="2">
+<activity screenOrientation="1" name=".GroupBuyActivity" theme="2131230720">
+<activity screenOrientation="1" name=".PlaceHotelDetailsActivity" theme="2131230720" launchMode="1">
+<activity screenOrientation="1" name=".PlaceAroundActivity" theme="2131230720">
+<activity screenOrientation="1" name=".RegistActivity" theme="2131230720">
+<activity screenOrientation="1" name=".MyAccountActivity" theme="2131230720">
+<activity screenOrientation="1" name=".MyOrderActivity" theme="2131230720">
+<activity screenOrientation="1" name=".ProductListActivity" theme="2131230720">
+<activity screenOrientation="1" name=".HotelProdListActivity" theme="2131230720">
+<activity screenOrientation="1" name=".ProductDetailActivity" theme="2131230720">
+<activity screenOrientation="1" name=".MyOrderDetailsActivity" theme="2131230720">
+<activity screenOrientation="1" name=".PayOrderActivity" theme="2131230720">
+<activity screenOrientation="1" name=".LoadpageActivity">
+<activity screenOrientation="1" name=".LvActivityGroup" theme="2131230720">
+<activity screenOrientation="1" name=".ClientIndexActivity" theme="2131230720">
+<activity screenOrientation="1" name=".GrouponDetailsActivity" theme="2131230720">
+<activity screenOrientation="1" name=".FeedBackActivity" theme="2131230720">
+<activity screenOrientation="1" name=".BangzhuActivity" theme="2131230720">
+<activity screenOrientation="1" name=".GuanyuActivity" theme="2131230720">
+<activity screenOrientation="1" name=".RimMapActivity" theme="2131230720">
+<activity screenOrientation="1" name=".SortActivity" theme="2131230720">
+<activity screenOrientation="1" name=".FilterActivity" theme="2131230720">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SplashActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CardMainActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayMainActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayItActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AccountMainActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.LoginActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.RegisterActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.GetpassActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.ResetpassActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.EditpassActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.EditinfoActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AddCardActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.UserProtocalActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CheckCardBalanceActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CardInfoActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CardBalanceResultActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CardBankResultActivity">
+0
+0
+0
+Owner: CN=dengcheng, OU=joyu, O=www.lvmama.com, L=jiading, ST=shanghai, C=ZH
+Issuer: CN=dengcheng, OU=joyu, O=www.lvmama.com, L=jiading, ST=shanghai, C=ZH
+Serial number: 4e607a8f
+Valid from: Fri Sep 02 14:41:19 CST 2011 until: Sat Jun 05 14:41:19 CST 2066
+Certificate fingerprints: 
+	MD5:AE:DE:15:D1:A0:FC:E9:A6:C7:09:D0:40:B1:93:77:49
+	SHA1: 17:3E:05:8B:79:65:1B:25:83:41:5A:1D:58:99:EF:D4:B1:28:BA:FA
+	SHA256: 59:27:FE:05:EE:A0:C1:90:F6:41:FB:67:8C:4A:BE:0E:5D:A7:E1:CC:BB:39:48:A1:55:A6:2E:38:77:71:75:56
+	Signature algorithm name: SHA1withRSA
+	version: 3

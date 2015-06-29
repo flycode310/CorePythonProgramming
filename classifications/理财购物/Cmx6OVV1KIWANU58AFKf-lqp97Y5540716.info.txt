@@ -1,0 +1,189 @@
+lthj.exchangestockhangtian
+352
+V3.5.2.20150119
+8
+-1
+13
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+154
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.SplashActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotFrameActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.OptionalActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.IdleQuotFrameActivity" theme="2131427349">
+<activity screenOrientation="0" name="com.lthj.stock.newquot.xct.ui.MoreStockTrendActivity" theme="2131427349" configChanges="128">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.MoreStockListActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.GroupListActivity" theme="2131427352">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.OptionalEditActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.StockIndexActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.StockDetailsActivity" theme="2131427349" launchMode="1">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.InformationActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewsActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewsSubActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.F10Activity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.LocalF10Activity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotF10Activity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchMoreAbout" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchMoreStockDetail" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchMoreStockDetailItems" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewStockRecentListActiv" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchMoreActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewStockQuotFrameActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchQuotIndexPage" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchStockIndexPageActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExhcAboutContact" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchMoresetOptionSelect" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchMoreSetOptionParam" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchMoreXCTManager" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotExchStockManager" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.SiftActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.SiftSubActivity" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotMoreRefreshTimes" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotMoreHelp" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotMoreMicroChanal" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotMoreFeedback" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotMoreUseragreement" theme="2131427349">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotStockAssociateActiv" theme="2131427349" windowSoftInputMode="2">
+<activity screenOrientation="0" name="com.lthj.stock.newquot.xct.ui.HorizontalStockDetailActivity" theme="2131427349" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="lthj.exchangestock.FlashGridActv" theme="2131427393" label="2131034122" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.NewQuotIdleSelectProductActivity" theme="2131427349">
+<activity screenOrientation="1" name="phonestock.exch.ui.IdleOPtionSelectActivity" theme="2131427352">
+<activity screenOrientation="1" name="phonestock.exch.ui.CompleteXCTUserLogin" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.CompleteXCTProtocol" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.CompleteSMSVerify" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.CompleteXCTUserFindPassword" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.CompleteXCTUserRegister" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.CompleteXCTUserAutoRegister" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.NewStockExchActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.TradeLoginActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_SecMarginTrading" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.TransfersActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.EntrustActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.QueryActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MyAssetsActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.FrameActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.FeedbackActiv" theme="2131427393" configChanges="144" windowSoftInputMode="37">
+<activity screenOrientation="1" name="phonestock.exch.ui.StockAssociateActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.EntrustSellPositionActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.TraderSelectActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.DepartSelectActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.AccTypeSelectActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.AccManageActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MoreManageActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.HelpActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.RevokeActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MoreActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.AboutReliefActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.CapitalManageActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.EnVReActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.ScreenActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.ScreenActiv2" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.AccManage2Activ" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.ChangePasswordActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.DataActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MyMarket" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.QuotRefreshActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MicroChannel" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.ThemeChangeActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.guide.GuidePager" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.guide.ViewDoor" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.SimpleMoreManageActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.NewFoundationExchRecord" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.NewFoundationExchRecord2" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_CollateraExchFrameActiv" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTPositionFrameActiv" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_PositionActiv" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_ContractActiv" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_Transfer" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_QueryCreditInfo" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTMergerRepaymentActivity" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTSellCoupon2RepayActivity" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTMyHoldStocksActivity" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTRepaymentActivity" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTBuyCoupon2RepayActivity" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTCashCouponsAlsoActivity" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTContractTradeActivity" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTLiquidationActivity" theme="2131427393" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_FrameActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_More" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_HomeActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_CollateralEntrust" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_CollateralEntrust2" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_MoreOptionActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_QuotRefreshActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_HomePageStyle" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_FinishedTransactionQuery" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTStockAssociateColollEntrust" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_OrderSendSAActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_OrderSendActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_QueryActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MT_QueryUnderlSec" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.LoanFrameActvity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.GuideBuyActivityNew" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.NewQuotGuideBuyActivityNew" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.LoanRevokeActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.RRCBBuyActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.RRCBQueryActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.share.sina.weibo.SendActivity" theme="2131427393" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="phonestock.exch.ui.IdleFrameActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.IdleSelectProductActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.IdlePositionActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.IdleYestedayIncomeActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.IdleDepositActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.IdleGetoutActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.SafetyLoginActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2" launchMode="3">
+<activity screenOrientation="1" name="phonestock.exch.ui.DetailedRulesActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.AuthTypeSelectActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.TransferAcntSelectActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.TransferOrderListActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.SONSFrameActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.SONSQueryActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.SONSSubscribeLimit" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.PrePayAddActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.PrePayListActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.PrePayListEditActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.PrePayStockAssociateActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.PrePayAddSJEntrustWaySelect" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.PrePayListEditDialog" theme="2131427352" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.EditDialogActivity" theme="2131427352" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotStockIndexActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotStockRiskWarningActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotStockIndexSimpleActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotStockIndexAreaActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotExponentIndexActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.NewQuotStockRiseListActivity" theme="2131427352">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.QuotRzRqFrameActivity" theme="2131427352">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTRzRqQueryActiv" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.MTRevokeActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.BenefitsRecActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.BenefitsRecStockDetailInfoIndexActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.BenefitsRecStockDetailInfoActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.PrePayListActivity2" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="phonestock.exch.ui.AccManagerActivity" theme="2131427393" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.lthj.stock.newquot.xct.ui.PrePayModifyActivity" theme="2131427352">
+0
+2
+<receiver name="phonestock.share.tencent.mm.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver name="phonestock.skin.SkinBootReceiver">
+0
+Owner: CN=lthj, OU=lthj, O=lthj, L=caoyang, ST=BJ, C=86
+Issuer: CN=lthj, OU=lthj, O=lthj, L=caoyang, ST=BJ, C=86
+Serial number: 4e841dc7
+Valid from: Thu Sep 29 15:27:03 CST 2011 until: Fri Jul 02 15:27:03 CST 2066
+Certificate fingerprints: 
+	MD5:77:D8:59:0F:0F:E0:DE:9D:9B:5F:F7:9C:1D:BB:E9:41
+	SHA1: 63:E3:EE:82:42:32:62:F8:53:AC:1C:CD:6E:64:5D:43:2F:CC:1D:66
+	SHA256: 91:3D:06:CA:1E:B6:30:F6:17:4D:75:71:1D:EB:D4:B6:B7:82:6E:10:9A:13:3D:F3:C4:6A:26:60:5C:91:54:54
+	Signature algorithm name: SHA1withRSA
+	version: 3

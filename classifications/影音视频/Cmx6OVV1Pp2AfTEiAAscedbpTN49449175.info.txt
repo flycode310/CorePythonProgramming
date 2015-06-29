@@ -1,0 +1,37 @@
+com.yashi.tvplayer
+1
+1.0
+8
+15
+6
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+11
+<activity name=".ui.StartingActivity" label="2131099648">
+<activity screenOrientation="-1" name="com.umeng.api.activity.OauthActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="-1" name="com.umeng.api.activity.UpdateStatusActivity" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".ui.MainTabActivity" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".ui.TabHomeActivity">
+<activity screenOrientation="1" name=".ui.TabMessageActivity">
+<activity screenOrientation="1" name=".ui.TabChannelActivity">
+<activity screenOrientation="1" name=".ui.TabMineActivity">
+<activity screenOrientation="1" name=".ui.TabMoreActivity">
+<activity screenOrientation="1" name=".ui.NewSettingActivity">
+<activity screenOrientation="1" name=".ui.ChannelContentActivity">
+0
+0
+0
+Owner: CN=kaidi, OU=kaidi, O=kaidi, L=beijing, ST=beijing, C=cn
+Issuer: CN=kaidi, OU=kaidi, O=kaidi, L=beijing, ST=beijing, C=cn
+Serial number: 4d42768b
+Valid from: Fri Jan 28 15:55:55 CST 2011 until: Sat Jan 04 15:55:55 CST 2110
+Certificate fingerprints: 
+	MD5:58:A3:C3:E9:4D:6E:FD:69:8F:61:57:8D:C3:D2:D2:F6
+	SHA1: 3C:9C:C6:E9:A6:6C:0F:72:E4:36:17:DD:94:90:A1:1B:B2:17:BA:41
+	SHA256: 4C:76:AA:86:30:CC:72:3D:8C:9B:DF:18:2F:3C:83:8D:CC:4D:56:F9:0D:6B:56:2B:17:50:B1:B4:76:8B:AD:26
+	Signature algorithm name: SHA1withRSA
+	version: 3

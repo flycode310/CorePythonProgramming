@@ -1,0 +1,76 @@
+com.icoolme.android.weather
+2014042300
+3.01.001.20140423
+8
+14
+19
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.INTERACT_ACROSS_USERS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+26
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.SmartWeatherActivity" theme="16973834" label="2131230761" launchMode="2">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.CityManager" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.CityManagerEx" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.CityAdd" theme="16973834" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.SettingActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.WarningActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.SettingUpdateActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.SettingChangeActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.SettingVersionActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.WeatherNotifyActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.NotifyCityActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.SettingTemperActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.PmActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.AboutActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.LifeProposalActivity" theme="2131492892">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.SettingWidgaeAlphaActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.FeedbackActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.WeatherWebActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.WeatherThemeActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.WeatherRecommendActivity" theme="16973834">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.icoolme.android.weather.activity.WeatherRecommendDetailActivity" theme="16973834">
+<activity screenOrientation="1" name="com.icoolme.android.appupgrade.services.UpgradeNotification" theme="2131492892" launchMode="1">
+<activity name="com.icoolme.android.weather_widget.rigo.WeatherSelectCityActivity" theme="2131492892">
+<activity process=":widget" screenOrientation="1" name="com.icoolme.android.weather.widget.WeatherTrendActivity" theme="2131492906" launchMode="3">
+<activity process=":widget" enabled="true" screenOrientation="1" name="com.icoolme.android.weather.widget.WidgetCitySelectActivity" theme="2131492906" launchMode="3">
+<activity screenOrientation="1" name="com.icoolme.android.weather.activity.HistoryWeatherActivity" theme="16973834">
+4
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.icoolme.android.appupgrade.services.AppUpgradeService">
+<service process=":widget" name="com.icoolme.android.weather.widget.WeatherWidgetService">
+<service name="com.icoolme.android.weather.service.WidgetUpdateService">
+6
+<receiver name="com.icoolme.android.weather.receiver.AutoUpdateReceiver">
+<receiver name="com.icoolme.android.weather.receiver.ReminderReceiver">
+<receiver name="com.icoolme.android.weather.widget.WeatherWidgetAlarmReceiver">
+<receiver process=":widget" enabled="true" icon="2130838027" name="com.icoolme.android.weather.widget.WeatherRigoWidget2x2Provider" label="2131230863">
+<receiver process=":widget" enabled="true" icon="2130838028" name="com.icoolme.android.weather.widget.WeatherRigoWidget4x2Provider" label="2131230861">
+<receiver process=":widget" enabled="true" icon="2130838028" name="com.icoolme.android.weather.widget.WeatherRigoWidget5x2Provider" label="2131230862">
+1
+<provider authorities="com.icoolme.android.weather.provider" multiprocess="true" name="com.icoolme.android.weather.provider.DbProvider">
+Owner: EMAILADDRESS=android@yulong.com, CN=YuLong, OU=YuLong, O=YuLong, L=ShenZhen, ST=GuangDong, C=CN
+Issuer: EMAILADDRESS=android@yulong.com, CN=YuLong, OU=YuLong, O=YuLong, L=ShenZhen, ST=GuangDong, C=CN
+Serial number: fb1ecd58cb8358f7
+Valid from: Fri Oct 22 23:26:53 CST 2010 until: Fri Sep 21 23:26:53 CST 2035
+Certificate fingerprints: 
+	MD5:DB:DB:3B:ED:34:72:B1:B3:C4:CA:59:BE:CD:33:9F:44
+	SHA1: 5D:F8:F0:82:12:61:A2:34:D1:11:02:8E:FD:DF:FA:3C:88:89:76:49
+	SHA256: 4F:6C:0B:EB:EC:3E:A8:5E:BD:62:CD:EC:F4:75:CB:4F:07:90:FA:46:7F:EA:58:80:97:B0:B1:7D:46:30:C6:5A
+	Signature algorithm name: SHA1withRSA
+	version: 3

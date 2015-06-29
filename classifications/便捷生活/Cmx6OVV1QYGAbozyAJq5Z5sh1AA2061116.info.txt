@@ -1,0 +1,112 @@
+com.xingfubox.phone.android.growing
+120
+1.2
+11
+21
+25
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.BLUETOOTH_ADMIN
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+63
+<activity name=".MainActivity" label="2131427344">
+<activity name="com.xingfubox.phone.android.growing.ui.LauncherUI" configChanges="160" label="2131427345" windowSoftInputMode="32" launchMode="1">
+<activity name="com.xingfubox.phone.android.growing.ui.reviews.HomeUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.video.VideoUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.SnsUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.PlateListUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.PlateInfoUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.TopicListUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.TopicUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.QaaTopicUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.DailyNewsListUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.DailyNewsUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.StarUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.GrowPointUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.CreateTopicUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.CreateTopicBrowseUI" configChanges="160">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.SearchSnsUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.sns.PhotoBrowseUI" configChanges="160">
+<activity name="com.xingfubox.phone.android.growing.ui.user.UserHomeUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.UserAttentionUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.UserFansUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MySelfUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.video.VideoSearchUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.video.BrowseVideoUI" configChanges="160" windowSoftInputMode="18">
+<activity process=":tools" name="com.xingfubox.phone.android.growing.gallery.ui.GalleryEntryUI" theme="2131493102" configChanges="160" launchMode="1">
+<activity process=":tools" screenOrientation="1" name="com.xingfubox.phone.android.growing.gallery.ui.GalleryUI" configChanges="160">
+<activity process=":tools" screenOrientation="1" name="com.xingfubox.phone.android.growing.gallery.ui.AlbumPreviewUI" configChanges="160">
+<activity process=":tools" screenOrientation="1" name="com.xingfubox.phone.android.growing.gallery.ui.ImagePreviewUI" configChanges="160">
+<activity process=":tools" name="com.xingfubox.phone.android.growing.gallery.ui.CropImageNewUI" configChanges="160" launchMode="1">
+<activity name="com.xingfubox.phone.android.growing.ui.user.PersonInfoUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.ModifyNicknameUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.ModifyEmailUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.ModifyMobileUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.ModifyPasswdUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MyAddressUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MyChildrenUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.BrowseAddressUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.CreateAndEditAddressUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MyTopicUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MyFavoriteUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MyQaaUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MyActivityUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MyFansUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MyAttentionUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.RegisterUI" configChanges="160" windowSoftInputMode="36">
+<activity name="com.xingfubox.phone.android.growing.ui.user.SetPersonInfoUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.LoginUI" configChanges="160" windowSoftInputMode="2">
+<activity name="com.xingfubox.phone.android.growing.ui.user.ForgetPasswdUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.reviews.GrowReviewsUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.reviews.ReviewsNoticeUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.reviews.GrowReviewChartUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.reviews.GrowReviewListUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.reviews.CreateAndEditChildUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.reviews.CreateAndEditDailyDataUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.SettingUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.SuggestionUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.AboutUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.MyMessageUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.SysMessageUI" configChanges="160" windowSoftInputMode="18">
+<activity name="com.xingfubox.phone.android.growing.ui.user.UpdaterUI" configChanges="160">
+<activity name="com.xingfubox.phone.android.growing.wxapi.WXEntryActivity" exported="true" label="2131427344">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+2
+<service name="com.xingfubox.phone.android.growing.bootstrap.CoreService">
+<service process=":sandbox" name="com.xingfubox.phone.android.growing.logger.ExceptionMonitorService">
+2
+<receiver name="com.xingfubox.phone.android.growing.bootstrap.ConnectionReceiver">
+<receiver name="com.xingfubox.phone.android.growing.bootstrap.AppReceiver">
+0
+Owner: CN=happybox, OU=happybox, O=happybox, L=beijing, ST=beijing, C=ZH
+Issuer: CN=happybox, OU=happybox, O=happybox, L=beijing, ST=beijing, C=ZH
+Serial number: 54dfaae5
+Valid from: Sun Feb 15 04:07:01 CST 2015 until: Fri Nov 30 04:07:01 CST 2288
+Certificate fingerprints: 
+	MD5:C0:6C:ED:0C:FE:19:88:89:A6:8C:C1:31:11:E9:05:BC
+	SHA1: 9D:48:A0:43:8A:55:F8:F6:C6:79:9F:A2:A7:48:16:20:A0:3B:20:1B
+	SHA256: C3:D8:BB:3A:98:6C:A5:16:28:4E:DD:0C:2A:F2:91:9E:68:19:D2:B1:1F:63:F9:BC:D5:1C:54:F7:82:F6:E5:57
+	Signature algorithm name: SHA1withRSA
+	version: 3

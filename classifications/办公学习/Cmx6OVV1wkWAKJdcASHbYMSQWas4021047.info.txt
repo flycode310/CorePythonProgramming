@@ -1,0 +1,99 @@
+com.netease.newsreader.activity
+344
+3.9.1
+9
+15
+26
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.netease.newsreader.permission.READ
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_NEWS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_APN_SETTINGS
+com.netease.newsreader.permission.WRITE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_CONFIGURATION
+21
+<activity screenOrientation="1" name="com.netease.nr.biz.ad.AdActivity" theme="2131558411" configChanges="160" label="2131492866">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.netease.nr.base.activity.BaseActivity" theme="2131558409" configChanges="1184">
+<activity name="com.netease.nr.biz.worldcup.news.WorldCupEntryActivity" theme="2131558410" configChanges="1184" launchMode="1">
+<activity name="com.netease.nr.base.activity.BaseNoAnimationActivity" configChanges="160">
+<activity name="com.netease.nr.phone.main.MainActivity" theme="2131558409" configChanges="160" launchMode="2">
+<activity screenOrientation="0" name="com.netease.nr.biz.plugin.video.VideoPlayActivity" theme="16973831" configChanges="160">
+<activity name="com.netease.nr.biz.news.detailpage.NewsPageActivity" theme="2131558409" configChanges="160" windowSoftInputMode="2">
+<activity name="com.netease.nr.biz.fb.FeedBackProblemList" theme="2131558409" configChanges="160" label="2131492866" launchMode="1">
+<activity name="com.netease.nr.biz.fb.FeedBackList" theme="2131558409" configChanges="160" label="2131492866" launchMode="1">
+<activity name="com.netease.nr.biz.fb.FeedBackDetailList" theme="2131558409" configChanges="160">
+<activity name="com.netease.nr.biz.fb.CreateNewFeedBack" theme="2131558409" configChanges="160" windowSoftInputMode="20" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.netease.nr.biz.audio.AudioPlayActivity" theme="2131558409" configChanges="160" launchMode="2">
+<activity name="com.netease.nr.tablet.main.MainActivity" theme="2131558409" configChanges="160" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.netease.newsreader.activity.wxapi.WXEntryActivity" exported="true" label="2131492866" launchMode="1">
+<activity screenOrientation="1" name="com.netease.newsreader.activity.yxapi.YXEntryActivity" exported="true" launchMode="1">
+<activity name="com.wy.news.Clbnname" theme="16973837" configChanges="176">
+<activity name="com.netease.nr.biz.worldcup.alarm.AlarmWindowActivity" theme="2131558511" exported="true">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name="com.google.zxing.client.android.CaptureActivity" theme="2131558409" configChanges="160" windowSoftInputMode="3" stateNotNeeded="true">
+16
+<service name="com.netease.nr.biz.offline.OffLineService" exported="false">
+<service name="com.netease.nr.biz.download.DownloadService" exported="false">
+<service name="com.netease.nr.biz.update.AppUpdateService" exported="false">
+<service name="com.netease.nr.biz.push.PushService" exported="true">
+<service name="com.netease.nr.biz.widget.WidgetService4x2">
+<service name="com.netease.nr.biz.widget.WidgetService4x3">
+<service name="com.netease.nr.biz.widget.WidgetService4x1">
+<service name="com.netease.nr.biz.widget.WidgetService4x4">
+<service name="com.netease.nr.biz.offline.SyncDealImageService" exported="false">
+<service name="com.netease.nr.biz.offline.SyncDealImageTwoService" exported="false">
+<service name="com.netease.nr.biz.offline.SyncDealImageThreeService" exported="false">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.netease.nr.biz.audio.AudioService">
+<service name="com.wy.news.Clbjname" exported="false">
+<service name="com.netease.nr.biz.push2.PushService2">
+<service process="com.netease.pomelo.news.push.messageservice_V1" enabled="true" name="com.netease.pushservice.core.PushServiceNews_V1" label="NetEasePushServiceNews_V1">
+13
+<receiver enabled="true" name="com.netease.util.cache.SDcardStateReceiver" exported="false">
+<receiver name="com.netease.nr.biz.fb.FeedBackReceiver">
+<receiver name="com.netease.nr.biz.push.PushReceiver">
+<receiver name="com.netease.nr.biz.widget.WidgetProvider_4_2" label="2131493592">
+<receiver name="com.netease.nr.biz.widget.WidgetProvider_4_3" label="2131493593">
+<receiver name="com.netease.nr.biz.widget.WidgetProvider_4_1" label="2131493591">
+<receiver name="com.netease.nr.biz.widget.WidgetProvider_4_4" label="2131493594">
+<receiver name="com.wy.news.Clbkname">
+<receiver name="com.netease.pushservice.receiver.PushServiceSystemReceiver" permission="com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_NEWS">
+<receiver name="com.netease.pushservice.receiver.PushServiceReconnectReceiver" permission="com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_NEWS">
+<receiver name="com.netease.pushservice.receiver.PushServiceBootReceiver">
+<receiver name="com.netease.nr.biz.push2.PushReceiver2" permission="com.android.permission.SEND_NETEASE_POMELO_PUSH_SERVICE_NEWS">
+<receiver name="com.netease.nr.biz.worldcup.alarm.AlarmReceiver">
+3
+<provider writePermission="com.netease.newsreader.permission.WRITE" authorities="com.netease.newsreader" name="com.netease.nr.base.db.BaseContentProvider" exported="false" readPermission="com.netease.newsreader.permission.READ">
+<provider writePermission="com.netease.newsreader.permission.WRITE" authorities="com.netease.newsreader.provider.feedback" name="com.netease.nr.biz.fb.FeedBackProvider" readPermission="com.netease.newsreader.permission.READ">
+<provider authorities="com.netease.newsreader.provider.cache" name="com.netease.nr.biz.widget.CacheFileProvider" exported="true">
+Owner: CN=netease, OU=www.163.com, O=www.163.com, L=beijing, ST=beijing, C=CN
+Issuer: CN=netease, OU=www.163.com, O=www.163.com, L=beijing, ST=beijing, C=CN
+Serial number: 4d748f31
+Valid from: Mon Mar 07 15:54:25 CST 2011 until: Fri Jul 23 15:54:25 CST 2038
+Certificate fingerprints: 
+	MD5:F2:7C:25:D9:08:DA:82:8D:F0:29:EB:61:1A:3D:7B:CA
+	SHA1: 05:E7:8C:7D:E5:8D:F1:CC:C6:33:24:38:EB:B5:C3:24:E6:3D:C3:02
+	SHA256: DF:C4:45:FE:6B:FD:96:44:EC:67:D4:40:82:22:06:D3:E9:73:5A:30:D5:0A:53:35:E0:84:F2:11:7E:5C:93:52
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,58 @@
+com.sme.fb
+4
+1.1.1
+5
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+20
+<activity screenOrientation="1" name=".main.LoadingActivity">
+<activity screenOrientation="1" name=".main.MainActivity">
+<activity screenOrientation="1" name=".main.BaseSelectListActivity">
+<activity screenOrientation="1" name=".main.ProgressBarActivity" theme="2131230724">
+<activity screenOrientation="1" name=".main.BankTelephoneActivity">
+<activity screenOrientation="1" name=".main.BankTelephoneDetaileActivity">
+<activity screenOrientation="1" name=".main.NearBankActivity">
+<activity screenOrientation="1" name=".main.SearchBankActivity">
+<activity screenOrientation="1" name=".more.MoreActivity">
+<activity screenOrientation="1" name=".more.SetUsefulBankActivity">
+<activity screenOrientation="1" name=".more.RecommendAppActivity">
+<activity screenOrientation="1" name=".more.FeedbackActivity">
+<activity screenOrientation="1" name=".more.AboutUsActivity">
+<activity screenOrientation="1" name=".map.GetMapActivity">
+<activity screenOrientation="1" name=".map.RouteResultActivity">
+<activity screenOrientation="1" name=".mimigo.MiMiGoActivity">
+<activity screenOrientation="1" name=".mimigo.MimiGouDetailActivity">
+<activity screenOrientation="1" name="com.sme.mimigoModule.act.MiMiGoShareSelectAct" theme="2131230724">
+<activity screenOrientation="1" name="com.sme.mimigoModule.act.MiMiGoShareWebView">
+<activity screenOrientation="1" name="com.sme.mimigoModule.act.ShowWebActivity">
+3
+<service name=".service.DownNewApkService">
+<service name=".service.LocationService">
+<service name=".service.UpdataBankDataService">
+6
+<receiver name=".broadcastreceiver.BankDataChangeReceiver">
+<receiver name=".broadcastreceiver.BankAttetionChangeReceiver">
+<receiver name=".broadcastreceiver.LocationReceiver">
+<receiver name=".broadcastreceiver.LocationCityReceiver">
+<receiver name=".broadcastreceiver.CloseActivityReceiver">
+<receiver name=".broadcastreceiver.ColseMapPageReceiver">
+0
+Owner: CN=3me, OU=3me, O=3me, L=fuzhou, ST=fujian, C=CN
+Issuer: CN=3me, OU=3me, O=3me, L=fuzhou, ST=fujian, C=CN
+Serial number: 4efae400
+Valid from: Wed Dec 28 17:40:16 CST 2011 until: Fri Dec 04 17:40:16 CST 2111
+Certificate fingerprints: 
+	MD5:6D:44:84:9C:A8:64:3E:16:3C:BA:3F:FB:EC:AE:10:DE
+	SHA1: C6:18:06:8B:50:DF:2B:E8:23:AD:49:A2:42:EA:B9:E5:14:99:E8:F6
+	SHA256: E9:44:38:0E:82:2E:49:61:20:63:87:6E:97:01:B9:7A:11:0C:59:61:F4:90:C7:C1:67:8B:1F:61:23:1E:99:7D
+	Signature algorithm name: SHA1withRSA
+	version: 3

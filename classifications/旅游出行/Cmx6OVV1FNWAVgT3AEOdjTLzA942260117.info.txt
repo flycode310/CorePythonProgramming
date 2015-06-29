@@ -1,0 +1,79 @@
+cn.wintour.dossm2013.hntdhotel.android
+260
+2.6.0
+11
+11
+13
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+46
+<activity name="cn.wintour.dossm2013.welcome.WelcomeActivity" theme="2131230811">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.main.MainActivity" label="2131034162">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.ninePatch.NinePatchActivity" label="2131034162">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.ninePatch.SZNinePatchsCmsActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.ninePatch.SZNinePatchsMemberActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.ninePatch.SZShortcutsActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.welcome.GuideActivity" theme="2131230811">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.main.GroupHotelSelectActivity" theme="2131230811" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.main.SZMapActivity" theme="2131230811">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.cms.SZCmsListActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.cms.SZCmsPageActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.cms.SZCmsAlbumActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.cms.SZCmsImageActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.cms.SZCmsConciergeCatalogActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.cms.SZCmsConciergeListActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipAboutActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipHotelActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipRuleActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipCollectionsActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipLoginActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipPasswordActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipInfoActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipRegisterActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipGetPasswordActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipQueryActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipOrdersActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipCommentsActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.member.SZMembershipSendCommentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.cms.SZCmsConciergeSubmitActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.request.SZQuickPaymentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.request.SZRequestDetailActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.request.SZRequestOrderActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.request.SZRequestServiceActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.order.SZOrderStep1Activity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.order.SZOrderStep2Activity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.order.SZOrderServiceActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.order.SZOrderInformationActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.order.SZOrderDetailActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.order.SZOrderCreditCardActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.main.SZOnlinePaymentActivity">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.order.SZOrderProductDetailActivity" theme="2131230815">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.request.SZRequestServiceDetailActivity" theme="2131230815">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.cms.SZCmsPictureSavePopupActivity" theme="2131230815">
+<activity screenOrientation="1" name="cn.wintour.dossm2013.main.SZPhoneActivity" theme="2131230815">
+0
+0
+0
+Owner: CN=Sam Zhang, O=www.wintour.cn, L=Guangzhou, ST=Guangdong, C=cn
+Issuer: CN=Sam Zhang, O=www.wintour.cn, L=Guangzhou, ST=Guangdong, C=cn
+Serial number: 525dfdad
+Valid from: Wed Oct 16 10:45:01 CST 2013 until: Sun Oct 10 10:45:01 CST 2038
+Certificate fingerprints: 
+	MD5:37:BD:7D:8F:58:A3:71:3E:CE:B7:6B:D4:51:D2:AF:8F
+	SHA1: 32:28:1A:5D:86:E3:DA:1F:92:20:7D:54:F8:DD:A3:22:AE:55:00:31
+	SHA256: BB:04:11:C8:41:BB:20:B5:61:89:3C:E5:C2:42:41:1F:56:38:75:66:D1:24:7A:25:37:04:C0:07:E4:95:29:B9
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,66 @@
+com.rnd.ganghuazhifu
+1
+1.0.0.001
+8
+17
+14
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.CHANGE_CONFIGURATION
+31
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.MainActivity" configChanges="160" windowSoftInputMode="34">
+<activity excludeFromRecents="true" name="com.rnd.ganghuazhifu.activity.TaskActivity" theme="2131296257" configChanges="1073741984" windowSoftInputMode="32" taskAffinity="com.example.opentest.first">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.WelcomeActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.LoginActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.RegistrationActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.UserAgreementActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.RegistrationSetNameActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.RegistrationSetQuestionActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.ForgetPasswordActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.rnd.ganghuazhifu.activity.VerificationQuestionActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.rnd.ganghuazhifu.activity.VerifyPhoneActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.SetNewPasswordActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.PayBillActivity" theme="16973840" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.SetLockPatternActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.LockPatternActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.AccountManagementActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.SetEmailActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.VerifyPasswordActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.AboutUsActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.UsingHelpActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.FeedBackActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.ConnectUsActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.PayTheGasFeeActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.ResultForGasFeeActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.ResultForGasFeeDetailsActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.ResultForGasBillActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.CityListActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.UnitListActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.RecordDetailsActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.PayActivity" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.rnd.ganghuazhifu.activity.ReLockPatternActivity" configChanges="160" windowSoftInputMode="34">
+1
+<service name="com.rnd.ganghuazhifu.service.RunningInfoService">
+0
+0
+Owner: CN=yang.lei
+Issuer: CN=yang.lei
+Serial number: 54bcd789
+Valid from: Mon Jan 19 18:08:09 CST 2015 until: Wed Dec 26 18:08:09 CST 2114
+Certificate fingerprints: 
+	MD5:84:A7:E8:97:20:8A:A1:3B:2F:AD:23:59:BE:F3:3E:83
+	SHA1: 8B:4C:8A:08:BD:6C:1F:48:69:75:53:35:1B:E5:CE:2D:CA:2D:5E:BD
+	SHA256: 32:E3:C1:1C:56:A2:BB:BA:2F:0E:0D:AF:CC:32:1A:7A:88:87:DB:8A:F0:6D:ED:67:E8:1C:08:1D:06:4E:BC:12
+	Signature algorithm name: SHA1withRSA
+	version: 3

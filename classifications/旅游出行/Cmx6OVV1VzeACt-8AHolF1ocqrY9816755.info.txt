@@ -1,0 +1,85 @@
+com.hotelvp.tonight
+42
+3.2.3
+8
+17
+20
+android.permission.RAISED_THREAD_PRIORITY
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+37
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.SplashScreenActivity" theme="16973837" configChanges="160" label="2131492865">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.MainActivity" theme="2131427383" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.LearnActivity" theme="2131427383" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.AutoCompleteActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.WebSiteActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.LoginActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.UserInfoActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.CityListActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.HotelListFilterActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.HotelBookingActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.DateChooseActivity" theme="2131427383" configChanges="160">
+<activity name="com.hotelvp.tonight.activities.GetInvoiceActivity">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.FeedbackActivity" theme="2131427383" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.CouponDetailActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.HotelDetailActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.HotelCommentActivity" theme="2131427368" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.HotelDetailMapActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.OrderDetailActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.OrderSuccessActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.ArriveTimeGuaActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.CashBackHistoryActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.CashBackDetailActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.CashApplyActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.ShareActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.CancelGUAOrderActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.hotelvp.tonight.activities.GetCouponActivity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.upomp.pay.activity.Upomp_Pay_Activity" theme="2131427383" configChanges="160">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SplashActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.IndexActivityGroup">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.HomeActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.PayActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AccountActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.BankCardInfoActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SupportCardActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.UserProtocolActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AboutActivity">
+<activity process="com.igexin.demo.pushservice" excludeFromRecents="true" name="com.igexin.sdk.SdkActivity" theme="16973840" taskAffinity="android.task.SdkActivityTask">
+4
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.hotelvp.tonight.service.PushService">
+<service process="com.igexin.demo.pushservice" name="com.igexin.sdk.SdkMainService" exported="false" label="NotifyCenter">
+<service process="com.igexin.demo.pushservice" name="com.igexin.sdk.coordinator.SdkMsgService" exported="true" label="NotifyCenterAIDL">
+4
+<receiver name="com.hotelvp.tonight.sns.weixin.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver name="com.hotelvp.tonight.igexin.GexinSdkMsgReceiver">
+<receiver name="com.igexin.sdk.SdkReceiver">
+<receiver name="com.igexin.sdk.coordinator.NotificationCenterAIDLReceiver">
+0
+Owner: CN=mango wang, OU=hotelvp.com, O=hotelvp.com, L=shanghai, ST=shanghai, C=cn
+Issuer: CN=mango wang, OU=hotelvp.com, O=hotelvp.com, L=shanghai, ST=shanghai, C=cn
+Serial number: 4e97dc01
+Valid from: Fri Oct 14 14:51:45 CST 2011 until: Sun Oct 06 14:51:45 CST 2041
+Certificate fingerprints: 
+	MD5:A9:FE:1C:33:72:84:CA:FD:7A:60:E8:34:62:B5:3E:B4
+	SHA1: 47:15:71:62:15:38:1A:20:4E:0B:9D:C5:DF:79:60:B8:87:68:A8:22
+	SHA256: AD:4B:F7:DC:8C:30:26:F5:7B:C0:34:00:8A:BA:78:9B:C0:CB:74:0C:1F:A6:9D:D4:1C:A9:50:75:F0:46:2C:2C
+	Signature algorithm name: SHA1withRSA
+	version: 3

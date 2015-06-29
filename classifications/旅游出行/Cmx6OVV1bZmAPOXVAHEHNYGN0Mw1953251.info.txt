@@ -1,0 +1,153 @@
+cn.ikamobile.matrix
+22
+2.3.4
+8
+17
+15
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+115
+<activity screenOrientation="1" name="cn.ikamobile.matrix.MatrixActivity" label="2131099648" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name=".activity.MainActivity" theme="16973837" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.HomeActivity" theme="2131165447" label="2131099648" windowSoftInputMode="3" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.RefundDescriptionActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.WebInfoActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name=".activity.MatrixMapListActivity" theme="16973837" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.OrderSuccessActivity" theme="16973837" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserOrderListActivity" theme="16973837" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserFavoriteListActivity" theme="16973837" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserHelpRefundActivity" theme="16973837" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserLoginActivity" theme="2131165272" label="2131099648" windowSoftInputMode="19">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserRegisterActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserResetPwdActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserInfoActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserInfoModifyActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.misc.FeedbackActivity" theme="2131165272" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.misc.ContactUsActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserHelpListActivity" theme="16973837" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.UserHelpDetailActivity" theme="16973837" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.ChooseCityActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name=".hotel.HotelAdvanceSearchActivity" theme="2131165272" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.misc.MoreAppActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.misc.PromotionListActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.misc.PromotionDetailActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name=".widget.calendar.DateWidgetActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name=".hotel.HotelMainActivity" theme="16973837" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelMapListManagerActivity" theme="2131165272" label="2131099648" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name=".hotel.HotelListMapActivity" theme="16973837" label="2131099648" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".hotel.HotelDetailActivity" theme="2131165275" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelRoomPriceActivity" theme="16973837" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelReviewActivity" theme="16973837" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelInfoActivity" theme="16973837" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelAdvanceFilterActivity" theme="16973837" label="2131099648" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".hotel.HotelGuaranteeActivity" theme="2131165272" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelPaymentActivity" theme="2131165272" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelBrandActivity" theme="16973837" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.hotel.RegionListActivity" theme="2131165272" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.common.activity.RefundActivity" theme="16973837" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelOrderListActivity" theme="2131165272" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelOrderDetailActivity" theme="2131165272" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelOrderSubmitActivity" theme="2131165272" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".hotel.HotelOrderSuccessActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name=".hotel.HotelFavoriteActivity" theme="2131165272" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightListActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightDetailInfoActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightDynamicDetailActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightOrderListActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightPaymentActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightOrderDetailActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightCreateOrderActivity" theme="2131165272" label="2131099648" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.FlightPassengerListActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightOrderComfirmActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightCreditPayforActivity" theme="2131165272" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightFiltrateFlightInfoActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.flight.activity.FlightOrderSuccessfulActivity" theme="2131165272" label="2131099648">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFStationListActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFTicketListActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFInsuranceExplain" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFInsuranceInfo" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFTicketStops" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFIkaPayBankListActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFFavoritesTrainsActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFTicketDetailActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.IkaOrderSuccessActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFUserLoginActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFTicketPassengers" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFManifestActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFToPayOrderActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFOrderListActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFHelpActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFConfirmResignOrderActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFConfirmSubmitIkaOrderActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFIkaSubmitOrderSuccessActvity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFCompleteOrderDetailActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFBankListActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFPayIkaBankActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFBankCMBPayActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFSplashActivity" theme="16973837">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFPhoneDialerActivity" theme="16973837">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFRegisterActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFBankCCBPayActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFResignToUpdateDateActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFResignSuccessActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFMakeResignOrderActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFWebPayActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFWebAlipayActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFRefundConfirmActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFIkaOrderListActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFUncompleteOrderDetailActivity" theme="2131165272">
+<activity screenOrientation="1" name="cn.ikamobile.matrix.train.activity.TFAlipayInsuranceManifestActivity" theme="2131165272">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.transactionmanage.SplashActivity" configChanges="224">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.transactionmanage.certification.CertificationActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.transactionmanage.certification.CardActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.transactionmanage.fast.FastFristActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.transactionmanage.fast.FastSecondActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.transactionmanage.fast.BankDialog" theme="16973835" configChanges="224">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.transactionmanage.DealsResultActivity" configChanges="224">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.usermanage.updatepasswd.PasswordChangeActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.bankcardmanage.BankCardActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.bankcardmanage.bindcard.BankCardBindActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.bankcardmanage.bindcard.BankCardBindResultActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.bankcardmanage.cardinfo.BankCardInfoActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.bankcardmanage.balancequery.BalanceQueryActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.bankcardmanage.balancequery.BalanceQueryResultActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.usermanage.updatemobilenum.PhoneNumChangeActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.usermanage.getsecuritquestion.GetSecuritQuestionActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.usermanage.retpasswd.RetPassword2Activity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.transactionmanage.storedcard.StoredValueCardPaymentActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.util.Util2" theme="16973839" configChanges="224">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.util.Util1" theme="16973839" configChanges="224">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.usermanage.login.LoginActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.usermanage.register.RegisterActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.usermanage.register.CheckProtocalActivity" configChanges="224">
+<activity screenOrientation="1" name="com.unionpay.upomp.yidatec.usermanage.myinfo.MyInfoActivity" configChanges="224">
+<activity screenOrientation="1" name="com.umpay.creditcard.android.UmpayActivity" configChanges="176" windowSoftInputMode="2">
+1
+<service name="cn.ikamobile.matrix.train.service.AutoRedialService" label="2131100415">
+0
+2
+<provider authorities="cn.ikamobile.matrix.hotel.HotelSearchSuggestionProvider" name=".hotel.HotelSearchSuggestionProvider">
+<provider authorities="cn.ikamobile.matrix.trainfinder.station_and_fav" name="cn.ikamobile.matrix.provider.train.FavoritesTrainsProvider">
+Owner: CN=ikamobile, OU=ikamobile, O=ikamobile, L=CD, ST=Sichuan, C=86
+Issuer: CN=ikamobile, OU=ikamobile, O=ikamobile, L=CD, ST=Sichuan, C=86
+Serial number: 507fb74b
+Valid from: Thu Oct 18 16:01:15 CST 2012 until: Mon Oct 12 16:01:15 CST 2037
+Certificate fingerprints: 
+	MD5:66:41:C0:F1:30:4A:29:F1:99:A7:9A:48:D4:0A:BD:CE
+	SHA1: BE:B8:82:10:57:94:9A:1E:D7:DC:C4:14:71:94:E5:29:50:C1:BB:B2
+	SHA256: 1E:F6:5F:06:83:42:A0:53:C5:13:E8:7B:D7:1F:D3:D1:7B:67:97:D2:C6:33:15:E8:5C:DF:0C:2D:46:69:DF:18
+	Signature algorithm name: SHA1withRSA
+	version: 3

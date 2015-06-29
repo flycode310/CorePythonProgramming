@@ -1,0 +1,70 @@
+com.zhijin.edunet
+1
+1.0.1
+8
+18
+13
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+32
+<activity screenOrientation="1" name="com.zj.edunet.SplashActivity" theme="16973830" label="2131165190">
+<activity screenOrientation="1" name="com.zj.edunet.HomePageActivity" theme="16973830">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.LoginActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.zj.edunet.resource.control.ResListActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.resource.control.ResDetailActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.notices.control.NoticeListActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.notices.control.NoticeAddActivity" theme="16973840" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.zj.edunet.notices.control.NoticeDetailActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserClassInfoActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserClassListActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserLearnCenterActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserRelationActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserFeedBackListActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserClassMemberListActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserFeedbackDetailActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserResIndexActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserUpdateActivity" theme="16973840" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserFeedBackAddActivity" theme="16973840" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.zj.edunet.news.control.NewsListActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.news.control.NewsDetailActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.more.control.MoreActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.more.control.UpdateDetailsActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.more.control.UserGuideActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.more.control.MoreCommonActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.asks.control.AsksDetailActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.asks.control.AskPicActivity" theme="16973830">
+<activity screenOrientation="1" name="com.zj.edunet.asks.control.AsksCommentActivity" theme="16973830">
+<activity screenOrientation="1" name="com.zj.edunet.asks.control.AsksAddActivity" theme="16973830">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserAsksListActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserScoresIndexActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.UserScoresShowActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zj.edunet.user.control.InstitutionSettingActivity" theme="16973840">
+2
+<service name="com.zj.lib.support.http.download.DownloadService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+3
+<receiver name="com.zj.edunet.notices.reciever.NoticeMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=zhijin, OU=zhijin, O=zhijin, L=beijing, ST=beijing, C=100001
+Issuer: CN=zhijin, OU=zhijin, O=zhijin, L=beijing, ST=beijing, C=100001
+Serial number: 53cdc2e9
+Valid from: Tue Jul 22 09:48:25 CST 2014 until: Sat Jul 16 09:48:25 CST 2039
+Certificate fingerprints: 
+	MD5:68:56:21:10:B6:F6:93:D8:47:A5:A7:86:6B:74:09:8E
+	SHA1: 72:58:49:E1:B7:52:55:F6:72:49:1B:34:B1:54:AE:18:3B:DF:F1:5E
+	SHA256: 8C:C5:89:3C:0F:4E:4D:11:9E:BF:C6:91:D1:FD:7D:44:F9:4A:51:84:89:F9:70:66:B7:30:D4:34:68:EB:6C:45
+	Signature algorithm name: SHA1withRSA
+	version: 3

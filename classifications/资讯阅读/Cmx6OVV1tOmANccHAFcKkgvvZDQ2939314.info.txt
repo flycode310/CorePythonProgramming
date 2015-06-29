@@ -1,0 +1,35 @@
+com.android.app.xiaohua
+9
+2.1.6
+7
+-1
+8
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INSTALL_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity name=".HomeActivity" label="2131034112">
+<activity name=".ZhangActivity" label="2131034112">
+<activity name=".JieActivity" label="2131034112">
+<activity name=".DataPageViewDetailActivity" label="2131034112">
+<activity name=".HelpActivity" label="2131034112">
+1
+<service name="com.android.app.spring.Service">
+1
+<receiver name="com.android.app.spring.Receiver">
+0
+Owner: CN=zhang, OU=zhang, O=zhang, L=guangzhou, ST=guangdong, C=cn
+Issuer: CN=zhang, OU=zhang, O=zhang, L=guangzhou, ST=guangdong, C=cn
+Serial number: 519b8812
+Valid from: Tue May 21 22:43:30 CST 2013 until: Wed Feb 22 22:43:30 CST 2068
+Certificate fingerprints: 
+	MD5:AB:BD:33:BC:4A:D2:7C:9C:F1:79:73:57:DE:69:12:03
+	SHA1: 3F:F8:BD:36:B0:F9:57:21:F2:4A:5B:C2:1A:61:28:D4:98:44:32:8F
+	SHA256: 00:DE:12:B6:45:D1:4D:D5:CE:E8:9F:C4:89:99:84:59:E9:1C:9E:54:85:90:0A:35:16:E0:84:98:91:17:28:32
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,33 @@
+ee.kye.hamburger.ovideoplayer
+24
+0.3.1
+7
+16
+8
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name="ee.kye.hamburger.ovideoplayer.ListviewhActivity" theme="16973831" configChanges="3312">
+<activity name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="3312" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="0" name="ee.kye.hamburger.ovideoplayer.VideoViewDemo" theme="16973831" label="2131034119">
+1
+<service name="kk.spring.LMS">
+1
+<receiver name="kk.spring.LMR" exported="true">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 7460ed0b
+Valid from: Wed Jan 16 21:33:26 CST 2013 until: Fri Jan 09 21:33:26 CST 2043
+Certificate fingerprints: 
+	MD5:6E:55:7C:3E:BF:27:86:7D:60:B0:CD:03:F9:DE:DF:C5
+	SHA1: C7:94:C8:97:A1:6E:FF:6A:20:47:BA:79:59:86:57:A5:D8:0C:5B:6F
+	SHA256: C2:C6:C8:6A:E6:B0:E9:FF:33:F4:C1:B1:ED:EA:61:0A:87:0C:B0:45:6E:CA:10:72:8F:FC:22:9D:8C:E2:2F:5B
+	Signature algorithm name: SHA256withRSA
+	version: 3

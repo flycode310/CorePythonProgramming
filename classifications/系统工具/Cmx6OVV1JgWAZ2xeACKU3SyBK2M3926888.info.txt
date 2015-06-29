@@ -1,0 +1,49 @@
+com.zhizhang.hanyu
+20141111
+3.1.1 build 4123
+8
+19
+15
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+14
+<activity name="com.baidu.mobads.AppActivity" configChanges="176">
+<activity screenOrientation="1" name="com.zhizhang.hanyu.MainActivity" label="2131165184">
+<activity screenOrientation="1" name="com.zhizhang.hanyu.QueryActivity" label="2131165187">
+<activity screenOrientation="1" name="com.zhizhang.hanyu.PinYinActivity" label="2131165188">
+<activity screenOrientation="1" name="com.zhizhang.hanyu.CharacterListActivity" label="2131165189">
+<activity screenOrientation="1" name="com.zhizhang.hanyu.CharacterDetailActivity" label="2131165190">
+<activity screenOrientation="1" name="com.zhizhang.hanyu.MoreActivity" label="2131165191">
+<activity screenOrientation="1" name="com.zhizhang.hanyu.AboutUsActivity" label="2131165192">
+<activity screenOrientation="1" name="com.zhizhang.hanyu.WebViewActivity" theme="16973835" label="2131165193">
+<activity screenOrientation="1" name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity screenOrientation="1" name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity screenOrientation="1" name="com.zhizhang.hanyu.MyCollectActivity" label="2131165222">
+<activity screenOrientation="1" name="com.google.ads.AdActivity" configChanges="176">
+0
+0
+0
+Owner: CN=wooilung, OU=xiamen zhifen, O=china, L=xiamen, ST=fujian, C=361000
+Issuer: CN=wooilung, OU=xiamen zhifen, O=china, L=xiamen, ST=fujian, C=361000
+Serial number: 51aea40f
+Valid from: Wed Jun 05 10:35:59 CST 2013 until: Fri May 12 10:35:59 CST 2113
+Certificate fingerprints: 
+	MD5:77:68:22:4A:84:84:42:6A:8D:07:CF:BA:C6:AF:D4:9B
+	SHA1: 9F:41:8A:9C:8A:0A:A8:77:D9:36:D5:D0:97:24:7F:32:D3:AE:33:9D
+	SHA256: A4:FB:EA:5E:AA:66:B3:7D:85:EC:78:B2:4E:C3:94:27:81:D6:C6:56:BC:9C:3B:DD:2B:85:8E:E5:02:EB:98:70
+	Signature algorithm name: SHA1withRSA
+	version: 3

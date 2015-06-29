@@ -1,0 +1,104 @@
+com.unitepower.mcd3366
+5
+5.0
+7
+-1
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.webkit.permission.PLUGIN
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+70
+<activity screenOrientation="1" name=".Main" theme="16973830" configChanges="160" label="2131165185">
+<activity name=".PageGroup" theme="16973830">
+<activity screenOrientation="1" name=".base.InitClient" theme="16973830">
+<activity name=".base.AppSelector">
+<activity name=".activity.dyn.DynNineGrid">
+<activity name=".activity.dyn.DynSearchList">
+<activity name=".activity.dyn.DynGallery">
+<activity name=".activity.dyn.DynPicText">
+<activity name=".activity.dyn.DynMp3" launchMode="2">
+<activity name=".activity.dyn.DynMp4">
+<activity name=".activity.dyn.DynArticleIntro">
+<activity name=".activity.dyn.DynMagazineIntro">
+<activity name=".activity.dyn.DynMagazineContent">
+<activity name=".activity.dyn.DynComment">
+<activity name=".activity.dyn.DynArticleRecommend">
+<activity name=".activity.dyn.DynGroupCatalog">
+<activity name=".activity.dyn.DynBookShelf">
+<activity name=".activity.dyn.DynMagazineCollection">
+<activity name=".activity.dyn.Mp4PlayerActivity" theme="16973830">
+<activity name=".activity.dyn.DynMagazineSearchList">
+<activity name=".activity.dyn.DynMessageSubmit">
+<activity name=".activity.dyn.DynMessageSubmitTwo" windowSoftInputMode="16">
+<activity name=".activity.dyn.DynMessageShow">
+<activity name=".activity.dyn.DynPicText2">
+<activity name=".activity.simpleheight.HMagazineDownload">
+<activity name=".activity.simpleheight.SimplePageCustomList">
+<activity name=".activity.simpleheight.SimplePageView360">
+<activity name=".activity.simpleheight.HPlayList">
+<activity name=".activity.simpleheight.HCollection">
+<activity name=".activity.simpleheight.HSelfDefine">
+<activity name=".activity.simplepage.SimplePageCross">
+<activity name=".activity.simplepage.SimplePageOption">
+<activity name=".activity.simplepage.SimplePagePic">
+<activity name=".activity.simplepage.SimplePageVideo">
+<activity name=".activity.simplepage.SimplePageList">
+<activity name=".activity.simplepage.SimplePageText">
+<activity name=".activity.simplepage.SimplePagePicText">
+<activity name=".activity.simplepage.SimplePagePicText2">
+<activity name=".activity.simplepage.SimplePagePicText3">
+<activity name=".activity.simplepage.SimplePagePicText4">
+<activity name=".activity.simplepage.SimplePageMap">
+<activity name=".activity.simplepage.SimplePagePicGallery">
+<activity name=".activity.simplepage.SimplePageWeb">
+<activity name=".activity.simplepage.SimplePageGrid">
+<activity name=".activity.simplepage.SimplePageGalleryList">
+<activity name=".activity.simplepage.SimplePageGroupList">
+<activity name=".activity.simplepage.SimplePagePicTextGroupList">
+<activity name=".activity.simplepage.SimplePagePicGallery2">
+<activity name=".activity.simplepage.SimplePageRichText">
+<activity name=".activity.simplepage.SimplePageList2">
+<activity name=".activity.simplepage.SimplePageAnimation">
+<activity name=".activity.simplepage.SimplePageView720">
+<activity name=".activity.simplepage.FavoritesListUI">
+<activity name=".activity.simplepage.SimplePageMore">
+<activity name=".activity.simplepage.SimplePageNew">
+<activity name=".activity.simplepage.SimplePagePicTextGallery2">
+<activity name=".activity.navigation.NavigationHistory">
+<activity name=".activity.navigation.NavigationTab2">
+<activity screenOrientation="1" name=".activity.weibo.QQShareAct">
+<activity screenOrientation="1" name=".activity.weibo.SinaShareAct">
+<activity screenOrientation="1" name=".activity.weibo.RenrenShareAct">
+<activity screenOrientation="1" name=".activity.weibo.ReleaseAct" theme="2131230724">
+<activity screenOrientation="1" name=".activity.weibo.ShareAct" theme="2131230724">
+<activity screenOrientation="1" name=".activity.weibo.FunctionsShare" theme="2131230724">
+<activity screenOrientation="1" name=".activity.weibo.OAuthV2AuthorizeWebView">
+<activity screenOrientation="1" name=".activity.weibo.MainWeiboAct">
+<activity screenOrientation="1" name=".weibo.renren.AuthorizationHelper$BlockActivity" theme="16973835">
+<activity name="com.nd.dianjin.activity.OfferAppActivity" configChanges="160" launchMode="1">
+<activity name="com.nd.dianjin.activity.DownloadManagerActivity" configChanges="160" launchMode="1">
+<activity name="com.nd.dianjin.activity.DetailActivity" theme="16973830" configChanges="160" launchMode="1">
+4
+<service name=".activity.service.DownLoadService">
+<service name=".activity.service.Mp3PlayService">
+<service name="com.nd.dianjin.service.PackageChangedService">
+<service name="com.nd.dianjin.appdownload.DownloadService">
+0
+0
+Owner: CN=合强创华, OU=合强创华, O=合强创华, L=深圳, ST=广东, C=086
+Issuer: CN=合强创华, OU=合强创华, O=合强创华, L=深圳, ST=广东, C=086
+Serial number: 4e9cef5b
+Valid from: Tue Oct 18 11:15:39 CST 2011 until: Sun Oct 11 11:15:39 CST 2037
+Certificate fingerprints: 
+	MD5:E1:AC:C5:E2:A0:BA:7E:B4:70:BD:14:F0:B1:06:BD:AA
+	SHA1: 1F:61:A4:B4:2A:9F:0F:ED:73:61:6B:74:02:B5:D2:C7:44:1A:CE:C6
+	SHA256: 88:87:65:E9:57:2D:C8:35:2F:51:8F:76:9D:28:7A:5E:9F:7F:5F:40:66:AA:DF:77:47:CA:CE:19:4C:9F:03:3B
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,34 @@
+com.AgentA
+1
+1.0
+7
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.VIBRATE
+android.permission.READ_CONTACTS
+9
+<activity screenOrientation="1" name=".LogoActivity" configChanges="160" label="2131034113">
+<activity screenOrientation="1" name=".SMSTest2" configChanges="160">
+<activity screenOrientation="1" name=".MainActivity" label="2131034113">
+<activity screenOrientation="1" name="cn.emagsoftware.gamebilling.activity.BillingActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.emagsoftware.gamebilling.activity.GameExitActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="cn.emagsoftware.gamebilling.activity.GameExitFinalActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="cn.emagsoftware.gamebilling.activity.GameOpenActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name=".BillingAlioth" configChanges="160" label="2131034113">
+<activity screenOrientation="1" name="cn.game189.sms.SMS" theme="16973835">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4ff2b617
+Valid from: Tue Jul 03 17:06:31 CST 2012 until: Thu Jun 26 17:06:31 CST 2042
+Certificate fingerprints: 
+	MD5:CE:20:D5:3F:2C:60:91:9E:8B:DB:DA:96:BD:F2:47:BE
+	SHA1: 61:49:D0:03:A0:32:A2:2B:3C:F3:F4:04:08:26:9D:4E:19:6E:1C:18
+	SHA256: 4C:98:76:06:C2:D2:D0:3A:31:2A:3F:36:EF:84:F7:C1:77:27:EA:84:29:C0:72:A4:5E:B4:0A:84:3B:98:6D:6C
+	Signature algorithm name: SHA1withRSA
+	version: 3

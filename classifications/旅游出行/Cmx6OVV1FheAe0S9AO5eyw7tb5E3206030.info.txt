@@ -1,0 +1,37 @@
+com.findsomething
+3
+1.1
+8
+14
+11
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+6
+<activity screenOrientation="0" name=".findsomething" theme="16973831" configChanges="128" label="2131099719">
+<activity name="com.tencent.weibo.webview.OAuthV2AuthorizeWebView" label="2131099719">
+<activity name="com.openfeint.internal.ui.IntroFlow" theme="16973830" configChanges="160" label="IntroFlow">
+<activity name="com.openfeint.api.ui.Dashboard" theme="16973830" configChanges="160" label="Dashboard">
+<activity name="com.openfeint.internal.ui.Settings" theme="16973830" configChanges="160" label="Settings">
+<activity name="com.openfeint.internal.ui.NativeBrowser" theme="16973830" configChanges="160" label="NativeBrowser">
+0
+0
+0
+Owner: CN=3755296, SERIALNUMBER=20121024174742107, C=CN
+Issuer: CN=CMCA application signing CA, C=CN
+Serial number: 324be43
+Valid from: Wed Oct 24 17:48:16 CST 2012 until: Sun Oct 24 17:48:16 CST 2032
+Certificate fingerprints: 
+	MD5:4C:C6:54:2A:B1:E3:35:23:E3:01:82:48:33:5C:78:2F
+	SHA1: D7:F3:D1:18:0B:FF:2E:E8:FC:5E:04:0C:37:E2:D5:2F:ED:EA:AB:76
+	SHA256: FE:3B:EA:1B:04:4F:E7:9D:B2:F2:37:E3:A1:45:03:F9:CD:A5:63:D2:FD:02:C2:B0:04:07:69:63:07:DA:FA:ED
+	Signature algorithm name: SHA1withRSA
+	version: 3

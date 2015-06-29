@@ -1,0 +1,114 @@
+com.kascend.video
+111
+5.1.12.15526
+5
+-1
+23
+com.kascend.video.permission.MIPUSH_RECEIVE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+57
+<activity screenOrientation="1" hardwareAccelerated="true" name=".VideoBox" theme="16973830" configChanges="228" label="2131492864" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_Online" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_WebView" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_H5" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_History" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_ShotAlbumVideo" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_PersonalMSG" theme="16973830" configChanges="228" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".ui.Activity_UserInfoDynamic" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_UserInformation" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_KKTV" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_NewProfile" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_Favorite" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_FavoriteDetail" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_SubcribeChannel" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_Message" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_DynamicDetail" theme="16973830" configChanges="228" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_LocalVideo" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_InBox" theme="16973830" configChanges="228" launchMode="0">
+<activity screenOrientation="1" name=".ui.Activity_ShareShot" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_FriendDynamic" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_NewSearch" theme="16973830" configChanges="228" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_Setting" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_Copyright" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_Scan" theme="2131558402" configChanges="228" label="2131493087">
+<activity screenOrientation="1" name=".ui.Activity_OnlineAlbum" theme="16973830" configChanges="228" windowSoftInputMode="16" launchMode="1">
+<activity name=".wxapi.WXEntryActivity" theme="16973835" configChanges="228" exported="true" label="2131492864">
+<activity screenOrientation="1" name=".ui.Activity_Pay" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_Friend" theme="16973830" configChanges="228">
+<activity name=".ui.Activity_MatchNotify" theme="16973835" configChanges="228">
+<activity name=".widget.KasGlobalDialog" theme="16973835" configChanges="228">
+<activity screenOrientation="1" name=".ui.Activity_ModifyMyInfo" theme="16973830" configChanges="228" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_NewOnlineSummary" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_SubjectSummary" theme="16973830" configChanges="228" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_HotTimeline" theme="16973830" configChanges="164" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_CaptureSelect" theme="16973830" configChanges="164" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_KasChannel" theme="16973830" configChanges="164" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_NewAllChannel" theme="16973830" configChanges="164" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_OnlineVideoDetail" theme="16973830" configChanges="228" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_OnlineVideoSummery" theme="16973830" configChanges="228" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".crop.CropActivity" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name="com.kascend.video.ui.capture.ActivityAlbum" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name="com.kascend.video.ui.capture.ActivityMakeGif" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name="com.kascend.video.ui.capture.ActivityShowGif" theme="16973830" configChanges="228">
+<activity screenOrientation="0" name="com.kascend.video.ui.capture.ActivityCaptureShow" theme="16973830" configChanges="228">
+<activity hardwareAccelerated="true" name=".player.VideoPlayer" theme="16973830" configChanges="1252" label="2131492864" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="0" name=".player.VideoPlayer_basic" theme="16973830" configChanges="228" label="2131492864" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".ui.Activity_About" theme="16973830" configChanges="228" label="2131492972">
+<activity screenOrientation="1" name="com.kascend.video.ui.showgirl.Activity_ShowGirl" theme="16973830" configChanges="228">
+<activity screenOrientation="1" name="com.kascend.video.ui.showgirl.Activity_SG_Follow" theme="16973830" configChanges="228">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name=".ui.Activity_UserLogin" theme="16973830" configChanges="228" label="2131492864" windowSoftInputMode="32" launchMode="1">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name=".ui.Activity_UserRegister" theme="16973830" configChanges="228" windowSoftInputMode="32">
+<activity name="com.tencent.tauth.TAuthView" configChanges="228" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.qq.e.ads.AdActivity">
+<activity name="com.qq.e.ads.GdtBrowserActivity">
+<activity name="com.sohu.tv.news.ads.sdk.core.PadDetailsActivity">
+8
+<service name=".download.DownloadService">
+<service name=".webdownload.WebDownloadService">
+<service name=".usermanager.KasAccountsService">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+<service name="com.sohuvideo.player.statistic.LogService" exported="false" label="CoreService">
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+4
+<receiver name=".webdownload.WebDownloadReciever">
+<receiver name="com.kascend.video.msgpush.MyMiMessageReceiver" exported="true">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+2
+<provider authorities="com.kascend.video.SuggestionProvider" name=".SearchSuggestionSampleProvider">
+<provider authorities="videocache" name=".download.DownloadProvider">
+Owner: CN=kascend, OU=www.kascend.com, O=www.kascend.com, L=hangzhou, ST=zhejiang, C=86
+Issuer: CN=kascend, OU=www.kascend.com, O=www.kascend.com, L=hangzhou, ST=zhejiang, C=86
+Serial number: 4df2017d
+Valid from: Fri Jun 10 19:35:25 CST 2011 until: Sun Dec 15 19:35:25 CST 2120
+Certificate fingerprints: 
+	MD5:25:E9:3C:62:00:1E:E3:14:A3:59:2C:A0:D6:7A:F6:8D
+	SHA1: 16:07:6D:B6:A8:81:59:17:C7:08:F8:58:56:92:47:40:F0:D2:69:82
+	SHA256: BF:34:72:0C:68:4C:49:86:88:5A:EF:B6:86:30:0F:5F:E6:C2:EB:8F:F9:D0:97:4D:CF:D4:74:0D:2D:02:04:EF
+	Signature algorithm name: SHA1withRSA
+	version: 3

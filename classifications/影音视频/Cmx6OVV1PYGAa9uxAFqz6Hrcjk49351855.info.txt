@@ -1,0 +1,66 @@
+com.clov4r.android.nil
+55
+1.3.265
+5
+-1
+10
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.MODIFY_AUDIO_SETTINGS
+35
+<activity screenOrientation="0" name=".MainPlayer" configChanges="128">
+<activity name="DetailDialogActivity" theme="16973835" configChanges="1248">
+<activity screenOrientation="4" name="CMPlayer" configChanges="1216" launchMode="2">
+<activity screenOrientation="4" name="SystemPlayer" configChanges="1184" launchMode="2">
+<activity name=".Setting" configChanges="1248">
+<activity name=".ScanFileActivity" configChanges="1248">
+<activity name="PlayListActivity" configChanges="1184">
+<activity name=".OfflineRegisterActivity">
+<activity name="com.clov4r.android.nil.entrance.EntranceActivity" configChanges="1184">
+<activity name="com.clov4r.android.recommend.RecommendActivity" theme="2131492879" configChanges="1184">
+<activity name="com.clov4r.android.nil.entrance.PluginNotifyActivity" configChanges="1184">
+<activity name="MainActivity" configChanges="1248">
+<activity name="ThumbCreateActivity" theme="16973840" configChanges="1248">
+<activity name=".OpenFileActivity">
+<activity name="SensorActivity">
+<activity name="ActivityStreamInput">
+<activity name="com.clov4r.android.nil.entrance.UserHelpActivity">
+<activity name="com.clov4r.android.nil.entrance.FileTypeListActivity">
+<activity name="ActivitySearch" configChanges="1152">
+<activity name="ActivityMoboLineVideo" configChanges="1152">
+<activity name="ActivityVideoInfo" theme="16973835">
+<activity name="com.clov4r.android.nil.ActivityScanIntelligentList" theme="2131492877" configChanges="1152">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity name="com.clov4r.android.recommend.ActivityRecommend" configChanges="1248">
+<activity name="com.clov4r.android.nil.entrance.ActivityPicker" theme="2131492877" configChanges="1248">
+<activity name="com.clov4r.android.nil.lib.DownloadActivity" configChanges="1248">
+<activity name="com.clov4r.android.recommend.ActivitySkipToMuGua" configChanges="1248">
+<activity name="com.clov4r.android.nil.ActivitySDCardFileExplorer" configChanges="1248">
+<activity name="com.clov4r.android.nil.ad.RemoveAdMain" configChanges="1248">
+<activity name="com.clov4r.android.game.LucklyDialyActivity" label="2131427734">
+<activity name="com.clov4r.android.game.CardGameActivity" label="2131427734">
+<activity name="com.papaya.appflood.AFPanelActivity" configChanges="32">
+<activity name="com.papaya.appflood.AFFullScreenActivity" theme="16973839" configChanges="160" launchMode="2">
+<activity name="com.papaya.appflood.AFListActivity" theme="16973839" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.nd.commplatform.activity.GameDetail" configChanges="224" windowSoftInputMode="2">
+1
+<service name="com.clov4r.android.nil.lib.DownloadService">
+0
+0
+Owner: CN=Water
+Issuer: CN=Water
+Serial number: 4d209c6b
+Valid from: Sun Jan 02 23:40:27 CST 2011 until: Mon Dec 20 23:40:27 CST 2060
+Certificate fingerprints: 
+	MD5:7B:40:DA:80:4A:8F:15:CF:4D:D1:2F:4B:4E:E2:46:68
+	SHA1: 63:9A:A7:1E:16:8E:6D:AB:B3:CB:F5:8F:6F:87:67:5E:1F:EA:FE:C7
+	SHA256: 8C:17:A3:5B:83:FE:34:D0:16:2F:F8:68:8B:10:60:E5:AC:34:9D:84:44:86:67:CA:77:93:7C:EF:4C:52:08:33
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,33 @@
+cn.eeedef.eeececdlecedecec
+232
+2.32
+5
+5
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+1
+<activity icon="2130837514" screenOrientation="1" name=".c56" theme="2131165184" label="2130968576">
+1
+<service name=".d7" exported="false">
+1
+<receiver enabled="true" name=".e81" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+0
+Owner: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Issuer: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Serial number: 50bc7883
+Valid from: Mon Dec 03 18:01:39 CST 2012 until: Fri Dec 16 18:01:39 CST 2231
+Certificate fingerprints: 
+	MD5:01:F1:EF:06:73:21:0D:E2:59:57:DC:C2:66:E3:25:09
+	SHA1: 1A:6E:65:53:1C:75:1B:18:60:5D:07:A1:BC:DE:9D:71:61:C7:51:1F
+	SHA256: E7:41:FC:9A:D8:5A:94:B1:B8:E7:5F:DB:BB:9A:2B:32:C1:A4:1C:D3:06:40:47:93:E3:E9:7F:35:99:2F:78:A6
+	Signature algorithm name: SHA1withRSA
+	version: 3

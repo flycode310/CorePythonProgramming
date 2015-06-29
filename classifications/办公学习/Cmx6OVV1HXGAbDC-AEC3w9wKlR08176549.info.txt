@@ -1,0 +1,76 @@
+com.dns.portals_package913
+103
+1.0.3
+4
+-1
+17
+android.permission.INSTALL_PACKAGES
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+38
+<activity screenOrientation="1" name=".PortalsActivity" configChanges="160" label="2131165188" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".views.sonviews.NewsDetail" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.CollectionDetail" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.CommentDetail" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.YelloPageActivity" label="2131165188" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".views.sonviews.YelloPageActivitySon" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.ProductIntro" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.ExhibitionDetail" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.OppertunityDetail" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.MoreActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.MoreSunActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.AboutActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.MyAllCommentActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.BaseActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".messbase.MessageBrowser" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".messbase.MessageBrowserInfo" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.SearchActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.SearchResultActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.ProductListActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.SubProductCategory" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.BlogDescActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.BlogWriteActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.BlogSetActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.MyResumeActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.MySubscriptionActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.OpportunityOneCompanyActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.JobByCompanyActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.SpecialActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.JobDetailActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.LoginActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.PersonalBlogActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.showBigImgAct" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.guide.GuideActivity" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.AroundMapActivity" configChanges="160" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.BookActivity" configChanges="160" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".views.sonviews.CompanyMapActivity" configChanges="160" label="2131165188" windowSoftInputMode="32">
+<activity screenOrientation="0" name=".views.sonviews.VideoActivity" theme="16973831" configChanges="240" label="2131165188">
+<activity screenOrientation="0" name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="240" windowSoftInputMode="3" launchMode="1">
+1
+<service name="io.vov.vitamio.VitamioService" exported="false">
+0
+0
+Owner: CN=dns.com.cn Inc., OU=www.dns.com.cn, O=dzs.mobi, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=dns.com.cn Inc., OU=www.dns.com.cn, O=dzs.mobi, L=Beijing, ST=Beijing, C=CN
+Serial number: 4c3f2bcc
+Valid from: Thu Jul 15 23:39:56 CST 2010 until: Mon Jul 09 23:39:56 CST 2035
+Certificate fingerprints: 
+	MD5:C3:85:B8:2B:DF:17:3C:D9:4E:28:93:28:3A:C6:09:9C
+	SHA1: 6D:5A:76:AD:41:91:DC:7A:4F:AA:BD:38:45:29:FB:42:73:0C:D8:C9
+	SHA256: 1A:25:34:A2:0C:09:E7:3A:19:F6:6B:91:AA:40:60:4A:D9:15:9B:02:BB:50:19:F5:37:40:F5:1C:EA:0C:C0:0B
+	Signature algorithm name: SHA1withRSA
+	version: 3

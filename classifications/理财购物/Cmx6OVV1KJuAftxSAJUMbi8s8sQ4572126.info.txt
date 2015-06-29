@@ -1,0 +1,70 @@
+com.novem.firstfinancial
+1
+1.0.0
+15
+19
+13
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+37
+<activity screenOrientation="1" name="com.novem.firstfinancial.LoadingActivity" theme="16973830" label="2131099665" launchMode="1">
+<activity screenOrientation="1" name="com.novem.firstfinancial.FirstFinancialMainActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.GuideActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.basic.SlideBasicActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.FindPwoneActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.FindPwtwoActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.RegisterActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.RegistertwoActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.HelpActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.ContactUsActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.FeedbackActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.InsuranceActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.InvestActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.InvestDetailActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.MyLiCaiActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.MyBalanceActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.TransactionRecordActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.ZDToubiaoActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.HongBaoActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.RechargeActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.TiXianActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.AccountInfoActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.RealNameActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.ChangePwdActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.MainActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.RenzhengWebView" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.LoginActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.WebViewActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.RechargeWebView" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.TixianWebView" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.TouziWebView" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.TESTWebViewActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.HuikuanActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.GetMessageActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.MessageActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.PDFWebViewActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.novem.firstfinancial.activity.PDFViewActivity" theme="16973830" launchMode="2">
+0
+0
+0
+Owner: OU=Novem, L=Hangzhou
+Issuer: OU=Novem, L=Hangzhou
+Serial number: 46912d49
+Valid from: Tue Jan 28 22:42:34 CST 2081 until: Thu Jan 04 22:42:34 CST 2181
+Certificate fingerprints: 
+	MD5:1F:91:3C:70:0C:A8:D0:7E:CF:B7:D9:8D:FA:23:D6:D1
+	SHA1: 4A:0B:B7:B7:42:5E:21:18:A6:D5:C5:46:D0:6F:0E:9E:18:A4:28:A7
+	SHA256: AC:01:B6:8A:5E:24:5A:80:40:DF:4F:4C:EC:07:1F:8F:C4:55:CB:EB:7A:D8:F8:8C:DB:B2:0B:0D:F7:31:1A:06
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,46 @@
+com.scliang.bqcalendar
+3130
+3.1.3
+17
+22
+7
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+11
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.scliang.bqcalendar.SrlLargeAppwidgetHandlerActivity" theme="16973840" label="">
+<activity name="com.scliang.remind.AppWidgetNewNoteActivity" theme="16973840">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.scliang.bqcalendar.MainActivity" label="2131296281" launchMode="2">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.DayRemindsActivity" label="2131296312">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.AllRemindsActivity" label="2131296312">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.SettingActivity" label="2131296373">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.GuideActivity" label="2131296302">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.FeedbackActivity" label="2131296298" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.SelectDateActivity" theme="2131361799" label="">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.CustomCardHeadImageActivity" label="2131296288">
+3
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.scliang.bqcalendar.SrlLargeAppwidgetService" exported="false" permission="android.permission.BIND_REMOTEVIEWS" label="2131296313">
+<service name="com.scliang.bqcalendar.SrlAppwidgetService" exported="false" label="2131296282">
+5
+<receiver name="com.scliang.bqcalendar.SrlMicroAppwidgetReceiver">
+<receiver name="com.scliang.bqcalendar.SrlMiniAppwidgetReceiver">
+<receiver name="com.scliang.bqcalendar.SrlLargeAppwidgetReceiver">
+<receiver name="com.scliang.bqcalendar.SrlClockAppwidgetReceiver">
+<receiver name="com.scliang.remind.RemindReceiver" exported="false">
+0
+Owner: CN=ShangChuanliang, O=com.scliang
+Issuer: CN=ShangChuanliang, O=com.scliang
+Serial number: 532cfad9
+Valid from: Sat Mar 22 10:52:09 CST 2014 until: Wed Mar 01 10:52:09 CST 2102
+Certificate fingerprints: 
+	MD5:D2:1B:BF:67:25:8D:08:9A:16:0F:15:56:1A:F2:AC:B5
+	SHA1: 86:71:0D:F3:F3:0A:22:14:BA:5E:D0:A2:CF:B8:C7:48:89:7E:1B:6D
+	SHA256: A7:A1:8F:75:8B:D6:5B:1F:7A:A4:83:FB:C7:12:E2:25:33:03:17:AD:C4:AA:0D:47:AA:4E:8D:15:1B:06:0D:54
+	Signature algorithm name: SHA1withRSA
+	version: 3

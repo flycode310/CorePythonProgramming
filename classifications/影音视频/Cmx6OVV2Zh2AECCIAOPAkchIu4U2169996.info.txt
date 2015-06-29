@@ -1,0 +1,205 @@
+com.storm.smart
+5202
+5.2.02
+8
+18
+31
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.storm.smart.permission.MIPUSH_RECEIVE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SYNC_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.BLUETOOTH_ADMIN
+getui.permission.GetuiService.com.storm.smart
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+96
+<activity screenOrientation="1" name="com.storm.smart.LogoActivity" theme="2131361900" label="2131296313" windowSoftInputMode="32" stateNotNeeded="true">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity screenOrientation="1" name="com.storm.smart.activity.GuideActivity" theme="16973830">
+<activity screenOrientation="1" name="com.storm.smart.activity.MainActivity" theme="16973830" configChanges="1184" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.WXWebDetailActivity" theme="16973830" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.activity.ProtocolMainActivity" theme="16973830" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.ProtocolHelpActivity" theme="16973830" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.activity.LiveActivity" theme="16973830" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.ad.AdWebViewActivity" theme="16973830" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.activity.TodayHeadlineWebViewActivity" theme="16973830" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.activity.TransferMainActivity" theme="16973830" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.TransferManagerActivity" theme="16973830" configChanges="1184" launchMode="2">
+<activity name=".activity.PlayEndActivity" theme="16973834" configChanges="1184">
+<activity screenOrientation="0" name=".activity.VideoPlayerActivity" theme="16973834" configChanges="1184">
+<activity name="com.storm.smart.activity.AudioPlayerActivity" theme="16973833" configChanges="1184" exported="true" launchMode="2">
+<activity name="com.storm.smart.activity.ConfigActivity" theme="16973830" configChanges="1184" label="2131296313" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.GalanceActivity" theme="16973830" configChanges="1184" label="2131296313" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.UserTypeResultActivity" theme="16973830" configChanges="1184" label="2131296313">
+<activity name="com.storm.smart.activity.UserSystemActivity" theme="16973830" configChanges="1184" label="2131296313">
+<activity name="com.storm.smart.activity.UserAuthorizeActivity" theme="16973830" configChanges="1184" label="2131296313">
+<activity name="com.storm.smart.activity.AboutActivity" theme="16973833" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.PrivateVideoLoginActivity" theme="16973833" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.PrivateVideoModifyPwdActivity" theme="16973833" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.PrivateVideoSetQuestionActivity" theme="16973833" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.PrivateVideoPwdCreateActivity" theme="16973833" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.PrivateVideoPwdAnswerActivity" theme="16973833" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.PrivateVideoResetPwdActivity" theme="16973833" configChanges="1184" launchMode="2">
+<activity name="com.storm.smart.activity.CooperateActivity" theme="16973833" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.activity.SearchResultActivity" theme="16973837" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.storm.smart.activity.CodecActivity" theme="16973833" configChanges="1184">
+<activity screenOrientation="1" name="com.umeng.fb.ui.SendFeedback" configChanges="1184" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity screenOrientation="1" name="com.storm.smart.weibo.sina.ShareSinaActivity" theme="16973830" configChanges="1184" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.storm.smart.weibo.tenc.ShareTencentActivity" theme="16973830" configChanges="1184" windowSoftInputMode="2">
+<activity name="com.storm.smart.activity.DirectorysActivity" theme="16973830" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.storm.smart.activity.WeiboActivity" theme="16973830" configChanges="160">
+<activity name="com.storm.smart.activity.TopicActivity" theme="16973830" configChanges="1184">
+<activity name="com.storm.smart.activity.WorldCupTopicActivity" theme="16973830" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.activity.BarrageTopicActivity" theme="16973830" configChanges="1184">
+<activity name="com.storm.smart.activity.WebNormalActivity" theme="16973830" configChanges="1184">
+<activity name="com.storm.smart.activity.WebNormalFilterActivity" theme="16973830" configChanges="1184">
+<activity screenOrientation="1" name=".activity.SecondHomeMoreDetailActivity" theme="16973830" configChanges="1184">
+<activity hardwareAccelerated="true" name="com.storm.smart.activity.DetailsBrowserActivity" theme="16973834" configChanges="1184">
+<activity name="com.storm.smart.activity.ScanConfigActivity" theme="16973830" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.weibo.webview.OAuthV2AuthorizeWebView" label="2131296313">
+<activity screenOrientation="1" name="com.storm.smart.activity.ShortcutBootActivity" theme="16973830" label="2131296313" windowSoftInputMode="32" stateNotNeeded="true">
+<activity name="com.storm.smart.activity.DetailsActivity" theme="16973837" configChanges="1184" launchMode="2">
+<activity name="com.storm.smart.activity.LocalActivity" theme="16973840" configChanges="1184" windowSoftInputMode="32" launchMode="2">
+<activity name="com.storm.smart.activity.TransferInviteActivity" theme="16973830" configChanges="1184">
+<activity name="com.storm.smart.activity.ShowShowActivity" theme="16973840" configChanges="1184">
+<activity name="com.storm.smart.activity.LeftEyeActivity" theme="16973830" configChanges="1184">
+<activity name="com.storm.smart.activity.LeftEyeSettingActivity" theme="16973840" configChanges="1184">
+<activity name=".activity.TopicListActivity" theme="16973840" configChanges="1184">
+<activity name=".activity.ChoiceTopicActivity" theme="16973840" configChanges="1184">
+<activity name=".activity.ThriftConfigActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.activity.TransferFirstPageActivity" theme="16973830" configChanges="1184">
+<activity name="com.storm.smart.activity.TransferConnectPageActivity" theme="16973830" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.activity.TransferFailPageActivity" theme="16973830" configChanges="1184">
+<activity name="com.storm.smart.activity.PrivateCollectionActivity" theme="16973830" configChanges="1184">
+<activity name=".activity.PrivateModeConfigActivity" theme="16973840" configChanges="1184" launchMode="2">
+<activity name=".activity.SelectAlbumDownActivity" theme="16973830" configChanges="1184">
+<activity name=".activity.AppWidgetConfigActivity" theme="16973840" configChanges="160" launchMode="2">
+<activity name=".activity.UgcHomePageActivity" theme="16973840" configChanges="160" launchMode="2">
+<activity name=".activity.UgcContentListActivity" theme="16973840" configChanges="160" launchMode="2">
+<activity name=".activity.TenMinutesActivity" theme="16973840" configChanges="160" launchMode="2">
+<activity name=".activity.CinemaActivity" theme="16973840" configChanges="1184" launchMode="2">
+<activity name=".activity.FollowSeriesActivity" theme="16973840" configChanges="1184" launchMode="2">
+<activity name="com.storm.smart.activity.UgcAddItemActivity" theme="16973840" configChanges="1184" launchMode="2">
+<activity name="com.storm.smart.activity.ProductCooperateSongListActivity" theme="16973840" configChanges="1184" launchMode="2">
+<activity name="com.storm.smart.activity.PrivateAddInActivity" theme="16973840" configChanges="1184" launchMode="2">
+<activity screenOrientation="4" name="com.storm.smart.activity.SmallSiteActivity" theme="16973840" configChanges="1184" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name=".activity.GameCenterActivity" theme="16973830" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name=".activity.MojingBuyActivity" theme="16973830" configChanges="1184">
+<activity screenOrientation="1" name=".activity.BaofengUserLoginActivity" theme="16973830" configChanges="1184">
+<activity name=".activity.PiratedAppTipsActivity" theme="16973840" configChanges="160" launchMode="2">
+<activity screenOrientation="0" name=".tv.activity.DlnaControlActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.bfgame.app.activity.MainActivity" theme="16973830" label="2131296313">
+<activity screenOrientation="1" name="com.bfgame.app.activity.SearchActivity" theme="16973830" windowSoftInputMode="33" launchMode="2">
+<activity screenOrientation="1" name="com.bfgame.app.activity.CategoryActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.bfgame.app.activity.GameDetailActivity" theme="16973830">
+<activity screenOrientation="1" name="com.bfgame.app.activity.GalleryActivity">
+<activity screenOrientation="1" name="com.bfgame.app.activity.GameStrategyActivity">
+<activity screenOrientation="1" name="com.bfgame.app.activity.GameGiftActivity" theme="16973830">
+<activity screenOrientation="1" name="com.storm.smart.qrcode.CaptureActivity" theme="16973837" label="2131296313">
+<activity screenOrientation="1" name="com.storm.smart.qrcode.CreateQRCodeActivity" theme="16973830">
+<activity name="com.storm.smart.qrcode.ResultActivity">
+<activity name="com.storm.smart.qrcode.CreateTurnScreenQRCodeActivity" theme="2131361802">
+<activity name="com.storm.smart.qrcode.ResultQRCodeActivity" theme="16973837">
+<activity screenOrientation="1" name="com.taobao.newxp.view.UMDetail" configChanges="144" launchMode="0">
+<activity screenOrientation="1" name="com.storm.smart.qrcode.DemoActivity" theme="16973830" configChanges="1184">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity screenOrientation="1" name="com.storm.smart.voice.activities.VoiceSearchActivity" theme="16973833" configChanges="1184">
+<activity screenOrientation="1" name="com.storm.smart.voice.activities.FlyingCatActivity" theme="16973840" configChanges="1184">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+<activity screenOrientation="1" name="com.storm.smart.dlna.activity.DlnaControllerActivity" theme="16973833" configChanges="1184" launchMode="2">
+27
+<service name="com.storm.smart.service.AdDownloadService">
+<service name="com.storm.smart.service.AudioPlayerService">
+<service name="com.storm.smart.service.WriteIniService">
+<service process=":DownloadingService" name="com.umeng.common.ufp.net.DownloadingService" exported="true">
+<service name="com.storm.smart.service.PushMessageService" exported="true">
+<service name="com.storm.smart.service.WifiDownLoadService" exported="false">
+<service enabled="true" name="com.mediav.ads.sdk.service.MvService" exported="false">
+<service name="com.storm.smart.service.WidgetDataRequestService">
+<service process=":daemon" name="com.storm.smart.service.DaemonService">
+<service name=".tv.dlna.upnp.DlnaUpnpService">
+<service name=".tv.dlna.httpserver.WebService">
+<service process="com.storm.smart.thumbnail.service" name="com.storm.smart.service.ThumbnailService">
+<service process="com.storm.smart.omxautotest.service" name="com.storm.smart.service.OmxAutoTestService">
+<service process="com.storm.smart.dl.service" name="com.storm.smart.dl.manager.DownloadManager" exported="true">
+<service name=".floatwindow.FloatService">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.storm.smart.service.UmengPushMessageService4BF">
+<service name="com.umeng.message.UmengDownloadResourceService">
+<service name="com.bfgame.app.service.UploadService" exported="true">
+<service name="com.taobao.munion.base.download.DownloadingService">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service name="com.storm.smart.service.DownloadPushMessageService" exported="false">
+<service process="com.storm.smart.dlna.service" name="com.storm.smart.dlna.service.DlnaControllerService">
+27
+<receiver name="com.storm.smart.receiver.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver name="com.storm.smart.receiver.PackageReceiver">
+<receiver name="com.storm.smart.receiver.NetStatusReceiver">
+<receiver name="com.storm.smart.receiver.SDCardMountReceiver">
+<receiver name="com.storm.smart.dl.receiver.DownloadTipsReceiver">
+<receiver name="com.storm.smart.receiver.GetPushMessageBroadcastReceiver" exported="false">
+<receiver name="com.storm.smart.receiver.BootBroadcastReceiver" exported="false">
+<receiver name="com.storm.smart.receiver.MediaButtonIntentReceiver">
+<receiver name="com.storm.smart.receiver.WriteIniReceiver">
+<receiver name="com.storm.smart.receiver.DownloadCompleteReceiver">
+<receiver name=".receiver.LibSoInstallReceiver">
+<receiver name="com.storm.smart.appwidget.StormWidgetProvider" label="2131297177">
+<receiver name="com.storm.smart.receiver.WidgetDataRequestReceiver">
+<receiver process="com.storm.smart.dl.service" name="com.storm.smart.dl.receiver.NetworkChangeReceiver">
+<receiver name="com.storm.smart.dl.receiver.SdcardChangeReceiver">
+<receiver name="com.storm.smart.dl.receiver.StatisticReceiver">
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+<receiver name="com.storm.smart.receiver.GetuiReceiver" exported="false">
+<receiver name="com.storm.smart.receiver.GetuiForADReceiver" exported="false">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver name="com.storm.smart.receiver.DownloadPushMessageReceiver" exported="false">
+<receiver name="com.storm.smart.receiver.NotificationCancelReceiver" exported="false">
+4
+<provider authorities="com.storm.providers.stormNetworkFlowProvider" name="com.storm.smart.netflow.FlowProvider">
+<provider authorities="com.storm.smart.provider.localvideo" multiprocess="true" name="com.storm.smart.scan.db.LocalVideoProvider">
+<provider authorities="com.storm.smart.download.provider" multiprocess="true" name="com.storm.smart.dl.db.DownloadProvider">
+<provider process=":pushservice" authorities="downloads.com.storm.smart" name="com.igexin.download.DownloadProvider">
+Owner: CN=Storm, OU=Strom, O=P2P, L=BJ, ST=BJ, C=CN
+Issuer: CN=Storm, OU=Strom, O=P2P, L=BJ, ST=BJ, C=CN
+Serial number: 4d410a65
+Valid from: Thu Jan 27 14:02:13 CST 2011 until: Fri Oct 30 14:02:13 CST 2065
+Certificate fingerprints: 
+	MD5:C3:88:A3:50:D1:57:8D:5D:BB:F6:0F:09:6B:32:60:03
+	SHA1: 1A:59:67:B2:EB:A2:90:05:03:7B:4B:E3:B6:89:0E:49:36:CA:A2:4A
+	SHA256: 92:A2:04:D9:40:65:87:0E:01:88:C6:2E:D4:41:06:E1:8F:C6:1C:97:FA:A3:7C:DD:F7:B5:F9:5A:E6:61:32:F7
+	Signature algorithm name: SHA1withRSA
+	version: 3

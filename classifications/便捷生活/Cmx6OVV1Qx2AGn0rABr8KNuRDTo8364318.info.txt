@@ -1,0 +1,39 @@
+com.icheckin.aphone
+1
+1.0
+14
+14
+5
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+13
+<activity name=".FirstActivity" theme="16973830">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.main.MainTabActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.user.UserLoginActivity" theme="2131296264" configChanges="160" exported="false" label="2131165264" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.user.UserSignupActivity" theme="2131296264" configChanges="160" exported="false" label="2131165263" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.plan.PlanEditActivity" theme="2131296264" configChanges="160" exported="false" label="2131165273" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.plan.PlanDetailActivity" theme="2131296264" configChanges="160" exported="false" label="2131165280">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.plan.CheckInRecordActivity" theme="2131296264" configChanges="160" exported="false" label="2131165283">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.plan.CheckInActivity" theme="2131296264" configChanges="160" exported="false" label="2131165284">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.notes.NoteEditActivity" theme="2131296264" configChanges="160" exported="false" label="2131165287" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.my.SettingsActivity" theme="2131296264" configChanges="160" exported="false" label="2131165291">
+<activity screenOrientation="1" name="com.icheckin.aphone.ui.my.AboutActivity" theme="2131296264" configChanges="160" exported="false" label="2131165296">
+<activity screenOrientation="1" name="com.umeng.fb.ConversationActivity" theme="16973836" configChanges="160">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+1
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+0
+0
+Owner: CN=richmyfm
+Issuer: CN=richmyfm
+Serial number: 61989b26
+Valid from: Tue Jul 16 14:31:38 CST 2013 until: Thu Jun 22 14:31:38 CST 2113
+Certificate fingerprints: 
+	MD5:FB:38:82:64:D0:0C:66:E4:17:8E:FF:42:25:51:AA:08
+	SHA1: D8:70:15:27:41:18:5B:B5:58:56:EC:F1:97:41:5B:21:76:8A:C7:BF
+	SHA256: 6F:43:81:E2:1B:70:BF:32:0B:A3:A2:0D:46:CB:F2:EB:A0:18:A7:DD:51:E2:3D:E2:6C:7B:8F:43:99:2F:AF:8E
+	Signature algorithm name: SHA256withRSA
+	version: 3

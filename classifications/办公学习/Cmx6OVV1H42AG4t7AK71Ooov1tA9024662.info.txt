@@ -1,0 +1,134 @@
+com.taobao.reader
+71
+5.0.0
+8
+16
+31
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.BROADCAST_PACKAGE_CHANGED
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+com.taobao.permission.USE_CREDENTIALS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.taobao.permission.UPDATE_CREDENTIALS
+android.permission.USE_CREDENTIALS
+android.permission.BROADCAST_PACKAGE_INSTALL
+android.permission.BROADCAST_PACKAGE_REPLACED
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+com.google.android.c2dm.permission.RECEIVE
+com.taobao.taobao.permission.C2D_MESSAGE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.BROADCAST_PACKAGE_ADDED
+android.permission.VIBRATE
+com.taobao.statistic.permission.DEVICE_STATE
+android.permission.CHANGE_NETWORK_STATE
+62
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.reader.ui.activity.ReadBookActivity" theme="16973831" configChanges="1184" label="2131361792" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.reader.ui.activity.MagazineActivity" theme="16973831" configChanges="1184" label="2131361792" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.reader.ui.activity.MookMenuActivity" theme="16973831" configChanges="160" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.SplashActivity" theme="2131427380" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.SchemeStartActivity" theme="16973830" configChanges="160" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.bookshelf.activity.BookShelfActivity" theme="16973830" configChanges="160" label="2131361972" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.bookshelf.activity.SearchBookActivity" theme="16973830" configChanges="160" windowSoftInputMode="36" launchMode="0">
+<activity screenOrientation="1" name="com.taobao.reader.ui.bookshelf.activity.BookShelfSelectCategoryActivity" theme="16973830" configChanges="160" label="2131362416" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.taobao.reader.purchase.ui.PurchaseActivity" theme="2131427371" configChanges="160" label="2131362627" launchMode="1">
+<activity screenOrientation="1" name="com.taobao.reader.ui.mall.activity.FirstWebBrowserActivity" theme="16973830" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.taobao.reader.ui.mall.activity.SecondWebBrowserActivity" theme="16973830" configChanges="160" label="2131361973" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.FeedBackActivity" theme="16973830" label="2131362533" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.UserAssignmentActivity" theme="16973830" configChanges="160" label="2131362663" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.UserMessageActivity" theme="16973830" configChanges="160" label="2131362717" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.LocalBookScanActivity" theme="16973830" configChanges="160" label="2131362547">
+<activity screenOrientation="1" name="com.taobao.reader.ui.activity.WifiExplorerActivity" theme="16973830" configChanges="160" label="2131361862">
+<activity screenOrientation="1" name="com.taobao.reader.login.activity.LoginActivity" theme="16973830" configChanges="160" label="2131361827" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.taobao.reader.reader.ui.activity.SettingActivity" theme="16973830" configChanges="1184" label="2131362275">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.AppSettingActivity" theme="16973830" configChanges="160" label="2131362495">
+<activity screenOrientation="1" name="com.taobao.reader.reader.ui.activity.FontDownloadActivity" theme="16973830" configChanges="160" label="2131362091">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.AboutActivity" theme="16973830" configChanges="160" label="2131362074">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.UserAgreementActivity" theme="16973830" configChanges="160" label="2131362485">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.HistoryActivity" theme="16973830" configChanges="160" label="2131362134">
+<activity screenOrientation="1" name=".ui.user.activity.BookNoteDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".ui.floatdialog.FloatDialogActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.taobao.reader.ui.activity.BrowserActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".reader.ui.activity.BookCommentsActivity" theme="2131427398" configChanges="160" label="2131362238">
+<activity screenOrientation="1" name="com.taobao.reader.reader.ui.activity.PageEffectActivity" theme="16973830" configChanges="160" label="2131362117">
+<activity screenOrientation="1" name="com.taobao.reader.reader.ui.activity.CharacterModeSelectActivity" theme="16973830" configChanges="160" label="2131362493">
+<activity screenOrientation="1" name="com.taobao.reader.ui.ReaderHomeActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.MainActivity" theme="2131427377" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.UseHelpActivity" theme="16973830" configChanges="160" label="2131362075">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.AppShareActivity" theme="16973830" configChanges="160" label="2131362489">
+<activity screenOrientation="1" name="com.taobao.reader.ui.bookshelf.activity.RecycleActivity" theme="16973830" configChanges="160" label="2131362452">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.FreeActivity" theme="16973830" configChanges="160" label="2131362417">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.MallActivity" theme="16973830" configChanges="160" label="2131362417">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.RankSetActivity" theme="16973830" configChanges="160" label="2131361944">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.RankActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.taobao.reader.ui.mall.activity.CategorySetActivity" theme="16973830" configChanges="160" label="2131361945">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.CategoryActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.TopicActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.SearchActivity" theme="16973830" configChanges="160" windowSoftInputMode="36" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.BookDetailActivity" theme="16973830" configChanges="160" label="2131362583" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.MarketCardActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.BookTagBooksActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.splash.activity.DayActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.splash.activity.MonthActivity" theme="16973830" configChanges="160" label="2131362635" launchMode="2">
+<activity process=":browser" screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.web.CommonWebActivity" theme="2131427418" configChanges="160" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mall.activity.VIPBookListActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity excludeFromRecents="true" name="com.taobao.reader.wxapi.WXEntryActivity" theme="2131427367" exported="false" label="2131361792" noHistory="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.user.activity.UserVipActivity" theme="16973830" configChanges="160" label="2131362746" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.user.activity.UserVipGetHistoryActivity" theme="16973830" configChanges="160" label="2131362747" windowSoftInputMode="34">
+<activity excludeFromRecents="true" name="com.taobao.reader.lwapi.LWEntryActivity" theme="2131427367" noHistory="true">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.taobao.reader.sinapi.SinaEntryActivity" theme="2131427367" configChanges="160" noHistory="true">
+<activity screenOrientation="1" name="com.taobao.reader.ui.user.activity.TimeToVipActivity" theme="16973830" configChanges="160" label="2131362659">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.user.activity.ReadingProfileActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.user.activity.UserCommentsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.user.activity.UserNoteSummaryActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.user.activity.UserBookNotesActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.user.activity.UserAssignmentListActivity" theme="16973830" configChanges="160" label="2131362749">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mook.activity.MookCategorySetActivity" theme="2131427414" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.reader.ui.mook.activity.MookTopicActivity" theme="16973830" configChanges="160">
+14
+<service enabled="true" name="com.taobao.reader.service.TbReaderService">
+<service enabled="true" name="org.swiftp.FTPServerService">
+<service process=":utremote" name="com.taobao.statistic.module.data.Yolanda">
+<service name="com.taobao.android.sso.internal.PidGetterService" exported="true">
+<service enabled="false" name="com.taobao.android.sso.internal.AuthenticationService" exported="true" permission="android.permission.ACCOUNT_MANAGER">
+<service process=":core" name="com.taobao.reader.service.UpdateService">
+<service name="com.taobao.reader.server.WebService">
+<service process=":push" name="com.taobao.agoo.PushService" exported="true">
+<service process=":push" name="org.android.agoo.service.ElectionService" exported="true">
+<service process=":notify" name=".TaobaoIntentService">
+<service name="com.taobao.gcm.GCMIntentService">
+<service name="com.taobao.reader.sync.BookShelfSyncService">
+<service name="anetwork.channel.aidl.NetworkService">
+<service name="mtopsdk.xstate.XStateService">
+6
+<receiver process=":notify" name="com.taobao.reader.receiver.NotifyBroadcastReceiver">
+<receiver process=":notify" name="com.taobao.agoo.RegistrationReceiver">
+<receiver process=":notify" name="com.taobao.agoo.PushServiceReceiver">
+<receiver process=":notify" name="com.taobao.yunos.CmnsBroadcastReceiver">
+<receiver name="com.taobao.gcm.GCMBroadcastReceiver" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="com.taobao.reader.receiver.BootCompletedReceiver">
+1
+<provider writePermission="com.taobao.reader.provider.DataProvider.WRITE_DATABASE" authorities="com.taobao.reader" name="com.taobao.reader.provider.DataProvider" readPermission="com.taobao.reader.provider.DataProvider.READ_DATABASE">
+Owner: CN=淘宝, OU=淘宝, O=淘宝, L=杭州, ST=浙江, C=cn
+Issuer: CN=淘宝, OU=淘宝, O=淘宝, L=杭州, ST=浙江, C=cn
+Serial number: 4f950d56
+Valid from: Mon Apr 23 16:05:42 CST 2012 until: Wed Oct 29 16:05:42 CST 2121
+Certificate fingerprints: 
+	MD5:6D:C5:64:B5:05:7E:36:2F:CF:2A:B0:37:70:2C:63:9A
+	SHA1: 32:2A:8E:45:5A:B5:6A:48:D2:3A:BA:34:80:89:CE:AA:BE:0F:EC:FA
+	SHA256: 33:D1:A8:FF:9B:FA:7A:7C:A0:30:B2:50:1A:84:9F:CB:D5:31:D0:D4:56:B1:4F:AB:C9:B3:C4:37:D9:E4:A3:E3
+	Signature algorithm name: SHA1withRSA
+	version: 3

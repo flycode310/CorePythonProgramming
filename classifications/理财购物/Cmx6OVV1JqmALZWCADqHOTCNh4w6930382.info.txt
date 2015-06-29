@@ -1,0 +1,72 @@
+com.looxiang.quan
+8
+1.8
+8
+17
+16
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+32
+<activity screenOrientation="1" name=".WelComeActivity" label="2131099648">
+<activity screenOrientation="1" name=".TeachingActivity">
+<activity screenOrientation="1" name=".MainActivity1">
+<activity screenOrientation="1" name=".RedeemActivity">
+<activity screenOrientation="1" name=".MyPrizesActivity">
+<activity screenOrientation="1" name=".GoldStoreActivity">
+<activity screenOrientation="1" name=".CreditListActivity">
+<activity screenOrientation="1" name=".MainActivity">
+<activity screenOrientation="1" name=".SettingActivity">
+<activity screenOrientation="1" name=".MeActivity">
+<activity screenOrientation="1" name=".FeedBackActivity">
+<activity screenOrientation="1" name=".LookMoreActivity">
+<activity screenOrientation="1" name=".AboutActivity">
+<activity screenOrientation="1" name=".CallMeActivity">
+<activity screenOrientation="1" name=".DetailActivity">
+<activity screenOrientation="1" name=".CouponInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".WebActivity">
+<activity screenOrientation="1" name=".SerchEndActivity">
+<activity screenOrientation="1" name=".ChangePassword">
+<activity screenOrientation="1" name=".MyGoldActivity">
+<activity screenOrientation="1" name=".LoginActivity">
+<activity screenOrientation="1" name=".RgisterActivity">
+<activity screenOrientation="1" name=".XieyiActivity">
+<activity screenOrientation="1" name=".FindPassword">
+<activity screenOrientation="1" name=".Mycop">
+<activity screenOrientation="1" name=".SerchActivity" configChanges="160" windowSoftInputMode="50">
+<activity name=".wxapi.WXEntryActivity" theme="16973841" exported="true" label="2131099648">
+<activity name="com.baidu.sharesdk.PlatformSsoCallBackActivity" theme="16973841" exported="true" label="2131099648">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.cloudsdk.social.oauth.SocialOAuthActivity" theme="16973841" exported="true">
+<activity name="com.baidu.cloudsdk.social.share.handler.LocalShareActivity" launchMode="2">
+<activity name="com.baidu.cloudsdk.social.share.handler.QQFriendShareReceiverActivity" launchMode="2">
+1
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+3
+<receiver name="com.looxiang.quan.MyPushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=ÁúȯÍø, OU=ÁúȯÍø, O=ÁúȯÍø
+Issuer: CN=ÁúȯÍø, OU=ÁúȯÍø, O=ÁúȯÍø
+Serial number: 54b4c0a7
+Valid from: Tue Jan 13 14:52:23 CST 2015 until: Sat Jan 07 14:52:23 CST 2040
+Certificate fingerprints: 
+	MD5:EC:07:19:85:C8:99:05:06:92:99:6B:3B:CD:E6:BB:04
+	SHA1: 71:D5:E6:CD:92:73:70:16:C6:EA:77:25:4F:6D:FE:DB:A9:FC:93:4C
+	SHA256: 13:66:24:AA:47:25:00:E7:0C:21:7B:43:69:73:89:3B:EC:45:EB:3E:E6:D3:2D:91:2A:4F:6C:85:74:D7:68:F8
+	Signature algorithm name: SHA1withRSA
+	version: 3

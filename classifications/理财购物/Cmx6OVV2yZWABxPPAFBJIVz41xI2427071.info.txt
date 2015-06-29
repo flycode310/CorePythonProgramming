@@ -1,0 +1,260 @@
+com.unionpay
+22
+2.8.1
+4
+10
+32
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.INSTALL_PACKAGES
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.WRITE_APN_SETTINGS
+android.permission.RECEIVE_MMS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+206
+<activity screenOrientation="1" name=".ui.ActivityLogo" theme="16973831" label="2131296256" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.TestPayment" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMobileChargeResult" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityMobileCharge" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityMobileChargePay" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityForgetPassword" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityOrderDetail" theme="16973830">
+<activity screenOrientation="1" name=".ui.OldMerchantList" theme="16973830">
+<activity screenOrientation="1" name=".ui.OldMerchantDetail" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMerchantCategory" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMerchantList" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMerchantDetail" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityHelp" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMainMenu" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityLoading" theme="16973835">
+<activity screenOrientation="1" name=".ui.ActivityRegisterHint" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityFlightDynamic" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityRegister" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityLogin" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityGetCertificate" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.ActivityRandomPassword" theme="2131427392">
+<activity screenOrientation="1" name=".ui.ActivityPayBack" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.ActivityChoseCard" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMerchant" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityBindCard" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityChoseEPBB" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMoreService" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityUsMessage" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityPassengerChose" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".ui.account.ActivityFlightHelp" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.BaseActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".ui.flight.ActivityAdressInfo" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityAddAddress" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityAddPerson" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityAddressInfo" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityBodPeopleInfo" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".ui.flight.ActivityPassengerAdress" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".ui.flight.ActivityBodPeopleInfoList" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityEraryAddress" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".ui.flight.ActivityFlightOrder" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".ui.flight.ActivityFlightOrderInfo" theme="16973830">
+<activity screenOrientation="1" name=".ui.account.ActivityAccountManager" theme="16973830">
+<activity screenOrientation="1" name=".ui.account.ActivityMerchCity" theme="16973830">
+<activity screenOrientation="1" name=".ui.account.ActivityOpinionBack" theme="16973830">
+<activity screenOrientation="1" name=".ui.account.ActivityNotices" theme="16973830">
+<activity screenOrientation="1" name=".ui.account.ActivityNoticesInfo" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.BaseActivity" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityChangePass" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityQueryTransations" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityTransactions" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityUserInfo" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityQueryBalance" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.ActivityBalances" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityCardManager" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityConvenience" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityCardEdit" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityFlight" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityTicketFillPassengersInfo" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityAddPassenger" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityMyFlightTravel" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityQueryTicket" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityConvenienceBill" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityQueryOrder" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityPayBill" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityChoseCity" theme="16973830">
+<activity screenOrientation="1" name=".ui.TestSAX" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityTicketMessage" theme="16973830">
+<activity screenOrientation="1" name=".ui.flight.ActivityBookTitcket" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityConvenienceTest" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityListLine" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityListFlight" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityFlightMsg" theme="16973830">
+<activity screenOrientation="1" name=".ui.TestAir" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityPaySuccess" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityPayBackResult" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityChangeNum" theme="16973830">
+<activity screenOrientation="1" name=".ui.TestLBS" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMoonCakeMain" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMooncakeDetail" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityCoupondetail" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMoonCakeOrder" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityMooncakeList" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMooncakePayBill" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityLbsMap" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMooncakePaySuccess" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityLBSOrderDetail" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityMoviePayBill" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.ActivityMoviePaySuccess" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityTicketPaySuccess" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityTicketFillPassengersInfo1" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityBigImage" theme="16973835">
+<activity screenOrientation="1" name=".ui.ActivityFlightPersonInfo" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityTicketFillPassengersInfo2" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityTicketDeliveryOrder" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityTicketPayBill" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityTicketOrderDetail" theme="16973830">
+<activity screenOrientation="1" name=".ui.DriveOrWalkActivity" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityCreditCardRepayment" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityShowUpdateInfo" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityLuckyList" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityLuckydrawResults" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityLuckydrawNo" theme="16973830">
+<activity screenOrientation="1" name=".ui.sale.ActivityLotteryPay" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityLotteryPaySuccess" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityLuckyDetail" theme="16973830">
+<activity screenOrientation="1" name="com.sina.weibo.ShareActivity" theme="16973830" configChanges="160" windowSoftInputMode="37" launchMode="2">
+<activity screenOrientation="1" name=".share.ActivityWeiboConfirm" theme="16973835" configChanges="160" windowSoftInputMode="37">
+<activity clearTaskOnLaunch="false" screenOrientation="2" name="com.mapbar.android.mapbarmap.MapViewActivity" theme="16973840" configChanges="1073742079" label="2131296256" launchMode="2">
+<activity name="com.mapbar.android.mapbarmap.search.SearchActivity" configChanges="1073742079" label="2131296637" windowSoftInputMode="18" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.search.SearchListResultActivity" configChanges="1073742079" windowSoftInputMode="18" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.search.DetailActivity" configChanges="1073742079" label="2131296283" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.search.MyCommentActivity" configChanges="1073742079" label="2131296288" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.route.RouteActivity" theme="16973840" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.CityActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.route.DriveOrWalkActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.route.BusLineActivity" configChanges="1073742079" label="2131296278" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.route.BusDetailActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.user.PersonCenterActivity" configChanges="1073742079" label="2131296275" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.user.VersionActivity" theme="16973835" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.user.RsfManageActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.search.StationDetailActivity" configChanges="1073742079" windowSoftInputMode="18" launchMode="0">
+<activity screenOrientation="1" name=".ui.ActivityPromotions" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.ActivityFood" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityCity" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityInfoDetails" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityShowGallery" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityGameCard" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityGamePayMoney" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.ActivityGamePaySuccess" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityGameRecord" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityGameDetails" theme="16973830">
+<activity name="com.mapbar.android.mapbarmap.user.LogonActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.user.RegisterActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.user.MyAccountActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.user.MyFavoritesListActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.user.MyFavoritesDeleteActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.user.FavoriteEditActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity screenOrientation="1" name="com.mapbar.android.mapbarmap.service.ServiceWebActivity" configChanges="1073742079" label="2131296709" windowSoftInputMode="2" launchMode="3">
+<activity name="com.mapbar.android.mapbarmap.search.LineDetailActivity" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.service.ServiceSearchActivity" theme="16973840" configChanges="1073742079" windowSoftInputMode="2" launchMode="0">
+<activity name="com.mapbar.android.mapbarmap.FilterServiceActivity" theme="16973909" noHistory="true" launchMode="0">
+<activity screenOrientation="1" name="com.ezlottery.WaitPage" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.PurchaseGameList" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.MoreUtility" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.TermStake" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.StakeHistory" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.WinHistory" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.ModifyInfo" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.BonusTransfer" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.MoneyTransfer" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.Account" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.ColorCoin" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.MoneyTransferCoin" theme="16973830" label="2131296256" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ezlottery.Game.Ssq" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.Game.Dlt" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.Game.Qxc" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.Game.Pl5" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.Game.Fc3d" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.Game.Pl3" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.LastWin" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name="com.ezlottery.OpenWinHistory" theme="16973830" label="2131296256">
+<activity screenOrientation="1" excludeFromRecents="true" name="org.mopon.movie.MovieLogoPage" theme="16973830" label="2131296256" taskAffinity="com.mopon">
+<activity screenOrientation="1" name="org.mopon.movie.MovieMain" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="org.mopon.movie.MovieDetailInfo" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.MovieReviewFeedBack" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.CinemaSelect" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.MovieDateListing" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.HallSeatInfoPage" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.ButtonSeatMain" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.SeatsPaySelect" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.MovieLoginPage" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.PayResultPage" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.VoucherManagerPage" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="org.mopon.movie.VoucherDetailInfoShow" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.MoponWebView" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.CommonTicketDetail" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.CommonPaySelect" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.UpComingMovieActivity" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.CinemaListActivity" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.CinemaDetailActivity" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.OrderActivity" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.MovieVipApplyActivity" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.AccountActivity" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.CinemaInformationActivity" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.CitySelectActivity" theme="16973830">
+<activity screenOrientation="1" name="org.mopon.movie.UpComingMovieDetailInfo" theme="16973830">
+<activity screenOrientation="1" name=".ui.sale.GroupBuyingList" theme="16973830" label="2131296256" launchMode="2">
+<activity screenOrientation="1" name=".ui.sale.ActivityAccount" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityHelp" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityProductInformation" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityGroupBuyInformation" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityTehuiInformation" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityProductDetail" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityGroupBuyDetail" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityTehuiDetail" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityPayDetail" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityOrder" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityUnpayDetail" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".ui.sale.ActivityGroupBuyPay" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.sale.ActivityGroupBuyPaySuccess" theme="16973830">
+<activity screenOrientation="1" name=".ui.sale.ActivityGroupBuyMap" theme="16973830">
+<activity screenOrientation="1" name=".ui.ActivityGetSecretKey" theme="16973830">
+<activity screenOrientation="1" name=".ui.order.ActivityOrderPay" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.order.ActivityOrderEnter" theme="16973830">
+<activity screenOrientation="1" name=".ui.order.ActivityOrderBindCard" theme="16973830">
+<activity screenOrientation="1" name=".ui.afterpay.ActivityMobileAfterPay" theme="16973830">
+0
+0
+2
+<provider authorities="com.mapbar.android.mapbarmap.util.SuggestionProvid" name="com.mapbar.android.mapbarmap.util.SuggestionProvider">
+<provider authorities="com.mapbar.android.mapbarmap.util.FavoriteProvid" name="com.mapbar.android.mapbarmap.util.FavoriteProvider">
+Owner: CN=China UnionPay, OU=China UnionPay, O=China UnionPay Co. Ltd, L=Shanghai, ST=Shanghai, C=CN
+Issuer: CN=China UnionPay, OU=China UnionPay, O=China UnionPay Co. Ltd, L=Shanghai, ST=Shanghai, C=CN
+Serial number: 4dd5ceb6
+Valid from: Fri May 20 10:15:18 CST 2011 until: Sun May 12 10:15:18 CST 2041
+Certificate fingerprints: 
+	MD5:F8:66:BF:76:D5:42:3C:5D:E1:B5:3B:93:A7:89:F6:52
+	SHA1: 53:6C:79:B9:3A:CF:BE:A9:50:AE:36:5D:8C:E1:AE:F9:1F:EA:95:35
+	SHA256: 5F:6B:3D:22:85:96:24:A8:DE:36:F9:5D:03:AE:2F:F7:58:1A:1D:AA:BB:23:0C:62:AE:D9:47:0A:54:41:48:45
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,86 @@
+com.zhuzher.kaitai.hotel.activity
+2
+1.1.0
+8
+-1
+14
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+47
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.zhuzher.kaitai.hotel.base.BaseActivity">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.HotelMainAct" configChanges="160" label="2131099661">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.MainControlAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.MainNewAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.MapHotelListAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.MapHotelAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.LoginAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.RegisterAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.UsuallySearchAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.RangeSearchAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.CitySelectorAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.CityLocationAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.HotelListAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.HotelDetailAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.RoomTypeListAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.CommentListAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.HotelNearbyLifeAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.OrderFillAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.OrderCheckAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.OrderFinishAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.OrderInquireAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.MyOrdersAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.MyScoreAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.MyBalanceAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.MyZhuzherAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.ErrorReportAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.MyInformationAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.DetectVersionAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.SystemSetAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.UserGuideAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.OrderPayFinishAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.PayAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.SinaWeiboShareAct">
+<activity screenOrientation="1" name="com.zhuzher.kaitai.hotel.activity.wxapi.WXEntryActivity" exported="true">
+<activity screenOrientation="1" name=".ShopDetailAct">
+<activity screenOrientation="1" name=".ShopCommentAct">
+<activity screenOrientation="1" name=".LifeServiceAct">
+<activity screenOrientation="1" name=".SpecialOfferAct">
+<activity screenOrientation="1" name=".SpecialOfferDetailAct">
+<activity screenOrientation="1" name=".RecommendShopListAct">
+<activity screenOrientation="1" name=".RecommendShopDetailAct">
+<activity screenOrientation="1" name=".MapNavAct">
+<activity screenOrientation="1" name=".LivingAct">
+<activity screenOrientation="1" name=".LivingDetailAct">
+<activity screenOrientation="1" name=".LifeDetailWebAct">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+5
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.zhuzher.kaitai.hotel.service.PayFinishSer">
+<service name="com.zhuzher.kaitai.hotel.service.PayFinishBindSer">
+<service name="com.zhuzher.kaitai.hotel.service.LogSer">
+<service name="com.zhuzher.kaitai.hotel.service.LogSubmitSer">
+0
+0
+Owner: CN=zheng, OU=zhuzher, O=zhuzher, L=zhuzher, ST=beijing, C=bj
+Issuer: CN=zheng, OU=zhuzher, O=zhuzher, L=zhuzher, ST=beijing, C=bj
+Serial number: 539be34
+Valid from: Sat Jun 08 13:43:24 CST 2013 until: Thu Mar 24 13:43:24 CST 2287
+Certificate fingerprints: 
+	MD5:49:62:C0:53:06:A6:EE:82:1A:64:01:84:77:2E:1B:30
+	SHA1: CB:40:4E:88:B6:D8:C6:6C:F8:02:43:17:EA:BF:9D:3E:2F:A7:90:51
+	SHA256: 2D:2E:2B:13:C4:D5:F4:15:25:9B:47:42:C3:11:00:FB:28:9B:C0:1F:D4:E2:AB:6F:4D:75:96:10:4B:8C:AA:18
+	Signature algorithm name: SHA256withRSA
+	version: 3

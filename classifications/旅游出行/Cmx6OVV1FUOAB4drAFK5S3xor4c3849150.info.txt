@@ -1,0 +1,116 @@
+com.sankuai.hotel
+22
+3.3
+8
+19
+11
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+com.sankuai.common.PERMISSION
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+77
+<activity screenOrientation="1" name="com.sankuai.hotel.Welcome" theme="2131492892" label="2131427414">
+<activity screenOrientation="1" name="com.sankuai.hotel.MainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.sankuai.hotel.hotel.MainFlipperActivity" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.sankuai.hotel.groupon.DealDetailActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.groupon.DealLotteryActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.groupon.DealAlbumActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.groupon.DealAboutWebActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.groupon.DealAboutActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.hotel.HomeInnRoomStatus">
+<activity screenOrientation="1" name="com.sankuai.hotel.hotel.HomeInnRoomReservation">
+<activity screenOrientation="1" name="com.sankuai.hotel.hotel.HomeInnRoomReservationInfo">
+<activity screenOrientation="1" name="com.sankuai.hotel.reservation.ReservationResultActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.sankuai.hotel.reservation.ReservationDetailActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.sankuai.hotel.reservation.ReservationActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.sankuai.hotel.hotel.HotelDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="com.sankuai.hotel.mine.MineActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.account.SetPasswordActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.login.DynamicLoginActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.login.LoginActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.login.OauthLoginActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.signup.RegisterActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.signup.NickNameSignupActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.signup.SmsUpSignupActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.account.ModifyPasswordActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.account.MeituanTermsActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.hotel.HotelAlbumsActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.account.RetrievePassword">
+<activity screenOrientation="1" name="com.sankuai.hotel.comments.CommentListActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.comments.CommentAlbumActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.merchant.BranchActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.myorder.OrderListActivity">
+<activity name="com.sankuai.hotel.wxapi.WXPayEntryActivity" exported="true">
+<activity screenOrientation="1" name="com.sankuai.hotel.mine.FavoriteListActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.myorder.OrderCommentActivity" configChanges="160">
+<activity screenOrientation="1" name="com.sankuai.hotel.myorder.OrderDetailActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.myorder.BookOrderDetailActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.myorder.RefundActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.myorder.LotteryResultActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.buy.BuyActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.bindphone.PhoneBindActivity" configChanges="48" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.sankuai.hotel.pay.PayOrderActivity" configChanges="48" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.sankuai.hotel.pay.PayWebActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.pay.PayResultActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.pay.PayCheckActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.pay.bank.BanksActivity" configChanges="48" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.umpay.creditcard.android.UmpayActivity" configChanges="176" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.sankuai.hotel.pay.PayFaqActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.city.CityListActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.hotel.filter.FilterAreaSubwayActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.area.HotelLandMarkSelectorActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.map.route.PoiMapActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.map.RouteListActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.map.SelectPointActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.map.RouteActivity" theme="2131492890">
+<activity screenOrientation="1" name="com.sankuai.hotel.map.MtMapActivity" theme="2131492890">
+<activity screenOrientation="1" name="com.sankuai.hotel.reservation.CheckGuestInfoActivity" configChanges="160" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.sankuai.hotel.more.MoreActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.more.feedback.FeedbackActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.sankuai.hotel.more.AboutActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.search.SearchActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sankuai.hotel.search.SearchResultActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.web.MarketingWebActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.mine.PromotionsActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.vouchers.VouchersActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.myorder.coupon.CouponListActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.vouchers.VoucherHelper">
+<activity screenOrientation="1" name="com.sankuai.hotel.vouchers.VoucherVerifierActivity" windowSoftInputMode="3">
+<activity name="com.sankuai.hotel.developer.DeveloperActivity">
+<activity name="com.sankuai.hotel.wxapi.WXEntryActivity" exported="true" label="2131427413">
+<activity screenOrientation="1" name="com.sankuai.hotel.booking.PartnerRegisterActivity" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.sankuai.hotel.booking.BookingOrderCreateActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sankuai.hotel.booking.BookingOrderPayActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sankuai.hotel.booking.BookingPayResultActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sankuai.hotel.booking.BookingPayWebActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sankuai.hotel.booking.BookingBankCardsActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sankuai.hotel.booking.CalendarActivity">
+<activity screenOrientation="1" name="com.sankuai.hotel.userlocked.UserUnlockActivity">
+1
+<service process=":push" enabled="false" name="com.sankuai.mtmp.service.MtmpService">
+5
+<receiver name="com.sankuai.hotel.notification.PushMessageReceiver">
+<receiver enabled="false" name="com.sankuai.mtmp.receiver.NetworkReceiver">
+<receiver name="com.sankuai.mtmp.receiver.CommunicateReceiver">
+<receiver name="com.sankuai.hotel.notification.pull.receiver.CouponExpiredReceiver">
+<receiver name="com.sankuai.hotel.notification.pull.receiver.NetworkChangeReceiver">
+2
+<provider authorities="com.sankuai.hotel.UUIDprovider" name="com.sankuai.hotel.global.HotelUUIDProvider" exported="true" permission="com.sankuai.common.PERMISSION">
+<provider authorities="com.sankuai.hotel.account.sync" name="com.sankuai.hotel.global.HotelAccountSyncProvider" exported="true" permission="com.sankuai.common.PERMISSION">
+Owner: CN=CHEN Liang, OU=meituan.com, O=Sankuai Technology Co. Ltd., L=Beijing, ST=Beijing, C=CN
+Issuer: CN=CHEN Liang, OU=meituan.com, O=Sankuai Technology Co. Ltd., L=Beijing, ST=Beijing, C=CN
+Serial number: 4d691bb8
+Valid from: Sat Feb 26 23:26:48 CST 2011 until: Mon Feb 02 23:26:48 CST 2111
+Certificate fingerprints: 
+	MD5:63:8C:81:26:14:79:C2:10:4E:DE:3F:25:18:E9:17:25
+	SHA1: 0B:7D:82:CF:CF:38:75:D0:6C:D3:C1:35:C2:A5:AD:1D:55:97:F1:28
+	SHA256: 73:A6:11:C3:A0:1D:C6:E1:13:88:87:3D:AE:EE:1E:55:6A:D9:E5:76:8E:5C:22:20:55:F5:08:A2:4C:3A:82:15
+	Signature algorithm name: SHA1withRSA
+	version: 3

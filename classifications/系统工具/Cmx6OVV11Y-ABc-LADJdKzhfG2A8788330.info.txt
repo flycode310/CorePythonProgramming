@@ -1,0 +1,45 @@
+cn.org.ancc.hanxincode
+2
+1.1
+8
+-1
+5
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+20
+<activity screenOrientation="1" name=".MoYinActivity" theme="16973830" label="2131230723">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.CaptureActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.ScanLocalImageActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.QrResultActivity" theme="16973830">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.QrResultNotFoundActivity" theme="16973830">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.GridViewActivity" theme="16973830">
+<activity screenOrientation="1" name=".HistoryActivity" theme="16973830">
+<activity screenOrientation="1" name=".CreateActivity" theme="16973830">
+<activity screenOrientation="1" name=".AboutActivity" theme="16973830">
+<activity screenOrientation="1" name=".CustomizeCreateActivity" theme="16973830" windowSoftInputMode="52">
+<activity screenOrientation="1" name=".EmailCreateActivity" theme="16973830" windowSoftInputMode="48">
+<activity screenOrientation="1" name=".ContactCreateActivity" theme="16973830" windowSoftInputMode="48">
+<activity screenOrientation="1" name=".ImageDisplay" theme="16973830">
+<activity screenOrientation="1" name=".AboutHelpActivity" theme="16973830">
+<activity screenOrientation="1" name=".AboutAboutActivity" theme="16973830">
+<activity screenOrientation="1" name=".AboutSettingsActivity" theme="16973830">
+<activity screenOrientation="1" name=".AboutSettingsWeiboActivity" theme="16973830">
+<activity screenOrientation="0" name=".ContactDisplayLand" theme="16973830">
+<activity screenOrientation="1" name=".ContactDisplayPort" theme="16973830">
+<activity screenOrientation="1" name=".WelcomeActivity" theme="16973830">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 6bb5b6e
+Valid from: Tue Jul 23 21:41:34 CST 2013 until: Thu Jul 16 21:41:34 CST 2043
+Certificate fingerprints: 
+	MD5:CF:BC:8A:CD:DF:16:C2:69:B8:6E:F5:36:A7:AF:26:94
+	SHA1: 8A:61:4F:45:16:0A:CA:A3:88:D5:C6:BE:1E:5D:A3:E2:E2:41:18:9A
+	SHA256: 49:99:FE:B1:E9:CC:F6:41:E1:6E:66:F2:10:65:62:FC:4B:90:8F:57:30:9C:7D:F8:F3:00:6B:04:B9:A0:D0:F9
+	Signature algorithm name: SHA256withRSA
+	version: 3

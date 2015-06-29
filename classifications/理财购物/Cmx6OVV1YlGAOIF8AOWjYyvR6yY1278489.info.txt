@@ -1,0 +1,349 @@
+com.suning.mobile.ebuy
+80
+3.0
+8
+14
+29
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.webkit.permission.PLUGIN
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+286
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.BGSelectPayModeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.SelectEvaAndReviewProductActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.myorder.ui.MyOrderComfirmReceptActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.myorder.ui.MyOrderListActivity" theme="2131165240" launchMode="2">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.logistics.ui.CourierPageActivity" theme="2131165243" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.myorder.ui.MyQuerySDMListAcitivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.myorder.ui.MyPhonePayHistoryActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.myorder.ui.MyWaitPayOrdersListActivity" theme="2131165240" launchMode="2">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.EvaAndPubManagerActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.myorder.ui.MyElectircInvoiceActivity" theme="2131165240">
+<activity screenOrientation="1" name=".chat.ui.ChatLeaveMsgOfflineActivity" theme="16973830" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.userfeedback.ui.UserFeedbackManageActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.appstore.game.ui.AppDownloadManagerActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.appstore.game.ui.DownloadMissionActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.appstore.game.ui.GameUpdateActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.entrance.ui.MyEBuyActivity">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.entrance.ui.AftersalesServiceActivity" theme="2131165240">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.suning.mobile.ebuy.camera.CropImageActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.entrance.ui.MemberInformationActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.entrance.ui.ModifyNickNameActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.cpacps.ui.GetRedPackActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.goodsdetail.ui.BrowseHistoryActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.goodsdetail.ui.productsale.GoodsDetailPcInfoActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.cpacps.ui.CipherSubmitSuccessActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.cpacps.ui.QueryRewardActivity" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.cpacps.ui.InviteFriendActivity" theme="2131165240">
+<activity name=".wxapi.WXEntryActivity" theme="2131165221" exported="true">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.favorite.ui.FavoriteActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.myebuy.UserFeedbackAcitity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.myebuy.CommodityUseFeelActivity" theme="2131165240" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.myticket.ui.MyebuyTicketActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.myticket.ui.TicketDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name=".myebuy.consultation.ui.ConsultationActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.myebuy.evaluate.OrderGoodsListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.GoodsEvaluateActivitys" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.AdditionalEvaluateActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.ShopsEvaluateActivity" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.OGoodsEvaluateActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.OWaitEvaluateListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.OPublishMyOrderActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.WaitEvaluateListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.evaluate.ui.NewWaitEvaluateListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.myorder.ui.MyOrderDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.myorder.ui.MyStoreOrderListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.myorder.ui.MyStoreOrderDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.returnmanager.ui.QueryReturnedGoodsActivity" theme="2131165240" launchMode="2">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.returnmanager.ui.ReturnDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.returnmanager.ui.ReturnDeliveryActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.returnmanager.ui.ApplyReturnGoodsActivity" theme="2131165240" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.returnmanager.ui.SelectReturnProductActivity" theme="2131165240">
+<activity screenOrientation="1" name=".myebuy.myintegral.ui.IntegralBalanceActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.myepay.ui.YfbActivateActivity" theme="2131165240" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.myepay.ui.YfbBalanceActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.myepay.ui.YfbBindMobileActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.cpacps.ui.FaceInviteActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.myepay.ui.YfbActiveNoteActivity" theme="2131165240" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".ui.home.EbuyMessageActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.home.BooksCategoryL2Activity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelRuleActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelLocationActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelCityChooseActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelPicturesActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelDeviceServiceActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelIntroductionActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelSearchActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.CitySwitchActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.CustomCalendarActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightSelectActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.HotelFlightActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightOrderDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.PassengerListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.PassengerAddActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.PassengerChangeActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightYFBPaymentActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.hotelflight.flight.FlightQuickPayActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightPaySuccessActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightTrackActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightRuleActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightRuleNewActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightOrderListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.flight.ui.FlightMyTicketOrderActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelBookActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelBookSuccessActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelOrderCenterActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelOrderDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.host.webview.SuningHtml5GameActivity" theme="16973830">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".promotion.lianban.ui.NewAdvertisingManagerActivity" theme="16973830">
+<activity screenOrientation="1" name=".host.webview.WebViewActivity" theme="16973830">
+<activity screenOrientation="1" name=".host.webview.WebviewNewActivity" theme="16973830">
+<activity screenOrientation="1" name=".host.webview.UploadPicActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.home.AdvertisingModeOneActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.home.AdvertisingThreeActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.component.CompTabTopActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.component.CompTabTopFartherActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.home.GoSearchActivity" theme="2131165240">
+<activity screenOrientation="1" name=".msgcenter.ui.NoticeListActivity" theme="2131165240">
+<activity screenOrientation="1" name=".msgcenter.ui.NoticeDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.host.version.ui.VersionUpdateActivity" theme="2131165240">
+<activity screenOrientation="1" name=".search.ui.SearchActivity" theme="2131165240" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".search.ui.SearchFilterActivity" theme="2131165240" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".search.ui.VoiceSearchActivity" theme="16973830">
+<activity screenOrientation="1" name=".search.ui.MixSearchActivitys" theme="16973830">
+<activity screenOrientation="1" name=".search.ui.ShopListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.PaymentMultiplyActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.payment.QuerySDMActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.WaterElectricityGasActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.NewCustorGuideActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.PayforWaterActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.barcode.ui.CaptureActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.barcode.ui.MemberCardNumCaptureActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".goodsdetail.ui.AfterServiceActivity" theme="2131165240">
+<activity screenOrientation="1" name=".goodsdetail.ui.PackListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.category.ui.CategoryActivity" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.goodsdetail.ui.CargoDetailActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".goodsdetail.ui.productsale.GoodsDetailWhatFreePayActivity" theme="16973830">
+<activity screenOrientation="1" name=".goodsdetail.ui.productsale.GoodsDetailTStoreTestActrivity" theme="16973830">
+<activity screenOrientation="1" name=".goodsdetail.ui.mpsale.MpSaleActivity" theme="16973830">
+<activity screenOrientation="1" name=".goodsdetail.ui.ProductBasicInfoActivity" theme="2131165240">
+<activity screenOrientation="1" name=".goodsdetail.ui.ProductOneBasicInfoActivity" theme="2131165240">
+<activity screenOrientation="1" name=".goodsdetail.ui.evaluate.EvaluatePagerViewActivity" theme="2131165240">
+<activity screenOrientation="1" name=".goodsdetail.ui.evaluate.ThreeTabViewActivity" theme="2131165240">
+<activity screenOrientation="1" name=".goodsdetail.ui.evaluate.ConsultActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.goodsdetail.ui.productsale.GoodsDetailNearStoreListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.goodsdetail.ui.productsale.GoodsDetailNearSampleListActivity" theme="2131165240">
+<activity screenOrientation="1" name=".host.share.ShareActivity" theme="2131165224" launchMode="2">
+<activity screenOrientation="1" name=".host.share.BarCodeShareActivity" theme="2131165224">
+<activity screenOrientation="1" name=".goodsdetail.ui.SellerActivity" theme="2131165240">
+<activity screenOrientation="1" name=".host.initial.InitialActivty" theme="2131165292">
+<activity screenOrientation="1" name=".host.guide.ui.GuideActivity" theme="2131165240">
+<activity screenOrientation="1" name=".host.tabhost.SuningTabActivity" theme="2131165240" uiOptions="1" launchMode="2">
+<activity screenOrientation="1" name=".goodsdetail.ui.DetailImageSwitcherActivity" theme="16973830">
+<activity screenOrientation="1" name=".goodsdetail.ui.evaluate.SharedPictureShowSwitcherActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.resetpwd.ui.ResetPwdStep1Activity" theme="2131165240">
+<activity screenOrientation="1" name=".login.resetpwd.ui.ResetPwdStep2Activity" theme="2131165240">
+<activity screenOrientation="1" name=".login.resetpwd.ui.ResetPwdStep3Activity" theme="2131165240">
+<activity screenOrientation="1" name=".login.register.ui.RegisterExistActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.register.ui.Register1Activity" theme="2131165240">
+<activity screenOrientation="1" name=".login.register.ui.Register2Activity" theme="2131165240">
+<activity screenOrientation="1" name=".login.login.ui.BarcodeLoginActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.login.ui.LogonActivity" theme="2131165240" launchMode="2">
+<activity screenOrientation="1" name=".login.register.ui.RuleWebActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.merge.ui.CardSelectActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.merge.ui.MergeAccoutActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.merge.ui.MergeCardSucess" theme="2131165240">
+<activity screenOrientation="1" name=".login.merge.ui.MergeRegisterActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.merge.ui.VerifyStoreCardPhoneActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.merge.ui.ElectronicCardActivity" theme="2131165240" launchMode="2">
+<activity screenOrientation="1" name=".login.merge.ui.PhoneSelectActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.merge.ui.BindPhoneMailActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.mergetwo.ui.BindCardActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.mergetwo.ui.CheckCardPhoneActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.mergetwo.ui.MergeAndRegisterActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.mergetwo.ui.MergeCardAndAccountActivity" theme="2131165240">
+<activity screenOrientation="1" name=".login.mergetwo.ui.MergeCardSucessActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.logistics.ui.LogisticsActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.PaymentTabActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.ChargeTabActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.CustomerServiceActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.ChargeHomeActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.ChargeListQuestActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.PaymentListQuestActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.RepairActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.AppointActivity" theme="2131165240" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.service.SalesDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.order.logistics.ui.MyLogisticsDetailActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.member.MemberActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.host.setting.ui.SuningFamilyActivity" theme="2131165240" launchMode="2">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.area.ui.AreaActivity" theme="2131165242">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.area.ui.CityActivity" theme="2131165242">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.area.ui.DistrictActivity" theme="2131165242">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.area.ui.DistrictNewActivity" theme="2131165242">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.shopcart.information.ui.ShoppingCartActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.shopcart.information.ui.InvalidProductActivity" theme="16973830">
+<activity screenOrientation="1" name=".ui.payment.QuickPayVirtualActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.shoppingcart.QuickPayActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.shoppingcart.PhonePayActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.PhonePaySuccessActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.shoppingcart.YFBPayActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.EppWapPayActivity" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.SelectPayModeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.Cart4Activity" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.SelectPhonePayModeActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.SelectVirtualGoodsPayModeActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.addressmanager.ui.AddressBaseActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.addressmanager.ui.AddressManagerActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.addressmanager.ui.AddressModifyActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.addressmanager.ui.EditReceivingAddressActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.SubmitOrderSuccessActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.PayFeesHelpActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.payment.payselect.ui.PhoneBillPayActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.service.PhoneRechargeHistory" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.host.setting.ui.SettingActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.host.setting.ui.AboutActivity" theme="16973830">
+<activity screenOrientation="1" name=".ui.more.HelpcenterActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.promotions.HotZoneActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.home.HotZoneGalleryActivity" theme="2131165240">
+<activity screenOrientation="1" name=".shopcart.settlement.ui.GoodsTransportAddressInfoActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.shopcart.groupsettle.ui.GroupSettleActivity" theme="2131165240">
+<activity screenOrientation="1" name=".shopcart.submit.ui.ConfirmOrderInfoActivity" theme="2131165240">
+<activity screenOrientation="1" name=".shopcart.submit.ui.SelectDeliveryInfoActivity" theme="2131165240">
+<activity screenOrientation="1" name=".shopcart.submit.ui.UseDiscountActivity" theme="2131165240" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".shopcart.submit.ui.AddDiscountActivity" theme="2131165240">
+<activity screenOrientation="1" name=".shopcart.settlement.ui.DiscountCouponUseActivity" theme="2131165239">
+<activity screenOrientation="1" name=".shopcart.settlement.ui.DiscountCouponAddActivity" theme="2131165240">
+<activity screenOrientation="1" name=".shopcart.settlement.ui.ElectronicInvoiceNoticeActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.home.SearchByRelativeWordsActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.barcode.ui.ScanCodeHistoryActivity" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.hotelflight.hotel.ui.HotelFlightOrderCenterActivity" theme="2131165240">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".promotion.goodslist.ui.NewGoodsListActivity" theme="16973830">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" theme="2131165265" configChanges="160" label="2131427537">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivityEx" theme="2131165265" configChanges="160" label="2131427537">
+<activity screenOrientation="1" name=".ui.game.SuningGameActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.game.SuningGameRuleActivity" theme="2131165240">
+<activity screenOrientation="1" name=".store.home.ui.StoreHomeActivity" theme="16973830">
+<activity screenOrientation="1" name=".store.stores.ui.StoreListActivity" theme="16973830">
+<activity screenOrientation="1" name=".store.active.ui.ActiveListActivity" theme="16973830">
+<activity screenOrientation="1" name=".store.active.ui.ActiveDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".store.stores.ui.StoreMapActivity" theme="16973830">
+<activity screenOrientation="1" name=".store.detail.ui.StoreDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".ui.appstore.AppManagerActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.appstore.AppManagerDownloadActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.appstore.AppManagerNativeActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.appstore.game.ui.AppStoreWebViewActivity" theme="2131165240" configChanges="128">
+<activity screenOrientation="1" name=".ui.appstore.AppStoreActivity" theme="2131165240">
+<activity screenOrientation="1" name=".ui.appstore.AdviseActivity" theme="2131165240" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.appstore.SoftWareDetailedActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.appstore.CommentListActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.appstore.SoftwareInfoActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.appstore.SoftWareDownloadBottomActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.appstore.SoftWareScreenshotActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.appstore.AppstoreSearchActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.appstore.KeyWordSoftWareListActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.appstore.SoftWareListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.ui.appstore.SpecialSoftWareListActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.ui.home.RecreationActivity" theme="2131165240">
+<activity screenOrientation="1" name=".memunit.signin.ui.SigninActivity" theme="2131165240">
+<activity screenOrientation="1" name=".memunit.signin.ui.SigninMainActivity" theme="2131165240">
+<activity screenOrientation="1" name=".memunit.signin.ui.SigninRuleActivity" theme="2131165267">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SplashActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayMainActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayUserCreditActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayUserDebitActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultLoseActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SupportActivity" theme="2131165240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".chat.ui.ChatActivity" theme="16973830" windowSoftInputMode="32">
+<activity name=".home.homeguide.HomeGuideActivity" theme="16973839">
+<activity screenOrientation="1" name=".memunit.memunion.ui.IntegralGamesActivity" theme="2131165240">
+<activity screenOrientation="1" name=".memunit.shake.ui.ShakeGameActivity" theme="16973830">
+<activity name=".store.sound.ui.SoundListenActivity" theme="2131165240">
+<activity name=".store.sound.ui.SoundRuleDetailActivity" theme="16973830">
+<activity name=".store.sound.ui.SoundStoreSignActivity" theme="16973830">
+<activity name="com.suning.mobile.ebuy.memunit.shake.ui.SoundShakeActivity" theme="2131165240">
+<activity name=".store.sound.ui.SoundGuideActivity" theme="2131165240">
+<activity name=".store.sound.ui.SoundSignNotLoginActivity" theme="2131165240">
+<activity name=".host.webview.MyAppointActivity" theme="16973830">
+<activity screenOrientation="1" name="com.suning.mobile.paysdk.ui.CashierPrepareActivity" theme="2131165200">
+<activity screenOrientation="1" name="com.suning.mobile.paysdk.ui.activity.CashierChannelActivity" theme="2131165201" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="1" name="com.suning.mobile.paysdk.ui.QPayFirstActivity">
+<activity screenOrientation="1" name="com.suning.mobile.paysdk.ui.BankListActivity">
+<activity screenOrientation="1" name="com.suning.mobile.paysdk.ui.SMSCheckActivity">
+<activity screenOrientation="1" name="com.suning.mobile.paysdk.ui.QPayProtocolActivity">
+<activity screenOrientation="1" name="com.suning.mobile.paysdk.ui.PaySuccessActivity">
+<activity screenOrientation="1" name="com.suning.mobile.paysdk.ui.EppActivateActivity">
+<activity screenOrientation="1" name=".home.homefloor.ui.HomeFloorActivity" theme="16973830">
+<activity screenOrientation="1" name=".promotion.pagefloor.ui.PageFloorActivity" theme="16973830">
+<activity screenOrientation="1" name=".chat.ui.ChannelForChatOnlineActivity" theme="2131165240">
+<activity screenOrientation="1" name=".chat.ui.ChatOrderListActivity" theme="2131165240">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.suning.dl.ebuy.dynamicload.SuningDLProxyActivity">
+<activity screenOrientation="1" name="com.suning.dl.ebuy.dynamicload.SuningDLProxySingleTaskActivity" launchMode="2">
+<activity screenOrientation="1" name="com.suning.dl.ebuy.dynamicload.SuningDLProxyFragmentActivity">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.login.unionlogon.ui.UnionLogonBindPhoneActivity1" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.login.unionlogon.ui.UnionLogonBindPhoneActivity2" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.login.unionlogon.ui.UnionLogonBindEbuyAccountActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.login.unionlogon.ui.UnionLogonBindSuccessActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.login.unionlogon.ui.UnionLogonPhoneAlreadyBindedActivity" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.host.tabhost.LaunchShowActictiy" theme="2131165240">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.logserver.OperSelectActivity" theme="2131165240" launchMode="2">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.logserver.NetCheckActivity" theme="2131165240" launchMode="2">
+<activity screenOrientation="1" name="com.suning.mobile.ebuy.myebuy.logserver.LogServerActivity" theme="2131165240" launchMode="2">
+8
+<service enabled="true" name=".host.initial.InitialService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name=".appstore.app.ui.DownloadService">
+<service name="com.infograce.sound.SNSoundCodeServiceV00001">
+<service name=".ui.soundwave.SoundRecognitionService">
+<service name=".chat.ui.ChatService">
+<service name=".host.version.view.NotificationProgressService">
+<service enabled="true" name="com.suning.mobile.ebuy.myebuy.logserver.LogService">
+6
+<receiver name="com.suning.mobile.paysdk.core.net.util.NetChangeReceiver">
+<receiver name=".service.NetWorkReceiver">
+<receiver name=".host.push.main.AlarmReceiver">
+<receiver name=".host.push.main.NetChangeReceiver">
+<receiver name=".appstore.app.ui.PackageReceive">
+<receiver name=".host.version.view.UpdateReceiver">
+0
+Owner: CN=Suning
+Issuer: CN=Suning
+Serial number: 4eaa64e9
+Valid from: Fri Oct 28 16:16:41 CST 2011 until: Mon Jun 29 16:16:41 CST 2511
+Certificate fingerprints: 
+	MD5:73:87:FB:20:BD:93:13:40:3C:E7:BA:6C:F7:35:46:33
+	SHA1: 8E:3C:04:D5:28:72:9B:7B:E9:3E:51:09:33:6E:05:A9:04:27:39:AD
+	SHA256: 4F:07:5E:7B:F2:66:F5:E1:D2:2E:A1:4C:95:25:89:BC:C6:BE:23:17:90:08:9A:76:75:C2:4B:25:9E:E6:DF:B3
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,46 @@
+com.yang.soundvoicetalk
+10100
+1.0.1
+5
+-1
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.WRITE_CONTACTS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+8
+<activity name="com.jiechen.soundvoicetalk.ui.RecorderActivity" label="2131034112">
+<activity name="com.jiechen.soundvoicetalk.ui.LocalVoiceActivity">
+<activity name="and.ksgo.vavo.appff.BoActivity" theme="16973830">
+<activity name="com.mobclick.android.UmengFeedback">
+<activity name="com.feedback.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.feedback.ui.FeedbackConversations">
+<activity name="com.feedback.ui.FeedbackConversation" configChanges="16">
+<activity name="com.yang.soundvoicetalk.Welcome" label="2131034112">
+0
+2
+<receiver name="com.jiechen.soundvoicetalk.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver name="and.ksgo.vavo.InstallReceiver">
+0
+Owner: CN=d, OU=e, O=dd, L=gd, ST=guangdong, C=cn
+Issuer: CN=d, OU=e, O=dd, L=gd, ST=guangdong, C=cn
+Serial number: 53d9b403
+Valid from: Thu Jul 31 11:12:03 CST 2014 until: Fri May 03 11:12:03 CST 2069
+Certificate fingerprints: 
+	MD5:42:2C:EC:0C:0A:5A:E1:86:B9:D6:07:5F:CF:C2:30:11
+	SHA1: 5B:E5:75:1E:6C:00:33:BA:54:D2:98:D7:B7:04:84:1B:29:69:FE:0B
+	SHA256: 19:0E:78:40:68:CF:4F:A5:5C:2B:01:96:3E:DF:A3:3C:87:15:6B:0B:DE:E5:19:54:60:45:3A:3F:9C:6D:48:B6
+	Signature algorithm name: SHA1withRSA
+	version: 3

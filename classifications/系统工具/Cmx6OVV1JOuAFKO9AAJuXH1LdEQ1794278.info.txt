@@ -1,0 +1,36 @@
+com.icss.test_private_notepad
+1
+1.0
+4
+-1
+7
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name="cn.waps.OffersWebView" configChanges="160">
+<activity name=".MainPage" label="2131099648">
+<activity name=".AddRiJi" label="2131099648">
+<activity name=".Login" label="2131099648">
+<activity name=".AlertPassword" label="2131099648">
+<activity name=".LoginMainPage" label="2131099648">
+<activity name=".Visit" label="2131099648">
+<activity name=".Modify" label="2131099648">
+<activity name=".MainActivity" label="2131099648">
+0
+0
+0
+Owner: C=zh
+Issuer: C=zh
+Serial number: 51935429
+Valid from: Wed May 15 17:23:53 CST 2013 until: Mon Sep 16 17:23:53 CST 3011
+Certificate fingerprints: 
+	MD5:33:77:AC:EF:CA:BF:30:1E:91:BE:E3:39:E1:CD:A0:AD
+	SHA1: E6:20:DA:8C:BD:22:A5:65:19:16:51:D6:BE:CF:F2:10:36:D6:B3:B9
+	SHA256: A8:E1:CA:11:1B:ED:1C:7E:C7:54:E6:81:69:ED:97:8D:60:A7:B8:76:CF:F9:08:03:B8:72:97:E0:95:93:38:E7
+	Signature algorithm name: SHA1withRSA
+	version: 3

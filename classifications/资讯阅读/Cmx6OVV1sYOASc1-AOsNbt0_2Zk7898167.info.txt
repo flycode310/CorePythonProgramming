@@ -1,0 +1,60 @@
+com.kk.dict.dictkx
+10
+1.1.1
+10
+19
+9
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+28
+<activity screenOrientation="1" name="com.kk.dict.activity.SplashActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.MainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.PinyinResultActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.BushouResultActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.DetailActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.SettingActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.SearchActivity" theme="2131296256" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.kk.dict.activity.PinyinSearchResultActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.HanziSearchResultActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.BiShunActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.AboutActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.DownloadActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.VocabularyActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.NewWordActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.MyNewWordActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.GradeWordActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.GameActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.EventActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.BihuashuResultActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.TradeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kk.dict.activity.QQGroupActivity" theme="16973830">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131296265" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.kk.dict.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="com.umeng.fb.ConversationActivity" theme="16973830" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.umeng.fb.ContactActivity" theme="16973830">
+2
+<service name="com.kk.dict.service.WorkService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+0
+1
+<provider authorities="com.kk.dict.dictkx" name="com.kk.dict.dictkx.provider.DictProvider" exported="true">
+Owner: CN=YUSULIAN, OU=duowan, O=huanju, L=guangzhou, ST=guangdong, C=CN
+Issuer: CN=YUSULIAN, OU=duowan, O=huanju, L=guangzhou, ST=guangdong, C=CN
+Serial number: 39b2dfa
+Valid from: Wed Apr 10 10:48:30 CST 2013 until: Thu Jan 12 10:48:30 CST 2068
+Certificate fingerprints: 
+	MD5:47:F4:63:7C:FB:4F:EE:7E:91:DE:BE:FA:B9:2C:5E:31
+	SHA1: 33:40:68:D9:D4:2D:0B:26:6C:FB:60:E1:66:80:FA:FA:C3:A3:AF:EF
+	SHA256: D6:C3:EF:17:B9:95:F5:67:CC:55:38:1A:D3:1E:5B:56:D9:B7:61:FB:ED:75:C9:57:E0:E0:49:33:76:78:B1:EB
+	Signature algorithm name: SHA256withRSA
+	version: 3

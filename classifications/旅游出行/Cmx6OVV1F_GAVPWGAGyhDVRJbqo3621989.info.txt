@@ -1,0 +1,76 @@
+com.baidu.bdg.skyeye
+65792
+1.1.0.19681
+14
+14
+22
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.BAIDU_LOCATION_SERVICE
+com.baidu.permission.SHARE
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+25
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.FlightsInfoActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.HomeActivity" theme="16973833" label="2131034112">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.FlightDetailActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.RegisterActivity" theme="16973833">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.SocialLoginActivity" theme="16973833">
+<activity screenOrientation="1" name=".ui.LoginActivity" theme="16973833">
+<activity screenOrientation="1" name=".ui.ForgetPwdActivity" theme="16973833">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.ShakeActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.SniffActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.SearchActivity" theme="16973833" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.AboutActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.ShareSinaWeiboActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.SettingsActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.SwitchUnitActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.bdg.skyeye.ui.MessageActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.cloudsdk.social.oauth.SocialOAuthActivity" theme="16973841" exported="true">
+<activity name=".wxapi.WXEntryActivity" theme="16973841" exported="true" label="2131034112">
+<activity name="com.baidu.cloudsdk.social.share.handler.QQFriendShareReceiverActivity" launchMode="2">
+<activity name="com.baidu.cloudsdk.social.share.handler.LocalShareActivity" theme="16973841" configChanges="160" launchMode="2">
+<activity name="com.baidu.ufosdk.ui.FeedbackActivity">
+<activity name="com.baidu.ufosdk.ui.FeedbackNewActivity">
+<activity name="com.baidu.ufosdk.ui.FeedbackListActivity" launchMode="2">
+<activity name="com.baidu.ufosdk.ui.FeedbackFaqActivity">
+<activity name="com.baidu.ufosdk.ui.FeedbackHotActivity">
+<activity screenOrientation="1" name=".ui.FollowActivity" theme="16973833" label="关注" launchMode="1">
+5
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="com.baidu.android.pushservice.CommandService" exported="true">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.baidu.bdg.skyeye.net.DownloadService">
+<service name="com.baidu.sapi2.share.ShareService" exported="true">
+4
+<receiver name="com.baidu.bdg.skyeye.net.MyPushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="com.baidu.sapi2.share.ShareReceiver" exported="true" permission="com.baidu.permission.SHARE">
+0
+Owner: CN=Wei Zheng, OU=BDG, O=Baidu, L=Beijing, ST=Beijing
+Issuer: CN=Wei Zheng, OU=BDG, O=Baidu, L=Beijing, ST=Beijing
+Serial number: 23275fa8
+Valid from: Tue Dec 16 19:41:59 CST 2014 until: Mon Apr 18 19:41:59 CST 3014
+Certificate fingerprints: 
+	MD5:54:4F:0F:4A:82:86:4F:BF:7B:96:63:FB:C8:04:37:BB
+	SHA1: F3:65:02:50:B1:20:A0:3F:FB:99:89:7F:BB:CE:9B:17:ED:3E:39:B5
+	SHA256: 70:FD:A8:1A:C7:5F:A2:57:82:07:EC:DC:6A:9C:4B:93:72:52:F9:02:17:E8:FC:24:06:C6:A0:B4:E5:4B:02:42
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,65 @@
+cn.zhui.client592186
+63
+2.4.0.3
+4
+8
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.RECORD_VIDEO
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+25
+<activity name="cn.zhui.push.TuisongActivity" theme="16973831" configChanges="160" label="2131165278">
+<activity screenOrientation="4" name=".PhoneGap" theme="2131427331" configChanges="160" allowTaskReparenting="true" label="2131165278" alwaysRetainTaskState="true">
+<activity screenOrientation="4" name=".HtmlModeActivity" theme="2131427331" configChanges="160" allowTaskReparenting="true" label="2131165278" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name=".main" theme="2131427331" configChanges="160" allowTaskReparenting="true" label="2131165278" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name=".LoginActivity" configChanges="160" label="用户登录">
+<activity screenOrientation="1" name=".ZIDManage" configChanges="160" label="频道管理">
+<activity screenOrientation="1" name=".FileListActivity" configChanges="160" label="文件选择">
+<activity screenOrientation="1" name=".ImageViewerActivity" configChanges="160" label="图片显示">
+<activity screenOrientation="1" name=".ContentActivityGroup" configChanges="160" allowTaskReparenting="true">
+<activity screenOrientation="1" name=".CListActivity" configChanges="160" allowTaskReparenting="true">
+<activity screenOrientation="1" name=".AlarmAlert" theme="16973835" configChanges="160" allowTaskReparenting="true">
+<activity screenOrientation="1" name=".CListFullActivity" configChanges="160" allowTaskReparenting="true">
+<activity screenOrientation="1" name=".CListGridImgTxtActivity" configChanges="160" allowTaskReparenting="true">
+<activity screenOrientation="1" name=".CListGalleryActivity" configChanges="160" allowTaskReparenting="true">
+<activity screenOrientation="1" name=".CListGridActivity" configChanges="160" allowTaskReparenting="true">
+<activity screenOrientation="1" name=".ActionActivity" configChanges="160" allowTaskReparenting="true" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name=".ManageAccountActivity" configChanges="160" label="账户管理">
+<activity screenOrientation="1" name=".ChangePasswordActivity" configChanges="160" label="密码修改">
+<activity screenOrientation="1" name=".ChangeUsernameActivity" configChanges="160" label="用户名修改">
+<activity screenOrientation="1" name=".UserInfoActivity" configChanges="160" label="用户信息">
+<activity screenOrientation="1" name=".RegActivity" configChanges="160" label="注册">
+<activity screenOrientation="1" name=".LocalSettingsActivity" configChanges="160" label="软件管理">
+<activity screenOrientation="1" name=".ContentShowActivity" configChanges="160" allowTaskReparenting="true">
+<activity screenOrientation="1" name=".WebActivity" configChanges="160" allowTaskReparenting="true">
+<activity screenOrientation="0" name="com.google.zxing.client.android.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+2
+<service name="cn.zhui.push.TuisongService">
+<service name=".CheckNewService">
+2
+<receiver enabled="true" name=".BootReceiver">
+<receiver name=".CheckAlarmReceiver">
+0
+Owner: CN=Zhui.CN, OU=Byban Ltd., O=Byban Ltd., L=Shanghai, ST=Shanghai, C=CN
+Issuer: CN=Zhui.CN, OU=Byban Ltd., O=Byban Ltd., L=Shanghai, ST=Shanghai, C=CN
+Serial number: 4b8a6a19
+Valid from: Sun Feb 28 21:05:29 CST 2010 until: Fri Apr 18 21:05:29 CST 2092
+Certificate fingerprints: 
+	MD5:00:46:9D:70:1B:96:B9:FC:D9:F6:AA:4C:1A:80:44:FB
+	SHA1: 14:F4:04:13:4B:21:62:7B:3B:7F:F4:FE:8B:1D:C5:79:7F:51:EC:4F
+	SHA256: 62:89:EB:22:09:90:9B:17:4A:29:F5:65:FF:F8:5B:1D:50:0D:9F:27:F8:2A:4E:4A:52:F5:FE:90:C1:78:FD:3B
+	Signature algorithm name: SHA1withRSA
+	version: 3

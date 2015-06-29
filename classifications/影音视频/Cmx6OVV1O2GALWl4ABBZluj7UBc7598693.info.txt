@@ -1,0 +1,32 @@
+cn.com.rimopj.jugnkr.kups
+444
+4.44
+8
+8
+9
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+1
+<activity icon="2130837511" screenOrientation="1" name=".b" theme="2131230720" label="2131034112">
+1
+<service name=".a" exported="false">
+1
+<receiver enabled="true" name=".d" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+0
+Owner: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Issuer: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Serial number: fd3d1d7
+Valid from: Fri Oct 10 15:39:46 CST 2014 until: Tue Oct 22 15:39:46 CST 2233
+Certificate fingerprints: 
+	MD5:42:8C:C8:36:5E:87:D9:8C:AB:0E:CD:67:AA:C7:14:41
+	SHA1: 3B:6C:D0:39:18:76:FE:DE:E6:89:90:74:26:E9:75:BC:A0:3D:CF:47
+	SHA256: FA:2A:18:5C:A8:9C:4F:3F:98:E1:31:EB:B1:39:0A:8E:BB:4B:BE:F3:05:72:DF:2B:14:37:82:B5:46:73:85:86
+	Signature algorithm name: SHA256withRSA
+	version: 3

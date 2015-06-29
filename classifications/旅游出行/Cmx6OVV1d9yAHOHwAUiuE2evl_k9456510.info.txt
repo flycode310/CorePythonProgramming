@@ -1,0 +1,147 @@
+com.autonavi.minimap
+532
+7.3.2.2032
+8
+-1
+29
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+com.autonavi.permission.ACCESS_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+73
+<activity name="com.autonavi.plugin.app.HostActivity" theme="2131099650" configChanges="1184">
+<activity screenOrientation="1" name="com.autonavi.map.activity.SplashActivity" theme="2131099738" configChanges="160" label="2131427517" noHistory="true">
+<activity name="com.autonavi.map.activity.NewMapActivity" theme="2131099771" configChanges="1073745332" windowSoftInputMode="32" alwaysRetainTaskState="true" launchMode="2">
+<activity name="com.autonavi.map.search.fragment.ChannelDetailFragment">
+<activity screenOrientation="2" name="com.autonavi.minimap.wxapi.WXEntryActivity" theme="2131099764" configChanges="160" exported="true" label=" ">
+<activity screenOrientation="2" name="com.autonavi.minimap.ImgGestureActivity" configChanges="160">
+<activity screenOrientation="2" name="com.autonavi.minimap.sys.setting.ProcessPhotoActivity" theme="16973830" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.UserGuideActivity" theme="2131099737">
+<activity screenOrientation="2" name="com.autonavi.minimap.errorback.DoorAddressUpload" windowSoftInputMode="16">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity name="com.tencent.tauth.AuthActivity" configChanges="1184" noHistory="true" launchMode="2">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity name="com.autonavi.map.search.fragment.SearchCallbackFragment">
+<activity name="com.autonavi.map.msgbox.MessageBoxMainPage">
+<activity name="com.autonavi.map.quicknavi.QuickAutoNaviFragment">
+<activity name="com.autonavi.map.errorback.payfor.ApplyPayForListFragment">
+<activity name="com.autonavi.map.errorback.payfor.FeedBackListFragment">
+<activity name="com.autonavi.minimap.traffic.TrafficRemindFragment">
+<activity name="com.autonavi.map.report.TrafficBoardFragment">
+<activity name="com.autonavi.minimap.myProfile.CarIllegalDlg">
+<activity name="com.autonavi.minimap.myProfile.MyUsefulAddressFragment">
+<activity name="com.autonavi.map.fragment.common.ExtendWebViewFragment">
+<activity name="com.autonavi.map.order.base.fragment.MyOrderFragment">
+<activity name="com.autonavi.map.weekend.view.WeekendHappyMainFragment">
+<activity name="com.autonavi.map.travel.view.TravelChannelGuideFragment">
+<activity name="com.autonavi.minimap.traffic.TrafficEDogFragment">
+<activity name="com.autonavi.map.setting.AddNaviShortcutFragment">
+<activity name="com.autonavi.map.coupon.fragment.CouponListDlg">
+<activity name="com.autonavi.minimap.activities.ActivitiesFragment">
+<activity name="com.autonavi.map.errorback.ErrorReportListDialog">
+<activity name="com.autonavi.map.search.fragment.PoiDetailFragment">
+<activity name="com.autonavi.map.search.fragment.SearchFragment">
+<activity name="com.autonavi.map.search.fragment.SinglePoiOnMap">
+<activity name="com.autonavi.map.search.fragment.SearchFromArroundFragment">
+<activity name="com.autonavi.map.search.fragment.ThirdPartWebFragment">
+<activity name="com.autonavi.minimap.favorites.page.FavoritesFragment">
+<activity name="com.autonavi.map.search.fragment.SelectPoiFromMapFragment">
+<activity name="com.autonavi.map.taxi.TaxiMapFragment">
+<activity name="com.autonavi.map.fragment.common.LicenseConfirmFragment">
+<activity name="com.autonavi.map.quicknavi.QuickAutoNaviFragment">
+<activity name="com.autonavi.map.subway.SubwayCityListFragment">
+<activity name="com.autonavi.map.hotel.fragment.HotelReserveMoreFragment">
+<activity name="com.autonavi.map.route.RouteFragment">
+<activity name="com.autonavi.map.busline.BusLineDetailFragment">
+<activity name="com.autonavi.map.fragment.DefaultFragment">
+<activity name="com.autonavi.map.indoor.Indoor2dFragment">
+<activity name="com.autonavi.map.spotguide.fragment.TravelGuideMainMapFragment">
+<activity name="com.autonavi.minimap.favorites.page.FavoritesPoiToMapFragment">
+<activity name="com.autonavi.map.route.RouteResultFragment">
+<activity name="com.autonavi.map.busline.BusLineStationMapFragment">
+<activity name="com.autonavi.map.busline.BusLineResultFragment">
+<activity name="com.autonavi.map.search.fragment.ExtendWebViewFragment">
+<activity name="com.autonavi.map.errorback.ErrorReportListDialog">
+<activity name="com.autonavi.map.errorback.ErrorReportCommitDialog">
+<activity name="com.autonavi.map.search.fragment.SearchCategoryFromTipFragment">
+<activity name="com.autonavi.map.search.fragment.PoiDetailFragment">
+<activity name="com.autonavi.map.switchcity.SwitchCityNodeFragment">
+<activity name="com.autonavi.map.search.fragment.SearchCallbackFragment">
+<activity name="com.autonavi.map.errorback.payfor.ApplyPayForTypeChooseFragment">
+<activity name="com.autonavi.map.errorback.navi.ReportErrorListFragment">
+<activity name="com.autonavi.map.errorback.navi.ReportErrorDescFragment">
+<activity name="com.autonavi.map.search.fragment.SelectFixPoiFromMapFragment">
+<activity name="com.autonavi.minimap.activities.SubmitSuccessFragment">
+<activity name="com.autonavi.minimap.activities.ExamplePictureFragment">
+<activity name="com.autonavi.minimap.activities.LookOverPictureFragment">
+<activity name="com.autonavi.map.report.TrafficReportDialogFragment">
+<activity name="com.autonavi.map.report.TrafficSubmitDialogFragment">
+<activity name="com.taobao.tae.sdk.webview.BaseWebViewActivity">
+<activity name="com.taobao.tae.sdk.ui.LoginWebViewActivity">
+<activity name="com.taobao.tae.sdk.ui.TradeWebViewActivity">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+12
+<service name="com.autonavi.minimap.UserGuideService">
+<service process=":locationservice" enabled="true" name="com.amap.api.service.AMapService" exported="true">
+<service process=":pushservice" name="com.umeng.message.UmengService" exported="true">
+<service process=":pushservice" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.umeng.message.UmengDownloadResourceService">
+<service name="com.autonavi.minimap.PushIntentService">
+<service name="com.autonavi.common.impl.BackgroundService">
+<service name="com.alipay.android.app.MspService">
+<service name="com.autonavi.busnavi.BusRideRemindService">
+<service name="com.autonavi.footnavi.FootNaviService">
+<service name="com.autonavi.navi.naviwidget.AutoNaviFloatViewWidgetService">
+12
+<receiver name="com.autonavi.map.intent.AmapActionBroadcastReceiver">
+<receiver name="com.amap.api.service.BootEventReceiver">
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+<receiver name="com.ut.device.BQueryWhoHasOne" exported="true" permission="com.ut.permission.DEVICE_STATE">
+<receiver name="com.ut.device.BFoundIt" exported="true" permission="com.ut.permission.DEVICE_STATE">
+<receiver name="com.autonavi.minimap.appdownload.InstallListener">
+<receiver name="com.autonavi.minimap.alarm.AlarmReceiver" exported="false">
+<receiver name="com.autonavi.minimap.alarm.AlarmInitReceiver" exported="false">
+<receiver name="com.autonavi.minimap.offline.receiver.SdCardReceiver">
+<receiver name="com.autonavi.minimap.WakeupReceiver">
+1
+<provider authorities="com.amap.deskclock" name="com.autonavi.minimap.alarm.AlarmProvider" exported="false">
+Owner: CN=minimap, OU=mobile department, O=autonavi, L=beijing, ST=beijing, C=cn
+Issuer: CN=minimap, OU=mobile department, O=autonavi, L=beijing, ST=beijing, C=cn
+Serial number: 4c032728
+Valid from: Mon May 31 11:04:08 CST 2010 until: Tue Mar 03 11:04:08 CST 2065
+Certificate fingerprints: 
+	MD5:3F:9E:AE:A4:F2:D4:28:5C:2D:DB:BD:A7:39:13:64:79
+	SHA1: ED:D0:4A:69:6A:0D:CD:41:29:82:0A:1C:03:AB:16:94:3E:C6:C5:3F
+	SHA256: B3:6C:0B:80:CB:24:17:E7:FE:4C:3D:F0:1A:2D:16:3A:7D:84:43:60:4D:D2:76:A2:BC:1A:B0:D3:25:10:2E:3E
+	Signature algorithm name: SHA1withRSA
+	version: 3

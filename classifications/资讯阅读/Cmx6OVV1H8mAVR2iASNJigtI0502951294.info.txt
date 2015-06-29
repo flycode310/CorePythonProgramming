@@ -1,0 +1,29 @@
+com.chinesedictionary.app
+10
+10
+11
+19
+5
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity name="com.millennialmedia.android.MMActivity" theme="16973840" configChanges="176">
+<activity name="com.chinesedictionary.app.MainActivity" label="2131361806">
+<activity screenOrientation="5" name="com.chinesedictionary.app.about_me" label="2131361807">
+<activity name="com.chinesedictionary.app.DictionaryItemActivity" label="2131361808">
+0
+0
+0
+Owner: CN=Danny Ko, L=Toronto, ST=ON, C=CA
+Issuer: CN=Danny Ko, L=Toronto, ST=ON, C=CA
+Serial number: 4e24243e
+Valid from: Thu Feb 06 12:37:04 CST 2014 until: Wed Jun 09 12:37:04 CST 3013
+Certificate fingerprints: 
+	MD5:5E:05:BB:CA:FB:CD:5C:6B:EC:25:3F:01:19:26:5F:24
+	SHA1: 1F:F9:35:B3:F0:52:5C:2B:8F:E2:25:33:B1:D1:34:5B:2C:09:31:E5
+	SHA256: 56:7E:23:A1:90:60:B3:A6:83:E0:48:56:2B:C0:DB:D4:C2:32:A8:6F:47:1A:58:EF:AC:E5:CA:5E:FB:E8:61:76
+	Signature algorithm name: SHA256withRSA
+	version: 3

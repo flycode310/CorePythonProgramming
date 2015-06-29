@@ -1,0 +1,28 @@
+org.youdian.officeexercise
+1
+1.0
+4
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name=".Main" label="2130968577">
+<activity name=".Content">
+<activity name="com.waps.OffersWebView" configChanges="160">
+0
+0
+0
+Owner: CN=frodo zhou, OU=youdian.org, O=youdian.org, L=SH, ST=SH, C=CN
+Issuer: CN=frodo zhou, OU=youdian.org, O=youdian.org, L=SH, ST=SH, C=CN
+Serial number: 4e72ea25
+Valid from: Fri Sep 16 14:18:13 CST 2011 until: Sun Aug 23 14:18:13 CST 2111
+Certificate fingerprints: 
+	MD5:68:B0:9B:CE:AA:3D:4F:0E:86:63:DC:B6:6B:37:13:67
+	SHA1: 0C:99:CF:24:4A:76:4A:90:1A:C4:6E:BB:2B:7A:C6:44:71:27:1F:14
+	SHA256: C8:84:28:16:D6:B1:6F:38:8D:C2:2C:B0:F4:3F:D6:86:B7:F6:F1:19:99:76:D5:0D:EE:3A:C7:A1:FE:E9:15:E8
+	Signature algorithm name: SHA1withRSA
+	version: 3

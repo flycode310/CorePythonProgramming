@@ -1,0 +1,37 @@
+com.app.weatherforcast
+1
+1.0
+3
+-1
+11
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name=".WeatherForcastActivity" theme="16973830" label="2131034113">
+<activity name="com.kuguo.openads.AdsOfferListActivity">
+<activity excludeFromRecents="true" name="com.kuguo.pushads.PushAdsActivity" theme="16973835">
+2
+<service name=".WeatherService">
+<service name="com.kuguo.pushads.AdsService">
+1
+<receiver name="com.kuguo.pushads.AdsReceiver">
+0
+Owner: CN=weqwf, OU=ewfwef, O=wefwew, L=ewfwef, ST=wefwef, C=wefwef
+Issuer: CN=weqwf, OU=ewfwef, O=wefwew, L=ewfwef, ST=wefwef, C=wefwef
+Serial number: 4f4a32c5
+Valid from: Sun Feb 26 21:25:25 CST 2012 until: Wed Feb 23 21:25:25 CST 2022
+Certificate fingerprints: 
+	MD5:31:8A:30:8A:CF:B4:E2:A4:E4:C5:FA:C8:17:9E:8D:02
+	SHA1: D8:13:30:BD:6B:AD:BC:47:15:5D:67:EC:06:54:28:AF:A4:62:CD:03
+	SHA256: 30:33:8A:5E:FE:1F:58:CC:75:2C:E2:29:12:C3:F1:11:47:E3:D8:2C:BD:CD:95:88:8E:F6:2C:CB:42:4A:0B:FD
+	Signature algorithm name: SHA1withRSA
+	version: 3

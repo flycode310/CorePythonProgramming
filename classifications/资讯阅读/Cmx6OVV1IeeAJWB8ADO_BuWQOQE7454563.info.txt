@@ -1,0 +1,27 @@
+com.tdyh.cartoon
+1
+1.0.1
+4
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity name="Main" theme="16973831" label="2130968577">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+0
+0
+0
+Owner: CN=天地一浩, OU=天地一浩工作室, L=GuangZhou, ST=GuangDong, C=China
+Issuer: CN=天地一浩, OU=天地一浩工作室, L=GuangZhou, ST=GuangDong, C=China
+Serial number: 4e529b2f
+Valid from: Tue Aug 23 02:08:47 CST 2011 until: Sat Aug 16 02:08:47 CST 2036
+Certificate fingerprints: 
+	MD5:94:F6:A0:56:F7:74:B1:E4:67:A4:60:07:A1:28:27:3E
+	SHA1: 4D:70:12:27:27:78:18:05:5A:97:48:BD:CB:61:B5:42:84:6E:EB:10
+	SHA256: 31:CE:77:44:1B:E2:75:3A:A6:C2:B4:45:77:0C:3B:4C:3E:AE:84:D1:FC:AC:2A:C1:5E:20:2A:0C:EC:90:D2:0F
+	Signature algorithm name: SHA1withRSA
+	version: 3

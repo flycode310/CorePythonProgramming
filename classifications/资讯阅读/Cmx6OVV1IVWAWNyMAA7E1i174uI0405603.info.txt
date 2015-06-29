@@ -1,0 +1,50 @@
+info.lx137.abcxiaohua
+10
+3.30
+8
+-1
+10
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+20
+<activity screenOrientation="1" name=".StartMenu" theme="2131165184" configChanges="160" label="2131099648">
+<activity screenOrientation="1" name=".Song" theme="2131165184" label="2131099648">
+<activity screenOrientation="1" name=".Learning" theme="2131165184" label="2131099648">
+<activity screenOrientation="1" name=".AlphabetList" theme="2131165184" label="2131099648">
+<activity screenOrientation="1" name=".Testing" theme="2131165184" label="2131099648">
+<activity screenOrientation="1" name=".HelpActivity" theme="2131165184" label="2131099648">
+<activity screenOrientation="1" name=".AboutActivity" theme="2131165184" label="2131099648">
+<activity name="com.mobclick.android.UmengFeedback">
+<activity name="com.feedback.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.feedback.ui.FeedbackConversations">
+<activity name="com.feedback.ui.FeedbackConversation" configChanges="16">
+<activity name="com.wooboo.adlib_android.AdActivity" configChanges="160" launchMode="2">
+<activity name="com.wooboo.adlib_android.FullActivity" configChanges="160" launchMode="2">
+<activity name="com.mt.airad.MultiAD" theme="16973840" configChanges="176">
+<activity name="com.google.ads.AdActivity" configChanges="176">
+<activity name="com.adwo.adsdk.AdwoAdBrowserActivity">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="com.millennialmedia.android.MMAdViewOverlayActivity" theme="16973831" configChanges="176">
+<activity name="com.millennialmedia.android.VideoPlayer" theme="16973831" configChanges="176">
+0
+0
+0
+Owner: CN=rwrwrw, OU=werwrwrw, O=rwrwrwrwr, L=rr, ST=rwrwwrwrwrrwewrewr, C=86
+Issuer: CN=rwrwrw, OU=werwrwrw, O=rwrwrwrwr, L=rr, ST=rwrwwrwrwrrwewrewr, C=86
+Serial number: 4dfa2ab5
+Valid from: Fri Jun 17 00:09:25 CST 2011 until: Sun Jun 09 00:09:25 CST 2041
+Certificate fingerprints: 
+	MD5:25:8F:5B:E7:44:36:0E:7D:8D:42:C7:CC:6B:06:12:36
+	SHA1: 4B:83:C4:2F:A9:CA:D2:CD:9D:0D:15:0C:99:EC:6F:D8:1E:AE:07:2B
+	SHA256: B8:3F:9E:02:74:D2:47:93:8A:52:1D:BD:AB:58:3C:B4:FA:34:B3:04:C0:69:39:BC:9B:E4:ED:C7:BA:81:E7:EB
+	Signature algorithm name: SHA1withRSA
+	version: 3

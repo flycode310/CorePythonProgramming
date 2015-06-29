@@ -1,0 +1,31 @@
+com.manloo.xiuxiu
+4
+1.1.1
+7
+-1
+4
+android.permission.DISABLE_KEYGUARD
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+6
+<activity clearTaskOnLaunch="true" screenOrientation="1" name=".MoeAlarmActivity" label="2131099648" launchMode="0">
+<activity screenOrientation="1" name="TweetAuthActivity">
+<activity name="SettingHubActivity" launchMode="0">
+<activity name="SettingTimerActivity" launchMode="0">
+<activity name="SettingUsageActivity" launchMode="0">
+<activity name="SettingTweetActivity" launchMode="0">
+0
+1
+<receiver process=":remote" name=".MyBroadcastReceiver">
+0
+Owner: EMAILADDRESS=guxiye@manloo.com, CN=guxiye, OU=ROM, O=www.manloo.com, L=ZHEJIANG, ST=ZHEJIANG, C=CN
+Issuer: EMAILADDRESS=guxiye@manloo.com, CN=guxiye, OU=ROM, O=www.manloo.com, L=ZHEJIANG, ST=ZHEJIANG, C=CN
+Serial number: d7552b6e831dfa4d
+Valid from: Thu Apr 25 16:48:10 CST 2013 until: Sun Sep 09 16:48:10 CST 2040
+Certificate fingerprints: 
+	MD5:CE:09:5D:B6:94:DB:38:75:19:76:E4:98:56:56:DB:8A
+	SHA1: 5F:E9:86:44:BA:13:9F:FE:BF:45:0E:A3:E3:08:B3:95:38:B8:CE:2D
+	SHA256: 8F:EE:10:EB:95:03:01:E8:08:A8:85:0A:52:BC:F7:6E:19:31:15:0C:85:86:89:60:D4:65:93:15:A4:9C:9B:9A
+	Signature algorithm name: SHA1withRSA
+	version: 1

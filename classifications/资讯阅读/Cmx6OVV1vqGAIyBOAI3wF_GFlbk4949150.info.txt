@@ -1,0 +1,147 @@
+com.ifeng.news2
+93
+4.4.1
+9
+15
+32
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+com.ifeng.news2.permission.MM_MESSAGE
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_APN_SETTINGS
+com.sec.android.provider.badge.permission.WRITE
+com.ifeng.news2.permission.MIPUSH_RECEIVE
+com.htc.launcher.permission.READ_SETTINGS
+android.permission.MODIFY_AUDIO_SETTINGS
+com.sonyericsson.home.permission.BROADCAST_BADGE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+com.ifeng.news2.permission.MMOAUTH_CALLBACK
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+com.sec.android.provider.badge.permission.READ
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.htc.launcher.permission.UPDATE_SHORTCUT
+android.hardware.sensor.accelerometer
+58
+<activity screenOrientation="1" name="com.ifeng.news2.activity.SplashActivity">
+<activity name="com.ifeng.news2.activity.AppBaseActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.SettingActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.MySubscriptionActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.fragment.SettingFragment" theme="16973840">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.SurveyActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.WCPGuideActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.GuideActivity">
+<activity screenOrientation="2" name="com.ifeng.news2.photo_text_live.VideoRecordActivity" theme="16973831">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.ifeng.news2.fragment.NewsMasterFragmentActivity" configChanges="1152" launchMode="2">
+<activity screenOrientation="1" name="com.ifeng.news2.sport_live_new.SportLiveNewActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.ifeng.news2.sport_live_new.SportLiveReportActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.ifeng.news2.photo_text_live.PhotoTextNewActivity" configChanges="3312" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.DetailActivity">
+<activity screenOrientation="1" name="android.widget.code.DetailCopyActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.TopicListActivity" exported="false">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.TopicDetailModuleActivity" theme="16973833">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.PlotTopicModuleActivity" theme="16973833">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.AccountBindActivity" theme="16973833">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.AccountLoginActivity" theme="16973833" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.EditNickNameActivity" theme="16973833">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.UserHomePageActivity" theme="16973833" launchMode="2">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.FontSizeActivity" theme="16973833">
+<activity screenOrientation="2" name="com.ifeng.news2.activity.SlideActivity" configChanges="1184" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.CollectionActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.vote.VoteActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.LiveVideoActivity" configChanges="3312">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.VideoDetailNewActivity" configChanges="3312">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.VideoSubscriptionsListActivity" configChanges="3312">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.CommentsActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.SearchNewsActivity" windowSoftInputMode="18">
+<activity screenOrientation="2" name="com.ifeng.news2.activity.PlayVideoActivity" theme="16973834" configChanges="1184">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.UserAccountManagerAcivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.DetailPopupLightbox" configChanges="160">
+<activity name="com.ifeng.news2.activity.PopupLightbox" configChanges="160">
+<activity name="com.ifeng.news2.activity.PopupLightboxWithGif" configChanges="160">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.SubscriptionActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.SubscriptionsListActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.SubscriptionDetailActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.usercenter.activity.UserCommentsMainActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.usercenter.activity.UserCenterMainActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.usercenter.activity.UserCenterDetailActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.UserMsgActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.SportDataActivity">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.SubjectActivity" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.ifeng.share.activity.EditShareActivity" theme="16973833">
+<activity screenOrientation="1" name="com.ifeng.share.activity.TenqtAuthoActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.ifeng.share.activity.TenqzAuthoActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.ifeng.share.activity.SinaAuthoActivity" theme="16973833" configChanges="160">
+<activity name="com.ifeng.news2.advertise.AdDetailActivity" configChanges="1184" windowSoftInputMode="32">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.ifeng.android.games.activity.TabMainActivity" theme="16973837">
+<activity screenOrientation="1" name="com.ifeng.news2.activity.PushPassThroughActivity" theme="16973919" launchMode="2">
+<activity screenOrientation="1" name="com.ifeng.android.games.activity.GameActivity" theme="16973837">
+<activity screenOrientation="1" name="com.ifeng.android.games.activity.GameDetailActivity" theme="16973837">
+<activity name="com.ifeng.news2.wxapi.WXEntryActivity" theme="16973840" exported="true">
+<activity excludeFromRecents="true" name=".yxapi.YXEntryActivity" theme="16973840" configChanges="1184" exported="true" launchMode="2">
+18
+<service name="com.ifeng.news2.service.DownLoadAppService">
+<service name="com.ifeng.news2.commons.upgrade.UpgradeService">
+<service process=":external" name="com.ifeng.news2.exception.SendErrorReportService" exported="true">
+<service name=".service.SplashService">
+<service name=".service.BadgeNotificationService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="com.ifeng.ipush.client.service.PushService" exported="false">
+<service enabled="true" name="com.ifeng.ipush.client.service.EventService" exported="false">
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service name="com.ifeng.news2.push.UpdateService" exported="false">
+<service process=":widget" name="com.ifeng.news2.app.widgets.IfengWidgetService_4x2" exported="false">
+<service process=":widget" name="com.ifeng.news2.app.widgets.IfengWidgetService_4x3" exported="false">
+<service process=":widget" name="com.ifeng.news2.app.widgets.IfengWidgetService_4x4" exported="false">
+<service process=":widget" name="com.ifeng.news2.app.widgets.IfengWidgetService_4x1" exported="false">
+<service name="cn.com.fetion.openapi.gamecenter.impl.GetCodeService">
+<service name="cn.com.fetion.openapi.gamecenter.impl.GetTokenService">
+19
+<receiver name="com.ifeng.news2.receiver.SplashBroadcastReceiver" exported="false">
+<receiver name="com.ifeng.news2.receiver.OverwriteAppReceiver">
+<receiver name="com.ifeng.news2.receiver.HeartBeatBroadCastReceiver" exported="false">
+<receiver name="com.tencent.mm.sdk.plugin.MMPluginOAuth$Receiver" permission="com.tencent.mm.oauth.permission.SEND">
+<receiver name="com.tencent.mm.sdk.channel.MMessage$Receiver" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver name=".yxapi.YXAppRegister" permission="im.yixin.sdk.permission.YIXIN_SDK_MESSAGE">
+<receiver enabled="true" name="com.ifeng.ipush.client.receiver.PushReceiver" exported="false">
+<receiver enabled="true" name="com.ifeng.news2.receiver.AdPushReceiver">
+<receiver enabled="true" name="com.ifeng.news2.push.IfengPushReceiver" exported="false">
+<receiver name="com.ifeng.news2.push.PushMessageReceiver" exported="false">
+<receiver name="com.ifeng.news2.push.MiPushStateReceiver" exported="false">
+<receiver name="com.ifeng.news2.push.MiPushMessageReceiver" exported="true">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+<receiver process=":widget" name="com.ifeng.news2.app.widgets.IfengWidgetProvider_4x2" exported="true" label="2131165527">
+<receiver process=":widget" name="com.ifeng.news2.app.widgets.IfengWidgetProvider_4x3" exported="true" label="2131165528">
+<receiver process=":widget" name="com.ifeng.news2.app.widgets.IfengWidgetProvider_4x4" exported="true" label="2131165529">
+<receiver process=":widget" name="com.ifeng.news2.app.widgets.IfengWidgetProvider_4x1" exported="true" label="2131165530">
+<receiver name="com.ifeng.news2.receiver.HomePressActionReceiver">
+0
+Owner: CN=ifeng.com, OU=Phoenix Online (Beijing) Infomation Technology Co.Ltd., O=Phoenix Online (Beijing) Infomation Technology Co.Ltd., L=Beijing, ST=Beijing, C=CN
+Issuer: CN=ifeng.com, OU=Phoenix Online (Beijing) Infomation Technology Co.Ltd., O=Phoenix Online (Beijing) Infomation Technology Co.Ltd., L=Beijing, ST=Beijing, C=CN
+Serial number: 4be3754a
+Valid from: Fri May 07 10:04:58 CST 2010 until: Mon Apr 17 10:04:58 CST 2090
+Certificate fingerprints: 
+	MD5:9D:95:E8:91:FA:60:7E:92:68:B9:1A:8C:3D:D5:07:2B
+	SHA1: F8:68:B2:50:9E:DA:DF:BE:7E:C0:24:20:5A:DE:6A:CA:61:8B:23:B9
+	SHA256: 8D:CB:8B:55:BA:D7:72:41:DA:69:11:0E:1A:14:10:FC:6D:36:32:78:E0:F5:4F:20:1B:16:27:28:35:50:7E:79
+	Signature algorithm name: SHA1withRSA
+	version: 3

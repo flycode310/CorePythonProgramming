@@ -1,0 +1,74 @@
+com.thinkshow.omuurgxwlf
+434
+4.3.4
+8
+8
+14
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+36
+<activity icon="2130837504" name="com.thinkshow.omuurgxwlf.MyActivity" theme="16973841" configChanges="160" label="2130968576">
+<activity name="com.appquanta.wk.MainActivity" theme="16973830" configChanges="160" label="2130968576">
+<activity name="com.imread.book.activityComm.Bookshelf" configChanges="160">
+<activity name="com.imread.book.activityComm.TextReader" configChanges="128" launchMode="2">
+<activity name="com.imread.book.activityComm.Activity_BookSet" configChanges="160">
+<activity name="com.imread.book.activityComm.RecommendForMe" configChanges="160">
+<activity name="com.imread.book.activityComm.Activity_Discount" configChanges="160">
+<activity name="com.imread.book.activityComm.BottomTabCmccStore" configChanges="160" windowSoftInputMode="34">
+<activity name="com.imread.book.activityComm.BottomTabPublishStore" configChanges="160" windowSoftInputMode="34">
+<activity name="com.imread.book.activityComm.Publish_BsRecBooks" configChanges="160" windowSoftInputMode="34">
+<activity name="com.imread.book.activityComm.Publish_BsHotbooks" configChanges="160" windowSoftInputMode="34">
+<activity name="com.imread.book.activityComm.Publish_BsAllBoards" configChanges="160" windowSoftInputMode="34">
+<activity name="com.imread.book.activityComm.Publish_BsBookCategory" configChanges="160" windowSoftInputMode="34">
+<activity name="com.imread.book.activityComm.BookStore" configChanges="160">
+<activity name="com.imread.book.activityComm.BookVane" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_Login" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsHotbooks" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsOriginalBooks" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsGoSearch" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsAllBoards" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsGeneralBooksList" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_Register" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_PrepareCharge" configChanges="160">
+<activity name="com.imread.book.activityComm.Online_BookContentsManager" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsReadingList" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsDiscount" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsBookCategory" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsRankingBooks" configChanges="160">
+<activity name="com.imread.book.activityComm.Cmcc_BsSearchResult" theme="16973840" configChanges="160">
+<activity name="com.imread.book.activityComm.Ydx_BsGeneralBooksList" configChanges="160">
+<activity name="com.imread.book.activityComm.Ydx_BsBookDetail_v2" configChanges="160">
+<activity name="com.imread.book.activityComm.BookmarkManager" configChanges="160">
+<activity name="com.imread.book.activityComm.GroupBookContent" configChanges="160">
+<activity name="com.imread.book.activityComm.WebPictureBrowser" theme="16973840" configChanges="160">
+<activity name="com.imread.book.activityComm.ExtraReader" configChanges="160">
+<activity name="com.imread.book.activityComm.ReadInfoSetting" theme="16973840" configChanges="160" launchMode="1">
+2
+<service name="com.appquanta.wk.MainService">
+<service process=":download" name="com.imread.book.activityComm.DownloadService">
+2
+<receiver name="com.thinkshow.omuurgxwlf.MyReceiver">
+<receiver enabled="true" name="com.imread.book.activityComm.MediaButtonReceiver">
+0
+Owner: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Issuer: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Serial number: 6b937c01
+Valid from: Mon Oct 13 14:25:08 CST 2014 until: Sat Oct 13 14:25:08 CST 2114
+Certificate fingerprints: 
+	MD5:20:2D:A1:47:07:E2:FD:F3:6B:B4:F8:80:83:D4:AD:23
+	SHA1: 92:39:AB:B6:19:0E:1C:0A:51:A5:85:D9:AC:FD:0F:9C:73:45:97:2F
+	SHA256: A4:7D:03:B3:EA:BF:01:09:3A:65:16:1C:49:96:DF:FA:AB:95:E5:2A:50:92:F3:C7:53:CC:0B:4A:81:9A:A9:ED
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,40 @@
+com.scliang.bqcalendar
+2810
+2.8.1
+17
+21
+7
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.wxapi.WXEntryActivity" theme="2131296257" exported="true" label="2131230744">
+<activity name="com.scliang.remind.AppWidgetNewNoteActivity" theme="16973840">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.MainActivity" label="2131230744">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.ItemDetailActivity" theme="2131296263" label="2131230767" launchMode="2">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.SettingActivity" theme="2131296263" label="2131230802">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.GuideActivity" theme="2131296263" label="2131230757">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.FeedbackActivity" theme="2131296263" label="2131230754" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.SelectDateActivity" theme="2131296262" label="">
+2
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.scliang.bqcalendar.SrlService">
+2
+<receiver name="com.scliang.bqcalendar.SrlMiniAppwidgetReceiver">
+<receiver name="com.scliang.remind.RemindReceiver">
+0
+Owner: CN=ShangChuanliang, O=com.scliang
+Issuer: CN=ShangChuanliang, O=com.scliang
+Serial number: 532cfad9
+Valid from: Sat Mar 22 10:52:09 CST 2014 until: Wed Mar 01 10:52:09 CST 2102
+Certificate fingerprints: 
+	MD5:D2:1B:BF:67:25:8D:08:9A:16:0F:15:56:1A:F2:AC:B5
+	SHA1: 86:71:0D:F3:F3:0A:22:14:BA:5E:D0:A2:CF:B8:C7:48:89:7E:1B:6D
+	SHA256: A7:A1:8F:75:8B:D6:5B:1F:7A:A4:83:FB:C7:12:E2:25:33:03:17:AD:C4:AA:0D:47:AA:4E:8D:15:1B:06:0D:54
+	Signature algorithm name: SHA1withRSA
+	version: 3

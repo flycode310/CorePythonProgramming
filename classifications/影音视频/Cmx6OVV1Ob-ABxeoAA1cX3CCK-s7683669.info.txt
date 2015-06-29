@@ -1,0 +1,35 @@
+com.duomi.duomiFM_honey
+4
+V1.2.0
+4
+-1
+7
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+5
+<activity screenOrientation="1" name=".DuomiFM" configChanges="128" label="2131099648" windowSoftInputMode="32" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="DuomiFM_ReLogin">
+<activity screenOrientation="1" name=".DuomiFM_Feedback">
+<activity screenOrientation="1" name=".DuomiFM_Setting">
+<activity name="com.duomi.advertisement.AdvertisementList">
+2
+<service name=".media.MediaService">
+<service process=":remote" name=".download.DownloadService">
+0
+1
+<provider authorities="com.duomi.duomiFM_honey.db" name=".db.DuomiDataProvider">
+Owner: CN=duomimusic, OU=sd, O=duomi, L=beijing, ST=beijing, C=CN
+Issuer: CN=duomimusic, OU=sd, O=duomi, L=beijing, ST=beijing, C=CN
+Serial number: 4e707bd4
+Valid from: Wed Sep 14 18:03:00 CST 2011 until: Fri Aug 21 18:03:00 CST 2111
+Certificate fingerprints: 
+	MD5:3A:94:ED:30:1D:EE:91:70:F3:33:F6:A4:93:2F:F1:9E
+	SHA1: 91:66:78:0F:F8:0E:CF:A8:26:0B:73:87:FE:F2:3B:C2:D1:62:DC:45
+	SHA256: 5F:08:1D:31:02:D8:12:4E:A4:4A:F5:69:73:CA:25:60:B2:79:67:EA:FF:A2:15:A0:5C:1B:C2:3F:64:4B:FA:8F
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,30 @@
+com.juranAndAssociates.toeicvocabulary
+1
+1.0
+13
+19
+2
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity screenOrientation="1" name="com.juranAndAssociates.toeicvocabulary.FlashActivity" configChanges="160" label="2131165184">
+<activity screenOrientation="1" name="MainMenuActivity" configChanges="160">
+<activity screenOrientation="1" name="ChooseALetterActivity" configChanges="160">
+<activity screenOrientation="1" name="WordListActivity" configChanges="160" label="Word List">
+<activity screenOrientation="1" name="QuizActivity" configChanges="160" label="Quiz">
+<activity screenOrientation="1" name="ProgressActivity" configChanges="160" label="Progress">
+<activity screenOrientation="1" name="FlashCardActivity" configChanges="160">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+0
+0
+0
+Owner: C=CA, ST=ON, L=Brampton, O=Juran & Associates, OU=Unknown, CN=Juran Liu
+Issuer: C=CA, ST=ON, L=Brampton, O=Juran & Associates, OU=Unknown, CN=Juran Liu
+Serial number: 1d4f44c
+Valid from: Mon Dec 16 13:00:00 CST 2013 until: Fri Dec 31 13:00:00 CST 2038
+Certificate fingerprints: 
+	MD5:3B:DA:D4:9E:0A:C8:C3:CC:A4:34:61:92:88:74:F5:6E
+	SHA1: 2A:58:DD:0E:9D:E8:F3:B3:BB:BA:67:26:95:1A:9F:94:D4:45:EF:58
+	SHA256: 8C:4A:83:6F:A7:03:AE:75:34:13:1B:02:6F:A1:4A:A5:BF:B5:DB:C8:D2:C3:AD:DC:58:09:86:39:0C:B8:E0:4F
+	Signature algorithm name: SHA1withRSA
+	version: 1

@@ -1,0 +1,83 @@
+com.mianfei6.liuliang
+112
+1.1.2
+8
+18
+22
+android.permission.READ_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.DISABLE_KEYGUARD
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+32
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.WelcomeActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.LockActivity" theme="16973919" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.MainActivity" theme="2131361793" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.addflow.AppInforActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.addflow.AppInforActivityWeb" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.addflow.UpLoadPicActivity2" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.addflow.PicFilterActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.addflow.AtyWebActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.crop.ImgCutActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.centreflow.SetingActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.invite.InviteActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.invite.WebActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.centreflow.AboutActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.centreflow.ExchangeRecordActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.centreflow.StatementActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.centreflow.FlowUnitDetailActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.centreflow.EveryDayWhirlActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.prizeconvert.ConvertActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.prizeconvert.AwardDetailsActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.prizeconvert.AwardAddressActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.prizeconvert.AwardProvinceListActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.prizeconvert.AwardTownListActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.prizeconvert.AwardAreaListActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.prizeconvert.AwardQQAndTelConvert" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.prizeconvert.AwardCashConvert" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.centreflow.CentreMsgActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.centreflow.FeedbackActivity" theme="2131361792" configChanges="1184" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.task.NewTaskActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.task.EverydayTaskAcitvity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="com.keyrun.wifi.ui.task.FlowGiftActivity" theme="2131361792" configChanges="1184">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.mianfei6.liuliang.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+4
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service process=":lockservice_v1" name="com.keyrun.wifi.service.LockShowInWifi" exported="true">
+<service process=":lockservice_v2" name="com.keyrun.wifi.service.ProtectService" exported="true">
+<service name="com.keyrun.wifi.ui.addflow.NotificationService">
+5
+<receiver name="com.keyrun.wifi.push.MyPushMessageReceiver">
+<receiver name="com.keyrun.wifi.push.PushReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver process=":lockservice_v1" name="com.keyrun.wifi.receiver.NetAndStartReceiver">
+0
+Owner: CN=珠海蜂巢网络科技有限公司, OU=珠海蜂巢网络科技有限公司, O=珠海蜂巢网络科技有限公司, L=珠海, ST=广东, C=CN
+Issuer: CN=珠海蜂巢网络科技有限公司, OU=珠海蜂巢网络科技有限公司, O=珠海蜂巢网络科技有限公司, L=珠海, ST=广东, C=CN
+Serial number: 545c3622
+Valid from: Fri Nov 07 11:01:54 CST 2014 until: Sun Oct 14 11:01:54 CST 2114
+Certificate fingerprints: 
+	MD5:2D:5C:CA:59:AC:3A:88:2A:15:BC:40:DF:89:6D:32:4E
+	SHA1: E5:74:68:D6:23:23:BA:E8:15:24:1B:07:82:AE:CA:83:04:36:4D:27
+	SHA256: B1:E7:77:1B:5A:DD:7D:D7:BE:72:2E:88:AF:8E:55:AD:E8:D4:8E:87:95:7D:16:9B:86:58:6A:E4:3F:CA:B7:92
+	Signature algorithm name: SHA1withRSA
+	version: 3

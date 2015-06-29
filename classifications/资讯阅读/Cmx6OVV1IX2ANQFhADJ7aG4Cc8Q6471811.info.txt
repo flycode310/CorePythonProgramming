@@ -1,0 +1,55 @@
+com.appwill.reddit.diggjoke
+13
+2.0.5
+3
+-1
+4
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+22
+<activity screenOrientation="1" name="com.appwill.reddit.AppLauncher" label="2131361793">
+<activity screenOrientation="1" name="com.appwill.reddit.activity.MapViewActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.chat.ChatRoomActivity" label="2131361793">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.ForumMainActivity" label="2131361793">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.StoriesMainActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.CommentsActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.LoginActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.BoardsCenterActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.BoardsCustomizeActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.UserMyCenterActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.UserOtherCenterActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.UserInfoEditActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.FollowerListActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.ShowTopFollowerActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.MessageCenterActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.SettingCenterActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.forum.PostActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.appwill.cropimage.CropImage">
+<activity screenOrientation="0" name="com.appwill.reddit.forum.VideoWebActivity">
+<activity name="com.appwill.reddit.activity.ViewPictureActivity" configChanges="128">
+<activity name="com.appwill.reddit.forum.ReportStoryActivity">
+<activity screenOrientation="1" name="com.appwill.reddit.activity.AccountManagerActivity">
+6
+<service name="com.appwill.reddit.service.LoginService">
+<service name="com.appwill.reddit.service.BoardService">
+<service name="com.appwill.reddit.service.SpeedTestService">
+<service name="com.appwill.service.OpenCountService">
+<service name="com.appwill.reddit.service.BadditService">
+<service name="com.appwill.reddit.service.UploadImageService">
+3
+<receiver name="com.appwill.reddit.receiver.BadditReceiver">
+<receiver name="com.appwill.reddit.receiver.WifiReceiver">
+<receiver name="com.admob.android.ads.analytics.InstallReceiver" exported="true">
+0
+Owner: CN=apwill, OU=appwill, O=appwill, L=beijing, ST=beijing, C=100037
+Issuer: CN=apwill, OU=appwill, O=appwill, L=beijing, ST=beijing, C=100037
+Serial number: 4d75cc21
+Valid from: Tue Mar 08 14:26:41 CST 2011 until: Sun Feb 26 14:26:41 CST 2051
+Certificate fingerprints: 
+	MD5:2C:15:9F:33:0E:2D:A2:2E:16:BC:84:6F:54:AA:4C:7F
+	SHA1: 4B:BB:F7:86:1E:8D:E2:04:5B:13:81:A1:F0:41:03:BE:7A:90:37:96
+	SHA256: 1A:2E:64:94:55:2D:98:29:2A:92:E8:D3:31:F4:3C:A2:A2:4E:36:0D:22:0B:E6:C3:CA:25:39:C8:7B:0A:89:31
+	Signature algorithm name: SHA1withRSA
+	version: 3

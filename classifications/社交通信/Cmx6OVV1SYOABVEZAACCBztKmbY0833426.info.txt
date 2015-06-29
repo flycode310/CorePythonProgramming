@@ -1,0 +1,23 @@
+com.yarin.android.Examples_03_02
+12
+1.1.1
+5
+-1
+1
+android.permission.READ_CONTACTS
+2
+<activity name=".Activity00" label="2130968576">
+<activity name=".Activity01" parentActivityName=".Activity00" label="2130968578">
+0
+0
+0
+Owner: CN=XI LANG, OU=CN, O=CN, L=BJ, ST=BJ, C=CN
+Issuer: CN=XI LANG, OU=CN, O=CN, L=BJ, ST=BJ, C=CN
+Serial number: 58bdd617
+Valid from: Fri Feb 01 23:50:30 CST 2013 until: Tue Jan 26 23:50:30 CST 2038
+Certificate fingerprints: 
+	MD5:E2:AF:E3:34:6D:26:C6:C7:4A:7D:2A:08:8B:3F:D1:5D
+	SHA1: FB:EB:E5:5A:70:44:3E:1F:4F:A3:75:47:4E:AF:32:D9:65:E6:75:89
+	SHA256: 45:8E:48:00:C3:82:98:9E:1A:0F:48:C8:B9:25:EA:A3:CD:F4:98:92:61:C0:41:F8:57:9B:00:CF:02:79:4E:3A
+	Signature algorithm name: SHA256withRSA
+	version: 3

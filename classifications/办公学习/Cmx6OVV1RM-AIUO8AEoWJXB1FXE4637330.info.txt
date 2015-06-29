@@ -1,0 +1,64 @@
+com.ucalling
+7
+1.0.2
+7
+10
+19
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+22
+<activity screenOrientation="1" name=".activitys.StartActivity" theme="2131296256">
+<activity screenOrientation="1" name=".activitys.UActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".activitys.LoginActivity">
+<activity screenOrientation="1" name=".activitys.UserGuideActivity">
+<activity screenOrientation="1" name=".activitys.LeadingPageActivity">
+<activity screenOrientation="1" name=".activitys.PhoneActivity">
+<activity screenOrientation="1" name=".activitys.ContactActivity">
+<activity screenOrientation="1" name=".activitys.ContactInfoActivity">
+<activity screenOrientation="1" name=".activitys.SessionListActivity">
+<activity screenOrientation="1" name=".activitys.SettingActivity">
+<activity screenOrientation="1" name=".activitys.ChatActivity" configChanges="32">
+<activity screenOrientation="1" name=".activitys.SettingPageActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activitys.CallActivity" configChanges="160">
+<activity screenOrientation="1" name=".activitys.CallLogActivity">
+<activity screenOrientation="1" name=".activitys.ShowContactActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activitys.PayActivity">
+<activity screenOrientation="1" name=".activitys.RechargeActivity">
+<activity screenOrientation="1" name=".activitys.PackageActivity">
+<activity screenOrientation="1" name=".activitys.PackagePayActivity">
+<activity screenOrientation="1" name=".activitys.CropImageActivity">
+<activity screenOrientation="1" name=".activitys.BaseActivity">
+<activity name=".activitys.KickedAlertActivity" theme="2131296258">
+1
+<service enabled="true" name="com.cvtt.sip.CallService">
+2
+<receiver name="com.cvtt.xmpp.XMPPTimerReceiver">
+<receiver name="com.cvtt.sip.SIPTimerReceiver">
+0
+Owner: O=www.ucalling.com
+Issuer: O=www.ucalling.com
+Serial number: 50582ab5
+Valid from: Tue Sep 18 16:03:01 CST 2012 until: Sat Sep 12 16:03:01 CST 2037
+Certificate fingerprints: 
+	MD5:E9:28:A5:AC:DD:AB:73:96:58:81:87:18:A5:60:2F:5B
+	SHA1: DC:9B:7B:77:7A:D2:37:73:AB:48:27:A2:42:E5:DC:E8:32:4E:27:AD
+	SHA256: 26:6F:CC:EE:35:07:88:8F:AA:6D:8A:37:7B:65:3E:2C:DF:7A:F3:6D:13:F3:2D:04:71:7A:D5:77:38:B7:46:53
+	Signature algorithm name: SHA1withRSA
+	version: 3

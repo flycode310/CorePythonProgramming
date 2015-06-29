@@ -1,0 +1,43 @@
+com.ghosun.dict
+285
+2.8.5
+8
+-1
+4
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+19
+<activity name=".Welcome" label="2131099648">
+<activity screenOrientation="1" name=".Main" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".WordMeaning" label="2131099648">
+<activity screenOrientation="1" name=".Etymawords" label="2131099648">
+<activity screenOrientation="1" name=".Reading" label="2131099648">
+<activity screenOrientation="1" name=".BookListActivity" label="2131099648">
+<activity screenOrientation="1" name=".WordInBookSectionActivity" label="2131099648">
+<activity screenOrientation="1" name=".WebActivity" label="2131099648">
+<activity screenOrientation="1" name=".MainActivity" label="2131099648">
+<activity screenOrientation="1" name=".WordDictActivity" label="2131099648">
+<activity screenOrientation="1" name=".WordRemember" label="2131099648">
+<activity screenOrientation="1" name=".WordBrowser" label="2131099648">
+<activity screenOrientation="1" name=".EtymaDictActivity" label="2131099648">
+<activity screenOrientation="1" name=".WordBookActivity" label="2131099648">
+<activity screenOrientation="1" name=".BookLibActivity" label="2131099648">
+<activity screenOrientation="1" name=".SettingActivity" label="2131099648">
+<activity screenOrientation="1" name=".aActivity" label="2131099648">
+<activity screenOrientation="1" name=".ReadAvtivity" label="2131099648">
+<activity screenOrientation="1" name=".ChapterActivity" label="2131099648">
+0
+0
+0
+Owner: CN=weidonggao
+Issuer: CN=weidonggao
+Serial number: 4fb23d29
+Valid from: Tue May 15 19:25:29 CST 2012 until: Wed May 03 19:25:29 CST 2062
+Certificate fingerprints: 
+	MD5:54:21:05:71:2F:C0:BA:11:A9:1B:F5:E9:AE:F9:21:2E
+	SHA1: 42:82:5B:A5:A6:1B:C7:41:37:D1:65:D3:A9:68:07:B3:BA:3D:C1:9B
+	SHA256: 3C:B3:A0:03:AE:EB:8C:94:B8:50:38:F8:6C:14:61:B0:17:48:0A:11:53:4C:DB:94:2C:B8:B9:CF:B6:18:D0:3F
+	Signature algorithm name: SHA1withRSA
+	version: 3

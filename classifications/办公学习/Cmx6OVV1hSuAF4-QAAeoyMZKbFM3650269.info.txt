@@ -1,0 +1,23 @@
+com.fyfeng.note
+1
+1.0
+8
+16
+1
+android.permission.WRITE_EXTERNAL_STORAGE
+2
+<activity name="com.fyfeng.note.activities.MainActivity" label="2131361805">
+<activity name="com.fyfeng.note.activities.NoteEditActivity" parentActivityName="com.fyfeng.note.activities.MainActivity" label="2131361806">
+0
+0
+0
+Owner: CN=fyfeng.com, OU=fyfeng.com, O=fyfeng.com, L=beijing, ST=beijing, C=86
+Issuer: CN=fyfeng.com, OU=fyfeng.com, O=fyfeng.com, L=beijing, ST=beijing, C=86
+Serial number: 4293aef
+Valid from: Sat May 24 22:26:53 CST 2014 until: Mon Apr 30 22:26:53 CST 2114
+Certificate fingerprints: 
+	MD5:6C:13:73:CA:71:26:BE:44:B6:18:96:D1:5A:22:68:B0
+	SHA1: B2:B3:2F:87:4B:D9:85:93:5E:0C:75:AE:ED:C4:C8:C3:27:04:51:11
+	SHA256: 42:92:38:1A:46:33:2A:EB:17:01:B0:74:EC:20:95:37:31:B1:73:8B:79:73:9A:96:13:99:15:12:2D:49:98:FA
+	Signature algorithm name: SHA256withRSA
+	version: 3

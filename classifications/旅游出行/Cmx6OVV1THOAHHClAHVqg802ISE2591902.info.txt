@@ -1,0 +1,236 @@
+com.besttone.travelsky
+2618
+2.6.1.8
+7
+17
+36
+android.permission.SIGNAL_PERSISTENT_PROCESSES
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.WRITE_OWNER_DATA
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INSTALL_PACKAGES
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.WRITE_APN_SETTINGS
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.DISABLE_KEYGUARD
+android.permission.WRITE_CALENDAR
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+162
+<activity name="com.besttone.travelsky.UIMain" theme="16973830" configChanges="160" launchMode="1">
+<activity name=".yxapi.YXEntryActivity" exported="true" launchMode="1">
+<activity name=".wxapi.WXEntryActivity" exported="true" launchMode="1">
+<activity name="com.besttone.travelsky.UIWebActivites" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.passport.BankCardListActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.points.UIPoints" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.points.UIFlowCoin" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.points.UIPointsHelp" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.points.UIPointsHistory" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.points.UIPointsMall" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.points.UIPointsWebView" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.points.UICoupons" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.UIShareSms" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.UIShareSmsContactList" theme="16973830" configChanges="160">
+<activity name=".flight.UITicketSearch" theme="16973830" configChanges="160">
+<activity name=".flight.UITicketList" theme="16973830" configChanges="160">
+<activity name=".flight.UITicketListSelect" theme="16973830" configChanges="160">
+<activity name=".flight.UITicketOrder" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".flight.UITicketOrderSuccess" theme="16973830" configChanges="160">
+<activity name=".flight.UITicketOrdersList" theme="16973830" configChanges="160">
+<activity name=".flight.UITicketChangeCity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name=".flight.UITicketOrdersDetail" theme="16973830" configChanges="160">
+<activity name=".flight.UITicketPlaneDetailActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.FlightInfoPopupActivity" theme="2131361874" configChanges="160">
+<activity name="com.besttone.travelsky.HelpActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.TicketDetailActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.FlightInfoSearchActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.FlightInfoListActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.FlightOrderDetailActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.FlightInfoDetailActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.FlightInfoDetailFlowActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.FlightInfoOrderActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".checkin.FlightCheckInConfirmActivity" theme="16973830" configChanges="160">
+<activity name=".checkin.FlightCheckInDetailActivity" theme="16973830" configChanges="160">
+<activity name=".checkin.FlightCheckInHelpActivity" theme="16973830" configChanges="160">
+<activity name=".checkin.FlightCheckInInputActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".checkin.FlightCheckInListActivity" theme="16973830" configChanges="160">
+<activity name=".checkin.FlightCheckInSelectSeatActivity" theme="16973830" configChanges="160">
+<activity name=".checkin.FlightCheckInSelectTypeActivity" theme="16973830" configChanges="160">
+<activity name=".checkin.FlightCheckInSelectWapSeatActivity" theme="16973830" configChanges="160">
+<activity name=".checkin.FlightCheckInSuccessActivity" theme="16973830" configChanges="160">
+<activity name=".checkin.FlightCheckInWapResultActivity" theme="16973830" configChanges="160">
+<activity name=".checkin.FlightCheckInWebResultActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelListActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelPromoListActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelListSelectActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelCityChangeActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.HotelQuickSearchActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelSearchActivity" theme="16973830" configChanges="160">
+<activity name="HotelSearchTerm1Activity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="HotelSearchTerm2Activity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelDetailActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelDetailPicActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelDetailPromotionsActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelDetailInfoActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelDetailMapActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelMapRouteDetailActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelCouponInfoActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.CommonInfoActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.BusInfoListActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.WebPayListActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.WebPayActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.WebPayCardListActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.WebPaySuccessActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.BesttonePayActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.AlipayReturnActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.AlipayActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.BankPayActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".payment.epay.EpayActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".payment.epay.EpayActivity_train" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.OrderSuccessActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelOrderActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelOrderRequirement" theme="16973835" configChanges="160">
+<activity name="com.besttone.travelsky.HotelOrderSuccessActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.FootstepsActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.HotelOrderConfirmActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.OrderHotelListActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.OrderHotelDetailActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.OrderHotelDetailNewActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.OrderTicketDetailNewActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.WebViewActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.UIMore" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.SettingActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.ShowMapActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.CallBoardActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.besttone.travelsky.SelectCalendarActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.InsureIntroduceActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.ContactPhoneEditActivity" theme="16973835" configChanges="160">
+<activity name="com.besttone.travelsky.ContactCardEditActivity" theme="16973835" configChanges="160">
+<activity name="com.besttone.travelsky.AddressNativeEditActivity" theme="16973835" configChanges="160">
+<activity name="com.besttone.passport.LoginActivity" theme="16973830" configChanges="224" windowSoftInputMode="2">
+<activity name="com.besttone.passport.UserCenterActivity" theme="16973830" configChanges="224">
+<activity name="com.besttone.passport.UnRegUserCenterActivity" theme="16973830" configChanges="224">
+<activity name="com.besttone.passport.PasswordEditActivity" theme="16973830" configChanges="224" windowSoftInputMode="2">
+<activity name="com.besttone.passport.RegisterActivity" theme="16973830" configChanges="224" windowSoftInputMode="2">
+<activity name="com.besttone.passport.RegisterStep2Activity" theme="16973830" configChanges="224" windowSoftInputMode="2">
+<activity name="com.besttone.passport.UserEditActivity" theme="16973830" configChanges="224" windowSoftInputMode="2">
+<activity name="com.besttone.passport.UserInfoActivity" theme="16973830" configChanges="224">
+<activity name="com.besttone.travelsky.shareModule.MapChooserActivity" theme="16973835" configChanges="160">
+<activity name="com.besttone.travelsky.shareModule.AutonaviMapActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.passport.AddressEditActivity" theme="16973830" configChanges="224" windowSoftInputMode="2">
+<activity name="com.besttone.passport.AddressListActivity" theme="16973830" configChanges="224">
+<activity name="com.besttone.passport.ContactEditActivity" theme="16973830" configChanges="224" windowSoftInputMode="2">
+<activity name="com.besttone.passport.ContactListActivity" theme="16973830" configChanges="224">
+<activity name="com.besttone.travelsky.AboutUsActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.UserCommunicateActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.UserCommunicateDetailActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.WeiboHelpActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.UserFeedbackActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.UserHelpActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.UserHelpListActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.SoftShareActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.shareModule.UpgradeActivity" theme="16973830" configChanges="224">
+<activity name="com.besttone.travelsky.shareModule.ChooserActivity" theme="16973835" configChanges="160">
+<activity name="com.besttone.travelsky.EnterpriseVerifyActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.EnterpriseOrderActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.EnterpriseOrderConfirmActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.ChooseEnterpriseActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="-1" name="com.besttone.travelsky.train.TrainSearchActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="-1" name="com.besttone.travelsky.train.TrainListActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="-1" name="com.besttone.travelsky.train.TrainOrderActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="-1" name="com.besttone.travelsky.train.TrainPassStationActivity_old" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="-1" name="com.besttone.travelsky.train.MyOrderList" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.train.TrainPassStationActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.train.TrainTGQActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.train.TrainOrderDetailActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.train.TrainOrderCancelActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.train.TrainOrderSuccessActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.train.TrainCheciDetails" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.train.TrainSeatDetails" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.train.TrainOrderListActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.train.TrainChangeStationActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.train.HelpDailogActivity" theme="16973835" configChanges="160" windowSoftInputMode="2">
+<activity name="com.besttone.travelsky.train.HelpViewFlowActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".elong.ELongHotelSearchActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelListActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".elong.ELongHotelListSelectActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelDetailActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelDetailMapActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelDetailPicActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelDetailInfoActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelDetailCommentsActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelOrderSuccessActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelOrderActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".elong.ELongHotelOrderListActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelOrderDetailActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelPayActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelPayCardListActivity" theme="16973830" configChanges="160">
+<activity name=".elong.ELongHotelSearchTerm1Activity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".elong.ELongHotelSearchTerm2Activity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity name=".elong.ELongHotelCityChangeActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.MessageBoxActivity" theme="16973830" configChanges="160">
+<activity name="com.besttone.travelsky.ShowMessageActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoPluginLoadingActivity" theme="16973839" configChanges="160" exported="true" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoOrderDetailActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoPayResultActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoWebViewActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoRiskControlActivity" configChanges="160" windowSoftInputMode="34">
+<activity name="com.besttone.travelsky.payment.epay.PayActivity">
+<activity name="com.besttone.travelsky.payment.epay.TicketPayActivity">
+<activity name="com.besttone.travelsky.train.util.TrainIntegralActivity">
+<activity name="com.besttone.travelsky.UIBestAppShare" theme="16973830" configChanges="160">
+7
+<service name=".service.LocationService">
+<service name="org.push.BindPushService">
+<service process="org.push.PushService" name="org.push.PushService" exported="true">
+<service process="com.besttone.travelsky.updateservice" enabled="true" name=".update.UpdateService">
+<service enabled="true" name=".downloader.DownloadService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="com.baidu.android.pushservice.CommandService" exported="true">
+11
+<receiver name=".service.SMSBroadcastReceiver">
+<receiver name="org.push.receiver.PushNetReceiver">
+<receiver name="org.push.receiver.BootReceiver">
+<receiver name="org.push.receiver.RebindWakeReceiver">
+<receiver name="org.push.receiver.NotifyCationReceiver">
+<receiver name="org.push.receiver.WakeUpSysReceiver">
+<receiver name="org.push.receiver.PackageReceiver">
+<receiver name="com.besttone.travelsky.push.NotifyDataReceiver">
+<receiver name="com.besttone.baidupush.MyPushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=besttone, OU=com.besttone, O=com.besttone, L=shanghai, ST=shanghai, C=CN
+Issuer: CN=besttone, OU=com.besttone, O=com.besttone, L=shanghai, ST=shanghai, C=CN
+Serial number: 4d0db49e
+Valid from: Sun Dec 19 15:30:38 CST 2010 until: Thu May 06 15:30:38 CST 2038
+Certificate fingerprints: 
+	MD5:9B:3E:09:46:45:99:99:BB:3F:BC:73:20:0C:51:0B:CD
+	SHA1: 5D:AA:E0:E2:BA:E7:F8:C8:4D:37:1A:84:EF:8A:8A:30:4B:D4:75:9C
+	SHA256: 1B:E0:C4:D2:3E:04:1B:DC:73:E5:CC:EF:ED:1C:3A:20:32:2F:35:9D:EB:0D:54:F0:C6:77:B9:7D:31:90:0C:72
+	Signature algorithm name: SHA1withRSA
+	version: 3

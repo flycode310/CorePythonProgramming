@@ -1,0 +1,39 @@
+com.zdworks.android.notifybarcal
+1
+1.0.1
+4
+17
+8
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity screenOrientation="1" name="com.zdworks.android.notifybarcal.RecommendActivity" theme="2131427331" label="2131296324">
+<activity screenOrientation="1" name="com.zdworks.android.pushcommon.PushPageActivity" theme="16973840">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.zdworks.android.pushcommon.PushActivity" theme="16973840" noHistory="true" taskAffinity=":alarm" launchMode="2">
+2
+<service name="com.zdworks.android.pushcommon.download.DownloadService" exported="false">
+<service enabled="true" name="com.zdworks.android.common.push.PushService" exported="false">
+6
+<receiver name="com.zdworks.android.notifybarcal.TimeChangeManager$TimeChangeReceiver" exported="false">
+<receiver name="com.zdworks.android.notifybarcal.receiver.BootReceiver" exported="false">
+<receiver name="com.zdworks.android.pushcommon.receiver.BootReceiver" exported="false">
+<receiver name="com.zdworks.android.pushcommon.receiver.DownloadBroadcast" exported="false">
+<receiver process=":remote" name="com.zdworks.android.pushcommon.receiver.UploaderReceiver" exported="false">
+<receiver enabled="true" name="com.zdworks.android.notifybarcal.receiver.PackageChangeReceiver" exported="false">
+0
+Owner: CN=ZDworks, O=ZDworks
+Issuer: CN=ZDworks, O=ZDworks
+Serial number: 4d3b0bbe
+Valid from: Sun Jan 23 00:54:22 CST 2011 until: Fri May 26 00:54:22 CST 3009
+Certificate fingerprints: 
+	MD5:3A:70:D6:57:13:57:C3:B3:9E:73:83:5A:1D:35:11:C4
+	SHA1: 14:D5:56:B5:51:25:6E:FE:5F:CB:B3:56:53:11:B0:4D:36:A6:0F:BD
+	SHA256: 03:22:9A:FE:28:31:5A:68:3E:BF:62:F9:33:6E:3F:89:C8:D7:D4:0C:28:D7:CC:FD:94:C1:8C:08:23:D1:14:55
+	Signature algorithm name: SHA1withRSA
+	version: 3

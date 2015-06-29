@@ -1,0 +1,322 @@
+com.cleanmaster.security
+20611041
+2.6.1
+9
+17
+60
+android.permission.WRITE_INTERNAL_STORAGE
+android.permission.WRITE_CALL_LOG
+android.permission.RECEIVE_SMS
+com.android.launcher3.permission.READ_SETTINGS
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.CLEAR_APP_CACHE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.RECEIVE_WAP_PUSH
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+android.permission.MODIFY_AUDIO_SETTINGS
+com.google.android.c2dm.permission.RECEIVE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+com.google.android.providers.gsf.permission.READ_GSERVICES
+com.cleanmaster.security.permission.MAPS_RECEIVE
+android.permission.SYSTEM_ALERT_WINDOW
+com.android.launcher3.permission.WRITE_SETTINGS
+com.sec.android.provider.badge.permission.READ
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.BLUETOOTH
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.BLUETOOTH_ADMIN
+com.sec.android.provider.logsprovider.permission.WRITE_LOGS
+com.android.launcher.permission.WRITE_SETTINGS
+android.permission.GET_TASKS
+com.anddoes.launcher.permission.UPDATE_COUNT
+com.sec.android.provider.logsprovider.permission.READ_LOGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.google.android.gms.permission.ACTIVITY_RECOGNITION
+android.permission.READ_SMS
+android.permission.GET_PACKAGE_SIZE
+com.cleanmaster.security.permission.C2D_MESSAGE
+com.sec.android.provider.badge.permission.WRITE
+android.permission.BATTERY_STATS
+com.htc.launcher.permission.READ_SETTINGS
+com.sonyericsson.home.permission.BROADCAST_BADGE
+android.permission.CHANGE_WIFI_STATE
+com.htc.launcher.permission.UPDATE_SHORTCUT
+android.permission.VIBRATE
+android.permission.READ_CALL_LOG
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+186
+<activity screenOrientation="1" name="ks.cm.antivirus.main.SplashActivity" theme="2131361841" launchMode="1">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.ScanMainActivity" exported="true" launchMode="2">
+<activity excludeFromRecents="true" name="ks.cm.antivirus.conflit.check.ConfCheckerActivity" theme="2131361897" configChanges="32" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="ks.cm.antivirus.api.ActionRouterActivity" theme="2131361897">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.trust.ScanTrustActivtiy">
+<activity process=":ScanService" screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.installmonitor.InstallMonitorNoticeActivity" theme="2131361814">
+<activity process=":ScanService" screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.installmonitor.InstallMonitorSKNoticeActivity" theme="2131361814">
+<activity process=":ScanService" screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.installmonitor.InstallMonitorTowelrootNoticeActivity" theme="2131361814">
+<activity process=":ScanService" screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.neweng.leakscan.ApkLeakDialogActivity" theme="2131361814">
+<activity screenOrientation="1" name="ks.cm.antivirus.defend.activity.SmsNoticeActivity" theme="2131361814" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.defend.activity.MaliciousUrlNoticeActivity" theme="2131361814" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.defend.activity.AdultPrivacyNoticeActivity" theme="2131361896" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.defend.activity.PrivacyDeepCleanNoticeActivity" theme="2131361896" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.apprank.UninstallAppQuestionnaireActivity" theme="2131361896" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.defend.activity.AuthHackUrlNoticeActivity" theme="2131361814" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.sdscan.SDCardScanActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.antiharass.ui.EditActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.antiharass.ui.AntiharassActivity" exported="true" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="ks.cm.antivirus.antiharass.ui.CallLogActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.antiharass.ui.ContactActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.main.SettingMainActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.main.WifiSafeSettingActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.main.ScanAdvanceSettingActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.main.AdvUrlCleanSettingActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.main.AboutSoftwareActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.main.IconfontCheckActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.language.LanguageActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.SafeAppListActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.ProtectionListActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.MoreFunctionListActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.VulnerabilityDetailsActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.TowelRootHoleDetailActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.FakeIdHoleDetailActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.BroadAnyWhereHoleDetailActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.RiskyUrlDetailActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.timeline.ui.PkgMonitorListActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.timeline.ui.CmsbGuideActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.RiskyUrlCategoryDetailActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.UrlTraceDetailActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.SuggestionPrivacyDetailActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.HoleDetailListActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.PrivatePermissionActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.PrivateListActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.PrivateListDetailsActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.cmsgesture.ui.SavePatternActivity" theme="2131361840" launchMode="1">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.password.AppLockChangePasswordActivity" theme="2131361899" exported="false" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.password.AppLockChangePasswordInstanceActivity" theme="2131361840" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.password.AppLockCheckPasswordHostActivity" theme="2131361899" windowSoftInputMode="3" taskAffinity="com.cleanmaster.password" launchMode="1">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.password.AppLockCheckPasswordHostInstanceActivity" theme="2131361899" windowSoftInputMode="3" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.intruder.ShowPhotoTimeLineActivity" theme="2131361899" exported="false" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.intruder.AppLockIntruderSelfieExperienceActivity" theme="2131361899" exported="false" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.ui.AppLockGuideLockDialog" theme="2131361814" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.ui.AppLockMIUIFloatingWIndowEnableGuideActivity" theme="16973840" noHistory="true" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.ui.AppLockMIUIIntruderSelfieGuideActivity" theme="16973840" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.theme.ui.ThemeListActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.theme.ui.ThemeListInstanceActivity" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.protect.SecretBoxActivity" theme="2131361902" exported="true" launchMode="3">
+<activity icon="2130837938" name="ks.cm.antivirus.applock.protect.bookmark.SecretBoxBookmarksShareActivity" theme="2131361902" label="2131231362">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.protect.bookmark.SecretBoxBookmarksActivity" theme="2131361902" exported="true" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.protect.bookmark.AddBookmarksActivity" theme="2131361902" windowSoftInputMode="16" launchMode="3">
+<activity excludeFromRecents="true" hardwareAccelerated="true" name="ks.cm.antivirus.applock.protect.bookmark.SecretBoxPrivateWebViewCoreActivity" theme="2131361902" configChanges="1440" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.theme.custom.CustomCropPhotoActivity" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.theme.custom.CustomPickPhotoActivity" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.vault.ui.VaultTabActivity" exported="true">
+<activity screenOrientation="1" name="ks.cm.antivirus.vault.ui.VaultSelectPhotoActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.vault.ui.VaultUserInstructionActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.vault.ui.VaultFileDetailedViewActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.vault.ui.VaultSettingActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.antitheft.ui.ScreamActivity" launchMode="2">
+<activity process=":DefendService" screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.antitheft.ui.ScreamRemoteActivity" taskAffinity="ks.cm.antivirus" launchMode="2">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.LockActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.BackupContactsActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.BackupSmsActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.BackupCallHistoryActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.BackupPhotoActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.LocateActivity1">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.LocateActivity2">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.EraseActivity" launchMode="2">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.MoreActivity" launchMode="2">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.AntitheftSettingActivity" launchMode="2">
+<activity process=":DefendService" screenOrientation="1" name="com.ijinshan.duba.antiharass.ui.CheatSmsActivity" theme="2131361814">
+<activity process=":DefendService" screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.guide.GuideInstallCmDialog" theme="2131361814" noHistory="true" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.main.ui.AppLockMainActivity" theme="2131361902" exported="true" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.main.ui.AppLockActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.AppLockSettingActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.AppLockLockSettingActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.intruder.AppLockIntruderSelfieSettingActivity" taskAffinity=".applock_intruder">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.intruder.AppLockIntruderSelfieSettingSingleTopActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.IntruderSelfiePhotoGridInstanceActivity" exported="false" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.IntruderSelfiePhotoGridActivity" taskAffinity=".applock_intruder">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.IntruderSelfiePhotoPagerActivity">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.AppLockSecretBoxMenuActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.ui.AppLockEntryActivity" theme="2131361839" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.recommend.AppLockRecommendIntruderActivity" theme="2131361841">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.recommend.AppLockRecommendIntruderPlusActivity" theme="2131361841">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.widget.AppLockEntryUnlockActivity" theme="2131361839" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.widget.AppLockCheckWidgetActivity" theme="2131361814" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.ui.AppLockUnlockAppActivity">
+<activity process=":DefendService" screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.lockscreen.ui.AppLockScreenActivity" theme="2131361839" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.lockscreen.ui.SysLockScreenActivity" theme="2131361839" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.AppLockRecommendedAppActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.AppLockRecommendedResultActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.ui.AppLockCnRecommendActivity" theme="2131361902" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.AppLockOAuthActivity" theme="2131361899" exported="false" launchMode="1">
+<activity screenOrientation="1" name="ks.cm.antivirus.applock.ui.AppLockSafeQuestionActivity" theme="2131361792" taskAffinity=".applocklib.oauth" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.ad.AdWallActivity" taskAffinity=".applock_adwall" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.applock.statistics.StatisticRecommendAppDialogActivity" theme="2131361792" exported="false" taskAffinity=".applock.recommend">
+<activity excludeFromRecents="true" name="ks.cm.antivirus.recommend.cmb.CMBPromoteActivity" theme="2131361793" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.DetailScanReportActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.scan.RiskyUrlScanActivity" exported="true" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.scan.SuspiciousAppListActivity" exported="true">
+<activity excludeFromRecents="true" name="ks.cm.antivirus.scan.RiskyUrlScanNotificationActivity" theme="16973840" exported="true" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.PushWebViewActivity">
+<activity process=":PrivateWebView" enabled="true" icon="2130838472" name="ks.cm.antivirus.scan.PrivateWebViewActivity" theme="2131361814" configChanges="1184" label="2131231724" launchMode="3">
+<activity process=":PrivateWebView" excludeFromRecents="true" hardwareAccelerated="true" name="ks.cm.antivirus.scan.PrivateWebViewCoreActivity" configChanges="1440" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.privacy.app.SuspiciousAppDetailActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.apprank.AppRankDetailActivity">
+<activity process=":DefendService" screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.defend.network.WiFiConnectingActivity" theme="2131361896" exported="false" launchMode="3">
+<activity process=":locker" excludeFromRecents="true" name="com.cmcm.locker.sdk.ui.DismissActivity" theme="2131361894" launchMode="3">
+<activity excludeFromRecents="true" name="com.cmcm.locker.sdk.ui.KNoticationAccessGuideActivity" theme="2131361895" launchMode="3">
+<activity excludeFromRecents="true" name="com.cmcm.locker.sdk.ui.NotificationGuideActivity" launchMode="3">
+<activity screenOrientation="1" name="com.locker.sdk.ui.CMLockerSDKSettingsActivity">
+<activity screenOrientation="1" name="com.locker.sdk.ui.CMLockerSDKPWSetting">
+<activity screenOrientation="1" name="com.locker.sdk.ui.CMLockerSDKAutomaticallyLockActivity">
+<activity screenOrientation="1" name="com.locker.sdk.ui.CMLockerSDKNotifySettingActivity">
+<activity screenOrientation="1" name="com.locker.sdk.ui.CMLockerSDKCustomizedSetting">
+<activity name="ks.cm.antivirus.antitheft.sms.LockPhotoActivity">
+<activity name="ks.cm.antivirus.antitheft.ConfirmCredentialsActivityForLock">
+<activity name="ks.cm.antivirus.applock.ui.GoogleAccountVerificationGuideActivity" launchMode="3">
+<activity process=":DefendService" excludeFromRecents="true" name="ks.cm.antivirus.recommendapps.NullActivity" theme="16973839" configChanges="96" taskAffinity="ks.cm.antivirus.qucikrcm.nullact" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.ijinshan.krcmd.view.WebViewActivity" configChanges="160" launchMode="3">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserRegisterOptionsActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserRegisterActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserLoginActivity" theme="16973830" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserQuickLoginActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserForgetKeyActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserForgetKeySuccessActivity" theme="16973830" configChanges="32">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.PhotoTrimsActivity" configChanges="32" launchMode="2">
+<activity screenOrientation="1" name="com.ijinshan.kbackup.activity.FeedBackActivity" configChanges="32">
+<activity screenOrientation="1" name="com.ijinshan.kbackup.activity.CloudPictureDirDetailActivity" configChanges="32">
+<activity screenOrientation="1" name="com.ijinshan.kbackup.activity.CloudPicturePreviewActivity" configChanges="32">
+<activity screenOrientation="1" name="com.facebook.LoginActivity" theme="2131361887" configChanges="1184" label="2131233262">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.cmwebview.CMWebViewActivity" configChanges="32">
+<activity screenOrientation="1" name="com.kbackup.contacts.ui.ContactsActivity" configChanges="32">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserLoginDialogActivity" theme="2131361814" configChanges="32" windowSoftInputMode="0">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.SecondLoginCmDialogActivity" theme="2131361814" configChanges="32" windowSoftInputMode="0">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.SecondLoginDialogActivity" theme="16973839" configChanges="32" windowSoftInputMode="0">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.RecommendFacebookDialogActivity" theme="2131361814" configChanges="32">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.main.ui.SafeBoxMainActivity" configChanges="32">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.main.ui.SafeBoxSettingActivity" configChanges="32">
+<activity screenOrientation="1" name="com.ijinshan.kbackup.activity.ContactCloudDetailActivity" configChanges="32">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.main.ui.AsyncDetailActivity" configChanges="32" launchMode="2">
+<activity screenOrientation="1" name="com.ijinshan.kbackup.activity.CloudDetailActivity" configChanges="32">
+<activity screenOrientation="1" name="com.ijinshan.kbackup.activity.PreventLostDataActivity" configChanges="32">
+<activity name="com.ijinshan.kbackup.activity.ComposeSmsActivity">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserLoginRouterActivity" theme="2131361897">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserLoginWithGoogleAccountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ijinshan.cmbackupsdk.phototrims.ui.UserLoginWithGoogleAccountActivity2" theme="2131361898">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.cleanmaster.security.callblock.ui.CallTaggingActivity" theme="2131361814" taskAffinity="com.cleanmaster.security.callblock" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.cleanmaster.security.callblock.ui.CallBlockHandUpAddContactActivity" theme="2131361814" taskAffinity="com.cleanmaster.security.callblock" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.cleanmaster.security.callblock.ui.ContactAuthorizeActivity" theme="2131361814" taskAffinity="com.cleanmaster.security.callblock" launchMode="2">
+<activity screenOrientation="1" name="com.cleanmaster.security.callblock.ui.CustomTagEditorActivity" taskAffinity="com.cleanmaster.security.callblock">
+<activity screenOrientation="1" name="com.cleanmaster.security.callblock.ui.CustomTagEditorActivity2" windowSoftInputMode="2" taskAffinity="com.cleanmaster.security.callblock">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.cleanmaster.security.callblock.ui.CallBlockReportAsSpanActivity" theme="2131361814" taskAffinity="com.cleanmaster.security.callblock" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.cleanmaster.security.callblock.ui.CallBlockHiddenNumberAuthorizeActivity" theme="2131361814" taskAffinity="com.cleanmaster.security.callblock" launchMode="2">
+<activity screenOrientation="1" name="com.cleanmaster.security.callblock.ui.CallBlockListActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.scan.PowerBoostActivity" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.scan.WiFiBoostActivity" exported="true" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.ProAntitheftMainActivity" exported="true" windowSoftInputMode="48" launchMode="1">
+<activity screenOrientation="1" name="com.kbackup.contacts.ui.UserForgetPatternActivity" configChanges="32">
+<activity screenOrientation="1" name="ks.cm.antivirus.antitheft.ui.AntitheftAdvanceSettingActivity" launchMode="1">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.result.WifiProtectScanResultActivity">
+<activity screenOrientation="1" name="com.ijinshan.screensavernew.ScreenSaver2Activity" theme="16973841" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.scan.network.ui.WifiScanResultActivity" exported="true" launchMode="3">
+<activity screenOrientation="1" name="ks.cm.antivirus.scan.network.ui.WifiScanResultDetailActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.scan.network.ui.WifiSafetyResultActivity" exported="true" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="ks.cm.antivirus.scan.network.ui.WifiSpeedTestActivity" exported="true" launchMode="3">
+<activity screenOrientation="1" name="com.locker.sdk.ui.NotificationGuideActivity">
+<activity hardwareAccelerated="true" name="com.loopme.AdActivity" theme="16973839" configChanges="1184">
+<activity name="com.loopme.AdBrowserActivity">
+<activity name="com.cleanmaster.applink.DeepLinkActivity" theme="2131361841">
+<activity name="com.mopub.mobileads.MoPubActivity" configChanges="1184" taskAffinity="com.cleanmaster.mopub">
+<activity name="com.mopub.mobileads.MraidActivity" configChanges="1184" taskAffinity="com.cleanmaster.mopub">
+<activity name="com.mopub.common.MoPubBrowser" configChanges="1184" taskAffinity="com.cleanmaster.mopub">
+<activity name="com.mopub.mobileads.MraidVideoPlayerActivity" configChanges="1184" taskAffinity="com.cleanmaster.mopub">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.cleanmaster.applocklib.ui.main.AppLockMainActivity" theme="2131361902" exported="true">
+18
+<service process=":DefendService" name="ks.cm.antivirus.gcm.GCMIntentService">
+<service process=":DefendService" name="ks.cm.antivirus.cloudconfig.CloudCfgIntentService" exported="false">
+<service process=":DefendService" name="ks.cm.antivirus.common.utils.UrlCleanIntentService" exported="false">
+<service process=":DefendService" name="ks.cm.antivirus.common.utils.activityrecognition.ActivityRecognitionIntentService" exported="false">
+<service process=":DefendService" name="ks.cm.antivirus.defend.DefendService" exported="true">
+<service process=":AppLock" name="ks.cm.antivirus.applock.service.AppLockService" exported="false">
+<service process=":DefendService" name="ks.cm.antivirus.defend.EcmoService" exported="false">
+<service process=":CrashReport" name="ks.cm.antivirus.defend.CrashReportService" exported="false">
+<service process=":ScanService" name="ks.cm.antivirus.neweng.service.ScanService" exported="false">
+<service process=":DefendService" name="ks.cm.antivirus.api.CMSecurityAPIService" exported="true">
+<service process=":locker" name="com.locker.sdk.service.CMLockerSDKService" exported="false">
+<service process=":DefendService" name="com.cmcm.locker.sdk.logic.service.NotificationListener" permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE" label="2131233262">
+<service process=":DefendService" name="com.cmcm.locker.sdk.logic.service.NotifyAccessibilityService" permission="android.permission.BIND_ACCESSIBILITY_SERVICE" label="2131233262">
+<service name="com.cleanmaster.service.LocalService" exported="false">
+<service name="com.ijinshan.kbackup.service.HeadlessSmsSendService" exported="true" permission="android.permission.SEND_RESPOND_VIA_MESSAGE">
+<service process=":BackupService" screenOrientation="1" name="com.ijinshan.cmbackupsdk.service.KBackupEngineService">
+<service process=":DefendService" screenOrientation="1" name="com.ijinshan.cmbackupsdk.service.KBackupCoreService">
+<service process=":ssologin" name="com.ijinshan.user.core.sdk.ssologin.SSOLoginService" exported="true">
+26
+<receiver process=":DefendService" name="ks.cm.antivirus.gcm.GCMRecevier" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="ks.cm.antivirus.pushmessage.PushMessageReceiver">
+<receiver name="ks.cm.antivirus.applock.receiver.PhoneCallReceiver">
+<receiver process=":DefendService" name="ks.cm.antivirus.applock.receiver.AppLockReportReceiver" exported="false">
+<receiver enabled="true" name="ks.cm.antivirus.applock.receiver.SecretBoxShortcutStatusReceiver" exported="false">
+<receiver process=":DefendService" name="ks.cm.antivirus.scheduletask.ScheduleTaskAlarmReceiver" exported="false">
+<receiver process=":locker" name="com.cmcm.locker.sdk.logic.FakeLockerReceiver" exported="true" label="2131233298">
+<receiver process=":DefendService" name="ks.cm.antivirus.utils.InstallReferrerReceiver" exported="true">
+<receiver description="2131230720" name="ks.cm.antivirus.utils.CMSDeviceAdminReceiver" permission="android.permission.BIND_DEVICE_ADMIN">
+<receiver process=":DefendService" name="ks.cm.antivirus.watcher.ScanReceiver" exported="false">
+<receiver name="ks.cm.antivirus.receiver.AutoRunReceiver" exported="true">
+<receiver process=":DefendService" name="ks.cm.antivirus.receiver.UserUnLockReceiver">
+<receiver process=":DefendService" name="ks.cm.antivirus.receiver.SmsFilterReceiver">
+<receiver name="ks.cm.antivirus.antitheft.sms.SmsCtrl$LocationReceiver">
+<receiver name="ks.cm.antivirus.antitheft.gcm.LocationObject$RetryLocationReceiver">
+<receiver process=":DefendService" name="ks.cm.antivirus.receiver.DeleteNotifyReceiver" exported="true">
+<receiver process=":DefendService" name="ks.cm.antivirus.widget.AppWidgetProviderControl">
+<receiver process=":DefendService" name="ks.cm.antivirus.applock.widget.AppLockWidgetProviderControl" label="2131233434">
+<receiver name="com.ijinshan.kbackup.receiver.MmsReceiver" permission="android.permission.BROADCAST_WAP_PUSH">
+<receiver name="com.ijinshan.kbackup.receiver.SmsReceiver" permission="android.permission.BROADCAST_SMS">
+<receiver name="com.ijinshan.user.core.sdk.ssologin.LoginCheckReceiver" exported="true">
+<receiver name="com.kbackup.AutoBackupReceiver" exported="false">
+<receiver process=":DefendService" name="ks.cm.antivirus.notification.NotificationDismissReceiver" exported="false">
+<receiver name="com.ijinshan.screensavershared.ScreenSaverNullReceiver" exported="false">
+<receiver process=":DefendService" name="com.ijinshan.screensavershared.mutual.CharingSaverStateReceiver" exported="true">
+<receiver process=":DefendService" enabled="true" name="ks.cm.antivirus.receiver.DummyPackageReceiver" exported="true">
+12
+<provider process=":DefendService" authorities="2131233484" name="ks.cm.antivirus.vault.util.VaultContentProvider" exported="false">
+<provider authorities="2131233479" name="ks.cm.antivirus.applock.protect.bookmark.BookmarkProvider" exported="false">
+<provider process=":DefendService" authorities="2131233297" name="com.cmcm.locker.sdk.config.ConfigProvider" exported="false">
+<provider process=":DefendService" authorities="2131233298" name="com.cmcm.locker.sdk.config.LockerActiveProvider" exported="true">
+<provider process=":DefendService" authorities="2131233481" name="ks.cm.antivirus.provider.DubaConfigProvider" exported="false">
+<provider process=":DefendService" authorities="2131233480" name="ks.cm.antivirus.applock.theme.ThemeContentProvider" exported="false">
+<provider process=":DefendService" authorities="2131233478" name="ks.cm.antivirus.applock.launchertheme.LauncherThemeContentProvider" exported="false">
+<provider process=":DefendService" authorities="2131233482" name="ks.cm.antivirus.provider.FirewallProvider" exported="false">
+<provider process=":DefendService" authorities="2131233296" name="com.cleanmaster.security.callblock.database.UnknownCallProvider" exported="false">
+<provider process=":DefendService" authorities="2131233303" name="com.ijinshan.krcmd.sharedprefs.RcmdConfigProviderEn" exported="false">
+<provider process=":DefendService" authorities="2131233483" name="ks.cm.antivirus.scan.result.timeline.data.CardsContentProvider" exported="false">
+<provider process=":DefendService" authorities="2131233302" name="com.ijinshan.cmbackupsdk.provider.CmbSdkConfigProvider" exported="false">
+Owner: CN=金山网络, OU=金山毒霸, O=金山网络, L=珠海, ST=广东, C=86
+Issuer: CN=金山网络, OU=金山毒霸, O=金山网络, L=珠海, ST=广东, C=86
+Serial number: 50278172
+Valid from: Sun Aug 12 18:12:02 CST 2012 until: Thu Aug 06 18:12:02 CST 2037
+Certificate fingerprints: 
+	MD5:FE:2E:35:D0:D1:1D:0C:2C:B4:E5:6F:61:A3:52:F0:30
+	SHA1: F6:B8:93:99:E0:83:9D:C3:1B:76:45:BF:1C:C2:2E:84:34:9E:7F:7E
+	SHA256: 23:8D:F1:28:8B:E9:DA:35:1D:2E:74:33:6F:8E:34:4A:F4:ED:26:3A:5A:34:96:40:35:75:93:85:CC:68:E0:CE
+	Signature algorithm name: SHA1withRSA
+	version: 3

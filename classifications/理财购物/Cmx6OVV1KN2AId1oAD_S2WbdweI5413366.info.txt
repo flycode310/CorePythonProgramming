@@ -1,0 +1,44 @@
+com.bmqb.bmqb
+14
+1.3.1
+10
+19
+14
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.VIBRATE
+com.bmqb.bmqb.permission.JPUSH_MESSAGE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+5
+<activity screenOrientation="1" name="CordovaApp" theme="16973833" configChanges="1204" label="2131165219" windowSoftInputMode="32" launchMode="1">
+<activity name="com.mechat.mechatlibrary.ui.ConversationActivity" theme="16973836" launchMode="2">
+<activity name="com.mechat.mechatlibrary.ui.ZoomImageActivity">
+<activity name=".wxapi.WXEntryActivity" exported="true" label="2131165218">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+3
+<service name="com.mechat.mechatlibrary.MechatService" label="MechatService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+2
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+0
+Owner: CN=bmqb, OU=bmqb, O=bmqb, L=bmqb, ST=Unknown, C=Unknown
+Issuer: CN=bmqb, OU=bmqb, O=bmqb, L=bmqb, ST=Unknown, C=Unknown
+Serial number: 73fa4c09
+Valid from: Thu Mar 12 15:42:55 CST 2015 until: Mon Jul 28 15:42:55 CST 2042
+Certificate fingerprints: 
+	MD5:C4:FF:06:F5:D6:11:AB:A8:34:FA:E4:84:6F:CC:EF:12
+	SHA1: C2:B7:47:16:EA:E9:76:49:9B:0F:7E:8C:B6:4C:07:DF:EC:72:AD:AE
+	SHA256: BB:E1:C4:9D:B3:F9:DC:D0:8B:D4:9E:E1:05:70:66:B8:97:42:BE:E4:FC:7D:EC:C9:FA:05:53:80:EB:85:D6:16
+	Signature algorithm name: SHA256withRSA
+	version: 3

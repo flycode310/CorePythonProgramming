@@ -1,0 +1,100 @@
+com.monsou.zhongguotuangouwang
+2
+1.0.0
+8
+-1
+18
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+60
+<activity name=".Init_app_Activity" label="2131296264">
+<activity name=".MainActivity" windowSoftInputMode="32">
+<activity name=".ShowInfo">
+<activity name=".Qiyehuangye">
+<activity name=".Sousuo">
+<activity name=".ChanpinActivity">
+<activity name=".ZixunShowInfo">
+<activity name=".Huiyuan">
+<activity name=".VipList">
+<activity name=".GeoCoder">
+<activity name=".XinwenShowInfo">
+<activity name=".GongqiuShowInfo">
+<activity name=".ZhaoshangShowInfo">
+<activity name=".Init_app_Activity2">
+<activity name=".Init_app_Activity3">
+<activity name=".ZixunShopListActivity">
+<activity name=".QiyeShopListActivity">
+<activity name=".ZhanhuiShowInfo">
+<activity name=".ChanpinActivity">
+<activity name=".JiayouActivity">
+<activity name=".ShopListActivity">
+<activity name=".SousuoShopListActivity">
+<activity name=".ShousuoShopListActivity">
+<activity name=".ZhaoshangShopListActivity">
+<activity name=".GongqiuShopListActivity">
+<activity name=".ZhanhuiShopListActivity">
+<activity name=".RegisterPhone">
+<activity name=".RegisterCheckCode">
+<activity name=".LoginActivity">
+<activity name=".GalleryShopListActivity">
+<activity name=".GalleryShowInfo">
+<activity name=".App_recommend">
+<activity screenOrientation="1" name="com.iflytek.mscdemo.MainActivity" theme="2131361799" configChanges="1073742079" label="2131296267">
+<activity name="com.iflytek.mscdemo.IatDemoActivity" theme="2131361799" configChanges="1073742079" label="2131296267" windowSoftInputMode="35">
+<activity name="com.iflytek.mscdemo.IsrDemoActivity" theme="2131361799" configChanges="1073742079" label="2131296267" windowSoftInputMode="35">
+<activity name="com.iflytek.mscdemo.TtsDemoActivity" theme="2131361799" configChanges="1073742079" label="2131296267" windowSoftInputMode="35">
+<activity name="com.iflytek.mscdemo.TtsPreferenceActivity" theme="2131361801" label="2131296267">
+<activity name="com.iflytek.mscdemo.IatPreferenceActivity" theme="2131361801" label="2131296267">
+<activity name="com.iflytek.mscdemo.com.iflytek.mscdemo.IsrPreferenceActivity" theme="2131361801" label="2131296267">
+<activity name="com.monsou.zhongguotuangouwang.upload.UpLoadPic">
+<activity name="com.monsou.zhongguotuangouwang.upload.UpLoadPic_alter">
+<activity name="com.monsou.zhongguotuangouwang.upload.SelectFileActivity">
+<activity name="com.monsou.zhongguotuangouwang.upload.MonsouProducts">
+<activity name=".BackStageActivity">
+<activity name=".Proclass">
+<activity name=".ProDetail">
+<activity name=".CommentPl">
+<activity name=".Publish2Activity">
+<activity name="com.monsou.zhongguotuangouwang.upload.CommentProducts">
+<activity name="org.androidpn.client.NotificationDetailsActivity" label="Notification Details">
+<activity name="org.androidpn.client.NotificationSettingsActivity" label="Notification Settings">
+<activity name="net.youmi.android.AdActivity" configChanges="112">
+<activity name="com.monsou.zhongguotuangouwang.MainActivity2">
+<activity name=".MyAroundUs">
+<activity screenOrientation="1" name="com.xmpp.client.FormClient" windowSoftInputMode="2">
+<activity name="com.xmpp.client.FriendList">
+<activity name=".More">
+<activity screenOrientation="1" name="com.xmpp.client.FormFiles">
+<activity name="com.google.zxing.client.android.encode.EncodeActivity">
+<activity screenOrientation="0" name="com.google.zxing.client.android.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+1
+<service enabled="true" name="org.androidpn.client.FurniturepfService" label="FurniturepfService">
+1
+<receiver name="net.youmi.android.YoumiReceiver">
+0
+Owner: CN=SLN, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=SLN, L=Beijing, ST=Beijing, C=CN
+Serial number: 8559bd4
+Valid from: Fri Apr 26 18:05:16 CST 2013 until: Tue Apr 20 18:05:16 CST 2038
+Certificate fingerprints: 
+	MD5:7A:3B:D1:00:73:10:C8:03:D0:68:C9:88:FE:B5:2B:6B
+	SHA1: 99:BF:24:58:A7:C6:D3:46:41:BD:E2:75:6F:85:D0:D8:74:C7:51:C3
+	SHA256: 23:A4:BC:1C:54:13:17:9B:D9:83:0E:BB:EC:8F:D5:06:C3:42:07:A6:E1:C9:52:C2:F5:29:80:A3:A4:FB:D8:AC
+	Signature algorithm name: SHA256withRSA
+	version: 3

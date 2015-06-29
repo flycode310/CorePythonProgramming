@@ -1,0 +1,55 @@
+me.abitno.vplayer.t
+326
+3.2.6
+9
+19
+11
+android.permission.READ_PHONE_STATE
+io.vov.vitamio.permission.WRITE_PROVIDERS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.BROADCAST_STICKY
+io.vov.vitamio.permission.RECEIVE_MESSAGES
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.MODIFY_AUDIO_SETTINGS
+10
+<activity name="me.abitno.media.explorer.FileExplorerContainer" configChanges="3312" exported="true" label="2131296297" windowSoftInputMode="3" launchMode="1">
+<activity name="me.abitno.media.explorer.MediaDetailActivity" configChanges="3312" parentActivityName="me.abitno.media.explorer.FileExplorerContainer" label="2131296297" windowSoftInputMode="3">
+<activity name="me.abitno.media.explorer.StreamDetailActivity" configChanges="3312" label="2131296297" windowSoftInputMode="3">
+<activity process=":vplayer" screenOrientation="0" name="me.abitno.vplayer.VideoActivity" theme="2131361984" configChanges="3312" windowSoftInputMode="3" launchMode="1">
+<activity process=":vplayer" screenOrientation="0" name="me.abitno.vplayer.VideoPlayActivity" theme="2131361982" configChanges="3312" label="2131296298" launchMode="1">
+<activity process="com.yixia.vitamio.mainservice" name="me.abitno.vitamio.InitActivity" theme="2131361982" configChanges="3312" windowSoftInputMode="3" launchMode="1">
+<activity name="me.abitno.vplayer.settings.VPreferenceActivity" theme="2131361980" configChanges="3312">
+<activity name="me.abitno.vplayer.settings.VInfoActivity" configChanges="3312">
+<activity name="me.abitno.vplayer.plug.PluginsActivity" theme="2131361980" configChanges="3312">
+<activity name="me.abitno.media.explorer.SearchActivity" configChanges="3312" exported="false" label="2131296519" launchMode="1">
+6
+<service name="me.abitno.vplayer.UpdateService" exported="false">
+<service process="com.yixia.vitamio.mediascanner" name="io.vov.vitamio.MediaScannerService" exported="false">
+<service process="com.yixia.vitamio.mainservice" name="io.vov.vitamio.VitamioService" exported="false">
+<service process=":vplayer" name="me.abitno.vplayer.VPlayerService">
+<service process=":vplayer" name="me.abitno.vplayer.RemoteVPlayerService">
+<service process=":vplayer" name="io.vov.vcast.service.HttpdService">
+3
+<receiver enabled="true" name="io.vov.vitamio.NativeReceiver" exported="true">
+<receiver name="io.vov.vitamio.MediaScannerReceiver">
+<receiver name="me.abitno.media.explorer.MediaScannerStatusReceiver">
+5
+<provider process="com.yixia.vitamio.mediaprovider" writePermission="io.vov.vitamio.permission.WRITE_PROVIDERS" authorities="me.abitno.vplayer.mediaprovider" multiprocess="false" name="io.vov.vitamio.provider.MediaProvider" readPermission="android.permission.READ_EXTERNAL_STORAGE">
+<provider process="me.abitno.vplayer.streamprovider" writePermission="io.vov.vitamio.permission.WRITE_PROVIDERS" authorities="me.abitno.vplayer.streamprovider" multiprocess="false" name="me.abitno.media.provider.StreamProvider">
+<provider authorities="me.abitno.zi.provider.preference" name="com.yixia.zi.preference.PreferenceProvider" exported="false">
+<provider authorities="me.abitno.provider.session" name="me.abitno.media.provider.SessionProvider" exported="false">
+<provider authorities="me.abitno.media.provider.searchsuggestion" name="me.abitno.media.provider.SearchSuggestionProvider" exported="false">
+Owner: CN=Cedric Fung, O=ABitNo, C=86
+Issuer: CN=Cedric Fung, O=ABitNo, C=86
+Serial number: 4caffc58
+Valid from: Sat Oct 09 13:23:36 CST 2010 until: Sat Sep 20 13:23:36 CST 2087
+Certificate fingerprints: 
+	MD5:FB:CF:F7:CB:53:39:40:26:CB:6C:1E:F2:44:10:95:8E
+	SHA1: 94:4A:79:C0:F7:EB:3A:CB:58:9F:32:2E:BE:BA:3D:3A:5E:C1:07:0D
+	SHA256: A1:95:7C:B1:2F:EE:C9:54:6F:40:0D:79:8D:E8:8B:5F:64:FD:DE:45:EB:21:2E:F3:7D:A1:23:E5:AD:9C:B6:D1
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,82 @@
+qzyd.speed.nethelper
+38
+3.0.8
+8
+19
+20
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.EXPAND_STATUS_BAR
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+37
+<activity screenOrientation="1" name="qzyd.speed.nethelper.MainActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.LoginActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.MessageActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.MessageDetailsActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.LaunchActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.MyGuideActivity" label="2131296262" windowSoftInputMode="34">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.MuiV5Activity" label="2131296262" windowSoftInputMode="34">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.TrafficRemindActivity" configChanges="160" label="2131296262" windowSoftInputMode="2">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.SettingActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.RedPacketActivity" label="2131296262" windowSoftInputMode="34">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.RecommendNewActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.AboutActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.FeedbackActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.UserFlowDetalActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.SetOfNightBreakActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.AutoCorrectActivity" label="2131296262">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.DayFlowActivity">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.SetOfLockScreenActivity">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.ResetPasswordActivity">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.ConfirmationPasswordActivity">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.SetLockScreenActivity">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.RankSingleAppActivity">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.RankSingleAppMonthActivity">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.BestProductDetailActivity">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.ShadeActivity" theme="2131427339">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.PointToFlowActivity" theme="2131427339">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.ConverResultActivity" theme="2131427339">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.moresetting.SettingLockScreenActivity" theme="2131427339">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.moresetting.SettingFloatActivity" theme="2131427339">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.moresetting.SettingDayFlowActivity" theme="2131427339">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.moresetting.SettingMonthFlowActivity" theme="2131427339">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.moresetting.SettingSmsActivity" theme="2131427339">
+<activity screenOrientation="1" name="qzyd.speed.nethelper.ATWebActivity" theme="2131427339">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131427379" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+2
+<service priority="2147483647" name="qzyd.speed.nethelper.service.NetTrafficService" exported="false">
+<service priority="2147483647" name="qzyd.speed.nethelper.service.FloatIconService" exported="false">
+3
+<receiver name="qzyd.speed.nethelper.receive.BootCompletedReceiver">
+<receiver name="qzyd.speed.nethelper.receive.NetWorkReceiver">
+<receiver name="qzyd.speed.nethelper.receive.PackageOpReceiver">
+0
+Owner: CN=上网助手, OU=上网助手, O=苏昌骏, L=福州, ST=福建, C=中国
+Issuer: CN=上网助手, OU=上网助手, O=苏昌骏, L=福州, ST=福建, C=中国
+Serial number: 526f61e7
+Valid from: Tue Oct 29 15:21:11 CST 2013 until: Thu Oct 22 15:21:11 CST 2043
+Certificate fingerprints: 
+	MD5:5A:4D:EC:76:03:C3:03:64:BF:BA:46:D7:59:7C:8E:4C
+	SHA1: E4:F8:A3:31:69:6B:2B:08:68:E7:90:0B:E8:5C:58:B0:EE:D2:E9:74
+	SHA256: C5:20:59:61:80:90:1C:67:C4:9E:AC:3D:96:13:26:90:57:A7:3B:A0:B9:77:29:71:2A:84:9E:0C:19:F9:C7:49
+	Signature algorithm name: SHA1withRSA
+	version: 3

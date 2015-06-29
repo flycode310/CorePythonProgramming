@@ -1,0 +1,33 @@
+com.mini
+1
+1.0
+7
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity name=".MiniWeather" label="2131099649">
+<activity name=".helpView" label="帮助">
+1
+<service enabled="true" name=".MyService">
+1
+<receiver name=".MiniWeatherUI">
+0
+Owner: CN=yanjing3954, OU=Personal, O=Personal, L=bj, ST=bj, C=ch
+Issuer: CN=yanjing3954, OU=Personal, O=Personal, L=bj, ST=bj, C=ch
+Serial number: 4d522b7f
+Valid from: Wed Feb 09 13:51:59 CST 2011 until: Thu Nov 12 13:51:59 CST 2065
+Certificate fingerprints: 
+	MD5:05:C6:2C:6E:CF:A4:B9:3A:4A:40:3F:8F:37:F1:B7:FE
+	SHA1: 9A:B6:AD:C4:1B:15:7F:46:6D:BF:46:FB:97:76:0E:32:EC:78:00:AC
+	SHA256: FF:7A:1D:15:B2:D6:D8:60:0A:EB:8C:40:AF:3C:5A:FD:4B:2C:CC:5E:32:0B:5A:71:91:08:C8:7D:38:F9:C6:C9
+	Signature algorithm name: SHA1withRSA
+	version: 3

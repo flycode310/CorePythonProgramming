@@ -1,0 +1,55 @@
+com.tianzhen.tianzhen
+14
+1.7.0
+11
+19
+14
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+18
+<activity icon="2130837759" screenOrientation="1" name="com.tianzhen.tianzhen.Splash" label="2131099756">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.IntroPage" label="2131099776">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.GuidePage" label="2131099777">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.MainAcitvity" label="2131099756">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.ShuChu" label="2131099771" launchMode="2">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.Shuru" label="2131099768" launchMode="2">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.UserHome" label="2131099778">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.Jilu" label="2131099772">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.ShuruGroup" label="2131099779">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.SchoolSplash" label="2131099772">
+<activity screenOrientation="0" name="com.tianzhen.tianzhen.School" theme="16973831" label="2131099772">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.AppIntroduction" label="2131099823">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.Fankui" label="2131099835">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.Login" label="2131099858">
+<activity screenOrientation="1" name="com.tianzhen.tianzhen.SignUp" label="2131099863">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="cn.bmob.v3.update.UpdateDialogActivity" theme="16973840">
+2
+<service name=".MyLocation">
+<service process=":remote" enabled="true" name="com.baidu.location.f" exported="false">
+1
+<receiver name=".TianzhenWidget" label="2131099780">
+0
+Owner: CN=gomung, O=gomung, L=bj, ST=bj, C=CN
+Issuer: CN=gomung, O=gomung, L=bj, ST=bj, C=CN
+Serial number: 3e0182e6
+Valid from: Thu Jul 03 15:44:37 CST 2014 until: Wed Jun 28 15:44:37 CST 2034
+Certificate fingerprints: 
+	MD5:4B:A7:6A:A9:DA:C4:82:62:EB:7B:C1:4F:82:2B:14:BB
+	SHA1: 38:84:71:30:F3:A6:82:25:B4:38:56:CC:EB:1F:C4:3F:EE:E3:B9:89
+	SHA256: 9D:5F:8D:FC:5E:BA:71:35:0F:68:47:CD:DA:86:99:59:2C:8E:01:1B:63:13:00:46:F2:DD:00:B1:9F:DF:1C:95
+	Signature algorithm name: SHA256withRSA
+	version: 3

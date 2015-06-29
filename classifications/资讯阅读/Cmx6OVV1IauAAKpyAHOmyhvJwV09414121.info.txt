@@ -1,0 +1,130 @@
+com.youqudao.rocket
+21
+3.0.4
+8
+19
+16
+android.permission.READ_EXTERNAL_STORAGE
+com.youqudao.rocket.permission.JPUSH_MESSAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+84
+<activity screenOrientation="1" name="com.youqudao.rocket.StartActivity" theme="16973830" label="2131427469">
+<activity screenOrientation="1" name="com.youqudao.rocket.MainActivity" label="2131427469" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".GameActivity">
+<activity screenOrientation="1" name=".MyMessgeActivity">
+<activity screenOrientation="1" name=".OverActivity">
+<activity screenOrientation="1" name=".HimProductionActivity">
+<activity screenOrientation="1" name=".HimCollectActivity">
+<activity screenOrientation="1" name=".MyFansActivity">
+<activity screenOrientation="1" name=".HimHomepageActivity">
+<activity screenOrientation="1" name=".MyAttentionActivity">
+<activity screenOrientation="1" name=".MyProductionActivity">
+<activity screenOrientation="1" name=".MyCollectActivity">
+<activity screenOrientation="1" name=".MyHomepageParticularsActivity">
+<activity screenOrientation="1" name=".ModifyNickNameActivity">
+<activity screenOrientation="1" name=".AddFriendsActivity">
+<activity screenOrientation="1" name=".HotParticularsActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".HomeActivity">
+<activity screenOrientation="1" name=".HotImageExamine">
+<activity screenOrientation="1" name=".PhotoAlbumChoiceActivity">
+<activity screenOrientation="1" name=".ImageExamine">
+<activity screenOrientation="1" name=".With_the_dynamic_Activity" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.youqudao.rocket.RedPacketStoreActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.RedPackageMallWebActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.ModifySignatureActivity" label="2131427705">
+<activity screenOrientation="1" name="com.youqudao.rocket.TermsOfService">
+<activity screenOrientation="1" name="com.youqudao.rocket.OpinionTicklingActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.AboutUsActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.HotActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.ReadHistoryActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.NewActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.CategoryActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.youqudao.rocket.StartUpDiagramActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.RecommendAppActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.AlbumCommentActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.AppImagePageActivity" label="2131427661">
+<activity screenOrientation="1" name=".WebActivity" label="2131427662">
+<activity screenOrientation="1" name=".HeadlineWebActivity" label="2131427663">
+<activity screenOrientation="1" name=".ZoneDetailActivity" label="2131427469">
+<activity screenOrientation="1" name=".TaskActivity" label="2131427679">
+<activity screenOrientation="1" name=".ColumnActivity" label="2131427469">
+<activity screenOrientation="1" name=".MyVipActivity" label="2131427670">
+<activity screenOrientation="1" name=".CommunityActivity" label="2131427574">
+<activity screenOrientation="1" name="com.youqudao.rocket.AlbumDetailActivity" label="2131427469">
+<activity screenOrientation="1" name="com.youqudao.rocket.MyPassportActivity" label="2131427582">
+<activity screenOrientation="1" name="com.youqudao.rocket.imageview.LargerImager" theme="2131493031">
+<activity screenOrientation="1" name="com.youqudao.rocket.DefiniteGames">
+<activity screenOrientation="1" name=".HaadlineParticularVerticalActivity">
+<activity screenOrientation="1" name=".HaadlineParticularHorizontalActivity">
+<activity screenOrientation="1" name="com.youqudao.rocket.GameCommentActivity">
+<activity name="com.youqudao.rocket.DownloadChooseActivity" label="2131427469">
+<activity name="com.youqudao.rocket.BuyChooseActivity" label="2131427469">
+<activity name=".MyTdcActivity" label="2131427742">
+<activity screenOrientation="1" name="com.youqudao.rocket.BasicSetActivity" label="2131427566">
+<activity screenOrientation="0" name="com.youqudao.rocket.VerticalReaderActivity" configChanges="1152" label="2131427469" launchMode="1">
+<activity screenOrientation="1" name="com.youqudao.rocket.PortraitViewPagerModeActivity" configChanges="1152" label="2131427469" launchMode="1">
+<activity name="com.youqudao.rocket.SdcardNotAvailableActivity" theme="2131493012" configChanges="1152" launchMode="3">
+<activity name="com.youqudao.rocket.StorageInsufficientActivity" theme="2131493012" configChanges="1152" launchMode="3">
+<activity screenOrientation="1" name="com.youqudao.rocket.AlertUpdateActivity" theme="2131493012">
+<activity name=".BuyVipDialogActivity" theme="2131493012" configChanges="1152" launchMode="3">
+<activity name="com.youqudao.rocket.ScoreNotEnoughActivity" theme="2131493012" configChanges="1152" launchMode="3">
+<activity name="com.youqudao.rocket.BuyWithScoreDialogActivity" theme="2131493012" configChanges="1152" launchMode="3">
+<activity screenOrientation="1" name="com.youqudao.rocket.AlbumDownloadManagerActivity" parentActivityName="com.youqudao.rocket.DownloadChooseActivity" label="2131427563">
+<activity screenOrientation="1" name="com.youqudao.rocket.DownloadManageActivity" label="2131427563">
+<activity screenOrientation="1" name="com.youqudao.rocket.SearchAlbumActivity" label="2131427647">
+<activity screenOrientation="1" name="com.youqudao.payclient.BindIphoneActivity">
+<activity name="com.youqudao.payclient.RechargeCenterActivity" theme="2131493019" configChanges="1152" label="2131427469">
+<activity name="com.youqudao.payclient.MobileCardPay" theme="2131493019" configChanges="1152" label="2131427374" windowSoftInputMode="2">
+<activity name="com.youqudao.payclient.LoginActivity" theme="2131493019" configChanges="1152" label="2131427401" windowSoftInputMode="2">
+<activity name="com.youqudao.payclient.RegisterActivity" theme="2131493012" configChanges="1152" label="2131427401" windowSoftInputMode="2">
+<activity name="com.youqudao.payclient.RegisterForVerificationCodeActivity" configChanges="1152" label="2131427401" windowSoftInputMode="2">
+<activity name="com.youqudao.payclient.RegisterForVerificationCodeSecondTypeActivity" configChanges="1152" label="2131427401" windowSoftInputMode="2">
+<activity name="com.youqudao.payclient.LoginSuccessActivity" theme="2131493012" configChanges="1152">
+<activity name="com.youqudao.payclient.UserProctelActivity" configChanges="1152">
+<activity name="com.youqudao.payclient.ForgetPwdActivity" configChanges="1152">
+<activity name="com.youqudao.payclient.PayRecordActivity" label="2131427395">
+<activity name="com.youqudao.payclient.AlipayActivity" theme="2131493019" configChanges="1152" label="2131427366" windowSoftInputMode="2">
+<activity name="com.youqudao.payclient.ExtraMoneyTipsActivity" theme="2131493012" configChanges="1152">
+<activity excludeFromRecents="true" name="com.youqudao.payclient.BuySuccessDialogActivity" theme="2131493012" configChanges="1152">
+<activity name="com.youqudao.payclient.BuyFailActivity" theme="2131493012" configChanges="1152">
+<activity name="com.youqudao.payclient.SmsPayActivity" theme="2131493019" configChanges="1152" label="2131427437">
+<activity screenOrientation="1" name="com.alipay.app.sdk.WapPayActivity">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+4
+<service name="com.youqudao.rocket.service.DownloadService" exported="false">
+<service name="com.youqudao.rocket.service.DeleteDownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+3
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.youqudao.rocket.receiver.JPushReceiver">
+3
+<provider authorities="com.youqudao.android.cartoon.album" name="com.youqudao.rocket.db.AlbumContentProvider" exported="false">
+<provider authorities="com.youqudao.android.cartoon.usercollect" name="com.youqudao.rocket.db.UserCollectContentProvider" exported="false">
+<provider authorities="com.youqudao.android.cartoon.episode" name="com.youqudao.rocket.db.EpisodeContentProvider" exported="false">
+Owner: CN=kedunling, OU=youqudao, O=youqudao, L=shanghai, ST=shanghai, C=cn
+Issuer: CN=kedunling, OU=youqudao, O=youqudao, L=shanghai, ST=shanghai, C=cn
+Serial number: 4e0d947f
+Valid from: Fri Jul 01 17:33:51 CST 2011 until: Sat Apr 03 17:33:51 CST 2066
+Certificate fingerprints: 
+	MD5:58:45:14:9D:72:6A:09:F1:D2:6F:62:25:0C:A7:C1:CB
+	SHA1: 17:22:B8:7F:22:F7:C7:3D:1D:7B:87:06:EE:6E:85:89:BE:5A:B9:48
+	SHA256: AC:2A:96:54:69:E4:D8:AA:92:FB:69:4A:85:54:21:DE:D7:5D:DC:6F:C4:B8:81:91:43:EF:4B:2F:99:D5:E4:ED
+	Signature algorithm name: SHA1withRSA
+	version: 3

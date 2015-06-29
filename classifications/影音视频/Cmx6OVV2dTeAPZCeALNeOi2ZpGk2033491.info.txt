@@ -1,0 +1,164 @@
+com.pplive.androidphone
+62
+2.4.0
+7
+8
+25
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+87
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.FirstActivity" configChanges="160" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.entertainment.columns.MyChannelDetailActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.search.SearchActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.search.SearchResultActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="0" name="com.pplive.androidphone.ui.VideoPlayerActivity" configChanges="160" exported="true" label="2131361990" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.InstructionsActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.FeedbackActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.HistoryActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.recommend.RecommendActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.category.CategoryGridActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.category.CategoryWebActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.category.CategoryListActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.live.LiveActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.live.LiveDetailActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.MyFavoriteActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.ChannelDetailPreActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.detail.DetailFeaturelistAcitivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.detail.ChannelDetailActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.detail.MoreChannelActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.detail.SubscribeActivity" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.ConcernOurActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.update.UpdateProgressActivity" theme="16973840" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.UserCenterActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.login.LoginActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.login.ThirdLoginWebAct" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.login.BoundPhoneActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.login.BoundMailActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.login.RegisterActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.login.RegFirstStepActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.login.RegSecondStepActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.ad.AdWebActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.login.ProfileActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.SettingsActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.share.ShareToActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.share.ShareSettingActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.share.OAuth10Activity" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.share.ShareActivity" configChanges="160" exported="true" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.share.ShareAtActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.share.OAuth20Activity" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.wxapi.WXEntryActivity" configChanges="160" exported="true" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.manual.UserManualAcitiviy" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.manual.UserManualAcitiviy2" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.download.DownloadListActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.download.LocalListActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.download.DownloadFolderActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.download.FileExplorerActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.download.ChangeDirectoryActivity" theme="2131492891" windowSoftInputMode="32">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity screenOrientation="1" excludeFromRecents="false" name="com.pplive.androidphone.push.NotificationActivity" theme="16973840" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="0" name="com.pplive.androidphone.ui.dmc.DLNAControllerActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="0" name="com.pplive.androidphone.ui.dmc.TokenActivity" theme="2131492891" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.dmc.DMCSettingsActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.dmc.remote.RemoteDownloadListActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.app_recommend.AppStoreActivity2" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.app_recommend.GameStoreActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.app_recommend.GameDownloadListActivity" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.app_recommend.AppStoreTabActivity" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.app_recommend.AppRecommendDetailActivity" configChanges="160">
+<activity name="com.inmobi.androidsdk.IMBrowserActivity" configChanges="176">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.buy.PurchaseActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.buy.PurchaseOrderActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.BrowseByURLActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.app_recommend.UmengAppRecommendActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.app_recommend.GameRecommendDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.app_recommend.AppMustRecommandActivity" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.app_recommend.AppRecommendActivity" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.detail.ReviewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.MainActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.live.LiveAlarmHelperActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.mobisage.android.MobiSageActivity" configChanges="160" launchMode="2">
+<activity name="com.google.ads.AdActivity" configChanges="176">
+<activity name="com.baidu.mobads.AppActivity" configChanges="176">
+<activity name=".ui.share.weixin.ShowFromWXActivity" label="2131361792">
+<activity name="com.adsmogo.adview.AdsMogoWebView" label="2131361792">
+<activity name="com.suizong.mobile.ads.AdBrowser" configChanges="176">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.unicom.UnicomActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.unicom.china.ChinaUnicomSmsNumberActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.unicom.china.ChinaUnicomOrderActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.unicom.china.ChinaUnicomCancelOrderActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.entertainment.MyChannelActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.entertainment.ChannelListActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.entertainment.columns.SectionListActivity" configChanges="160" windowSoftInputMode="18">
+<activity excludeFromRecents="false" name="com.pplive.androidphone.ui.live.LiveAlarmDialogActivity" theme="2131492891" configChanges="160" windowSoftInputMode="32" taskAffinity="">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.barcode.BarcodeCaptureActivity">
+<activity screenOrientation="1" name="com.pplive.androidphone.ui.barcode.BarcodeHelpActivity">
+19
+<service name="com.pplive.android.data.sync.SyncAdapterService">
+<service name="com.pplive.androidphone.ui.dmc.DLNAControllerService">
+<service process=":remote" name="com.pplive.dlna.dmc.DMCService">
+<service name="com.pplive.androidphone.ui.download.provider.DownloadService">
+<service name="com.pplive.androidphone.ui.widget.NewsService">
+<service name="com.pplive.androidphone.push.NotificationService">
+<service process=":remote" name="com.pplive.androidphone.ui.videoplayer.our.RemoteService">
+<service name="com.pplive.android.data.way.WAYService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service enabled="true" name="com.mobisage.android.MobiSageApkService">
+<service process=":scan" name="android.ppmedia.service.MediaScannerService" exported="false">
+<service process="org.punchbox.service" enabled="true" name="com.punchbox.monitor.ArchiveMonitorDownloadService" label="DownloadService">
+<service process=":remote" name="com.adsmogo.controller.service.UpdateService" exported="true">
+<service process=":remote" name="com.adsmogo.controller.service.CountService" exported="true">
+<service name="com.suizong.mobile.ads.DownloadService">
+<service name="com.pplive.androidphone.ui.unicom.UnicomAutoService">
+<service process="com.pplive.androidphone.pushservice" name="com.igexin.sdk.SdkMainService" exported="false" label="NotifyCenter">
+<service process="com.pplive.androidphone.pushservice" name="com.igexin.sdk.coordinator.SdkMsgService" exported="true" label="NotifyCenterAIDL">
+<service process="com.pplive.androidphone.pushservice" name="sdk.download.DownloadService">
+11
+<receiver name="com.pplive.androidphone.ui.download.provider.DownloadReceiver" exported="false">
+<receiver name="com.pplive.androidphone.ui.widget.PptvWidgetProvider">
+<receiver name="android.ppmedia.service.MediaScannerReceiver" exported="false">
+<receiver name="com.punchbox.monitor.ArchiveMonitorReceiver">
+<receiver name=".ui.share.weixin.WeixinRegisterReceiver" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver name="com.pplive.androidphone.ui.unicom.UnicomReceiver">
+<receiver name="com.pplive.androidphone.push.getui.PushReceiver">
+<receiver name="com.igexin.sdk.SdkReceiver">
+<receiver name="com.igexin.sdk.coordinator.NotificationCenterAIDLReceiver">
+<receiver name="sdk.download.DownloadReceiver" exported="false">
+<receiver name="com.pplive.androidphone.ui.live.LiveAlarmReceiver">
+2
+<provider authorities="android.pplive.android.media" name="android.ppmedia.provider.MediaProvider" exported="false">
+<provider process="com.pplive.androidphone.pushservice" authorities="sdk.download.com.pplive.androidphone" name="sdk.download.DownloadProvider">
+Owner: CN=PPTV, OU=PPTV, O=PPTV, L=Shanghai, ST=Shanghai, C=CN
+Issuer: CN=PPTV, OU=PPTV, O=PPTV, L=Shanghai, ST=Shanghai, C=CN
+Serial number: 4e27c5c2
+Valid from: Thu Jul 21 14:22:58 CST 2011 until: Sat Jun 27 14:22:58 CST 2111
+Certificate fingerprints: 
+	MD5:05:B5:60:CB:3A:01:EF:DC:25:15:58:A9:A8:CB:B6:56
+	SHA1: D1:E1:3C:9A:49:77:6A:31:6E:65:0A:99:BF:BC:F4:0A:6E:FE:BA:87
+	SHA256: CE:F9:F7:CF:29:DA:3B:19:32:74:02:6B:98:01:AB:52:76:F0:BE:79:8C:01:19:F6:B9:10:80:DC:E3:42:BB:FD
+	Signature algorithm name: SHA1withRSA
+	version: 3

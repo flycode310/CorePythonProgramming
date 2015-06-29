@@ -1,0 +1,5 @@
+android.os.Handler: android.os.Message obtainMessage()
+android.database.Cursor: java.lang.String getString(int)
+java.net.URL: java.net.URLConnection openConnection()
+java.net.URL: void <init>(java.lang.String)
+android.os.Handler: boolean sendMessage(android.os.Message)

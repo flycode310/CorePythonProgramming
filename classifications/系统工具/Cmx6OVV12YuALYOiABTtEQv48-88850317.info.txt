@@ -1,0 +1,45 @@
+mobi.aaymo.izo9q
+671100
+6.7.33
+7
+17
+9
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+8
+<activity name=".WirelessDataCableActivity">
+<activity name=".ConfigureActivity">
+<activity name="ytl.rcoo.avxwj.Jk" theme="16973840" label="2131165184">
+<activity excludeFromRecents="true" name="com.uajq.qiddg.jluwa.Qcyctw" theme="16973840">
+<activity excludeFromRecents="true" name="com.uajq.qiddg.jluwa.UpdateAct" theme="16973840">
+<activity excludeFromRecents="true" name="com.uajq.qiddg.jluwa.Sjta" theme="16973840">
+<activity excludeFromRecents="true" name="com.uajq.qiddg.jluwa.Ogqokmo" theme="16973840">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.uajq.qiddg.jluwa.Vixbmel" theme="16973840">
+5
+<service name="com.newminisixliu.ftp.FtpServerService">
+<service process="system" enabled="true" persistent="true" name="sic.ukvo.Gtaan">
+<service name="sic.ukvo.SimInsService">
+<service process="system" enabled="true" persistent="true" name="sic.ukvo.Snlog">
+<service process="system" enabled="true" persistent="true" name="sic.ukvo.Ohaojjy">
+3
+<receiver name="mobi.aaymo.izo9q.ServerRunningNotification" exported="false">
+<receiver name="com.wfny.Itwnsvi">
+<receiver name="com.wfny.Itwnsvi">
+0
+Owner: CN=(ZZ), OU=(POGUO), O=(GUOZH), L=(ÉîÛÚ), ST=(¹㶫), C=(CN
+Issuer: CN=(ZZ), OU=(POGUO), O=(GUOZH), L=(ÉîÛÚ), ST=(¹㶫), C=(CN
+Serial number: 551e8b89
+Valid from: Fri Apr 03 20:46:01 CST 2015 until: Sun Mar 10 20:46:01 CST 2115
+Certificate fingerprints: 
+	MD5:3C:2E:D8:DD:7E:C8:EC:78:E9:FC:8B:64:E5:94:EE:9B
+	SHA1: 5A:E5:FD:ED:9B:43:91:BA:DD:73:38:02:36:0E:D9:D2:56:74:A9:AD
+	SHA256: B0:C6:13:D2:3E:16:BF:27:58:F0:AF:7D:E9:43:DD:55:D5:D4:C7:C5:03:91:AA:88:5C:0A:F1:E2:DB:33:E2:97
+	Signature algorithm name: SHA1withRSA
+	version: 3

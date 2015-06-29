@@ -1,0 +1,201 @@
+com.yikeoa.android
+36
+4.2.2
+8
+14
+25
+android.permission.READ_EXTERNAL_STORAGE
+com.android.alarm.permission.SET_ALARM
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.yikeoa.android.permission.JPUSH_MESSAGE
+android.permission.RKILL_BACKGROUND_PROCESSES
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+138
+<activity screenOrientation="1" name="com.yikeoa.android.activity.StartActivity" theme="2131099648" label="2131034112">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.WelcomeActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.LoginActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.RegisterActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.CommpanyListActivity" theme="2131099667">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.UserAgreeActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.invite.InviteMainActivity" theme="2131099667" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.mainui.MainActivity" theme="2131099648" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.mainui.ContactPeoMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.mainui.FunSetActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.mainui.FastAddSetActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.mainui.FastAddDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.CommonDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.CommonAddCommentActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.CommonAddressLocationDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.MySubUserListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.CommonTabViewPagerFragmentActivity" theme="2131099668">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.select.CommonSelectTabActivity" theme="2131099669" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.select.CommonSelectEnterActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.select.CommonSelectedListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.select.doc.DocTabMainActivity" theme="2131099669">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.common.select.doc.DocPreviewActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.myinfo.MyInfoModifyActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.myinfo.MyInfoChangePwdActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.myinfo.MyInfoActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.CompanySetMenuActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.AlarmSettingListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.AlarmSettingAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.MemberSettingActivity" theme="2131099648" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.FeedBackActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.CompanyInfoSettingActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.HomeStyleSetActivty" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sysnotify.SysNotifyListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.role.RoleSettingListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.role.RoleNoSetTabActivity" theme="2131099668">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.dep.DepListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.dep.DepAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.dep.DepModifyActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.dep.DepMebmerListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.dep.DepNoSetActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.MySignListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.MySignCalendarActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.SignAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.SignListTabActivity" theme="2131099668">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.SignMyTimeActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.SignDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.SignRankListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.SignSetTimeMainTabActivity" theme="2131099669">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.SignSetTimeCusTimeAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.exapply.SignExMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.exapply.SignExApplyAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.query.SignQueryAllMemberActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.sign.query.SignHistoryActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.apply.bx.ApplyBXMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.apply.bx.ApplyBXAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.apply.qj.ApplyQJAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.apply.qj.ApplyQJMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.apply.cus.ApplyCusAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.apply.cus.ApplyCusMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.apply.cus.ApplyCusModelListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.report.v2.ReportMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.report.v2.ReportDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.report.v2.ReportCommentStarAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.report.v2.ReportAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.report.v2.ReportAnalysisActivity" theme="2131099648" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.report.v2.ReportListFromUidActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.location.LocationAllMemberListActivity" theme="2131099648" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.location.LocationListAnalysisActivity" theme="2131099648" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.location.LocationHisActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.location.MapOverlayActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.notice.NoticeMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.notice.NoticeAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.notice.NoticeDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.notice.NoticeMyPublishActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.member.MemeberDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.member.MemberWorkDetailActivity" theme="2131099668">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.CustomerMainActivity" theme="2131099648" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.CustomerDetailTabActivity" theme="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.CustomerAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.CustomerDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.CustomerSelectActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.common.CommonAddFieldActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.record.RecordAllActivity" theme="2131099648" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.record.RecordAddActivity" theme="2131099648" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.record.RecordDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.common.CommonCusSelectListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.common.CommonSelLocationActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.common.ProvinceListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.common.CityListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.chance.ChanceMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.chance.ChanceTabFragmentActivity" theme="2131099668" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.chance.ChanceDetailTabActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.chance.ChanceAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.chance.ChanceDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.contact.ContactMainAcitivty2" theme="2131099668" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.contact.ContactSelectActivity" theme="2131099648" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.contact.ContactDetailTabActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.contact.ContactAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.contact.ContactDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.team.CustomerTeamAcitivty" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.log.CustomerLogActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.analysis.CRMAnalysisMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.customer.analysis.CRMAnalysisDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.TaskMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.TaskMainTabActivity" theme="2131099668">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.TaskAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.TaskDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.TaskChangeActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.record.TaskRecordAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.record.TaskRecordDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.plan.PlanMainActivity2" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.plan.eventitem.PlanEventItemAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.plan.PlanAnalysisActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.plan.eventitem.PlanEventItemDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.plan.visit.PlanVisitAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.plan.visit.PlanVisitDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.plan.common.PlanComSelectCRMActivity" theme="2131099669">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.tag.TaskTagListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.project.TaskProjectMainTabAcitivity" theme="2131099668">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.project.ProjectAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.task.project.ProjectTaskListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.photoview.PhotoViewActivity" theme="2131099664">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.help.HelpTopicListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.help.HelpTopicDetailActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.setting.AboutActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.analysis.AnalysisMainActivity" theme="2131099669">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.analysis.AnalysisTabMainActivity" theme="2131099669">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.file.FileMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.file.FileListActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.file.FileUploadActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.file.FolderAddActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.file.FolderRenameActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.handler.ZDOAHandlerMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.handler.ReportHandlerMainActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.handler.HandlerTabMainActivity" theme="2131099669">
+<activity screenOrientation="1" name="com.yikeoa.android.activity.handler.CommentReplyHandlerMainActivity" theme="2131099648">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+6
+<service name="com.yikeoa.android.activity.common.select.doc.download.DownloadFileService">
+<service name="com.yikeoa.android.service.YikeOAHUDService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+5
+<receiver name="com.yikeoa.android.receiver.GetLocReceiver">
+<receiver name="com.yikeoa.android.receiver.AlarmReceiver">
+<receiver enabled="true" name="com.yikeoa.android.receiver.MyJpushReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+7
+<provider authorities="com.yikeoa.android.provider.UserProvider" name="com.yikeoa.android.provider.UserProvider">
+<provider authorities="com.yikeoa.android.provider.DeptProvider" name="com.yikeoa.android.provider.DeptProvider">
+<provider authorities="com.yikeoa.android.provider.RoleProvider" name="com.yikeoa.android.provider.RoleProvider">
+<provider authorities="com.yikeoa.android.provider.CustomerProvider" name="com.yikeoa.android.provider.CustomerProvider">
+<provider authorities="com.yikeoa.android.provider.CustomerContactProvider" name="com.yikeoa.android.provider.CustomerContactProvider">
+<provider authorities="com.yikeoa.android.provider.AlarmProvider" name="com.yikeoa.android.provider.AlarmProvider">
+<provider authorities="com.yikeoa.android.provider.LocLocationProvider" name="com.yikeoa.android.provider.LocLocationProvider">
+Owner: CN=yikeoa, OU=yikeoa, O=yikeoa, L=GZ, ST=GD, C=86
+Issuer: CN=yikeoa, OU=yikeoa, O=yikeoa, L=GZ, ST=GD, C=86
+Serial number: 534b5692
+Valid from: Mon Apr 14 11:31:30 CST 2014 until: Fri Apr 08 11:31:30 CST 2039
+Certificate fingerprints: 
+	MD5:DA:DE:18:EE:34:45:E3:45:52:E3:95:22:40:12:40:BD
+	SHA1: AF:44:49:A2:36:F3:C6:48:4B:36:8B:10:85:8B:8A:98:3A:75:63:9A
+	SHA256: 64:89:E1:FC:7D:87:73:16:15:32:07:27:F4:EB:AD:D6:68:11:BD:4C:3B:67:F9:33:72:18:71:91:42:C0:E6:61
+	Signature algorithm name: SHA1withRSA
+	version: 3

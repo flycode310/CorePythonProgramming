@@ -1,0 +1,50 @@
+com.cz.bbname
+1
+1.0
+7
+-1
+15
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+12
+<activity name="com.cz.bbname.activity.WelcomeActivity" label="2131099652">
+<activity name=".activity.StarActivity">
+<activity name=".activity.WenKuActivity">
+<activity name=".activity.BoyActivity">
+<activity name=".activity.GirlActivity">
+<activity name=".activity.BBNameTabHostActivity" launchMode="2">
+<activity name=".core.activity.SystemSetActivity">
+<activity name="com.cz.set.SettingActivity">
+<activity name="com.cz.freeback.FreeBackActivity">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity excludeFromRecents="true" name="com.kuguo.ad.MainActivity" theme="16973835" launchMode="3">
+<activity excludeFromRecents="true" name="com.kuguo.ad.BoutiqueActivity" theme="16973835" launchMode="3">
+1
+<service name="com.kuguo.ad.MainService">
+2
+<receiver name="com.cooguo.advideo.VideoReceiver">
+<receiver name="com.kuguo.ad.MainReceiver">
+0
+Owner: CN=陈真, OU=个人, O=个人, L=深圳, ST=广东, C=86
+Issuer: CN=陈真, OU=个人, O=个人, L=深圳, ST=广东, C=86
+Serial number: 4e7f4bd6
+Valid from: Sun Sep 25 23:42:14 CST 2011 until: Tue Sep 01 23:42:14 CST 2111
+Certificate fingerprints: 
+	MD5:4D:B8:76:CA:96:4E:FB:BB:42:D9:80:4C:73:A8:EA:F9
+	SHA1: 97:27:F7:B9:57:5B:54:41:AD:97:B5:FA:E6:D1:7A:61:2B:F7:CA:86
+	SHA256: E8:C9:04:9C:11:94:0C:87:38:64:DA:0B:57:08:EC:2E:F8:7B:F2:65:8A:E7:53:E7:D1:17:50:FC:49:92:C3:0A
+	Signature algorithm name: SHA1withRSA
+	version: 3

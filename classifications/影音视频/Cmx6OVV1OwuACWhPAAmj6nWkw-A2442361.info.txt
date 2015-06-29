@@ -1,0 +1,26 @@
+com.modg.diandianplayer
+2
+2.0
+8
+16
+3
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.SET_DEBUG_APP
+3
+<activity screenOrientation="1" name=".SplashActivity" theme="2131165186" label="2131099648">
+<activity screenOrientation="1" name=".MainActivity" label="2131099648">
+<activity screenOrientation="1" name=".MusicListActivity" parentActivityName=".MainActivity">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 52d4dc69
+Valid from: Tue Jan 14 14:42:49 CST 2014 until: Thu Jan 07 14:42:49 CST 2044
+Certificate fingerprints: 
+	MD5:A4:EB:03:05:A8:61:96:3C:34:AE:C3:4E:07:8C:48:61
+	SHA1: CC:8E:48:C7:6A:9C:BE:AB:48:C8:90:F5:46:BC:B0:42:43:AC:81:C9
+	SHA256: E2:3B:73:E1:DF:58:E7:9F:47:33:E5:7D:59:B8:FA:FC:87:6F:C5:09:7E:58:F6:83:7E:94:1E:B5:EA:66:00:19
+	Signature algorithm name: SHA1withRSA
+	version: 3

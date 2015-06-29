@@ -1,0 +1,126 @@
+cn.bkw_builderstw
+28
+2.0.150319
+8
+17
+18
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+75
+<activity screenOrientation="1" name="cn.bkw.pic.ImageViewActivity" theme="16973839" configChanges="160" label="图片放大" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.AccountChargeAct" configChanges="160" label="账户充值" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.IdNumEditAct" configChanges="160" label="编辑账户信息" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.AccountInfoAct" configChanges="160" label="账户信息" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.CommentDeatilAct" configChanges="160" label="提问详情" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.LoginAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.main.LogInActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.EmailEditAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.QQEditAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.MobileEditAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.UserAgreementAct" configChanges="160" label="用户协议" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.RegisterEmailAct" configChanges="160" label="2131361827" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.RegisterTelAct" configChanges="160" label="2131361828" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.RetrievePasswordAct" configChanges="160" label="2131361833" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.SuccessTipAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.ViewAgreementAct" configChanges="160" label="查看保过协议" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.account.WelcomeAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="0" name="cn.bkw.ccVideo.CCVideoAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.course.SelectExamAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.course.SignAgreementAct" configChanges="160" label="签署保过协议" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.course.SwitchClassAct" theme="2131427420" configChanges="160" label="请选择考试名称" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.course.SwitchExamAct" theme="2131427420" configChanges="160" label="请选择考试名称" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.main.StudyHistoryAct" configChanges="160" label="学习记录" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.main.MainAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.main.SplashAct" configChanges="160" label="2131361820" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.main.TextEditAct" configChanges="160" label="文本编辑" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.BuyClassesAct" configChanges="160" label="购买课程" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.ClassesListAct" configChanges="160" label="选择班型" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.ClassesDetailAct" theme="2131427420" configChanges="160" label="课程详情" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.CouponListAct" configChanges="160" label="我的优惠券" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.MyCouponAct" configChanges="160" label="我的优惠券" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.MyCouponFragment1" configChanges="160" label="我的优惠券" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.MyCouponFragment2" configChanges="160" label="我的优惠券" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.ExamTypeListAct" configChanges="160" label="考试类别" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.MyCommentAct" configChanges="160" label="2131361847" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.MyCourseAct" configChanges="160" label="我的课程" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.MyCourseActivity" configChanges="160" label="我的课程" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.MyCourseFragment1" configChanges="160" label="我的课程" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.MyCourseFragment2" configChanges="160" label="我的课程" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.MyOrderAct" configChanges="160" label="我的订单" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.NoticeAct" configChanges="160" label="通知详情" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.NoticeListAct" configChanges="160" label="通知" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.OrderConfirmAct" configChanges="160" label="购买课程" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.OrderDetailAct" configChanges="160" label="订单详情" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.AskAnswerAct" theme="2131427420" configChanges="160" label="2131361838" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.AskAnswerDetailAct" configChanges="160" label="提问详情" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.CommentReplyAct" configChanges="160" label="提问详情" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.KnowledgePointAct" theme="2131427420" configChanges="160" label="2131361845" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.NoteEditAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.PushCommentAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.QuestionAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.SolutionAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.ReportAct" configChanges="160" label="2131361840" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.SelectUnitAct" configChanges="160" label="2131361843" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.VideoTutorialAct" configChanges="160" label="2131361844" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.ScoreSubjectAct" theme="2131427420" configChanges="160" label="添加评分" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.ModifyPwdAct" configChanges="160" label="修改密码" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.bkw.pc.FeedbackAct" configChanges="160" label="意见反馈" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.pc.AbountAct" configChanges="160" label="关于帮考" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.main.AdvantageAct" configChanges="160" label="帮考优势" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.PerformanceReportAct" configChanges="160" label="成绩报告" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.UnitKnowledgePointAct" configChanges="160" label="章节知识库" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.question.UnitEbookAct" configChanges="160" label="本章知识" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.xg.MainXg_Activity" configChanges="160" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.bkw.xg.MsgInfoActivity" configChanges="160" label="" windowSoftInputMode="2">
+<activity name="com.tencent.android.tpush.XGPushActivity" theme="16973839">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131427435" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity screenOrientation="0" name="com.easefun.polyvsdk.VideoViewActivity" theme="16973831" label="2131361819">
+8
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service name="com.tencent.android.tpush.rpc.XGRemoteService" exported="true">
+<service process=":qq_push_daemon" name="com.tencent.android.tpush.service.XGDaemonService">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.umeng.message.UmengDownloadResourceService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+5
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="cn.bkw.xg.receiver.MessageReceiver">
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+0
+Owner: CN=cq, OU=cq, O=cq, L=cq, ST=cq, C=cq
+Issuer: CN=cq, OU=cq, O=cq, L=cq, ST=cq, C=cq
+Serial number: 54fcffe1
+Valid from: Mon Mar 09 10:05:21 CST 2015 until: Wed Feb 13 10:05:21 CST 2115
+Certificate fingerprints: 
+	MD5:F5:F9:D0:30:A7:90:73:F3:5E:82:BC:41:5A:DA:2F:C9
+	SHA1: D4:FB:01:A1:A4:BD:65:5E:15:F2:48:32:76:79:60:87:07:4D:6C:1C
+	SHA256: B1:5A:5E:B8:A9:62:A8:02:BF:A4:80:77:19:E0:94:0E:99:F3:6C:53:5D:95:40:0B:78:ED:A4:81:CB:F7:1F:31
+	Signature algorithm name: SHA1withRSA
+	version: 3

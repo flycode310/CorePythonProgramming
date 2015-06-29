@@ -1,0 +1,48 @@
+com.wacosoft.appmill_s368
+1000000
+1.0.0
+7
+-1
+19
+android.permission.MOUNT_FORMAT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.BROADCAST_PACKAGE_ADDED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.DEVICE_POWER
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity screenOrientation="1" name=".AppmillAndroidActivity" theme="16973833" configChanges="160" label="2131230722">
+<activity screenOrientation="1" name=".OtherWebActivity" theme="16973833" configChanges="160" label="2131230722">
+<activity screenOrientation="1" name=".PictureViewer" theme="16973833" configChanges="160" label="2131230722">
+<activity screenOrientation="0" name=".MVPlayActivity" configChanges="224">
+<activity name="com.wacosoft.appmill.update.Downloader" launchMode="2">
+<activity screenOrientation="1" name=".ebookReader" configChanges="224">
+<activity screenOrientation="1" name=".Browser" theme="16973833" configChanges="224">
+1
+<service name=".LocalService">
+1
+<receiver name=".BootBroadcastReceiver">
+0
+Owner: CN=hu shichang, OU=wacosoft.cn, O=wacosoft.cn, L=shenzhen, ST=guangdong, C=CN
+Issuer: CN=hu shichang, OU=wacosoft.cn, O=wacosoft.cn, L=shenzhen, ST=guangdong, C=CN
+Serial number: 4ccfd48e
+Valid from: Tue Nov 02 17:06:22 CST 2010 until: Sat Oct 27 17:06:22 CST 2035
+Certificate fingerprints: 
+	MD5:E0:3F:93:C1:3E:6B:11:0B:8F:97:E6:15:E4:CF:27:FD
+	SHA1: BE:45:30:21:32:C5:18:C6:CD:11:31:AE:26:7A:99:E1:AE:FD:1E:54
+	SHA256: 3F:11:92:42:53:44:A1:48:FE:F1:2C:FD:EA:46:24:9E:6E:29:DE:12:40:27:6A:9D:9F:A9:83:BC:01:C2:EF:C9
+	Signature algorithm name: SHA1withRSA
+	version: 3

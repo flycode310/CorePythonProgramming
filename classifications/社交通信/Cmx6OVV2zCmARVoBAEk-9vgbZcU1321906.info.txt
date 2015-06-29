@@ -1,0 +1,142 @@
+com.corp21cn.mail21cn
+33
+5.4.5
+7
+14
+31
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.corp21cn.mailapp.permission.REMOTE_CONTROL
+android.permission.SEND_SMS
+android.permission.DISABLE_KEYGUARD
+org.thialfihar.android.apg.permission.READ_KEY_DETAILS
+com.corp21cn.mailapp.permission.READ_ATTACHMENT
+android.permission.SYSTEM_ALERT_WINDOW
+com.corp21cn.mailapp.permission.DELETE_MESSAGES
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SYNC_SETTINGS
+com.corp21cn.mailapp.permission.READ_MESSAGES
+android.permission.VIBRATE
+68
+<activity screenOrientation="1" name="com.ct.yjdg.ui.ChinaTelecomYjdgActivity">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.Accounts" configChanges="164" label="2131296260" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.ChooseFolderActivity" configChanges="4" label="2131296289" noHistory="true">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.ChooseAccount" theme="2131558400" label="2131296819">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.setup.AccountSetupCheckSettings" configChanges="1073741988" label="2131296509">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MailSetCustomActivity" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.Mail189SetsaveDirActivity" theme="2131558419" configChanges="164" label="2131297244">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.ChooseFileActivity" theme="2131558419" configChanges="164" label="2131297244">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MailSetAgencyActivity" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MainFunctionActivity" configChanges="1073741988" exported="true" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.CloudTransManageActivity" configChanges="164" windowSoftInputMode="18" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.SettingSinglechoiceListActivity" configChanges="164" windowSoftInputMode="18" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.Setting_bakground_mode" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MessageConversation" configChanges="164" windowSoftInputMode="18" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MessageView" configChanges="164">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MessageViewContactActivity" configChanges="164" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MessageCompose" configChanges="1073741860" label="2131296260" windowSoftInputMode="18" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.Search" configChanges="4" label="2131296330">
+<activity name="com.corp21cn.mailapp.activity.LauncherShortcuts" configChanges="4" label="2131296262">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.AboutActivity" configChanges="4" label="关于">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MailSetAgencyManagmentActivity" configChanges="4" label="2131297243">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.GeneralSettingsActivity" theme="2131558424" configChanges="1073741828">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.setup.MessageNoticeSetting" theme="2131558424" configChanges="4">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.HelpPageActivity" theme="2131558424" configChanges="4" label="2131297520">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.FeedbackPageActivity" configChanges="4" label="2131297497">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.SettingHelpDetailActivity" theme="2131558424" configChanges="4" label="2131297520">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.setup.MailCheckAndFetchSetting" theme="2131558424" configChanges="4" label="2131297289">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.setup.NewMailNotifySetting" theme="2131558424" configChanges="4" label="2131296643">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.setup.UserGestureLockSettingActivity" theme="2131558424" configChanges="4" label="2131297467">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.SendingSmsActivity" configChanges="4" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.VerificationActivity" configChanges="4" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.smsrecord.activity.SmsThreadActivity" configChanges="4" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.smsrecord.activity.SmsHistoryActivity" configChanges="4" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.WebPageActivity" configChanges="4">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MailSetCustomerAvatarChooseActivity" configChanges="4">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MainActivity" configChanges="164" label="2131296260">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.PersonalSettingsActivity" configChanges="164" label="2131296260">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.ClientIntroducePage" theme="16973840" configChanges="1073741828" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mail189.activity.setup.M189AccountSetup" configChanges="4" label="2131296503">
+<activity screenOrientation="1" name="com.corp21cn.mail189.activity.setup.M189AccountEdit" configChanges="4" label="2131297000">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.MenuMoreActivity" configChanges="1073741828" label="2131297299" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.ECloudActivity" configChanges="4" label="天翼云">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.fragment.AttachMentManageActivity" configChanges="4" windowSoftInputMode="2">
+<activity screenOrientation="1" name="aaa.test.MessageListFragmentActivity" configChanges="4" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.fragment.ECloudAttachMentActivity" configChanges="4" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.AttachmentManagementActivity" configChanges="4" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.mailcontact.MailContactDetailActivity">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.mailcontact.MailContactEditActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.mailcontact.MailContactGroupActivity" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.mailcontact.MailContactActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.mailcontact.MailContactChooseActivitySkip" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.mailcontact.MailContactSearchActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.RecentContactsActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.TariffPackageActivity" configChanges="1073741828" label="套餐查询">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.LocalContactImportActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.AttachmentPreviewActivity" windowSoftInputMode="2" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.SendMailEarnFlowActivity" windowSoftInputMode="2" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.FlowQureryAndOrderActivity" windowSoftInputMode="2" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.RecordAddToAttachmentActivity" windowSoftInputMode="2" launchMode="0">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.gesturelock.SetGesturePasswordActivity" configChanges="1200" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.DialogActivity" theme="2131558411" launchMode="2">
+<activity name="com.cn21.android.paycenter.sdk.ui.PayCenterWebViewActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.cn21.newspushplug.activity.PublishListActivity" theme="16973830" configChanges="160" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="com.cn21.newspushplug.activity.WebActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.cn21.newspushplug.activity.SettingsActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.cn21.newspushplug.activity.SubedListActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.qrcode.activity.CaptureActivity" configChanges="160" label="2131296260" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.corp21cn.mailapp.activity.AppCheckUpdateActivity" theme="2131558411" launchMode="2">
+14
+<service name="com.ct.yjdg.service.PollingCheckService">
+<service enabled="true" name="com.fsck.k9.service.MailService">
+<service enabled="false" name="com.fsck.k9.service.PushService">
+<service enabled="true" name="com.fsck.k9.service.PollService">
+<service enabled="true" name="com.fsck.k9.service.RemoteControlService" permission="com.corp21cn.mailapp.permission.REMOTE_CONTROL">
+<service enabled="true" name="com.fsck.k9.service.SleepService">
+<service enabled="true" name="com.corp21cn.mailapp.service.FlowReportService">
+<service enabled="true" name="com.corp21cn.mailapp.service.TrafficStatsAddtoDbService">
+<service name="com.corp21cn.mail189.activity.setup.CampusCustomizationService" exported="true">
+<service enabled="true" name="com.cn21.android.service.SmsReceiverService">
+<service enabled="true" name="com.cn21.android.service.FreeSmsService">
+<service enabled="true" icon="2130838025" name="com.cn21.newspushplug.service.PushNewsService">
+<service enabled="true" icon="2130838025" name="com.cn21.newspushplug.service.SubedKeywordPushService">
+<service enabled="true" name="com.baidu.location.f">
+8
+<receiver enabled="true" name="com.fsck.k9.service.BootReceiver">
+<receiver enabled="true" name="com.fsck.k9.service.CoreReceiver">
+<receiver enabled="true" name="com.corp21cn.mailapp.service.Mail189Receiver">
+<receiver enabled="true" name="com.corp21cn.mailapp.service.UpdateVersionAutoReceiver">
+<receiver enabled="true" name="com.corp21cn.mailapp.service.NetWorkChangeWifiReceiver">
+<receiver name="com.cn21.receiver.BootBroadcast">
+<receiver name="com.cn21.receiver.RegistrationReceiver">
+<receiver name="com.cn21.newspushplug.pushReceiver.PushMessageReceiver">
+1
+<provider authorities="com.corp21cn.mail21cn.attachmentprovider" multiprocess="true" name="com.fsck.k9.provider.AttachmentProvider" grantUriPermissions="true" readPermission="com.corp21cn.mailapp.permission.READ_ATTACHMENT">
+Owner: CN=www.21cn.com, OU=世纪龙信息网络有限责任公司, O=世纪龙信息网络有限责任公司, L=GuangZhou, ST=GuangDong, C=CN
+Issuer: CN=www.21cn.com, OU=世纪龙信息网络有限责任公司, O=世纪龙信息网络有限责任公司, L=GuangZhou, ST=GuangDong, C=CN
+Serial number: 4dd39fab
+Valid from: Wed May 18 18:30:03 CST 2011 until: Fri May 10 18:30:03 CST 2041
+Certificate fingerprints: 
+	MD5:1C:71:AF:12:BE:AA:24:E4:D4:C9:18:9F:3C:9A:D5:76
+	SHA1: 6C:75:CA:15:3F:D5:DF:CE:4B:BE:86:FE:85:A8:E4:EA:DE:55:F2:73
+	SHA256: B1:22:36:90:63:BE:8C:5A:80:9C:44:9C:3E:56:55:AF:E1:7B:D8:05:9A:82:73:B4:98:CC:9C:8B:7E:1B:9A:E8
+	Signature algorithm name: SHA1withRSA
+	version: 3

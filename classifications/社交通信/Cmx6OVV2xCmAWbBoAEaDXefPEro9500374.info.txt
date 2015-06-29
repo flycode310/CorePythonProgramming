@@ -1,0 +1,98 @@
+com.leadtone.pehd
+120
+V1.2B20130624.0000000
+8
+-1
+20
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+53
+<activity name=".activity.setup.PeSettingsActivity" configChanges="160" label="2131428062" windowSoftInputMode="32" launchMode="2">
+<activity name=".activity.setup.PeGlobalSettingsActivity" configChanges="160" label="2131428061" launchMode="2">
+<activity name=".activity.setup.PePublicSettingsActivity" configChanges="160" label="2131428062" launchMode="2">
+<activity name=".activity.setup.PeEnterpriseSettingsActivity" configChanges="160" label="2131428062" launchMode="2">
+<activity name=".activity.setup.PeAccountPropertyActivity" configChanges="224" label="2131427498">
+<activity name=".activity.setup.PeEnterpriseAccountPropertyActivity" configChanges="224" label="2131427498">
+<activity name=".activity.PeAccountListActivity" configChanges="128" label="2131427669">
+<activity name=".activity.PeFolderListActivity" theme="2131558422" configChanges="224" exported="false">
+<activity name=".activity.PeMailListActivity" configChanges="160">
+<activity name=".activity.RecipientsPickerActivity" configChanges="160" label="2131427402">
+<activity name=".activity.PeVersionHandleActivity" theme="16973835" label="2131427710">
+<activity name=".activity.PeComposerActivity" configChanges="160" label="2131427397" windowSoftInputMode="20">
+<activity name=".activity.PeReaderActivity" configChanges="160" label="2131427741">
+<activity name=".activity.setup.PeMailFilterActivity" configChanges="224" label="2131427537">
+<activity name=".activity.setup.PeMailFilterItemActivity">
+<activity name=".activity.setup.PeAttachmentFormatSet">
+<activity name=".activity.PeAttachmentManagerActivity" configChanges="228">
+<activity name=".activity.PeFileBrowser" theme="16973835" configChanges="160" label="2131427933">
+<activity name=".activity.PeSplashActivity" theme="16973831">
+<activity name=".activity.PeWelcomeActivity" configChanges="228">
+<activity name=".activity.PeRegisterActivity" configChanges="160">
+<activity name=".activity.PeOpenActivity" configChanges="160">
+<activity name=".activity.PePublicAccountListActivity">
+<activity name=".activity.PeEMNLogActivity">
+<activity name=".activity.PeAddMailAccountActivity" configChanges="160">
+<activity icon="2130837691" name=".activity.PeAccountStatusDialog" theme="16973835" configChanges="160" label="2131427370" launchMode="2">
+<activity name=".activity.PePswSetActivity" theme="16973835" configChanges="160" label="2131427569" windowSoftInputMode="18" launchMode="2">
+<activity name=".activity.PeFindpswActivity" theme="16973835" configChanges="160" label="2131427570" launchMode="2">
+<activity name=".activity.PeReckoningHelpActivity" configChanges="160">
+<activity name=".activity.PeAboutActivity" configChanges="160">
+<activity name=".activity.PeMailBackupActivity" configChanges="160">
+<activity name=".activity.PeAddMailActivity" configChanges="160">
+<activity name=".activity.PeMainFolderListActivity">
+<activity name=".activity.PeSetMailActivity" configChanges="160">
+<activity name=".activity.PeFrindRecommendActivity" configChanges="160">
+<activity name=".activity.PeOpinonFeadbackActivity" configChanges="160">
+<activity name=".activity.PeInfoPageActivity" configChanges="160" label="2131428051">
+<activity name=".contact.PeContactEditActivity" configChanges="160">
+<activity name=".contact.PeContactBackupActivity" configChanges="160">
+<activity name=".activity.PeAttachmentPrelookActivity" configChanges="160">
+<activity name=".contact.PeContactMailActivity" configChanges="160">
+<activity name=".contact.PeContactRecentActivity" configChanges="160">
+<activity name=".contact.PeContactSystemActivity" configChanges="160">
+<activity name=".activity.PeMoreFunctionActivity" theme="2131558422" configChanges="224" windowSoftInputMode="32">
+<activity name=".activity.PeHelpActivity">
+<activity name=".activity.PeGuidePageActivity">
+<activity name=".activity.PeAttDetailActivity">
+<activity name=".activity.PeMailHome" theme="16973830" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity name=".activity.PeAccountTabActivity">
+<activity name=".activity.PeAttHomeActivity" configChanges="160">
+<activity name=".activity.PeContactDetailActivity" configChanges="160">
+<activity name=".activity.PeContactManageActivity" theme="16973830" configChanges="228">
+<activity name=".activity.PePadDirectLoginActivity" configChanges="160" windowSoftInputMode="18">
+1
+<service name=".service.service.ReceiveService">
+2
+<receiver name=".service.receiver.PeBroadcastReceiver">
+<receiver name=".service.receiver.CheckUpdateReceiver">
+2
+<provider authorities="com.leadtone.pehd.PeProvider" multiprocess="false" name=".provider.PeProvider">
+<provider authorities="com.leadtone.pehd.provider.SuggestionProvider" name=".provider.SearchSuggestionProvider">
+Owner: CN=Beijing Wireless Leadtone Ltd., OU=www.leadtone.com, O=Beijing Wireless Leadtone Ltd., L=Beijing, ST=Beijing, C=cn
+Issuer: CN=Beijing Wireless Leadtone Ltd., OU=www.leadtone.com, O=Beijing Wireless Leadtone Ltd., L=Beijing, ST=Beijing, C=cn
+Serial number: 4c7395e8
+Valid from: Tue Aug 24 17:50:32 CST 2010 until: Mon Dec 25 17:50:32 CST 3009
+Certificate fingerprints: 
+	MD5:18:AE:71:CB:B9:8F:81:FA:F0:C2:67:C8:B8:3B:C5:84
+	SHA1: 60:34:32:04:BB:88:44:0E:73:8E:55:83:A4:69:EF:ED:34:2A:ED:AA
+	SHA256: 8D:4E:D1:5A:7D:9B:BF:E3:CF:3E:C2:4E:31:A5:F5:2A:C5:8F:EF:74:2E:3A:B6:7B:1B:A1:C9:7A:0E:22:72:E9
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,29 @@
+com.temobi.wmdm.tjjp
+1
+1.0.0
+8
+17
+7
+android.permission.READ_PHONE_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INTERNET
+com.android.launcher.permission.READ_SETTINGS
+com.huawei.launcher3.permission.READ_SETTINGS
+com.android.launcher.permission.WRITE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+1
+<activity name="com.temobi.wmdm.MainActivity" label="2131099648">
+1
+<service name="com.temobi.wmdm.service.PushService">
+0
+0
+Owner: CN=zhougk, OU=com.dayingjia.stock, O=com.dayingjia.stock, L=shenzhen, ST=guangdong, C=86
+Issuer: CN=zhougk, OU=com.dayingjia.stock, O=com.dayingjia.stock, L=shenzhen, ST=guangdong, C=86
+Serial number: 4ce382cd
+Valid from: Wed Nov 17 15:22:53 CST 2010 until: Sun Nov 11 15:22:53 CST 2035
+Certificate fingerprints: 
+	MD5:4B:38:55:FB:37:41:69:B0:FD:0F:3F:4D:47:E4:82:64
+	SHA1: BF:F2:56:FF:F6:1F:C6:68:67:E4:F1:BB:AB:E2:2E:0C:2B:5A:38:6B
+	SHA256: 3B:09:B9:C6:46:8F:B3:BE:37:72:E2:7E:8D:3A:AE:D4:43:7C:D9:F6:41:6D:50:1E:32:7A:43:C5:CB:C2:6A:8A
+	Signature algorithm name: SHA1withRSA
+	version: 3

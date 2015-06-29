@@ -1,0 +1,84 @@
+com.drawthink.hospital
+100
+1.0.0
+9
+17
+8
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+56
+<activity name="com.drawthink.hospital.ui.MainActivity" label="2131296270">
+<activity name="com.drawthink.hospital.ui.HealthyClassActivity">
+<activity name="com.drawthink.hospital.ui.BarcodeHelpActivity">
+<activity name="com.drawthink.hospital.ui.CameraTestActivity">
+<activity name="com.drawthink.hospital.ui.AssayQudanActivity">
+<activity name="com.drawthink.hospital.ui.HydActivity">
+<activity name="com.drawthink.hospital.ui.DepartmentDateActivity">
+<activity name="com.drawthink.hospital.ui.DiseaseFilterActivity">
+<activity name="com.drawthink.hospital.ui.DepartmentDetailActivity">
+<activity name="com.drawthink.hospital.ui.AppointmentActivity">
+<activity name="com.drawthink.hospital.ui.AssayActivity">
+<activity name="com.drawthink.hospital.ui.DepartmentsNameListActivity" windowSoftInputMode="2">
+<activity name="com.drawthink.hospital.ui.IsDayActivity">
+<activity name="com.drawthink.hospital.ui.DoctureInfoActivity">
+<activity name="com.drawthink.hospital.ui.WelcomeActivity">
+<activity name="com.drawthink.hospital.ui.PositionListActivity">
+<activity name="com.drawthink.hospital.ui.MoreActivity">
+<activity name="com.drawthink.hospital.ui.AboutActivity">
+<activity name="com.drawthink.hospital.ui.FeedBackActivity">
+<activity name="com.drawthink.hospital.ui.UserMainActivity">
+<activity name="com.drawthink.hospital.ui.UserInfoActivity">
+<activity name="com.drawthink.hospital.ui.HospitalInfoActivity">
+<activity name="com.drawthink.hospital.ui.HospitalMapActivity">
+<activity name="com.drawthink.hospital.ui.HealthHistoryActivity">
+<activity name="com.drawthink.hospital.ui.ClinicHistoryActivity">
+<activity name="com.drawthink.hospital.ui.HospitalHistoryActivity">
+<activity name="com.drawthink.hospital.ui.TestCheckActivity">
+<activity name="com.drawthink.hospital.ui.FloorActivity">
+<activity name="com.drawthink.hospital.ui.BodySelectActivity">
+<activity name="com.drawthink.hospital.ui.RegisterHistoryActivity">
+<activity name="com.drawthink.hospital.ui.KnowledgeActivity">
+<activity name="com.drawthink.hospital.ui.NewsActivity">
+<activity name="com.drawthink.hospital.ui.BodySymptomActivity">
+<activity name="com.drawthink.hospital.ui.SymptomQuestionActivity">
+<activity name="com.drawthink.hospital.ui.SymptomSelectedActivity">
+<activity name="com.drawthink.hospital.ui.DiseaseDetailActivity">
+<activity name="com.drawthink.hospital.ui.PossibleDiseaseActivity">
+<activity name="com.drawthink.hospital.ui.DiseaseListActivity">
+<activity name="com.drawthink.hospital.ui.WebActivity">
+<activity name="com.drawthink.hospital.ui.EmergencyListActivity">
+<activity name="com.drawthink.hospital.ui.EmergencyDetailActivity">
+<activity name="com.drawthink.hospital.ui.MedicineLibActivity" windowSoftInputMode="34">
+<activity name="com.drawthink.hospital.ui.MedicineDetailActivity">
+<activity name="com.drawthink.hospital.ui.MedicineListActivity" windowSoftInputMode="34">
+<activity name="com.drawthink.hospital.ui.MedCategoryListActivity" windowSoftInputMode="34">
+<activity name="com.drawthink.hospital.ui.DiseaseCategoryListActivity">
+<activity name="com.drawthink.hospital.ui.FloorInfoActivity">
+<activity name="com.drawthink.hospital.ui.AlphaDiseaseListActivity">
+<activity name="com.drawthink.hospital.ui.DisclaimerActivity">
+<activity name="com.drawthink.hospital.ui.AppointmentConfirmActivity">
+<activity name="com.drawthink.hospital.ui.DoctorListActivity">
+<activity name="com.drawthink.hospital.ui.SwitchHospitalActivity" label="2131296276">
+<activity name="com.drawthink.hospital.ui.WorkArrangementActivity" label="2131296279">
+<activity name="com.drawthink.hospital.ui.DepartmentInfoActivity" label="2131296280">
+<activity name="com.drawthink.hospital.ui.CheckInfoActivity" label="2131296281">
+<activity name="com.drawthink.hospital.ui.AssayQudanListActivity">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4fcdc3c9
+Valid from: Tue Jun 05 16:31:05 CST 2012 until: Thu May 29 16:31:05 CST 2042
+Certificate fingerprints: 
+	MD5:CE:18:7E:D6:7E:05:C2:D8:87:9B:F6:6B:BF:DF:C8:B9
+	SHA1: 81:77:2C:60:0F:16:8D:6F:9C:B3:9B:C3:2C:83:74:18:F3:7E:35:13
+	SHA256: A4:62:6C:64:80:30:A8:6C:0E:AA:12:B3:59:6E:DF:10:7F:02:EA:91:01:61:7E:87:B9:ED:EB:65:B1:7E:9D:C1
+	Signature algorithm name: SHA1withRSA
+	version: 3

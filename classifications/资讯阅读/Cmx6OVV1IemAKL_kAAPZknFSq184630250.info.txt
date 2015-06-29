@@ -1,0 +1,29 @@
+com.xgx.cartoon
+6
+1.5.1
+4
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity name=".Midlet" configChanges="176" label="2131034113">
+<activity name=".ShowCartoon" configChanges="176" label="2131034113">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="net.youmi.android.appoffers.AppOffersActivity" configChanges="176">
+0
+0
+0
+Owner: CN=xiegaoxi, OU=android, O=www.weibo.com/xiegaoxi, L=beijing, ST=beijing, C=cn
+Issuer: CN=xiegaoxi, OU=android, O=www.weibo.com/xiegaoxi, L=beijing, ST=beijing, C=cn
+Serial number: 4eaa0a84
+Valid from: Fri Oct 28 09:51:00 CST 2011 until: Sun Apr 17 09:51:00 CST 2811
+Certificate fingerprints: 
+	MD5:AE:2F:19:0A:74:F9:9A:5C:73:97:13:BB:01:21:24:07
+	SHA1: B9:CF:C9:A3:E7:FC:8C:26:87:CD:5A:CA:9A:A5:D8:B3:68:36:CA:A0
+	SHA256: E5:3D:30:14:D9:3F:90:87:85:68:44:52:9F:7D:5D:87:72:63:3E:94:80:37:7C:0B:60:49:6C:03:67:9E:D0:A3
+	Signature algorithm name: SHA1withRSA
+	version: 3

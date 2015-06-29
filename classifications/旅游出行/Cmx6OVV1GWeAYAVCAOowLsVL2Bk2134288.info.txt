@@ -1,0 +1,85 @@
+com.mapbar.obd
+73
+3.1.0
+8
+15
+35
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.PERSISTENT_ACTIVITY
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.NFC
+android.permission.BATTERY_STATS
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+13
+<activity clearTaskOnLaunch="false" screenOrientation="1" name="com.mapbar.android.obd.MainActivity" configChanges="1200" label="2131230837" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="com.mapbar.android.obd.activity.CarControlActivity" configChanges="224">
+<activity screenOrientation="1" name="com.mapbar.android.obd.activity.SpecialDataActivity" configChanges="224">
+<activity name="com.mapbar.android.obd.integral.CreditActivity" configChanges="160" launchMode="1">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="com.umeng.social.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" configChanges="160" label="2131230837">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivityEx" configChanges="160" label="2131230837" windowSoftInputMode="16">
+<activity name="com.baidu.android.pushservice.richmedia.MediaViewActivity" configChanges="160" label="MediaViewActivity">
+<activity name="com.baidu.android.pushservice.richmedia.MediaListActivity" configChanges="160" label="MediaListActivity" launchMode="2">
+<activity name="com.ixintui.push.PushActivity" theme="16973840" configChanges="160">
+8
+<service process="obd.service.process" name="com.mapbar.obd.SyncService">
+<service name="com.mapbar.obd.TripSyncService">
+<service process="obd.service.compact" name="com.mapbar.obd.CompactObdService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service name="com.UCMobile.PayPlugin.PayPluginService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service process=":ixintui_service_v1" name="com.ixintui.push.PushService" exported="true">
+<service name="com.ixintui.push.MediateService" exported="true">
+8
+<receiver name="com.mapbar.obd.WakeupSyncServiceReceiver">
+<receiver name="com.mapbar.obd.NetChangeReceiver">
+<receiver name="com.mapbar.android.activity.recognition.ActivityRecognizer">
+<receiver name="com.mapbar.android.obd.push.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="com.mapbar.android.obd.ixintui.AixintuiBroadcastReceiver">
+<receiver name="com.ixintui.push.Receiver">
+1
+<provider authorities="com.mapbar.obd.ixintui.push.provider" name="com.ixintui.push.Provider" exported="false">
+Owner: CN=Moto, OU=Moto, O=Moto, L=beijing, ST=beijing, C=CN
+Issuer: CN=Moto, OU=Moto, O=Moto, L=beijing, ST=beijing, C=CN
+Serial number: 4b0a62cf
+Valid from: Mon Nov 23 18:24:15 CST 2009 until: Tue Aug 26 18:24:15 CST 2064
+Certificate fingerprints: 
+	MD5:DA:D3:EE:13:4F:11:40:8B:FF:DE:C1:DB:DC:33:C8:71
+	SHA1: C8:6C:40:5F:EE:51:E0:FC:DC:F8:8C:07:4E:CB:6F:09:5F:AF:2D:CA
+	SHA256: 20:6C:13:91:DE:E6:DC:C3:42:A3:4D:96:3B:78:F5:6B:F0:E6:69:33:2F:01:D7:5A:36:33:CB:9A:F2:D9:DF:04
+	Signature algorithm name: SHA1withRSA
+	version: 3

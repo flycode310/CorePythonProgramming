@@ -1,0 +1,38 @@
+com.cn.niubegin.renaichueryingyuxiacedancibiao
+12
+11.1
+4
+-1
+12
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+6
+<activity screenOrientation="1" name="MainActivity" theme="16973833">
+<activity screenOrientation="1" name="AboutActivity" theme="16973833">
+<activity screenOrientation="1" name="Lable1TitleActivity" theme="16973833">
+<activity screenOrientation="1" name="DetailActivity" theme="16973833">
+<activity screenOrientation="1" name="Label1ReadActivity" theme="16973833">
+<activity name="com.baidu.mobads.AppActivity" configChanges="176">
+0
+0
+0
+Owner: CN=niubegin
+Issuer: CN=niubegin
+Serial number: 634db8d
+Valid from: Wed Apr 17 10:26:59 CST 2013 until: Thu Apr 05 10:26:59 CST 2063
+Certificate fingerprints: 
+	MD5:98:E7:22:A0:B3:79:AE:C1:F6:6B:43:E6:5D:AA:3D:32
+	SHA1: DC:CE:33:D0:3E:A8:D9:56:27:6F:24:D7:05:69:6A:D1:71:96:50:88
+	SHA256: B9:95:80:B2:47:C5:D3:B0:D6:DE:5D:26:2F:E5:00:65:22:F5:5A:CF:82:EB:77:B3:69:9B:E3:B1:BB:77:52:FA
+	Signature algorithm name: SHA256withRSA
+	version: 3

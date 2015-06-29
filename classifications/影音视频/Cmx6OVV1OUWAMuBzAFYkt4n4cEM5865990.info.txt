@@ -1,0 +1,80 @@
+com.lovinc.radio
+20
+3.3.2
+7
+15
+25
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.hardware.sensor.accelerometer
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+com.android.launcher.permission.WRITE_SETTINGS
+26
+<activity screenOrientation="1" name=".ui.LavaWelcomeActivity" theme="2131230730" configChanges="1408" label="2131165184">
+<activity screenOrientation="1" name=".ui.MainActivity" theme="2131230731" configChanges="1408" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="1" name=".ui.ZoomGaleryUI" theme="2131230736" configChanges="1408" launchMode="2">
+<activity screenOrientation="1" name=".ui.LoginActivity" theme="2131230736" configChanges="1184" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".ui.SleepTimeSettingUI" theme="2131230726" launchMode="2">
+<activity screenOrientation="1" name=".ui.ProgramDetailActivity" theme="2131230737" launchMode="1">
+<activity screenOrientation="1" name=".ui.AdActivity" theme="2131230737" launchMode="1">
+<activity screenOrientation="1" name=".ui.ReferCodeActivity" theme="2131230737" launchMode="1">
+<activity screenOrientation="1" name=".ui.AlarmVipActivity" theme="2131230737" launchMode="1">
+<activity screenOrientation="1" name=".ui.VipPayProductActivity" theme="2131230737" launchMode="1">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="2131230723" exported="true" label="2131165184" launchMode="2">
+<activity screenOrientation="1" name=".ui.AboutUsActivity" theme="2131230736" launchMode="2">
+<activity screenOrientation="1" name=".ui.SettingUnbindAccountActivity" theme="2131230736" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".ui.EditTvShowActivity" theme="2131230736">
+<activity name="com.tencent.weibo.sdk.android.component.PublishActivity" windowSoftInputMode="32">
+<activity name="com.tencent.weibo.sdk.android.component.GeneralInterfaceActivity" windowSoftInputMode="32">
+<activity name="com.tencent.weibo.sdk.android.component.ConversationActivity" windowSoftInputMode="32">
+<activity name="com.tencent.weibo.sdk.android.component.FriendActivity" windowSoftInputMode="32">
+<activity name="com.tencent.weibo.sdk.android.component.Authorize">
+<activity name="com.tencent.weibo.sdk.android.component.GeneralDataShowActivity">
+<activity name="com.tencent.weibo.sdk.android.component.ReAddActivity">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="com.lovinc.radio.register.LoginModeSelector">
+<activity screenOrientation="1" name="com.lovinc.radio.register.EmailLogin" theme="2131230732">
+<activity screenOrientation="1" name="com.lovinc.radio.register.RegisterEmailUser" theme="2131230732">
+<activity screenOrientation="1" name="com.lovinc.radio.register.EmailForgetPassword" theme="2131230732">
+5
+<service name="com.lava.radio.service.PerpareDataService" exported="false">
+<service name="com.lava.radio.service.LavaRadioPlayerService" exported="false">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service name="org.fourthline.cling.android.AndroidUpnpServiceImpl">
+3
+<receiver name="com.lovinc.radio.receiver.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+1
+<provider authorities="com.lovinc.radio.provider" name="com.lovinc.radio.db.LavaContentProvider" permission="com.lovinc.android.provider.ACCESS">
+Owner: CN=Lovinc, OU=Lovinc, O=Lovinc Culture Ltd, L=Beijing, ST=Beijing, C=86
+Issuer: CN=Lovinc, OU=Lovinc, O=Lovinc Culture Ltd, L=Beijing, ST=Beijing, C=86
+Serial number: 51c457f9
+Valid from: Fri Jun 21 21:41:13 CST 2013 until: Sun May 28 21:41:13 CST 2113
+Certificate fingerprints: 
+	MD5:F7:83:0C:DB:E8:74:79:CF:B0:85:30:EE:B0:04:08:0E
+	SHA1: F7:AB:ED:A6:46:5C:61:34:E6:47:E5:DD:10:B0:17:9C:52:97:45:39
+	SHA256: AA:B2:C3:EB:56:E7:3D:51:E3:4B:ED:A2:84:B6:82:89:BE:6E:31:7E:82:3B:3E:7D:67:00:3F:A1:AB:17:6E:51
+	Signature algorithm name: SHA1withRSA
+	version: 3

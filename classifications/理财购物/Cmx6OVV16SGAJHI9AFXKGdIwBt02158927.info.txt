@@ -1,0 +1,81 @@
+cn.com.cmbc.mbank.ds
+23000
+2.3
+8
+-1
+33
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.CLEAR_APP_CACHE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.INSTALL_PACKAGES
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.SEND_SMS
+android.permission.WRITE_SECURE_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+23
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.Loading" theme="2131427341" label="2131361792">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.SecondLoginActivity" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.photoupload.SelectPicActivity" theme="2131427354" configChanges="160" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.contactus.ContactusActivity" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.SettingActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.SettingHisListActivity" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.account.MBankAccount" configChanges="224" label="2131361792" windowSoftInputMode="0">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.QingSongHui" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.SuiXinCun" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.RuYiBaoYiQianYue" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.MyAccount" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.WoDeZhangHuCaiDan" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.SuiXinCunYiQianYue" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.RuYiBaoZhanShi" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.wxapi.WXEntryActivity" theme="16973839" exported="true" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.DingHuoBao" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.MinShengJin" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.IndexNew" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.UserSetting" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.ChenXinDai" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.secondversion.activity.SimpleBank" label="2131361792" windowSoftInputMode="32">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" configChanges="160" label="2131361792" windowSoftInputMode="16">
+<activity name="LandscapeActivity" configChanges="160">
+4
+<service name="cn.com.cmbc.mbank.ds.secondversion.service.DownLoadIndexMenuPic" exported="false">
+<service name="cn.com.cmbc.mbank.ds.secondversion.monitor.CMBCMonitorService">
+<service name="cn.com.cmbc.mbank.ds.secondversion.service.UpdateGiftBox">
+<service name="cn.com.cmbc.mbank.ds.secondversion.service.DownLoadApkService">
+1
+<receiver name="cn.com.cmbc.mbank.ds.ExitBroadcastReciever" exported="false">
+0
+Owner: CN=yao, OU=yitong, O=yitong, L=shanghai, ST=shanghai, C=cn
+Issuer: CN=yao, OU=yitong, O=yitong, L=shanghai, ST=shanghai, C=cn
+Serial number: 4d0d970c
+Valid from: Sun Dec 19 13:24:28 CST 2010 until: Mon Sep 21 13:24:28 CST 2065
+Certificate fingerprints: 
+	MD5:6C:36:26:44:63:71:91:7E:9E:25:90:BE:B5:DA:12:3B
+	SHA1: 26:85:76:AF:6F:50:DA:40:19:6E:18:D6:E0:59:D2:A7:21:37:36:38
+	SHA256: 46:82:68:F9:28:DF:8B:5F:73:17:FB:CF:BE:A2:EB:BF:25:F2:F2:08:26:DE:BE:D8:2A:DD:11:C1:B9:2F:BE:55
+	Signature algorithm name: SHA1withRSA
+	version: 3

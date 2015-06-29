@@ -1,0 +1,237 @@
+com.jiuqi.cam.android.phone
+58
+2.1.0
+8
+-1
+31
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.WRITE_MEDIA_STORAGE
+android.permission.SEND_SMS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.DISABLE_KEYGUARD
+android.permission.WRITE_CALENDAR
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_CONFIGURATION
+155
+<activity screenOrientation="1" name=".tutorial.GuideActivity" label="2131492864">
+<activity screenOrientation="1" name=".activity.BindNewUserView">
+<activity screenOrientation="1" name=".activity.CAMMapActivity" label="2131492865">
+<activity screenOrientation="1" name=".activity.LocationPickActivity" label="2131492866">
+<activity screenOrientation="1" name=".checklist.CheckListActivity" label="2131492864" launchMode="2">
+<activity screenOrientation="1" name=".activity.SplashActivity" label="2131492864">
+<activity screenOrientation="1" name=".activity.CAMActivity" configChanges="1184" label="2131492864" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".activity.CheckedActivity" label="2131492864">
+<activity screenOrientation="1" name=".activity.AuditListActivity" label="2131492864">
+<activity screenOrientation="1" name=".activity.OfficeActivity" label="2131492864">
+<activity screenOrientation="1" name=".activity.MoreActivity" label="2131492864">
+<activity screenOrientation="1" name=".activity.AttendActivity" label="2131492864">
+<activity screenOrientation="1" name=".activity.leave.LeaveActivity" label="2131492864">
+<activity screenOrientation="1" name=".activity.leave.LeaveListActivity" label="2131492864">
+<activity screenOrientation="1" name=".activity.AuditActivity" label="2131492864">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.register.activity.RegisterActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.register.activity.SettingTimeActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.register.activity.AddStaffActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.register.activity.EnterOrRegisterActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.register.activity.AddressBookActivity" theme="16973830" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.register.activity.AgreementActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.register.activity.AddByWriteActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.ApplicationActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.PayApplyActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.BuyApplyActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.SalesApplyActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.GeneralApplyActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.AuditFileterActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.ApplyListActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.SelectStaffActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.AuditorListActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.ManagerAuditorList" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.ManagerAuditor" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.OvertimeActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.OverTimeAuditList" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.OvertimeListActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.OverTimeStaffList" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.RejectActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.OvertimeAgreeActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.application.activity.OvertimeFilterActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name=".activity.SettingActivity" label="2131492864">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phonebook.activity.PhoneBookMainActivity" label="2131492864">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phonebook.activity.MyGroupActivity" label="2131492864">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.activity.ChatActivity" theme="2131558442" label="2131492864" launchMode="2">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.activity.LocationActivity" theme="2131558442" label="2131492864" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.activity.RecentActivity" label="2131492864" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.activity.FileActivity" label="2131492864" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.choosemultipics.PhotoAlbumActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.choosemultipics.ImageGridActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.choosemultipics.PreviewActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.activity.AnnounceActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.group.activity.DiscussionGroupActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.group.activity.DiscussionGroupListActivity" theme="16973830" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.group.activity.StaffListActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.group.activity.DeleteMemberActivity" theme="16973830" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.group.activity.MemberListActivity" theme="16973830" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.organization.activity.OrgaActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.mates.activity.LocDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.communication.mates.activity.MatesMainActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.ProfileEditingActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.StaffOfficePhoneEdittingActivity" theme="16973830" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.StaffOtherMobileEdittingActivity" theme="16973830" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.StaffMailEdittingActivity" theme="16973830" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.StaffFaxEdittingActivity" theme="16973830" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.StaffAddrEdittingActivity" theme="16973830" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.StaffDescEdittingActivity" theme="16973830" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.StaffFaceReplaceBySystemActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.StaffZipcodeEdittingActivity" theme="16973830" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.BigFaceActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.CommNotifySetActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".activity.AboutActivity" label="2131492897">
+<activity screenOrientation="1" name=".activity.FeedBackActivity" label="2131492897">
+<activity screenOrientation="1" name=".msgnotify.MsgNotifyActivity" label="2131492897">
+<activity screenOrientation="1" name=".leave.LeaveListActivity" label="2131492897">
+<activity screenOrientation="1" name=".activity.LocationViewActivity" label="2131492908">
+<activity screenOrientation="1" name=".activity.AlarmTimeActivity" label="2131492909">
+<activity screenOrientation="1" name=".activity.DeferCheckDialog" theme="2131558422" label="2131492909" launchMode="2">
+<activity screenOrientation="1" name=".checklist.CheckListLocationViewActivity" label="2131492864">
+<activity screenOrientation="1" name=".checklist.MergedLocationCheckList" label="2131492864">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.worklog.view.WorkLogMainActivity" theme="16973830" configChanges="1184" windowSoftInputMode="32">
+<activity name="com.jiuqi.cam.android.phone.worklog.view.BlankDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".activity.CaptureInspectionActivity" theme="16973831" configChanges="1184">
+<activity screenOrientation="1" name=".activity.ShareActivity" label="2131492864">
+<activity name="com.jiuqi.cam.android.phone.view.share.SinaShare" theme="16973830">
+<activity name="com.jiuqi.cam.android.phone.view.share.RenrenShare" theme="16973830">
+<activity name="com.jiuqi.cam.android.phone.view.share.TencentShare" theme="16973830">
+<activity name="com.jiuqi.cam.android.phone.view.share.WXEntryActivity" theme="16973830" exported="true" label="2131492864">
+<activity name="com.jiuqi.cam.android.phone.view.share.QQShare" theme="16973830">
+<activity name="com.jiuqi.cam.android.phone.uploadphoto.view.PhotoFilterActivity" theme="16973830" label="2131492864">
+<activity name=".worklog.view.BodyMapActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.leave.HistoryLeaveBill" label="2131492897">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.attdreport.AttdReportActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.CreatMeetingActivity" theme="16973830" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.FilterActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetAttdsActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetContentActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetingDetailActivity" theme="16973830" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetingListActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetPriorityActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetStartEndTimeActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetMemberActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetPlaceActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetRemindActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.meeting.activity.MeetThemeActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.leave.AgreeCCActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.leave.AuditDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.leave.LeaveFilterActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.leave.RejectLeaveActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.leave.ResumeWorkApplyActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.leave.ResumeWorkDetailActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.leave.AbolishLeaveActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.ImageProcessingActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.DocumentActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.LocalDocActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.RecentDocActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.YunFileActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.DocDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.phone.activity.ShareDocActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.CustomerListActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.LocationActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.AlterCustomerActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.AlterContactActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customervisit.activity.CustomerVisitActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customervisit.activity.VisitDetailActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customervisit.activity.AddVisitRecordActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customervisit.activity.SelectCustomerActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.AddCustomerActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.AddcontactActivity" theme="2131558465">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.AllTypeActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.AssignActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.CustomerDetailActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.customerinfo.activity.VisitRecordActivity">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.business.activity.BusinessActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.business.activity.BusinessAuditListActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.business.activity.BusinessFormActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.business.activity.BusinessListActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.business.activity.MyApplyListActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.business.selestaff.SeleStaffActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.business.activity.CcActvity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.business.activity.RejectActvity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.business.activity.BusinessMemActivity" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.mission.activity.MissionActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.mission.activity.MissionFormActivity" theme="16973830" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.mission.activity.MissionInfoActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.mission.activity.MissionSendLogActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.mission.activity.MissionLogCardActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.mission.activity.MissionListActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.mission.activity.MissionRemindActivity" theme="2131558465" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.mission.activity.MissionLogActivity" theme="2131558465" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.jiuqi.cam.android.mission.activity.MissionMemActivity" theme="2131558465" launchMode="1">
+<activity name=".wxapi.WXEntryActivity" theme="16973830" exported="true" label="2131492864">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity name="com.jiuqi.cam.android.phonebook.activity.TestIndexActivity" label="2131492973">
+23
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name=".service.CAMCenterService">
+<service name=".service.NotificationService">
+<service name=".service.UpdateService">
+<service name=".service.UpLoadCheckOutPicService">
+<service name=".worklog.serviece.UploadImageServer">
+<service name=".service.UpLoadLeaveProPicService">
+<service name=".service.UploadCrashLogService">
+<service name=".service.UploadAvatarPicService">
+<service name="com.jiuqi.cam.android.communication.service.NotifySerivce">
+<service name="com.jiuqi.cam.android.communication.service.UploadChatPicService">
+<service name="com.jiuqi.cam.android.communication.service.UploadVoiceService">
+<service name="com.jiuqi.cam.android.communication.service.DownLoadBaseInfoService">
+<service name="com.jiuqi.cam.android.communication.service.DownloadLoginPicService">
+<service name="com.jiuqi.cam.android.application.service.UploadApplyPicService">
+<service name="com.jiuqi.cam.android.phone.service.FileUploadService">
+<service name="com.jiuqi.cam.android.phone.service.FileDownloadService">
+<service name="com.jiuqi.cam.android.phone.service.AddCloudService">
+<service name="com.jiuqi.cam.android.communication.service.DownloadChatFileService">
+<service name="com.jiuqi.cam.android.customervisit.service.UploadVisitImgService">
+<service name="com.jiuqi.cam.android.phone.service.UpLocationService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="com.baidu.android.pushservice.CommandService" exported="true">
+8
+<receiver process=":remote" name="com.jiuqi.cam.android.phone.broadcast.UpLoctionReceiver" exported="true">
+<receiver process=":remote" name=".broadcast.AlarmReceiver" exported="true">
+<receiver process=":remote" name=".broadcast.WorklogAlarmReceiver" exported="true">
+<receiver name=".broadcast.BootReceiver">
+<receiver name="com.jiuqi.cam.android.communication.receiver.CommNotifyReceiver">
+<receiver name="com.jiuqi.cam.android.phone.push.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=1
+Issuer: CN=1
+Serial number: 5034d907
+Valid from: Wed Aug 22 21:05:11 CST 2012 until: Thu Jul 30 21:05:11 CST 2111
+Certificate fingerprints: 
+	MD5:E6:CC:13:7E:0D:D5:C0:8A:AC:88:28:37:24:47:BD:53
+	SHA1: F9:E7:6F:B8:FB:AE:4A:8B:C6:6E:2C:51:75:A2:22:8A:92:03:55:9B
+	SHA256: A1:EE:15:24:1E:CA:55:93:C7:B1:CF:4F:21:C0:7A:97:9F:BE:48:F8:6C:D0:46:DD:77:B4:08:0B:A8:69:91:66
+	Signature algorithm name: SHA1withRSA
+	version: 3

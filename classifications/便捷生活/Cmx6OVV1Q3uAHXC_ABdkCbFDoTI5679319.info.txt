@@ -1,0 +1,70 @@
+oms.weather
+10337
+01.03.37
+4
+-1
+12
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RESTART_PACKAGES
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+30
+<activity screenOrientation="1" name=".WeatherApp" configChanges="160" label="2131296257" launchMode="2">
+<activity name=".view.WeatherActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".view.LargeWeatherActivity" configChanges="160" label="2131296257" launchMode="2">
+<activity screenOrientation="1" name=".view.AddCityActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".view.SettingActivity3" label="2131296257" launchMode="1">
+<activity name=".widget.WeatherForecastConfigure" configChanges="160">
+<activity name=".widget.SmallWeatherForecastConfigure" configChanges="160">
+<activity name=".widget.four.one.FourOneConfigure" configChanges="160">
+<activity name=".widget.viewSet.WidgetViewSet" configChanges="160">
+<activity screenOrientation="1" name=".view.ProvinceActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".view.DelCityActivity" configChanges="160" label="2131296257">
+<activity name=".view.webview.Discuss" configChanges="160" label="2131296335">
+<activity screenOrientation="1" name="oms.loginserver.view.RedirectActivity" theme="16973839" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name="oms.loginserver.view.OMSSettingMainActivity" configChanges="160" label="2131296636">
+<activity screenOrientation="1" name="oms.loginserver.view.account.AccountConfActivity" configChanges="160" label="2131296637">
+<activity name="oms.loginserver.view.account.LoginActivity" theme="16973839" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name="oms.loginserver.view.account.LogoutActivity" configChanges="160" label="2131296642">
+<activity screenOrientation="1" name="oms.loginserver.view.account.RegisterActivity" theme="2131230739" configChanges="160" label="2131296640">
+<activity screenOrientation="1" name="oms.loginserver.view.account.RegActivateActivity" theme="2131230739" configChanges="160" label="2131296641">
+<activity screenOrientation="1" name="oms.loginserver.view.account.SetPasswordActivity" theme="2131230739" configChanges="160" label="2131296639">
+<activity name=".upgrade.AutoUpgradeActivity" configChanges="160">
+<activity name=".upgrade.UpgradePackageMng" configChanges="160">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="com.baidu.AppActivity" configChanges="176">
+<activity name="com.google.ads.AdActivity" configChanges="176">
+<activity screenOrientation="1" name="com.exchange.View.PearlCurtainActivity" configChanges="160">
+<activity screenOrientation="1" name="com.exchange.View.ListCurtainActivity" configChanges="160">
+<activity name="com.exchange.View.LandingWebViewActivity">
+<activity windowBackground="0" name="com.nd.lib.appmore.NdAppMoreLibActivity" theme="16973830" configChanges="224" windowSoftInputMode="32">
+2
+<service name=".widget.WeatherUpdateService">
+<service name=".task.upgrade.DownloadService">
+3
+<receiver name=".widget.WeatherForecastWidget" label="2131296257">
+<receiver name=".widget.SmallWeatherForecastWidget" label="2131296258">
+<receiver name=".widget.four.one.FourOneWidget" label="2131296259">
+3
+<provider authorities="oms.weather" name=".storage.WeatherProvider">
+<provider authorities="oms.weatehrwidget" multiprocess="false" name=".widget.WidgetDBProvider">
+<provider authorities="oms.weather.loginserver" name="oms.loginserver.store.OMSConfContentProvider">
+Owner: CN=borqs, OU=borqs, O=borqs, L=China, ST=ShenZhen, C=CN
+Issuer: CN=borqs, OU=borqs, O=borqs, L=China, ST=ShenZhen, C=CN
+Serial number: 498fa37e
+Valid from: Mon Feb 09 11:31:10 CST 2009 until: Fri Jun 27 11:31:10 CST 2036
+Certificate fingerprints: 
+	MD5:39:55:AA:9B:7F:5B:92:D5:6D:94:C2:53:D7:8A:E5:92
+	SHA1: 47:C1:64:F3:7F:31:69:3D:45:F1:51:03:96:E6:B0:6D:87:34:14:C1
+	SHA256: 67:72:7F:94:05:21:96:28:DB:23:F5:08:CF:11:66:3C:D4:F8:2F:02:B0:86:F3:29:F5:17:A6:13:F8:70:2A:DE
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,74 @@
+com.hexin.plat.kaihu
+20020
+V2.2
+10
+19
+20
+com.android.voicemail.permission.ADD_VOICEMAIL
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.READ_SOCIAL_STREAM
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+32
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.StartActivity">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.EntranceActivity">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.ConfigActivity">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.FunctionActivity">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.wxapi.WXEntryActivity" theme="16973839" exported="true">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.HistoryRecordActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.KaihuChooseActivity">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.PhoneVerificationActi" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.AgreementActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.ApplyResultActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.CertInstallActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.IdentityConfirmActi" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.OpenAccountActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.PasswordSettingActi" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.ReturnVisitActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.RiskResultActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.RiskTestActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.SalesDepartmentActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.ThreePartyActi" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.UploadImgActivity">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.VideoActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.VideoBeforeActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.VideoWaitingActi">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.DWVideoActivity">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.TakePhotoActivity" theme="16973831">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.BrowserActivity">
+<activity screenOrientation="1" name="com.hexin.android.feedback.FeedBackActivity">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.VideoRecordActi">
+<activity screenOrientation="1" name="com.junyufr.szt.activity.LivingBerforActi">
+<activity screenOrientation="1" name="com.junyufr.szt.activity.AuthActivity">
+<activity screenOrientation="1" name="com.junyufr.szt.activity.ResultActivity">
+<activity screenOrientation="1" name="com.hexin.plat.kaihu.activity.ProvinceChooseActi">
+2
+<service process=":remote" name="com.hexin.plat.kaihu.update.AppUpgradeService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+0
+0
+Owner: CN=hexin, OU=TongHuaShun, O=ShouJiKaiFaZu, L=Hangzhou, ST=ZheJiang, C=CN
+Issuer: CN=hexin, OU=TongHuaShun, O=ShouJiKaiFaZu, L=Hangzhou, ST=ZheJiang, C=CN
+Serial number: 4bac11dd
+Valid from: Fri Mar 26 09:46:05 CST 2010 until: Mon May 07 09:46:05 CST 2040
+Certificate fingerprints: 
+	MD5:11:05:82:F4:3C:AE:D5:05:85:45:99:C7:AD:A2:8E:77
+	SHA1: 77:F1:4A:EA:BB:56:20:A3:B9:8B:C0:00:8D:C4:E4:65:0E:C6:1F:35
+	SHA256: 80:FE:2B:E2:20:79:49:46:05:98:33:7F:3C:6E:EC:64:C9:6B:28:28:4E:39:FE:BB:55:BE:59:14:26:B0:3B:42
+	Signature algorithm name: MD5withRSA
+	version: 1

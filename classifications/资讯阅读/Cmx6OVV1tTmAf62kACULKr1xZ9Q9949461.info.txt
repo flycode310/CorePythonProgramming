@@ -1,0 +1,36 @@
+com.riskycheng.qiushixiaohua
+1
+1.0
+8
+18
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity name="com.riskycheng.qiushixiaohua.Splash" label="2131165184">
+<activity name="com.riskycheng.qiushixiaohua.MainActivity">
+<activity name="com.riskycheng.qiushixiaohua.PublishActivity">
+<activity name="com.riskycheng.qiushixiaohua.ImgActivity">
+<activity screenOrientation="1" name="net.ecom.android.EcomBrowser" theme="16973830" exported="true">
+1
+<service name="net.ecom.android.FloatWindowService">
+0
+0
+Owner: CN=risky, OU=cheng, O=fatfish, L=nanjing, ST=jiangsu, C=china
+Issuer: CN=risky, OU=cheng, O=fatfish, L=nanjing, ST=jiangsu, C=china
+Serial number: 5396fb93
+Valid from: Tue Jun 10 20:35:31 CST 2014 until: Thu May 17 20:35:31 CST 2114
+Certificate fingerprints: 
+	MD5:CC:13:EA:06:50:D4:C3:80:85:AE:09:54:AF:E6:86:A3
+	SHA1: CC:92:82:69:C9:EF:6A:4A:72:9D:B0:EF:8A:4B:7D:52:A6:42:66:03
+	SHA256: 8B:FD:57:D2:42:B0:1D:68:53:A4:A3:82:FA:C0:E2:82:01:73:0B:8E:3D:D5:53:DC:B5:96:91:48:68:63:56:5E
+	Signature algorithm name: SHA1withRSA
+	version: 3

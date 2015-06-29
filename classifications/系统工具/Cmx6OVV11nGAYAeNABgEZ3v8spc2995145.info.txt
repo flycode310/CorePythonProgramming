@@ -1,0 +1,31 @@
+com.dooblou.WiFiFileExplorerPRO
+70
+1.8.2
+4
+17
+7
+android.permission.SET_WALLPAPER
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+3
+<activity name="com.dooblou.WiFiFileExplorerLib.Start" theme="2131492866" configChanges="3248" label="2131099825" launchMode="1">
+<activity name="com.dooblou.WiFiFileExplorerLib.Settings" theme="2131492865" label="2131099825">
+<activity name="com.admob.android.ads.AdMobActivity" theme="16973831" configChanges="3248">
+1
+<service name="com.dooblou.WiFiFileExplorerLib.WebServerService">
+0
+0
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: 936eacbe07f201df
+Valid from: Fri Feb 29 09:33:46 CST 2008 until: Tue Jul 17 09:33:46 CST 2035
+Certificate fingerprints: 
+	MD5:E8:9B:15:8E:4B:CF:98:8E:BD:09:EB:83:F5:37:8E:87
+	SHA1: 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+	SHA256: A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC
+	Signature algorithm name: SHA1withRSA
+	version: 3

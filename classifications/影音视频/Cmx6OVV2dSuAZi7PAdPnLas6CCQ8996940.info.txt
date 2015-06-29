@@ -1,0 +1,75 @@
+org.mfactory.guess.t
+27
+2.5.1
+8
+17
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+20
+<activity screenOrientation="1" name="org.mfactory.guess.common.SplashActivity" theme="2131099752" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.MainActivity" configChanges="1184" label="2131165209">
+<activity screenOrientation="1" name="org.mfactory.guess.common.GuessActivity" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.LevelActivity" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.GuessedActivity" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.ExchangeUmeng" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.WeiboTopic" configChanges="1184">
+<activity screenOrientation="1" name="org.mfactory.guess.common.DoubanWebActivity" configChanges="1184">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131099662" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity">
+<activity name="com.pubukeji.diandeows.adviews.DiandeActivity" configChanges="1200">
+<activity name="com.pubukeji.integralwall.OWSWallDisplayActivity" theme="2131099651" configChanges="1184" launchMode="2">
+<activity name="com.pubukeji.integralwall.WebkitActivity" configChanges="1184" launchMode="2">
+<activity name="com.pubukeji.integralwall.DiandeActivity" configChanges="1184" launchMode="2">
+<activity excludeFromRecents="true" name="org.mfactory.guess.common.e.Fmoc" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="org.mfactory.guess.common.n.Pe" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="org.mfactory.guess.common.c.Nje" label="" launchMode="2">
+<activity excludeFromRecents="true" name="org.mfactory.guess.common.o.Db" theme="16973839" label="" launchMode="3">
+10
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.pubukeji.diandeows.services.DownloadService">
+<service name="com.pubukeji.diandeows.services.UploadService">
+<service name="com.pubukeji.integralwall.services.UploadService">
+<service name="com.pubukeji.integralwall.services.DownloadService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="org.mfactory.guess.common.e.Ca">
+<service name="org.mfactory.guess.common.n.Vey">
+<service name="org.mfactory.guess.common.c.Zzqu">
+<service name="org.mfactory.guess.common.o.Rcr">
+9
+<receiver name="com.pubukeji.diandeows.reciever.AppInstalledReceiver">
+<receiver name="com.pubukeji.integralwall.receiver.BootReceiver">
+<receiver name="org.mfactory.guess.share.push.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="org.mfactory.guess.common.e.Ms">
+<receiver name="org.mfactory.guess.common.n.Cgzm">
+<receiver name="org.mfactory.guess.common.c.Tah">
+<receiver name="org.mfactory.guess.common.o.Rf">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 53280a5e
+Valid from: Tue Mar 18 16:57:02 CST 2014 until: Thu Feb 22 16:57:02 CST 2114
+Certificate fingerprints: 
+	MD5:45:2B:1C:AD:E3:6F:39:8D:33:ED:D1:4B:9F:93:48:3D
+	SHA1: 6B:33:82:17:B4:90:95:21:C6:57:AB:36:DE:21:4E:C7:34:36:7F:19
+	SHA256: 04:5B:A5:DD:99:65:35:57:C4:7D:EF:18:98:81:4E:DE:FA:15:0B:71:45:B7:36:7A:65:06:0A:75:C7:B3:FF:D0
+	Signature algorithm name: SHA1withRSA
+	version: 3

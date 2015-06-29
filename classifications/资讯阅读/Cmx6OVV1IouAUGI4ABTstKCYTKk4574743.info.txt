@@ -1,0 +1,55 @@
+cn.duome.news
+59
+4.9.8_19
+4
+-1
+7
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+25
+<activity name="com.hutuchong.app_news.NewsActivity_1" configChanges="224">
+<activity name="com.hutuchong.util.FlashActivity" configChanges="224" launchMode="3">
+<activity name="com.hutuchong.app_news.NewsActivity" configChanges="224">
+<activity name="com.hutuchong.app_news.NewsGridActivity" configChanges="224">
+<activity name="com.hutuchong.app_news.NewsDetailActivity" configChanges="224">
+<activity name="com.hutuchong.app_news.NewsComment" configChanges="224">
+<activity name="com.hutuchong.app_news.NewsCustomActivity" theme="2131296256" configChanges="224">
+<activity name="com.hutuchong.util.ShareDialog" theme="2131296256" configChanges="224">
+<activity name="com.kaixin.demo.PostRecordActivity" theme="2131296256" configChanges="224">
+<activity name="com.hutuchong.util.WebDialog">
+<activity name="com.hutuchong.util.AboutActivity">
+<activity name="com.hutuchong.util.ImageZoomActivity">
+<activity name="com.hutuchong.util.AdDialog">
+<activity name="com.hutuchong.app_user.MessageListActivity" configChanges="224">
+<activity name="com.hutuchong.app_game.MarketListActivity_1" configChanges="224">
+<activity name="com.hutuchong.app_game.MarketListActivity" configChanges="224">
+<activity name="com.angeeks.market.FlashActivity">
+<activity name="com.angeeks.market.MarketHomeActivity" configChanges="224">
+<activity name="com.angeeks.market.MarketCategoryActivity" configChanges="224">
+<activity name="com.angeeks.market.MarketDetailActivity" configChanges="224">
+<activity name="com.angeeks.market.MarketSearchActivity" configChanges="224">
+<activity name="com.angeeks.market.MarketListActivity" configChanges="224">
+<activity name="com.angeeks.market.ManageActivity" configChanges="224">
+<activity name="cn.domob.donwload.DownloadCancelActivity" theme="2131296279">
+<activity name="com.admob.android.ads.AdMobActivity" theme="16973831" configChanges="176">
+1
+<service name="com.hutuchong.util.BaseService">
+2
+<receiver enabled="true" name="com.hutuchong.app_game.receiver.PackageChangeReceiver">
+<receiver name="com.admob.android.ads.analytics.InstallReceiver" exported="true">
+0
+Owner: CN=3gqa.com, OU=3gqa.com, O=3gqa.com, L=beijing, ST=beijing, C=86
+Issuer: CN=3gqa.com, OU=3gqa.com, O=3gqa.com, L=beijing, ST=beijing, C=86
+Serial number: 4b859d88
+Valid from: Thu Feb 25 05:43:36 CST 2010 until: Mon Feb 19 05:43:36 CST 2035
+Certificate fingerprints: 
+	MD5:B7:B5:BE:55:83:CF:A2:33:B7:E3:7F:91:21:FD:EF:ED
+	SHA1: 14:56:0C:D2:A5:AD:EB:1C:CE:B4:22:38:F9:F5:7B:21:1A:3F:F7:6C
+	SHA256: D7:9B:30:89:43:9F:8F:6F:DB:AA:B9:39:4D:C0:36:F2:55:72:C7:61:BE:3E:61:96:16:9D:3C:CB:A6:4E:5F:59
+	Signature algorithm name: SHA1withRSA
+	version: 3

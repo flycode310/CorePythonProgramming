@@ -1,0 +1,30 @@
+cn.cloor.www
+1
+1.0
+8
+17
+5
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity screenOrientation="1" name=".activity.WelcomeActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.MainActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.TaoBaoActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.CategoryActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.SearchActivity" launchMode="2">
+0
+0
+0
+Owner: CN=chao, OU=china, O=fly, L=shenzhen, ST=guangzhou, C=86
+Issuer: CN=chao, OU=china, O=fly, L=shenzhen, ST=guangzhou, C=86
+Serial number: 521a2dc2
+Valid from: Mon Aug 26 00:16:02 CST 2013 until: Tue Aug 02 00:16:02 CST 2112
+Certificate fingerprints: 
+	MD5:C8:78:26:C1:B2:EF:9A:1E:6F:AE:07:DD:5F:AC:D0:A2
+	SHA1: 8A:0A:1F:48:4B:E1:A1:9B:8B:CB:7A:1F:0A:42:FC:CF:A0:C5:AC:9E
+	SHA256: 30:39:C5:ED:B8:AD:1E:5A:9E:CA:A7:05:0D:6D:9F:A1:9D:45:AC:FE:26:A5:AA:A6:C4:F7:A0:69:58:AF:A1:4E
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,29 @@
+com.BabyCookBook.book.reader
+1
+1.0
+7
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity screenOrientation="1" name=".LoadActivity" configChanges="160" label="2130968576">
+<activity name=".MainActivity" configChanges="160" label="2130968576">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+0
+0
+0
+Owner: CN=popmod
+Issuer: CN=popmod
+Serial number: 4f5818ac
+Valid from: Thu Mar 08 10:25:48 CST 2012 until: Sat Feb 13 10:25:48 CST 2112
+Certificate fingerprints: 
+	MD5:69:F0:DA:FC:BA:2C:D1:7B:33:0B:2E:63:47:4F:26:AC
+	SHA1: B2:D8:94:F5:96:BC:D2:F1:D0:94:60:98:D1:02:A2:DC:3F:48:4D:AE
+	SHA256: 2C:2A:DB:E4:C7:FD:16:44:05:E5:67:CD:D1:53:4D:A2:4A:CE:2A:4B:6F:63:89:83:73:F1:54:59:93:E4:B1:8E
+	Signature algorithm name: SHA1withRSA
+	version: 3

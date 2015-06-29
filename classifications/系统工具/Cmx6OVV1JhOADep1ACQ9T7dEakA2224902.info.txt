@@ -1,0 +1,58 @@
+com.xiaopupu.app
+20150603
+1.0
+12
+21
+18
+com.xiaomi.market.sdk.UPDATE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.GET_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+com.xiaopupu.app.permission.MIPUSH_RECEIVE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+13
+<activity screenOrientation="1" name="com.xiaopupu.app.ui.activity.SplashActivity">
+<activity name="com.xiaopupu.app.ui.activity.GuideActivity">
+<activity name="com.xiaopupu.app.ui.activity.LoginActivity" theme="2131427332" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.xiaopupu.app.ui.activity.MainActivity" theme="2131427334" launchMode="2">
+<activity screenOrientation="1" name="com.xiaopupu.app.ui.activity.SecondActivity" theme="2131427334">
+<activity name="com.xiaopupu.app.ui.activity.SetPasswordActivity" theme="2131427334">
+<activity name="com.xiaopupu.app.ui.activity.RegisterActivity" theme="2131427334">
+<activity name="com.xiaopupu.app.ui.activity.InputCaptchaActivity" theme="2131427334">
+<activity screenOrientation="1" name="com.zbar.lib.CaptureActivity" theme="2131427329">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.xiaopupu.app.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+3
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+4
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+<receiver name="com.xiaopupu.app.receiver.PushReceiver" exported="true">
+<receiver name="com.xiaomi.market.sdk.DownloadCompleteReceiver">
+0
+Owner: CN=Carr C, OU=北京觅我信息技术有限公司, O=觅我信息, L=北京, ST=北京市, C=86
+Issuer: CN=Carr C, OU=北京觅我信息技术有限公司, O=觅我信息, L=北京, ST=北京市, C=86
+Serial number: 5b3bc4c1
+Valid from: Wed Apr 08 14:18:34 CST 2015 until: Thu Jan 09 14:18:34 CST 2070
+Certificate fingerprints: 
+	MD5:25:BE:8F:F4:AE:2D:AA:F0:6E:F5:C7:34:10:7E:0F:E2
+	SHA1: CB:5B:C8:F5:B9:CA:64:55:8E:93:BB:5F:7A:D5:05:00:62:C1:99:58
+	SHA256: ED:CE:37:D3:D6:91:D7:28:31:31:F2:5D:17:0B:7F:ED:88:01:00:35:EF:9B:61:A0:90:A6:75:76:6B:DB:0E:36
+	Signature algorithm name: SHA256withRSA
+	version: 3

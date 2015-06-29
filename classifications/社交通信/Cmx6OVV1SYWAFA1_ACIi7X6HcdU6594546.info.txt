@@ -1,0 +1,68 @@
+com.sina.free.sm.pro
+9
+2.3.0
+4
+4
+13
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+26
+<activity name=".android.activity.GuideRegister" theme="16973830">
+<activity name=".android.activity.AddEmailAccountOnStartUp" theme="16973830" configChanges="160" label="2131296256">
+<activity name=".android.activity.SinaMessageList" theme="2131361792" configChanges="160" label="2131296256" launchMode="3">
+<activity name=".android.activity.ViewFolder" theme="2131361792" configChanges="160" label="2131296256" launchMode="3">
+<activity name=".android.activity.SearchActivity" theme="2131361792" configChanges="160" label="2131296256" launchMode="3">
+<activity name=".android.activity.Register" theme="2131361792" configChanges="160" label="2131296520" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".android.activity.Login" theme="2131361792" configChanges="160" label="2131296518" windowSoftInputMode="16">
+<activity name=".android.activity.MessageView" theme="16973830" configChanges="160" launchMode="3">
+<activity name=".android.activity.MessageEdit" theme="2131361792" configChanges="160" label="2131296460">
+<activity name=".android.activity.EmailAccountList" theme="2131361792" configChanges="160" label="2131296566">
+<activity name=".android.activity.AddEmailAccount" theme="2131361792" configChanges="160" label="2131296562">
+<activity name=".android.activity.Preview" theme="2131361792" configChanges="160">
+<activity name=".android.activity.BrowseFile" theme="16973835" configChanges="160" label="2131296597">
+<activity name=".android.activity.BrowseFileOrDir" theme="16973835" configChanges="160">
+<activity name=".android.activity.EmailAccountEdit" theme="2131361792" configChanges="160" label="2131296562">
+<activity name=".android.activity.EmailAccountEditSetting" theme="2131361792" configChanges="160" label="2131296562">
+<activity name=".android.activity.ChannelSelect" theme="2131361792" configChanges="160" label="2131296278">
+<activity name=".android.activity.GlobalSetting" configChanges="160" label="2131296277">
+<activity name=".android.activity.AddFilter" configChanges="160" label="2131296276">
+<activity name=".android.activity.ModifyUserAccountPass" theme="16973835" configChanges="160" label="2131296283">
+<activity name=".android.activity.About" theme="2131361792" label="2131296279">
+<activity name=".android.activity.Help" theme="2131361792" label="2131296699">
+<activity name=".android.activity.SignatureConfig" theme="16973835">
+<activity finishOnTaskLaunch="true" excludeFromRecents="true" name=".android.activity.CrashReportDialog" theme="16973835" launchMode="3">
+<activity name=".android.activity.MyWebView" launchMode="3">
+<activity name="com.adbox.lbs.LBSMapActivity" theme="16973831" configChanges="160">
+1
+<service name=".android.service.SinaMailCheckService">
+7
+<receiver enabled="false" name=".android.receiver.ConfigChangeReceiver">
+<receiver enabled="false" name=".android.receiver.CheckEmailExpireReceiver">
+<receiver name=".android.receiver.WorkDayReceiver">
+<receiver enabled="false" name=".android.receiver.PushEventReceiver">
+<receiver name=".android.receiver.ConnStateReceiver">
+<receiver enabled="false" name=".android.receiver.UninstallReceiver">
+<receiver enabled="false" name=".android.receiver.WorkDayReceiver">
+1
+<provider authorities="SinaFreeMessageListSearch" name=".android.provider.SinaMessageListQueryProvider" syncable="false">
+Owner: CN=yangrunfei
+Issuer: CN=yangrunfei
+Serial number: 4cda1df5
+Valid from: Wed Nov 10 12:22:13 CST 2010 until: Fri Nov 02 12:22:13 CST 2040
+Certificate fingerprints: 
+	MD5:E1:F0:09:73:94:C7:A7:5B:95:E8:88:5D:52:FA:BE:8F
+	SHA1: 58:8D:96:65:88:5A:F4:4E:1F:4B:15:5E:8B:A7:6A:64:8E:73:B3:97
+	SHA256: BA:01:10:24:B2:5A:77:C5:54:41:18:35:D4:CF:52:27:33:8C:46:75:E4:F0:90:25:38:10:B3:A1:CD:DC:5B:11
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,33 @@
+cn.fjy.android.phone
+4
+1.1.1
+3
+10
+9
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity name=".Main" label="2131034112">
+<activity name=".view.RecordFileManager" label="2131034129">
+1
+<service name=".service.PhoneStateService">
+1
+<receiver name=".receiver.BootStartReceiver">
+0
+Owner: CN=GrayF, OU=GrayF, O=GrayF, L=Beijing
+Issuer: CN=GrayF, OU=GrayF, O=GrayF, L=Beijing
+Serial number: 4d8f6220
+Valid from: Mon Mar 28 00:13:20 CST 2011 until: Wed Mar 20 00:13:20 CST 2041
+Certificate fingerprints: 
+	MD5:4F:B4:02:56:8D:E5:14:64:A0:22:B6:B3:C7:5B:70:71
+	SHA1: 5A:86:54:BD:ED:39:1A:A9:8B:7D:40:F3:46:45:2E:4D:56:5C:84:07
+	SHA256: 20:4F:13:D8:E0:5F:A0:7B:BC:0C:C4:E6:DA:2E:28:11:82:00:85:AC:A4:EB:0F:79:88:D6:06:EB:1D:79:24:DC
+	Signature algorithm name: SHA1withRSA
+	version: 3

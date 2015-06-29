@@ -1,0 +1,22 @@
+com.p_study_GGYY
+1
+1.0
+8
+17
+0
+2
+<activity name="com.p_study_GGYY.Load" label="2130968576">
+<activity name="com.p_study_GGYY.MainActivity">
+0
+0
+0
+Owner: CN=pandeng, OU=xinleiEdu, O=xileiEdu, L=beijing, ST=beijing, C=cn
+Issuer: CN=pandeng, OU=xinleiEdu, O=xileiEdu, L=beijing, ST=beijing, C=cn
+Serial number: 50bdbe6a
+Valid from: Tue Dec 04 17:12:10 CST 2012 until: Sun Apr 07 17:12:10 CST 3011
+Certificate fingerprints: 
+	MD5:32:58:46:CD:EC:AD:6C:B0:47:B0:C1:1A:AA:3F:81:60
+	SHA1: 16:5E:81:F7:C9:2C:7C:F2:B4:11:DF:00:97:3C:CD:B5:32:F2:8A:D6
+	SHA256: 4B:46:80:F9:62:EA:86:FB:BA:2B:36:C4:C7:DD:B0:42:7D:26:27:10:D8:DB:5C:1B:BC:37:FF:1B:71:8D:08:B1
+	Signature algorithm name: SHA1withRSA
+	version: 3

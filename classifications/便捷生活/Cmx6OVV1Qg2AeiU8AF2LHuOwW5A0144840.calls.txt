@@ -1,0 +1,4 @@
+java.net.URL: java.net.URLConnection openConnection()
+android.util.Log: int i(java.lang.String,java.lang.String)
+android.telephony.TelephonyManager: java.lang.String getSubscriberId()
+java.net.URL: void <init>(java.lang.String)

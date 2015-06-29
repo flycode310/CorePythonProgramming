@@ -1,0 +1,85 @@
+com.qo.android.am3
+166
+5.0.166
+5
+8
+13
+com.android.email.permission.ACCESS_PROVIDER
+android.permission.READ_PHONE_STATE
+com.google.android.gm.permission.WRITE_GMAIL
+com.google.android.providers.gmail.permission.READ_GMAIL
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.google.android.providers.gmail.permission.WRITE_GMAIL
+com.google.android.gm.permission.READ_GMAIL
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+46
+<activity name="com.qo.android.updates.NotifyingDialogActivity" theme="2131492893">
+<activity icon="2130837991" name="com.qo.android.quickoffice.QuickofficeDispatcher" configChanges="1073742468" label="2131230896" windowSoftInputMode="4">
+<activity process=":MX" name="com.quickoffice.mx.engine.ServiceLoginWebActivity" exported="false" label="2131231353" windowSoftInputMode="32" launchMode="1">
+<activity process=":Quicksheet" icon="2130837990" name="com.qo.android.quicksheet.Quicksheet" theme="2131492891" configChanges="1073742516" label="2131230897" windowSoftInputMode="16">
+<activity process=":Quickword" icon="2130837990" name="com.qo.android.quickword.Quickword" theme="2131492891" configChanges="1073742516" label="2131230898" windowSoftInputMode="1">
+<activity process=":Quickpoint" icon="2130837990" name="com.qo.android.quickpoint.Quickpoint" theme="2131492891" configChanges="1073742516" label="2131230899">
+<activity process=":Quickpdf" icon="2130837990" name="com.qo.android.am.pdflib.app.RenderScreen" theme="2131492891" configChanges="1073742512" label="2131230720">
+<activity process=":Quickpdf" icon="2130837990" name="com.qo.android.am.pdflib.app.BookmarksScreen" configChanges="688" label="2131230720">
+<activity process=":MX" name="com.quickoffice.mx.FileSystemListActivity" configChanges="672" label="2131230896">
+<activity process=":MX" name="com.quickoffice.mx.remote.RepositoryServiceListActivity" configChanges="672" label="2131231382">
+<activity process=":MX" name="com.quickoffice.mx.remote.CredentialsActivity" configChanges="672" label="2131230896">
+<activity process=":MX" name="com.quickoffice.mx.FileListActivity" configChanges="672" label="2131230896">
+<activity process=":MX" name="com.quickoffice.mx.home_screen.HomeActivity" theme="16973834" configChanges="672" windowSoftInputMode="32">
+<activity process=":MX" name="com.quickoffice.mx.register.RegisterActivity" theme="16973838" configChanges="672">
+<activity process=":MX" name="com.qo.android.quickcommon.WaitingKillAppsActivity" theme="16973840" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.SearchHomeActivity" theme="16973838" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.DeleteActivity" theme="2131492865" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.OpenActivity" theme="2131492865" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.PasteActivity" theme="2131492865" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.PickActivity" theme="2131492865" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.SaveActivity" theme="2131492865" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.SaveFileAsActivity" theme="2131492865" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.SaveFileActivity" theme="2131492865" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.SortFilesActivity" theme="16973835">
+<activity process=":MX" name="com.quickoffice.mx.FilePropertiesActivity" theme="16973835">
+<activity process=":MX" name="com.quickoffice.mx.FilePropertiesActivity2">
+<activity process=":MX" name="com.quickoffice.mx.RenameActivity" theme="16973835" configChanges="672" windowSoftInputMode="36">
+<activity process=":MX" name="com.quickoffice.mx.CreateFolderActivity" theme="16973835" configChanges="672" windowSoftInputMode="36">
+<activity process=":MX" name="com.quickoffice.mx.ShareFilesActivity" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.remote.ShareServiceListActivity" configChanges="672" label="2131231397">
+<activity process=":MX" name="com.quickoffice.mx.SearchActivity" configChanges="672" label="2131230896" launchMode="1">
+<activity process=":MX" name="com.quickoffice.mx.SearchResultsActivity" configChanges="672" label="2131230896" launchMode="1">
+<activity process=":MX" name="com.quickoffice.mx.CoverFlowActivity" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.FirstPagePreviewActivity" theme="16973835" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.registration.RegistrationActivity" theme="2131492870" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.registration.SignInActivity" theme="2131492870" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.registration.CreateAccountActivity" theme="2131492870" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.registration.WhyRegisterActivity" theme="2131492870" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.CreateArchiveActivity" theme="16973835" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.CoverFlowActivity" configChanges="672" label="2131230896">
+<activity process=":MX" name="com.quickoffice.mx.tablet.FileManagerActivity" theme="16973833" configChanges="32" label="2131230896">
+<activity process=":MX" name="com.quickoffice.mx.tablet.TabletRepositoryServiceListActivity" theme="16973835" configChanges="672" label="2131231382">
+<activity process=":MX" name="com.quickoffice.mx.tablet.TableSortFilesActivity" theme="16973835">
+<activity process=":MX" name="com.quickoffice.mx.tablet.TabletCredentialsActivity" theme="16973835" configChanges="672" label="2131230896">
+<activity process=":MX" name="com.quickoffice.mx.tablet.TabletSearchHomeActivity" theme="2131492864" configChanges="672">
+<activity process=":MX" name="com.quickoffice.mx.SendAttachmentActivity" theme="2131492865" configChanges="672">
+1
+<service name="com.qo.android.updates.NotifyingService">
+2
+<receiver name="com.qo.android.updates.StartupUpdatesReceiver">
+<receiver process=":remote" name="com.qo.android.updates.RepeatingAlarm">
+3
+<provider process=":MX" authorities="com.quickoffice.mx.am3" name="com.quickoffice.mx.am3.MxContentProvider">
+<provider process=":MX" authorities="com.quickoffice.mx.engine.recentdocs.am3" name="com.quickoffice.mx.engine.recentdocs.am3.RecentDocsProvider">
+<provider process=":MX" authorities="com.qo.android.previews.filepreviewprovider.am3" name="com.quickoffice.mx.am3.FilePreviewProvider">
+Owner: CN=Alexander Stepanov, OU=QO-DEV, O=Quickoffice, L=Dallas, ST=TX, C=US
+Issuer: CN=Alexander Stepanov, OU=QO-DEV, O=Quickoffice, L=Dallas, ST=TX, C=US
+Serial number: 49527df9
+Valid from: Thu Dec 25 02:22:49 CST 2008 until: Fri Sep 28 02:22:49 CST 2063
+Certificate fingerprints: 
+	MD5:27:A7:3E:EA:D1:1C:65:9D:AC:CF:11:67:30:55:BF:83
+	SHA1: 24:22:F8:C1:A1:3E:6E:5E:4D:30:89:E2:C1:A3:0A:30:52:1E:BC:10
+	SHA256: D8:08:FC:69:84:9F:03:2D:8E:A0:47:33:90:57:0D:3D:EB:63:41:F5:A3:3D:A9:B4:FD:07:40:64:AD:CD:9A:5B
+	Signature algorithm name: SHA1withRSA
+	version: 3

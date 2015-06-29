@@ -1,0 +1,100 @@
+easaa.middleware.e14022117093593
+1
+1.0
+7
+10
+18
+READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+59
+<activity screenOrientation="1" name=".WelcomeActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".GuideActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".GuanggaoActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".HostActivity" theme="16973833" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".LoginActivity" theme="16973833" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".MainActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MainActivity1" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MainActivity2" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MainActivity3" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".ListActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".ListActivity2" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".ListActivity1" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".WebActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".WebActivity1" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".NewGoodsActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MallActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".SpecialPriceActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".GoodsDetailsActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".PayOrderActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".UserShopActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".ShopDetailsActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".DriveRouteActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".ShopClassifyActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".GoodsClassifyActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".GoodsListActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MyOrderActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".ShopCartActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MallLoginActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MallRegisterActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".UserInfoActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".ChangePasswordActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".CollectActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".AddressManagerActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".ReceiptInfoActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".DeliveryInfoActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".OrderConfirmActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".AddAddressActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".SearchGoodsListActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".BusinessParkActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".HotGoodsListActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.MoreActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.MoreActivity1" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.AuthenticateActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.RegistActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.LeaveActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.FeedbackActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.InviteActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.CodeSwitchActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.AboutActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.SocialActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.share.AuthActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.ServerActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.ShopMapActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.FavoritesActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="easaa.middleware.more.FavoriteDetailActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.middleware.lbs.LBSMainActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.middleware.lbs.LBSSearchActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.middleware.lbs.LBSPoiDetailActivity" theme="16973833" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.sharesdk.framework.AuthorizeActivity" theme="16973840" configChanges="160" windowSoftInputMode="18">
+2
+<service name="com.easaa.push.PushService">
+<service name="easaa.middleware.pullcrash.ReportService">
+1
+<receiver name="easaa.middleware.e14022117093593.Boot">
+0
+Owner: CN=移商网, OU=www.easaa.com, O=移商网信息技术有公司, L=深圳, ST=广东, C=CN
+Issuer: CN=移商网, OU=www.easaa.com, O=移商网信息技术有公司, L=深圳, ST=广东, C=CN
+Serial number: 4fed7ad0
+Valid from: Fri Jun 29 17:52:16 CST 2012 until: Sat Apr 02 17:52:16 CST 2067
+Certificate fingerprints: 
+	MD5:86:D6:07:1A:5D:D5:D1:BB:5C:E7:0A:E5:28:B0:05:85
+	SHA1: FF:4F:0A:35:05:F8:F5:E5:CA:25:FA:39:56:17:41:34:8B:C3:2C:28
+	SHA256: FC:0F:D3:DF:11:58:E5:EE:13:CA:72:D7:B8:8D:78:BE:94:84:40:BA:3E:A2:E4:EB:CA:C8:79:D9:1E:39:A4:82
+	Signature algorithm name: SHA1withRSA
+	version: 3

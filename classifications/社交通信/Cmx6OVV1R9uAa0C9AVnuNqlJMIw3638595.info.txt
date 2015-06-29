@@ -1,0 +1,86 @@
+com.linxun.mobile
+4
+1.0.3
+14
+17
+28
+android.permission.ACCES_MOCK_LOCATION
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.READ_LOGS
+adnroid.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.google.android.c2dm.permission.RECEIVE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.VIBRATE
+34
+<activity screenOrientation="1" name="com.linxun.mobile.activity.StartupActivity" theme="16973833" label="2131165184">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.BeginActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.AddFriendMenuActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.RecommondFrinedList" configChanges="160" launchMode="2">
+<activity name="com.linxun.mobile.InCallActivity" theme="2131230728" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.SettingActivity" theme="2131230727" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.LXIncomingCallActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.LxBindEmailActivity" theme="2131230727" configChanges="160">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.LoginActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.RegisterActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.DetailFeedActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.DetailPicturesActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.SomeOneHomePageActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.MainActivtyGroup">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.MainActivityTwo">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.PublishNewsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.PublishNewsChooseCommunityActivity" configChanges="160">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.DetailCommunityActivity" configChanges="160">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.NewChatActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.FavoriteActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.ShareActivity" configChanges="160">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.CheckShareLoactionActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.OutCommingActivity" theme="16973840">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.NewSingleChatActivity" theme="16973840" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.OnePointLoginTipsActivity" theme="16973840">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.UserDetailSetting">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.VerifyEmailActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.HelpActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.TermActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.AboutUs">
+<activity screenOrientation="1" name=".activity.CountrySelectActivity" theme="2131230733" configChanges="160">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.EnterVerifyPinCodeActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.SelectFavorateActivity">
+<activity screenOrientation="1" name="com.linxun.mobile.activity.AppNavigation">
+3
+<service stopWithTask="false" name="com.linxun.mobile.service.LinphoneService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+1
+<receiver name="com.linxun.mobile.service.SystemActionReceiver">
+0
+Owner: CN=Haila Wang, OU=Linxun Intertech Ltd.., O=Linxun Intertech Ltd.., L=beijing, ST=beijing, C=CN
+Issuer: CN=Haila Wang, OU=Linxun Intertech Ltd.., O=Linxun Intertech Ltd.., L=beijing, ST=beijing, C=CN
+Serial number: 184929da
+Valid from: Mon Sep 16 20:38:54 CST 2013 until: Fri Sep 10 20:38:54 CST 2038
+Certificate fingerprints: 
+	MD5:6F:B8:18:B8:D7:E2:39:47:EB:28:AD:FC:A9:91:B9:63
+	SHA1: EE:6A:32:29:E9:91:D1:DA:AF:57:B0:E8:D0:6F:D3:F6:50:72:0A:BE
+	SHA256: EF:8C:EB:08:0E:F7:78:91:F7:1C:42:78:84:64:CE:9A:24:F1:E1:1D:4C:91:E8:91:9B:DC:9C:DE:9A:AA:BE:43
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,50 @@
+com.animootor.LittleTruckPrenapCsena3D
+526
+6.387
+8
+17
+11
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.READ_PHtwo_STATE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+10
+<activity name="com.chartboost.sdk.unity.CBUnityPlayerProxyActivity" configChanges="1073745919" label="三维卡车">
+<activity name="com.chartboost.sdk.unity.CBUnityPlayerActivity" configChanges="1073745919" label="三维卡车">
+<activity name="com.chartboost.sdk.unity.CBUnityPlayerNativeActivity" configChanges="1073745919" label="三维卡车">
+<activity screenOrientation="3" name="com.unity3d.player.VideoPlayer" configChanges="1073745919" label="三维卡车">
+<activity excludeFromRecents="true" name="com.chartboost.sdk.CBImpressionActivity" theme="16973840">
+<activity excludeFromRecents="true" name="com.verrnn.acirn.Tscoiol" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.pdsnazz.fdsna.zvonnmm.Tviwnaz" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.asdooruuyo.cownap.Gsdrne" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.avenazo.asenr.Ccvierna" configChanges="160">
+<activity excludeFromRecents="true" name="com.oiowena.sfywoty.QActivity" label="">
+4
+<service name="com.verrnn.acirn.Wsxciwlo">
+<service name="com.pdsnazz.fdsna.zvonnmm.Bsdrfnawo">
+<service name="com.asdooruuyo.cownap.Pdvgo">
+<service name="com.oiowena.sfywoty.QService">
+5
+<receiver name="com.verrnn.acirn.Cxiran">
+<receiver name="com.pdsnazz.fdsna.zvonnmm.Caenahgaw">
+<receiver name="com.asdooruuyo.cownap.Bfdwoh">
+<receiver name="com.avenazo.asenr.Csdeian">
+<receiver name="com.oiowena.sfywoty.QReceiver">
+0
+Owner: CN=Unknown, OU=Temecula, O=DCH, L=Temecula, ST=CA, C=US
+Issuer: CN=Unknown, OU=Temecula, O=DCH, L=Temecula, ST=CA, C=US
+Serial number: 5308cf6b
+Valid from: Sun Feb 23 00:25:15 CST 2014 until: Tue Jan 30 00:25:15 CST 2114
+Certificate fingerprints: 
+	MD5:6A:FE:DD:72:F6:22:26:5D:03:4D:1B:79:12:A9:80:F1
+	SHA1: 4A:01:72:17:47:1A:9D:7B:18:A6:06:7F:06:2E:7E:AD:4B:D2:81:36
+	SHA256: F5:FB:50:FE:C7:BB:7E:40:B7:4D:78:E0:87:77:DE:3C:F8:DC:47:87:69:86:D9:E3:2B:99:0D:CD:23:26:FB:9B
+	Signature algorithm name: SHA1withRSA
+	version: 3

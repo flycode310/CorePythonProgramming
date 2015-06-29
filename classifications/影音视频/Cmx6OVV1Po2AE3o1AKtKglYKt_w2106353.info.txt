@@ -1,0 +1,64 @@
+com.SPlayeridpj.nbefl
+180
+180.4
+7
+-1
+13
+com.xiaomi.market.sdk.UPDATE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+27
+<activity screenOrientation="1" name="com.moliplayer.android.activity.MReliPlayerActivity" configChanges="160" label="2131427354" launchMode="0">
+<activity screenOrientation="0" name="com.moliplayer.android.activity.PlayerActivity" configChanges="160" label="2131427354" launchMode="2">
+<activity screenOrientation="1" name="com.moliplayer.share.SendListActivity" configChanges="160" label="2131427354">
+<activity screenOrientation="1" name="com.moliplayer.share.ShareActivity" configChanges="160" label="2131427354">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.FileListActivity" configChanges="160" label="2131427354">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.SettingActivity" configChanges="160" label="2131427354">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.FolderListActivity" configChanges="160" label="2131427354">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.FileExplorerActivity" configChanges="160">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.VideoListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.MoliFriendActivity" configChanges="160">
+<activity screenOrientation="0" name="com.moliplayer.android.activity.RenderControlActivity">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.HelpActivity">
+<activity name="com.tencent.weibo.sdk.android.component.Authorize">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.WeiboListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.moliplayer.android.weibo.activity.WeiboShareEditActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.WeiboAuthActivity" configChanges="160" launchMode="1">
+<activity name="com.moliplayer.android.wxapi.WXEntryActivity" theme="16973839" configChanges="160" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.BrowserActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.DownloadListActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.moliplayer.android.activity.BookmarkActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.moliplayer.android.weibo.activity.WeiboTimeLineActivity" configChanges="160">
+<activity screenOrientation="1" name="com.moliplayer.android.weibo.activity.WeiboRecommendUsersActivity" configChanges="160">
+<activity screenOrientation="1" name="com.moliplayer.android.weibo.activity.WeiboBindHelpActivity" configChanges="160">
+<activity screenOrientation="1" name="com.moliplayer.android.weibo.activity.WeiboDetailActivity" configChanges="160" launchMode="0">
+<activity name="com.iloveu.app.SplashActivity" theme="16973837" configChanges="160" label="2131427354">
+<activity name="com.iloveu.app.DialogActivity" theme="16973840" configChanges="160" launchMode="2">
+3
+<service name="com.moliplayer.ftpserver.FTPServerService">
+<service name="com.iloveu.app.AddService">
+<service name="com.iloveu.app.NetworkService">
+1
+<receiver name="com.xiaomi.market.sdk.DownloadCompleteReceiver">
+0
+Owner: CN=hwercwe9, OU=add54g, O=djgjeiew, C=US
+Issuer: CN=hwercwe9, OU=add54g, O=djgjeiew, C=US
+Serial number: 3eadbd72
+Valid from: Sat May 10 17:25:13 CST 2014 until: Sun Feb 10 17:25:13 CST 2069
+Certificate fingerprints: 
+	MD5:2F:B8:39:D0:B0:C3:87:E0:8B:77:CC:77:79:96:0E:EF
+	SHA1: 9F:21:8E:D7:88:46:B3:4D:DF:98:E6:F4:07:9F:1E:EC:91:35:E0:9A
+	SHA256: 14:B2:48:1B:2F:46:A3:6B:9B:EF:C1:A1:A7:85:F2:6E:E3:62:77:E1:1F:98:3F:A3:17:B9:4F:CD:73:B3:B1:6F
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,79 @@
+com.lgl.calendar
+86
+4.2.1
+8
+-1
+13
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+30
+<activity name=".activity.LaunchActivity" label="2131427328" launchMode="2">
+<activity name=".activity.TabActivity">
+<activity name=".activity.AddEvent2" windowSoftInputMode="16">
+<activity name=".activity.EventDetail2">
+<activity name=".activity.EventsManage">
+<activity name=".activity.MoreActivity">
+<activity name=".activity.EverydayView">
+<activity name=".activity.MonthView">
+<activity name=".activity.ActSettings">
+<activity name=".activity.SearchDate" theme="16973835">
+<activity name=".activity.ThemeListNew">
+<activity name=".activity.AboutUs">
+<activity name=".activity.HolidayDetailActivity">
+<activity name=".activity.HolidayListActivity">
+<activity name=".activity.AlmanacActivity">
+<activity name=".activity.AlarmSetting">
+<activity name=".activity.AlarmMusicPicker">
+<activity name=".activity.EventsListActivity">
+<activity name=".activity.EventsListActivity2">
+<activity name=".activity.FontColorSetting">
+<activity name=".activity.AstroActivity">
+<activity screenOrientation="2" name=".activity.AlarmAlert" theme="16973835" configChanges="1200" launchMode="3">
+<activity screenOrientation="1" name=".activity.WidgetMonthConfig" theme="2131492866">
+<activity name=".activity.ActQingjia">
+<activity name=".activity.MoreDateFigure">
+<activity name="com.zozo.DA" launchMode="3">
+<activity name="com.mobclick.android.UmengFeedback">
+<activity name="com.feedback.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.feedback.ui.FeedbackConversations">
+<activity name="com.feedback.ui.FeedbackConversation" configChanges="16">
+4
+<service name=".services.AlarmService">
+<service name=".widgets.Widget4x2UpdateService">
+<service name=".widgets.Widget4x2CenterUpdateService">
+<service name="com.zozo.DS">
+12
+<receiver name=".receiver.ReceiverToCallAlarm">
+<receiver name=".receiver.BootReceiver">
+<receiver name="com.zozo.DR">
+<receiver name="com.lgl.calendar.widgets.Widget4x2" label="2131427366">
+<receiver name="com.lgl.calendar.widgets.Widget4x2Center" label="2131427367">
+<receiver name=".widgets.Widget4x3" label="2131427368">
+<receiver name=".widgets.Widget4x4" label="2131427369">
+<receiver name=".widgets.Widget5x5" label="2131427370">
+<receiver name=".widgets.Widget4x5" label="2131427371">
+<receiver name=".widgets.CalendarWidget_4x3" label="2131427374">
+<receiver name=".widgets.CalendarWidget_4x4" label="2131427373">
+<receiver name=".widgets.CalendarWidget_5x5" label="2131427372">
+0
+Owner: CN=Guilin Lu, L=fuzhou, ST=Fujian China, C=CN
+Issuer: CN=Guilin Lu, L=fuzhou, ST=Fujian China, C=CN
+Serial number: 4e66e621
+Valid from: Wed Sep 07 11:33:53 CST 2011 until: Tue Jan 08 11:33:53 CST 3011
+Certificate fingerprints: 
+	MD5:7B:83:4B:77:22:C9:3F:71:D9:A7:4C:45:97:88:52:59
+	SHA1: B3:D8:8D:61:24:EC:25:63:F7:FD:63:A9:E1:0D:AB:BA:8F:DD:94:85
+	SHA256: EB:F4:07:C8:9F:E1:C7:84:B6:3D:24:0B:5A:7D:62:80:5E:D1:7E:A2:9C:2F:78:10:04:60:7E:E5:CB:31:46:73
+	Signature algorithm name: SHA1withRSA
+	version: 3

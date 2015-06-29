@@ -1,0 +1,38 @@
+com.lazason.contactstatistics
+13
+1.5
+14
+15
+10
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity name="com.lazason.contactstatistics.SlidingMenuMainActivity" label="2131034113" launchMode="3">
+<activity name="org.achartengine.GraphicalActivity" launchMode="3">
+<activity name="com.lazason.contactstatistics.DetailActivity" launchMode="3">
+<activity name="com.lazason.contactstatistics.BackupActivity" launchMode="3">
+<activity name="com.lazason.contactstatistics.MyDetailActivity" launchMode="3">
+<activity name="com.lazason.contactstatistics.TermSettingActivity" launchMode="3">
+<activity name="com.lazason.contactstatistics.FeedbackActivity" launchMode="3">
+<activity name="com.lazason.contactstatistics.ExcludeSettingActivity" launchMode="3">
+0
+0
+0
+Owner: CN=Zhang, OU=lazason, O=lazason, L=Chengdu, ST=Sichuan, C=CN
+Issuer: CN=Zhang, OU=lazason, O=lazason, L=Chengdu, ST=Sichuan, C=CN
+Serial number: 53206fd1
+Valid from: Wed Mar 12 22:31:45 CST 2014 until: Thu Dec 13 22:31:45 CST 2068
+Certificate fingerprints: 
+	MD5:F8:93:EE:DB:41:C2:88:8A:5E:5E:98:9E:BA:65:EA:BA
+	SHA1: 53:7B:D6:73:2B:C0:A5:C3:B3:A8:00:86:A0:2F:4E:B5:82:AA:47:EC
+	SHA256: 8E:E5:66:F7:EA:1D:D8:A0:26:5E:71:60:5D:28:20:1F:C5:61:42:26:93:88:1E:92:96:44:2A:70:88:65:95:A5
+	Signature algorithm name: SHA1withRSA
+	version: 3

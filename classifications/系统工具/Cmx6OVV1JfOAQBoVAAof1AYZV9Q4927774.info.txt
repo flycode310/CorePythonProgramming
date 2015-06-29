@@ -1,0 +1,30 @@
+com.qooyee.app.wirelessftp
+9
+1.5.4
+4
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+1
+<activity screenOrientation="1" name=".MainActivity" label="2131034113">
+0
+0
+0
+Owner: O=qooyee.com
+Issuer: O=qooyee.com
+Serial number: 4ddb432d
+Valid from: Tue May 24 13:33:33 CST 2011 until: Thu May 16 13:33:33 CST 2041
+Certificate fingerprints: 
+	MD5:A0:F9:2A:D4:51:0A:FA:BF:02:E2:63:B8:83:59:A3:4A
+	SHA1: EB:7F:A5:38:89:58:6C:E1:58:5F:80:42:9A:CA:77:CF:A9:9D:86:F3
+	SHA256: AC:26:4D:2B:FF:FA:AF:96:4A:69:6E:5A:15:13:54:59:AE:C0:EA:0A:0E:CB:E4:BF:5D:9E:B4:72:93:78:44:93
+	Signature algorithm name: SHA1withRSA
+	version: 3

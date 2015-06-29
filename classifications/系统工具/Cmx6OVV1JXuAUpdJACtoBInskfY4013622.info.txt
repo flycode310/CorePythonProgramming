@@ -1,0 +1,41 @@
+mobi.thinkchange.android.superqrcode
+4
+1.3
+8
+21
+12
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+7
+<activity screenOrientation="1" name=".StartActivity" label="2131296256">
+<activity screenOrientation="1" name=".HelpActivity">
+<activity screenOrientation="1" name=".MainActivity">
+<activity screenOrientation="1" name=".SettingsActivity" theme="2131361796">
+<activity screenOrientation="1" name=".FeedbackActivity" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="mobi.thinkchange.android.fw3.QueryDlg" theme="16973835" noHistory="true" launchMode="3">
+<activity name="mobi.thinkchange.android.fw3.control.ActivityNotifyCKU" theme="16973830" label="2131296256">
+1
+<service name="mobi.thinkchange.android.fw3.HolderService" exported="false">
+1
+<receiver name="mobi.thinkchange.android.fw3.EventReceiver">
+0
+Owner: CN=TONG Ren, OU=ThinkChange, O=ThinkChange, L=Shanghai, ST=Shanghai, C=CN
+Issuer: CN=TONG Ren, OU=ThinkChange, O=ThinkChange, L=Shanghai, ST=Shanghai, C=CN
+Serial number: 4b486121
+Valid from: Sat Jan 09 18:57:37 CST 2010 until: Sun Oct 12 18:57:37 CST 2064
+Certificate fingerprints: 
+	MD5:81:F9:4E:92:14:48:25:B4:75:06:F6:E4:D9:AA:18:D8
+	SHA1: EA:5B:53:FC:80:D6:5A:52:BA:C9:CC:31:FF:5B:4D:98:93:14:33:9F
+	SHA256: F7:6D:F4:0D:F7:85:55:8A:9C:EA:18:5E:DA:53:17:6F:08:A8:FE:9F:01:27:CC:24:82:D3:F1:24:AC:0E:9D:76
+	Signature algorithm name: SHA1withRSA
+	version: 3

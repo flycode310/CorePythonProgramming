@@ -1,0 +1,45 @@
+com.android.ctrip.gs
+1
+1.0
+8
+19
+9
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+16
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.GSSplashActivity" theme="2131492942" label="2131427333" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.GSMainActivity" theme="2131492942" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.base.GSCommonActivity" theme="2131492941" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.travels.reading.GSTravelsCommentListActivity" configChanges="1073743012" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.common.imageviewer.GSImageDisplayActivity" configChanges="1073743012" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.travels.reading.detailView.GSTravelsDetailFragmentActivity" configChanges="1073743012" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.map.core.GSGaodeMapActivity" configChanges="1073743012">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.map.core.GSGoogleJSMapActivity" configChanges="1073743012">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.profile.login.GSLoginActivity" configChanges="1073743012" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.profile.mygs.settings.GSSettingsActivity" configChanges="1073743012">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.GSDebugActivity" configChanges="1073743012">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.Cutscenes.GSNewbieGuideActiviity" configChanges="1073743012">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131492953" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+0
+0
+0
+Owner: CN=gs android, OU=GS, O=Ctrip, L=Shanghai, ST=Shanghai, C=China(86)
+Issuer: CN=gs android, OU=GS, O=Ctrip, L=Shanghai, ST=Shanghai, C=China(86)
+Serial number: 31a99f94
+Valid from: Tue Nov 18 11:22:26 CST 2014 until: Wed Nov 05 11:22:26 CST 2064
+Certificate fingerprints: 
+	MD5:C5:17:57:00:55:C4:BF:67:A8:B2:83:5C:B7:C6:9A:C4
+	SHA1: 2C:1A:CF:FD:D0:6B:6D:94:D4:76:44:4C:A5:B5:09:FA:17:C5:EC:07
+	SHA256: 6C:D7:EE:D2:30:D9:B1:BA:33:22:43:B6:7B:D2:0B:6B:37:8F:DD:64:8B:99:01:1D:D9:5F:06:AF:96:15:BD:9A
+	Signature algorithm name: SHA256withRSA
+	version: 3

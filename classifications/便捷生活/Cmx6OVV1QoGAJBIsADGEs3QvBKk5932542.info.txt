@@ -1,0 +1,50 @@
+com.indhay.menstrualcalendar
+18
+1.3.3
+10
+16
+7
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+22
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Calendrier.Calendar_view" theme="2131296256" label="2131099648">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Courbes.Chart" theme="2131296256">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Courbes.ChartJournal" theme="2131296256">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Courbes.ChartTemperature" theme="2131296256" label="2131099831">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Courbes.ChartWeight" theme="2131296256">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.InfoDuJour.DayInfos" theme="2131296256" label="2131099812">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.InfoDuJour.DayInfos_Facts" theme="2131296256" label="2131099813">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.InfoDuJour.DayInfos_Notes" theme="2131296258" label="2131099815">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.InfoDuJour.DayInfos_Symp" theme="2131296256">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.InfoDuJour.DayInfos_Symp_1">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.InfoDuJour.DayInfos_Symp_2">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.InfoDuJour.DayInfos_Symp_3">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.InfoDuJour.DayInfos_Symp_4">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.InfoDuJour.DayInfos_Symp_5">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Settings.App_Settings" theme="2131296257">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Alert.ManageAlert" label="2131099827">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Alert.ManageAlert_InputsPanel" theme="2131296256" label="2131099832">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Settings.CellviewPreferenceActivity" label="2131099830">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Settings.Password" theme="2131296256" label="2131100023">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Boot.Boot_Password" theme="2131296256" label="2131099648">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Boot.Boot" theme="2131296256" label="2131099648">
+<activity screenOrientation="1" name="com.indhay.menstrualcalendar.Settings.PregnancyModeActivity" theme="2131296256" label="2131100025">
+0
+1
+<receiver name="com.indhay.menstrualcalendar.Alert.AlarmCatcher" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+0
+Owner: CN=Boris TCHISSAMBOU, O=indhay, L=Paris, C=75015
+Issuer: CN=Boris TCHISSAMBOU, O=indhay, L=Paris, C=75015
+Serial number: 794394c1
+Valid from: Fri Mar 22 09:14:24 CST 2013 until: Sat Mar 10 09:14:24 CST 2063
+Certificate fingerprints: 
+	MD5:C4:39:EB:5A:B9:59:59:F9:FB:FF:DD:7E:33:FF:9A:DD
+	SHA1: 87:1C:25:5B:A7:D7:50:55:9A:D8:5C:55:C1:09:B6:45:51:59:0D:73
+	SHA256: 7F:93:E6:C9:B9:E6:BD:12:27:3A:52:6D:A4:3D:41:7E:FD:1D:FB:F9:53:D4:7D:50:39:92:21:12:52:91:D1:8D
+	Signature algorithm name: SHA256withRSA
+	version: 3

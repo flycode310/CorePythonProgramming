@@ -1,0 +1,29 @@
+com.wifihttpservice
+11
+1.6
+4
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+2
+<activity name="ServerControlActivity" launchMode="3">
+<activity name="ConfigureActivity" class=".ConfigureActivity">
+1
+<service name=".HttpService">
+0
+0
+Owner: O=nt
+Issuer: O=nt
+Serial number: 4e76e972
+Valid from: Mon Sep 19 15:04:18 CST 2011 until: Fri Sep 12 15:04:18 CST 2036
+Certificate fingerprints: 
+	MD5:88:01:09:12:C9:E2:D4:72:C8:55:3D:71:85:1E:A0:8A
+	SHA1: A3:84:44:2C:9E:6B:9A:2A:1E:F1:92:4A:54:5F:DE:C2:8B:0F:F5:1D
+	SHA256: 04:EE:52:98:FA:17:FE:EB:2D:44:6E:EE:CC:0F:95:CD:9A:4E:E7:DB:49:C5:C7:4A:13:37:ED:93:8E:80:1B:CB
+	Signature algorithm name: SHA1withRSA
+	version: 3

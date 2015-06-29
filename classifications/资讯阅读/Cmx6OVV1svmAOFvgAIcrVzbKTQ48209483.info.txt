@@ -1,0 +1,63 @@
+com.xiaobin.kangxidict
+8
+0.1.8
+4
+17
+12
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+27
+<activity name=".ShanxueLoading" theme="2131427338" configChanges="160" label="2131361792">
+<activity name=".RGGolobal" theme="2131427338" configChanges="160">
+<activity name=".PinYinCenter" theme="2131427338" configChanges="160" windowSoftInputMode="36">
+<activity name=".KangxiDictionary" theme="2131427338" configChanges="160" windowSoftInputMode="36">
+<activity name=".BushouCenter" theme="2131427338" configChanges="160" windowSoftInputMode="36">
+<activity name=".SplitCenter" theme="2131427338" configChanges="160" windowSoftInputMode="36">
+<activity name=".KangxiWordExplain" theme="2131427338" configChanges="160">
+<activity name=".MoreCenter" theme="2131427338" configChanges="160">
+<activity name=".NetWord" theme="2131427338" configChanges="160">
+<activity name=".ExitApp" theme="2131427333" configChanges="160">
+<activity name=".more.About" theme="2131427338" configChanges="160">
+<activity name=".more.AwayTask" theme="2131427338" configChanges="160">
+<activity name=".more.CopyRight" theme="2131427338" configChanges="160">
+<activity name=".more.FontSet" theme="2131427338" configChanges="160">
+<activity name=".more.Suggest" theme="2131427338" configChanges="160">
+<activity name=".more.RecentWord" theme="2131427338" configChanges="160">
+<activity name=".more.NotepadWord" theme="2131427338" configChanges="160">
+<activity name=".more.SoftHelp" theme="2131427338" configChanges="160">
+<activity name=".more.StudyPersonName" theme="2131427338" configChanges="160">
+<activity name="com.feedback.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.feedback.ui.FeedbackConversations">
+<activity name="com.feedback.ui.FeedbackConversation" configChanges="16">
+<activity name="com.adsmogo.adview.AdsMogoWebView" label="2131361792">
+<activity name="com.mobisage.android.MobiSageActivity" configChanges="160" label="2131361792">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity name="com.inmobi.androidsdk.IMBrowserActivity" configChanges="3248">
+<activity name="com.xiaobin.kangxidict.all.MyAdView" configChanges="160">
+3
+<service process=":remote" name="com.adsmogo.controller.service.UpdateService" exported="true">
+<service process=":remote" name="com.adsmogo.controller.service.CountService" exported="true">
+<service enabled="true" name="com.mobisage.android.MobiSageApkService">
+1
+<receiver name="com.mobisage.android.MobiSageAdReceiver">
+0
+Owner: CN=xiaobin, OU=none, O=xiaobin soft, L=Beijing, ST=China, C=100025
+Issuer: CN=xiaobin, OU=none, O=xiaobin soft, L=Beijing, ST=China, C=100025
+Serial number: 51e511b9
+Valid from: Tue Jul 16 17:26:17 CST 2013 until: Sat Jul 10 17:26:17 CST 2038
+Certificate fingerprints: 
+	MD5:CA:6C:3F:6A:5F:73:4C:B4:95:34:A4:87:D3:D3:11:B8
+	SHA1: 35:7D:03:C0:BC:60:1B:DC:DA:53:18:9C:2A:85:D4:03:A4:CF:67:4E
+	SHA256: 87:60:AF:D9:95:89:5F:89:95:C3:57:43:BC:E6:0A:46:94:5F:8C:F6:D1:ED:5B:4D:1B:84:73:C6:F5:1B:7F:87
+	Signature algorithm name: SHA1withRSA
+	version: 3

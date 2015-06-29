@@ -1,0 +1,46 @@
+cn.com.people.jiangxi
+200
+2.0.0
+5
+19
+19
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+cn.com.people.jiangxi.permission.JPUSH_MESSAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity screenOrientation="1" name=".main" theme="16973836">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973836" configChanges="160">
+2
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+3
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver" permission="oem.permission.SENDMAIL">
+<receiver enabled="true" name="cn.com.people.jiangxi.MyReceiver" permission="oem.permission.SENDMAIL">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 6b0d9883
+Valid from: Sun Apr 06 19:16:11 CST 2014 until: Tue Mar 29 19:16:11 CST 2044
+Certificate fingerprints: 
+	MD5:A9:24:78:0E:AA:4B:C9:ED:82:66:60:48:5C:91:99:CD
+	SHA1: FC:58:58:7D:CF:96:97:89:E3:37:25:78:97:DA:77:5E:44:79:F9:39
+	SHA256: D8:DE:E8:D5:E7:A6:24:E8:80:D8:D2:94:D1:F8:7C:DE:1D:CB:F1:8D:78:B2:E4:DE:79:C4:A4:FC:76:58:3F:4A
+	Signature algorithm name: SHA256withRSA
+	version: 3

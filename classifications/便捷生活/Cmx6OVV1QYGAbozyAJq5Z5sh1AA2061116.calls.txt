@@ -1,0 +1,7 @@
+android.util.Log: int v(java.lang.String,java.lang.String,java.lang.Throwable)
+android.util.Log: int d(java.lang.String,java.lang.String,java.lang.Throwable)
+android.net.wifi.WifiInfo: java.lang.String getSSID()
+android.util.Log: int w(java.lang.String,java.lang.String,java.lang.Throwable)
+android.util.Log: int i(java.lang.String,java.lang.String,java.lang.Throwable)
+android.telephony.TelephonyManager: java.lang.String getDeviceId()
+android.util.Log: int e(java.lang.String,java.lang.String,java.lang.Throwable)

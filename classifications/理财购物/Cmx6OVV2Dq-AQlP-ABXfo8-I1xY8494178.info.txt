@@ -1,0 +1,89 @@
+com.eg.android.AlipayGphone
+15
+2.7.0.0901
+3
+-1
+12
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+com.alipay.android.permission.PUSHSERVICE
+android.permission.INTERNET
+com.android.launcher.permission.KILL_BACKGROUND_PROCESSES
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+56
+<activity screenOrientation="1" name=".AlipayRegister" configChanges="224">
+<activity screenOrientation="1" name=".AlipayGphoneLogin" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".AlipayAbout" configChanges="224">
+<activity screenOrientation="1" name=".AlipayHelp" configChanges="224">
+<activity screenOrientation="1" name=".AlipayMessage" configChanges="224">
+<activity screenOrientation="1" name=".SubItemPayActivity" configChanges="224">
+<activity screenOrientation="1" name=".SubItemAccountOutputActivity" configChanges="224">
+<activity screenOrientation="1" name=".SubItemAccountInputActivity" configChanges="224">
+<activity screenOrientation="1" name=".SubItemDealQueryActivity" configChanges="224">
+<activity screenOrientation="1" name=".SubItemScoreListActivity" configChanges="224">
+<activity screenOrientation="1" name=".SubItemGetMoneyActivity" configChanges="224">
+<activity screenOrientation="1" name=".SubItemGetMoney3Activity" configChanges="224">
+<activity screenOrientation="1" name=".SubItemAccountQueryActivity" configChanges="224">
+<activity screenOrientation="1" name=".SubItemPhoneInputActivity" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".SubItemCardActivity" configChanges="224">
+<activity screenOrientation="1" name=".AlipayPhoneBinding" configChanges="224">
+<activity screenOrientation="1" name=".AlipayPhoneBindingCheckcode" configChanges="224">
+<activity screenOrientation="1" name=".SubItemPucPayActivity" configChanges="224">
+<activity screenOrientation="1" name=".AlipayCashRegister" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".AlipayContact" configChanges="224">
+<activity screenOrientation="1" name=".AlipayViewMsg" configChanges="224">
+<activity screenOrientation="1" name=".WebViewActivity" configChanges="224">
+<activity screenOrientation="1" name=".AlipayUserInfoSupplement" configChanges="224">
+<activity screenOrientation="1" name=".AlipayGetLoginPassword" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".AlipayGetPaymentPassword" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".AlipayModifyPassword" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".AlipayAccountManage" configChanges="224">
+<activity screenOrientation="1" name=".AlipayLogin" configChanges="224" label="2131230735">
+<activity screenOrientation="1" name=".AlipayNavigationTabActivity" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name=".AlipayMsgActivity" configChanges="224">
+<activity screenOrientation="1" name=".AlipayShowSystemMsgDetail" configChanges="224">
+<activity screenOrientation="1" name=".AlipayDealDetailInfoActivity" configChanges="224">
+<activity screenOrientation="1" name=".AlipayAccountBindingChoice" configChanges="224">
+<activity screenOrientation="1" name=".AlipaySafePaySetting" configChanges="224">
+<activity screenOrientation="1" name=".AlipayBarcodeDisplay" configChanges="224">
+<activity screenOrientation="1" name=".AlipayBarcodePayGuideActivity" configChanges="224">
+<activity screenOrientation="1" name=".AlipayAgentPay" configChanges="224">
+<activity screenOrientation="1" name=".AlipayAgentAnylink" configChanges="224">
+<activity screenOrientation="1" name=".AlipayAgentSomeone" configChanges="224">
+<activity screenOrientation="1" name=".AlipayCashcardAdd" configChanges="224">
+<activity screenOrientation="1" name=".AlipayCashcardManage" configChanges="224">
+<activity screenOrientation="1" name=".CreditcardRepay.AlipayCreditcardRepay" configChanges="224">
+<activity screenOrientation="1" name=".CreditcardRepay.AlipayCreditcardConfirm" configChanges="224">
+<activity screenOrientation="1" name=".CreditcardRepay.AlipayCreditcardManage" configChanges="224">
+<activity screenOrientation="1" name=".CreditcardRepay.AlipayCreditcardNew" configChanges="224">
+<activity screenOrientation="1" name=".CreditcardRepay.AlipayCreditcardRemind" configChanges="224">
+<activity screenOrientation="1" name=".webapp.webActivity" configChanges="224">
+<activity screenOrientation="1" name=".webapp.AuthoActivity" theme="2131296305" configChanges="224">
+<activity screenOrientation="1" name="InnerSSLSocket" configChanges="224" label="2131230735">
+<activity screenOrientation="0" name="com.google.zxing.client.BarcodeCaptureActivity" theme="16973831" configChanges="224">
+<activity screenOrientation="1" name=".AlipayPaipaiPay" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".AlipayPaipaiDonate" configChanges="224">
+<activity screenOrientation="1" name=".AlipayBarcodeGather" configChanges="224">
+<activity screenOrientation="1" name=".AlipaySearchAccountActivity" configChanges="224">
+<activity screenOrientation="1" name=".PhoneNumberInputActivity" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".PhoneAmountListActivity" configChanges="224" windowSoftInputMode="2">
+1
+<service name=".AlipayPushLinkService" permission="com.alipay.android.permission.PUSHSERVICE">
+0
+0
+Owner: CN=shiqun.shi, OU=alipay, O=alipay, L=beijing, ST=beijing, C=cn
+Issuer: CN=shiqun.shi, OU=alipay, O=alipay, L=beijing, ST=beijing, C=cn
+Serial number: 4b28a3c9
+Valid from: Wed Dec 16 17:09:29 CST 2009 until: Tue Jan 10 17:09:29 CST 2051
+Certificate fingerprints: 
+	MD5:40:6D:51:50:E6:43:81:12:4A:7E:85:69:F9:78:4E:D0
+	SHA1: 84:0F:34:3A:0E:FC:32:5B:A0:BF:75:DA:C8:35:E4:D5:87:03:34:35
+	SHA256: 38:9B:49:F7:83:2F:53:E9:01:79:23:22:0A:A8:5E:14:DF:AA:48:86:EC:D7:42:88:18:BF:33:95:43:CF:49:8A
+	Signature algorithm name: MD5withRSA
+	version: 1

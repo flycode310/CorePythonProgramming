@@ -1,0 +1,102 @@
+jirou.jirou
+53
+1.53
+4
+-1
+23
+android.permission.INSTALL_PACKAGES
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SET_WALLPAPER_COMPONENT
+android.permission.GET_TASKS
+android.permission.CLEAR_APP_USER_DATA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.BIND_WALLPAPER
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CLEAR_APP_CACHE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+53
+<activity screenOrientation="1" name=".Jirou12Activity" theme="16973830">
+<activity screenOrientation="1" name=".jirou" theme="16973830">
+<activity screenOrientation="1" name=".guanyuwo" theme="16973830">
+<activity screenOrientation="1" name=".qianyan2" theme="16973830">
+<activity screenOrientation="1" name=".qianyan3" theme="16973830">
+<activity screenOrientation="1" name=".zhujiemian" theme="16973830">
+<activity screenOrientation="1" name=".woyaojianfei" theme="16973830">
+<activity screenOrientation="1" name=".jianfeishigesha" theme="16973830">
+<activity screenOrientation="1" name=".woyaoqiangzhuang" theme="16973830">
+<activity screenOrientation="1" name=".qiangzhuangshigesha" theme="16973830">
+<activity screenOrientation="1" name=".tuijianshipu" theme="16973830">
+<activity screenOrientation="1" name=".jianshendongzuo" theme="16973830">
+<activity screenOrientation="1" name=".huwaishuanggang" theme="16973830">
+<activity screenOrientation="1" name=".shineiduanlianfubu" theme="16973830">
+<activity screenOrientation="1" name=".huwaiyintixiangshang" theme="16973830">
+<activity screenOrientation="1" name=".shineifuwocheng" theme="16973830">
+<activity screenOrientation="1" name=".xingdongqilai" theme="16973830">
+<activity screenOrientation="1" name=".qiangzhuangxingdong" theme="16973830">
+<activity name="com.winad.android.ads.VideoPlayerActivity">
+<activity name="com.suizong.mobplate.ads.AdActivity" configChanges="176">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="com.adwo.adsdk.AdwoAdBrowserActivity" label="2131165424">
+<activity name="com.adwo.adsdk.AdwoSplashAdActivity" label="2131165424">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="net.youmi.android.spotad.AdActivity" configChanges="176">
+<activity name="com.baidu.AppActivity" configChanges="176">
+<activity name="com.tencent.mobwin.MobinWINBrowserActivity">
+<activity name="net.winsmedia.WebViewActivity" configChanges="160">
+<activity name="com.mt.airad.MultiAD" theme="16973840" configChanges="176">
+<activity name="com.wooboo.adlib_android.AdActivity" configChanges="160">
+<activity name="com.wooboo.adlib_android.FullActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibCommunityBundleActivity">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibEventBundleActivity">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibUserBundleActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibPublishStatusActivity" configChanges="128">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibUserSettingActivity" configChanges="128">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibGuideBasicActivity">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibGuidePwdActivity">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibGuideSyncActivity">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibDownloadManagerActivity">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibStatusRepliesActivity">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibUserHomeActivity">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibChatRoomActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibChatSessionListActivity">
+<activity screenOrientation="1" name="com.mobcent.lib.android.ui.activity.MCLibBlackListActivity">
+<activity screenOrientation="1" name="com.mobcent.share.android.activity.MCShareAppActivity">
+<activity screenOrientation="1" name="com.mobcent.share.android.activity.MCShareBindSitesActivity">
+<activity screenOrientation="1" name="com.mobcent.share.android.activity.MCShareMoreInfoActivity">
+<activity screenOrientation="1" name="com.mobcent.share.android.activity.MCShareAppActivity">
+<activity screenOrientation="1" name="com.mobcent.share.android.activity.MCShareBindSitesActivity">
+<activity screenOrientation="1" name="com.mobcent.share.android.activity.MCShareMoreInfoActivity">
+<activity name="com.kuguo.openads.AdsOfferListActivity">
+<activity name="com.kuguo.pushads.PushAdsActivity" theme="16973835">
+5
+<service enabled="true" name="com.mobcent.android.os.service.MCLibDownloadMonitorService">
+<service enabled="true" name="com.mobcent.android.os.service.MCLibUserPublishQueueService">
+<service enabled="true" name="com.mobcent.android.os.service.MCLibHeartBeatOSService">
+<service enabled="true" name="com.mobcent.android.os.service.MCLibCheckProductUpdateService">
+<service name="com.kuguo.pushads.AdsService">
+1
+<receiver name="com.kuguo.pushads.AdsReceiver">
+0
+Owner: CN=sad
+Issuer: CN=sad
+Serial number: 4e928d05
+Valid from: Mon Oct 10 14:13:25 CST 2011 until: Fri Oct 03 14:13:25 CST 2036
+Certificate fingerprints: 
+	MD5:D5:31:C0:2A:7C:4D:A0:D3:78:91:8E:45:2C:96:96:1A
+	SHA1: 4D:78:43:F1:70:BA:A0:46:C8:C4:23:B9:F5:09:AA:F1:5B:FF:F0:A3
+	SHA256: 36:A8:E8:3F:B3:F8:A0:A9:59:B8:D0:DA:23:BB:0D:BA:CD:8D:C2:8C:39:2D:F3:44:87:04:21:6A:71:A5:47:1B
+	Signature algorithm name: SHA1withRSA
+	version: 3

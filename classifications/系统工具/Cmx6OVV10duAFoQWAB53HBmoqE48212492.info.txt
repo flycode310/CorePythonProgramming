@@ -1,0 +1,51 @@
+cx.myNote
+9
+2.3.3
+-1
+-1
+16
+android.permission.INSTALL_PACKAGES
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+12
+<activity name=".Login" label="2130968577" windowSoftInputMode="16">
+<activity name=".Regist" label="2130968588">
+<activity name=".ChangePWD">
+<activity name=".NoteMain">
+<activity name=".NoteLook">
+<activity name=".NoteInsert" windowSoftInputMode="3">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="com.kuguo.openads.AdsOfferListActivity">
+<activity name="com.kuguo.pushads.PushAdsActivity" theme="16973835">
+<activity name="com.tencent.mobwin.MobinWINBrowserActivity">
+<activity name="com.adwo.adsdk.AdwoAdBrowserActivity" label="2130968577">
+<activity name="com.adwo.adsdk.AdwoSplashAdActivity" label="2130968577">
+2
+<service name="com.kuguo.pushads.AdsService">
+<service process=":remote" name="com.admogo.UpdateService" exported="true">
+1
+<receiver name="com.kuguo.pushads.AdsReceiver">
+0
+Owner: CN=ChenXian
+Issuer: CN=ChenXian
+Serial number: 4c134637
+Valid from: Sat Jun 12 16:32:55 CST 2010 until: Sun May 30 16:32:55 CST 2060
+Certificate fingerprints: 
+	MD5:0B:AA:7A:BB:8E:A7:65:B5:48:E0:26:2E:5F:B7:AE:C6
+	SHA1: 21:99:58:AA:0A:85:18:31:13:A2:38:80:F9:A6:A2:3E:E7:38:26:59
+	SHA256: B2:68:67:E1:49:91:67:FB:A3:7C:65:7E:AD:57:0E:57:22:8A:3A:60:E1:A2:F2:E6:97:A7:78:62:B8:2E:EA:B9
+	Signature algorithm name: SHA1withRSA
+	version: 3

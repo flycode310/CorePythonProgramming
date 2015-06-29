@@ -1,0 +1,66 @@
+com.kanbox.filemanager
+49
+4.9
+11
+19
+22
+android.permission.READ_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_MEDIA_STORAGE
+android.permission.SUPER_USER
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RUN_INSTRUMENTATION
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.BROADCAST_STICKY
+com.android.launcher.permission.READ_SETTINGS
+com.android.contacts.permission.VCARD_SHARE_LOCAL
+android.permission.GET_PACKAGE_SIZE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+18
+<activity name="com.hufeng.filemanager.FileManagerTabActivity" uiOptions="1" label="2131492914" launchMode="1">
+<activity name="com.hufeng.filemanager.FileManagerPreferenceActivity" label="2131492914">
+<activity name="com.hufeng.filemanager.AboutDeveloperActivity" label="2131492885">
+<activity name="com.hufeng.filemanager.FaqActivity" label="2131493094">
+<activity name="com.hufeng.filemanager.HelpActivity" label="2131492914">
+<activity name="com.hufeng.filemanager.SettingsScanActivity" label="2131492914">
+<activity name="com.hufeng.filemanager.SafeFileActivity" uiOptions="1" label="2131492914">
+<activity name="com.hufeng.filemanager.ResourceActivity" label="2131492914">
+<activity name="com.hufeng.nanohttpd.ServerControlActivity">
+<activity name="com.hufeng.swiftp.ServerControlActivity">
+<activity name="com.hufeng.swiftp.ConfigureActivity">
+<activity name="com.hufeng.filemanager.SafeBoxActivity">
+<activity name="com.hufeng.filemanager.KanBoxActivity">
+<activity name="com.hufeng.filemanager.SafeCategoryActivity">
+<activity name="com.hufeng.filemanager.SkinManagerActivity" label="2131492914">
+<activity name="com.hufeng.filemanager.PatternInputActivity" label="2131492914">
+<activity name="com.hufeng.filemanager.PatternPassActivity" label="2131492914">
+<activity name="com.hufeng.filemanager.KanboxWebActivity" label="2131492914">
+3
+<service process="com.hufeng.filemanager.scan" name="com.hufeng.filemanager.services.FileManagerService">
+<service name="com.hufeng.nanohttpd.HTTPServerService">
+<service name="com.hufeng.swiftp.FTPServerService">
+1
+<receiver process="com.hufeng.filemanager.scan" name="com.hufeng.filemanager.receiver.MountReceiver">
+2
+<provider process="com.hufeng.filemanager.scan" authorities="com.hufeng.filemanager" name="com.hufeng.filemanager.provider.FileManagerProvider" exported="false">
+<provider process="com.hufeng.filemanager.scan" authorities="com.hufeng.safemanager" name="com.hufeng.safebox.SafeBoxDatabaseProvider" exported="false">
+Owner: CN=Feng Hu, OU=Feng Hu, O=Feng Hu, L=Beijing, ST=Beijing, C=86
+Issuer: CN=Feng Hu, OU=Feng Hu, O=Feng Hu, L=Beijing, ST=Beijing, C=86
+Serial number: 38dfc938
+Valid from: Mon Jan 13 09:16:01 CST 2014 until: Tue Jun 12 09:16:01 CST 2260
+Certificate fingerprints: 
+	MD5:D4:AD:3E:9A:C0:9E:BA:74:1C:7C:50:72:95:E7:B3:2D
+	SHA1: 78:7C:F1:76:8F:CB:37:BE:DB:39:EE:D2:E5:A2:8F:B0:12:09:95:89
+	SHA256: D5:03:1A:22:0C:9D:5E:B7:72:F2:B2:67:46:F5:30:50:CE:D0:E7:A1:6F:06:E6:E7:5F:B5:21:F9:7B:4F:EA:98
+	Signature algorithm name: SHA256withRSA
+	version: 3

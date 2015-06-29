@@ -1,0 +1,23 @@
+cn.blackbox.notepad
+1
+1.0
+4
+-1
+0
+3
+<activity name="PinCodeActivity" label="2131034112">
+<activity name="EditorActivity">
+<activity name="NoteListActivity">
+0
+0
+0
+Owner: CN=f
+Issuer: CN=f
+Serial number: 4cbc17ea
+Valid from: Mon Oct 18 17:48:26 CST 2010 until: Fri Oct 12 17:48:26 CST 2035
+Certificate fingerprints: 
+	MD5:BE:B8:E1:CC:7A:D4:10:C7:C1:F8:97:45:E9:50:58:8C
+	SHA1: C4:D7:0E:2A:25:24:28:28:A5:FF:C2:62:0E:14:DA:5B:AE:11:AF:2D
+	SHA256: 11:09:75:E6:8C:4C:3E:47:75:B8:F4:A1:E7:B9:A5:C8:25:B8:3F:2B:04:8B:72:F8:47:6A:17:77:8A:15:52:15
+	Signature algorithm name: MD5withRSA
+	version: 1

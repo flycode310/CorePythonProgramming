@@ -1,0 +1,27 @@
+com.fuqixiaohua
+1
+1.0
+4
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity name=".FuqiActivity" label="2130968577">
+<activity name="contentactivity">
+0
+0
+0
+Owner: CN=wangzhen, OU=pingshu.com, O=pingshu, L=dalian, ST=liaoning, C=cn
+Issuer: CN=wangzhen, OU=pingshu.com, O=pingshu, L=dalian, ST=liaoning, C=cn
+Serial number: 4d461876
+Valid from: Mon Jan 31 10:03:34 CST 2011 until: Fri Dec 14 10:03:34 CST 2210
+Certificate fingerprints: 
+	MD5:56:91:07:33:AD:A1:33:6E:27:92:98:59:F0:19:6B:D3
+	SHA1: DE:84:EA:B1:DB:50:44:9D:89:0F:65:DA:C1:83:8A:17:05:E0:63:79
+	SHA256: E3:69:07:B3:09:07:C8:60:3D:01:77:38:A8:52:2F:9F:66:DA:51:18:1C:F9:7A:A3:47:72:46:D2:32:1B:E5:8D
+	Signature algorithm name: SHA1withRSA
+	version: 3

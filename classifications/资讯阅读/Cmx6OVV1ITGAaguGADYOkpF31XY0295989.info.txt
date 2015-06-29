@@ -1,0 +1,36 @@
+com.cx.taoxiaohua
+105
+1.0.5
+5
+-1
+7
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity screenOrientation="1" name=".MainTabActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".TabClassicActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".TabClassicJokeActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".TabFavoriteJokeActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".TabHotAcitivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".TabFavoriteActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".TabSettingActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".CXViewWebActivity" label="2131099648" windowSoftInputMode="3">
+0
+0
+0
+Owner: CN=bai changxiang, OU=dt, O=dt, L=beijing, ST=beijing, C=BJ
+Issuer: CN=bai changxiang, OU=dt, O=dt, L=beijing, ST=beijing, C=BJ
+Serial number: 500f9174
+Valid from: Wed Jul 25 14:25:56 CST 2012 until: Thu Apr 28 14:25:56 CST 2067
+Certificate fingerprints: 
+	MD5:F7:A7:C3:CC:41:EB:11:17:62:CF:33:F8:00:73:02:20
+	SHA1: 5E:46:4A:AB:CC:75:6B:07:E6:56:07:AF:12:3B:1F:5E:FB:81:44:52
+	SHA256: 09:7D:A4:7A:8E:04:21:76:19:62:B5:EF:BB:50:A0:74:72:EB:A7:96:E5:D1:8F:45:AE:48:3E:4F:8D:4E:1B:54
+	Signature algorithm name: SHA1withRSA
+	version: 3

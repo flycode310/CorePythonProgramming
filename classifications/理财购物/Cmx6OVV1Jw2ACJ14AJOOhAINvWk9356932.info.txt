@@ -1,0 +1,38 @@
+com.csii.jiaxing.mobilebank
+1
+1.2
+8
+-1
+10
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity screenOrientation="1" name="com.csii.mobilebank.MainActivity" label="2131230722" windowSoftInputMode="32">
+<activity name="com.sa.isecurity.plugin.SAKbdActivity" theme="2131165184" configChanges="128" launchMode="2">
+<activity screenOrientation="1" name="com.csii.mobilebank.BankMapActivity" label="2131230722">
+<activity screenOrientation="1" name="com.csii.mobilebank.TextDisplay" label="2131230722">
+<activity screenOrientation="1" name="com.polyvi.activity.LaunchActivity" theme="16973830" configChanges="160" label="2131230722" launchMode="1">
+3
+<service process=":remote" name="com.sa.isecurity.plugin.SAService">
+<service name="com.csii.webserver.WebService">
+<service enabled="true" name="com.polyvi.push.NotificationService" label="NotificationService">
+0
+0
+Owner: CN=csii, OU=csii, O=csii, L=beijing, ST=beijing, C=zh_CN
+Issuer: CN=csii, OU=csii, O=csii, L=beijing, ST=beijing, C=zh_CN
+Serial number: 4fc86034
+Valid from: Fri Jun 01 14:24:52 CST 2012 until: Sat Mar 05 14:24:52 CST 2067
+Certificate fingerprints: 
+	MD5:CA:2C:3A:18:E2:98:DE:EF:9E:C8:A7:6D:D3:2F:E3:B0
+	SHA1: A0:3F:57:48:5D:47:C1:01:4C:3B:56:F6:26:67:30:FE:AA:84:5B:EC
+	SHA256: 3D:29:41:18:C9:AA:ED:4C:23:3A:ED:E8:94:07:D3:27:C2:DB:88:E3:44:EF:5A:00:A8:DF:20:B8:AA:71:8B:88
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,37 @@
+com.dengweidong.cow
+1
+1.0
+9
+-1
+10
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity screenOrientation="0" name="com.dengweidong.cow.AppActivity" theme="16973831" configChanges="128" label="2130903040">
+<activity name="mm.purchasesdk.iapservice.BillingLayoutActivity" theme="16973839" configChanges="160">
+<activity excludeFromRecents="true" name="safiap.framework.ui.UpdateHintActivity" theme="16973840" configChanges="128" launchMode="3">
+3
+<service name="mm.purchasesdk.iapservice.PurchaseService" exported="true">
+<service process="safiap.framework" name="safiap.framework.SafFrameworkManager" exported="true">
+<service process=":remote" name="safiap.framework.logreport.monitor.handler.LogreportHandler">
+1
+<receiver name="safiap.framework.CheckUpdateReceiver">
+0
+Owner: CN=3966210, SERIALNUMBER=20150324180226242, C=CN
+Issuer: CN=CMCA application signing CA, C=CN
+Serial number: 164b40ef
+Valid from: Tue Mar 24 18:01:42 CST 2015 until: Sat Mar 24 18:01:42 CST 2035
+Certificate fingerprints: 
+	MD5:55:A3:7B:C5:C9:E3:1E:86:BA:4C:11:47:6B:6F:19:A5
+	SHA1: 21:3A:1E:ED:90:AF:38:8E:0B:83:8B:02:4F:2D:F4:B0:E6:4D:24:77
+	SHA256: 2C:81:A5:1C:C8:90:A6:4C:A2:5B:24:DD:79:0E:17:32:20:CF:11:FF:17:AA:6D:02:B6:AF:E1:27:31:87:84:C2
+	Signature algorithm name: SHA1withRSA
+	version: 3

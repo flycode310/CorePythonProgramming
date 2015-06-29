@@ -1,0 +1,48 @@
+androidStock.stockStar
+2
+1.0.0.1
+4
+-1
+10
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INSTALL_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.READ_OWNER_DATA
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+13
+<activity clearTaskOnLaunch="true" name="StockApp" label="2131230721" launchMode="1">
+<activity screenOrientation="1" name=".Activity.MyStockListActivity" configChanges="224">
+<activity screenOrientation="1" name=".Activity.StockTabHostActivity" configChanges="224">
+<activity name=".Activity.MyStockSortActivity" configChanges="224">
+<activity name=".Activity.MyStockDelActivity" configChanges="224">
+<activity name=".Activity.StockSearchActivity" configChanges="224">
+<activity name=".Activity.SetupActivity" configChanges="224">
+<activity name=".Activity.AboutActivity" configChanges="224">
+<activity name=".Activity.KLineActivity" configChanges="224">
+<activity name=".Activity.RTActivity" configChanges="224">
+<activity name=".Activity.StockNewsActivity" configChanges="224">
+<activity name=".Activity.WidgetSetupActivity">
+<activity name=".Activity.WidgetStyleChooserActivity">
+3
+<service name=".service.StockWidgetService">
+<service name=".service.StockWidgetService2">
+<service name=".service.BroadcastSerivce">
+2
+<receiver name=".Widget.StockStarWidget" label="2131230774">
+<receiver name=".Widget.StockStarWidget2" label="2131230775">
+0
+Owner: CN=pan, OU=stockstar, O=stockstar, L=shanghai, ST=shanghai, C=86
+Issuer: CN=pan, OU=stockstar, O=stockstar, L=shanghai, ST=shanghai, C=86
+Serial number: 4cf497ac
+Valid from: Tue Nov 30 14:20:28 CST 2010 until: Sat Nov 24 14:20:28 CST 2035
+Certificate fingerprints: 
+	MD5:1D:C0:2A:6C:76:04:45:76:8D:C4:29:0B:5C:93:52:76
+	SHA1: 8E:D9:DD:2C:3D:26:40:FD:90:20:D0:D8:06:E7:AB:F2:56:B5:61:59
+	SHA256: B7:A3:87:DC:E1:CD:2C:C4:08:DE:8A:03:8A:62:6E:22:CA:E9:C3:B5:48:68:FD:E9:B6:56:2E:82:DA:04:A8:D6
+	Signature algorithm name: SHA1withRSA
+	version: 3

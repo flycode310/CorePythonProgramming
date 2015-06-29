@@ -1,0 +1,55 @@
+com.metek.weather
+110
+1.1.0
+7
+7
+8
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+19
+<activity screenOrientation="1" name=".activity.MainActivity" label="2131296256" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name=".activity.AqiActivity">
+<activity screenOrientation="1" name=".activity.TrendActivity">
+<activity screenOrientation="1" name=".activity.SettingActivity" label="2131296269" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".activity.AutoUpdateSettingActicity">
+<activity screenOrientation="1" name=".activity.PushRemindSettingActivity">
+<activity screenOrientation="1" name=".activity.PlayAnimationSettingActivity">
+<activity screenOrientation="1" name=".activity.ShareSettingActivity">
+<activity screenOrientation="1" name=".activity.MoreSettingActivity">
+<activity screenOrientation="1" name=".activity.FaqActivity">
+<activity screenOrientation="1" name=".activity.ToolsActivity">
+<activity screenOrientation="1" name=".activity.CityPickActivity" configChanges="128" label="2131296270" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".activity.CityManageActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".activity.GuideActivity" label="2131296270">
+<activity screenOrientation="1" name=".activity.SuggestActivity" label="2131296390">
+<activity screenOrientation="1" name=".activity.AboutActivity" label="2131296406">
+<activity screenOrientation="1" name=".activity.Widget4x1ConfigActivity">
+<activity screenOrientation="1" name=".activity.Widget4x2ConfigActivity">
+<activity screenOrientation="1" name=".activity.Widget4x3ConfigActivity">
+2
+<service name=".WidgetService" exported="false">
+<service name="com.metek.util.UpdateService" exported="false">
+6
+<receiver name=".widget.WidgetProvider4x1" label="2131296482">
+<receiver name=".widget.WidgetProvider4x2" label="2131296483">
+<receiver name=".widget.WidgetProvider4x3" label="2131296484">
+<receiver name=".NetworkReceiver">
+<receiver name=".UserPresent">
+<receiver name=".WallpaperChangedReceiver">
+0
+Owner: CN=weather, OU=unit, O=metek, L=wuhan, ST=hubei, C=CN
+Issuer: CN=weather, OU=unit, O=metek, L=wuhan, ST=hubei, C=CN
+Serial number: 4fd85433
+Valid from: Wed Jun 13 16:49:55 CST 2012 until: Fri May 20 16:49:55 CST 2112
+Certificate fingerprints: 
+	MD5:9A:6E:6A:7B:15:B0:F3:D4:A6:3A:19:5D:91:DA:19:83
+	SHA1: 04:75:C2:2F:B2:F6:EC:79:4B:B4:89:00:E9:05:40:0F:82:94:88:8E
+	SHA256: 3A:CF:6E:82:A5:8D:E4:CE:C9:F1:E7:C0:AE:FE:7C:9F:E8:F9:C0:17:76:87:F3:8D:71:E6:BF:F3:DC:70:AE:41
+	Signature algorithm name: SHA1withRSA
+	version: 3

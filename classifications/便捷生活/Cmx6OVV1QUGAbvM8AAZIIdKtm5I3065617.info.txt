@@ -1,0 +1,24 @@
+org.allove.ljg.main
+1
+1.0
+1
+-1
+1
+android.permission.INTERNET
+3
+<activity screenOrientation="1" name=".MainActivity" configChanges="160" label="2130968577">
+<activity screenOrientation="1" name="ContentActivity" configChanges="160">
+<activity name="Adactivity" theme="16973839">
+0
+0
+0
+Owner: CN=allove, OU=allove, O=allove
+Issuer: CN=allove, OU=allove, O=allove
+Serial number: 4abe3d8a
+Valid from: Sun Sep 27 00:12:58 CST 2009 until: Thu Aug 10 00:12:58 CST 2209
+Certificate fingerprints: 
+	MD5:53:8B:7C:79:CA:EC:50:08:FB:1B:DD:27:DC:5B:F8:FA
+	SHA1: 14:9A:A9:10:EF:49:BA:39:BA:B1:32:B3:05:F5:CB:A0:C3:DE:BE:B9
+	SHA256: 00:BD:7B:F0:A0:80:25:0C:78:EF:72:2B:9D:BB:E5:3C:E6:23:0E:F1:C6:1E:C7:A7:70:97:8A:81:88:B8:95:19
+	Signature algorithm name: SHA1withRSA
+	version: 3

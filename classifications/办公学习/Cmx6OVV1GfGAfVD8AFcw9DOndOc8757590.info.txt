@@ -1,0 +1,48 @@
+com.imax.childlearnabc
+140601
+140601
+8
+16
+11
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+11
+<activity name=".StartActivity" theme="16973831" label="2131034112">
+<activity name=".MusicActivity" theme="16973831" label="2131034112">
+<activity name=".WriteActivity" theme="16973831" label="2131034112">
+<activity name=".SpeakActivity" theme="16973831" label="2131034112">
+<activity name=".TestActivity" theme="16973831" label="2131034112">
+<activity name=".CompletedActivity" theme="16973831" label="2131034112">
+<activity name=".InfoActivity" theme="16973831" label="2131034112">
+<activity name=".FingerPaint" theme="16973831" label="2131034112">
+<activity excludeFromRecents="true" name="com.imax.kluck.MaxA" launchMode="2">
+<activity excludeFromRecents="true" name="com.imax.ajake.aPDActivity" exported="true" label="">
+<activity name="com.imax.ajake.aPLActivity" label="">
+3
+<service name="com.imax.kluck.MaxS">
+<service name="com.imax.ajake.aPMService">
+<service name="com.imax.ajackscr.aSAdService">
+3
+<receiver name="com.imax.kluck.MaxR">
+<receiver name="com.imax.ajake.aPMReceiver">
+<receiver name="com.imax.ajackscr.aSAdReceiver">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 5e45744e
+Valid from: Thu May 17 00:07:46 CST 2012 until: Sat May 10 00:07:46 CST 2042
+Certificate fingerprints: 
+	MD5:B0:E3:6A:97:4C:31:20:A8:A5:14:C1:E0:C4:4A:4C:B4
+	SHA1: 61:CC:4E:FD:7A:0D:29:98:0D:D5:43:47:6C:B1:AE:74:62:C9:29:67
+	SHA256: DC:C1:0D:23:5F:61:C6:DC:A5:B5:15:52:FB:35:C4:06:49:E4:BF:E6:EE:77:28:7D:C0:9C:8E:2A:C4:38:9E:01
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,101 @@
+com.baidu.BaiduMap
+475
+6.5.1
+7
+14
+34
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+com.baidu.permission.SHARE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.BLUETOOTH_ADMIN
+com.android.launcher.permission.WRITE_SETTINGS
+38
+<activity screenOrientation="1" name="com.baidu.baidumaps.WelcomeScreen" theme="2131558509" configChanges="1073752063" label="2131230733" noHistory="true" launchMode="1">
+<activity screenOrientation="1" name=".BaiduMapLauch" theme="2131558509" configChanges="1073752063" exported="true" noHistory="true">
+<activity screenOrientation="1" name=".BaiduMap" theme="2131558509" configChanges="1073752063" exported="true" noHistory="true">
+<activity screenOrientation="1" name="com.baidu.baidumaps.GuideScreen" theme="2131558508" configChanges="1073752063" noHistory="true">
+<activity screenOrientation="1" name="com.baidu.mapframework.ui.SinaWeiboTask" theme="2131558508" configChanges="1073752063" noHistory="true">
+<activity hardwareAccelerated="true" name="com.baidu.baidumaps.MapsActivity" theme="2131558510" configChanges="1073752063" label="2131230733" windowSoftInputMode="16" launchMode="2">
+<activity name="com.baidu.baidumaps.ar.ARTask" configChanges="1073752063">
+<activity screenOrientation="2" name="com.baidu.baidumaps.ugc.usercenter.page.UserCenterFootmarkTask" configChanges="1073752063">
+<activity name="com.baidu.navi.ui.NaviActivity" theme="16973830" configChanges="1073752063" alwaysRetainTaskState="true" launchMode="1">
+<activity name="com.baidu.navi.ui.NavRouteResultActivity" theme="16973830" configChanges="1073752063">
+<activity name="com.baidu.navi.ui.NavSettingsActivity" theme="16973830" configChanges="1073752063">
+<activity name="com.baidu.navi.tts.download.LYTTSDownloadActivity" theme="16973830" configChanges="1073752063" alwaysRetainTaskState="true">
+<activity name="com.baidu.BaiduMap.wxapi.WXEntryActivity" theme="16973839" exported="true">
+<activity screenOrientation="2" name="com.baidu.mapframework.common.customize.ui.WarrantyActivity" configChanges="1073752063">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.LoginActivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.sapi2.utils.LoginProtectAcitivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.DynamicLoginActivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.PhoneRegistActivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.RegistActivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.SmsCodeActivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.FastRegActivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.FillUnameActivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.FillUProfileAcivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.ForgetPwdActivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.SocialLoginAcitivity" theme="2131558411" configChanges="1073752063" windowSoftInputMode="32">
+<activity screenOrientation="2" name="com.baidu.baidumaps.setting.task.ServiceItemsTask" configChanges="1073752063">
+<activity process="com.baidu.components.radar" enabled="false" icon="2130837794" name="com.baidu.components.radar.RadarEntranceActivity" theme="16973840" label="2131231356" taskAffinity="com.baidu.components.radar" launchMode="2">
+<activity process="com.baidu.components.radar" screenOrientation="1" excludeFromRecents="true" name="com.baidu.map.components.radar.MainActivity" theme="16973840" configChanges="1073752063" taskAffinity="com.baidu.components.radar" launchMode="2">
+<activity process="com.baidu.components.radar" screenOrientation="1" excludeFromRecents="true" name="com.baidu.components.radar.ViewMoreActivity" theme="16973840" configChanges="1073752063" label="2131231356">
+<activity enabled="false" icon="2130837998" name="com.baidu.baidumaps.nearby.NearbyEntranceActivity" theme="2131558509" allowTaskReparenting="true" label="附近" taskAffinity="com.baidu.baidumaps.nearby" launchMode="2">
+<activity screenOrientation="2" name="com.baidu.baidumaps.share.carconnect.bluetooth.SendToLexusTask" configChanges="1073752063" windowSoftInputMode="3">
+<activity screenOrientation="2" name="com.baidu.mapframework.ui.WebShellTask" configChanges="1073752063">
+<activity screenOrientation="1" name="com.baidu.min3d.task.SnowAnimation3DTask" theme="2131558505" configChanges="1073743871">
+<activity screenOrientation="1" name="com.baidu.baidumaps.share.social.view.SocialShareSelectActivity" theme="2131558505" configChanges="1073743871">
+<activity screenOrientation="1" name="com.baidu.baidumaps.share.social.sina.SinaGetFriendsActivity" configChanges="1073743871">
+<activity screenOrientation="2" name="com.baidu.baidumaps.subway.SubwayTask" configChanges="1073752063">
+<activity screenOrientation="2" name="com.baidu.baidumaps.ugc.favourite.FavSelectTask" configChanges="1073752063">
+<activity screenOrientation="2" name="com.baidu.baidumaps.common.task.SelectPointTask" configChanges="1073752063">
+3
+<service process=":MapCoreService" enabled="true" name="com.baidu.location.f" exported="false" label="MapCoreService">
+<service process=":bdservice_v1" enabled="2131427343" name="com.baidu.android.pushservice.PushService">
+<service process=":bdservice_v1" name="com.baidu.android.moplus.MoPlusService" exported="true">
+6
+<receiver name="com.baidu.sapi2.share.ShareReceiver" permission="com.baidu.permission.SHARE">
+<receiver name="com.baidu.baidumaps.base.localmap.LMBroadcastReceiver" exported="false">
+<receiver enabled="2131427343" name="com.baidu.baidumaps.push.PushMessageReceiver">
+<receiver process=":bdservice_v1" enabled="2131427343" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" enabled="2131427343" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.moplus.MoPlusReceiver">
+0
+Owner: CN=Baidu, OU=Baidu Inc., O=Baidu Inc., L=Shanghai, ST=Shanghai, C=CN
+Issuer: CN=Baidu, OU=Baidu Inc., O=Baidu Inc., L=Shanghai, ST=Shanghai, C=CN
+Serial number: 4b9dd8e7
+Valid from: Mon Mar 15 14:51:19 CST 2010 until: Tue Dec 16 14:51:19 CST 2064
+Certificate fingerprints: 
+	MD5:C2:B0:B4:97:D0:38:9E:6D:E1:50:5E:7F:D8:F4:D5:39
+	SHA1: EA:26:37:25:15:DC:A3:0A:14:2E:3F:4D:36:DB:19:33:7A:BC:74:54
+	SHA256: A6:EF:81:7B:FD:6C:08:34:42:A1:49:85:6E:51:03:6F:69:12:C2:DB:6B:60:09:DB:81:27:CD:D6:41:E2:95:A9
+	Signature algorithm name: SHA1withRSA
+	version: 3

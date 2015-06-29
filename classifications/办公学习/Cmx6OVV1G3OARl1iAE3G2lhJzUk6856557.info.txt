@@ -1,0 +1,40 @@
+com.android.mznote
+89
+6.1.0
+8
+13
+6
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity screenOrientation="1" name=".MzNote" theme="16973830" label="2131296256">
+<activity screenOrientation="1" name=".MzNoteAbout" theme="16973838">
+<activity name=".MzNoteChildDemo">
+<activity name="com.android.mznote.widget.MzNoteWidgetConf" theme="16973830">
+<activity name="com.android.mznote.widget.MzNoteWidgetConfSec" theme="16973830">
+<activity name="com.android.mznote.widget.MzNoteWidgetAnim" theme="16973831">
+<activity screenOrientation="1" name="com.android.mznote.ad.MzNoteAdTempl63" theme="16973830">
+<activity name="com.android.mznote.ad.MzNoteAdTempl631" theme="16973831">
+<activity screenOrientation="1" name="com.android.mz.notepad.EditNoteActivity" theme="16973830" label="2131296308" windowSoftInputMode="16">
+3
+<service enabled="true" name=".PlaySavePicMusic">
+<service enabled="true" name="com.android.mznote.cloud.MzNoteCloud">
+<service enabled="true" name="com.android.mznote.ad.MzNoteAdService">
+2
+<receiver name="com.android.mznote.widget.MzNoteWidget" label="2131296317">
+<receiver name=".NetChange">
+0
+Owner: CN=Ciro, OU=Mayzone, O=Mayzone, L=Shanghai, ST=Shanghai, C=200000
+Issuer: CN=Ciro, OU=Mayzone, O=Mayzone, L=Shanghai, ST=Shanghai, C=200000
+Serial number: 2bc698b1
+Valid from: Thu Sep 26 16:24:08 CST 2013 until: Wed Jan 27 16:24:08 CST 3013
+Certificate fingerprints: 
+	MD5:F6:FC:8A:42:43:E7:1C:3E:E6:30:3C:A2:DC:B7:69:27
+	SHA1: B7:E6:CC:F2:55:33:DE:D2:2F:C1:C9:95:BF:3B:3B:55:5C:EC:17:75
+	SHA256: C1:24:C5:D7:D3:93:EA:EB:9A:19:DD:84:CC:8E:99:F4:76:C3:39:11:11:9A:55:CE:68:4E:E1:CF:9F:E8:93:20
+	Signature algorithm name: SHA256withRSA
+	version: 3

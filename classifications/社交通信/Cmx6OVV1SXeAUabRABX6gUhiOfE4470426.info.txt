@@ -1,0 +1,50 @@
+com.comlink.netfax.android
+4
+1.0.4
+2
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+20
+<activity name=".theme" theme="16973830" configChanges="160" label="2131230730">
+<activity name=".main" theme="16973830" configChanges="160">
+<activity name=".LoginActivity">
+<activity name=".FaxNewActivity">
+<activity name=".FaxNewMassActivity" configChanges="160">
+<activity name=".FaxNewResultActivity">
+<activity name=".FaxListActivity">
+<activity name=".ReceivListActivity">
+<activity name=".ResendActivity">
+<activity name=".FaxDetailActivity">
+<activity name=".AddrGroupActivity">
+<activity name=".AddrBookActivity">
+<activity name=".PwdActivity">
+<activity name=".HelpActivity">
+<activity name=".UserdetailActivity">
+<activity name=".UserInfoActivity">
+<activity name=".MyFileManager" configChanges="160">
+<activity name=".NFaxListActivity">
+<activity name=".AboutActivity">
+<activity name=".RegActivity">
+1
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4fbdfec1
+Valid from: Thu May 24 17:26:25 CST 2012 until: Sat May 17 17:26:25 CST 2042
+Certificate fingerprints: 
+	MD5:59:F6:62:C7:39:73:1D:F5:28:7B:E8:CC:50:E1:F9:D0
+	SHA1: B9:CA:0F:57:BA:89:44:DB:62:71:C3:6F:E2:43:F4:2D:BC:6C:7A:67
+	SHA256: 57:00:00:E2:58:13:31:8A:0A:36:D6:46:87:C2:CB:D0:D7:91:9D:CE:49:D7:80:4B:E8:C1:E7:85:AE:FC:98:0B
+	Signature algorithm name: SHA1withRSA
+	version: 3

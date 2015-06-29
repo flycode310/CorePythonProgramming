@@ -1,0 +1,52 @@
+com.ebnews
+3
+1.2.0
+4
+-1
+7
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+25
+<activity screenOrientation="1" name="IndexActivity" label="2131230720">
+<activity screenOrientation="1" name=".CommercialsActivity">
+<activity screenOrientation="1" name=".ContactUsActivity">
+<activity screenOrientation="1" name=".NewsActivity">
+<activity screenOrientation="1" name=".TitleActivity">
+<activity screenOrientation="1" name=".CollectActivity">
+<activity screenOrientation="1" name=".DataActivity">
+<activity screenOrientation="1" name=".CaseActivity">
+<activity screenOrientation="1" name=".SetActivity">
+<activity screenOrientation="1" name=".ShareSetActivity">
+<activity screenOrientation="1" name=".TextSizeSetActivity">
+<activity screenOrientation="1" name=".ArticleDetailActivity">
+<activity screenOrientation="1" name=".FeedBackActivity">
+<activity screenOrientation="1" name=".CommentsActivity">
+<activity screenOrientation="1" name=".AddCommentsActivity">
+<activity screenOrientation="1" name=".LoginActivity" configChanges="160">
+<activity screenOrientation="1" name=".RegisterActivity">
+<activity screenOrientation="1" name=".BindHadEbrunActivity">
+<activity screenOrientation="1" name=".BindNoEbrunActivity">
+<activity screenOrientation="1" name=".TitleNewsListActivity">
+<activity screenOrientation="1" name=".CustomActivity">
+<activity screenOrientation="1" name=".ShareActivity">
+<activity name="com.tencent.tauth.TAuthView" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.weibo.webview.OAuthV2AuthorizeWebView">
+<activity screenOrientation="1" name=".WebViewIntent">
+0
+0
+0
+Owner: CN=亿邦动力网, OU=www.ebrun.com, O=www.ebrun.com, L=北京, ST=北京, C=CN
+Issuer: CN=亿邦动力网, OU=www.ebrun.com, O=www.ebrun.com, L=北京, ST=北京, C=CN
+Serial number: 51356a4f
+Valid from: Tue Mar 05 11:45:19 CST 2013 until: Wed Dec 07 11:45:19 CST 2067
+Certificate fingerprints: 
+	MD5:68:31:06:FA:90:9B:88:F0:7D:3A:FB:85:11:2A:2C:14
+	SHA1: 50:B3:D5:94:15:2D:45:32:7F:D2:6C:0E:F1:F9:4F:01:98:B2:0B:F8
+	SHA256: 90:9B:12:8F:3A:57:C4:DE:58:DD:6C:E3:44:AF:EB:7D:20:84:5A:00:71:9F:CB:92:58:28:D6:E6:FF:6F:97:5A
+	Signature algorithm name: SHA1withRSA
+	version: 3

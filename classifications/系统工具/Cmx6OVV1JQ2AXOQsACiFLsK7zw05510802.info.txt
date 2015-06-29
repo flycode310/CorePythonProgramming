@@ -1,0 +1,36 @@
+com.jimmie.activity
+1
+1.0
+8
+21
+7
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity name="MainActivity" label="2131361807">
+<activity name="EditNoteActivity">
+<activity name="com.jimmie.alarm.AlarmActivity_v2">
+<activity screenOrientation="5" excludeFromRecents="true" name="com.jimmie.alarm.AlarmAlert_v2" theme="16973835" configChanges="240" taskAffinity=":AlarmAlert_v2" launchMode="2">
+<activity name="com.jimmie.alarm.MusicPicker">
+<activity name="com.jimmie.about.Instruction">
+<activity name="com.jimmie.about.About">
+1
+<service name="com.jimmie.alarm.AlarmAlterService">
+1
+<receiver process=":remote" name="com.jimmie.alarm.CallAlarm">
+0
+Owner: CN=Yang qian jian
+Issuer: CN=Yang qian jian
+Serial number: 3cc8214d
+Valid from: Sat Apr 25 22:39:47 CST 2015 until: Mon Apr 01 22:39:47 CST 2115
+Certificate fingerprints: 
+	MD5:83:2E:F8:BB:58:50:2B:0E:A0:47:65:3B:2D:AD:3E:5A
+	SHA1: EF:76:51:08:5C:31:4A:95:B0:A3:96:1E:23:CB:1B:8F:B1:DA:11:AA
+	SHA256: 84:EE:61:4A:AB:F1:83:82:F9:E6:55:03:EF:33:66:04:CD:EE:32:CE:AA:CC:2F:44:4E:B4:D5:A9:B7:57:2B:8F
+	Signature algorithm name: SHA256withRSA
+	version: 3

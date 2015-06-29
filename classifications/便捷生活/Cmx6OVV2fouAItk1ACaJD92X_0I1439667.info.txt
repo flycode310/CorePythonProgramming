@@ -1,0 +1,62 @@
+com.wumii.android.SITE.app_1qou5ghu
+1000000
+1.0
+8
+17
+9
+android.permission.RECEIVE_USER_PRESENT
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+29
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.ArticleActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.CoverActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.CommentFragmentActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.CommentActivity" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.LoginActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.WeiboBindingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.WeiboSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.WeiboOAuthActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.WeiboConnectActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.CommentDialogActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.UserListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.UserActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.UserRelationActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.UserLikeItemsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.AtUserListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.RegistrationActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.SettingsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.ShareActivity" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.ScreenNameSettingActivity" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.ProfileSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.AccountSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.FeedbackActivity" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.OfflineDownloadActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.OfflineDownloadSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.WebViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.MessageDetailActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.MainActivity" theme="2131427350" configChanges="160" label="2131361792" launchMode="1">
+<activity screenOrientation="1" name="com.wumii.android.controller.activity.ImageGalleryActivity" configChanges="160">
+3
+<service process=":com.wumii.android.SITE.app_1qou5ghu.service.OfflineDownloadService" name="com.wumii.android.service.OfflineDownloadService">
+<service name="com.wumii.android.service.AppDownloadService">
+<service name="com.wumii.android.service.ClearCacheService">
+1
+<receiver name="com.wumii.android.receiver.UpgradeReceiver">
+0
+Owner: CN=wumii, OU=wumii.com, O=wumii.com, L=shenzhen, ST=GD, C=86
+Issuer: CN=wumii, OU=wumii.com, O=wumii.com, L=shenzhen, ST=GD, C=86
+Serial number: 521d9aac
+Valid from: Wed Mar 21 19:01:13 CST 2012 until: Sun Aug 07 19:01:13 CST 2039
+Certificate fingerprints: 
+	MD5:9A:52:13:89:85:5E:7D:19:82:02:1D:21:3E:83:8F:B7
+	SHA1: 40:86:C3:B9:57:B6:C8:39:41:3C:CB:35:DD:D7:18:E4:6F:A3:C5:54
+	SHA256: 5E:D5:3B:0F:D4:03:1E:4D:39:43:09:FF:C1:30:47:8A:1D:24:12:C7:54:44:DD:A6:43:0E:16:D6:D1:AD:3B:53
+	Signature algorithm name: SHA256withRSA
+	version: 3

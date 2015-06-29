@@ -1,0 +1,122 @@
+com.lx.launcher
+101
+2.6.1
+9
+17
+30
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER_HINTS
+android.permission.READ_SMS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+com.android.vending.CHECK_LICENSE
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_WEATHERCLOCK_PROVIDER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.EXPAND_STATUS_BAR
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_CALL_LOG
+android.permission.CHANGE_NETWORK_STATE
+android.permission.BLUETOOTH_ADMIN
+68
+<activity clearTaskOnLaunch="true" hardwareAccelerated="true" name="com.lx.launcher.AnallLauncher" theme="2131624070" configChanges="1184" windowSoftInputMode="32" stateNotNeeded="true" launchMode="2">
+<activity enabled="false" name="com.lx.launcher.DefaultAct" stateNotNeeded="true" launchMode="3">
+<activity name="com.lx.launcher.setting.SettingAct" configChanges="160">
+<activity name="com.lx.launcher.setting.AddWidgetAct" configChanges="160">
+<activity name="com.lx.launcher.setting.AddAppAct" configChanges="160">
+<activity name="com.lx.launcher.setting.AddSpecialAct" configChanges="160">
+<activity name="com.lx.launcher.setting.EditCellAct" configChanges="160">
+<activity name="com.lx.launcher.setting.SettingDeskItemsAct" configChanges="160">
+<activity name="com.lx.launcher.setting.FolderAppPickAct" configChanges="160">
+<activity name="com.lx.launcher.setting.FolderSettingsAct" configChanges="160">
+<activity name="com.lx.launcher.setting.AppPickAct" configChanges="160">
+<activity name="com.lx.launcher.setting.SizePickAct" configChanges="160">
+<activity name="com.lx.launcher.setting.TextStylePickAct" configChanges="160">
+<activity process=":lock" name="com.lx.launcher.setting.ColorPickerAct" configChanges="160">
+<activity process=":lock" name="com.lx.launcher.setting.IconPickAct" configChanges="160">
+<activity name="com.lx.launcher.setting.ThemeMainAct" configChanges="160">
+<activity name="com.lx.launcher.setting.LockScreenStyleAct" configChanges="160">
+<activity name="com.lx.launcher.setting.AppListStyleAct" configChanges="160">
+<activity name="com.lx.launcher.setting.GalleryPickAct" configChanges="160">
+<activity name="com.lx.launcher.setting.ThemeDetailAct" configChanges="160">
+<activity name="com.lx.launcher.setting.ThemeOnlineListAct" configChanges="160">
+<activity hardwareAccelerated="false" name="com.lx.launcher.setting.ThemeShotDetailAct" configChanges="160">
+<activity name="com.lx.launcher.setting.WallpaperPickAct" configChanges="160">
+<activity name="com.lx.launcher.setting.LockScreenPaperPickAct" configChanges="160">
+<activity name="com.lx.launcher.setting.LockScreenPaperDetailAct" configChanges="160">
+<activity name="com.lx.launcher.setting.LockScreenPaperListAct" configChanges="160">
+<activity name="com.lx.launcher.setting.LockSoundPickerAct" configChanges="160">
+<activity name="com.lx.launcher.setting.LockSoundListAct" configChanges="160">
+<activity name="com.lx.launcher.setting.LockPwdAct" configChanges="160">
+<activity name="com.lx.launcher.setting.PwdSetAct" configChanges="160" windowSoftInputMode="32">
+<activity name="com.lx.launcher.setting.PageSetAct" configChanges="160" windowSoftInputMode="32">
+<activity name="com.lx.launcher.setting.AppIndexAct" configChanges="160">
+<activity name="com.lx.launcher.setting.SettingLightItemsAct" configChanges="160">
+<activity name="com.lx.launcher.setting.LightAct" configChanges="160">
+<activity name="com.lx.launcher.setting.LightScreenAct" configChanges="160">
+<activity name="com.lx.launcher.setting.TopAppAct" configChanges="160">
+<activity name="com.lx.launcher.setting.TopAppDetailAct" configChanges="160">
+<activity name="com.lx.launcher.setting.TopAppSearchAct" configChanges="160">
+<activity name="com.lx.launcher.setting.SettingSearchItemsAct" configChanges="160">
+<activity name="com.lx.launcher.setting.SearchAct" configChanges="160">
+<activity name="com.lx.launcher.setting.ShareAct" configChanges="160">
+<activity name="com.lx.launcher.setting.AddOnlineAct" configChanges="160">
+<activity name="com.lx.launcher.setting.ClockPickAct" configChanges="160">
+<activity name="com.lx.launcher.setting.MyShareThemeAct" configChanges="160">
+<activity name="com.lx.launcher.setting.ShareThemeAct" configChanges="160">
+<activity name="com.lx.launcher.setting.MyShareAct" configChanges="160">
+<activity name="com.lx.launcher.setting.ThemeOnlineDetailAct" configChanges="160">
+<activity name="com.lx.launcher.setting.ThemeCommentAct" configChanges="160">
+<activity name="com.lx.launcher.download.DownloadAct" configChanges="160">
+<activity name="com.lx.launcher.image.ImageBrower" configChanges="144">
+<activity name="com.anall.statusbar.StatusBarSettingsAct" configChanges="160">
+<activity process=":lock" name="com.lx.launcher.crop.CropImage">
+<activity name="com.lx.launcher.setting.HiddenAppPwdAct" configChanges="160">
+<activity name="com.lx.launcher.setting.WebViewAct" configChanges="160">
+<activity multiprocess="false" excludeFromRecents="true" name="com.anall.screenlock.WPLockAct" theme="16973839" configChanges="160" taskAffinity="com.lx.launcher.WPLockAct" launchMode="3">
+<activity multiprocess="false" excludeFromRecents="true" name="com.anall.statusbar.ExpendAct" theme="16973839" configChanges="160" stateNotNeeded="true" taskAffinity="com.anall.statusbar.ExpendAct">
+<activity name="com.anall.statusbar.StatusBarListen" configChanges="160">
+<activity name="com.lx.launcher.MoreAct" configChanges="160">
+<activity name="com.lx.launcher.ProposeAct" configChanges="160">
+<activity name="com.lx.launcher.AboutAct" configChanges="160">
+<activity name="com.lx.launcher.DisplayFolderAct" configChanges="160">
+<activity name="com.app.ads.AdsAct" configChanges="160">
+<activity name="com.app.common.SimpleWebViewAct" configChanges="160">
+<activity name="com.app.download.DownloadManagerAct" configChanges="160">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+<activity name="com.mgyun.login.ui.MgLoginActivity" theme="2131623956">
+<activity name="com.mgyun.login.ui.WebLoginActivity" theme="2131623956">
+<activity name="com.mgyun.login.ui.CommonActivity" theme="2131623956">
+4
+<service name="com.anall.screenlock.LockScreenService" label="2131559119">
+<service name="com.anall.statusbar.BarService" label="2131559608">
+<service enabled="2131230731" name="com.anall.statusbar.NotificationService" permission="android.permission.BIND_ACCESSIBILITY_SERVICE" label="2131559257">
+<service name="com.lx.launcher.service.UpdateService" exported="true">
+0
+0
+Owner: CN=lexun, OU=lexun, O=lexun, L=shenzhen, ST=guangdong, C=cn
+Issuer: CN=lexun, OU=lexun, O=lexun, L=shenzhen, ST=guangdong, C=cn
+Serial number: 4e293e5a
+Valid from: Fri Jul 22 17:09:46 CST 2011 until: Sat Apr 24 17:09:46 CST 2066
+Certificate fingerprints: 
+	MD5:91:3B:F4:51:9E:C7:70:A3:D6:4A:77:10:99:2D:90:7D
+	SHA1: 69:8D:54:B0:9D:23:D9:FE:C6:5F:EC:3A:B1:8D:0B:12:D5:E9:31:F6
+	SHA256: 0D:1E:FC:25:DC:90:15:BE:4F:9F:D9:95:97:57:6C:92:4E:A3:FD:39:EA:48:F8:55:70:B1:9E:BF:B6:6F:23:42
+	Signature algorithm name: SHA1withRSA
+	version: 3

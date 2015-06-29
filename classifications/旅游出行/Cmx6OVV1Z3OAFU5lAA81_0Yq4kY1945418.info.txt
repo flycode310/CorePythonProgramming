@@ -1,0 +1,32 @@
+com.bjjpsk.jpskb
+7
+2012.08.09
+5
+-1
+3
+android.permission.INSTALL_PACKAGES
+android.permission.INTERNET
+android.permission.MOUNT_UNMOUT_FILESYSTEMS
+9
+<activity screenOrientation="1" name=".Splash" theme="2131099649" label="2131165184" windowSoftInputMode="33">
+<activity screenOrientation="1" name=".MainForm" theme="2131099649" label="2131165184">
+<activity screenOrientation="1" name=".ZZCX" theme="2131099649" label="2131165184" windowSoftInputMode="33">
+<activity screenOrientation="1" name=".CCCX" theme="2131099649" label="2131165184">
+<activity name=".AllResult" theme="2131099649" label="2131165184">
+<activity name=".StnResult" theme="2131099649" label="2131165184">
+<activity screenOrientation="1" name=".Update" theme="2131099649" label="2131165184">
+<activity screenOrientation="1" name=".About" theme="2131099649" label="2131165184">
+<activity screenOrientation="1" name=".ZZZ" theme="2131099649" label="2131165184">
+0
+0
+0
+Owner: CN=liweifeng, OU=jpsk, O=jpsk, L=beijing
+Issuer: CN=liweifeng, OU=jpsk, O=jpsk, L=beijing
+Serial number: 12bb54a9
+Valid from: Sun Jan 22 19:53:18 CST 2012 until: Tue Dec 29 19:53:18 CST 2111
+Certificate fingerprints: 
+	MD5:9D:24:81:AB:C6:B7:6F:45:09:4F:A4:58:EB:0F:C9:45
+	SHA1: EF:93:32:67:AF:3F:F2:2D:27:55:BC:38:11:25:F3:C5:38:17:06:A4
+	SHA256: A7:0F:FB:1B:91:EC:0B:F5:0A:36:43:0C:4D:8F:E1:AB:C5:DE:A2:8C:AF:38:92:9D:38:26:BC:D2:51:2B:6A:DD
+	Signature algorithm name: SHA256withRSA
+	version: 3

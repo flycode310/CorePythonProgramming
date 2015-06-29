@@ -1,0 +1,48 @@
+com.baichuantqrlhospital
+1
+1.0
+7
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+19
+<activity icon="2130837519" screenOrientation="1" name=".ModuleActivity" label="2130968576">
+<activity screenOrientation="1" name="business.MainActivity" label="2130968576">
+<activity screenOrientation="1" name="business.ListActivity" label="2130968576">
+<activity screenOrientation="1" name="business.ShowListContextActivity" label="2130968576">
+<activity screenOrientation="1" name="business.ContextActivity" label="2130968576">
+<activity screenOrientation="1" name="business.RoundCornerActivity" label="2130968576">
+<activity screenOrientation="1" name="business.ShowHtmlContentActivity" label="2130968576">
+<activity screenOrientation="1" name="business.TestActivity" label="2130968576">
+<activity screenOrientation="1" name="business.UpdateOnlineActivity" label="2130968576">
+<activity screenOrientation="1" name="business.ShowContentActivity" label="2130968576">
+<activity screenOrientation="1" name="business.OnlineBookActivity" label="2130968576" windowSoftInputMode="2">
+<activity screenOrientation="1" name="business.ExpertActivity" label="2130968576">
+<activity screenOrientation="1" name="business.ExpertDetailActivity" label="2130968576">
+<activity screenOrientation="1" name="business.TestYourselfActivity" label="2130968576">
+<activity screenOrientation="1" name="business.TestResultActivity" label="2130968576">
+<activity screenOrientation="1" name="business.Zaixianzixun" label="2130968576">
+<activity screenOrientation="1" name="business.MedicalNavigation" label="2130968576">
+<activity screenOrientation="1" name="baidumap.BaiduMapFindWayActivity" label="2130968576">
+<activity screenOrientation="1" name="business.ByBusLineActivity" label="2130968576">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4f751721
+Valid from: Fri Mar 30 10:14:57 CST 2012 until: Sun Mar 23 10:14:57 CST 2042
+Certificate fingerprints: 
+	MD5:53:48:D5:0B:98:7E:FB:AD:D6:ED:D8:32:08:CB:D2:2F
+	SHA1: 10:67:4C:17:E8:21:3E:94:25:FE:BC:6B:0B:AA:8F:81:F4:D6:15:13
+	SHA256: 57:2C:A2:32:7C:C8:1C:80:32:15:9C:AF:5D:23:A4:E9:C1:A9:44:AB:C1:D0:48:15:D4:49:82:FE:23:54:2E:4D
+	Signature algorithm name: SHA1withRSA
+	version: 3

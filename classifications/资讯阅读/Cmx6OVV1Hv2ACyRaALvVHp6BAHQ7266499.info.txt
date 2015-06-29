@@ -1,0 +1,101 @@
+com.readRecord.www
+3
+1.1.1
+8
+19
+25
+android.permission.ACCES_MOCK_LOCATION
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.ACCESS_GPS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.SEND_SMS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.DISABLE_KEYGUARD
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+51
+<activity screenOrientation="1" name=".activity.SplashActivity" label="2131296256" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.LoginActivity" label="2131296256" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.RegisterActivity" label="2131296256" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.ReadMainActivity" label="2131296256" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.SelectAgeActivity" label="2131296256" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.SelectSeriesActivity" label="2131296256" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.BookDesActivity" label="2131296256" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.NoteDesActivity" label="2131296256" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.FeedbackActivity" label="2131296256" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.SinaLoginActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.BabyActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.AddBabyActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.UpdateBabyActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.MyNotesActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.MyLoveActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.PlaybackActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.ImageViewActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.MyBooksActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.WriteNoteActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.ReadTypeActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.AddBookActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.AddBookBySjActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.AddBookBySmActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.AddBookBySdActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.SetActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.SearchBookActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.SearchStoryActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.InviteFriendActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.FriendDesActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.AccountActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.AcountSetActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.UpdatePwdActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.MyMessageActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.MyReadMiActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.ReadMiRoleActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.AlreadyAddBookActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.FindPwdActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.GuideActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.OtherAccountActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.SendMessageActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.SendMessageV1Activity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.WebViewActivity" label="2131296256" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.MipcaActivityCapture" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" exported="true">
+<activity screenOrientation="1" name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="3312" windowSoftInputMode="3" launchMode="1">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".activity.PushMessageDetailActivity" exported="true" label="2131296256" windowSoftInputMode="34">
+<activity name="com.baidu.android.pushservice.richmedia.MediaViewActivity" configChanges="160" label="MediaViewActivity">
+<activity name="com.baidu.android.pushservice.richmedia.MediaListActivity" configChanges="160" label="MediaListActivity" launchMode="2">
+2
+<service name="com.sina.weibo.sdk.net.DownloadService" exported="false">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+3
+<receiver name="com.readRecord.www.push.BaiduPushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=阅读记
+Issuer: CN=阅读记
+Serial number: 3fdd6a25
+Valid from: Tue Nov 18 09:56:49 CST 2014 until: Sat Nov 12 09:56:49 CST 2039
+Certificate fingerprints: 
+	MD5:7E:CE:8A:0B:A6:1A:4D:E7:C6:50:4C:3A:85:70:2F:C6
+	SHA1: 5A:AB:DE:06:11:C1:E3:60:04:68:33:16:E6:B7:A3:15:BC:C7:3F:43
+	SHA256: 4C:6A:9A:DE:FD:F5:BD:5C:DF:77:6E:FC:D5:D6:A8:C0:7E:01:DF:66:D6:65:64:B2:D5:AC:F3:AB:D6:23:AD:93
+	Signature algorithm name: SHA256withRSA
+	version: 3

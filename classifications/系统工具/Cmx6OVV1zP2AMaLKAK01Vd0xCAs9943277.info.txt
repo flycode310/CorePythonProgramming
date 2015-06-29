@@ -1,0 +1,211 @@
+com.gzrcb.mobilebank
+6
+1.5
+4
+4
+21
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+163
+<activity screenOrientation="1" name="com.hundsun.mobile.hsbrowser.HSBrowserStartUp" configChanges="160" label="2131230847" launchMode="3">
+<activity screenOrientation="1" name="com.hundsun.mobile.hsbrowser.HSBrowser" configChanges="160" label="2131230847" windowSoftInputMode="34" launchMode="3">
+<activity screenOrientation="0" name="com.zijunlin.Zxing.Demo.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.hundsun.mobile.Exfunction.ReadSMSActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.hundsun.mobile.Exfunction.ReadMultipleSMSActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.hundsun.mobile.hsbrowser.ProtectWarnActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.hundsun.mobile.push.PushSettingsActivity" configChanges="160" windowSoftInputMode="3">
+<activity name="com.hundsun.mobile.push.NotificationDetailsActivity" label="Notification Details">
+<activity name="com.hundsun.mobile.push.NotificationSettingsActivity" label="Notification Settings">
+<activity name="com.android.dazhihui.dzh.dzh" label="2131230720">
+<activity name="com.android.dazhihui.WarnActivity" label="">
+<activity name="com.android.dazhihui.DateActivity" label="2131230720">
+<activity name="com.android.dazhihui.ProtectionActivity" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.view.InitScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.NetSelectScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.BulletScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.MainMenuScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.WorldMarketScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.ToldFriendScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.RegisterScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.BrowserScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.HKMarketScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.MinuteScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.StockInfoScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.StockListScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.StockRegionListScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.SVListScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.StockMineListScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.StockAddMineListScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.CashRankingScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.InquireListScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.PartstaticScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.KlineScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.Level2RankingScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.FundListScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.TradeOutsideScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.FutruesScreen" theme="2131296278" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.FiveMinuteListScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.SubMenuScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.StockPondScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.StockPondSMSScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.HotKeySettingScreen" configChanges="160" label="2131231008">
+<activity name="com.android.dazhihui.view.BondScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.FundTextScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.RefreshSettingScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.InterestLevelScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.StockPondMSGScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.StockDetailScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.TableF10Screen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.RadioGroupScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.ScrectScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.view.ShortCutSettingScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.view.SearchStockScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundTransfer" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundInfo" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundDividend" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.MobileVerifed" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.MobileLogin" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TradeMenu" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundMenu" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.IFundMenu" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TransferMenu" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.AccountList" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.RegionTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.DepartTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TradeLogin" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.RemoveAccount" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.CancelTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.EntrustTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.BargainTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.HoldingTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.BargainTableH" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.CapitalTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.LuckyTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundOpenTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundHoldingTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundBargainTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundEntrustTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.MoneyListTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.MoneyCheckTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.Warrant" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundCancelTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TransferTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundCompanyTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.Entrust" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundOpenForm" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.BargainForm" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.LuckyForm" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.ProtectorForm" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundBargainForm" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.Transfer" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundEntrust" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundAtone" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.IFundEntrust" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.IFundAtone" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.EntrustHolding" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.Cancel" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.FundCancel" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.SynchCodes" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.ServiceInfo" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.AccountPass" label="2131230720">
+<activity screenOrientation="1" name="trade.InitVerifed" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.newtrade.TradeOutsideScreen" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.CapitalandHoldingTable" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.EntrustTable_today" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.BargainTable_today" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.BargainTable_history" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.EntrustTable_history" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.LuckyTable_history" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.EntrustNew" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TradeMenuNew" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TradeChecklistMenu" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TradeLogin1" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TradeLogin2" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.InitVerifedChuanCai" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.InitVerifedDongHai" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TradeLogin2dongfang" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TradeLogin2dongxing" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.TradeLogin2xiangcai" label="2131230720">
+<activity screenOrientation="1" name="com.android.dazhihui.trade.Transfertable_select" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.MovieWelcomeActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.HomeLibraryActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.HomePageActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.FilmDetailContentActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.PosterViewActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.CinemaDetailActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.CommonTicketPayConfirmActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.CinemaListByCityAndFilmActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.ActivityListActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.MorePageActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.LoginPageActivity" theme="16973833" label="2131230720" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.mopon.film.activity.LoginLibraryActivity" theme="16973833" label="2131230720" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.mopon.film.activity.FilmScheduleActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.CinemaScheduleActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.IndividualCenterActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.CinemaCommonTicketsListActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.MyOrdersActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.MyMovieTicketsActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.ChangeCityActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.ActivityCommonDetailActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.OrderAlertActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.OrderConfirmationActivity" theme="16973833" label="2131230720" launchMode="2">
+<activity screenOrientation="1" name="cn.mopon.film.activity.RegisterPageActivity" theme="16973833" label="2131230720" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.mopon.film.activity.UpcomingPageActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.FeedbackPageActivity" theme="16973833" label="2131230720" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.mopon.film.activity.ChangePhoneNumActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.PersonalInfoMaintainActivity" theme="16973833" label="2131230720" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.mopon.film.activity.MemberCommentsActivity" theme="16973833" label="2131230720" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.mopon.film.activity.TicketsDetailActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.SelectSeatActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.ActivitySeatDetailActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.HelpDetailActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.BuyTicketsHelpActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.ChangePwdActivity" theme="16973833" label="2131230720" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.mopon.film.activity.WanDaWebActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.ActivityPlanActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.AdsPageActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.ResetUserPwdActivity" theme="16973833" label="2131230720" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.mopon.film.activity.MoponWebViewActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.RangeListActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.UseIntroduceActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.MapViewGoogleActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name="cn.mopon.film.activity.MapViewBaiduActivity" theme="16973833" label="2131230720">
+5
+<service name="com.hundsun.mobile.hsbrowser.ProtectService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.hundsun.mobile.remotefile.RemoteFileService">
+<service enabled="true" name="com.hundsun.mobile.push.NotificationService" label="NotificationService">
+<service process=":remote" enabled="true" name="com.baidu.location.f" permission="android.permission.BAIDU_LOCATION_SERVICE">
+2
+<receiver name="com.hundsun.mobile.push.BootCompleteBroadcastReceiver">
+<receiver name="com.hundsun.mobile.push.NotifyBroadcastReceiver">
+0
+Owner: CN=wangjiao, OU=grcbank, O=grcbank, L=guangzhou, ST=guangdong, C=cn
+Issuer: CN=wangjiao, OU=grcbank, O=grcbank, L=guangzhou, ST=guangdong, C=cn
+Serial number: 4fa8f288
+Valid from: Tue May 08 18:16:40 CST 2012 until: Sun Jun 27 18:16:40 CST 2094
+Certificate fingerprints: 
+	MD5:9C:C2:A0:9D:C8:38:86:8F:91:A8:AE:5A:D6:52:3D:3C
+	SHA1: 53:06:6E:1A:28:91:FD:3E:0A:B5:73:2A:8F:52:76:FA:41:F0:69:23
+	SHA256: F3:28:49:8E:EC:22:DB:87:21:05:DA:03:46:95:F7:0F:D4:86:33:86:44:6D:9A:84:BE:E1:EC:DC:47:B7:69:34
+	Signature algorithm name: SHA1withRSA
+	version: 3

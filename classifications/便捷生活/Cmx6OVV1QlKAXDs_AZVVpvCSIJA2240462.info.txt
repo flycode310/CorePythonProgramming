@@ -1,0 +1,123 @@
+com.mobvoi.watch
+12060
+4.0.4.1
+10
+17
+37
+android.permission.ACCESS_LOCATION
+android.permission.GET_TASKS
+android.permission.DOWNLOAD_NOTIFICATION
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.ACCESS_GPS
+android.permission.READ_CALENDAR
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.WRITE_APN_SETTINGS
+android.permission.ACCESS_ASSISTED_GPS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.WRITE_SECURE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.RECEIVE_USER_PRESENT
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+44
+<activity icon="2130837831" screenOrientation="1" name="com.mobvoi.baiding.ui.LandingActivity" label="2131165184">
+<activity icon="2130837830" screenOrientation="1" hardwareAccelerated="true" name="com.mobvoi.wenwen.ui.NewHomeActivity" label="2131165184" windowSoftInputMode="32" launchMode="2">
+<activity icon="2130837830" screenOrientation="1" hardwareAccelerated="true" name="com.mobvoi.wenwen.ui.HomeActivity" label="2131165184" windowSoftInputMode="32" launchMode="2">
+<activity icon="2130837830" screenOrientation="1" hardwareAccelerated="true" name="com.mobvoi.wenwen.ui.ImportActivity" label="2131165184" windowSoftInputMode="4">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.baiding.v1.introduction.function.FunctionIntroductionActivity" label="2131165184">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.AnswerActivity" label="2131165184">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.HelpActivity" label="2131165203">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.SettingActivity" label="2131165204">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.AppRecommendActivity" label="2131165205">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.MessageActivity" label="2131165206">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.FeedbackActivity" label="2131165279" windowSoftInputMode="2">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.detail.TrainDetailActivity" label="2131165184">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.NormalWebActivity" label="2131165184" windowSoftInputMode="18">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.ThirdPartyMapChooseActivity" theme="16973835" label="2131165184">
+<activity screenOrientation="1" name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.user.LoginActivity" label="2131165184">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.user.BindSocialActivity" label="2131165184">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.map.MyLocationMapActivity" label="2131165184">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.share.ShareDialogActivity" theme="16973835" exported="false" windowSoftInputMode="2">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.share.SharePicActivity" theme="16973835" exported="false" windowSoftInputMode="2">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.share.ShareAppActivity" theme="16973835" exported="false" windowSoftInputMode="2">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.share.ShareBadgeActivity" theme="16973835" exported="false" windowSoftInputMode="2">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.map.PoiMapActivity" label="2131165184">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.SubscriptionActivity" label="2131165399">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.history.HistoryActivity" label="2131165404">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.setting.DebugSettingActivity" label="2131165204">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.ConstellationActivity" label="2131165401">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.WeatherActivity" label="2131165400">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.RemindListActivity" label="2131165361">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.AlarmListActivity" label="2131165388">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.WeatherCityActivity" label="2131165400" windowSoftInputMode="2">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.MovieActivity" label="2131165402">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.LocaleventActivity" label="2131165403">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.map.DrivingRouteDetailActivity" label="2131165372">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.map.TransitRouteDetailActivity" label="2131165372">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.map.WalkingRouteDetailActivity" label="2131165372">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.ReminderEditActivity" label="2131165355">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.subscription.AlarmEditActivity" label="2131165392">
+<activity icon="2130837830" screenOrientation="1" excludeFromRecents="true" name="com.mobvoi.wenwen.ui.ShowReminderDialog" theme="16973919" configChanges="240" label="2131165184" taskAffinity="" launchMode="3">
+<activity icon="2130837830" screenOrientation="1" excludeFromRecents="true" name="com.mobvoi.wenwen.ui.subscription.WorldCupActivity" theme="16973919" configChanges="240" label="2131165184" taskAffinity="" launchMode="3">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.SdkActivity" theme="16973840" taskAffinity="android.task.SdkActivityTask">
+<activity name="com.mobvoi.wenwen.ui.BigPictureActivity">
+<activity icon="2130837830" screenOrientation="1" name="com.mobvoi.wenwen.ui.activity.smart.location.SmartLocationSettingActivity" label="2131165437">
+<activity name="com.mobvoi.wenwen.ui.activity.smart.location.PoiSearchActivity" label="">
+13
+<service name="com.mobvoi.wenwen.wear.service.DataLayerListenerService">
+<service name="com.mobvoi.streaming.SpeechService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.mobvoi.wenwen.wear.service.WearRecordService">
+<service enabled="true" name="com.mobvoi.wenwen.core.service.TimeWatcherService">
+<service enabled="true" name="com.mobvoi.wenwen.core.service.PushService">
+<service enabled="true" name="com.mobvoi.wenwen.core.service.NotificationService">
+<service process=":pushservice" name="com.igexin.sdk.SdkMainService" exported="false" label="NotifyCenter">
+<service process=":pushservice" name="com.igexin.sdk.coordinator.SdkMsgService" exported="true" label="NotifyCenterAIDL">
+<service name="com.mobvoi.wenwen.core.service.HeartService">
+<service name="com.mobvoi.wenwen.core.service.E2ElogService">
+<service name="com.mobvoi.wenwen.core.service.LogService">
+9
+<receiver enabled="true" name="com.mobvoi.wenwen.core.receiver.ApkStatusReceiver">
+<receiver enabled="true" name="com.mobvoi.wenwen.core.receiver.DownloadReceiver">
+<receiver name="com.mobvoi.wenwen.core.receiver.NetworkChangeReceiver" label="NetworkChangeReceiver">
+<receiver name="com.mobvoi.wenwen.core.receiver.AlarmReceiver">
+<receiver name="com.mobvoi.wenwen.core.receiver.BootReceiver">
+<receiver name="com.mobvoi.wenwen.core.receiver.GexinSdkMsgReceiver" exported="false">
+<receiver name="com.igexin.sdk.SdkReceiver">
+<receiver name="com.igexin.sdk.coordinator.NotificationCenterAIDLReceiver">
+<receiver name="com.mobvoi.wenwen.core.receiver.PushReceiver">
+0
+Owner: CN=lab
+Issuer: CN=lab
+Serial number: 16817a6a
+Valid from: Tue Jan 15 14:33:32 CST 2013 until: Wed Jan 03 14:33:32 CST 2063
+Certificate fingerprints: 
+	MD5:97:AA:ED:E5:7E:B6:27:EA:E6:69:E0:A1:6E:DD:3A:7D
+	SHA1: 5C:C9:86:6D:B0:3E:53:0A:21:F8:42:A4:21:C7:EB:42:BA:C5:89:61
+	SHA256: 63:92:50:F4:4A:41:12:0E:22:56:36:90:58:35:BC:2C:14:25:24:DE:D4:5C:40:13:62:58:16:7B:74:66:56:69
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,160 @@
+com.baidu.yuedu
+54
+2.4.9
+9
+19
+36
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.MANAGE_ACCOUNTS
+android.permission.PERSISTENT_ACTIVITY
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+com.baidu.permission.SHARE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.RECEIVE_USER_PRESENT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+93
+<activity screenOrientation="1" name="com.baidu.yuedu.splash.WelcomeActivity" theme="16973837" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.yuedu.reader.pdf.PDFActivity" theme="16973830" configChanges="1073742000" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.account.ui.MyAccountActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.account.ui.SyncActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.account.ui.AboutActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.account.ui.AccountActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.account.note.MyNoteDetailActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.account.note.MyNoteBookActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.reader.bdjson.ui.ReopenBookLoadingActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.reader.bdjson.ui.NovelLoadingAcitivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.novelDetail.NoverDetailActiity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.novelDetail.NovelCatlogActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.h5interface.plugin.H5SubActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="32" launchMode="0">
+<activity name="com.baidu.yuedu.reader.ui.GestureImageActivity" theme="2131558500" configChanges="1073742000" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.base.ui.InnerBrowserActivity" theme="16973830" configChanges="1073741952" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.yuedu.account.ui.PurchaseRecordsActivity" theme="2131558437" configChanges="1073741952" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.detail.BookDetailActivity" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.comments.BookCommentsActivity" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.comments.CommentsEditActivity" theme="16973830" configChanges="1073742000" windowSoftInputMode="20" launchMode="0">
+<activity screenOrientation="1" name="com.baidu.yuedu.magazine.MagazineDetailActivity" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="com.baidu.yuedu.columns.classify.ClassifySelectActivity" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="com.baidu.yuedu.pay.ui.FastPayActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".bookshop.novelPay.ChapterPayActivity" theme="2131558437" configChanges="1073742000" label="2131493729" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.baidu.yuedu.account.feedback.FeedbackActivity" theme="2131558437" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.baidu.yuedu.magazine.history.MagazineHistoryActivity" theme="2131558437" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.yuedu.reader.codebutton.CodePreviewActivity" theme="16973831" configChanges="1152">
+<activity screenOrientation="1" name="com.baidu.bdreader.ui.BDReaderActivity" theme="16973831" configChanges="1152" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".bookshelf.MyYueduCatalogUpgradeActivity" theme="16973831" configChanges="1152" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.baidu.yuedu.reader.ui.NoteEditActivity" theme="2131558437" configChanges="1152" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.freezone.FreeDetailActivity" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="1">
+<activity name="com.baidu.yuedu.push.PushTestActivity">
+<activity name="com.baidu.yuedu.reader.album.AlbumActivity" theme="2131558500">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.FastRegActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.TitleActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.FillUnameActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.HomeActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.ImagePickerActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.LoginActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.LoginDialogActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.LoginFragActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.RegisterActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.SinaSSOLoginActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.SmsLoginActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.SocialLoginActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.v6.activity.UserProfileActivity" theme="2131558423" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.yuedu.base.ui.MainActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshelf.imports.ui.ImportPCActivity" theme="16973837">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshelf.imports.ui.ImportSDActivity" theme="16973837">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshelf.imports.ui.ImportScanResultActivity" theme="16973837">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshelf.imports.ui.ImportQRActivity" theme="16973837">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshelf.imports.ui.CameraActivity" theme="16973837">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.topic.ui.TopicListActivity" theme="2131558437" launchMode="0">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.topic.ui.TopicDetailActivity" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.search.NewSearchActivity" theme="2131558437" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.recBook.BookRecPageActivity" theme="2131558437" configChanges="1152" windowSoftInputMode="16" windowFullscreen="true" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.novelDetail.NovelDetailActivity" theme="2131558437">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.recommend.ColumnDetailActivity" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.yuedu.magazine.list.AllMagazineActivity" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.rank.RankDetailListAct" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.detail.MagazineDetailActivity" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="com.baidu.yuedu.bookshop.classify.ClassifyDetailListAct" theme="2131558437" configChanges="1073742000" windowSoftInputMode="32" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name=".wxapi.WXEntryActivity" theme="16973839" exported="true" label="2131493729">
+<activity name=".share.WeiBoShareActivity" theme="16973839" exported="true" label="2131493729">
+<activity name=".magazine.ui.MagazineGuideActivity" theme="16973840">
+<activity name="cn.domob.android.ads.DmActivity" theme="16973839">
+<activity name="com.wandoujia.ads.sdk.AppWallActivity" configChanges="1184" launchMode="1">
+<activity name="com.wandoujia.ads.sdk.AppWidgetContainerActivity" theme="16973840" configChanges="1184">
+<activity name="com.wandoujia.ads.sdk.InterstitialAdActivity" theme="16973840" configChanges="1184">
+<activity name="com.baidu.yuedu.noteexport.ui.BDReaderEvernoteActivity" configChanges="160">
+<activity name="com.baidu.evernote.client.android.EvernoteOAuthActivity" configChanges="160">
+<activity screenOrientation="1" name="com.baidu.dq.activity.RechargeActivity" theme="2131558438" configChanges="160" label="2131493729" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.baidu.dq.activity.WapPayActivity" theme="2131558438" configChanges="160" label="2131493729">
+<activity screenOrientation="1" name="com.baidu.dq.activity.PayResultActivity" theme="2131558438" configChanges="160" label="2131493729">
+<activity name=".wxapi.WXPayEntryActivity" theme="2131558421" exported="true">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.WelcomeActivity" theme="2131558413" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PayResultActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdCheckActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="4">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdSetActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="4">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdConfirmActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="4">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdPayActivity" theme="2131558412" configChanges="1248" exported="false" windowSoftInputMode="4">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdPaySmsActivity" theme="2131558412" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.WebViewActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindFirstActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="16">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindSecondActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindSecondCreditAcitvity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindSecondCredit2Activity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindThirdActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="16">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.SelectBindCardActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.LoginActivity" theme="2131558411" configChanges="1248" exported="false" windowSoftInputMode="2">
+4
+<service name="com.baidu.yuedu.push.PushService">
+<service name="com.baidu.sapi2.share.ShareService" exported="true">
+<service name="com.wandoujia.ads.sdk.DownloadService">
+<service process=":ks_service_v1" persistent="true" priority="1000" name="com.baidu.kspush.KsWebSocketService" exported="true">
+6
+<receiver name="com.baidu.sapi2.share.ShareReceiver" permission="com.baidu.permission.SHARE">
+<receiver name="com.baidu.share.ShareReceiver" permission="com.baidu.permission.SHARE">
+<receiver enabled="true" name="com.baidu.yuedu.push.PushReceiver">
+<receiver name="com.baidu.yuedu.download.YueduDownloadManager$NetworkReceiver">
+<receiver name="com.wandoujia.ads.sdk.AppChangedReceiver">
+<receiver enabled="true" name="com.baidu.kspush.KsPushServiceWaker">
+1
+<provider authorities="com.baidu.yuedu.loadfile" name="com.baidu.yuedu.JSLoadResourceProvider" exported="false">
+Owner: CN=yk
+Issuer: CN=yk
+Serial number: 4d3c2820
+Valid from: Sun Jan 23 21:07:44 CST 2011 until: Sun Jan 05 21:07:44 CST 2081
+Certificate fingerprints: 
+	MD5:13:A0:A8:01:9B:E4:01:5E:D2:0E:07:5D:82:4F:16:96
+	SHA1: 53:F7:FC:30:3A:BA:0B:B3:03:62:DD:3A:3D:D4:DD:1E:2C:64:67:76
+	SHA256: 06:5A:13:5E:57:3F:62:87:ED:63:E8:B9:DD:FD:81:64:C6:EC:C8:A0:D9:F3:D1:88:83:81:AF:49:23:E2:9A:64
+	Signature algorithm name: SHA1withRSA
+	version: 3

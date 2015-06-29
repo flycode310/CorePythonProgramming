@@ -1,0 +1,95 @@
+com.wt.tutor
+42
+5.2
+10
+-1
+29
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.BROADCAST_PACKAGE_CHANGED
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.SEND_SMS
+android.permission.BROADCAST_PACKAGE_INSTALL
+android.permission.BROADCAST_PACKAGE_REPLACED
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.BROADCAST_PACKAGE_ADDED
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+37
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WSplashActivity" theme="16973834" configChanges="1184" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WLoginActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WRegisterFirstActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WRegisterSecondActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WBaseEntryActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WProvinceActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WCityActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WGradeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WIntroVipActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WRecordListActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WConfirmPayActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WHelpActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WTestTeacherRoomActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WAboutUsActivity" configChanges="1184">
+<activity screenOrientation="0" name="com.wt.tutor.ui.actualize.activities.WTestWhiteBoardActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WModifyUserInfoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WForgetPasswordActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WGuideActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WNoteBookActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WPurchaseActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WNewPayPurchaseActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WMyOrderActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WSubmitOrderActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WOrderDetailActivity" configChanges="1184">
+<activity screenOrientation="0" name="org.vwork.mobile.ui.activity.ZCameraActivity" theme="16973834" configChanges="1184">
+<activity screenOrientation="1" name=".ui.display.activities.AWCalendarActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WOneToOneActivity" configChanges="1184">
+<activity screenOrientation="1" name=".ui.actualize.activities.WSettingActivity" configChanges="1184">
+<activity screenOrientation="1" name=".ui.actualize.activities.WEventActivity" configChanges="1184">
+<activity screenOrientation="1" name=".ui.actualize.activities.WEventShakeActivity" configChanges="1184">
+<activity screenOrientation="1" name=".ui.actualize.activities.WEventRulesActivity" configChanges="1184">
+<activity screenOrientation="1" name=".ui.actualize.activities.WEventSettingActivity" configChanges="1184">
+<activity screenOrientation="1" name=".ui.actualize.activities.WTaskCenterActivity" configChanges="1184">
+<activity screenOrientation="1" name=".WEntryActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.wt.tutor.ui.actualize.activities.WMessageSettingActivity" configChanges="1184">
+3
+<service process=":push" name="com.umeng.message.UmengService" exported="true" label="PushService">
+<service process=":push" name="com.umeng.message.UmengIntentService">
+<service name="com.umeng.message.UmengDownloadResourceService">
+6
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver process=":push" name="com.umeng.message.SystemReceiver">
+<receiver process=":push" name="com.umeng.message.MessageReceiver">
+<receiver process=":push" name="com.umeng.message.ElectionReceiver">
+<receiver name="com.umeng.message.RegistrationReceiver" exported="false">
+<receiver name="com.umeng.message.BootBroadcastReceiver">
+0
+Owner: CN=w, OU=wt, O=wtjy
+Issuer: CN=w, OU=wt, O=wtjy
+Serial number: 53a4ed36
+Valid from: Thu Dec 12 11:46:42 CST 2013 until: Mon Dec 06 11:46:42 CST 2038
+Certificate fingerprints: 
+	MD5:0E:E8:3F:57:AA:0E:25:68:12:C3:2E:20:D5:25:32:D9
+	SHA1: 67:5A:B1:8A:CC:C4:03:52:9C:85:1E:E0:66:74:35:CC:B7:C1:5F:83
+	SHA256: 04:9B:20:35:3E:9C:5E:F3:2D:1E:89:BC:B3:89:F4:69:61:DC:F9:28:79:E3:F5:7F:00:B5:E6:FC:4A:CD:06:6C
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,47 @@
+com.google.android.inputmethod.japanese
+6020722
+2.17.2072.3-arm
+14
+21
+6
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+15
+<activity enabled="2131689474" name="com.google.android.inputmethod.japanese.LauncherActivity" label="2131492949">
+<activity name="com.google.android.inputmethod.japanese.preference.MozcProxyPreferenceActivity">
+<activity name="com.google.android.inputmethod.japanese.preference.MozcFragmentPreferenceActivity" theme="2131623974" launchMode="2">
+<activity name="com.google.android.inputmethod.japanese.preference.MozcFragmentSoftwareKeyboardAdvancedSettingsPreferenceActivity" theme="2131623974" launchMode="1">
+<activity name="com.google.android.inputmethod.japanese.tv.TvPreferenceActivity" theme="2131623941" launchMode="2">
+<activity name="com.google.android.inputmethod.japanese.FirstTimeLaunchActivity">
+<activity name="com.google.android.inputmethod.japanese.preference.MiniBrowserActivity" launchMode="1">
+<activity name="com.google.android.inputmethod.japanese.userdictionary.UserDictionaryToolActivity" theme="2131623974" uiOptions="1" configChanges="1152" label="2131493264">
+<activity excludeFromRecents="true" name="com.google.android.inputmethod.japanese.mushroom.MushroomSelectionActivity" theme="16974130" windowSoftInputMode="3" taskAffinity=".mushroom" launchMode="2">
+<activity name="com.google.userfeedback.android.api.UserFeedbackActivity">
+<activity name="com.google.userfeedback.android.api.PreviewActivity">
+<activity excludeFromRecents="true" name="com.google.userfeedback.android.api.ShowTextActivity">
+<activity excludeFromRecents="true" name="com.google.userfeedback.android.api.ShowStringListActivity">
+<activity name="android.app.Activity">
+<activity name="com.google.android.inputmethod.japanese.preference.MozcPreferenceDummy">
+2
+<service name="MozcService" permission="android.permission.BIND_INPUT_METHOD" label="2131492949">
+<service name="com.google.userfeedback.android.api.SendUserFeedbackService">
+3
+<receiver name="com.google.android.inputmethod.japanese.LauncherIconVisibilityInitializer">
+<receiver enabled="false" name="com.google.userfeedback.android.api.FeedbackConnectivityReceiver">
+<receiver name="com.google.android.inputmethod.japanese.InputDeviceReceiver">
+1
+<provider authorities="com.google.android.inputmethod.japanese.userdictionary.UserDictionaryExportProvider" name="com.google.android.inputmethod.japanese.userdictionary.UserDictionaryExportProvider" grantUriPermissions="true" exported="false">
+Owner: CN=Unknown, OU="Google, Inc", O="Google, Inc", L=Mountain View, ST=CA, C=US
+Issuer: CN=Unknown, OU="Google, Inc", O="Google, Inc", L=Mountain View, ST=CA, C=US
+Serial number: 4934987e
+Valid from: Tue Dec 02 10:07:58 CST 2008 until: Sat Apr 19 10:07:58 CST 2036
+Certificate fingerprints: 
+	MD5:D0:46:FC:5D:1F:C3:CD:0E:57:C5:44:40:97:CD:54:49
+	SHA1: 24:BB:24:C0:5E:47:E0:AE:FA:68:A5:8A:76:61:79:D9:B6:13:A6:00
+	SHA256: 3D:7A:12:23:01:9A:A3:9D:9E:A0:E3:43:6A:B7:C0:89:6B:FB:4F:B6:79:F4:DE:5F:E7:C2:3F:32:6C:8F:99:4A
+	Signature algorithm name: MD5withRSA
+	version: 1

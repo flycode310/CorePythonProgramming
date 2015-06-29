@@ -1,0 +1,33 @@
+com.cjq.wxmap
+2001
+2.7
+8
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity name=".StartActivity" configChanges="160" label="2131034113">
+<activity name=".Baidumap_cjqActivity" configChanges="160" label="2131034113">
+<activity name=".AboutActivity" configChanges="160" label="2131034113">
+<activity name="com.cjq.wxmap.MyAdView" configChanges="160">
+0
+0
+0
+Owner: CN=cc, OU=cc, O=cc, L=shanghai, ST=cn, C=CN
+Issuer: CN=cc, OU=cc, O=cc, L=shanghai, ST=cn, C=CN
+Serial number: 4e46258d
+Valid from: Sat Aug 13 15:19:41 CST 2011 until: Sun May 16 15:19:41 CST 2066
+Certificate fingerprints: 
+	MD5:1A:33:CF:45:44:E9:EC:31:39:B7:35:7C:A3:5C:F6:35
+	SHA1: C9:ED:6B:2D:0B:66:2D:83:5B:1D:1A:24:EE:8B:79:8E:7A:98:1F:86
+	SHA256: CD:CF:B0:E6:E0:E2:F6:77:F5:7D:97:32:0E:80:19:50:12:79:BC:AE:F5:9C:D8:53:D1:06:6F:10:E1:C3:96:C2
+	Signature algorithm name: SHA1withRSA
+	version: 3

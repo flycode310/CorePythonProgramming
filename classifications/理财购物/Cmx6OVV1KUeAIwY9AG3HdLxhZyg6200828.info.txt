@@ -1,0 +1,35 @@
+com.gx.basketball
+22
+2.2
+7
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity screenOrientation="1" name=".BasketBallActivity" theme="16973831" configChanges="176" label="2131099649">
+<activity screenOrientation="1" name="com.start.FlashMain" theme="16973831" configChanges="176" label="2131099649">
+<activity screenOrientation="1" name="common.app.FlashScreenActivity" theme="16973831" label="2131099649">
+<activity screenOrientation="1" name="cn.game189.sms.SMS" theme="16973835" configChanges="160">
+3
+<service name="common.app.services.BackRunService">
+<service process="common.downloadService" name="common.app.services.DownloadService">
+<service process="common.UpdateService" name="common.app.services.UpdateService">
+0
+0
+Owner: CN=Great Chan, OU=GX, O=GX, L=BJ, ST=BJ, C=CN
+Issuer: CN=Great Chan, OU=GX, O=GX, L=BJ, ST=BJ, C=CN
+Serial number: 4e9670da
+Valid from: Thu Oct 13 13:02:18 CST 2011 until: Fri Jul 16 13:02:18 CST 2066
+Certificate fingerprints: 
+	MD5:FE:F8:C5:84:6C:AE:AC:44:92:11:1A:FD:A0:B9:F3:3B
+	SHA1: 3B:BF:20:31:60:9D:01:91:7E:77:4B:5F:86:80:43:63:56:17:26:92
+	SHA256: 73:01:E7:DE:3B:70:2E:5A:DF:F8:A2:1B:6D:F0:AA:EA:3F:C7:B8:A9:F8:CD:2F:59:96:75:BB:A1:14:7D:C9:4B
+	Signature algorithm name: SHA1withRSA
+	version: 3

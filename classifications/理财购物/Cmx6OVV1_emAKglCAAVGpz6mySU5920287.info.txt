@@ -1,0 +1,48 @@
+androidStock.stockStar
+1
+1.0.0.1
+4
+-1
+10
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INSTALL_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.READ_OWNER_DATA
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+13
+<activity name="StockApp" label="2131230721" launchMode="1">
+<activity name=".Activity.MyStockListActivity" configChanges="224">
+<activity name=".Activity.StockTabHostActivity" configChanges="224">
+<activity name=".Activity.MyStockSortActivity" configChanges="224">
+<activity name=".Activity.MyStockDelActivity" configChanges="224">
+<activity name=".Activity.StockSearchActivity" configChanges="224">
+<activity name=".Activity.SetupActivity" configChanges="224">
+<activity name=".Activity.AboutActivity" configChanges="224">
+<activity name=".Activity.KLineActivity" configChanges="224">
+<activity name=".Activity.RTActivity" configChanges="224">
+<activity name=".Activity.StockNewsActivity" configChanges="224">
+<activity name=".Activity.WidgetSetupActivity">
+<activity name=".Activity.WidgetStyleChooserActivity">
+3
+<service name=".service.StockWidgetService">
+<service name=".service.StockWidgetService2">
+<service name=".service.BroadcastSerivce">
+2
+<receiver name=".Widget.StockStarWidget" label="2131230774">
+<receiver name=".Widget.StockStarWidget2" label="2131230775">
+0
+Owner: OU=stockstar, O=stockstar, L=shanghai, C=cn
+Issuer: OU=stockstar, O=stockstar, L=shanghai, C=cn
+Serial number: 4b907648
+Valid from: Fri Mar 05 11:11:04 CST 2010 until: Tue Feb 27 11:11:04 CST 2035
+Certificate fingerprints: 
+	MD5:E5:DB:8B:3B:A5:04:7D:E2:11:B3:FB:06:F6:C5:48:C4
+	SHA1: 43:82:C3:5F:A0:50:80:D9:58:3B:34:56:36:84:73:05:3F:E2:CF:0B
+	SHA256: 14:CC:44:D2:37:6E:58:C4:B0:C0:67:3A:5C:FD:C1:0C:84:53:10:8C:BA:96:94:90:E8:1D:BA:1D:DE:47:93:34
+	Signature algorithm name: SHA1withRSA
+	version: 3

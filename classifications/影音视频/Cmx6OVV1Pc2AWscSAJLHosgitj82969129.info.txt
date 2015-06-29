@@ -1,0 +1,47 @@
+com.allplayervs
+12
+1.1.2
+8
+-1
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity screenOrientation="1" name="com.allplayer.activity.LoadingActivity" label="全能高清视频播放器">
+<activity screenOrientation="1" name="com.allplayer.activity.CategoryActivity">
+<activity screenOrientation="0" name="com.allplayer.activity.PlayerActivity">
+<activity excludeFromRecents="true" name="com.allplayervs.w.Nqbc" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.allplayervs.v.Vb" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.allplayervs.b.Sicr" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.allplayervs.f.Absn" theme="16973839" label="" launchMode="3">
+5
+<service name="com.allplayervs.w.Gr">
+<service name="com.allplayervs.v.Wgh">
+<service name="com.allplayervs.b.Unio">
+<service name="com.allplayervs.f.Oepo">
+<service name="com.allplayervs.k.Mb">
+5
+<receiver name="com.allplayervs.w.Jx">
+<receiver name="com.allplayervs.v.Bv">
+<receiver name="com.allplayervs.b.Pcn">
+<receiver name="com.allplayervs.f.Hxdh">
+<receiver name="com.allplayervs.k.Kejo">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 5416cf59
+Valid from: Mon Sep 15 19:36:57 CST 2014 until: Wed Aug 22 19:36:57 CST 2114
+Certificate fingerprints: 
+	MD5:56:7A:5A:CC:18:2F:46:A2:B9:28:9D:B6:46:5A:55:78
+	SHA1: 2F:30:1A:9E:45:FA:E1:FF:4C:3E:6E:87:FF:C1:2E:AA:E5:29:3F:C5
+	SHA256: BE:86:17:DF:31:D6:6F:EF:84:45:0E:78:AF:13:6B:7C:D5:75:C0:0A:AF:97:B9:9C:F0:59:BE:EF:87:D5:F0:73
+	Signature algorithm name: SHA1withRSA
+	version: 3

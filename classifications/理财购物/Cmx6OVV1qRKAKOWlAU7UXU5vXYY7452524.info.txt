@@ -1,0 +1,449 @@
+com.eg.android.AlipayGphone
+50
+8.0.3.0320
+9
+17
+40
+android.permission.GET_TASKS
+com.alipay.mobile.push.permission.PUSH_EVENT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+com.alipay.mobile.push.permission.PUSHSERVICE
+android.permission.CAMERA
+org.agoo.android.permission.MESSAGE
+com.taobao.permission.USE_CREDENTIALS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.NFC
+com.taobao.permission.UPDATE_CREDENTIALS
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+com.ut.permission.DEVICE_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PROFILE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+com.alipay.android.app.SHARE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+355
+<activity screenOrientation="1" name=".AlipayLogin" theme="16973840" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.mobile.core.guide.StartWelcomeActivity" theme="16973840" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.launcher.TabLauncher" configChanges="224" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.android.widgets.asset.AssetActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.publicadd.ui.PublicSearchActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.publicappdetail.ui.PublicDetailActivity_" configChanges="224" launchMode="0">
+<activity screenOrientation="1" name="com.alipay.mobile.android.main.publichome.ui.AlipayMessageActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.main.appscenter.AppsCenterActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.BillActivity" configChanges="224" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.TradeDetailActivity_" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.ObjectQueryActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.ObjectSetActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.TradeFlowActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.TradeRefundActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.TradeRemarkActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.DealActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.DealDetailActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.StatementsActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.StatementsSectorDetailActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.ConsumeRankActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.AnnualBillActivity_" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.BillShakeActivity_" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.BillShakeResultActivity_" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.mobile.android.bill.ui.BillPhotoFlingerActivity" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.android.client.BankCardDispatchActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.hello.ui.HelloMsgReceiverActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.hello.ui.HelloExServiceActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.hello.ui.HelloActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.RpcActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.ServiceActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.BalanceActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.helloworld.ui.MainActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.world.ui.AlipayLogAgentDemoActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.world.ui.WorldActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.world.ui.EditTextHasNullCheckerDemo" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.ui.card.AddBankCardRootControllerActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.comon.component.HtmlActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.bankcardmanager.ui.BankCardListActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.bankcardmanager.ui.BankCardDetailActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.bankcardmanager.ui.UnboundBankCardCellPwdActivity_" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.mobile.bankcardmanager.ui.UnboundBankCardPwdActivity_" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.mobile.bankcardmanager.ui.AddBankCardStepZeroActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.bankcardmanager.ui.AddBankCardStepOneActivity_" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.mobile.bankcardmanager.ui.AddBankCardStepTwoNewActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.bankcardmanager.ui.AddBankCardStepThreeActivity_" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.mobile.bankcardmanager.ui.AddBankCardStepFourActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.accountdetail.ui.AccountDetailActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.accountdetail.ui.AccountQrCodeActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.accountdetail.ui.AvatarViewActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.AccountInfo.ui.SecurityAccountQrCodeActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.AccountInfo.ui.SecurityAvatarViewActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.accountdetail.ui.CouponListActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.accountdetail.ui.CouponDetailActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.accountdetail.ui.PointListActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.phone.ui.PhoneActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.withdraw.ui.WithdrawActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.withdraw.ui.WithdrawSmsCheckActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayGuideActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayQualifyFailedActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayApplyActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayApplyCheckCodeActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayApplyResultActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayMainActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayBillDetailActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayRepayActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayBillActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPaySignCheckActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.creditpay.ui.CreditPayIsClosingActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.TravelCurrentListActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.TravelPastListActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.VoucherCurrentListActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.VoucherPastListActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.MemberCardCurrentListActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.MemberCardPastListActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.TravelUserGuideActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.AlipassNoNetWorkActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.alipay.android.alipass.ui.AlipassShareActivity_" theme="2131427561" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.AlipassRemindActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.AlipassDetailActivity_" configChanges="224" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.AlipassPreviewActivity_" configChanges="224" windowSoftInputMode="3">
+<activity name="com.alipay.android.alipass.ui.AlipassSchemeTransferActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.alipay.android.alipass.ui.AlipassForShareActivity_" theme="2131427567" configChanges="224" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.AlipassHtmlActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.AlipassHtmlActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.nfc.ui.AlipassWaveActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.nfc.ui.AlipassWaveActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.alipay.android.alipass.ui.AlipassQueryCardActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.MemberCardObtainableListActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.AlipassWebviewActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.alipay.android.alipass.ui.MemberCardDetailActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.MemberChargeOffActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.alipass.ui.MemberFirstDetailActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.security.authcenter.ui.CompletePhoneUserInfoActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityMainActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.JailbreakActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.GesturePasswordManagerActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.OtpManagerActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.ui.ModifyPayPwdActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.ui.ModifyLoginPwdActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.security.authcenter.ui.CompleteUserInfoActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.smart.etao.kakalib.capture.MutiModeActivity" theme="16973831" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.ui.ForgotPayPwdActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.ui.ForgotLoginPwdActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.ui.BindPhoneActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityDribbletActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityGradeActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityExaminationActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityCertifiedCardActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityCertifiedBankActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityCertifiedResultActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityOperateRecordsActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.PushSettingActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.security.authcenter.ui.login.LoginActivity_" theme="2131427562" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.security.authcenter.ui.ExternalLoginActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.security.authcenter.ui.RegisterNewActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.security.authcenter.ui.SmsCheckPage_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.ui.AccountManagerActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityPasswordManagerActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.security.mobileotp.ui.MobileOtpActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.security.mobileotp.ui.MobileOtpSolutionActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.security.gesture.ui.GestureActivity_" theme="16973831" configChanges="224" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.ui.SelectAccountActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.RobotXiaoBaoActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.about.ui.AboutMainActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.about.ui.AboutFeedbackActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.about.ui.AboutTheVersionActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.mobilerechargeapp.activity.MobileReChargePPBindMobileAcitvity_" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityAccountSecurityActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SecurityPasswordManagerForTUserActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayFormActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifePaySuccessActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayCityListActivity_" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayBillResultActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayHistoryActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayNewUserActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifePaySelectTypeActivity_" theme="16973840" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayInviteCityOpenBill_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayFromInnerToOpenBill_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayFromInnerToOpenBillSuccess_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayFromOutToOpentBill_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayBillDetailActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.lifepaymentapp.ui.LifepayAddAccountActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.Main" uiOptions="1" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayAgentPay" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayAgentSomeone" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayAgentAnylink" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayContact" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayRegister" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.Login" configChanges="224" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.alipay.android.client.lifePayment.PaymentCity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.SubItemPucPayActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.SubItemPucPayNewActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.LifePayPaymentAuccActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.LifePayBindAccountActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.SubscribeBillNewActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.android.world.ui.PhoneCashierDemoActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.LifePayHistoryActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.LifePayHistoryNewActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.SubscribeBillActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.core.ActivityShell" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.core_new.ActivityShell" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.home.TransferHomeActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.home.TransferHomeGuideActivity" theme="16973840" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.toaccount.TransferToMobileActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.toaccount.TransferToMobileConfirmActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.toaccount.TransferToMobileSuccessActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.toaccount.TransferToMobileResultActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.tocard.PpBindCardActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.tocard.TransferToCardFormActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.tocard.TransferToCardResultActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.tocard.TransferToCardConfirmActivity_" configChanges="224" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.tocard.BankSelectActivity_" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.tocard.AccountSelectActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.toaccount.TransferToAccountActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.toaccount.TransferToAccountSuccessActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.mobilecontact.MobileContactListActivity_" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.accountcontact.AccountContactListActivity_" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.tocard.TransferForBillActivity_" theme="16973840" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.common.views.TransferHtmlActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.toaccount.TransferForCreateOrder_" theme="16973840" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.tocard.TransferCardToCardFormActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.transferapp.tocard.CardToCardAccountSelectActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.ui.quickpay.QuickPayRootControllerActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.ui.voucher.VoucherIndexActivity" configChanges="224" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.android.ui.card.CardManagerRootControllerActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.appHall.component.accountbox.AlipaySearchAccountActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.appHall.component.accountbox.AlipayContact" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.etao.kakalib.EtaoCaptureActivity" theme="16973834" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.etao.kakalib.KakaLibProductResultActivity" theme="16973833" configChanges="160" label="2131361836" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.EtaoGoodsActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.alipay.android.client.EtaoWebActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.alipay.mobile.browser.HtmlActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.browser.HtmlActivityV2_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.main.ui.MainActivity_" configChanges="224" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.android.avatar.process.EditAvatarModActivity" theme="16973839" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.android.avatar.process.EditAvatarActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.test.ui.MainActivity" configChanges="224" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.test.ui.SActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.test.ui.CacheManagerActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.demo.view.MainActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.demo.view.TwoActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.ui.voucher.VoucherDetailActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.deviceAuthorization.ui.AuthorizationActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.deviceAuthorization.ui.AuthAdminActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.deviceAuthorization.ui.ScanToLoginOrConfirmActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.gamecardapp.ui.GameCardFormActivity_" configChanges="224" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.gamecardapp.ui.GameCardConfirmActivity_" configChanges="224" windowSoftInputMode="18">
+<activity name="com.alipay.mobile.security.authcenter.ui.TaobaoBindingAlipayUserActivity_" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.push.adapter.AlipayPushUpgrade" theme="2131427533" configChanges="224">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.alipay.mobile.push.integration.PushDialogActivity" theme="16973835" configChanges="224" taskAffinity="" launchMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.mobilerechargeapp.activity.MobileRechargeActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.mobilerechargeapp.activity.MobileRechargeInputActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.mobilerechargeapp.activity.MobileRechargeCashierActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CcrIndexActivity_" configChanges="224" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.NewUserRepaymentActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.BillQueryIndexActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.BillSettingRemind_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CardManageActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.OldCardRepaymentActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CreditCardOutCallEntry_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.RemindSettingActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.PushWebViewActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.ChoiceBankActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.RepaymentSuccessResultActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.test.ui.SchemaTestActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.alipay.mobile.appstoreapp.ui.AppLaunchFromShortcutActivity" theme="2131427568" configChanges="224" windowSoftInputMode="16" taskAffinity="com.alipay.shortcut">
+<activity screenOrientation="1" name="com.alipay.mobile.authorization.ui.AuthorizationActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.authorization.ui.AuthorizationCheckProtocol" theme="2131427568" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.appstoreapp.ui.AppDetailActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.appstoreapp.ui.AlipayAppActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.appstoreapp.ui.AppStoreActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.NickNameImplementationActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.facepayment.payee.FacePayeeActivity_" configChanges="224" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.facepayment.payer.FacePayerActivity" configChanges="224" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.facepayment.payer.sound.SendSoundViewActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.facepayment.payer.confirm.C2BConfirmActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.facepayment.payer.confirm.C2CConfirmActivity_" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.facepayment.payer.barcode.BarcodePayActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.facepayment.payer.barcode.GuideActivity" theme="16973840" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundIndexActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundIndexBlackActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundShakeActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundSignActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundMainNewActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundIncomeListActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundTransferActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundTransferOutActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundTransferOutNewActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundTradeRecordActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundRegisterTransferIn_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundUserIdentityVerifyActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundSelectCardActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.fund.ui.FundSignCheckActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.bollywood.ui.BollywoodProductDetailActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.bollywood.ui.BollywoodProductPayActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.bollywood.ui.BollywoodProductPayResultActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.bollywood.ui.BollywoodLauncherActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.apk.shell.ActivityShell" theme="2131427418" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.apk.shell.FragmentActivityShell" theme="2131427418" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.smart.eye.BumpcardActivity" theme="16973831" configChanges="1184">
+<activity screenOrientation="0" name="com.alipay.smart.eye.CameraActivity" theme="16973831" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.mobile.ccbapp.ui.CcbBillDetailActivity_" configChanges="224" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.ccbapp.ui.CcbBillListActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.ccbapp.ui.CcbCardSettingActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.ccbapp.ui.CcbImportActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.ccbapp.ui.CcbMailAuthActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.ccbapp.ui.CcbMailManager_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.ccbapp.ui.CcbMailSettingActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.ccbapp.ui.CcbWelcomeActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.alipay.android.shareassist.ui.ShareSelectActivity" theme="2131427412" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.shareassist.ui.WeiboEditActivity" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.android.shareassist.ui.WeiboAuthActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.shareassist.ui.ShareEntryActivity" theme="2131427412" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.mapassist.ui.MapMainActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.mapassist.ui.RouteDetailActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.pubsvc.ui.PublicAccountHomeActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.pubsvc.ui.PublicAccountSettingActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.pubsvc.ui.PubThirdAccountSettingActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.pubsvc.ui.PubSetRemarkNameActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.pubsvc.ui.PubSvcTradeActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.security.authcenter.ui.login.AccountSwitchActivity_" theme="2131427570" configChanges="224">
+<activity fadingEdge="0" screenOrientation="1" name="com.alipay.mobile.security.mobileotp.ui.DeviceAuthActivice" theme="16973840" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.pubsvc.ui.PublicCallingCardActivity" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.deviceAuthorization.ui.ScanErrorActivity" configChanges="224" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.alipay.android.app.pay.MainActivity" theme="2131427436" configChanges="1152" label="2131362178" windowSoftInputMode="0" launchMode="1">
+<activity excludeFromRecents="true" name="com.alipay.android.app.pay.TransContainer" theme="2131427433" configChanges="1152" launchMode="1">
+<activity excludeFromRecents="true" name="com.alipay.android.app.pay.HyperlinkActivity" theme="2131427433" configChanges="224" launchMode="1">
+<activity excludeFromRecents="true" name="com.alipay.android.mini.window.MiniWebActivity" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name="com.alipay.android.setting.activity.EntranceActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.setting.activity.NoPasswordActivity" theme="2131427434" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.setting.activity.PaymentChannelActivity" configChanges="224" windowSoftInputMode="16">
+<activity excludeFromRecents="true" name="com.alipay.android.mini.window.MiniPayActivity" theme="2131427433" configChanges="1152" label="2131362178" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.alipay.mobile.pubsvc.ui.PubHtmlActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.card.scanner.CardScanActivity" theme="2131427432">
+<activity screenOrientation="1" name="com.alipay.logistics.ui.ExpressMainScreenActivity_" configChanges="224" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.alipay.logistics.ui.LogisticsDetailActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.logistics.ui.ComListActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.logistics.ui.HistoryQueryListActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.logistics.ui.BillPayActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.logistics.ui.PayRecordActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.logistics.ui.PayDetailActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.logistics.ui.PayResultActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.logistics.ui.OrderExpressShowActivity_" configChanges="224" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.alipay.mobile.facepayment.C2CPayeeActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.IdCardVerifyActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.IndependentPwdSettingActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.ModifySimplePwdActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.deviceAuthorization.ui.LoginLogsActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.deviceAuthorization.ui.LoginLogsWelcomeActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.deviceAuthorization.ui.AuthorizeLogsActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.ui.WapForgotPayPwdActivity_" configChanges="224" windowSoftInputMode="16">
+<activity excludeFromRecents="true" name="com.alipay.android.app.pay.PageForBrowser" theme="16973841" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CcrDeductWelcome_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CcrDeductSettingActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CcrDeductSelectPaySource_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CcrDeductSelectDeductTypeActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CcrDeductSetSuccessActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CcrDeductManagerActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.ccrapp.ui.CcrDeductYuEBaoAuthActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.h5container.ui.WebviewActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.scan.as.main.MainCaptureActivity" theme="16973831" configChanges="224" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.alipay.mobile.scan.as.router.CodeRouteActivity" theme="16973840" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.scan.as.tool.CallbackProxyActivity" theme="16973840" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.scan.as.tool.ToolsCaptureActivity" theme="16973831" configChanges="224" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.goods.GoodsPurchaseActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.goods.PurchaseSuccessActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.price.EtaoGoodsActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.price.EtaoWebActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.price.misc.BarcodeExpActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.bankcard.BankCardDispatchActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.account.AccountCodeActivity_" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.alert.SimpleAlertActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.operation.OperationCodeActivity" theme="16973840" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.mob.components.common.MobWebView" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.ReportLossActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.AccountInfo.ui.AccountInfoActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.deviceAuthorization.ui.PermAuthActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.deviceAuthorization.ui.TempAuthActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.AccountInfo.ui.SecurityBindPhoneActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.security.accountmanager.AccountInfo.ui.ShareSavePicThireBtnActivity" theme="16973839" configChanges="224" windowSoftInputMode="3">
+<activity name="com.alipay.mobile.look.biz.AlipayApiBroadcastReceiver">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.SmsCheckActivity_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.ValidatePayPwdAcitivyt_" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.aapay.ui.AaMainActivity" configChanges="224" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.alipay.mobile.aapay.ui.AaPayerActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.aapay.ui.AccountContactListMulActivity_" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.aapay.ui.MoneySettingActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.aapay.ui.AaBillHistoryActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.mobile.aapay.ui.AaBillInfoActivity" configChanges="224" windowSoftInputMode="18">
+<activity enabled="true" screenOrientation="1" excludeFromRecents="true" name="com.alipay.mobile.nfc.ui.NFCBeamActivity" theme="16973837" windowSoftInputMode="3" launchMode="1">
+<activity enabled="true" screenOrientation="1" name="com.alipay.mobile.nfc.ui.NFCMainActivity" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.alipay.mobile.nfc.ui.NFCFeedBackActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.nfc.ui.NFCAppDetailActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.mobile.common.ui.contacts.ContactListViewActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.widget.security.ui.NFCSettingActivity_" configChanges="224" windowSoftInputMode="2">
+22
+<service enabled="true" name="com.alipay.android.app.alipass.service.UploadAlipassService">
+<service enabled="true" name="com.alipay.android.app.alipass.service.UploadAlipassService$UploadAlipassIntentService">
+<service enabled="true" name="com.alipay.mobile.datatunnel.DataTunnelService" label="DataTunnelService">
+<service name="com.alipay.mobile.datatunnel.DataTunnelTriggerService">
+<service process="com.alipay.pushservice" enabled="true" name="com.alipay.pushsdk.push.NotificationService" exported="true" permission="com.alipay.mobile.push.permission.PUSHSERVICE" label="NotificationService">
+<service name="com.alipay.pushsdk.deliver.PushReportIntentService" exported="true" permission="com.alipay.mobile.push.permission.PUSHSERVICE">
+<service name="com.alipay.mobile.push.integration.RecvMsgIntentService" exported="true" permission="com.alipay.mobile.push.permission.PUSHSERVICE">
+<service name="com.alipay.mobile.push.integration.PushDistributerService" exported="false">
+<service name="com.alipay.mobile.longlink.service.LongLinkService">
+<service name="com.alipay.android.ipp.binder.IppService">
+<service name="com.alipay.android.longlink.VerifyLinkService">
+<service name="com.alipay.mobile.about.service.UpdateDownloadCancelService">
+<service name="com.alipay.mobile.appstoreapp.download.ExternalDownloadIntentService">
+<service name="com.alipay.mobile.security.authcenter.extservice.AliPayAuthService" exported="false">
+<service name="com.alipay.mobile.extphonecashier.AidlService" exported="false">
+<service name="com.alipay.mobile.framework.ext.MicroAppManagerService" exported="false">
+<service name="com.alipay.mobile.push.ext.AliPayPushService" exported="false">
+<service name="com.taobao.android.sso.internal.PidGetterService" exported="true">
+<service enabled="false" name="com.taobao.android.sso.internal.AuthenticationService" exported="true" permission="android.permission.ACCOUNT_MANAGER">
+<service name="com.alipay.mobile.security.authcenter.androidaccountmanager.AlipayAuthenticationService" exported="true">
+<service name="com.alipay.android.setting.request.RequestService" exported="false">
+<service name="com.alipay.android.app.MspService" exported="true">
+11
+<receiver name="com.alipay.pushsdk.BroadcastActionReceiver" permission="com.alipay.mobile.push.permission.PUSH_EVENT">
+<receiver name="com.alipay.mobile.appstoreapp.util.PackageReplacedReceiver" exported="true">
+<receiver name="com.alipay.mobile.base.alivereport.AliveReportBroadCastReceiver">
+<receiver name="com.alipay.mobile.base.config.impl.ConfigServiceImpl$AliveBroadCastReceiver">
+<receiver name="com.ut.device.BQueryWhoHasOne" exported="true" permission="com.ut.permission.DEVICE_STATE">
+<receiver name="com.ut.device.BFoundIt" exported="true" permission="com.ut.permission.DEVICE_STATE">
+<receiver name="com.alipay.mobile.datatunnel.trigger.PushTrigger">
+<receiver name="com.alipay.mobile.datatunnel.trigger.PushTimeTrigger">
+<receiver name="com.alipay.mobile.datatunnel.trigger.NetworkTrigger">
+<receiver name="com.alipay.mobile.ccbapp.manager.PollingQueryTaskReceiver">
+<receiver name="com.alipay.android.app.AlarmReciver">
+1
+<provider authorities="com.alipay.android.app.gphone.share" name="com.alipay.android.app.UserIdShareProvider" exported="true">
+Owner: CN=shiqun.shi, OU=alipay, O=alipay, L=beijing, ST=beijing, C=cn
+Issuer: CN=shiqun.shi, OU=alipay, O=alipay, L=beijing, ST=beijing, C=cn
+Serial number: 4b28a3c9
+Valid from: Wed Dec 16 17:09:29 CST 2009 until: Tue Jan 10 17:09:29 CST 2051
+Certificate fingerprints: 
+	MD5:40:6D:51:50:E6:43:81:12:4A:7E:85:69:F9:78:4E:D0
+	SHA1: 84:0F:34:3A:0E:FC:32:5B:A0:BF:75:DA:C8:35:E4:D5:87:03:34:35
+	SHA256: 38:9B:49:F7:83:2F:53:E9:01:79:23:22:0A:A8:5E:14:DF:AA:48:86:EC:D7:42:88:18:BF:33:95:43:CF:49:8A
+	Signature algorithm name: MD5withRSA
+	version: 1

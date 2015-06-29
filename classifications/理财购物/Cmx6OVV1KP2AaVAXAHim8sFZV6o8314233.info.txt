@@ -1,0 +1,137 @@
+com.beijing.cupmp
+32766
+2.4.2
+8
+-1
+17
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+95
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.ImppActivity" configChanges="160" label="2131099649">
+<activity screenOrientation="1" name="com.polyvi.activity.LaunchActivity" theme="16973833" configChanges="160" label="2131099649">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.common.CommonChargeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.common.CommonAddAccountActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.common.CityActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.game.GameRechargeActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.HomePageActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.cupmobile.PaywayActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.cupmobile.PaymentInitialActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.cupmobile.PaymentActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.cupmobile.PaymentBankListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.cupmobile.UPCardPaymentActivity" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.vip.card.VipCardRecordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.vip.card.VipCardMarketDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.vip.card.VipCardMarketActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.vip.card.VipCardMarketSubjectActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.vip.card.VipCardDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.vip.card.VipCardChargeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.vip.card.VipCardActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.BankCardActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.cupmobile.MyBillActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.notice.NoticeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.notice.NoticeCouponDetaiActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.notice.NoticeActivityDetaiActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.notice.NoticeBillDetaiActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.notice.NoticeGeneralDetaiActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.ActivityWebViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.UserLoginActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.UserLoginHaveCardActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.UserLoginLockPatternActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.UserLoginAgreementActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.UserResetPasswordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.UserRegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.UserResetLockPatternActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.UserTimeoutLockPatternActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalCenterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalInfoEditActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalSDInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalSDPwdModifyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalPwdManageActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalPwdModifyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalLockPatternActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalContactsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.user.PersonalShippingAddressActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.more.MoreActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.more.FeedBackActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.more.HelpActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.more.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coupon.CouponActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coupon.CouponMarketActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coupon.CouponMarketDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coupon.CouponDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.cropimage.CropImageActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.GlobalMerchantListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.GlobalMerchantMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.phone.PhoneRechargeActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.CreditCardActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.BuyRecordDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.BuyRecordListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.Select3DBallActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.SelectDoubleBallActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.SelectSevenBallActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.TakeCashActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.ChargeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.SelectedListActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.LotteryIndexActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.UserInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.WinRecordDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.lottery.WinRecordListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.QueryBalanceActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.QueryBalanceCardListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.QueryBalanceResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.common.CommonBillActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.CashChargeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.QueryBalanceNewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.VerifySDPinActivity" theme="2131361815" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.SupportBankListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.bank.SupportBankInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.more.DownloadActivity" configChanges="160" launchMode="3">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.IndexActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.SelectTargetStationActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.SelectStartCityActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.SelectStartStationActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.BuyRecordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.BuyRecordDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.QueryCoachActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.CoachDetailActivity" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.NoticeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.ContactActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.PassengerIndexdActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.SureOrderActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.AddOrEditPassengerActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.coachticket.CalendarActivity" configChanges="160">
+<activity screenOrientation="1" name="com.polyvi.cupmp.ui.common.CommonAddExtraActivity" configChanges="160">
+4
+<service enabled="true" name="com.polyvi.cupmp.ui.util.download.DownloadService">
+<service enabled="true" name="com.polyvi.cupmp.service.LockScreenService">
+<service enabled="true" name="com.polyvi.cupmp.service.NotificationService" label="NotificationService">
+<service name="com.polyvi.cupmp.OpenUDID.OpenUDID_service">
+0
+1
+<provider authorities="com.polyvi.cupmp.cache" name="com.polyvi.cupmp.db.provider.CacheContentProvider" exported="false">
+Owner: CN=天源迪科, OU=天源迪科, O=天源迪科, L=合肥, ST=安徽, C=86
+Issuer: CN=天源迪科, OU=天源迪科, O=天源迪科, L=合肥, ST=安徽, C=86
+Serial number: 4fd1529e
+Valid from: Fri Jun 08 09:17:18 CST 2012 until: Sun May 15 09:17:18 CST 2112
+Certificate fingerprints: 
+	MD5:A4:D4:15:75:85:86:3F:98:8B:9F:93:8B:2C:2B:DB:1E
+	SHA1: 69:32:F3:C0:C2:21:D1:FE:C4:51:A7:31:61:44:A2:9C:F3:8A:05:F8
+	SHA256: 0E:8E:DD:32:F5:CA:E5:E8:B0:4E:13:A2:44:80:DE:43:71:0C:D5:79:B5:D6:A3:10:B4:CB:5B:93:56:4A:39:84
+	Signature algorithm name: SHA1withRSA
+	version: 3

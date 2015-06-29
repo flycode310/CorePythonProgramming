@@ -1,0 +1,81 @@
+com.huimai.hjk365
+14
+1.0.0.6.0104
+10
+19
+18
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+41
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.HomeAct" theme="2131361827" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.MySelfAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.SplashAct" theme="2131361825">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.GuideAct" theme="2131361825" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.OrderListAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.OrderDetailsAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.OrderTractAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.GoodsBannerListAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.SaleTopicAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.SaleSpecialAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.LoginAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.RegisterAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.FindPawAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.SendEmailAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.SendPhoneAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.SetNewPawAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.SecussecAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.HistoryAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.CollectAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.RealNameAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.SeckillAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.GoodsDetailsAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.Live800Act" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.GoodsBigImageAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.GoodsCommentListAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.ShoppingCarAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.AboutAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.UserCommentAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.AddressAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.EditAddressAct" theme="2131361817" launchMode="2">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.PubGoodsCommentAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.ConfirmOrderAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.OrderSuccessAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.OrderPayAct" theme="2131361817">
+<activity screenOrientation="1" name="com.huimai.hjk365.activity.OrderGoodsListAct" theme="2131361817">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131361811" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.huimai.hjk365.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity" theme="16973830">
+<activity name="com.unionpay.uppay.PayActivity">
+2
+<service name="com.huimai.hjk365.base.MainService">
+<service name="com.huimai.hjk365.base.VersionManagerService">
+0
+0
+Owner: CN=ruiyong du, L=beijing, ST=china, C=86
+Issuer: CN=ruiyong du, L=beijing, ST=china, C=86
+Serial number: 5446270d
+Valid from: Tue Oct 21 17:27:41 CST 2014 until: Sun Feb 21 17:27:41 CST 3013
+Certificate fingerprints: 
+	MD5:0D:A7:A7:C3:F8:5D:AF:0A:F0:9F:E0:BA:47:DE:22:7B
+	SHA1: B7:67:73:6A:00:B7:62:8E:39:37:25:EE:50:53:2C:A1:10:44:95:D5
+	SHA256: 40:49:31:4D:69:FF:86:C7:D9:5C:BA:58:E6:55:AE:51:7B:CC:D0:37:06:41:33:0A:4E:03:24:9C:89:EA:BD:5D
+	Signature algorithm name: SHA1withRSA
+	version: 3

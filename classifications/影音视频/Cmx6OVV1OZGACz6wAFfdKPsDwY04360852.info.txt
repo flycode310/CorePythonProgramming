@@ -1,0 +1,56 @@
+com.ifafa.bbcradio
+1
+1.0.1
+9
+14
+10
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+19
+<activity screenOrientation="1" name=".activity.ActivityLoading" theme="16973830" label="2131165184">
+<activity screenOrientation="1" name=".activity.ActivityRadioPlayBill" theme="16973830">
+<activity screenOrientation="1" name=".activity.ActivityMain" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".activity.ActivitySetting" theme="16973830">
+<activity screenOrientation="1" name=".activity.ActivityRadioPlayer" theme="16973830">
+<activity screenOrientation="1" name=".activity.ActivityHistoryBookList" theme="16973830">
+<activity screenOrientation="1" name=".activity.ActivityLikeBookList" theme="16973830">
+<activity screenOrientation="1" name="com.ifafa.recommendapp.ActivityRecommendApps" theme="16973830">
+<activity screenOrientation="1" name=".activity.ActivityTimerClose" theme="16973835">
+<activity name="com.ifafa.sexgirl.activity.ActivityPictureList1" theme="16973837">
+<activity name="com.ifafa.sexgirl.activity.ActivityPictureList4" theme="16973837">
+<activity name="com.ifafa.sexgirl.activity.ActivityPictureList2" theme="16973837">
+<activity name="com.ifafa.sexgirl.activity.ActivityShare" theme="16973837">
+<activity name="com.ifafa.sexgirl.activity.ActivityRecommendApps" theme="16973837">
+<activity name="com.ifafa.sexgirl.activity.ActivityPictureList3" theme="16973837">
+<activity name="com.ifafa.sexgirl.activity.FragmentActivityMore" theme="16973837">
+<activity name="com.ifafa.sexgirl.activity.ActivityPictureList5" theme="16973837">
+<activity screenOrientation="1" excludeFromRecents="true" name=".kugo.MyActivity" configChanges="160" launchMode="2">
+<activity excludeFromRecents="true" name="com.ifafa.ghoststory.DetailActivity" configChanges="160" launchMode="2">
+3
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":MyDownloadService" name="com.ifafa.recommendapp.MyDownloadService" exported="false">
+<service name=".manager.PlayService" exported="false">
+4
+<receiver name=".receiver.AlarmReceiver" exported="false">
+<receiver name=".kugo.MyMR">
+<receiver name=".receiver.AlarmReceiver" exported="false">
+<receiver name="com.ifafa.ghoststory.CpReceiver">
+0
+Owner: CN=iting360, OU=iting360, O=iting360, L=ctu, ST=sichuan, C=zh
+Issuer: CN=iting360, OU=iting360, O=iting360, L=ctu, ST=sichuan, C=zh
+Serial number: 61286499
+Valid from: Tue Mar 26 14:29:16 CST 2013 until: Wed Dec 28 14:29:16 CST 2067
+Certificate fingerprints: 
+	MD5:1A:5E:E5:F7:46:4A:1B:5B:BD:8B:CA:9D:8C:40:92:3B
+	SHA1: 91:53:35:62:FA:5C:30:DC:E1:C6:3C:12:19:5F:27:1F:09:96:BE:0E
+	SHA256: C7:93:B0:5B:49:3A:E9:E9:3A:A4:C1:3F:33:A4:21:D7:AD:31:46:01:71:5E:72:54:E3:CA:87:54:D8:CB:48:99
+	Signature algorithm name: SHA256withRSA
+	version: 3

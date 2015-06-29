@@ -1,0 +1,68 @@
+com.mg.callrecord
+18
+2.0.1
+8
+19
+17
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+24
+<activity screenOrientation="1" name="com.mg.callrecord.module.LogoActivity" label="2131230720">
+<activity screenOrientation="1" name="com.mg.callrecord.module.main.MainActivity" label="2131230720">
+<activity screenOrientation="1" name="com.mg.callrecord.module.record.RecordActivity" label="2131230720">
+<activity screenOrientation="1" name="com.mg.callrecord.module.edit.RingdroidEditActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.manager.SearchActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.setting.SettingActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.setting.FileChooseActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.setting.RecordNumberAcitivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.setting.ContactsActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.setting.HelpActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.setting.AboutActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.setting.NumberSettingActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.setting.DingzuoActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.manager.RecordListActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.classify.ClassifyManagerActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.lock.LockActivity" label="2131230720" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.lock.LockSetupActivity" label="2131230720" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mg.callrecord.module.lock.TestActivity" label="2131230720" windowSoftInputMode="2">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity name="com.wandoujia.ads.sdk.AppWallActivity" configChanges="1184" launchMode="1">
+<activity name="com.wandoujia.ads.sdk.AppWidgetContainerActivity" theme="16973840" configChanges="1184">
+<activity name="com.wandoujia.ads.sdk.InterstitialAdActivity" theme="16973840" configChanges="1184">
+4
+<service name="com.mg.callrecord.service.CallService">
+<service name="com.mg.callrecord.service.RecorderService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.wandoujia.ads.sdk.DownloadService">
+3
+<receiver name="com.mg.callrecord.broadcast.PhoneStatReceiver">
+<receiver enabled="true" name="com.mg.callrecord.broadcast.BootReceiver">
+<receiver name="com.wandoujia.ads.sdk.AppChangedReceiver">
+0
+Owner: CN=xiaoxiao, OU=xiaoxiao, O=xiaoxiao, L=pudong, ST=shanghai, C=CH
+Issuer: CN=xiaoxiao, OU=xiaoxiao, O=xiaoxiao, L=pudong, ST=shanghai, C=CH
+Serial number: 534d4097
+Valid from: Tue Apr 15 22:22:15 CST 2014 until: Thu Mar 22 22:22:15 CST 2114
+Certificate fingerprints: 
+	MD5:02:FB:85:74:D5:5A:27:F6:08:C7:89:5C:BE:89:49:BD
+	SHA1: 30:DD:6C:31:7A:20:13:6F:6E:95:11:01:9E:E0:DD:90:97:5A:69:08
+	SHA256: 9E:7D:16:1F:29:32:18:27:B4:0C:B9:54:06:AD:85:D7:01:82:EA:60:31:8F:F1:CC:E7:3B:39:21:26:58:2D:6B
+	Signature algorithm name: SHA1withRSA
+	version: 3

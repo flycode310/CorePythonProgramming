@@ -1,0 +1,82 @@
+com.mrkj.cartoon
+22
+2.2
+8
+18
+17
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+38
+<activity screenOrientation="1" name=".ui.WelcomeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.MainActivity" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".ui.MyCartoonActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.MyCartoonFragment" configChanges="160">
+<activity screenOrientation="1" name=".ui.PushCartoonActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.SearchActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.SearchResultActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.TypeSearchActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.CartoonDetailsActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.MyDownActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.GroomsActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.ReviewActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.ToReViewActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.CommentDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.ReplyActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.MoreActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.FeedbackActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.FeedbackListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.UserLoginActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.UserInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.SettingActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.UserInfoEditActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.OtherUserActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.OtherHouseActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.OtherCommentActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.EditSignatureActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.EditNameActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.DownloadActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.DownloadListActivity" configChanges="160">
+<activity name=".ui.ReadCartoonActivity" configChanges="176">
+<activity name=".ui.CartoonShareActivity" configChanges="160" windowSoftInputMode="16">
+<activity name=".ui.CartoonMarkActivity" theme="16973835" configChanges="160">
+<activity screenOrientation="-1" name=".ui.ReadSetActivity" theme="16973835" configChanges="160">
+<activity name="com.baidu.android.pushservice.richmedia.MediaViewActivity" configChanges="160" label="MediaViewActivity">
+<activity name="com.baidu.android.pushservice.richmedia.MediaListActivity" configChanges="160" label="MediaListActivity" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.frontia.activity.share.FrontiaSocialOAuthActivity" theme="16973841" exported="true">
+<activity name="com.baidu.frontia.activity.share.FrontiaLocalShareActivity" launchMode="2">
+3
+<service name=".DownService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service process="com.mrkj.cartoon.util.download" name="com.mrkj.cartoon.util.PpyUpgradeServices">
+4
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="com.baidu.frontia.module.deeplink.db.DLDataPushReceiver">
+<receiver name=".ui.util.Authorization.PushMessageReceiver">
+0
+Owner: CN=Cartoon
+Issuer: CN=Cartoon
+Serial number: 6a78a467
+Valid from: Wed Jan 08 16:13:29 CST 2014 until: Thu Dec 27 16:13:29 CST 2063
+Certificate fingerprints: 
+	MD5:46:DD:81:76:FD:93:66:31:20:1B:2A:17:A5:05:E7:D8
+	SHA1: 1C:EF:FB:AA:1C:E5:93:28:20:BA:18:9E:C8:90:26:43:C2:2A:C5:C3
+	SHA256: 3D:E7:3F:58:47:38:E6:49:D2:46:DA:45:B4:AC:BC:2D:DB:94:5A:DD:77:4E:72:57:52:B9:BF:37:CB:83:9E:5A
+	Signature algorithm name: SHA256withRSA
+	version: 3

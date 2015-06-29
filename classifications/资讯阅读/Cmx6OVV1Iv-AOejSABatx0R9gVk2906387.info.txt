@@ -1,0 +1,60 @@
+com.sci99.news.basic.mobile
+12
+1.0
+9
+17
+10
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+16
+<activity excludeFromRecents="true" name="com.sci99.news.basic.mobile.FirstActivity" theme="2131296263" configChanges="1073741984" windowSoftInputMode="32" taskAffinity="com.sci99.news.basic.mobile.first">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.SplashActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.MainActivity" label="2131230720" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.SettingsActivity">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.LoginActivity">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.SortChannelListActivity">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.RegisterActivity">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.RegisterCodeActivity">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.SearchActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.sci99.news.basic.mobile.NotificationNewsActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.AboutActivity">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.BuyActivity">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.SuggestionActivity">
+<activity screenOrientation="1" name="com.sci99.news.basic.mobile.RegistWebActivity">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.SdkActivity" theme="16973840" exported="false" taskAffinity="android.task.SdkActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.increment.activity.IncrementActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+5
+<service process=":pushservice" name="com.igexin.sdk.SdkMainService" exported="false" label="NotifyCenter">
+<service process=":pushservice" name="com.igexin.sdk.coordinator.SdkMsgService" exported="true" label="NotifyCenterAIDL">
+<service process=":pushservice" name="sdk.download.DownloadService" exported="false">
+<service process=":pushservice" name="com.igexin.increment.service.IncrementService" exported="false">
+<service process=":pushservice" name="com.igexin.download.DownloadService" exported="false">
+7
+<receiver name="com.sci99.news.basic.mobile.DownloadCompleteReceiver">
+<receiver name="com.sci99.news.basic.mobile.GexinSdkMsgReceiver" exported="false">
+<receiver name="com.igexin.sdk.SdkReceiver">
+<receiver name="com.igexin.sdk.coordinator.NotificationCenterAIDLReceiver">
+<receiver name="sdk.download.DownloadReceiver">
+<receiver name="com.igexin.increment.service.PayloadReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+2
+<provider process=":pushservice" authorities="sdk.download.com.sci99.news.basic.mobile" name="sdk.download.DownloadProvider" exported="false">
+<provider process=":pushservice" authorities="increment.download.com.sci99.news.basic.mobile" name="com.igexin.download.DownloadProvider" exported="false">
+Owner: CN=joe, OU=sci99, O=sci99, L=zibo, ST=shandong, C=86
+Issuer: CN=joe, OU=sci99, O=sci99, L=zibo, ST=shandong, C=86
+Serial number: 523e5286
+Valid from: Sun Sep 22 10:14:30 CST 2013 until: Tue Sep 15 10:14:30 CST 2043
+Certificate fingerprints: 
+	MD5:2C:46:5C:93:25:85:22:92:0C:F6:E0:7F:89:50:07:A0
+	SHA1: 3C:F3:C3:A7:9F:24:5B:7E:FC:BB:D9:B4:F4:0F:A8:D6:13:AE:9A:18
+	SHA256: AD:9F:5A:5C:09:46:C6:B8:1E:1B:93:31:7D:81:83:32:D3:93:0A:64:E3:BD:E3:AD:03:FE:00:56:99:4A:6A:9E
+	Signature algorithm name: SHA1withRSA
+	version: 3

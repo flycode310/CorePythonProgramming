@@ -1,0 +1,55 @@
+com.skvalex.callrecorder
+71
+1.5.2 full
+8
+18
+18
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.READ_LOGS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.ACCESS_SUPERUSER
+android.permission.BLUETOOTH
+com.android.vending.CHECK_LICENSE
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+10
+<activity name=".CallRecorderActivity" theme="2131492961" configChanges="1188" label="2131427341" launchMode="2">
+<activity excludeFromRecents="true" name=".CallConfirm" theme="2131492973" configChanges="1188" taskAffinity="com.skvalex.callrecorder.CallConfirm" launchMode="1">
+<activity excludeFromRecents="true" name=".AfterCallDialog" theme="2131492972" configChanges="1188" taskAffinity="com.skvalex.callrecorder.AfterCallDialog" launchMode="1">
+<activity name=".CallRecorderSettings" theme="2131492948" configChanges="164" label="2131427479">
+<activity finishOnTaskLaunch="true" name=".CallRecorderDialogs" theme="2131492972" configChanges="160" launchMode="3">
+<activity name=".CallRecorderExceptions" configChanges="160" label="2131427534" launchMode="2">
+<activity enabled="true" clearTaskOnLaunch="true" finishOnTaskLaunch="true" excludeFromRecents="true" name=".DummyActivity" theme="16973909" allowTaskReparenting="true" stateNotNeeded="true" noHistory="true" alwaysRetainTaskState="false">
+<activity enabled="true" clearTaskOnLaunch="true" finishOnTaskLaunch="true" excludeFromRecents="true" name=".BlankActivity" allowTaskReparenting="true" stateNotNeeded="true" noHistory="true" alwaysRetainTaskState="false" launchMode="3">
+<activity name="com.dropbox.sync.android.DbxAuthActivity">
+<activity name="com.dropbox.client2.android.AuthActivity" launchMode="2">
+2
+<service name=".service.CallRecorderService" exported="false" permission="android.permission.BLUETOOTH">
+<service enabled="true" name="com.dropbox.sync.android.DbxSyncService" exported="false" label="Dropbox Sync">
+4
+<receiver name=".receiver.CallReceiver">
+<receiver name=".receiver.PhoneStateReceiver">
+<receiver name=".CallRecorderSettings$CallRecorderDeviceAdminReceiver" permission="android.permission.BIND_DEVICE_ADMIN" label="2131427341">
+<receiver name=".receiver.NetworkReceiver" permission="android.permission.ACCESS_NETWORK_STATE">
+1
+<provider authorities="com.skvalex.callrecorder.db.callrecorderprovider" name=".db.CallRecorderProvider" exported="false">
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: 936eacbe07f201df
+Valid from: Fri Feb 29 09:33:46 CST 2008 until: Tue Jul 17 09:33:46 CST 2035
+Certificate fingerprints: 
+	MD5:E8:9B:15:8E:4B:CF:98:8E:BD:09:EB:83:F5:37:8E:87
+	SHA1: 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+	SHA256: A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC
+	Signature algorithm name: SHA1withRSA
+	version: 3

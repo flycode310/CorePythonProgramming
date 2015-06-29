@@ -1,0 +1,29 @@
+com.antmobilesoft.footmassage
+1
+1.0
+7
+-1
+1
+android.permission.INTERNET
+7
+<activity name=".TabBarActivity" label="2131034113">
+<activity name=".FirstTab">
+<activity name=".SecondTab">
+<activity name=".ThirdTab">
+<activity name=".FourthTab">
+<activity screenOrientation="1" name=".moreActivity" configChanges="160" label="2131034113">
+<activity name="com.admob.android.ads.AdMobActivity" theme="16973831" configChanges="176">
+0
+1
+<receiver name="com.admob.android.ads.analytics.InstallReceiver" exported="true">
+0
+Owner: CN=antmobilesoft, OU=antmobilesoft, O=antmobilesoft, L=beijing, ST=china, C=cn
+Issuer: CN=antmobilesoft, OU=antmobilesoft, O=antmobilesoft, L=beijing, ST=china, C=cn
+Serial number: 4db3f4a4
+Valid from: Sun Apr 24 18:00:04 CST 2011 until: Mon Jan 25 18:00:04 CST 2066
+Certificate fingerprints: 
+	MD5:6A:AF:9A:DD:5E:28:D0:EB:7D:02:FF:D5:70:97:87:7D
+	SHA1: 7C:B3:7E:0A:53:D2:D6:69:B5:F5:D8:0E:C4:6C:62:5A:CE:BA:B6:22
+	SHA256: BB:B2:C7:6F:27:82:E1:5D:93:CC:C1:B3:4A:75:C9:8F:08:36:6C:97:29:5A:72:EA:D5:39:AA:A3:55:B6:75:5E
+	Signature algorithm name: SHA1withRSA
+	version: 3

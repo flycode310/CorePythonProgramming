@@ -1,0 +1,28 @@
+com.pp.android.xh
+1
+1.0
+4
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name="com.waps.OffersWebView" configChanges="160">
+<activity name=".XH" label="2130968577">
+<activity name=".Index" label="2130968577">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4e30fcad
+Valid from: Thu Jul 28 14:07:41 CST 2011 until: Fri Jul 27 14:07:41 CST 2012
+Certificate fingerprints: 
+	MD5:A0:BF:A5:C7:16:65:A1:21:AF:EE:14:39:31:36:F4:85
+	SHA1: F5:D2:09:8A:E7:59:11:05:1E:97:0D:DC:61:1B:47:DC:9C:65:F3:34
+	SHA256: 59:01:5A:DB:57:F6:FB:54:E8:65:70:E8:2F:B2:B0:41:52:3F:33:A0:15:44:08:1B:35:38:B1:0D:8F:C3:30:78
+	Signature algorithm name: SHA1withRSA
+	version: 3

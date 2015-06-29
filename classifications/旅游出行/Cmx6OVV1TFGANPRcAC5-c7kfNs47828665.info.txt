@@ -1,0 +1,84 @@
+com.kstapp.taohyhotel
+1
+1.0.3
+8
+10
+12
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SEND_SMS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+49
+<activity name="com.kstapp.wanshida.activity.AppStartActivity" label="2131165186">
+<activity name="com.kstapp.wanshida.activity.MainTabFragment">
+<activity name="com.kstapp.wanshida.activity.LoginActivity">
+<activity name="com.kstapp.wanshida.activity.RegistActivity">
+<activity name="com.kstapp.wanshida.activity.MenuBookDinnerActivity">
+<activity name="com.kstapp.wanshida.activity.ShopcartScrollActivity">
+<activity name="com.kstapp.wanshida.activity.MenuCollectActivity">
+<activity name="com.kstapp.wanshida.activity.MenuPushMessageActivity">
+<activity name="com.kstapp.wanshida.activity.MenuSuggestionActivity">
+<activity name="com.kstapp.wanshida.activity.MenuMembershipCardActivity">
+<activity name="com.kstapp.wanshida.activity.MenuMembershipCardSortActivity">
+<activity name="com.kstapp.wanshida.activity.MenuMechantInfoActivity">
+<activity name="com.kstapp.wanshida.activity.MenuFilialeInfoActivity">
+<activity name="com.kstapp.wanshida.activity.PrivilegeDetailActivity">
+<activity name="com.kstapp.wanshida.activity.ProductDetailActivity">
+<activity name="com.kstapp.wanshida.activity.BindPhone1">
+<activity name="com.kstapp.wanshida.activity.BindPhone2">
+<activity name="com.kstapp.wanshida.activity.BindPhone3">
+<activity name="com.kstapp.wanshida.activity.MyselfActivity">
+<activity name="com.kstapp.wanshida.activity.AboutUsActivity">
+<activity name="com.kstapp.wanshida.activity.HelpBookActivity">
+<activity name="com.kstapp.wanshida.activity.WebViewContainerActivity">
+<activity name="com.kstapp.wanshida.activity.ProtectActivity">
+<activity name="com.kstapp.wanshida.activity.AppShareActivity">
+<activity name="com.kstapp.wanshida.activity.CommWebViewActivity">
+<activity name="com.kstapp.wanshida.activity.WelcomeActivity">
+<activity name="com.kstapp.wanshida.activity.ProductListPoolActivity">
+<activity name="com.kstapp.wanshida.activity.PrivilegeActivity">
+<activity name="com.kstapp.wanshida.activity.GiftListActivity">
+<activity name="com.kstapp.wanshida.activity.GiftDetailActivity">
+<activity name="com.kstapp.wanshida.activity.BookDinnerActivity">
+<activity name="com.kstapp.wanshida.activity.OrderListActivity">
+<activity name="com.kstapp.wanshida.activity.OrderDetailActivity">
+<activity name="com.kstapp.wanshida.activity.MyselfInfoActivity">
+<activity name="com.kstapp.wanshida.activity.IntegralDetailActivity">
+<activity name="com.kstapp.wanshida.activity.LeaveMessageActivity">
+<activity name="com.kstapp.wanshida.activity.ChangePasswordActivity">
+<activity name="com.kstapp.wanshida.activity.GiftBookActivity">
+<activity name="com.kstapp.wanshida.activity.GiftOrderListActivity">
+<activity name="com.kstapp.wanshida.activity.GetBackPassword1">
+<activity name="com.kstapp.wanshida.activity.GetBackPassword2">
+<activity name="com.kstapp.wanshida.activity.GetBackPassword3">
+<activity name="com.kstapp.wanshida.activity.BindWeiboActivity">
+<activity name="com.kstapp.wanshida.activity.BindWooAccountActivity">
+<activity name="com.kstapp.wanshida.activity.MechantInfoDetailActivity">
+<activity name="com.kstapp.wanshida.activity.CreditSwapsActivity">
+<activity name="com.kstapp.wanshida.activity.GiftSearchActivity">
+<activity name="com.kstapp.wanshida.activity.BaiduMapViewActivity">
+<activity name="com.kstapp.wanshida.qq.weibo.webview.OAuthV2AuthorizeWebView">
+3
+<service name="com.kstapp.wanshida.service.GetDataService">
+<service name="com.kstapp.wanshida.service.PushService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+0
+0
+Owner: CN=Wa Dian, L=tianjin, ST=tianjin
+Issuer: CN=Wa Dian, L=tianjin, ST=tianjin
+Serial number: 3bbd5c4
+Valid from: Thu Oct 10 15:53:55 CST 2013 until: Sat Sep 16 15:53:55 CST 2113
+Certificate fingerprints: 
+	MD5:8B:BE:F4:88:28:C5:3E:85:BF:4C:DB:83:B2:4B:CD:8C
+	SHA1: 1C:B7:E6:AD:F1:6F:87:1F:DE:3E:94:E7:66:A4:05:04:3D:E8:7B:7F
+	SHA256: 91:06:FA:3F:F5:F4:4B:A8:23:45:E9:35:DE:F4:90:2F:8D:65:CA:39:5E:48:97:47:7F:D2:9C:6E:9C:7F:B4:A7
+	Signature algorithm name: SHA256withRSA
+	version: 3

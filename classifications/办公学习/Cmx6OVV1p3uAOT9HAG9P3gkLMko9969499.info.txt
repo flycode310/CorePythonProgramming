@@ -1,0 +1,117 @@
+com.cn7782.android.eoa
+15
+3.0
+5
+14
+22
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+com.cn7782.android.eoa.permission.JPUSH_MESSAGE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+64
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.StartActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.WeclomeActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.IndexActivity" label="2131427361" launchMode="2">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.LoginActivity" launchMode="1">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.main.MainActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.RegisterActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.contact.ContactActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.contact.AddContactActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.contact.ManualInputContactActivity" configChanges="48" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.setting.PersonalSettingActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.setting.Settings">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.attendance.AttendanceActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.attendance.AddAttendanceActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.eventdetail.EventDetailAcivity" theme="2131492869" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.contact.WorkActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.locus.HistoryLocationActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.setting.AttendanceSettingActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.setting.AttendanceRuleDetialActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.setting.WorkPickActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.ChoiceMemberDeptActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.eventdetail.MapViewActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.eventdetail.ImageDetailActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.vacate.VacateTabActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.vacate.AddVacateActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.appear.AppearTabActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.appear.AddAppearActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.ChoiceMemberListActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.share.ShareTabActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.share.AddShareActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.notice.NoticeActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.notice.AddNoticeActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.backlog.BacklogIndexActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.backlog.BacklogTargetActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.backlog.ApproveHistoryActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.backlog.ApproveActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.setting.ModifyPasswordActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.reimburse.ReimburseTabActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.reimburse.AddReimburseActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.appear.OfflineActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.appear.OfflineDetialActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.setting.AboutActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.setting.HelpActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.MessageCenterActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.CompanyNewsActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.setting.FeedBackActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.locus.AllMembersLocusActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.TempFindPasswordActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.task.TaskTabActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.task.AddTaskActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.task.UpdateTaskActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.task.TaskRecordActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.task.TaskDetailActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.statistics.StatisticsMainActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.statistics.TimeIntervalPickActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.customer.CustomerListActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.customer.AddCustomerActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.customer.AddCustomerContactActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.customer.SharedCustomerListActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.customer.CustomerDetailActivity" theme="2131492869">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.customer.AddFollowUpActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.backlog.ApproveCustomerModifyActivity">
+<activity screenOrientation="1" name="com.cn7782.android.eoa.ui.customer.ModifyDetialActivity">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+6
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.cn7782.android.eoa.service.LocMonitorService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service name="com.cn7782.android.eoa.service.SynchronizationContactService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+5
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.cn7782.android.eoa.reciver.JPushCustomReceiver">
+<receiver name="com.cn7782.android.eoa.reciver.BootReceiver">
+<receiver name="com.cn7782.android.eoa.reciver.AlarmReceiver">
+0
+Owner: CN=xiao
+Issuer: CN=xiao
+Serial number: 53108c29
+Valid from: Fri Feb 28 21:16:25 CST 2014 until: Tue Feb 22 21:16:25 CST 2039
+Certificate fingerprints: 
+	MD5:EC:F6:D5:0D:99:06:F3:1D:3B:63:6E:80:FE:56:39:39
+	SHA1: 3F:31:0E:4E:24:F8:CE:8C:91:14:DB:75:BB:4F:03:B9:7E:2C:87:FB
+	SHA256: 2B:01:CF:8D:74:C7:9F:A7:19:11:C0:C6:C3:6C:A6:24:C9:61:EC:E0:4B:45:C3:7B:20:BB:91:B1:EA:07:37:A6
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,62 @@
+com.ZGYLBJSWPT_1130
+1
+1.0
+7
+-1
+30
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.WRITE_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECORD_VIDEO
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.ZGYLBJSWPT_1130.permission.JPUSH_MESSAGE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+7
+<activity screenOrientation="1" name="com.ZGYLBJSWPT_1130.SplashActivity" theme="16973833">
+<activity name="com.ZGYLBJSWPT_1130.GuideActivity" theme="16973833" launchMode="2">
+<activity screenOrientation="1" name="com.ZGYLBJSWPT_1130.MainActivity" label="2131427460">
+<activity name="com.phonegap.DroidGap" configChanges="160" label="2131427460">
+<activity clearTaskOnLaunch="true" screenOrientation="0" name="com.google.zxing.client.android.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3" stateNotNeeded="true">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+2
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+3
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver enabled="true" name="cn.jpush.phonegap.MyReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+0
+Owner: CN=QiGuangZe
+Issuer: CN=QiGuangZe
+Serial number: 60bd3824
+Valid from: Wed Apr 23 15:28:01 CST 2014 until: Thu Apr 10 15:28:01 CST 2064
+Certificate fingerprints: 
+	MD5:62:E6:C9:EC:6B:77:49:6E:70:4D:4C:CA:60:9B:26:49
+	SHA1: B7:AA:55:BA:7A:A5:0E:A6:A9:4A:A8:53:F6:7F:35:4D:E1:24:5B:D2
+	SHA256: 28:2C:F9:61:CD:94:2B:49:B0:27:38:D3:34:47:AD:12:AF:9B:29:84:80:43:33:21:64:14:66:6A:51:4B:56:43
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,47 @@
+com.mjiao.vc
+2
+1.01
+5
+-1
+14
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SET_WALLPAPER
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+13
+<activity name="com.mjiao.vc.activity.PrologueActivity" theme="16973834" label="2131165205">
+<activity name="com.itita.android.core.activity.GenericTabActivity">
+<activity name=".activity.RecommendActivity">
+<activity name=".activity.CategoryActivity">
+<activity name=".activity.ScoffActivity">
+<activity name=".activity.FavourateActivity">
+<activity name=".activity.MoreActivity">
+<activity name=".activity.CategoryDetailActivity">
+<activity name=".activity.JokeActivity">
+<activity name=".activity.AbountUsActivity">
+<activity name=".activity.RobotActivity">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+0
+0
+0
+Owner: CN=DingYu Fu, OU=iTiTa, O=iTiTa, L=GuiYang, ST=GuiZhou, C=CN
+Issuer: CN=DingYu Fu, OU=iTiTa, O=iTiTa, L=GuiYang, ST=GuiZhou, C=CN
+Serial number: 4dca6acd
+Valid from: Wed May 11 18:54:05 CST 2011 until: Sun Sep 26 18:54:05 CST 2038
+Certificate fingerprints: 
+	MD5:D8:19:53:08:67:50:42:68:55:A7:2D:59:BA:E6:DA:5A
+	SHA1: DB:97:B7:3E:46:A5:84:99:7E:F2:44:DB:B0:8A:B2:04:6C:17:D0:01
+	SHA256: 82:4D:EA:FC:80:80:DA:F5:B7:E9:80:B8:5D:24:69:33:FD:40:78:ED:5F:F8:84:A8:47:C9:94:32:A0:99:FA:33
+	Signature algorithm name: SHA1withRSA
+	version: 3

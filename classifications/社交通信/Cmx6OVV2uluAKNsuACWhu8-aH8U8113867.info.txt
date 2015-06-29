@@ -1,0 +1,39 @@
+polis.app.callrecorder.pro
+22
+2.2
+7
+19
+7
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_CONTACTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+6
+<activity name=".CallRecorderActivity" configChanges="1152" label="2131361805">
+<activity name="Settings" label="2131361812">
+<activity name="KeepRecord" theme="16973835">
+<activity name="DropboxPrefActivity" label="2131361855">
+<activity name="com.dropbox.sync.android.DbxAuthActivity">
+<activity name="com.dropbox.client2.android.AuthActivity" launchMode="2">
+2
+<service enabled="true" name="com.dropbox.sync.android.DbxSyncService" exported="false" label="Dropbox Sync">
+<service enabled="true" name="CallRecorderService">
+3
+<receiver enabled="true" name="CallReceiver">
+<receiver enabled="true" name="OutgoingCallReceiver">
+<receiver enabled="true" name="NetworkStateReceiver">
+1
+<provider authorities="polis.app.callrecorder.pro.SuggestionProvider" name="SuggestionProvider" readPermission="polis.app.callrecorder.pro.READ_MY_DATA">
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: 936eacbe07f201df
+Valid from: Fri Feb 29 09:33:46 CST 2008 until: Tue Jul 17 09:33:46 CST 2035
+Certificate fingerprints: 
+	MD5:E8:9B:15:8E:4B:CF:98:8E:BD:09:EB:83:F5:37:8E:87
+	SHA1: 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+	SHA256: A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC
+	Signature algorithm name: SHA1withRSA
+	version: 3

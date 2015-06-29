@@ -1,0 +1,102 @@
+com.sino.app.advancedB41025
+2
+1.01
+8
+17
+23
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.RESTART_PACKAGES
+android.permission.DISABLE_KEYGUARD
+android.permission.REORDER_TASKS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+54
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.Loading_splashActivity" label="2131492864">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.OrderFoodDetailActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.MineSelfActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.PlaceSectionListActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.CropImageActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.UpLoadPhotoActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.LeaveMessageSendActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.OrderFood_Online_DetailActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.GiveStarActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.LeaveMessageActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.MainMoreActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.SlidingActivity_2" launchMode="2">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.NewsDetailActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.ImageInfoActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.GroupBuyingMoreDetailActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.ProductInfoActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.ProductImageDetail">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.MemBerGroupActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.MenBerDetailActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.MenBerProductListActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.BaiduMapActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.MemBerImageDetailActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.RegisterAcitivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.LoginActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.GroupbuyingDetailAvtivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.SiteSearchActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.CollectActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.MyCommentActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.CollectDetailActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.CitiesActivity" theme="2131427336">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.OpportunityDetail">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.HelpActivity">
+<activity screenOrientation="1" name="com.sino.shopping.AccountCenterActivity">
+<activity screenOrientation="1" name="com.sino.shopping.AccountCenterDetailActivity">
+<activity screenOrientation="1" name="com.sino.shopping.ActivityGroupActivity">
+<activity screenOrientation="1" name="com.sino.shopping.MainActivityGroupActivity">
+<activity screenOrientation="1" name="com.sino.shopping.AllChoiceActivity">
+<activity screenOrientation="1" name="com.sino.shopping.MeunActivity">
+<activity screenOrientation="1" name="com.sino.shopping.MyOrderDetailActivity">
+<activity screenOrientation="1" name="com.sino.shopping.MyOrdersActivity">
+<activity screenOrientation="1" name="com.sino.shopping.Shopping_Buy_Car" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.sino.shopping.ShopProductDetailActivity">
+<activity screenOrientation="1" name="com.sino.shopping.ShopProductDetailCommentActivity">
+<activity screenOrientation="1" name="com.sino.shopping.ShopProductDetailShowActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.SlidingActivity" launchMode="2">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.CircleSearchActivity">
+<activity screenOrientation="1" name="com.sino.shopping.MeunAllActivity">
+<activity screenOrientation="1" name="com.example.searchapp.ResoultActivity">
+<activity screenOrientation="1" name="com.example.searchapp.ResoultDetailActivity">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.MsgActivity">
+<activity screenOrientation="1" name="com.example.searchapp.MainActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.sino.app.advancedB41025.DownLoadInfoActivity" windowSoftInputMode="2">
+<activity name="com.baidu.social.core.PlatformSsoCallBackActivity" theme="16973841" exported="true" label="2131492864">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+2
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+3
+<receiver name="com.sino.app.advancedB41025.tool.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=dns.com.cn Inc., OU=www.dns.com.cn, O=dzs.mobi, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=dns.com.cn Inc., OU=www.dns.com.cn, O=dzs.mobi, L=Beijing, ST=Beijing, C=CN
+Serial number: 4c3f2bcc
+Valid from: Thu Jul 15 23:39:56 CST 2010 until: Mon Jul 09 23:39:56 CST 2035
+Certificate fingerprints: 
+	MD5:C3:85:B8:2B:DF:17:3C:D9:4E:28:93:28:3A:C6:09:9C
+	SHA1: 6D:5A:76:AD:41:91:DC:7A:4F:AA:BD:38:45:29:FB:42:73:0C:D8:C9
+	SHA256: 1A:25:34:A2:0C:09:E7:3A:19:F6:6B:91:AA:40:60:4A:D9:15:9B:02:BB:50:19:F5:37:40:F5:1C:EA:0C:C0:0B
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,143 @@
+com.jsbc.lznews
+41
+2.14
+8
+17
+26
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+com.jsbc.lznews.permission.JPUSH_MESSAGE
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.INSTALL_PACKAGES
+android.permission.WRITE_APN_SETTINGS
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.CHANGE_NETWORK_SATET
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.MANAGE_DOCUMENTS
+android.hardware.sensor.accelerometer
+88
+<activity name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="224" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.jsbc.lznews.Splash" theme="2131165283" label="荔枝新闻" launchMode="1">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity name="com.jsbc.lznews.util.push.PushInfoActivity" theme="16973830">
+<activity screenOrientation="1" name="com.jsbc.lznews.vote.hd_vote" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.vote.hd_vote_result" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.news.fragment.NewDetailActivity" theme="16973830" label="2131099662">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.news.fragment.AudioPlayer" theme="16973830" label="2131099662">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.news.fragment.NewsTruthDetailActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.natives.fragment.NativeLocalActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.natives.fragment.NativeSelectActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.natives.fragment.NativeSelectActivity2" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.news.fragment.NewsTopicMainActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.right.fragment.MyRightsActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.right.fragment.ReporterUploadActivity" theme="16973830" label="2131099662">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.right.fragment.ReporterModifyActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.right.fragment.RightsTeamActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.right.fragment.RightsComplateActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.right.fragment.RightsUploadActivity" theme="16973830" label="2131099662" windowSoftInputMode="51" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.images.images_main" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.images.FlipAsyncContentActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.natives.fragment.NativeDetailActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.right.fragment.RightsDetailActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.ShareActivity" theme="16973830" label="2131099662" windowSoftInputMode="51" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.report.fragment.ReportUploadActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.path.MainPath" theme="2131165291" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.personal_login" theme="16973830" label="2131099662">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.forgetpass_personal_register_validatecode" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.forgetpass_writenewpass" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.phone_forgetpass" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.personal_register" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.email_register_send" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.email_register" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.personal_register_password" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.personal_register_validatecode" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.regandlogin.phone_register" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.vote.vote_commentlist" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.setting.AccountBindActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.images.FlipAsyncContentActivityFromTops" theme="16973835" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.SelectAstorActivity" theme="16973830" label="2131099662">
+<activity screenOrientation="1" name="com.jsbc.lznews.sng.Upload" theme="16973830" label="上传" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.jsbc.lznews.sng.GetAvatar" theme="16973835" label="2131099662">
+<activity screenOrientation="1" name="com.jsbc.lznews.setting.FontSizeSetting" theme="16973835" label="2131099662">
+<activity screenOrientation="1" name="com.jsbc.lznews.sng.NewGetAvatar" theme="16973835" label="2131099662">
+<activity screenOrientation="1" name="com.jsbc.lznews.sng.NewSngDetail" theme="16973830" label="2131099833">
+<activity screenOrientation="1" name="com.jsbc.lznews.CommentActivity" theme="16973835" label="发表评论">
+<activity screenOrientation="1" name="com.jsbc.lznews.VoteJump" theme="16973830" label="2131099834">
+<activity screenOrientation="1" name="com.jsbc.lznews.sng.Mysng" theme="16973830" label="2131099834">
+<activity screenOrientation="1" name="com.jsbc.lznews.SelectCity" theme="16973830" label="2131099834">
+<activity name="com.nmbb.oplayer.ui.VideoPlayerActivity" theme="16973831" configChanges="240" label="2131099662" launchMode="2">
+<activity name="com.nmbb.oplayer.ui.vitamio.InitActivity" theme="16973831" configChanges="240" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.images.ImageViewpager" theme="16973830" label="2131099834">
+<activity screenOrientation="1" name="com.jsbc.lznews.setting.FeedBackActivity" theme="16973830" label="2131099834">
+<activity screenOrientation="1" name="com.jsbc.lznews.setting.AppRec" theme="2131165287" label="2131099834">
+<activity screenOrientation="1" name="com.jsbc.lznews.vote.rights_commentlist" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.images.ArticleImageViewpager" theme="16973830" label="2131099834">
+<activity screenOrientation="1" name="com.jsbc.lznews.VotePop" theme="2131165300" label="2131099834">
+<activity screenOrientation="1" name="cn.sharesdk.framework.AuthorizeActivity" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.onekeyshare.ShareAllGird" theme="16973840" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.sharesdk.onekeyshare.SharePage" configChanges="160" windowSoftInputMode="18">
+<activity name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity name="com.jsbc.lznews.share.AuthActivity" theme="16973830">
+<activity name="com.jsbc.lznews.share.GetInfoActivity" theme="16973830">
+<activity name="com.jsbc.lznews.share.ShowInforActivity" theme="16973830">
+<activity name="com.jsbc.lznews.share.ShareMain" theme="16973830">
+<activity screenOrientation="1" name="com.jsbc.lznews.topic.NewTopic" theme="16973830">
+<activity screenOrientation="1" name="com.jsbc.lznews.topic.NewTopicTest" theme="16973830">
+<activity screenOrientation="1" name="com.jsbc.lznews.Order" theme="16973830">
+<activity screenOrientation="1" name="com.jsbc.lznews.GuideActivity" theme="16973830">
+<activity screenOrientation="1" name="com.jsbc.lznews.ad.AdActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.ad.Ad2B" theme="16973830">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.news.fragment.AudioJump" theme="16973835">
+<activity screenOrientation="0" name="com.jsbc.lznews.LZVideoView" theme="16973831" configChanges="3312" label="2131099834">
+<activity screenOrientation="0" name="com.jsbc.lznews.XIAOMING_LZVideoView" theme="16973831" configChanges="3312" label="2131099834">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.right.fragment.RightUnitSummary" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.android.shake.ShakeActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.android.shake.ShakeSubmit" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.android.shake.ShakeNoPartner" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.android.shake.ShakeTheSamePartner" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.android.shake.ShakeBegin" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.android.shake.ShakeShare" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.news.fragment.LiveJumpActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.activity.news.fragment.TextLive" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.SimpleActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity screenOrientation="1" name="com.jsbc.lznews.WeatherActivity" theme="16973830" label="2131099662" launchMode="2">
+<activity name="com.jsbc.lznews.Testshare" label="2131099943">
+<activity screenOrientation="1" name="com.jsbc.lznews.ListenNewsActivity" theme="2131165301" label="2131099943" launchMode="2">
+5
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.jsbc.lznews.util.update.MyService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service name="com.jsbc.lznews.activity.news.fragment.PlayService1">
+4
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.jsbc.lznews.MyReceiver">
+<receiver name="com.jsbc.lznews.activity.news.fragment.MyReceiver" exported="true">
+0
+Owner: CN=JSBC, OU=JSBC, O=JSBC, L=NANJING, ST=JIANGSU, C=210000
+Issuer: CN=JSBC, OU=JSBC, O=JSBC, L=NANJING, ST=JIANGSU, C=210000
+Serial number: 1e4d8563
+Valid from: Tue Jun 25 21:47:02 CST 2013 until: Sat Jun 19 21:47:02 CST 2038
+Certificate fingerprints: 
+	MD5:1E:D9:28:89:42:F1:49:E1:24:93:7A:22:CA:72:44:99
+	SHA1: 3E:7F:84:35:C9:D1:3B:F1:34:DD:54:B9:81:16:3B:8C:AA:3E:AC:E1
+	SHA256: 24:7D:FE:28:02:A5:58:E6:AC:70:0C:9C:59:BA:1B:80:D6:BE:17:30:FD:11:0E:21:C7:96:B2:0C:46:DD:98:35
+	Signature algorithm name: SHA256withRSA
+	version: 3

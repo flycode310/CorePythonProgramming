@@ -1,0 +1,60 @@
+com.douban.radio
+421
+4.2.1
+14
+20
+14
+android.permission.READ_EXTERNAL_STORAGE
+com.douban.artery.RECEIVE_MESSAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.douban.artery.CONTROL_SERVICE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+17
+<activity screenOrientation="1" name="com.douban.radio.ui.WelcomeActivity" theme="2131427400" launchMode="1">
+<activity screenOrientation="1" name="com.douban.radio.ui.CameraActivity" label="2131165220">
+<activity screenOrientation="1" name="com.douban.radio.ui.ProgrammeActivity">
+<activity screenOrientation="1" name="com.douban.radio.ui.mediaplay.PlayActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.douban.radio.ui.setting.SettingActivity" label="2131165465">
+<activity screenOrientation="1" name="com.douban.radio.ui.setting.TimingActivity" label="2131165443">
+<activity screenOrientation="1" name="com.douban.radio.ui.setting.WebRegisterActivity">
+<activity screenOrientation="1" name="com.douban.radio.ui.setting.AboutActivity">
+<activity screenOrientation="1" name="com.douban.radio.ui.setting.LoginActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.douban.radio.ui.share.ShareActivity" label="2131165466" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.douban.radio.ui.setting.FMSinaAuth" label="2131165364">
+<activity screenOrientation="1" name="com.douban.radio.ui.setting.FeedbackActivity" label="2131165342">
+<activity screenOrientation="1" name="com.douban.radio.ui.search.SearchableActivity" label="2131165457" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.douban.radio.ui.programme.ProgrammeInfo" label="2131165432" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.douban.radio.ui.song.SongRelated" windowSoftInputMode="32">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+3
+<service name="com.douban.radio.mediaplayer.MediaPlaybackService" exported="false">
+<service name="com.douban.radio.mediaplayer.OfflineHeartService" exported="false">
+<service name="com.douban.radio.mediaplayer.PlayLogService" exported="false">
+5
+<receiver name="com.douban.radio.ui.TimingReceiver" exported="false">
+<receiver name="com.douban.radio.ui.DummyReceiver" exported="false">
+<receiver name="com.douban.radio.ui.widget.AppWidgetSmall" exported="false" label="2131165503">
+<receiver name="com.douban.radio.mediaplayer.MediaButtonIntentReceiver">
+<receiver name="com.douban.radio.ui.DownloadReceiver">
+1
+<provider authorities="com.douban.radio.searchsuggestionprovider" name="com.douban.radio.ui.search.SearchSuggestionProvider" exported="false">
+Owner: CN=Bear Tung, OU=Douban Inc., O=Douban Inc, L=Beijing, ST=Beijing, C=zh
+Issuer: CN=Bear Tung, OU=Douban Inc., O=Douban Inc, L=Beijing, ST=Beijing, C=zh
+Serial number: 4b72d4c3
+Valid from: Wed Feb 10 23:46:11 CST 2010 until: Sat Jun 27 23:46:11 CST 2037
+Certificate fingerprints: 
+	MD5:25:1B:93:78:F5:35:34:48:4E:25:76:95:A4:41:B9:01
+	SHA1: E4:DD:80:ED:E2:71:03:66:E2:BA:1A:67:2F:80:1E:8A:05:1B:BF:4A
+	SHA256: BA:0C:40:F9:D4:55:17:06:F3:59:4C:72:09:F2:32:F3:0B:26:8E:6E:FB:CD:B7:89:A8:B3:DF:F8:17:61:6D:25
+	Signature algorithm name: MD5withRSA
+	version: 1

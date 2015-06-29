@@ -1,0 +1,50 @@
+com.koolearn.story.selfdeceit
+1
+1.0
+9
+-1
+18
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_PROFILE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WRITE_OWNER_DATA
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.READ_OWNER_DATA
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.WRITE_USER_DICTIONARY
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity screenOrientation="0" name="org.cocos2dx.lua.AppActivity" theme="16973831" configChanges="128" label="2131230741">
+<activity screenOrientation="4" name="com.koolearn.plugins.moreapp.MoreActivity" theme="16973831" configChanges="1056" label="2131230741">
+<activity screenOrientation="6" name="org.cocos2dx.lua.VideoActivity" theme="16973831" configChanges="128">
+3
+<service process=":push" name="com.umeng.message.UmengService" exported="true" label="PushService">
+<service process=":push" name="com.umeng.message.UmengIntentService">
+<service enabled="true" name="com.koolearn.plugins.download.DownLoadService">
+6
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver process=":push" name="com.umeng.message.SystemReceiver">
+<receiver process=":push" name="com.umeng.message.MessageReceiver">
+<receiver process=":push" name="com.umeng.message.ElectionReceiver">
+<receiver name="com.umeng.message.RegistrationReceiver" exported="false">
+<receiver name="com.umeng.message.BootBroadcastReceiver">
+0
+Owner: CN=koolearn, OU=BJ New Oriental Xuncheng Network Technology .Ltd, O=www.koolearn.com, L=beijing, ST=beijing, C=86
+Issuer: CN=koolearn, OU=BJ New Oriental Xuncheng Network Technology .Ltd, O=www.koolearn.com, L=beijing, ST=beijing, C=86
+Serial number: 6eb869d8
+Valid from: Mon Apr 22 09:12:22 CST 2013 until: Sun Aug 23 09:12:22 CST 3012
+Certificate fingerprints: 
+	MD5:84:D5:67:6D:9D:FE:F2:F4:E4:DD:A4:24:AC:32:8C:0E
+	SHA1: 74:09:D0:D2:A1:27:CB:71:29:1E:55:12:A7:EC:B7:BB:29:42:EA:F2
+	SHA256: F4:98:98:86:B9:71:75:83:9E:8E:77:D6:CE:50:63:79:D4:7B:57:ED:81:15:DA:D3:C7:0E:FB:E6:3B:FA:E6:D1
+	Signature algorithm name: SHA256withRSA
+	version: 3

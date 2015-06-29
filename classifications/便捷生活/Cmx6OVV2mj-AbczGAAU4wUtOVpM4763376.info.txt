@@ -1,0 +1,31 @@
+kr.co.bitek.android.memo
+20
+1.1.7
+4
+11
+3
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+6
+<activity name=".SecureMemo" label="2131165184">
+<activity name=".Notepad" windowSoftInputMode="3">
+<activity name=".SecureMemoViewActivity">
+<activity name=".SearchFileActivity">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity name="kr.co.bitek.ucloud.AuthorizationActivity">
+2
+<service name="kr.co.bitek.ucloud.UCloudService">
+<service name="kr.co.bitek.ucloud.AuthorizationService">
+0
+0
+Owner: CN=biteksystem, OU=u-Biz, O=bitek system, L=Anyang-si, ST=Gyeonggi-do, C=82
+Issuer: CN=biteksystem, OU=u-Biz, O=bitek system, L=Anyang-si, ST=Gyeonggi-do, C=82
+Serial number: 4c11da0d
+Valid from: Fri Jun 11 14:39:09 CST 2010 until: Sat Mar 14 14:39:09 CST 2065
+Certificate fingerprints: 
+	MD5:0B:51:BC:30:CE:8C:87:ED:C2:81:FF:5D:97:C5:3C:27
+	SHA1: 29:0E:D9:59:B2:95:AF:B8:AC:1B:D8:98:FC:6F:F9:D0:B2:F1:C8:57
+	SHA256: 0F:E9:00:C3:74:71:9B:C2:F3:64:9E:16:57:83:43:FA:24:F1:02:0E:C1:01:F4:EC:2D:70:87:4E:BB:62:F3:FD
+	Signature algorithm name: SHA1withRSA
+	version: 3

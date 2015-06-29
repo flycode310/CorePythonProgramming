@@ -1,0 +1,70 @@
+com.palmtrends.dnb
+4
+4.1.0
+7
+11
+12
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+33
+<activity screenOrientation="1" name="com.palmtrends.ui.InitAcitvity" configChanges="160">
+<activity screenOrientation="1" name="com.palmtrends.ui.ArticleDiaoChaActivity" configChanges="160" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.palmtrends.weather.WeatherActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.weather.ChangeCityActivity" configChanges="160" exported="false" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.palmtrends.ui.MainActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.AnimArticleActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.ArticleActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.SubmitQuestionActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.AritcleCommentActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.ArticleCommentsActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.WeiboBangdingActivity" configChanges="160" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.palmtrends.ui.WeibofenxiangActivity" configChanges="160" exported="false" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.palmtrends.ui.WeiboCommentActivity" configChanges="160" exported="false" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.palmtrends.wb.WeiboShowImageActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.setting.dnbShowWebInfo" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.baseui.ShowWebInfo" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.FMActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.FMInfoActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.setting.ST_ShareManager" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.setting.FeedBack" configChanges="160" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.palmtrends.setting.NewsReporterActivity" theme="2131230737" configChanges="160" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.palmtrends.setting.TextSize" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.setting.Version" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.setting.FavActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.HomeActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.PicActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.Part1Activity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.Part2Activity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.HsljArticleActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.PartWbActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.SettingActivty" configChanges="160" exported="false">
+<activity name="com.palmtrends.ui.PicInfoActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.palmtrends.ui.WeiBoInfoActivity" configChanges="160" exported="false">
+3
+<service enabled="true" name="com.palmtrends.push.MPushService" exported="false">
+<service process=":remote" enabled="true" name="com.baidu.location.f" permission="android.permission.BAIDU_LOCATION_SERVICE">
+<service name="com.palmtrends.apptime.AppTimeStatisticsService">
+2
+<receiver name="com.palmtrends.push.AlarmReceiver">
+<receiver enabled="true" name="com.palmtrends.push.PushReceiver" exported="true">
+0
+Owner: CN=palmtrends
+Issuer: CN=palmtrends
+Serial number: 2391beaf
+Valid from: Fri Apr 18 16:47:23 CST 2014 until: Tue Apr 12 16:47:23 CST 2039
+Certificate fingerprints: 
+	MD5:CE:8C:AB:F7:7A:69:2A:A3:30:89:29:08:08:49:40:99
+	SHA1: C0:C1:9C:F4:22:5E:34:FE:37:B2:F9:1C:22:6F:B6:18:64:A4:AF:4A
+	SHA256: 77:A2:49:95:E4:E6:44:0F:D1:B4:A7:82:57:B4:69:0A:E3:F9:17:32:49:CB:FB:60:6B:9E:B4:85:C1:B6:53:2B
+	Signature algorithm name: SHA256withRSA
+	version: 3

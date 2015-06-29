@@ -1,0 +1,344 @@
+com.tuniu.app.ui
+58
+6.0.1
+14
+21
+37
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.CHANGE_COMPONENT_ENABLED_STATE
+android.permission.DELETE_PACKAGES
+android.permission.ACCES_MOCK_LOCATION
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.SET_ACTIVITY_WATCHER
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+com.tuniu.app.ui.permission.JPUSH_MESSAGE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.UPDATE_APP_OPS_STATS
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.INSTALL_PACKAGES
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+275
+<activity screenOrientation="1" name="com.tuniu.app.ui.homepage.LaunchActivity" theme="2131623941" label="2131165260">
+<activity screenOrientation="1" name="com.tuniu.app.ui.homepage.MainFragmentActivity" windowSoftInputMode="51" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.global.GlobalSearchActivity" theme="16973840" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ProductListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.CruiseShipListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TicketHomeDataActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.categorylist.SelfDriveListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.filter.SelfDriveFilterActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.categorylist.VisaListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelMainActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.categorylist.WifiListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.LastMinuteActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.BindBankCardCheckActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.BindBankCardNowActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.BindCreditCardNowActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.BankCardListActivity" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.TicketDetailActivity" exported="false">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DriveProductDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.CruiseShipDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.FillOrderActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.BookSuccessActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.BookFailedActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.travelpack.SelfHelpSearchActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.travelpack.SelfHelpCalendarChooseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.travelpack.SelfHelpChooseCityActivity" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.app.ui.travelpack.SelfHelpFlightLowestActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ProductTermChooseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.GroupTermChooseLastMinuteActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OrderDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.TicketOrderDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.GiftCardOrderDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.CouponReceiveActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.MyCollectActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.global.SearchResultActivity" windowSoftInputMode="34" launchMode="1">
+<activity name="com.tuniu.app.ui.usercenter.UserMinSimplePayActivity" theme="2131623960">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.RegisterActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.LoginActivity" theme="2131623942" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ResetPasswordActivity" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ResetPasswordNewActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.FeedbackActivity" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.AboutAppActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.RemarkActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.HotelOnlineFillOrderActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.HotelGuaranteeFillOrderActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.MyRemarkActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OrderCommentActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.QAOnlineActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ScheduleNotesActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DespatureActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.FeeDescriptionActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ProductJourneyActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.LastMinuteDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.FillLastMinuteOrderActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tuniu.app.ui.weihuo.RushPurchaseSuccessActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.weihuo.RushPurchaseFailedActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.weihuo.RushPurchaseOverActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.weihuo.RushPurchaseServerErrorActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OrderPayActivity">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.PaySuccessActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.TicketFillOrderActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.TicketScanFillOrderActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tuniu.app.ui.thirdparty.SamsungWalletActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.TicketSummaryActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.TicketQAActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.TicketTrafficInfoActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.TicketBookNoticeActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.SubScribeSpecialNoticeActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.TicketPayActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.VisaFillOrderActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.VisaDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.TravelAgencyDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.VisaBookNoticeActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.VisaMaterialActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OnlineBookCheckOrderActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OnlineBookOrderPayExplainActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.categorylist.WeekendProductListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.SignOrderActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.SignOrderContractContentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" theme="2131623957" configChanges="160" label="2131165260">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivityEx" configChanges="160" label="2131165260" windowSoftInputMode="16">
+<activity name="com.tuniu.app.ui.wxapi.WXEntryActivity" theme="16973839" exported="true">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelCityChooseActivity" theme="2131623942">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.categorylist.HotelProductListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.HotelFillOrderActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelKeywordActivity" theme="2131623942" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tuniu.app.ui.homepage.OneDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ConsultationActivity">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.tuniu.app.ui.h5.AdvertiseH5Activity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.h5.UploadFileH5Activity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.MessageCenterActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.CouponTicketActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OrderSignDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OrderContractSignActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OrderDuplicateActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.categorylist.TicketListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.GradedPaySuccessActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OrderPaySuccessActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.MyOrderCentreActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.CouponsActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.MyFreeBuyPurchaseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.CeoOrderDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.categorylist.TicketNearbyScenicsActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.search.categorylist.TicketRecommendListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.diyonlinebook.DiyOnlineNoteAndOtherInfoActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.QRCodeFirstJoinActivity" theme="16973840" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.ProvinceActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.CityActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.GroupProductH5Activity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DiyInlandTicketChooseActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.GroupSettingActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.PrivateChatSettingActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.PrivateComplainActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.ClosedChatGroupActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.EditPersonalizedActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.SearchInterestGroupActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.ChildChatGroupActivity" theme="2131623959">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.PersonalDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.ServeChattingActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.RecentContactsActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.NiuDaTouActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.UserGrowthHistoryActivity">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.SSOBindActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.SSOBindSmsVerifyActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.thirdparty.SocialShareActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.SignNoticeActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.VisaQAActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.VisaOrderDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.GroupOnlineFillOrderExtraInfoActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.GroupAbroadVisaInfoActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ChangePasswordActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelSelectCheckinDateActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelPictureActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelIntroduceActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelRemarkActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelOrderDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelArriveAndLeaveActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ChooseCityActivity" theme="16973840" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.BookHelpActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.GroupOnlineFillOrderActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OrderPayInfoActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ChooseHotelActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tuniu.app.ui.wxapi.WXPayEntryActivity" theme="16973839" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.GroupInfoDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.NormalGroupChattingActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.GroupQRCodeInfoActivity">
+<activity name="com.tuniu.groupchat.activity.ShowPictureActivity" theme="16973840">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DiyPackageFlightChooseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DiyProductAdditionalDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.payment.BankCardUnbindActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OnlineBookSafetyTipActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.OnlineBookExtraItemActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ChannelH5Activity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ChannelDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.GroupChatBrowsePictureActivity" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.PrivateChatBrowsePictureActivity" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.OrderAssistantChattingActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.SaleAssistantChattingActivity">
+<activity name="com.tuniu.groupchat.activity.AddedToNewGroupActivity" theme="2131623959">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.GiftCardIdentityVerifyActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.AboutTuniuActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.UserSettingActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.UserRightActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.SmallPreferentialActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.InviteCodeActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelGuaranteeActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DiyTicketChooseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.travelpack.SelfHelpFlightActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.GroupProductDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ShowUserInfoActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ShowAvatarActivity" theme="16973840">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ScenicTypesActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ModifyPrePhoneNumActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ModifyPhoneNumBaseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.BindNewPhoneNumActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ModifyCardNumActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ModifyNNEActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ModifyAddressActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.ModifyUserInfoBaseActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.ChooseTourStatusActivity" theme="2131623959">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.InterestGroupChattingActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DiyProductDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.InterestGroupInfoDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productdetail.PhotoViewActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.usercenter.UserCenterH5Activity" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.travelpack.SelfHelpRecommendationActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.travelpack.SelfHelpHotelActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DiyOrderDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DiyOrderFillActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DiyHotelDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.historybrowser.ui.BrowseHistoryActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.SubBranchInfoActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.PublicPhoneActivity" theme="2131623970">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.DestinationListActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.SelectionAssistantChattingActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.GroupChatMainActivity" theme="16973840" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.GroupChatDebugDataDisplayActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TouristsMainActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.CruiseShipHomeRoomChooseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.SubscribeDestinationActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.FilterOrderByActivity" theme="16973840" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.FilterCruiseActivity" theme="16973840" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.diysourceselect.DiyTravelActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.diysourceselect.DiyTravelHotelChangeActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.diysourceselect.DiyTravelPlanChangeActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.diysourceselect.DiyTravelAdditionDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.diysourceselect.DiyVisaAdditionDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.diyonlinebook.DiyOnlineFillOrderActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.diyonlinebook.DiyOnlineFillOrderExtraActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.productorder.diyonlinebook.EditTouristActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TicketScanTermChooseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainTermChooseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainCityChooseActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainFilterActivity" theme="2131623942">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainStopInfoActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainVerifyPositionActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainFillOrderActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainH5NoticeMessageActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TrainChooseSeatActivity" theme="2131623944">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.PlaneChooseCityActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.PlaneFillOrderActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.PlaneListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.PlaneSpecialPriceActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.ShakeActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripDestinationSortListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripChannelActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.PicWallChannelActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripListActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.activity.PrivateChattingActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.common.qrcode.view.QRScanCodeActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripDetailCommentActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripDetailImageViewActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.PicListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.PictureDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.PictureLikeListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripRelatedProductListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.ThisMomentPicListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.PoiListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.PictureFromTagActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.UploadPictureActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.FinderSocialShareActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.SelectTagActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripNoteListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripNoteDetailH5Activity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.SingleImageViewActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.CommonTripNoteListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.PictureDailyListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.PictureDailyDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripDetailV2Activity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.FindTopicListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.TripClauseActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TopicDetailPicListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.MapActivity" theme="2131623941">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.UserInfoActivity" theme="2131623955">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.UserPicListActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.UserTrackMapActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.companiontravel.CompanionTravelDestinationListActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.companiontravel.CompanionTravelDestinationDetailActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.PlaneMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.PlaneDateActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.companiontravel.CompanionTravelPublishPostActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.companiontravel.CompanionTravelChooseTravelDateActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.companiontravel.CompanionTravelChooseStartCityActivity">
+<activity screenOrientation="1" name="com.tuniu.groupchat.companiontravel.CompanionTravelAddSpotActivity">
+<activity screenOrientation="1" name="com.tuniu.app.ui.activity.HotelDateChooseActivity" theme="2131623942">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripSearchActivity" theme="16973840" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.tuniu.app.ui.finder.activity.TripSearchResultListActivity" windowSoftInputMode="34" launchMode="1">
+5
+<service process=":remote" enabled="true" name="com.baidu.location.f" permission="android.permission.BAIDU_LOCATION_SERVICE">
+<service name="com.tuniu.groupchat.service.GroupChatService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service process=":bdservice_v1" name="com.baidu.android.moplus.MoPlusService" exported="true">
+6
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.tuniu.app.MessageReceiver" exported="false">
+<receiver process=":bdservice_v1" name="com.baidu.android.moplus.MoPlusReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.defense.push.PushMsgReceiver">
+<receiver name="com.tuniu.app.ui.h5.alarm.LocalAlarmReceiver" exported="false">
+1
+<provider authorities="com.tuniu.app.alarm" name="com.tuniu.app.ui.h5.alarm.LocalAlarmProvider" exported="false">
+Owner: CN=Leo Jin, OU=Tuniu Inc, O=Tuniu Inc, L=NanJing, ST=JiangSu, C=CN
+Issuer: CN=Leo Jin, OU=Tuniu Inc, O=Tuniu Inc, L=NanJing, ST=JiangSu, C=CN
+Serial number: 4e321ff2
+Valid from: Fri Jul 29 10:50:26 CST 2011 until: Tue Jul 22 10:50:26 CST 2036
+Certificate fingerprints: 
+	MD5:50:1F:D6:4B:C8:B1:AC:35:BA:03:E9:05:9A:E2:CC:DF
+	SHA1: 6C:47:80:62:5E:6F:E1:5A:62:16:2D:2A:D7:1D:34:D6:94:CE:08:81
+	SHA256: EA:C5:BA:A6:60:B3:81:8F:84:EE:83:49:BB:9C:86:CF:E6:8C:76:C7:17:D7:79:EB:69:E6:60:15:94:80:63:BC
+	Signature algorithm name: SHA1withRSA
+	version: 3

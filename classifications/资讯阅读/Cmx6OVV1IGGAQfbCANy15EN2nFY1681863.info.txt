@@ -1,0 +1,89 @@
+cn.dictcn.android.digitize.shcs_xdhytygfzd_20001
+61
+1.0.0
+8
+17
+13
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.android.vending.BILLING
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+46
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.StartActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.MainActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.AccountManagerActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.MemoCategoryActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.WordPlanBriefActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.FeedbackActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.HelpOrAboutActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.OffLineCikuDownLoadActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="0" name="cn.dictcn.android.digitize.activity.CameraTessActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.QuickSearchActivity" theme="2131492898" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.UserGuidanceActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.WordDetailActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.LessonActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.EditCategoryActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.MemoWordActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.EditWordActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.LoginActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.RecommendActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.ShareEditActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.GetPwdActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.ModifyPasswordActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.BindPhoneActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.LicenseActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.ShareSetActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.WordReviewActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.WordPlanActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.WordReadyPlanActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.WordReviewSummaryActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.WordProgressFamiliarActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.WordIndexActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.NotifySettingActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.DictFeatureActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.SettingActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.AboutActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.SupportActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.ProductTradeActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="cn.dictcn.android.digitize.activity.FontSizeActivity" theme="2131492897" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.renren.api.connect.android.AuthorizationHelper$BlockActivity" theme="16973835">
+<activity name="com.renren.api.connect.android.status.StatusPubActivity">
+<activity name="com.unionpay.uppay.PayActivity">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity name="mm.purchasesdk.iapservice.BillingLayoutActivity" theme="16973839" configChanges="160">
+<activity excludeFromRecents="true" name="safiap.framework.ui.UpdateHintActivity" theme="16973840" configChanges="128" launchMode="3">
+5
+<service name="mm.purchasesdk.iapservice.PurchaseService" exported="true">
+<service process="safiap.framework" name="safiap.framework.SafFrameworkManager" exported="true">
+<service process=":remote" name="safiap.framework.logreport.monitor.handler.LogreportHandler">
+<service name="cn.dictcn.android.digitize.service.DictService">
+<service name="cn.dictcn.android.digitize.service.DigitizeSdkService">
+4
+<receiver name="safiap.framework.CheckUpdateReceiver">
+<receiver name="cn.dictcn.android.digitize.receiver.DownLoadBroadcastReceiver">
+<receiver name="cn.dictcn.android.digitize.receiver.RemindReceiver">
+<receiver name="cn.dictcn.android.digitize.receiver.NetChangeReceiver">
+1
+<provider authorities="cn.dictcn.android.digitize.shcs_xdhytygfzd_20001.contentprovider_searchword" name="cn.dictcn.android.digitize.contentprovider.SearchWordContentProvider" exported="true">
+Owner: CN=Dict CN, O=dict.cn, L=Shanghai, ST=Shanghai, C=86
+Issuer: CN=Dict CN, O=dict.cn, L=Shanghai, ST=Shanghai, C=86
+Serial number: 4bed12c7
+Valid from: Fri May 14 17:07:19 CST 2010 until: Tue May 08 17:07:19 CST 2035
+Certificate fingerprints: 
+	MD5:E8:FD:4C:CB:50:0B:F2:0D:C8:C6:EF:6F:13:53:01:83
+	SHA1: BA:A0:2A:20:07:59:84:4B:E1:CD:60:C6:69:FE:86:00:B3:DB:B3:D4
+	SHA256: 4F:31:48:CB:FB:52:94:70:3B:69:CD:77:5F:64:E2:50:02:0F:D7:E3:30:88:FB:2B:D1:49:F7:1C:2C:6E:02:D0
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,143 @@
+com.ihaozhuo.youjiankang
+3
+1.2.0
+10
+14
+30
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.ihaozhuo.youjiankang.permission.JPUSH_MESSAGE
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+85
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.LoadingActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.MainActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.LoginActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.RegisterActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.UserInfoActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.ExamineActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.CompanyValidateActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.CompanyEnterDataActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.MedicalCenterActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.MedicalMapActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.SelectCityActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.MedicalComboActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.MedicalDateActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.MedicalPackageActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.MedicalPackageAddActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.MedicalPackageItemActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PersonReserveActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PersonalReserveResultActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.ReportSearchActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.ReportGraphCodeActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.ReportMedicalListActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.ReportHistoryActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.UserShortcutReportActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthRishPKResultActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PKResultActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PKResultActivity1_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthEvaluateActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealPKMainActivity_" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthEvaluateMainActivity_" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthEvaluateReportReslutAcitivity_" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthEvaluateIDHResultActivity_" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthAddReportActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthRiskTrendActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthRiskEvluateActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthRiskDetailActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthIllnessEvluateActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthIllnessEvluateResultActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PhysiqueEvluateActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PhysiqueEvluateResultActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PhysiqueEvluateListActvity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.UserReserveListActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.UserReserveDetailActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.UserReportListActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.UserHealthReportListActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.UserEvaluateListActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.NewsDetailActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.NewsOfSubjectActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.NewsChannelActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.InvoiceActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.NewsExtendActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.SettingActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.AboutUsActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.WebViewActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.TextViewActivity_" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.NewsCommentActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.NewsCollectActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.SnsDetailActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.SnsPublishActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.AlbumActivity" theme="2131558420" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PictureActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.ChooseHealthExamineActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.SnsCommentActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.LocateActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PoiSearchActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.RouteActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.UserCollectCategoryActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.SnsCollectListActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.SnsGallaryPicActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.CouponsActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.CouponDetailActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.HealthReportEvluateActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.IHDPredictActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.message.MessageListActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.TJWebviewActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.ReserveAddInfoActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PackageListActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.PackageItemDetailActivity_" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ihaozhuo.youjiankang.wxapi.WXEntryActivity" theme="16973839" exported="true" launchMode="1">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+4
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+4
+<receiver name="com.ihaozhuo.push.BaiduMessageReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver enabled="true" name="com.ihaozhuo.broadcast.TalkReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+0
+Owner: CN=Gao Xinliang, OU=Witspring, O=Witspring, L=Hangzhou, ST=Zhejiang, C=330000
+Issuer: CN=Gao Xinliang, OU=Witspring, O=Witspring, L=Hangzhou, ST=Zhejiang, C=330000
+Serial number: 4df364a2
+Valid from: Mon Nov 17 20:36:51 CST 2014 until: Wed Oct 24 20:36:51 CST 2114
+Certificate fingerprints: 
+	MD5:1D:18:EE:1D:AE:53:4A:9E:D5:55:A3:6A:EC:E9:43:62
+	SHA1: 32:42:D0:1A:5D:02:A1:AE:49:EE:FA:CF:01:B4:F0:D5:53:AA:A9:CC
+	SHA256: EC:19:07:6C:E0:CB:F2:24:EF:BC:F6:54:7B:1B:1B:BF:CE:E0:4A:C3:14:1D:DE:55:E2:C0:B1:9A:3A:06:B9:0E
+	Signature algorithm name: SHA256withRSA
+	version: 3

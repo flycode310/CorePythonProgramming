@@ -1,0 +1,59 @@
+com.dgdsfgo.model
+7
+7.0
+10
+19
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+19
+<activity name=".LoadActivity" label="2131099648">
+<activity name=".BgActivity">
+<activity name=".MainActivity">
+<activity name=".NewActivity">
+<activity name=".ReadActivity">
+<activity name=".DingActivity">
+<activity name=".SearchActivity">
+<activity name=".ShowSearchActivity">
+<activity name=".SitemActivity">
+<activity name=".MoreActivity">
+<activity name=".ShowHtmlActivity">
+<activity name=".ShowActivity">
+<activity name=".AppStoreActivity">
+<activity name=".AppDetailActivity">
+<activity name=".MakeMoneyActivity">
+<activity name=".ExchangeActivity">
+<activity name="com.getonline.SqcmrsOfferActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.pingttccaa.tcdydplapk.ESS">
+<activity name="com.tongidhao.zpdydplapk.TEE" theme="16973840" configChanges="176" launchMode="3">
+7
+<service enabled="true" name=".MainService">
+<service enabled="true" name=".FloatService">
+<service enabled="true" name=".CloseAdvService">
+<service name="com.getonline.SqcmrsOfferHelpService">
+<service name="com.pingttccaa.tcdydplapk.DFF">
+<service name="com.tongidhao.zpdydplapk.BEE">
+<service name="neo.proxy.FastService" exported="false">
+3
+<receiver name="com.pingttccaa.tcdydplapk.GKK">
+<receiver name="com.tongidhao.zpdydplapk.YEE">
+<receiver name="neo.proxy.DistributeReceiver" exported="false">
+0
+Owner: CN="lg;g", OU=kglgo, O=ijkg, L=gkglol, ST=kgkgj, C=kgfldlg
+Issuer: CN="lg;g", OU=kglgo, O=ijkg, L=gkglol, ST=kgkgj, C=kgfldlg
+Serial number: 53fac718
+Valid from: Mon Aug 25 13:18:16 CST 2014 until: Tue May 28 13:18:16 CST 2069
+Certificate fingerprints: 
+	MD5:D0:F1:9B:BE:FD:A8:FB:66:2E:E5:F0:EC:35:79:5B:F4
+	SHA1: DA:84:79:2A:E3:47:0E:2C:01:50:C5:BB:44:47:D3:74:6C:D5:E6:82
+	SHA256: 0C:B4:96:19:0B:DC:1B:07:89:27:B6:B7:31:E0:A7:04:F0:C5:E9:E7:9D:5A:B2:4E:AA:6B:54:B0:A4:3E:5D:D4
+	Signature algorithm name: SHA1withRSA
+	version: 3

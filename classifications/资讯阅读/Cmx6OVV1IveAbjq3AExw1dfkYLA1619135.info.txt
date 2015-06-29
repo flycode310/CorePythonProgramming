@@ -1,0 +1,91 @@
+com.so.news.activity
+27
+1.4.1
+8
+19
+17
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+com.android.launcher.permission.WRITE_SETTINGS
+49
+<activity screenOrientation="1" name="com.so.news.activity.SplashActivity" theme="2131296283" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.LoginListActivity" theme="2131296274" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.News_Web_Activity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.kandian.activity.DailyDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.kandian.activity.VideoFullActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.kandian.activity.NewsDetailActivity" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.so.news.activity.TongZhiListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.Joke_Web_Activity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.AtlasActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.SendCommntActivity" configChanges="160" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.MobileSearchActivity" configChanges="160" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.so.news.activity.MobileWebActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.so.news.activity.LunboActivity" theme="2131296282" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.SubscribeActivity" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.so.news.activity.MainActivity" configChanges="160" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.so.news.activity.Web_Activity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.TouchImageActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.AboutActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.FeedbackActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.GeneralSettingsActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.OfflineManageActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.CityQueryActivity" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.PersonalCenterActivity" theme="2131296274" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.SubscriberActivity" theme="2131296274" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.MySubsActivity" theme="2131296274" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.SubCenterActivity" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.FavorActivity" theme="2131296274" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.MyShareActivity" theme="2131296274" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.activity.CommentActivity" theme="2131296274" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.so.news.activity.SpecificTopicWebActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.SearchSubsActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.so.news.activity.SpecificSubActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.QihooLoginActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.QihooRegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.SmsCodeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.AgreementActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.PersonalProfileActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.so.news.activity.NotificationActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.so.news.activity.WorldCupActivity" configChanges="160">
+<activity screenOrientation="1" name="com.so.news.activity.wxapi.WXEntryActivity" theme="2131296281" configChanges="160" exported="true">
+<activity screenOrientation="1" name="com.so.news.activity.wxapi.WeiboEntryActivity" theme="2131296281" configChanges="160" exported="true">
+<activity process="com.so.news.activity.crashreport" screenOrientation="1" name="com.so.news.activity.CrashReportActivity" theme="2131296278" label="2131230835">
+<activity screenOrientation="1" name="com.so.news.activity.CustomSelectAccountsActivity" theme="2131296272" configChanges="1184">
+<activity name="com.so.news.activity.CustomAddAccountsForSsoActivity" theme="2131296272" configChanges="1184">
+<activity name="com.qihoo360.accounts.ui.a.WebViewActivity" theme="2131296272" configChanges="1184">
+<activity screenOrientation="1" name="com.so.news.kandian.activity.CommentActivity" theme="2131296274" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.kandian.activity.SendCmtActivity" theme="2131296274" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.kandian.activity.TopicNewsListActivity" theme="2131296274" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.so.news.kandian.activity.TopicCommentActivity" theme="2131296274" configChanges="160" windowSoftInputMode="3" launchMode="1">
+4
+<service name="com.so.news.service.OffLineService">
+<service name="com.so.news.service.MessengerService">
+<service process=":Music" name="com.so.news.kandian.music.PlayerService" exported="false">
+<service process="com.qihoo360.accounts" name="com.qihoo360.accounts.sso.svc.AccountService" exported="true">
+1
+<receiver name="com.so.news.activity.NewsBroadcastReceiver">
+0
+Owner: CN=qihu, OU=search department, O=qihu, L=Beijing, ST=Beijing, C=86
+Issuer: CN=qihu, OU=search department, O=qihu, L=Beijing, ST=Beijing, C=86
+Serial number: 7a3c2a62
+Valid from: Thu Sep 05 15:43:54 CST 2013 until: Sat Aug 12 15:43:54 CST 2113
+Certificate fingerprints: 
+	MD5:6C:E7:5A:0F:F3:3F:28:8B:69:5E:08:6E:D0:14:97:7D
+	SHA1: 47:4E:CE:D0:4D:2A:A2:0A:FD:3B:CE:65:E9:DA:B3:83:D3:4D:BD:B6
+	SHA256: 4E:5C:BF:B1:02:73:98:92:01:52:76:50:45:37:37:F1:37:B0:2E:C8:E8:1B:E4:CA:46:7A:BD:EF:11:A1:CF:42
+	Signature algorithm name: SHA256withRSA
+	version: 3

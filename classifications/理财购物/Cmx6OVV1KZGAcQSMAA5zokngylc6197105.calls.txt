@@ -1,0 +1,7 @@
+android.util.Log: int d(java.lang.String,java.lang.String)
+android.database.Cursor: java.lang.String getString(int)
+android.telephony.TelephonyManager: java.lang.String getSubscriberId()
+android.content.pm.PackageManager: java.util.List getInstalledPackages(int)
+java.net.URL: void <init>(java.lang.String)
+android.telephony.TelephonyManager: java.lang.String getDeviceId()
+android.os.Handler: boolean sendMessage(android.os.Message)

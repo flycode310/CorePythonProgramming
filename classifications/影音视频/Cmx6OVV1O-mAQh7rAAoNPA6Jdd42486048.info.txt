@@ -1,0 +1,25 @@
+com.daye.yywtm.activity
+1
+1.0
+8
+18
+3
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity screenOrientation="1" name="com.daye.yywtm.activity.SplashActivity" theme="2131099650" label="2131034112">
+<activity screenOrientation="1" name="com.daye.yywtm.activity.MainActivity" theme="2131099651">
+0
+0
+0
+Owner: CN=daye, OU=dayeshengde, O=dayeshengde, L=beijing, ST=beijing, C=CN
+Issuer: CN=daye, OU=dayeshengde, O=dayeshengde, L=beijing, ST=beijing, C=CN
+Serial number: 52537497
+Valid from: Tue Oct 08 10:57:27 CST 2013 until: Mon Feb 08 10:57:27 CST 3013
+Certificate fingerprints: 
+	MD5:2F:9F:69:E3:D8:5E:29:75:C3:DE:38:DC:CE:E8:DB:1F
+	SHA1: F5:FF:55:7D:7B:22:61:B4:22:53:E5:69:F3:0D:D7:B3:01:35:74:0B
+	SHA256: 94:02:81:F0:46:66:12:E7:D0:D6:30:30:7A:15:04:B6:65:FF:C5:48:EA:68:B8:DD:52:69:3F:E3:FF:DE:08:C1
+	Signature algorithm name: SHA1withRSA
+	version: 3

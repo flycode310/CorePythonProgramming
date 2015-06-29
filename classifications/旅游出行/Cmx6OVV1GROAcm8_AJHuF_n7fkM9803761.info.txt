@@ -1,0 +1,98 @@
+com.lingtuan
+13
+2.4
+8
+-1
+21
+android.permission.READ_EXTERNAL_STORAGE
+com.lingtuan.permission.JPUSH_MESSAGE
+android.permission.WRITE_APN_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+51
+<activity screenOrientation="1" name="LoadingActivity" label="2131296257">
+<activity screenOrientation="1" name=".activitytab.TodayActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activitytab.GalleryActivity">
+<activity screenOrientation="1" name=".activitytab.NearbyActivity">
+<activity screenOrientation="1" name=".activitytab.RotateActivity">
+<activity screenOrientation="1" name=".activitytab.CropActivity">
+<activity screenOrientation="1" name=".activitytab.CorrectActivity">
+<activity screenOrientation="1" name=".activitytab.PickScorePopupWindow" theme="16973840">
+<activity screenOrientation="1" name=".activitytab.SelectPicPopupWindow" theme="16973840">
+<activity screenOrientation="1" name=".activitytab.AppGuideActivity" theme="16973839">
+<activity screenOrientation="1" name=".activitytab.ShopShaituanActivity">
+<activity screenOrientation="1" name=".activitytab.ShaituanActivity">
+<activity screenOrientation="1" name=".activitytab.ShopListActivity">
+<activity screenOrientation="1" name=".activitytab.CommentDetailActivity">
+<activity screenOrientation="1" name=".activitytab.ProductInfoActivity">
+<activity screenOrientation="1" name=".activitytab.CrosseActivity">
+<activity screenOrientation="1" name=".activitytab.ShopSellingProductActivity">
+<activity screenOrientation="1" name=".activitytab.MyImageActivity">
+<activity screenOrientation="1" name=".activitytab.InviteActivity">
+<activity screenOrientation="1" name=".activitytab.InviteSecondActivity" theme="2131361795">
+<activity screenOrientation="1" name=".activitytab.InviteResultActivity">
+<activity screenOrientation="1" name=".activitytab.EventActivity">
+<activity screenOrientation="1" name=".activitytab.EventDetailActivity">
+<activity screenOrientation="1" name=".activitytab.AppointmentListActivity">
+<activity screenOrientation="1" name=".activitytab.MessageListActivity">
+<activity screenOrientation="1" name=".activitytab.UserSpaceActivity">
+<activity screenOrientation="1" name=".activitytab.ChatWebActivity">
+<activity screenOrientation="1" name=".chat.ChatActivity">
+<activity screenOrientation="1" name=".activitytab.MyLingTuanEditActivity">
+<activity screenOrientation="1" name=".activitytab.EventDetailManagerActivity" theme="2131361795">
+<activity screenOrientation="1" name=".activitytab.UserManagerActivity">
+<activity screenOrientation="1" name=".Login.LoginActivity">
+<activity screenOrientation="1" name=".ItemDatail.ItemDetailActivity">
+<activity screenOrientation="1" name="com.lingtuan.activitytab.VKMainListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.lingtuan.activitytab.ShopInfoActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.lingtuan.activitytab.PageActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.lingtuan.activitytab.MyLingTuanListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ItemList.ItemListActivity">
+<activity screenOrientation="1" name="com.lingtuan.map.MapViewActivity">
+<activity screenOrientation="1" name="com.lingtuan.map.SogoMapActivity">
+<activity screenOrientation="1" name="com.lingtuan.map.BDMapActivity" launchMode="0">
+<activity name="com.lingtuan.map.SoGoTest">
+<activity screenOrientation="1" name="com.lingtuan.ItemDatail.DetailWebView">
+<activity screenOrientation="1" name=".activitytab.MyLingTuanActivity">
+<activity screenOrientation="1" name=".log.LogActivity">
+<activity screenOrientation="1" name=".log.ChangeNameActivity">
+<activity screenOrientation="1" name=".activitytab.MoreActivity">
+<activity screenOrientation="1" name=".log.RegisterActivity">
+<activity screenOrientation="1" name="com.lingtuan.TabChange" launchMode="0">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+3
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+3
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.lingtuan.MyReceiver">
+0
+Owner: CN=zhou, OU=lingtuan, O=lingtuan, L=bj, ST=bj, C=010
+Issuer: CN=zhou, OU=lingtuan, O=lingtuan, L=bj, ST=bj, C=010
+Serial number: 50ee99bd
+Valid from: Thu Jan 10 18:36:45 CST 2013 until: Thu Jan 02 18:36:45 CST 2048
+Certificate fingerprints: 
+	MD5:C4:F2:9E:48:18:44:FF:AC:60:EC:C3:75:F1:15:AF:59
+	SHA1: B5:08:25:CD:16:84:E8:6F:BA:D4:2A:9A:23:67:6A:62:89:57:57:84
+	SHA256: 8D:E2:DE:71:17:BD:34:25:1F:FD:65:FB:7C:C1:01:00:25:05:A4:20:C1:DD:07:AC:45:8A:E0:F9:E9:53:57:08
+	Signature algorithm name: SHA1withRSA
+	version: 3

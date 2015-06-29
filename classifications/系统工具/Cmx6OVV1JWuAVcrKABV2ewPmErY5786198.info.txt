@@ -1,0 +1,48 @@
+com.aries.android.QRCode
+1
+1.0
+8
+15
+16
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name="com.wooboo.adlib_android.AdActivity" configChanges="160">
+<activity name="com.wooboo.adlib_android.FullActivity" configChanges="160" launchMode="2">
+<activity excludeFromRecents="true" name="com.kuguo.ad.MainActivity" theme="16973835" launchMode="3">
+<activity excludeFromRecents="true" name="com.kuguo.ad.BoutiqueActivity" theme="16973835" launchMode="3">
+<activity name=".QRCodeActivity" theme="2131296257" configChanges="160" label="2131230723">
+<activity name=".Splash" theme="2131296256">
+<activity name=".CreateQRCodeActivity" theme="2131296257" configChanges="160" label="2131230723">
+<activity name=".QRCodeResultActivity" theme="2131296257" label="2131230723">
+<activity screenOrientation="1" name=".ScanQRCodeActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+2
+<service name="com.wooboo.download.WoobooService">
+<service name="com.kuguo.ad.MainService">
+1
+<receiver name="com.kuguo.ad.MainReceiver">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 50017ed0
+Valid from: Sat Jul 14 22:14:40 CST 2012 until: Mon Jul 07 22:14:40 CST 2042
+Certificate fingerprints: 
+	MD5:55:93:D2:1E:D3:CE:4F:11:95:94:5D:0F:D8:B9:53:41
+	SHA1: 36:E9:DE:A0:6C:7F:AF:98:CB:62:E6:89:C2:A0:70:F2:1F:66:8A:A0
+	SHA256: 31:D3:FF:4A:F8:8F:4C:6B:45:FA:F5:72:7B:F2:1D:4E:7C:3D:08:FD:19:98:89:3B:94:68:08:A6:0F:31:9E:1E
+	Signature algorithm name: SHA1withRSA
+	version: 3

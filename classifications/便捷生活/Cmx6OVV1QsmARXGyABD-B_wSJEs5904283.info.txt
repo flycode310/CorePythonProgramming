@@ -1,0 +1,25 @@
+com.cooguo.memo
+1
+1.0
+7
+7
+1
+com.android.email.permission.ACCESS_PROVIDER
+3
+<activity name=".ui.MemoMain" label="2131230720" windowSoftInputMode="32">
+<activity name=".ui.MemoEdit" configChanges="160" label="2131230720" windowSoftInputMode="32">
+<activity name="ui.MemoAccount" label="2131230720" windowSoftInputMode="32">
+0
+0
+1
+<provider authorities="com.cooguo.provider.memo" name=".provider.MemoProvider">
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: b3998086d056cffa
+Valid from: Wed Apr 16 06:40:50 CST 2008 until: Sun Sep 02 06:40:50 CST 2035
+Certificate fingerprints: 
+	MD5:8D:DB:34:2F:2D:A5:40:84:02:D7:56:8A:F2:1E:29:F9
+	SHA1: 27:19:6E:38:6B:87:5E:76:AD:F7:00:E7:EA:84:E4:C6:EE:E3:3D:FA
+	SHA256: C8:A2:E9:BC:CF:59:7C:2F:B6:DC:66:BE:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8
+	Signature algorithm name: MD5withRSA
+	version: 3

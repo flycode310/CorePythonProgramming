@@ -1,0 +1,111 @@
+com.UCMobile
+156
+10.1.0
+8
+8
+53
+android.permission.READ_LOGS
+com.huawei.launcher.permission.WRITE_SETTINGS
+org.adwfreak.launcher.permission.READ_SETTINGS
+android.permission.CALL_PHONE
+android.permission.CLEAR_APP_CACHE
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+com.sec.android.app.twlauncher.WRITE_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.PERSISTENT_ACTIVITY
+com.oppo.launcher.permission.READ_SETTINGS
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.fede.launcher.permission.WRITE_SETTINGS
+com.gau.go.launcherex.permission.WRITE_SETTINGS
+com.nd.android.launcher.permission.WRITE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.EXPAND_STATUS_BAR
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+com.fede.launcher.permission.READ_SETTINGS
+org.adw.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.htc.launcher.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+com.sec.android.app.twlauncher.READ_SETTINGS
+android.permission.ACCESS_COARSE_LOCATION
+com.mx.launcher.permission.WRITE_SETTINGS
+org.adwfreak.launcher.permission.WRITE_SETTINGS
+com.android.mylauncher.permission.READ_SETTINGS
+com.android.mylauncher.permission.WRITE_SETTINGS
+com.huawei.launcher.permission.READ_SETTINGS
+android.permission.GET_PACKAGE_SIZE
+org.adw.launcher.permission.WRITE_SETTINGS
+com.gau.go.launcherex.permission.READ_SETTINGS
+com.huawei.android.launcher.permission.WRITE_SETTINGS
+com.huawei.android.launcher.permission.READ_SETTINGS
+com.htc.launcher.permission.READ_SETTINGS
+com.android.email.permission.READ_ATTACHMENT
+com.nd.android.launcher.permission.READ_SETTINGS
+com.mx.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+com.oppo.launcher.permission.WRITE_SETTINGS
+17
+<activity finishOnTaskLaunch="true" name="com.UCMobile.main.UCMobile" theme="16973839" configChanges="1073741984" label="2131165379" windowSoftInputMode="32" noHistory="true" alwaysRetainTaskState="true" launchMode="2">
+<activity name="com.uc.browser.InnerUCMobile" theme="2131492914" configChanges="1073741984" label="2131165379" windowSoftInputMode="32" launchMode="2">
+<activity name="com.uc.browser.skinmgmt.CropImage">
+<activity screenOrientation="1" name="com.uc.browser.barcode.CaptureActivity" theme="2131492915">
+<activity name="com.UCMobile.SystemManageData.ManageDataActivity">
+<activity screenOrientation="0" name="com.uc.browser.cameraengine.CameraActivity" configChanges="160">
+<activity screenOrientation="1" name="com.UCMobile.ScreenshotsGraffiti.SGActivity" theme="2131492916" configChanges="160" label="2131165379">
+<activity screenOrientation="2" name="com.uc.browser.ProxyActivity" configChanges="160" label="ProxyActivity">
+<activity finishOnTaskLaunch="true" excludeFromRecents="true" name="com.uc.addon.adapter.PermissionDialogActivity" theme="2131492917" configChanges="160" label="2131165379" noHistory="true" taskAffinity="com.uc.addon.adapter.PermissionDialogActivity" launchMode="2">
+<activity finishOnTaskLaunch="true" excludeFromRecents="true" name=".wxapi.WXEntryActivity" theme="2131492917" configChanges="160" exported="true" label="2131165379" noHistory="true" taskAffinity="wxapi.WXEntryActivity" launchMode="2">
+<activity process="com.UCMobile.Enterprise" icon="2130837607" excludeFromRecents="true" name="com.uc.lightapp.LightAppActivity" theme="2131492866" configChanges="1073741984" label="2131165313" windowSoftInputMode="32" launchMode="1">
+<activity clearTaskOnLaunch="true" name="com.uc.search.SearchActivity" theme="2131492911" stateNotNeeded="true" taskAffinity="com.uc.search" alwaysRetainTaskState="true" launchMode="2">
+<activity enabled="false" screenOrientation="1" name="com.alipay.mobile.command.trigger.WebViewTrigger" theme="16973839" configChanges="160" exported="true" windowSoftInputMode="3">
+<activity name="com.taobao.tae.sdk.ui.LoginWebViewActivity">
+<activity name="com.taobao.tae.sdk.ui.TradeWebViewActivity">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+12
+<service name="com.uc.shopping.AlipayInstallService">
+<service process=":push" name="com.ucweb.message.UcwebPushService" exported="true">
+<service process=":push" name="com.ucweb.message.UcwebElectionService" exported="true">
+<service name="com.UCMobile.push.UcwebIntentService">
+<service name="com.UCMobile.main.NotificationService">
+<service process=":RemoteHttpService" name="com.uc.data.service.RemoteHttpService">
+<service process=":DownloadService" name="com.uc.browser.download.service.RemoteDownloadService">
+<service process=":TProcess" name="com.uc.browser.CrashLogFilesUploader">
+<service process=":RemoteBackgroundProcess" name="com.uc.security.SecurityService">
+<service process=":RemoteBackgroundProcess" name="com.uc.browser.msgpush.RemoteBackgroundProcess">
+<service name="com.uc.browser.openwifi.AuthOpenWifiService">
+<service process=":FloatWidgetProcess" name="com.UCMobile.desktopwidget.floatview.DesktopFloatService">
+8
+<receiver name="com.alipay.mobile.command.trigger.NotifyTrigger">
+<receiver name="com.UCMobile.receivers.SysReceiver" label="2131165379">
+<receiver name="com.uc.browser.googleanalytics.GoogleAnalyticsReceiver" exported="true">
+<receiver process=":RemoteBackgroundProcess" name="com.uc.browser.msgpush.BackgroundProcessBroadcastReveiver">
+<receiver name="com.ucweb.message.UcwebRegistrationReceiver">
+<receiver name="com.ucweb.message.UcwebPushReceiver">
+<receiver name="com.UCMobile.desktopwidget.UCWidgetProvider" label="2131165381">
+<receiver name="com.uc.browser.openwifi.NetworkConnectReceiver">
+1
+<provider authorities="com.UCMobile.main.UCContentProvider" name="com.UCMobile.main.UCContentProvider" exported="true">
+Owner: CN=uc, OU=uc, O=uc, L=gz, ST=gd, C=cn
+Issuer: CN=uc, OU=uc, O=uc, L=gz, ST=gd, C=cn
+Serial number: 4d92c9ac
+Valid from: Wed Mar 30 14:11:56 CST 2011 until: Thu Dec 31 14:11:56 CST 2065
+Certificate fingerprints: 
+	MD5:51:A5:EB:6E:85:03:3F:42:27:15:35:AA:D1:19:A2:F4
+	SHA1: 20:7B:2F:DD:43:EF:02:FF:00:FA:74:C9:32:D2:C1:D8:63:E5:14:52
+	SHA256: BB:E2:FF:26:98:28:A0:D9:22:49:8E:E8:7F:65:AF:E7:69:C2:7D:62:F4:89:D5:C1:9B:9C:C6:C4:44:C8:08:11
+	Signature algorithm name: SHA1withRSA
+	version: 3

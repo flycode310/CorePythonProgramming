@@ -1,0 +1,37 @@
+com.example.pinyin
+10133
+1.0.1
+4
+4
+10
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+4
+<activity name="com.example.pinyin.ui.MainActivity" label="2131099651">
+<activity screenOrientation="1" name="com.nono.Adbabdccaee6e4e52a24534d560fabd6c" theme="16973835" configChanges="176">
+<activity screenOrientation="1" name="com.nono.offers.A5ab41e178d0644809bfd4b829f4cbc9e" configChanges="176">
+<activity name="com.nono.offers.A0aaface62ae548cba1e668cebbd7f6f1" theme="16973830">
+2
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.nono.Adfc857f526214b54bfe14ef0e9fcc666">
+1
+<receiver name="com.nono.A08445741910c41ce8d8bcdaffb4d82dc">
+0
+Owner: CN=android, OU=ywwap, O=azrj, L=guangzhou, ST=guangdong, C=zh
+Issuer: CN=android, OU=ywwap, O=azrj, L=guangzhou, ST=guangdong, C=zh
+Serial number: 4ea528dc
+Valid from: Mon Oct 24 16:59:08 CST 2011 until: Tue Jul 27 16:59:08 CST 2066
+Certificate fingerprints: 
+	MD5:14:D4:34:49:5B:7B:FD:0B:19:39:0C:F5:25:84:5F:B4
+	SHA1: 71:17:AF:F0:34:F2:AE:75:D4:F0:D9:D9:17:85:C6:42:38:AB:A8:F2
+	SHA256: 58:7F:52:B8:7C:E0:FF:88:EF:3F:AB:87:09:85:F3:8E:91:9C:A1:86:02:FB:E6:09:A6:A6:9F:D3:13:E5:B6:0A
+	Signature algorithm name: SHA1withRSA
+	version: 3

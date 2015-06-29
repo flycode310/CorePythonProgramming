@@ -1,0 +1,64 @@
+com.hexin.android.bankfinancing
+1
+V1.00.01
+7
+17
+22
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.BAIDU_LOCATION_SERVICE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.BROADCAST_STICKY
+com.android.launcher.permission.READ_SETTINGS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+18
+<activity screenOrientation="1" name="com.hexin.android.bank.LogoActivity" theme="2131361799" configChanges="1184" label="2131231504">
+<activity screenOrientation="1" name="com.hexin.android.bank.BFinancingMapActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.BankActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.CityListActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.MoreActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.FinancingKnowledgeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.ProductDescriptionActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.ProductDetailActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.IFundTabActivity" theme="2131361822" configChanges="1073743008" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.hexin.android.bank.MyFundActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.PersonalFundActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.Browser" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.InvestorRightActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.LcbActivity" theme="2131361822" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.LcbHelpActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.SignInBounsActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.hexin.android.bank.wxapi.WXEntryActivity" configChanges="1184" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.hexin.android.fundtrade.activity.FundTradeActivity" configChanges="1073743008">
+2
+<service process=":remote" name="com.hexin.android.manager.AppUpgradeService">
+<service process="thspush.v1" name="com.hexin.android.pushservice.PushService" exported="true">
+2
+<receiver process="thspush.v1" name="com.hexin.android.pushservice.MethodReceiver">
+<receiver name="com.hexin.android.bank.PushMessageReceiver">
+0
+Owner: CN=hexin, OU=TongHuaShun, O=ShouJiKaiFaZu, L=Hangzhou, ST=ZheJiang, C=CN
+Issuer: CN=hexin, OU=TongHuaShun, O=ShouJiKaiFaZu, L=Hangzhou, ST=ZheJiang, C=CN
+Serial number: 4bac11dd
+Valid from: Fri Mar 26 09:46:05 CST 2010 until: Mon May 07 09:46:05 CST 2040
+Certificate fingerprints: 
+	MD5:11:05:82:F4:3C:AE:D5:05:85:45:99:C7:AD:A2:8E:77
+	SHA1: 77:F1:4A:EA:BB:56:20:A3:B9:8B:C0:00:8D:C4:E4:65:0E:C6:1F:35
+	SHA256: 80:FE:2B:E2:20:79:49:46:05:98:33:7F:3C:6E:EC:64:C9:6B:28:28:4E:39:FE:BB:55:BE:59:14:26:B0:3B:42
+	Signature algorithm name: MD5withRSA
+	version: 1

@@ -1,0 +1,150 @@
+mangocity.activity
+412
+4.1.2
+3
+19
+37
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+mangocity.activity.permission.JPUSH_MESSAGE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+com.android.vending.BILLING
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+83
+<activity multiprocess="false" screenOrientation="1" name=".SplashActivity" theme="16973831" configChanges="160" label="2131427385">
+<activity name=".FirstScreenAdActivity" theme="16973831">
+<activity multiprocess="false" screenOrientation="1" name=".ShowCaseActivity" configChanges="160">
+<activity multiprocess="false" screenOrientation="1" name=".HomeActivity" configChanges="160" launchMode="2">
+<activity multiprocess="false" screenOrientation="1" name=".VideoAreaActivity" configChanges="160" launchMode="2">
+<activity multiprocess="false" screenOrientation="1" name=".CommentActivity" configChanges="160" launchMode="2">
+<activity multiprocess="false" screenOrientation="1" name=".LoginActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".BindingWxActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".BundingUserActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".NotBDWXInputPasswordActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".BDInputPasswordActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".SettingActivity" configChanges="160">
+<activity multiprocess="false" screenOrientation="1" name=".UserActivity" configChanges="160">
+<activity multiprocess="false" screenOrientation="1" name=".MangoMessageActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name="MessageCenterActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".EditorUserInfoActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".UserMapViewActivity" configChanges="160">
+<activity multiprocess="false" screenOrientation="1" name=".PreferencesActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".UserInfoActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".CommonPassengerActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FreelinerProductDetailsActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FlightOlderActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FreeLinePreOrderActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FreeLinePreOrderChoiceActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FreeLineOrderActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FreeLineProductActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FreeLineActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FreeLineIndexActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".OnVacationOlderActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".LinerOlderActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".LocalCommonPassengerActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".LocalAddOrEditorPassengerActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".HotelOlderActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".VacationTypeActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".TacketOlderActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".AddOrEditorPassengerActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".EditorAddresActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".LoginFindPwActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".RegiserActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".CommonAddresssActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".MangoMapViewActivity" configChanges="160">
+<activity multiprocess="false" screenOrientation="1" name=".AboutActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".HotelActivity" configChanges="160">
+<activity multiprocess="false" screenOrientation="1" name=".AutoTravelDateActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".HotelOrderDetailActivity" configChanges="160">
+<activity multiprocess="false" screenOrientation="1" name=".VacTicOrderDetailActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="4" name="com.baidu.mapapi.search.poi.PlaceCaterActivity" configChanges="160" label="2131428004">
+<activity multiprocess="false" screenOrientation="1" name=".VoiceHelpActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FlightActivity" configChanges="160">
+<activity multiprocess="false" screenOrientation="1" name=".TicketsActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".TicketActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".PackageTourActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".SearchActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".SelectCityActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".AdWebviewActivity" configChanges="144" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".SpecialTestActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".VideoPlayerActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".TopadActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".VacationActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".VacationActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".ContactNumberActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".PaymentActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".SelectPayTypeActivity" configChanges="160" launchMode="1">
+<activity name=".wxapi.WXPayEntryActivity" exported="true" launchMode="1">
+<activity name=".wxapi.WXEntryActivity" exported="true" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".FlightOrderDetailActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".ScanCodeActivity" configChanges="160">
+<activity multiprocess="false" screenOrientation="1" name=".CommonDateActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".DaiJinQuanActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".CruiseshipActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".CruiseshipListActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.umpay.creditcard.android.UmpayActivity" configChanges="176" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity multiprocess="false" screenOrientation="1" name=".TimesSquareActivity" configChanges="160" launchMode="1">
+<activity multiprocess="false" screenOrientation="1" name=".NoNetWorkActivity" configChanges="160" launchMode="3">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity name=".MangoJpushReceiverActivity">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity name="com.chinatelecom.bestpayplugin.RechargeMainActivity" configChanges="224" exported="false">
+7
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="mangocity.service.DownloadAPKService" exported="true">
+<service name="mangocity.service.FirstScreenAdLoadService" exported="true">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+3
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name=".receiver.MangoJpushReceiver">
+0
+Owner: CN=mangocity, OU=www.mangocity.com, O=www.mangocity.com, L=shenzhen, ST=shenzhen, C=86
+Issuer: CN=mangocity, OU=www.mangocity.com, O=www.mangocity.com, L=shenzhen, ST=shenzhen, C=86
+Serial number: 4ec38d5d
+Valid from: Wed Nov 16 18:15:57 CST 2011 until: Sun Nov 01 18:15:57 CST 2071
+Certificate fingerprints: 
+	MD5:66:19:C5:C1:BE:D7:D6:69:EC:12:44:8D:39:FA:47:23
+	SHA1: E0:0C:67:0A:B7:C2:F7:2B:0F:52:1A:5D:60:9B:CE:D6:1B:CF:B9:E7
+	SHA256: 02:74:38:97:31:EE:B1:F0:A9:64:32:3F:71:67:3E:1A:E7:25:1B:BA:11:D9:F6:3E:7B:3C:59:00:D6:66:51:F6
+	Signature algorithm name: MD5withRSA
+	version: 1

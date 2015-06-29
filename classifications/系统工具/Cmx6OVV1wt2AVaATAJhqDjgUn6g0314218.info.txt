@@ -1,0 +1,91 @@
+com.tencent.qqpinyin
+1502
+4.9.2
+4
+-1
+12
+android.permission.READ_PHONE_STATE
+android.permisiion.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_APN_SETTINGS
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.READ_CONTACTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+53
+<activity name=".SettingsActivity" configChanges="160" label="2131166137" windowSoftInputMode="18">
+<activity name=".activity.FileListActivity" configChanges="160" label="2131166138">
+<activity name=".activity.HtmlActivity" configChanges="160" label="2131166138">
+<activity icon="2130837610" screenOrientation="1" name=".activity.GuideDialogActivity" configChanges="32" label="2131166137">
+<activity screenOrientation="1" name=".activity.GuideDialogActivityEnter" configChanges="32" label="2131165768" noHistory="true">
+<activity name=".activity.UserDictActivity" theme="16973832" configChanges="160" label="2131166138">
+<activity name=".activity.ContactDictActivity" configChanges="160" label="2131165549">
+<activity name=".activity.UserDictListActivity" configChanges="160" label="2131165751">
+<activity name=".activity.UserDictCnActivity" configChanges="160" label="2131165751">
+<activity name=".activity.InputSettingActivity" configChanges="160" label="2131166046">
+<activity name=".activity.DictManagerSettingActivity" configChanges="160" label="2131166054">
+<activity name=".activity.GuideHelpActivity" configChanges="160" label="2131166063">
+<activity name=".activity.AboutInputSettingActivity" configChanges="160" label="2131166066">
+<activity name=".activity.CateDictFrtCataActivity" configChanges="160" label="2131166139">
+<activity name=".activity.FileGridActivity" configChanges="160" label="2131166138">
+<activity name=".activity.CustomSkinListActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.SkinPreviewActivity" theme="2131296274" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.LocalSkinPreviewActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.OnlineSkinPreviewActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.SkinLocalPreviewActivity" configChanges="160">
+<activity name=".activity.SkinNewestActivity" configChanges="160">
+<activity name=".activity.SkinHottestActivity" configChanges="160">
+<activity name=".activity.SkinCategoryActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.SkinOnlinePreviewActivity" configChanges="160">
+<activity name=".activity.CustomPhraseMgrActivity" configChanges="160" label="2131165417">
+<activity name=".activity.WebSiteMgrActivity" configChanges="160" exported="false" label="2131165801" windowSoftInputMode="18">
+<activity name=".activity.UserDictListDeleteActivity" configChanges="160" label="2131165568">
+<activity screenOrientation="1" name=".activity.PhraseActivity" configChanges="160" windowSoftInputMode="18">
+<activity name=".activity.FuzzySettingActivity" configChanges="160" label="2131165914">
+<activity name=".activity.HandWriteRecognizeRangeSettingActivity" configChanges="160" label="2131165950">
+<activity name=".activity.KeyboardSettingActivity" configChanges="160" label="2131166052">
+<activity name=".activity.VersionInfoActivity" label="2131166066">
+<activity name=".activity.CateDictActivity" label="2131165576">
+<activity name=".activity.SymbolFileManagerSettingActivity" configChanges="160" label="2131165962">
+<activity screenOrientation="1" name=".activity.SkinCustomPreviewActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".media.CropImageActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.SkinCustomActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.SkinCustomEditActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.FontActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.FontOnlineActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.sogou.passportsdk.activity.WebViewLoginActivity" theme="16973830">
+<activity screenOrientation="1" name=".activity.PersonalCenterMainActivity" theme="16973830" configChanges="32" label="2131166081">
+<activity screenOrientation="1" name=".activity.PersonalCenterLoginActivity" theme="16973830" configChanges="32" label="2131166080">
+<activity screenOrientation="1" name=".activity.PersonalCenterAuthorizeActivity" theme="16973830" configChanges="32" label="2131166083">
+<activity screenOrientation="1" name=".activity.ThirdExpInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ThirdExpListActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.ThirdExpMgrActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ThirdExpSortActivity" configChanges="160">
+<activity name=".activity.UserExImproveActivity" configChanges="160" label="2131166138">
+<activity screenOrientation="1" name=".activity.QQBrowserActivity" configChanges="160" label="2131166138">
+<activity excludeFromRecents="true" name=".activity.ExceptionTipsActivity" theme="16973835" label="异常提示">
+4
+<service process="com.tencent.qqpinyin.service" name=".QQPYInputMethodService" exported="false" permission="android.permission.BIND_INPUT_METHOD">
+<service process="com.tencent.qqpinyin.core" enabled="true" name=".CoreService">
+<service process="com.tencent.qqpinyin.download" enabled="true" name=".activity.DownloadService">
+<service process=":remote" name=".voice.DownloadApkService">
+2
+<receiver process="com.tencent.qqpinyin" name=".AlarmReceiver">
+<receiver name=".CoreReceiver">
+0
+Owner: CN=QQPinyin, OU=Tencent Technology(Shenzhen) Company Limited, O=Tencent Technology(Shenzhen) Company Limited, L=Shenzhen, ST=Guangdong, C=CN
+Issuer: CN=QQPinyin, OU=Tencent Technology(Shenzhen) Company Limited, O=Tencent Technology(Shenzhen) Company Limited, L=Shenzhen, ST=Guangdong, C=CN
+Serial number: 4abc5940
+Valid from: Fri Sep 25 13:46:40 CST 2009 until: Sat Jun 28 13:46:40 CST 2064
+Certificate fingerprints: 
+	MD5:37:64:99:2D:14:EB:A4:1F:D5:ED:DB:63:77:D3:1D:7D
+	SHA1: 04:00:4D:DE:3B:2A:8C:07:E2:AE:8F:4E:9F:D9:C1:D4:21:B3:CE:6E
+	SHA256: 40:94:93:85:04:4D:5E:16:24:BB:22:57:82:D2:09:B3:82:4C:1E:04:B9:D8:77:F2:80:C8:B1:29:F5:C8:7C:6F
+	Signature algorithm name: SHA1withRSA
+	version: 3

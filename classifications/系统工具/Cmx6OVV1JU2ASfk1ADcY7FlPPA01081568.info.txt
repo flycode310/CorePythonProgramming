@@ -1,0 +1,47 @@
+cn.org.ancc.hanxincode
+4
+1.2.1
+8
+-1
+7
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.FLASHLIGHT
+20
+<activity screenOrientation="1" name=".MoYinActivity" theme="16973830" label="2131230723">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.CaptureActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.ScanLocalImageActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.QrResultActivity" theme="16973830">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.QrResultNotFoundActivity" theme="16973830">
+<activity screenOrientation="1" name="com.inspiry.qrcodedemo.GridViewActivity" theme="16973830">
+<activity screenOrientation="1" name=".HistoryActivity" theme="16973830">
+<activity screenOrientation="1" name=".CreateActivity" theme="16973830">
+<activity screenOrientation="1" name=".AboutActivity" theme="16973830">
+<activity screenOrientation="1" name=".CustomizeCreateActivity" theme="16973830" windowSoftInputMode="52">
+<activity screenOrientation="1" name=".EmailCreateActivity" theme="16973830" windowSoftInputMode="48">
+<activity screenOrientation="1" name=".ContactCreateActivity" theme="16973830" windowSoftInputMode="48">
+<activity screenOrientation="1" name=".ImageDisplay" theme="16973830">
+<activity screenOrientation="1" name=".AboutHelpActivity" theme="16973830">
+<activity screenOrientation="1" name=".AboutAboutActivity" theme="16973830">
+<activity screenOrientation="1" name=".AboutSettingsActivity" theme="16973830">
+<activity screenOrientation="1" name=".AboutSettingsWeiboActivity" theme="16973830">
+<activity screenOrientation="0" name=".ContactDisplayLand" theme="16973830">
+<activity screenOrientation="1" name=".ContactDisplayPort" theme="16973830">
+<activity screenOrientation="1" name=".WelcomeActivity" theme="16973830">
+0
+0
+0
+Owner: CN=jiajh, O=ANCC, ST=China
+Issuer: CN=jiajh, O=ANCC, ST=China
+Serial number: 603bcba4
+Valid from: Tue Sep 03 17:38:21 CST 2013 until: Thu Aug 10 17:38:21 CST 2113
+Certificate fingerprints: 
+	MD5:CF:77:8C:D3:B5:A5:D2:84:F9:2F:E3:7D:72:62:94:42
+	SHA1: 80:EF:CA:56:E0:E1:1F:88:9B:E6:87:AF:AD:EF:FA:00:47:E5:9A:42
+	SHA256: 30:F4:37:36:A8:99:41:3E:3F:FF:C8:C7:E8:E5:BC:FA:7E:87:A2:CA:FD:EC:EA:19:42:29:50:F1:25:81:57:34
+	Signature algorithm name: SHA256withRSA
+	version: 3

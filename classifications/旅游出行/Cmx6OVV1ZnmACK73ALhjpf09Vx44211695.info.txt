@@ -1,0 +1,363 @@
+com.cmbchina.ccd.pluto.cmbActivity
+30
+4.2.1
+8
+19
+32
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+org.simalliance.openmobileapi.SMARTCARD
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+com.nxp.nfceeapi.SMARTCARD
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.NFC
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.ACCESS_ASSISTED_GPS
+android.permission.WRITE_CALENDAR
+android.permission.RECEIVE_USER_PRESENT
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+302
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.wallet.activate.CheckWalletActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.wallet.activate.ActivateWalletActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.wallet.activate.ProtocolActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.wallet.apply.ApplyResultActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.wallet.apply.ApplyWalletActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.wallet.charging.ChargingWalletActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.accountpayment.AccountPaymentActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.accountpayment.DealsResultActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.login.LoginNormalActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.commoncertification.CommonCertificationActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.login.AccountLoginActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.activatecard.ActivateunBindCardActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.activatecard.ActivateBindCardActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.activatecard.SetCardCheckPinActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.activatecard.SetCardTranPinActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.activatecard.ActivateCardResultActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.activatecard.ActivateunBindCardResultActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.transactionmanage.SplashActivity" theme="16973839" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.updateexpiredate.UpdateExpireDateActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.updateexpiredate.UpdateExpireDateResultActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.util.Util1" theme="16973839" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.util.Util2" theme="16973839" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.util.CmbSoftKeyboard" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.passwordmanage.ResetPWDValidateInfoActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.passwordmanage.ResetPWDValidateQuestionActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.passwordmanage.ResetPWDSettingsActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.passwordmanage.ResetPWDLockActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.passwordmanage.ResetPWDSuccessActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.addotherbankcard.verifycardnoandname.AddCardOfOtherBankActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.addotherbankcard.verifycardnoandname.AddCardProtocolActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.addotherbankcard.bindbankcard.AddCardOfOtherBankDetailActivity" configChanges="224">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.nfcwallet.applyWallet.ApplyNFCWalletProtocolActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.nfcwallet.applyWallet.ApplyNFCWalletActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.nfcwallet.openWallet.OpenNFCWalletActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.nfcwallet.load.LoadNFCWalletActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.nfcwallet.resetTradePWD.ResetWalletTradePWDActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.secplugin.nfcwallet.changeTradePWD.ChangeWalletTradePWDActivity" theme="16973839" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".SplashActivity" theme="2131492962" label="2131361827" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignReceiveFailActivity" theme="2131492961" launchMode="1">
+<activity name="com.cmb.foundation.share.OauthShareEditActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingOrderedListActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryKuaiSanSubActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryLuckNum" theme="2131492961">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingMainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingRegulationActivity" theme="2131492961">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingResultActivity" theme="2131492961">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingOrderConfirmActivity" theme="2131492961">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingEntityGiftActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingUnEntityGiftActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingOtherShopsActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingQueryQualificationActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".panicbuying.PanicBuyingSplashActivity" theme="16973839" launchMode="1">
+<activity screenOrientation="1" name=".find.FindSplashActivity" theme="2131492961" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".find.FindCouponOopsActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".find.EverybodyLikesActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindTypeActivity" theme="2131492968">
+<activity screenOrientation="1" name=".find.QRCodeActivity" theme="16973840">
+<activity screenOrientation="1" name=".find.FindCouponDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.StoreIntegralDeatilActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindMyCouponDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindCouponActDetailsActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindCouponMineActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindCouponTicketActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindCouponListActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindTopScreenActivity">
+<activity screenOrientation="1" name=".find.FindCouponExchangeResultActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindCouponFreePassWDPayActivity" theme="16973840">
+<activity screenOrientation="1" name=".find.FindCouponPayResultActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.CouponSuitableStoresActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindSuitableStoreMapActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindCouponExchangeResult" theme="2131492961">
+<activity screenOrientation="1" name=".find.CouponMineCanUseActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.CouponMineHaveUseActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.CouponMineNeedPayActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.CouponMineUselessActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.CouponMineActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.FindMyCouponDetailQRCodeActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.overseas.OverseasListActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.overseas.OverseasTopScreenActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.LifeActivity" theme="2131492961">
+<activity screenOrientation="1" name=".DetailTestActivity" theme="2131492961">
+<activity screenOrientation="1" name=".TestShowResultActivity" theme="2131492961">
+<activity screenOrientation="1" name=".MainActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".OopsActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".appRecommend.RecommendActivityActivity" theme="2131492961">
+<activity screenOrientation="1" name=".appRecommend.RecommendActivityDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".messageBox.MessageMainActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".messageBox.MessageDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.StagingQueryActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.StagingCategoryActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.StagingProtocolWebView" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.billStaging.BillStagingOrderConfirmActivity" theme="2131492966">
+<activity screenOrientation="1" name=".life.stages.billStaging.BillStagingDetailsActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.cashStaging.CashStagingDetailsActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.billStaging.BillStagingSplashActivity" theme="16973839" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.billStaging.BillStagingMainActivity" theme="2131492961" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.billStaging.BillStagingActDetailsActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.cashStaging.CashStagingSplashActivity" theme="16973839" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.cashStaging.CashStagingOrderConfirmActivity" theme="16973839" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.cashStaging.CashStagingMainActivity" theme="2131492961" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.dealStaging.DealStagingDetailsActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.dealStaging.DealStagingTradeInfoActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.dealStaging.DealStagingOrderConfirmActivity" theme="2131492966" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.dealStaging.DealStagingSplashActivity" theme="16973839" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.dealStaging.DealStagingMainActivity" theme="2131492961" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".life.stages.dealStaging.DealStagingStagesActivity" theme="2131492966" launchMode="1">
+<activity screenOrientation="1" name=".cardManager.CardManagerMainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".cardManager.MyCardListActivity" theme="2131492961">
+<activity screenOrientation="1" name=".cardManager.CardManagerProtocolActivity" theme="2131492961">
+<activity screenOrientation="1" name=".cardManager.CardManagerCardDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.DealHistoryActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.BusinessBookDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.mineActivity.mineService.AmendAddressActivity" theme="2131492961">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.mineActivity.mineService.AmendAddressDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.mineActivity.mineService.MineServiceMainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.SettingMainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.SettingNotifyActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.SettingBindCardActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.SettingAboutActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.AboutClientActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.ClientExplainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.ClientOperatGuideActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.SettingAmendNameAvtivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.SettingUserFeedbackActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.SettingMobileBankActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.SettingTinyBankActivity" theme="2131492961">
+<activity screenOrientation="1" name=".bonusManager.BonusMineActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".bonusManager.BonusDetailActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".bonusManager.BonusChoiceActivity" theme="2131492966" launchMode="1">
+<activity screenOrientation="0" name=".BarCodeActivitys.CaptureActivity" theme="16973838" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.bitmapCapture.ChoiceBitmapActivity" theme="16973840">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.bitmapCapture.CropBitmapActivity">
+<activity screenOrientation="1" name=".mineActivity.MineActivity" theme="2131492961">
+<activity screenOrientation="1" name=".mineActivity.MineSignatureActivity" theme="16973840">
+<activity screenOrientation="1" name=".cmbView.cmbWebView.CmbWebViewActivity" theme="2131492961">
+<activity screenOrientation="1" name=".city.CityMainActivity" theme="2131492966" launchMode="1">
+<activity screenOrientation="1" name=".life.repayment.RepaymentMainActivity" theme="2131492961" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".life.repayment.RepaymentProtocolActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".life.repayment.RepaymentAddDebitCardActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".cmbResult.CmbNormSuccessActivity" theme="2131492966" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".cmbResult.CmbSuccessActivity" theme="2131492966" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".cmbResult.CmbStandardFailedActivity" theme="2131492966" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".cmbResult.CmbTradeFailedActivity" theme="2131492966" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".applyCard.RecommendCardActivity" theme="2131492966" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".applyCard.ApplyCardActivity" theme="2131492966" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".applyCard.ApplyCardProtocol" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".applyCard.CreditCardDeatilActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".applyCard.RenewCardExpressInfoActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".applyCard.RenewCardSelectCardActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".applyCard.RenewCardSuccessActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".applyCard.RenewCardUpdateInfoActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.life.LifeCommonSplashActivity" theme="16973840">
+<activity screenOrientation="1" name=".life.repayment.RepaymentBillMainActivity" theme="2131492966">
+<activity screenOrientation="1" name=".life.repayment.RepaymentBillCardsActivity" theme="2131492966">
+<activity screenOrientation="1" name=".life.repayment.RepaymentBillSuccess" theme="2131492961">
+<activity screenOrientation="1" name=".life.limit.LimitMainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.limit.LimitCheckDVCActivity" theme="16973840" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".life.limit.LimitRegularActivity" theme="2131492961" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".life.limit.LimitRegularSplashActivity" theme="16973840">
+<activity screenOrientation="1" name=".life.limit.LimitRegularSuccessActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.limit.LimitTempActivity" theme="2131492961" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".life.limit.LimitTempSplashActivity" theme="16973840">
+<activity screenOrientation="1" name=".life.limit.LimitTempCancelActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.limit.LimitTempSuccessActivity" theme="2131492961">
+<activity screenOrientation="1" name=".express.ExpressMainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".express.ExpressListActivity" theme="2131492961">
+<activity screenOrientation="1" name=".express.ExpressWebViewActivity" theme="2131492961">
+<activity screenOrientation="1" name=".scheduleQuery.ScheduleQueryMainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".scheduleQuery.ScheduleQuerySuccessActivity" theme="2131492961">
+<activity screenOrientation="1" name=".scheduleQuery.ScheduleQueryFailedActivity" theme="2131492961">
+<activity screenOrientation="1" name=".receiverManager.ReceiverManagerMainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".receiverManager.ReceiverManagerSettingActivity" theme="2131492961">
+<activity screenOrientation="1" name=".receiverManager.ReceiverManagerSelectActivity" theme="2131492961">
+<activity screenOrientation="1" name=".receiverManager.ReceiverManagerModifyActivity" theme="2131492961" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".mall.MallWebActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripTravelActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripWebActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripTravelDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripAttentionFlightActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripTravelFlowActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripTravelTipActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripTravelTrafficAvtitivy" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripAirportPhoneAtivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripTravelAddTipAvitivy" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripEquityActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.FlightQueryActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.FlightQueryResultActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripDatePickerActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.QueryCityPickActivity" theme="2131492961" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".trip.HotelDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripTravelUnFocusFlightDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".trip.TripTravelTrafficDetailActivity" theme="2131492967">
+<activity screenOrientation="1" name=".lifePayment.LifePaymentMainActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".lifePayment.LifePaymentWebActivity" theme="2131492961" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name=".mobileRecharge.MobileRechargeMainActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".mobileRecharge.MobileRechargeDiaLog" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".mobileRecharge.MobileRechargeActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".mobileRecharge.MobileRechargeConfirmActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".mobileRecharge.MobileDataRechargeMainActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".mobileRecharge.MobileDataRechargeConfirmActivity" theme="2131492961" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".lottery.LotteryMainBaseActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.LotteryRechargeActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.LotteryUserInfoActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".lottery.home.LotterySubActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryHistoryInfoActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryIntroduceActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryBetConfirmActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryWebViewActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotterySubFootballActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryFootTypeActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotterySubBasketballActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryBasketTypeActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotterySubIntroActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotterySelectRaceActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryResultFootActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.home.LotteryResultBasketActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.announcement.LotteryAnnouncementDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.account.LotteryAccountBonusActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.account.LotteryAccountSaveActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.account.LotteryToCashBindCardActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.account.LotteryToCashActivity" theme="2131492961">
+<activity screenOrientation="1" name=".lottery.account.LotteryOrderDescActivity" theme="2131492961">
+<activity screenOrientation="1" name=".movies.MoviesFilmCinemaListActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".movies.MoviesCinemaListActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".movies.MoviesCinemaScheduleActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".movies.MoviesCinemaMapActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".movies.MoviesFilmDetailActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".movies.MoviesCinemaOfFilmListActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".movies.MoviesCinemaDetailActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".movies.MoviesPublishCommentActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".movies.MoviesPromotionListActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".movies.MoviesAllWebActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".ExpressWebViewActivity" theme="2131492961" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name=".mineActivity.PrivilegeActivity" theme="2131492961">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeSplashActivity" theme="16973839" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeActGiftActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeGetGiftActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeAllGiftActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeQueryQualificationActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeConfirmOrderActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeGiftDetailsSplashActivity" theme="16973839" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeEntityGiftDetailsActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeUnentityGiftDetailsActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeGetGiftResultActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeRuleActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name="com.cmbchina.ccd.pluto.cmbActivity.firstSwippingGift.FirstSwipeOtherStoreActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".TrafficTicket.TrafficTicketAddCardActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".TrafficTicket.TrafficCityActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".TrafficTicket.TrafficMainActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".TrafficTicket.TrafficSelectedWebActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".TrafficTicket.TrafficBusinessActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".TrafficTicket.OrderManageActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".eWallet.MyEWalletActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".eWallet.EWalletListActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".eWallet.EWalletProtocolActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".pointExchange.PointListActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".pointExchange.PointDetailActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".pointExchange.PointOrderActivity" theme="2131492961" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".find.treasureBox.TreasureBoxListActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.treasureBox.TreasureBoxDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.treasureBox.TreasureBoxProtocol" theme="2131492961">
+<activity screenOrientation="1" name=".find.treasureBox.MyTreasureBoxListActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.treasureBox.MyTreasureBoxDetailActivity" theme="2131492961">
+<activity screenOrientation="1" name=".campaignModel.CampaignGroupShelfActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignGiftShelfActivity" theme="2131492961">
+<activity screenOrientation="1" name=".campaignModel.CampaignGiftEntityDetailActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignGiftCouponDetailActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignMyGiftListActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignQueryQualificationActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignReceiveSuccessActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignRegulationActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignOrderConfirmActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignGiftUnentityDetailActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".campaignModel.CampaignPrivilegeActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormMainActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormMyGiftsActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormMyPrizeActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormPrizetIntroducedActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormQualificationActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormRuleActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormOrderConfirmActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormSuccessActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormFailActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".tenStorm.TenStormCouponListActivity" theme="2131492961" launchMode="1">
+<activity name="com.cmbchina.ccd.pluto.cmbActivity.wxapi.WXEntryActivity" theme="16973840" exported="true" label="2131361827">
+<activity screenOrientation="1" name=".find.StoreIntegralTopScreenActivity" theme="2131492961">
+<activity screenOrientation="1" name=".find.StoreIntegralActivity" theme="2131492961">
+<activity screenOrientation="1" name=".wallet.WalletEntranceActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".wallet.WalletSplashActivity" theme="16973840" launchMode="1">
+<activity screenOrientation="1" name=".wallet.WalletMainActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".wallet.WalletInstallActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".wallet.WalletHistoryActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".wallet.WalletLogHistoryActivity" theme="2131492961" launchMode="1">
+<activity screenOrientation="1" name=".wallet.WalletLoadActivity" theme="2131492961" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".wallet.WalletSettingActivity" theme="2131492961" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".wallet.WalletApplyResultActivity" theme="2131492961" launchMode="3">
+<activity screenOrientation="1" name=".cardManager.SmartLockCardAvtivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.carStaging.CarStagesMainActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.carStaging.CarStagingQueryProgressActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.carStaging.CarStagingOrderActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.carStaging.CarStagingConfirmOrderActivity" theme="2131492961">
+<activity screenOrientation="1" name=".life.stages.carStaging.CarStagingSelectCardActivity" theme="2131492961">
+5
+<service name=".InvokeStartAppInterfaceService">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service enabled="true" name="com.cmbchina.ccd.pluto.service.WalletService">
+<service name="com.cmbchina.ccd.pluto.service.PaymentService" exported="true" permission="android.permission.BIND_NFC_SERVICE">
+<service name="com.richhouse.android.sdk.wallet.NFCReceiverService">
+4
+<receiver name="com.cmbchina.ccd.pluto.cmbReceiver.CmbBroadcastReceiver" exported="false">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushReceiver" exported="false">
+<receiver name="com.richhouse.android.sdk.wallet.NFCRouteReceiver">
+0
+Owner: C=CN, ST=Unknown, L=Unknown, O=Unknown, OU=Unknown, CN=cmblife
+Issuer: C=CN, ST=Unknown, L=Unknown, O=Unknown, OU=Unknown, CN=cmblife
+Serial number: 1e294983
+Valid from: Tue Nov 20 00:00:00 CST 2012 until: Sat Nov 20 00:00:00 CST 2100
+Certificate fingerprints: 
+	MD5:7F:67:74:3A:FA:76:17:D6:EB:CA:EA:E5:BC:DE:B9:E1
+	SHA1: DC:7A:C8:73:0E:4E:D8:85:3E:1F:E9:91:C8:04:6E:CB:AF:9F:A3:46
+	SHA256: FA:92:47:7E:99:B3:2C:4A:96:A0:97:F7:0F:8C:ED:A4:73:0C:BA:02:6A:C7:6D:AE:86:5C:D5:12:C2:37:8A:80
+	Signature algorithm name: SHA1withRSA
+	version: 1

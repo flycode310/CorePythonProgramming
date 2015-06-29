@@ -1,0 +1,64 @@
+com.baidu.input_mi
+168
+4.1.4.33
+7
+17
+22
+android.permission.USE_CREDENTIALS
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.VIBRATION
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+20
+<activity clearTaskOnLaunch="true" name=".ImeMainConfigActivity" theme="101515335" configChanges="1184" label="2131099661" launchMode="2">
+<activity excludeFromRecents="true" name=".ImeAccountActivity" configChanges="1184">
+<activity process=":ext" excludeFromRecents="true" name=".ImeSearchActivity" theme="16973839">
+<activity excludeFromRecents="true" name=".ImeGuiderActivity" configChanges="1184" launchMode="2">
+<activity excludeFromRecents="true" name=".ImeCikuManActivity" theme="101515335" configChanges="1184" noHistory="true">
+<activity excludeFromRecents="true" name=".ImeSpEditActivity" theme="101515335" configChanges="1184" windowSoftInputMode="16" noHistory="true">
+<activity excludeFromRecents="true" name=".ImeMyPhraseActivity" theme="101515335" configChanges="1184">
+<activity excludeFromRecents="true" name=".ImeCellManActivity" theme="16973830" configChanges="1184" taskAffinity="com.baidu.input.cell">
+<activity excludeFromRecents="true" name=".ImeThemeActivity" configChanges="1184" windowSoftInputMode="32" taskAffinity="com.baidu.input.theme">
+<activity excludeFromRecents="true" name=".ImeLayoutActivity" configChanges="1184" windowSoftInputMode="32">
+<activity process=":ext" excludeFromRecents="true" name=".ImeMultiMediaActivity" theme="16973839" configChanges="1184">
+<activity excludeFromRecents="true" name=".ImeCropImageActivity" configChanges="1184">
+<activity excludeFromRecents="true" name=".ImeListEditorActivity" theme="16973835" configChanges="1184" noHistory="true" taskAffinity="com.baidu.input.listeditor">
+<activity excludeFromRecents="true" name=".ImeSubConfigActivity" theme="101515335" configChanges="1184">
+<activity excludeFromRecents="true" name=".ImeUserExperienceActivity" theme="2131296256" configChanges="1184">
+<activity process=":ext" name=".ImeCaptureActivity" theme="16973831" configChanges="1184" windowSoftInputMode="3" launchMode="3">
+<activity excludeFromRecents="true" name=".ImeInputChooserActivity" configChanges="1184">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ImeNotiCenterActivity" configChanges="1184">
+<activity excludeFromRecents="true" name=".ImeUpdateActivity" theme="2131296256" configChanges="1184" noHistory="true">
+<activity name=".wxapi.WXEntryActivity" theme="2131296256" exported="true" label="2131099661" launchMode="1">
+1
+<service name=".ImeService" permission="android.permission.BIND_INPUT_METHOD">
+1
+<receiver name="com.baidu.share.ShareReceiver" permission="com.baidu.permission.SHARE">
+0
+Owner: CN=Baidu, OU=Baidu Inc., O=Baidu Inc., L=Shanghai, ST=Shanghai, C=CN
+Issuer: CN=Baidu, OU=Baidu Inc., O=Baidu Inc., L=Shanghai, ST=Shanghai, C=CN
+Serial number: 4b9dd8e7
+Valid from: Mon Mar 15 14:51:19 CST 2010 until: Tue Dec 16 14:51:19 CST 2064
+Certificate fingerprints: 
+	MD5:C2:B0:B4:97:D0:38:9E:6D:E1:50:5E:7F:D8:F4:D5:39
+	SHA1: EA:26:37:25:15:DC:A3:0A:14:2E:3F:4D:36:DB:19:33:7A:BC:74:54
+	SHA256: A6:EF:81:7B:FD:6C:08:34:42:A1:49:85:6E:51:03:6F:69:12:C2:DB:6B:60:09:DB:81:27:CD:D6:41:E2:95:A9
+	Signature algorithm name: SHA1withRSA
+	version: 3

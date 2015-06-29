@@ -1,0 +1,34 @@
+com.ray.wxup
+17
+1.25
+4
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+3
+<activity name="ServerControlActivity">
+<activity name="com.ray.wxup.ConfigureActivity" class=".ConfigureActivity">
+<activity name="com.waps.OffersWebView" configChanges="160">
+1
+<service name="com.ray.wxup.FTPServerService">
+2
+<receiver name="com.ray.wxup.WidgetProvider" label="2131099718">
+<receiver name=".WidgetProvider" label="2131099718">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4e8825b8
+Valid from: Sun Oct 02 16:50:00 CST 2011 until: Tue Sep 24 16:50:00 CST 2041
+Certificate fingerprints: 
+	MD5:0A:01:E5:8C:36:C0:0C:01:1F:CE:22:F4:D9:B8:6D:CA
+	SHA1: 50:99:14:0A:8F:F8:24:A3:D5:B3:FD:89:92:B9:0B:1F:F3:F1:17:5C
+	SHA256: 02:C4:A1:04:AA:A8:D4:FE:9C:1B:FC:34:1F:9D:1E:82:C3:20:6D:7D:4C:72:01:51:63:3A:B0:00:F1:AB:58:49
+	Signature algorithm name: MD5withRSA
+	version: 1

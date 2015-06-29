@@ -1,0 +1,158 @@
+com.mtime
+71
+5.1.5
+8
+-1
+23
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+109
+<activity screenOrientation="1" name="com.mtime.mtmovie.MainActivity" configChanges="160" exported="true" noHistory="true">
+<activity screenOrientation="1" name="com.mtime.mtmoviev2.MainFragmentTabActivity" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.mtime.mtmoviev2.V2_TwitterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmoviev2.FilmInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmoviev2.HotLongCommentListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmoviev2.HomeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmoviev2.V2_ActorListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmoviev2.MovieShowtimeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmoviev2.V2_RecommendReviewDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.NotVipLoginActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.LoginActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ScoreActivity" theme="2131427331" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.CityChangeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.BindPhoneActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.BankCardListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.SecuritycodeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.RegisterPhoneActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ActorViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.MoreActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ActorFilmographyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.CinemaViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.CinemaShowtimeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.SeatSelectActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.mtime.mtmovie.OrderConfirmActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ETicketConfirmActivity" configChanges="160" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="com.mtime.mtmovie.OrderPayActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.OrderPayFailedActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.OrderPayActivateActivty" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.WaitTicketActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.SpecialFacilities" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.CinemaPreferentialActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.MapViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.PhotoListActivity" configChanges="160">
+<activity name="com.mtime.mtmovie.PhotoDetailActivity">
+<activity screenOrientation="1" name="com.mtime.mtmovie.FindActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.FindTopGlobalActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.FindTopMovieDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.RecommendMovieNewsDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.RecommendCommentActivity" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.mtime.mtmovie.RecommendNewsImgActivty" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.RecommendImgListActivity" configChanges="160">
+<activity name="com.mtime.mtmovie.NewsPhotoDetailActivity">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ShareDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.AcountActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ProfileActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ChangeMobileBindingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ChangePasswordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ChangeNickNameActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ChangeSexActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.RechargeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.SettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.SearchActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.FeedBackActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.FeedBackListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.OrderDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.AdvRecommendActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="0" name="com.mtime.mtmovie.MovieTrailerActivity" configChanges="224">
+<activity screenOrientation="1" name="com.mtime.mtmovie.WantSeeMovieActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.FavouriteActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.LeadViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.OffenGoCinemaActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.AddOftenGoCinemaActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.VideoListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.TwitterCinemaActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.WapPayActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.RemindTicketsActivity" theme="2131427331" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.EarlierOrderListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.SmallPayActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.MyVoucherListActivity" configChanges="160">
+<activity screenOrientation="0" name="com.mtime.mtmovie.HorizontalWebActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.mtime.mtmovie.MemberCardListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.CaptureActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.MsgActivity" configChanges="160">
+<activity name="com.mtime.wxapi.WXPayEntryActivity" exported="true" launchMode="1">
+<activity name="com.mtime.mtmovie.PhotoDetailSingleActivity">
+<activity screenOrientation="1" name="com.mtime.mtmovie.BroadcastManageActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.OrderRemindActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ActorExperienceActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.ActorHonorsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.CinemaShopsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.NewMainActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.NewMovieListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.RetrievePasswordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.BindLoginRegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.SettingNoticeManageActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallHomeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallSearchActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.ProductListActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.ProductViewActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.CartActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallHelpActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.WriteSkuOrderInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.WriteSkuOrderHelperActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallAddressListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallAddressAddActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallAddressEditActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallAddressSelectActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallGeneralActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallOrderPayActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallOrderPaySuccessActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallVoucherListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.mall.MallAddVoucherActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.UserLevelActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mtime.mtmovie.thirdpart.WBShareActivity" configChanges="160">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" configChanges="160" label="2131361815" windowSoftInputMode="16">
+2
+<service name="com.baidu.android.pushservice.CommandService" exported="true">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+4
+<receiver name="com.mtime.mtmovie.widgets.AlarmReceiver" exported="true">
+<receiver name="com.mtime.util.push.PushMessageReceiver" exported="true">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver" exported="true">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver" exported="true">
+0
+Owner: CN=roiding, OU=roiding, O=roiding, L=beijing, ST=beijing, C=cn
+Issuer: CN=roiding, OU=roiding, O=roiding, L=beijing, ST=beijing, C=cn
+Serial number: 4b3ef954
+Valid from: Sat Jan 02 15:44:20 CST 2010 until: Wed May 20 15:44:20 CST 2037
+Certificate fingerprints: 
+	MD5:24:93:AF:C8:D1:47:A6:6F:72:82:42:D7:F6:A8:86:F4
+	SHA1: 14:9C:AE:F8:9A:F3:7B:73:01:45:97:FB:70:EE:EB:0C:8B:32:88:CC
+	SHA256: 77:B2:6F:C7:22:10:1F:02:47:F6:70:15:9A:B4:F8:F1:FF:D5:31:CE:A0:A0:1B:AC:20:8A:D7:25:9E:17:09:92
+	Signature algorithm name: SHA1withRSA
+	version: 3

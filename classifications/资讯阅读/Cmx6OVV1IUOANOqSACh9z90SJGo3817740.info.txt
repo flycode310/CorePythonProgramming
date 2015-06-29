@@ -1,0 +1,52 @@
+com.chaozh.iReader.one_ZHIHUIDEXIAOHUAHANGNANG
+53
+2.2.1
+4
+-1
+12
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SEND_SMS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+18
+<activity screenOrientation="1" name="com.chaozh.iReader.ui.activity.WelcomeActivity" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name="com.zhangyue.iReader.online.ui.ActivityOnline" configChanges="224" windowSoftInputMode="16" launchMode="2">
+<activity name="com.zhangyue.iReader.read.ui.Activity_BookBrowser_TXT" configChanges="224">
+<activity screenOrientation="1" name="com.zhangyue.iReader.online.ui.ActivityFee" theme="2131427342" configChanges="224">
+<activity screenOrientation="1" name="com.zhangyue.iReader.bookshelf.ui.ActivityBookShelf" configChanges="224">
+<activity screenOrientation="1" name="com.zhangyue.iReader.local.ui.ActivityLocalBook" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.zhangyue.iReader.local.ui.ActivityLocalImage" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.zhangyue.iReader.setting.ui.ActivitySettingDefault" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.zhangyue.iReader.setting.ui.ActivitySettingReadEdges" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.zhangyue.iReader.setting.ui.ActivitySkin" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.zhangyue.iReader.setting.ui.ActivityFont" configChanges="224" windowSoftInputMode="32">
+<activity name="com.zhangyue.iReader.read.ui.Activity_RestMinder" theme="2131427343" configChanges="160">
+<activity screenOrientation="1" name="com.zhangyue.iReader.bookshelf.msg.MsgView_Activity" configChanges="160">
+<activity screenOrientation="1" name="com.zhangyue.iReader.share.ActivityShareEdit" configChanges="224">
+<activity screenOrientation="1" name="com.zhangyue.iReader.share.tencent.OAuthV2AuthorizeWebView" configChanges="224">
+<activity screenOrientation="1" name="com.zhangyue.iReader.share.sina.SinaAuthActivity" configChanges="224">
+<activity name="com.zhangyue.iReader.read.ui.Activity_BookBrowser_HTML" configChanges="224">
+<activity screenOrientation="1" name="com.zhangyue.iReader.setting.ui.ActivitySettingCHM" configChanges="224">
+1
+<service process=":Push" name="com.zhangyue.iReader.service.NotificationService">
+1
+<receiver name="com.zhangyue.iReader.service.SysBroadcastReceiver">
+0
+Owner: CN=Zhang Chao, OU=iReader, O=iReader, L=Beijing, ST=Beijing, C=Unknown
+Issuer: CN=Zhang Chao, OU=iReader, O=iReader, L=Beijing, ST=Beijing, C=Unknown
+Serial number: 4adb4388
+Valid from: Mon Oct 19 00:34:16 CST 2009 until: Sat Aug 04 00:34:16 CST 2283
+Certificate fingerprints: 
+	MD5:79:34:DD:F9:88:21:F5:11:28:F8:CD:ED:A3:17:12:77
+	SHA1: 5A:51:8C:57:AD:B2:E6:F4:ED:1C:94:B6:B4:B1:C8:E6:A6:2C:F4:D5
+	SHA256: 94:FE:7B:62:AA:56:37:09:23:A8:FC:F8:2A:C7:FE:B3:4D:F3:AE:29:2C:DF:CA:93:64:91:AB:ED:FF:DC:27:D3
+	Signature algorithm name: SHA1withRSA
+	version: 3

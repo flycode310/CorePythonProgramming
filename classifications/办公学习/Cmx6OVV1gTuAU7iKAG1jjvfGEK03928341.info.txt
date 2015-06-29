@@ -1,0 +1,112 @@
+cn.kaoshi100.view
+38
+3.6.3
+7
+21
+20
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.hardware.sensor.accelerometer
+android.permission.WAKE_LOCK
+cn.kaoshi100.view.permission.JPUSH_MESSAGE
+63
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name=".WelcomeActivity" theme="2131099693" label="2131230797">
+<activity screenOrientation="1" name=".SearchPwdActivity">
+<activity screenOrientation="1" name=".MoreActivity">
+<activity screenOrientation="1" name=".PersonActivity">
+<activity screenOrientation="1" name=".LoginActivity">
+<activity screenOrientation="1" name=".RegisterActivity">
+<activity screenOrientation="1" name=".KeyWordResultActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".PaperDetailActivity">
+<activity screenOrientation="1" name=".RelatedPapersActivity">
+<activity screenOrientation="1" name=".CommentActivity">
+<activity screenOrientation="1" name=".PaperInfoActivity">
+<activity screenOrientation="1" name=".BookMarkedPapersActivity">
+<activity screenOrientation="1" name=".EditUserNameActivity">
+<activity screenOrientation="1" name=".DownLoadedPapersActivity">
+<activity screenOrientation="1" name=".RedoWrongActivity">
+<activity screenOrientation="1" name=".ChapterModeActivity">
+<activity screenOrientation="1" name=".FeedBackActivity">
+<activity screenOrientation="1" name=".OpenVipActivity">
+<activity screenOrientation="1" name=".OpenVipResultActivity">
+<activity screenOrientation="1" name=".AboutActivity">
+<activity screenOrientation="1" name=".SettingsActivity">
+<activity screenOrientation="1" name=".MainActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".HomeActivity">
+<activity screenOrientation="1" name=".SelectOneExamActivtity">
+<activity screenOrientation="1" name=".LatestPaperActivity">
+<activity screenOrientation="1" name=".SyncActivity">
+<activity screenOrientation="1" name=".LastSimulateActivity">
+<activity screenOrientation="1" name=".GuideActivity">
+<activity screenOrientation="1" name=".GuessExamActivity">
+<activity screenOrientation="1" name=".SelectOneSubjectActivtity">
+<activity screenOrientation="1" name=".SubjectActivity">
+<activity screenOrientation="1" name=".NewWrongActivity">
+<activity screenOrientation="1" name=".KeyWordsActivity">
+<activity screenOrientation="1" name=".ChapterDetailActivity">
+<activity screenOrientation="1" name=".ErrorCorrectionActivity">
+<activity screenOrientation="1" name=".AnalyticActivity">
+<activity screenOrientation="1" name=".UploadPaperListAcivity">
+<activity screenOrientation="1" name=".QuestionAnalyticActivity">
+<activity screenOrientation="1" name=".UploadPaperAcivity">
+<activity screenOrientation="1" name=".PreviousListActivity">
+<activity screenOrientation="1" name=".SimulationListActivity">
+<activity screenOrientation="1" name=".ChapterListActivity">
+<activity screenOrientation="1" name=".OtherListActivity">
+<activity screenOrientation="1" name=".MoveActivity">
+<activity screenOrientation="1" name=".PracticeActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".RedoWrongQuestionActivity">
+<activity screenOrientation="1" name=".LookOverWrongQuestionActivity">
+<activity screenOrientation="1" name=".LookOverPaperQuestionActivity">
+<activity screenOrientation="1" name=".ExamViewActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ExamResulteActivity">
+<activity screenOrientation="1" name=".ChapterExercisesActivity">
+<activity screenOrientation="1" name=".MyDownLoadActivity">
+<activity screenOrientation="1" name=".ChangeExamActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ChooseExamActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131099662" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name=".PushInfoActivity">
+5
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service name="cn.kaoshi100.server.syncService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="cn.kaoshi100.server.ListenService">
+4
+<receiver enabled="true" name="cn.kaoshi100.util.MyReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name=".AppUpdateBroadcast">
+0
+Owner: CN=ks100, OU=kaoshi100, O=kaoshi100, L=shenzhen, ST=shenzhen, C=CN
+Issuer: CN=ks100, OU=kaoshi100, O=kaoshi100, L=shenzhen, ST=shenzhen, C=CN
+Serial number: 4f83c273
+Valid from: Tue Apr 10 13:17:39 CST 2012 until: Sat Apr 04 13:17:39 CST 2037
+Certificate fingerprints: 
+	MD5:F9:65:E8:CB:D8:28:52:35:CF:36:5B:84:30:87:6C:3E
+	SHA1: 01:B2:23:81:23:E6:92:CD:74:43:E4:BC:F5:FA:6A:C8:79:CD:14:B4
+	SHA256: 0D:CD:3F:47:47:7A:AB:EF:30:49:BA:A7:39:A0:E2:7C:DE:D6:EF:16:AA:32:0C:D2:0C:93:C0:57:0C:06:B4:19
+	Signature algorithm name: SHA1withRSA
+	version: 3

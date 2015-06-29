@@ -1,0 +1,123 @@
+com.born.mobile.wom.ah
+14
+2.1.0
+8
+18
+27
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.opt.power.mobileservice.TEST
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.opt.power.mobileservice.HEART
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+com.born.mobile.wom.ah.permission.JPUSH_MESSAGE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+64
+<activity screenOrientation="1" name="com.born.mobile.wom.LaunchActivity" theme="16973834">
+<activity screenOrientation="1" name="com.born.mobile.wom.GuideActivity" theme="16973838">
+<activity screenOrientation="1" name="com.born.mobile.wom.AdverActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.main.MainActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.LoginActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.SetActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.WebViewActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.AboutUsActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.FeedBackActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.ah.wxapi.WXEntryActivity" theme="16973839" exported="true">
+<activity screenOrientation="1" name="com.born.mobile.wom.feedback.FeedbackActivity">
+<activity screenOrientation="1" name="com.born.mobile.meal.MyMealActivity">
+<activity screenOrientation="1" name="com.born.mobile.meal.MealTopActivity">
+<activity screenOrientation="1" name="com.born.mobile.meal.MyMealDescActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.module.billquery.MyBillActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.module.billquery.MyDetailBillActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.module.initpasswordset.InitPasswordResetActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.module.initpasswordset.ModificationPasswordActivity">
+<activity screenOrientation="1" name="com.zxing.activity.CaptureActivity">
+<activity screenOrientation="1" name="com.born.mobile.utility.UtilityActivity">
+<activity screenOrientation="1" name="com.born.mobile.utility.Wonderful3GActivity">
+<activity screenOrientation="1" name="com.born.mobile.utility.NetAgeActivity">
+<activity screenOrientation="1" name="com.born.mobile.utility.AttributionActivity">
+<activity screenOrientation="1" name="com.born.mobile.utility.OlderFeedBackActivity">
+<activity screenOrientation="1" name="com.born.mobile.utility.VideoPlayerActivity">
+<activity screenOrientation="1" name="com.born.mobile.utility.BusinessHallActivity">
+<activity screenOrientation="1" name="com.born.mobile.utility.BusinessHallDetailActivity">
+<activity screenOrientation="1" name="com.born.mobile.ep.MobileEpActivity">
+<activity screenOrientation="1" name="com.born.mobile.ep.NewReportActivity">
+<activity screenOrientation="1" name="com.born.mobile.ep.NewResultActivity">
+<activity screenOrientation="1" name="com.born.mobile.points.MyGiftsActivity">
+<activity screenOrientation="1" name="com.born.mobile.points.MyPointsActivity">
+<activity screenOrientation="1" name="com.born.mobile.points.TakeGiftsActivity">
+<activity screenOrientation="1" name="com.born.mobile.points.ExchangeGiftActivity">
+<activity screenOrientation="1" name="com.born.mobile.points.ActiListActivity">
+<activity screenOrientation="1" name="com.born.mobile.points.ActiGiftListActivity">
+<activity screenOrientation="1" name="com.born.mobile.points.ScratchCardActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.module.flowlist.FlowInfoListActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.module.flowlist.CurrentFlowInfoActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.module.flowlist.HistoryFlowInfoActivity">
+<activity screenOrientation="1" name="com.born.mobile.wom.module.business.BusinessHandlingActivity">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BroadBandFaultActivity">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BroadBandEditAddressActivity" theme="2131361812" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BroadBandSubmitActivity" theme="2131361812" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BroadBandAddMessageActivity" theme="2131361812" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BbServicesActivity">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BbServicesLoginActivity">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BbSpeedLoginActivity">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BbSpeedUpActivity">
+<activity screenOrientation="1" name="com.born.mobile.broadband.WomAccountLoginActivity">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BroadBandWebViewActivity">
+<activity screenOrientation="1" name="com.born.mobile.broadband.BroadBandFaultCueActivity" theme="2131361812">
+<activity screenOrientation="1" name="com.born.mobile.job.JobListActivity">
+<activity screenOrientation="1" name="com.born.mobile.job.JobDetailsActivity">
+<activity screenOrientation="1" name="com.born.mobilewlan.wifi.WlanMapActivity">
+<activity screenOrientation="1" name="com.born.mobilewlan.wifi.WlanNewLoginActivity">
+<activity screenOrientation="1" name="com.born.mobilewlan.wifi.WifiMainPageActivity">
+<activity screenOrientation="1" name="com.born.mobile.business.FlowPreActivity">
+<activity screenOrientation="1" name="com.born.mobile.message.MessageCenterListActivity">
+<activity screenOrientation="1" name="com.born.mobile.message.MessageDetailsActivity">
+<activity name="com.unionpay.uppay.PayActivity">
+<activity screenOrientation="1" name="com.tencent.weibo.sdk.android.component.Authorize" theme="16973836">
+<activity screenOrientation="1" name="com.born.mobile.wom.ShareEditActivity">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+9
+<service process=":remote" name="com.born.mobilewlan.service.WlanService">
+<service name="com.born.mobilewlan.wifi.WlanUtilService">
+<service name="com.born.mobile.wom.service.HeartbeatService02">
+<service name="com.born.mobile.wom.service.DataInitService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":remote" enabled="true" name="com.opt.power.mobileservice.service.impl.TestService" permission="com.opt.power.mobileservice.TEST">
+<service process=":remote" enabled="true" name="com.opt.power.mobileservice.service.impl.HeartService" permission="com.opt.power.mobileservice.HEART">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+3
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.born.mobile.wom.broadcast.MyJPushReceiver">
+0
+Owner: CN=cst, OU=cst, O=cst, L=chongqing, ST=chongqing, C=86
+Issuer: CN=cst, OU=cst, O=cst, L=chongqing, ST=chongqing, C=86
+Serial number: 4e4bdc50
+Valid from: Wed Aug 17 23:20:48 CST 2011 until: Mon Jun 01 23:20:48 CST 2285
+Certificate fingerprints: 
+	MD5:A7:13:EF:D0:45:85:06:0D:09:1A:67:FF:6E:16:99:AA
+	SHA1: 94:88:36:E0:39:4D:AA:D2:14:02:2A:4C:42:CE:B8:AC:BD:6C:BF:9D
+	SHA256: 10:71:72:2E:E3:6D:D2:99:55:F9:D9:C4:8A:62:7D:23:83:AA:BD:A4:EF:F3:2C:A4:C6:EE:FF:F8:E6:BD:6B:3D
+	Signature algorithm name: SHA1withRSA
+	version: 3

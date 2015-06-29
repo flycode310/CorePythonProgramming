@@ -1,0 +1,42 @@
+com.dazhihui.bankfinance
+2
+2.00
+7
+11
+11
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+11
+<activity screenOrientation="1" name=".base.screen.dzh" configChanges="160" label="2131296256">
+<activity screenOrientation="1" name=".base.screen.MainScreen" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".base.screen.SettingDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".base.screen.SettingScreen" configChanges="160">
+<activity screenOrientation="1" name=".base.screen.InitScreen" configChanges="160">
+<activity screenOrientation="1" name=".base.screen.SearchScreen" configChanges="160">
+<activity screenOrientation="1" name=".base.screen.SiftScreen" configChanges="160">
+<activity screenOrientation="1" name=".base.screen.BankSecScreen" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".base.screen.PosAct" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".base.screen.HelpScreen" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".widget.ScrectScreen" configChanges="160" windowSoftInputMode="2">
+0
+0
+0
+Owner: CN=BankManager, OU=dazhihui, O=dazhihui, L=SH, ST=SH, C=CN
+Issuer: CN=BankManager, OU=dazhihui, O=dazhihui, L=SH, ST=SH, C=CN
+Serial number: 4ffbf6fe
+Valid from: Tue Jul 10 17:33:50 CST 2012 until: Sat Jul 04 17:33:50 CST 2037
+Certificate fingerprints: 
+	MD5:92:58:F8:A7:83:43:EA:86:E7:15:B3:24:FB:62:86:69
+	SHA1: 3F:76:59:13:2C:17:50:2C:69:11:B0:94:2D:BF:D3:57:3B:D8:08:68
+	SHA256: 5A:53:96:60:ED:BD:CF:76:3A:80:E8:77:41:C7:11:47:E2:9C:6B:C9:B3:2E:6C:F2:3F:17:D5:B1:0C:6A:1C:66
+	Signature algorithm name: SHA1withRSA
+	version: 3

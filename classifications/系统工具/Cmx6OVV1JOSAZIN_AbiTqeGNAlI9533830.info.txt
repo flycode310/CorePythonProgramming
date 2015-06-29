@@ -1,0 +1,76 @@
+com.nef.cartooncard
+7
+2.2.3
+8
+18
+25
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+com.nef.cartooncard.permission.JPUSH_MESSAGE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.RECORD_VIDEO
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+26
+<activity name="com.nef.welcome.Welcome" label="2131165190">
+<activity name="com.nef.welcome.WelcomeActivity">
+<activity name=".MainActivity">
+<activity name="com.nef.editactivity.HLEditActivity" windowSoftInputMode="32">
+<activity name="com.nef.editactivity.MoreEditActivity" windowSoftInputMode="32">
+<activity name="com.nef.editactivity.PlayEditActivity" windowSoftInputMode="32">
+<activity name="com.nef.editactivity.CustomEditActivity" windowSoftInputMode="32">
+<activity name="com.nef.photoshow.ImgShowActivity">
+<activity name=".DetailActivity">
+<activity name="com.nef.setting.SettingActivity">
+<activity name="com.nef.setting.UserInfoActivity">
+<activity name=".LoginActivity">
+<activity name=".RegisteredActivity">
+<activity name=".ChooseMusic">
+<activity name=".CutFigureActivity">
+<activity name=".RaidersActivity">
+<activity name=".MenuActivity" theme="2131296259">
+<activity name=".PreviewActivity" theme="2131296260">
+<activity name=".WebActivity">
+<activity name=".ExtranetWeb">
+<activity name=".ShareSendActivity" theme="2131296262">
+<activity name=".wxapi.WXEntryActivity" exported="true">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity name="com.umeng.fb.ConversationActivity">
+2
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+3
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.nef.jpush.MyReceiver">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 53af671b
+Valid from: Sun Jun 29 09:08:43 CST 2014 until: Tue Jun 21 09:08:43 CST 2044
+Certificate fingerprints: 
+	MD5:90:87:0F:B9:4F:56:2A:E3:27:24:E4:F4:3F:4B:F9:6C
+	SHA1: C0:D9:01:F4:1A:B9:0F:17:7B:59:29:B2:AC:81:4A:72:04:66:65:9D
+	SHA256: C3:97:3A:DE:32:8D:E2:FC:B1:34:43:8E:BD:70:CF:9A:C0:62:45:9A:40:75:CF:62:13:33:E7:01:50:30:20:B0
+	Signature algorithm name: SHA1withRSA
+	version: 3

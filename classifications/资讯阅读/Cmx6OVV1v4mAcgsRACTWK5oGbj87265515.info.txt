@@ -1,0 +1,52 @@
+com.when.wannianli
+26
+3.0
+8
+14
+6
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+18
+<activity screenOrientation="1" name=".WelcomeActivity" theme="16973830" label="2131165186">
+<activity name=".CalendarGuide" theme="16973830">
+<activity excludeFromRecents="true" name=".HuangliAlert" theme="16973839">
+<activity screenOrientation="1" name=".AboutActivity" theme="16973830">
+<activity screenOrientation="1" name=".YiJiDetail" theme="16973830">
+<activity screenOrientation="1" name=".MainActivity" theme="16973830">
+<activity screenOrientation="1" name=".WebviewActivity" theme="16973830">
+<activity screenOrientation="1" name=".SearchActivity" theme="16973830">
+<activity screenOrientation="1" name=".DetailActivity" theme="16973830">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity name="com.umeng.socialize.view.CommentActivity" theme="2131230736" configChanges="144">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131230735" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.umeng.socialize.view.CommentDetail" theme="2131230736" configChanges="144" noHistory="true">
+<activity name="com.umeng.socialize.view.CommentDetailNoMap" theme="2131230736" configChanges="144" noHistory="true">
+<activity screenOrientation="1" name="com.when.wannianli.widget.AppWidgetConfigure" theme="2131230722" label="2131165186">
+<activity screenOrientation="1" name=".UmengExcange">
+<activity name="com.qq.e.appwall.AppwallActivity" theme="16973837" configChanges="176">
+4
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.when.wannianli.UpdateService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.qq.e.appwall.AdService" exported="false">
+4
+<receiver name=".ActionReceiver">
+<receiver name="com.when.wannianli.widget.Widget4x3" label="万年历4x3">
+<receiver name="com.when.wannianli.widget.WidgetReceiver">
+<receiver name="com.when.wannianli.widget.TimeWidgetReceiver">
+0
+Owner: CN=林思然, OU=北京问日科技有限公司, O=北京问日科技有限公司, L=北京, ST=北京, C=86
+Issuer: CN=林思然, OU=北京问日科技有限公司, O=北京问日科技有限公司, L=北京, ST=北京, C=86
+Serial number: 4c41cb9b
+Valid from: Sat Jul 17 23:26:19 CST 2010 until: Mon Jun 23 23:26:19 CST 2110
+Certificate fingerprints: 
+	MD5:C9:A0:87:00:AB:F1:1F:67:17:86:F1:87:04:AF:1A:89
+	SHA1: 40:CE:C0:B4:2B:E2:74:A1:21:A6:F0:86:BF:CF:31:33:BB:2C:C6:5A
+	SHA256: 9C:FC:51:70:FF:F9:9D:DD:07:0B:8F:CD:53:5F:D1:6C:F9:00:FE:DC:A6:B3:22:8D:ED:7D:EC:0C:5F:15:FD:C1
+	Signature algorithm name: MD5withRSA
+	version: 1

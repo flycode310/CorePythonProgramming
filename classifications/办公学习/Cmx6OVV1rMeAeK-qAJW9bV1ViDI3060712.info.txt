@@ -1,0 +1,43 @@
+com.adobe.reader
+116303
+15.0.2
+15
+17
+4
+com.android.vending.BILLING
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+15
+<activity screenOrientation="2" name=".AdobeReader" theme="2131361817" configChanges="1408" exported="true" noHistory="true">
+<activity screenOrientation="2" name=".viewer.ARViewerActivity" configChanges="1184" exported="false" launchMode="2">
+<activity name=".viewer.ARSplitPaneActivity" configChanges="1184" exported="false" launchMode="2">
+<activity name=".services.ARUserAccountsActivity" configChanges="1184" exported="false">
+<activity name=".help.ARHelpActivity" configChanges="1184" exported="false">
+<activity screenOrientation="1" name=".help.AROnboardingHelpActivity" theme="16973833" configChanges="1184" exported="false">
+<activity name=".services.epdf.ARExportPDFOptionsActivity" theme="2131361811" configChanges="1184" exported="false">
+<activity name="com.adobe.libs.services.auth.SVServicesLoginActivity" theme="2131361825" configChanges="1184" exported="false">
+<activity icon="2130837586" name=".services.cpdf.ARCreatePDFActivity" theme="2131361807" configChanges="1184" exported="true" label="2131428329">
+<activity name=".misc.ARFileURLDownloadActivity" theme="2131361825" configChanges="1184" exported="false">
+<activity name=".services.ARBlueHeronFileTransferActivity" theme="2131361825" configChanges="1184" exported="false">
+<activity name=".services.blueheron.ARBlueHeronFileShareActivity" theme="2131361816" configChanges="1184" exported="false">
+<activity name=".misc.ARAboutActivity" theme="2131361794" exported="false">
+<activity name=".misc.ARCloudPrintActivity" configChanges="1184" exported="false">
+<activity name=".misc.ARSettingsActivity" theme="2131361825" exported="false" label="2131428441">
+2
+<service name=".misc.ARFileURLDownloadService" exported="false">
+<service name=".services.ARFileTransferService" exported="false">
+1
+<receiver name=".utils.ARNetworkChangeReceiver">
+1
+<provider authorities="com.adobe.reader.fileprovider" name=".misc.ARFileProvider" grantUriPermissions="false" exported="false">
+Owner: CN=Adobe Systems Incorporated, OU=Adobe Reader, O=Adobe Systems Incorporated, L=San Jose, ST=California, C=US
+Issuer: CN=Adobe Systems Incorporated, OU=Adobe Reader, O=Adobe Systems Incorporated, L=San Jose, ST=California, C=US
+Serial number: 4be060b7
+Valid from: Wed May 05 02:00:23 CST 2010 until: Sun Sep 20 02:00:23 CST 2037
+Certificate fingerprints: 
+	MD5:63:9D:68:63:CA:9D:3D:BB:BF:AD:49:36:6F:6B:7F:A5
+	SHA1: C0:7A:0B:5E:C6:F0:1A:57:89:C4:BB:F8:8A:83:03:60:51:4F:02:C5
+	SHA256: B6:DD:05:62:25:64:87:FC:D6:C9:8C:DE:13:78:58:EF:50:D9:AD:B9:F9:CD:2F:1C:A5:8C:53:57:EF:DF:0F:AF
+	Signature algorithm name: SHA1withRSA
+	version: 3

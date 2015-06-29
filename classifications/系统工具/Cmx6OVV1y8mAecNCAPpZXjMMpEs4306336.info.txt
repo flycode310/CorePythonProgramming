@@ -1,0 +1,31 @@
+org.vv.car.exam.c4
+26
+1.25
+8
+19
+4
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity screenOrientation="1" name=".MainActivity" configChanges="1184" label="2131165210">
+<activity screenOrientation="1" name=".SequenceActivity" configChanges="1184" label="2131165213">
+<activity screenOrientation="1" name=".RandomActivity" configChanges="1184" label="2131165215">
+<activity screenOrientation="1" name=".TestingActivity" configChanges="1184" label="2131165217">
+<activity screenOrientation="1" name=".WrongActivity" configChanges="1184" label="2131165219">
+<activity screenOrientation="1" name=".FavoriteActivity" configChanges="1184" label="2131165221">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+0
+0
+0
+Owner: CN=yyjn, OU=yyjn, O=yyjn, L=Unknown, ST=Unknown, C=Unknown
+Issuer: CN=yyjn, OU=yyjn, O=yyjn, L=Unknown, ST=Unknown, C=Unknown
+Serial number: 51c7dd5b
+Valid from: Mon Jun 24 13:47:07 CST 2013 until: Wed May 31 13:47:07 CST 2113
+Certificate fingerprints: 
+	MD5:64:9C:6D:B3:ED:11:46:9F:47:01:FB:F0:E7:55:F0:09
+	SHA1: B6:13:04:CE:87:61:56:B9:51:E6:6A:DB:F3:24:C6:41:5B:B0:1F:B7
+	SHA256: BA:09:43:7B:86:F9:98:0B:63:7F:A1:62:0D:CB:E5:1C:B3:9F:86:3E:0F:B0:C1:1B:8F:39:89:AF:C3:4E:78:3B
+	Signature algorithm name: SHA1withRSA
+	version: 3

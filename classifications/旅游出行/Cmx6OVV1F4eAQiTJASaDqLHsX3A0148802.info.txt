@@ -1,0 +1,65 @@
+com.qiugonglue.qgl_goldcoast
+16
+1.6
+8
+19
+11
+android.permission.REORDER_TASKS
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+28
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.qiugonglue.qgl_seoul.activity.StartUpActivity" theme="2131165188" label="2131099653">
+<activity name="com.qiugonglue.qgl_seoul.activity.IndexActivity" label="2131099703">
+<activity name="com.qiugonglue.qgl_seoul.activity.TypeActivity" label="2131099704">
+<activity name="com.qiugonglue.qgl_seoul.activity.PinActivity" label="2131099705">
+<activity name="com.qiugonglue.qgl_seoul.activity.ViewImageActivity" label="2131099707">
+<activity name="com.qiugonglue.qgl_seoul.activity.InfoActivity" label="2131099708">
+<activity name="com.qiugonglue.qgl_seoul.activity.ViewWebActivity" label="2131099710">
+<activity name="com.qiugonglue.qgl_seoul.activity.TextContentActivity" label="2131099709">
+<activity name="com.qiugonglue.qgl_seoul.activity.MapActivity" label="2131099711">
+<activity name="com.qiugonglue.qgl_seoul.activity.OfflineMapActivity" theme="2131165185" label="2131099725">
+<activity name="com.qiugonglue.qgl_seoul.activity.FavoritesActivity" label="2131099732">
+<activity name="com.qiugonglue.qgl_seoul.activity.NearbyActivity" label="2131099738">
+<activity name="com.qiugonglue.qgl_seoul.activity.CommentActivity" label="2131099743">
+<activity name="com.qiugonglue.qgl_seoul.activity.CommentWriteActivity" label="2131099744">
+<activity name="com.qiugonglue.qgl_seoul.activity.StartGuideActivity" label="2131099763">
+<activity name="com.qiugonglue.qgl_seoul.activity.SelectGonglueActivity" label="2131099775">
+<activity name="com.qiugonglue.qgl_seoul.activity.ToolsActivity" label="2131099779">
+<activity name="com.qiugonglue.qgl_seoul.activity.ExchangeActivity" label="2131099781">
+<activity name="com.qiugonglue.qgl_seoul.activity.WeatherActivity" label="2131099780">
+<activity name="com.qiugonglue.qgl_seoul.activity.MyActivity" label="2131099786">
+<activity name="com.qiugonglue.qgl_seoul.activity.ForumActivity" label="2131099800">
+<activity name="com.qiugonglue.qgl_seoul.activity.PhotoActivity" label="2131099803">
+<activity name="com.qiugonglue.qgl_seoul.activity.PhotoDetailActivity" label="2131099812">
+<activity name="com.qiugonglue.qgl_seoul.activity.PhotoPostActivity" label="2131099824">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+3
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+3
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 51413c8c
+Valid from: Thu Mar 14 10:57:16 CST 2013 until: Sat Mar 07 10:57:16 CST 2043
+Certificate fingerprints: 
+	MD5:BD:B1:BC:A7:B2:D4:5D:1E:6B:2F:95:E8:91:B9:7E:1F
+	SHA1: A7:2B:4D:DD:5D:5A:85:C4:28:8A:2D:E8:04:B7:80:19:45:21:E3:FE
+	SHA256: A6:6C:A6:17:2C:67:C0:E8:96:74:C3:77:95:79:46:63:D9:21:39:48:99:32:7F:1E:39:DE:FA:E2:99:F1:1D:FF
+	Signature algorithm name: SHA1withRSA
+	version: 3

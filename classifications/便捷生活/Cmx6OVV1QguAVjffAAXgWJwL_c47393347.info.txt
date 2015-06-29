@@ -1,0 +1,22 @@
+com.mingyihz.app
+1
+1.0
+15
+20
+1
+android.permission.INTERNET
+1
+<activity name=".MyhzActivity" label="2131034112">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 31fb9ed6
+Valid from: Sun Feb 22 02:14:15 CST 2015 until: Tue Feb 14 02:14:15 CST 2045
+Certificate fingerprints: 
+	MD5:3B:E1:2A:02:CC:DA:AC:EE:C7:3C:1D:F5:33:4F:3A:BE
+	SHA1: 85:F5:65:BB:56:75:95:B0:72:45:C8:F7:78:88:4E:79:4C:94:D7:2B
+	SHA256: 8D:0D:C2:DC:56:82:EA:24:F7:D8:27:88:DA:A0:AB:F9:99:59:1C:97:30:C3:0C:FE:61:C3:4C:CE:AF:85:4C:E5
+	Signature algorithm name: SHA256withRSA
+	version: 3

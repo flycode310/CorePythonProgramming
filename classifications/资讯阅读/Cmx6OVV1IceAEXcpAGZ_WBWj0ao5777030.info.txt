@@ -1,0 +1,52 @@
+com.dazui.manhua19
+1
+1.0
+4
+-1
+14
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+17
+<activity screenOrientation="1" name=".InitActivity" theme="16973834" label="2131165184">
+<activity screenOrientation="1" name=".Index" theme="16973834">
+<activity screenOrientation="1" name=".Index_nologin_View" theme="16973834">
+<activity screenOrientation="1" name=".txtbook.turntest" theme="16973834">
+<activity screenOrientation="1" name=".reading.ImageSwitcher" theme="16973834">
+<activity name=".MuneActivity" theme="16973834">
+<activity screenOrientation="1" name=".hh_apps.APPListActivity" theme="16973834" label="2131165184">
+<activity screenOrientation="1" name=".about.AboutHH" theme="16973834" label="2131165184">
+<activity screenOrientation="1" name=".about.SayHH" theme="16973834" label="2131165184">
+<activity screenOrientation="1" name=".online.OnlineMain" theme="16973834" label="2131165184">
+<activity screenOrientation="1" name=".online.showpp.ImageSwitcher_ol" theme="16973834" label="2131165184">
+<activity screenOrientation="1" name=".web.WebViewActivity" theme="16973834" label="2131165184">
+<activity screenOrientation="1" name=".web.WebViewActivity" theme="16973834" label="2131165184">
+<activity name="com.tencent.mobwin.MobinWINBrowserActivity">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="com.umengAd.android.UmengAdDetailActivity" theme="16973839" configChanges="160">
+1
+<service name="n.service.VersionServicervice.VersionServicervice.VersionServicervice">
+0
+0
+Owner: CN=dadaread, OU=dadaread, O=dahua, L=haerbin, ST=heilongjiang, C=CN
+Issuer: CN=dadaread, OU=dadaread, O=dahua, L=haerbin, ST=heilongjiang, C=CN
+Serial number: 4f541248
+Valid from: Mon Mar 05 09:09:28 CST 2012 until: Fri Feb 27 09:09:28 CST 2037
+Certificate fingerprints: 
+	MD5:27:51:35:03:74:90:27:57:51:F0:23:14:68:FD:39:60
+	SHA1: A3:99:78:0A:6D:1A:8B:5F:C5:DF:2D:E6:04:54:A5:0F:AC:02:42:61
+	SHA256: D7:77:BE:47:41:C0:4D:09:D9:99:16:91:AF:85:C7:BF:F7:88:7B:DD:B9:87:46:F9:5E:2E:9D:DF:F1:2A:58:5E
+	Signature algorithm name: SHA1withRSA
+	version: 3

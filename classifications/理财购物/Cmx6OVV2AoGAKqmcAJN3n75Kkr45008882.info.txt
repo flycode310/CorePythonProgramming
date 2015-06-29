@@ -1,0 +1,238 @@
+com.android.dazhihui
+58514
+7.72
+5
+-1
+23
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+com.ut.permission.DEVICE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.READ_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+189
+<activity name=".dzh.dzh" theme="16973840" label="2131296323" launchMode="1">
+<activity screenOrientation="1" name=".ui.screen.InitScreen" theme="16973831" configChanges="160" label="" launchMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.BulletScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.LeadScreen" theme="16973831" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.MainScreen" theme="2131361905" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.DzhMessageCenter" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.MessageCenterList" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.MessageCenterSettingScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.BrowserActivity" configChanges="160" label="" windowSoftInputMode="0">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.LoginScreen" configChanges="160" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.LoginMainScreen" configChanges="160" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.SystemSetingScreen" configChanges="160" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.AboutActivity" configChanges="160" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.NormalRegisterScreen" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.RegisterSuccessScreen" theme="16973840">
+<activity name="com.android.dazhihui.ui.screen.stock.MessageWarnScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.SettingThirdScreen" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.SetPwdScreen" theme="16973840" label="" windowSoftInputMode="16">
+<activity name="com.android.dazhihui.ui.screen.stock.MinuteActivity" configChanges="160" label="" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.DynamicDetailScreen" configChanges="160" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.SelfSelectedStockScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.CorrelationStockScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.NewsDetailInfo" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.NewsXgfxDetailScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.AddWarningScreen" configChanges="160" label="" windowSoftInputMode="1">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.AddWarningActivity" configChanges="160" label="" windowSoftInputMode="1">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.TipActivity" theme="2131361863" configChanges="160" label="" windowSoftInputMode="1">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.NotificationActivity" configChanges="160" label="" windowSoftInputMode="1">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.PublicMessageDialog" configChanges="160" label="" windowSoftInputMode="1">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.cloud.Activity.CloudTradeActivity" label="2131296323" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.cloud.Activity.GeneralWebActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.cloud.Activity.AccountActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.cloud.Activity.BeanDetailActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.cloud.Activity.SpotTradeActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.cloud.Activity.OptionTradeActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.cloud.Activity.TradeRuleActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.cloud.Activity.CloudVarietyActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.cloud.Activity.StockTradeActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryScreen" configChanges="160" label="" launchMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.TogetherBuyActivity" theme="2131361902" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.TogetherBuySearchActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryPurchaseActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MyLotteryDepositActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MyMoneyActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MyLotteryWithDrawActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.AddBankAccountActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.AddZhifubaoAccountActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryBrowser" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryAnnounListActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.BetActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.ProgramDetailActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.JczqScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.BasketBallScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.BasketBallBetScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.JczqBetScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.JczqYhtzScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.JczqScreening" theme="16973830" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.BasketScreening" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.ZcScreen" theme="16973830" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.ZcBetScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.TransScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MxfaScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MxfaMoreScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MxfaLszjScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MatchesDetailActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryJointPurchaseActivity" theme="16973830" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryPlayTypeActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryNumActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MyLotteryLiveSettingActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MyLotteryPublishPrizeActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.MyLotteryPushActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryHistoricalTrendActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotterySSQActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.BettingKSActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryHighestRank" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.IntelligentActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.IndexChangeScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.PokerActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryDLTActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.C5In11Activity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.Lottery3DActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryArrange3Activity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryArrange5Activity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryRegisterScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryQXCActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryQLCActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.SecurityCenterActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.SettingPayPasswordActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.SpecimenActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.SecurityCenterPwdActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotterySFCActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotteryFCActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.LotterySinglePassFixedActivity" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.CompleteUserInfoScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.dialog.CaldroidSampleActivity" theme="2131361892" configChanges="160" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.dialog.SelectGameNameDialog" theme="2131361892" configChanges="160" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.lottery.dialog.SelectLotteryDailog" theme="2131361892" configChanges="160" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.SearchStockScreen" label="" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.CommentListScreen" configChanges="160" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.PostTopicScreen" configChanges="160" label="" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.MarketListScreen" label="2131296323">
+<activity name="com.android.dazhihui.ui.screen.stock.PlateScreen" configChanges="160" label="">
+<activity name="com.android.dazhihui.ui.screen.stock.PlateListScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SplashActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.IndexActivityGroup">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.HomeActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.PayActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AccountActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.BankCardInfoActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SupportCardActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.UserProtocolActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AboutActivity">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.FundMarketActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.FuturesActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.DZDZActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.DecisionScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.MorningPostScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.MorningPostDetailScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.ProfitExpectedScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.FundScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.OptionListActivity" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.DZLHScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.MoreNewsListScreen" label="2131296323">
+<activity name=".wxapi.WXEntryActivity" theme="16973839" exported="true" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.moneybox.FundHome" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.moneybox.FundDetail" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.moneybox.FundRedemption" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.moneybox.FundSubscription" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.AccountPass" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.TradeOutsideScreen" label="2131296323" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.delegate.screen.MobileVerifed" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.InitVerifedChuanCai" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.InitVerifedDongHai" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.MobileLogin" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.screen.stock.SelfStockEditScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".ui.delegate.screen.RegionTable" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.TradeLoginActivity" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.TradeLoginActivityTongYong" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.TradeMenuNew" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.CapitalandHoldingTable" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.TradeText" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.EntrustNew" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.RemoveAccount" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.CancelTable" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.BargainAndEntrust_today" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.TradeChecklistMenu" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.EntrustTable_history" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.ProtectorForm" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.BargainTable_history" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.LuckyTable_history" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.TransferMenu" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.Transfer" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.TransferTable" label="2131296323">
+<activity screenOrientation="1" name=".ui.delegate.screen.Transfertable_select" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.MarginMenu" label="2131296323" launchMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.MarginCapitalandHoldingTable" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.MarginQuirys" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.MarginQuiryMenu" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.MarginCaptialDebtQuiry" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.MarColVerify" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.MarColTransfer" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.MarEntrust" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.MarEntrust2" label="2131296323">
+<activity screenOrientation="1" name=".ui.screen.stock.ScrectScreen" configChanges="160" label="">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.VoteShareholderMeeting" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.trade.VoteScreen" label="2131296323" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundMenu" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundListViewPublic" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundDividend" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundTransfer" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundCancelTable" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundCompanyTable" configChanges="160" label="2131296323" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundOpenForm" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundEntrust" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundAtone" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundMutualAIPMenu" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundMutualAIPOpen" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.fund.FundMutualAIPQuirys" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.otc.OtcCaptialShare" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.otc.OtcMenu" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.otc.OtcQuery" label="2131296323">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.otc.OtcEntrust" label="2131296323" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.android.dazhihui.ui.delegate.screen.otc.TradeBrowser" label="2131296323">
+<activity excludeFromRecents="true" name="com.alipay.android.mini.window.sdk.MiniLaucherActivity" theme="2131361793" configChanges="128" exported="false" launchMode="1">
+<activity excludeFromRecents="true" name="com.alipay.android.mini.window.sdk.TransContainer" theme="2131361793" configChanges="128" exported="false" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.alipay.android.mini.window.sdk.MiniPayActivity" theme="2131361793" configChanges="128" exported="false" label="2131296257" windowSoftInputMode="16" launchMode="1">
+<activity excludeFromRecents="true" name="com.alipay.android.mini.window.sdk.MiniWebActivity" theme="2131361793" configChanges="224" exported="false" launchMode="1">
+2
+<service name=".service.DzhService">
+<service name="com.alipay.android.app.MspService">
+4
+<receiver enabled="true" name=".receiver.NetworkConnectivityReceiver">
+<receiver name=".receiver.WakeUpServiceReciver">
+<receiver name="com.ut.device.BQueryWhoHasOne" exported="true" permission="com.ut.permission.DEVICE_STATE">
+<receiver name="com.ut.device.BFoundIt" exported="true" permission="com.ut.permission.DEVICE_STATE">
+0
+Owner: CN=dzh
+Issuer: CN=dzh
+Serial number: 4bfb299a
+Valid from: Tue May 25 09:36:26 CST 2010 until: Sat May 19 09:36:26 CST 2035
+Certificate fingerprints: 
+	MD5:62:B5:31:FB:0B:C5:C8:7B:7F:B4:63:1B:72:B4:CC:47
+	SHA1: A8:AF:94:72:CE:F2:D0:02:71:9F:92:8E:87:02:32:73:6C:02:DA:66
+	SHA256: A3:8F:6D:26:A1:28:76:AF:FB:10:35:70:E1:E2:EA:4F:80:E7:03:0C:4B:7C:8D:A1:D1:65:8D:A5:06:C7:6D:C0
+	Signature algorithm name: MD5withRSA
+	version: 1

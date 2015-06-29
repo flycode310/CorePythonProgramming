@@ -1,0 +1,205 @@
+com.aibang.abbus.bus
+63
+5.5.6
+8
+10
+30
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.MEDIA_CONTENT_CONTROL
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.ACCESS_GPS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.GET_PACKAGE_SIZE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.aibang.abbus.bus.permission.JPUSH_MESSAGE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.REORDER_TASKS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.MANAGE_DOCUMENTS
+132
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name=".BootActivity" configChanges="160" label="2131230841">
+<activity screenOrientation="1" name="com.aibamg.abbus.simulator.SetingLocActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="GuidePageActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="SwitchCityActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="SwitchNextBusCityActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MainActivity" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferTab" configChanges="160" windowSoftInputMode="50" launchMode="2">
+<activity screenOrientation="1" name="cn.sharesdk.onekeyshare.SharedActivity" theme="2131492973" launchMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.easygohome.EasyGHSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.easygohome.EasyGHMapChooseActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.easygohome.EghInputActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferReminderActivity" theme="2131492973" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.georeminder.ReminderListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferInputActivity" configChanges="160" windowSoftInputMode="53">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.POIProviderActivityImp" configChanges="160" windowSoftInputMode="53">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.FavoritePOIProviderActivity" configChanges="160" windowSoftInputMode="53">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.SelMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferStationSelectActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferStartEndMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferReminderInputActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferReminderManagerActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferDetailRealTimeDataActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.transfer.TransferHistoryActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.wherebus.WhereBusTab" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.aibang.abbus.line.LineSearchTab" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.aibang.abbus.line.LineSearchInputActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.line.LineProviderActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.line.LineListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.line.LineDetailActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.line.LineMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.line.LineReminderInputActivity5_5_5" theme="2131492868" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.line.LineReminderInputActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.station.StationSearchTab" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.aibang.abbus.station.StationInputActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.station.StationListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.station.StationDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.station.StationMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.station.AroundMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.station.AroundStationActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.station.StationDetailRealTimeDataActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.station.StationReminderInputActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.station.AddressActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.station.AddressMapActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.more.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.more.RecommendActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.more.FeedbackActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.more.SurveyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.self.SelfActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.aibang.abbus.self.FavoriteActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.self.SettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.self.OfflineDataActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.self.UserFeedBackActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.aibang.abbus.self.FeedbackTalkActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.aibang.abbus.self.CustomBusActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.aibang.abbus.self.PhotoViewActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.aibang.abbus.self.ScoreTaskActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.self.ScoreCoinAnimActivity" theme="16973839" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.self.ScoreTaskDetailActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.aibang.abbus.journeyreport.GreenTripRecordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.georeminder.RemindersActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.georeminder.ReminderNotifyActivity" theme="2131492869" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.georeminder.ReminderCompleteNotifyActivity" theme="2131492869" launchMode="2">
+<activity screenOrientation="1" name="com.aibang.abbus.georeminder.ReminderMapActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".WebActivity" configChanges="160">
+<activity screenOrientation="1" name=".NoticeWebActivity" configChanges="160">
+<activity screenOrientation="1" name=".PushNotificationH5Activity" configChanges="160">
+<activity screenOrientation="1" name=".ChatActivity" configChanges="160">
+<activity screenOrientation="1" name="PreviewImageActivity" configChanges="160">
+<activity screenOrientation="1" name=".SaveTelActivity">
+<activity screenOrientation="1" name="com.pachira.ui.QianyuInputActivity" theme="2131492942" configChanges="176">
+<activity screenOrientation="1" name="com.aibang.abbus.discount.NearByBizListAcitivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.discount.NearbyDiscountListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.discount.NearbyDiscountDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.discount.BizsMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.subway.SubwayActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.subway.SubwayTextActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.mylocation.MyLocationActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.shared.SharedToSinaWeiboActivity" configChanges="160">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="160" exported="true">
+<activity screenOrientation="1" name="com.aibang.abbus.offlinedata.SwitchSearchModeActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.offlinedata.OfflineDataDownloadManagerActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.offlinedata.OfflineDataPromptActivityDialog" theme="2131492961" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.offlinedata.OfflineDataManagerActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.communityreport.CarIsWhereActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.communityreport.ChooseReportStationActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.communityreport.ChooseReportLineActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.communityreport.HopeHelpActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.journeyreport.NearbyLineActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.PersonalCenterActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.PersonalDataActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.PersonalGoldActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.UserLoginActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.bus.BrowserWebActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.bus.MarketingPromotionWebActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.GoodsListActivity" configChanges="160" label="积分商城">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.MyExchangeActivity" configChanges="160" label="我的兑换">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.MyCarbonActivity" configChanges="160" label="我的碳减排">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.BusCoinReward" configChanges="160" label="积分兑换">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.UserRegActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.SetLoginEmailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.SetSexActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.LevelBoardActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.NickRepeatActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.SetPhoneActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.AbMarketActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.GoodsExchangeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.SetUserNameActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.SetEmailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.SetPasswordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.personalcenter.CharitableDonationsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.bus.MarketingDetailWebActivity" configChanges="160">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.qihoo.gamead.activity.LightAppActivity" theme="16973840" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.qihoo.gamead.activity.AppDetailActivity" theme="16973837" configChanges="160" launchMode="1">
+<activity name="com.qihoo.psdk.app.QStatActivity" theme="16973840" launchMode="3">
+<activity screenOrientation="1" name="com.easemob.chatuidemo.activity.ShowBigImage" theme="2131492978">
+<activity screenOrientation="1" name="com.easemob.chatuidemo.activity.AlertDialog" theme="2131492976">
+<activity screenOrientation="1" name="com.aibang.abbus.huanxin.ChatLocationActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.journeyreport.JourneyReportActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.journeyreport.JourneyReportMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.greentrip.GreentripHomeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.greentrip.CountryListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.greentrip.DonateDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.greentrip.LowCarbonActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.greentrip.GroupDetailSearchActivity" configChanges="160" windowSoftInputMode="53">
+<activity screenOrientation="1" name="com.aibang.abbus.greentrip.GroupListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.greentrip.GroupSearchActivity" configChanges="160">
+<activity screenOrientation="1" name="com.aibang.abbus.bus.AbActiveWebActivity" configChanges="160">
+12
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service process=":reminder" name="com.aibang.georeminder.ReminderService">
+<service name="com.aibang.abbus.journeyreport.JourneyReportService" label="JourneyReportService">
+<service name="com.aibang.abbus.offlinedata.OfflineDataDownloadService" label="OfflineDataDownloadService">
+<service name="com.qihoo.gamead.download.DownloadService">
+<service process=":QEvent" name="com.qihoo.gamead.event.QEventService" exported="false">
+<service process=":QRemote" name="com.qihoo.psdk.remote.QRemoteService" exported="true">
+<service process=":QLocal" name="com.qihoo.psdk.local.QLocalService" exported="true">
+<service name="com.easemob.chat.EMChatService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+9
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.aibang.abbus.georeminder.ReminderReceiver">
+<receiver enabled="true" name="com.aibang.abbus.journeyreport.JourneyreprotHubReceiver">
+<receiver name="com.qihoo.psdk.local.QBootReceiver" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver enabled="true" name="com.aibang.abbus.journeyreport.GetJourneyreprotAwardReceiver">
+<receiver enabled="true" name="com.aibang.abbus.personalcenter.LogInOutReceiver">
+<receiver enabled="true" name="com.aibang.abbus.push.JPushReceiver">
+<receiver enabled="true" name="com.aibang.abbus.push.PushPorcessReceiver">
+2
+<provider process=":reminder" authorities="com.aibang.georeminder" name="com.aibang.georeminder.OfflineMapAndReminderProvider">
+<provider authorities="com.aibang.offlinedata" name="com.aibang.abbus.offlinedata.OfflineDataContentProvider" exported="true">
+Owner: CN=LiuKai, OU=aibang.com, O=aibang, L=beijing, ST=beijing, C=cn
+Issuer: CN=LiuKai, OU=aibang.com, O=aibang, L=beijing, ST=beijing, C=cn
+Serial number: 4b25f720
+Valid from: Mon Dec 14 16:28:16 CST 2009 until: Tue Sep 16 16:28:16 CST 2064
+Certificate fingerprints: 
+	MD5:56:F3:B7:26:70:DF:75:92:3D:BF:1F:99:2F:71:50:6D
+	SHA1: 3F:13:BF:8C:89:8A:1D:82:4B:F4:3B:7A:32:85:07:95:B6:E7:A7:30
+	SHA256: E0:80:F3:37:2B:E2:29:9A:56:43:66:D7:E0:DB:B4:0C:8F:85:FB:CB:6F:F2:29:05:A3:EA:F3:CC:F2:5B:95:C7
+	Signature algorithm name: SHA1withRSA
+	version: 3

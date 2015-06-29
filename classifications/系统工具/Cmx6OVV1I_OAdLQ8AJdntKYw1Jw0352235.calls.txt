@@ -1,0 +1,7 @@
+android.content.ContentResolver: android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String)
+android.database.Cursor: java.lang.String getString(int)
+android.os.Handler: android.os.Message obtainMessage()
+com.UCMobile.barcode.client.android.d: boolean sendMessage(android.os.Message)
+java.util.Locale: java.lang.String getCountry()
+android.telephony.TelephonyManager: java.lang.String getDeviceId()
+android.content.pm.PackageManager: java.util.List queryIntentActivities(android.content.Intent,int)

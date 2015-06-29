@@ -1,0 +1,32 @@
+com.kevin.note
+2
+2.0.0
+9
+16
+6
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+6
+<activity name="com.kevin.note.activities.SplashActivit" label="2131165184">
+<activity name="com.kevin.note.activities.Query2Activity">
+<activity name="com.kevin.note.activities.Query1Activity">
+<activity name="com.kevin.note.activities.Note1AddActicity">
+<activity name="com.kevin.note.activities.Note2AddActicity">
+<activity name="com.kevin.note.activities.MenuActivity" theme="16973840">
+0
+0
+0
+Owner: CN=zwenkai, OU=xuehuayous, O=bj, L=bj, ST=bj, C=86
+Issuer: CN=zwenkai, OU=xuehuayous, O=bj, L=bj, ST=bj, C=86
+Serial number: 3163529b
+Valid from: Sun Jul 06 16:01:07 CST 2014 until: Tue Jun 28 16:01:07 CST 2044
+Certificate fingerprints: 
+	MD5:59:5A:EC:00:B6:60:E1:AA:7A:ED:7B:92:CF:08:F4:66
+	SHA1: 0C:A1:9D:4F:20:3A:32:61:18:5F:2A:50:03:86:F2:00:47:26:92:33
+	SHA256: F2:18:DF:69:41:9F:8D:D5:BC:9F:0D:FA:8F:04:74:7B:5F:B1:DB:D8:BF:57:82:75:21:43:99:A1:81:E9:3A:34
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,62 @@
+com.jiuyi.fangyangtuan
+2
+V1.0.1
+10
+21
+20
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+com.geren.ceshi.permission.JPUSH_MESSAGE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+22
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.SplashActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.utils.cropimage.CropImage" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.MainActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.LoginActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.RegisterActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.FindPasswordActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.MyAccountActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.SettingActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.MessageCenterActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.ChangePasswordActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.AboutActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.FeedbackActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.CheckUpdateActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.ReturnAccountManageActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.PayAccountManageActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.FunctionIntroductionActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.AgreementActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.WebViewActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.SheepGuideActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.OrderDetailsActivity" configChanges="1188">
+<activity screenOrientation="1" name="com.jiuyi.fangyangtuan.ui.activity.MySheepActivity" configChanges="1188">
+<activity name="android.support.v7.widget.TestActivity" label="RecyclerViewTestActivity">
+0
+0
+0
+Owner: CN=wangshaoqiang
+Issuer: CN=wangshaoqiang
+Serial number: 1b9efe8c
+Valid from: Mon May 11 18:09:46 CST 2015 until: Fri May 04 18:09:46 CST 2040
+Certificate fingerprints: 
+	MD5:26:6A:FC:52:7F:DF:DC:BB:B3:DD:5E:88:E6:BE:6F:2A
+	SHA1: 27:F4:53:9D:95:79:5C:5E:59:BC:E7:19:9F:47:DC:BB:5E:DC:33:A1
+	SHA256: 82:63:C2:23:4A:67:D3:E4:98:36:23:5B:B0:2D:BC:B1:A2:EB:37:5C:7B:8A:7A:B9:A3:36:A2:00:C8:8E:AE:72
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,51 @@
+org.zywx.wbpalmstar.widgetone.uex11261397
+204001
+2.2.55.1
+7
+-1
+19
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.FLASHLIGHT
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_FIND_LOCATION
+10
+<activity screenOrientation="1" name="org.zywx.wbpalmstar.engine.EBrowserActivity" theme="2131427330" configChanges="160" windowSoftInputMode="18" alwaysRetainTaskState="true" launchMode="1">
+<activity screenOrientation="1" name="org.zywx.wbpalmstar.platform.mam.MAMFormActivity">
+<activity screenOrientation="1" name="org.zywx.wbpalmstar.plugin.uexzxing.client.android.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity name="org.zywx.wbpalmstar.plugin.uexcontacts.ContactActivity">
+<activity name="org.zywx.wbpalmstar.plugin.uexfilemgr.FilexplorerActivity" theme="2131427331" configChanges="160">
+<activity screenOrientation="0" name="org.zywx.wbpalmstar.plugin.uexvideo.VideoPlayerActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="4" name="org.zywx.wbpalmstar.plugin.ueximagebrowser.ImageWatcherActivity" theme="2131427331" configChanges="160">
+<activity name="org.zywx.wbpalmstar.plugin.ueximagebrowser.ImagePreviewActivity" theme="16973831" configChanges="160">
+<activity name="org.zywx.wbpalmstar.plugin.ueximagebrowser.ImageReviewActivity" theme="2131427337" configChanges="160">
+<activity name="org.zywx.wbpalmstar.plugin.ueximagebrowser.PictureActivity" theme="2131427332" configChanges="160">
+1
+<service process=":push" enabled="true" name="org.zywx.wbpalmstar.plugin.uexpushconfig.WBootService">
+1
+<receiver process=":push" name="org.zywx.wbpalmstar.plugin.uexpushconfig.WBootBroadCastReceiver">
+0
+Owner: CN=YSN, OU=ZYWX, O=DEV, L=BJ, ST=BJ, C=CN
+Issuer: CN=YSN, OU=ZYWX, O=DEV, L=BJ, ST=BJ, C=CN
+Serial number: 4dc75424
+Valid from: Mon May 09 10:40:36 CST 2011 until: Tue Feb 09 10:40:36 CST 2066
+Certificate fingerprints: 
+	MD5:D3:82:D6:71:C6:67:2C:BA:4B:87:98:09:92:CD:9D:77
+	SHA1: 49:3E:52:87:09:E1:B4:D2:B8:FF:12:6E:2C:C8:40:6D:3B:5E:4D:BB
+	SHA256: 81:DC:B7:44:99:B7:9B:2D:3B:4F:4C:5C:6F:DA:BD:68:C2:BA:7C:FD:1D:04:08:3B:EC:8E:56:0A:80:9E:67:E1
+	Signature algorithm name: SHA1withRSA
+	version: 3

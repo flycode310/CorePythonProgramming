@@ -1,0 +1,54 @@
+com.musicropku
+20
+1.6.4
+7
+18
+14
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+android.permission.MANAGE_DOCUMENTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+12
+<activity name="com.musicropku.activity.MainActivity" theme="2131099680" label="2131230783">
+<activity screenOrientation="1" name="com.umeng.fb.ConversationActivity" theme="2131099680" launchMode="2">
+<activity screenOrientation="1" name="com.umeng.fb.ContactActivity" theme="2131099680" launchMode="2">
+<activity name="com.musicropku.activity.RingdroidEditActivity" theme="2131099680" launchMode="2">
+<activity name="com.musicropku.activity.MyWebViewActivity" theme="2131099680" launchMode="2">
+<activity screenOrientation="1" name="com.musicropku.activity.AudioRecordingActivity">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131099662" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.musicropku.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+5
+<service name="com.lingshengku.appdown.DownApkService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+3
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+0
+Owner: CN=rao, OU=wei, O=zhongguo, L=zhongguo
+Issuer: CN=rao, OU=wei, O=zhongguo, L=zhongguo
+Serial number: 529d77cb
+Valid from: Tue Dec 03 14:18:51 CST 2013 until: Wed Nov 21 14:18:51 CST 2063
+Certificate fingerprints: 
+	MD5:26:49:F8:13:9B:B7:A7:FB:60:F3:A5:08:D2:8B:D2:5A
+	SHA1: F7:42:A8:AF:8B:E6:91:28:8B:A6:60:17:23:84:7F:18:E6:1C:FF:FC
+	SHA256: D3:CB:EC:2B:D8:60:D5:CD:24:61:7C:4D:F1:33:C5:F9:D1:5B:6C:4F:08:23:22:4C:5E:88:CD:50:FD:BE:A0:ED
+	Signature algorithm name: SHA1withRSA
+	version: 3

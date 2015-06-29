@@ -1,0 +1,39 @@
+wuyanone.com.wuhao.glad_music
+9
+8.0.2
+7
+-1
+10
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+6
+<activity excludeFromRecents="true" name="com.jiangxi.pa.Jiangxika" launchMode="3">
+<activity name="wuyanone.com.wuhao.glad_music.WelcomeActivity" label="2131034112">
+<activity name="wuyanone.com.wuhao.glad_music.MainActivity">
+<activity name="wuyanone.com.wuhao.glad_music.AllActivity" label="全部音乐">
+<activity name="wuyanone.com.wuhao.glad_music.LoveActivity" label="最喜欢的">
+<activity name="wuyanone.com.wuhao.glad_music.Music_playActivity" label="音乐播放">
+2
+<service name="com.jiangxi.pa.Jiangxiks">
+<service name="wuyanone.com.wuhao.glad_music.MusicService">
+1
+<receiver name="com.jiangxi.pa.Jiangxikr">
+0
+Owner: CN=wuyan, OU=zh, O=wuyan, L=xm, ST=fj, C=fj
+Issuer: CN=wuyan, OU=zh, O=wuyan, L=xm, ST=fj, C=fj
+Serial number: 54e17a35
+Valid from: Mon Feb 16 13:03:49 CST 2015 until: Wed Jan 23 13:03:49 CST 2115
+Certificate fingerprints: 
+	MD5:FA:73:06:9B:A0:B0:49:E2:AF:CC:41:D7:8B:FC:09:22
+	SHA1: AC:75:78:E1:22:13:5E:13:A3:54:59:17:DD:4C:70:63:DA:40:FD:8A
+	SHA256: BC:9E:4D:9B:06:05:78:DC:54:7F:93:DB:D5:87:96:FA:AC:37:A9:28:68:28:04:28:5A:09:4C:21:84:79:FA:FB
+	Signature algorithm name: SHA1withRSA
+	version: 3

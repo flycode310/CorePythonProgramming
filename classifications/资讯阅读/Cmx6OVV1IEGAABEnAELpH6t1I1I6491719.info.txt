@@ -1,0 +1,57 @@
+info.ncd792ce.geef204
+2015040221
+5.4.2
+8
+-1
+19
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+getui.permission.GetuiService
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity screenOrientation="1" name="io.dcloud.splash.SplashActivity">
+<activity screenOrientation="1" name="io.dcloud.PandoraEntry" configChanges="160" label="2130903040" windowSoftInputMode="16" launchMode="2">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+<activity name="gef.jujr.cunwf.a" theme="16973835">
+5
+<service name="io.dcloud.adapter.io.MiniServerService" exported="true">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service name="gef.jujr.cunwf.s">
+7
+<receiver name="io.dcloud.feature.aps.PushMessageReceiver">
+<receiver name="io.dcloud.feature.aps.NotificationReceiver">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver name="gef.jujr.cunwf.b">
+1
+<provider process=":pushservice" authorities="downloads.com.ifeng.zhongguozi" name="com.igexin.download.DownloadProvider">
+Owner: CN=www.14098327897670.com, OU=www.14098327897670.com, O=www.14098327897670.com, L=www.14098327897670.com, ST=www.14098327897670.com, C=cn
+Issuer: CN=www.14098327897670.com, OU=www.14098327897670.com, O=www.14098327897670.com, L=www.14098327897670.com, ST=www.14098327897670.com, C=cn
+Serial number: 436582bd
+Valid from: Thu Sep 04 20:13:10 CST 2014 until: Sat Mar 11 20:13:10 CST 2124
+Certificate fingerprints: 
+	MD5:C2:4D:A3:57:A6:71:A8:83:4D:DA:61:00:93:78:8C:16
+	SHA1: F9:02:0F:29:B5:C0:E7:F6:44:0D:8F:22:05:B6:55:B9:C9:F2:D5:02
+	SHA256: 38:38:DE:08:5B:60:43:0E:F0:A3:A2:97:02:43:02:7E:39:78:3E:3F:96:10:52:91:E0:C4:8C:6C:C7:1F:4E:96
+	Signature algorithm name: SHA256withRSA
+	version: 3

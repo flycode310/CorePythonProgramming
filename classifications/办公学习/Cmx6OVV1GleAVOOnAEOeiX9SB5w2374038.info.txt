@@ -1,0 +1,112 @@
+com.diandong.xueba
+98
+2.5.4
+9
+14
+31
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+android.permission.BATTERY_STATS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+56
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.android.tpush.XGPushActivity">
+<activity screenOrientation="1" name="com.xuexi.activity.main.InitActivity" label="2131165266" launchMode="1">
+<activity screenOrientation="1" name="com.xuexi.activity.main.HomeActivity" configChanges="160" launchMode="1">
+<activity name="com.xuexi.activity.main.LoginActivity" theme="16973839" configChanges="1152">
+<activity name="com.xuexi.activity.main.RegistActivity" theme="16973839" configChanges="1152">
+<activity name="com.xuexi.activity.question.QuestionActivity" configChanges="1152">
+<activity name="com.xuexi.activity.question.AnswerActivity" configChanges="1152" windowSoftInputMode="23">
+<activity name="com.xuexi.activity.question.AskTopicActivity" configChanges="1152" windowSoftInputMode="23">
+<activity name="com.xuexi.activity.question.AskQuesActivity" configChanges="1152" windowSoftInputMode="23">
+<activity name="com.xuexi.activity.question.QuesCommentActivity" configChanges="1152" windowSoftInputMode="23">
+<activity name="com.xuexi.activity.question.DonationActivity" theme="2131296276" label="2131165266">
+<activity name="com.xuexi.activity.question.ReportActivity" theme="2131296276" label="2131165266">
+<activity name="com.xuexi.activity.group.Activity_Group" configChanges="1152">
+<activity name="com.xuexi.activity.group.GroupMoreActivity" configChanges="1152">
+<activity name="com.xuexi.activity.group.TopticActivity" configChanges="1152">
+<activity name="com.xuexi.activity.message.MessageActivity" configChanges="1152">
+<activity name="com.xuexi.activity.user.UserActivity" theme="16973839" configChanges="1152">
+<activity name="com.xuexi.activity.user.UserAnswerActivity" windowSoftInputMode="23">
+<activity name="com.xuexi.activity.user.UserQuestionActivity">
+<activity name="com.xuexi.activity.user.UserTopicComment" windowSoftInputMode="23">
+<activity name="com.xuexi.activity.user.UserFollowActivity">
+<activity name="com.xuexi.activity.user.ActUserEdit">
+<activity name="com.xuexi.activity.user.UserSettingActivity">
+<activity name="com.xuexi.activity.user.UserNoticeActivity">
+<activity name="com.xuexi.activity.user.UserCityActivity">
+<activity name="com.xuexi.activity.user.AboutActivity">
+<activity name="com.xuexi.activity.message.ChatActivity" configChanges="1152">
+<activity name="com.xuexi.activity.user.FeedBackActivity" windowSoftInputMode="4">
+<activity name="com.example.homework.FingerPaintActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.diandong.xueba.cropimage.CropImageActivity" configChanges="160">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.diandong.xueba.dragimage.DragActivity" configChanges="160">
+<activity name="com.xuexi.activity.main.CommentActivity" configChanges="1152" windowSoftInputMode="23">
+<activity name="com.diandong.xueba.ActivityPeople" configChanges="1152" label="2131165299">
+<activity name="com.diandong.xueba.wxapi.WXEntryActivity" theme="2131296278" exported="true" label="2131165266">
+<activity name="com.diandong.xueba.ActivityUserRank" configChanges="1152" label="2131165304">
+<activity name="com.xuexi.activity.group.ActivityTopicAnswer" label="2131165307" windowSoftInputMode="23">
+<activity name="com.xuexi.activity.group.ActivityTopicComment" label="2131165308" windowSoftInputMode="23">
+<activity name="com.diandong.xueba.ActivityShop" label="2131165310">
+<activity name="com.diandong.xueba.ActivityUserGift" configChanges="1152" label="2131165310">
+<activity name="com.diandong.xueba.ActivityPresent" configChanges="1152" label="2131165310">
+<activity name="com.diandong.xueba.ActivityMyGoods" configChanges="1152" label="2131165310">
+<activity name="com.diandong.xueba.ActivityIntegral" configChanges="1152" label="2131165312">
+<activity name="com.diandong.xueba.ActivityTeach" label="2131165313">
+<activity name="com.diandong.xueba.ActivityCourse" label="2131165314">
+<activity name="com.diandong.xueba.ActivityTeacherInfo" label="2131165315">
+<activity screenOrientation="1" name="com.diandong.xueba.ActivityVideo" configChanges="1152" label="2131165316">
+<activity name="com.diandong.xueba.ActivityCourseNode" label="2131165317">
+<activity name="com.diandong.xueba.ActivityVideoHistory" label="2131165318">
+<activity name="com.diandong.xueba.ActUser" label="2131165320">
+<activity name="com.diandong.xueba.ActFriend" label="2131165321">
+<activity name="com.diandong.xueba.ActAddress" label="2131165322">
+<activity name="com.diandong.xueba.ActDownload" label="2131165323">
+<activity name="com.diandong.xueba.ActDownManage" label="2131165324" launchMode="2">
+<activity name="com.diandong.xueba.ActAnsw" configChanges="1152" label="2131165326" windowSoftInputMode="23">
+3
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.xuebawend.BcoslxService">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+2
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="com.xuexi.receiver.PushMessageReceiver">
+0
+Owner: OU=diandong, O=diandong
+Issuer: OU=diandong, O=diandong
+Serial number: 77c48af6
+Valid from: Thu May 22 11:07:36 CST 2014 until: Tue Sep 22 11:07:36 CST 3012
+Certificate fingerprints: 
+	MD5:E7:0D:6B:F3:A1:FF:FD:3C:D7:71:30:3E:1F:C1:74:5F
+	SHA1: 39:7D:55:05:70:62:30:0F:2A:90:6D:A5:C5:CA:A3:A3:86:55:03:D9
+	SHA256: 9D:7F:D4:91:C4:35:78:7B:89:57:1C:D6:33:3F:F8:55:27:0F:17:9C:29:C0:25:40:93:F4:BF:D2:DD:A7:38:7E
+	Signature algorithm name: SHA256withRSA
+	version: 3

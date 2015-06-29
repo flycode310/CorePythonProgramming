@@ -1,0 +1,42 @@
+com.yllmb.xinhuazidian
+6
+1.2
+4
+-1
+9
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity name="com.gucdxj.apps.xinhuazidian.MainActivity" label="2131165185">
+<activity name="com.gucdxj.apps.xinhuazidian.WelcomeActivity" windowSoftInputMode="2">
+<activity name="com.gucdxj.apps.xinhuazidian.ShowZiActivity">
+<activity name="com.gucdxj.apps.xinhuazidian.AboutActivity">
+<activity name="com.nana.ter.Amec" theme="16973840" configChanges="176" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.reb.ter.Aeco" label="">
+<activity name="com.om.View" theme="16973835">
+3
+<service name="com.nana.ter.Cmec">
+<service name="com.reb.ter.Beco">
+<service name="com.om.UPService">
+3
+<receiver name="com.nana.ter.Bmec">
+<receiver name="com.reb.ter.Ceco">
+<receiver name="com.om.PReciever">
+0
+Owner: CN=criket, L=NC, ST=JX, C=0791
+Issuer: CN=criket, L=NC, ST=JX, C=0791
+Serial number: 5189dca4
+Valid from: Wed May 08 13:03:32 CST 2013 until: Fri Apr 14 13:03:32 CST 2113
+Certificate fingerprints: 
+	MD5:27:E5:A9:4D:F6:F7:B0:7F:01:9B:E0:40:ED:F0:8D:87
+	SHA1: 83:89:1F:08:5D:3F:86:A5:D0:F1:E7:B0:49:C9:AD:1C:02:A5:4F:AE
+	SHA256: 91:28:CF:6F:05:AD:38:D5:A1:32:8E:72:D5:7E:27:F8:B8:C1:0A:07:CA:B9:ED:CB:7C:0B:B3:35:3E:E9:49:3F
+	Signature algorithm name: SHA1withRSA
+	version: 3

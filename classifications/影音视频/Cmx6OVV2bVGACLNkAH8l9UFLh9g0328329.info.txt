@@ -1,0 +1,70 @@
+com.youku.phone
+37
+3.2.1
+8
+16
+17
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.WRITE_SETTINGS
+26
+<activity screenOrientation="5" name="com.youku.phone.ActivityWelcome" theme="16973839" label="2131558506">
+<activity icon="2130837877" name="com.youku.ui.activity.HomePageActivity" theme="2131624201" configChanges="32" windowSoftInputMode="32" launchMode="1">
+<activity name="com.youku.ui.activity.HistoryActivity" launchMode="2">
+<activity name="com.youku.ui.activity.MyYoukuActivity" configChanges="1184" launchMode="2">
+<activity name="com.youku.ui.activity.UpdateActivity" theme="2131624096" configChanges="1184" launchMode="2">
+<activity screenOrientation="0" name="com.youku.phone.EndActivity" configChanges="1184" launchMode="1">
+<activity name="com.youku.ui.activity.ChannelRankActivity" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.MyUploadVideoPageActivity" windowSoftInputMode="2">
+<activity name="com.youku.ui.activity.MyUploadPageActivity" launchMode="2">
+<activity name="com.youku.ui.activity.MyFavoritePageActivity" launchMode="2">
+<activity name="com.youku.ui.activity.MyCenterSettingsActivity" launchMode="2">
+<activity name="com.youku.ui.activity.CachePageActivity" theme="2131624199" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.CacheSeriesActivity" theme="2131624199" configChanges="1184" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.SearchActivity" theme="2131624199" windowSoftInputMode="3" launchMode="2">
+<activity name="com.youku.ui.activity.NewDetailActivity" theme="2131624182" configChanges="1184" windowSoftInputMode="32" launchMode="1">
+<activity name="com.youku.phone.detail.CommentInputActivity" configChanges="160">
+<activity name="com.youku.ui.activity.ChannelActivity" label="2131558506" windowSoftInputMode="32">
+<activity name="com.youku.ui.activity.RecommandActivity" label="2131558506">
+<activity name="com.youku.ui.activity.EditTextActivity" theme="2131624096" windowSoftInputMode="16">
+<activity name="com.youku.ui.activity.LoginActivity" label="2131558506">
+<activity name="com.youku.ui.activity.WebViewActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.zijunlin.Zxing.CaptureActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.youku.ui.activity.CaptureResultAcitvity" theme="2131624199" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity name="com.google.zxing.client.android.PreferencesActivity" label="2131559050" stateNotNeeded="true">
+<activity screenOrientation="1" name="com.umeng.example.xp.UmengAppStoreContainerHeaderFragment" theme="2131624199">
+<activity screenOrientation="1" name="com.youku.ui.fragment.UmengAppFragment" theme="2131624199">
+5
+<service name="com.youku.push.PushService" label="Youku Push Notifications Service">
+<service name="com.youku.push.StartActivityService" label="Youku Push Notifications StartActivityService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.youku.iku.GetIkuNotifyIntentService">
+<service name="org.openudid.OpenUDID_service">
+1
+<receiver name="com.youku.push.BootCompletedReceiver">
+1
+<provider authorities="com.youku.ui.search.provider.SearchSuggestionProvider" name="com.youku.ui.search.provider.SearchSuggestionProvider">
+Owner: CN=youku, OU=youku, O=youku, L=beijing, ST=beijing, C=cn
+Issuer: CN=youku, OU=youku, O=youku, L=beijing, ST=beijing, C=cn
+Serial number: 4be8c388
+Valid from: Tue May 11 10:40:08 CST 2010 until: Wed Feb 11 10:40:08 CST 2065
+Certificate fingerprints: 
+	MD5:44:37:26:A8:3B:7A:57:5E:2D:0B:79:85:09:7E:BB:24
+	SHA1: 8F:65:A4:77:F7:5C:D4:32:48:D2:F8:5E:E1:C1:A2:01:3D:C0:DC:D2
+	SHA256: C7:DF:D1:9F:81:99:B8:06:15:EA:6E:70:AB:46:F8:5D:87:F3:6A:F2:65:01:F4:E0:2D:5C:2C:BA:85:E8:02:FB
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,36 @@
+com.siecan.buytickt
+4
+3.4.9
+7
+7
+3
+android.permission.READ_PHONE_STATE
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+12
+<activity screenOrientation="1" name="com.siecan.buytickt.MainActivity" label="2131099648">
+<activity screenOrientation="1" name="com.siecan.stationselltime.SelectAreaActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.siecan.buytickt.WarningActivity">
+<activity screenOrientation="1" name="com.siecan.buytickt.StartSellTickt">
+<activity screenOrientation="1" name="com.siecan.buytickt.NetBuyTicktSkill">
+<activity screenOrientation="1" name="com.siecan.buytickt.PhoneBuyTicktSkill">
+<activity screenOrientation="1" name="com.siecan.buytickt.CalendarActivity">
+<activity screenOrientation="1" name="com.siecan.buytickt.CalendarConvert">
+<activity screenOrientation="1" name="com.siecan.buytickt.PhoneBuyTicktStep">
+<activity screenOrientation="1" name="com.siecan.buytickt.NetBuyTicktStep">
+<activity screenOrientation="1" name="com.siecan.buytickt.DialerActivity">
+<activity screenOrientation="1" name="com.siecan.buytickt.DetailActivity">
+1
+<service name="com.siecan.buytickt.AutoRedialService">
+0
+0
+Owner: CN=siecan, OU=北京鑫创佳业信息系统工程有限公司, O=Siecan, L=北京, ST=北京, C=CN
+Issuer: CN=siecan, OU=北京鑫创佳业信息系统工程有限公司, O=Siecan, L=北京, ST=北京, C=CN
+Serial number: 50f38ee1
+Valid from: Mon Jan 14 12:51:45 CST 2013 until: Wed Dec 21 12:51:45 CST 2112
+Certificate fingerprints: 
+	MD5:48:66:0C:36:91:2B:14:F5:A7:46:C9:93:8B:44:67:DE
+	SHA1: 63:EC:79:43:8A:71:02:77:93:02:C2:C3:84:D2:1D:41:56:53:FD:5C
+	SHA256: B5:48:B2:42:5B:8B:D3:B8:63:3C:D2:FF:EC:7F:85:29:48:DC:09:D6:93:0F:D9:8C:1D:79:9E:5A:26:59:F1:52
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,141 @@
+com.amazon.kindlefc
+1143996560
+4.12.0.144
+14
+19
+29
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+com.amazon.dcp.sso.permission.USE_DEVICE_CREDENTIALS
+android.permission.GET_ACCOUNTS
+amazon.permission.COLLECT_METRICS
+android.permission.AUTHENTICATE_ACCOUNTS
+com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+com.amazon.dcp.config.permission.DYN_CONFIG_VALUES_UPDATED
+com.amazon.identity.permission.CAN_CALL_MAP_INFORMATION_PROVIDER
+android.permission.MANAGE_ACCOUNTS
+com.amazon.dcp.settings.permission.READ_SETTINGS
+com.amazon.CONTENT_PROVIDER_ACCESS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.amazon.STORE_ACCESS
+com.amazon.kindle.otter.settings.RECEIVE_GOODREADS_UNLINK
+android.permission.USE_CREDENTIALS
+com.amazon.dcp.sso.permission.account.changed
+com.amazon.identity.permission.GENERIC_IPC
+com.amazon.dcp.metrics.permission.METRICS_PERMISSION
+com.amazon.dcp.sso.permission.AMAZON_ACCOUNT_PROPERTY
+com.amazon.dcp.sso.permission.AmazonAccountPropertyService.property.changed
+com.amazon.identity.auth.device.perm.AUTH_SDK
+com.google.android.c2dm.permission.RECEIVE
+android.permission.INTERNET
+com.amazon.dcp.sso.permission.CUSTOMER_ATTRIBUTE_SERVICE
+com.amazon.dcp.sso.permission.MANAGE_COR_PFM
+android.permission.C2D_MESSAGE
+com.amazon.kindlefc.permission.C2D_MESSAGE
+64
+<activity name="com.amazon.kcp.library.LibraryFragmentActivity" theme="2131427738" windowSoftInputMode="32" launchMode="2">
+<activity name="com.amazon.kcp.library.LibrarySettingsActivity" theme="2131427738" label="2131362360">
+<activity name="com.amazon.kcp.library.TransientActivity" theme="2131427727">
+<activity name="com.amazon.kindle.FTUELoadingActivity" theme="2131427739">
+<activity excludeFromRecents="true" name="com.amazon.kindle.kindleunlimited.KindleUnlimitedSplashScreen" theme="16974065" launchMode="2">
+<activity name="com.amazon.kcp.reader.StandaloneFullDefinitionActivity" theme="2131427735" configChanges="1184" launchMode="2">
+<activity name="com.amazon.kcp.reader.StandAloneBookReaderActivity" theme="2131427735" configChanges="1184" label="" launchMode="0">
+<activity name="com.amazon.kcp.reader.SimplifiedStandAloneBookReaderActivity" theme="2131427735" configChanges="1184" launchMode="0">
+<activity name="com.amazon.kindle.mangaviewer.StandaloneMangaPagerActivity" theme="2131427735" configChanges="1184" launchMode="0">
+<activity name="com.amazon.kcp.periodicals.PeriodicalReaderActivity" theme="2131427735" configChanges="1440" launchMode="2">
+<activity hardwareAccelerated="true" name="com.amazon.kcp.reader.StandAlonePdfReaderActivity" theme="2131427744" configChanges="1440" windowSoftInputMode="32" launchMode="2">
+<activity hardwareAccelerated="true" name="com.amazon.kcp.reader.StandAloneMopReaderActivity" theme="2131427744" configChanges="1440" windowSoftInputMode="32" launchMode="2">
+<activity name="com.amazon.kcp.reader.MopReaderActivity" theme="2131427735" configChanges="1184" launchMode="0">
+<activity name="com.amazon.kcp.reader.NotesActivity" theme="2131427735" configChanges="1184" label="2131362527">
+<activity name="com.amazon.kcp.reader.PopularHighlightsActivity" theme="2131427735" configChanges="1184" label="2131363312">
+<activity name="com.amazon.kcp.reader.notebook.NotebookActivity" label="2131363311">
+<activity name="com.amazon.kcp.reader.ui.WordWiseAdjustmentActivity" theme="2131427442" configChanges="1440">
+<activity name="com.amazon.kcp.reader.ui.WordWiseDownloadErrorMessageActivity" theme="2131427442" configChanges="1440">
+<activity name="com.amazon.kcp.reader.notebook.exporting.NotebookExportActivity" theme="2131427733" configChanges="1440" label="2131362528">
+<activity name="com.amazon.kcp.reader.notebook.exporting.NotebookExportSelectionActivity" theme="2131427733" label="2131362528">
+<activity name="com.amazon.kcp.reader.notebook.exporting.NotebookClearClippingLimitActivity" theme="2131427422" configChanges="1440">
+<activity name="com.amazon.kcp.reader.ImageZoomActivity" theme="2131427422">
+<activity name="com.amazon.kcp.periodicals.CoverActivity" theme="2131427422">
+<activity name="com.amazon.kcp.periodicals.activities.PeriodicalContentListActivity" theme="2131427735" configChanges="1184">
+<activity name="com.amazon.kcp.periodicals.UnFilteredArticleListActivity" theme="2131427735">
+<activity name="com.amazon.kcp.periodicals.FilteredArticleListActivity" theme="2131427735">
+<activity name="com.amazon.kcp.periodicals.SectionListActivity" label="2131363114">
+<activity name="com.amazon.kcp.reader.EditNoteActivity" theme="2131427441">
+<activity name="com.amazon.kcp.info.AboutActivity" theme="2131427732" label="2131363092">
+<activity name="com.amazon.kcp.library.EditDeviceNameActivity" theme="2131427738" label="2131363265" windowSoftInputMode="4">
+<activity name="com.amazon.kcp.library.SendToKindleDetailsActivity" theme="2131427732" label="2131363276">
+<activity name="com.amazon.kcp.library.NotificationsActivity" theme="2131427732" label="2131363456">
+<activity name="com.amazon.kcp.library.WordWiseSettingsActivity" theme="2131427732" label="2131363457">
+<activity excludeFromRecents="true" name="com.amazon.kcp.library.ChannelSignupDialog" theme="16974065" launchMode="2">
+<activity name="com.amazon.kcp.library.EditCollectionActivity" theme="2131427739">
+<activity name="com.amazon.kcp.library.AddToCollectionActivity" theme="2131427739">
+<activity name="com.amazon.kcp.reader.BookTOCActivity" theme="2131427737">
+<activity hardwareAccelerated="false" name="com.amazon.kcp.store.StandaloneStoreActivity" theme="2131427738" configChanges="1184" exported="true" permission="com.amazon.STORE_ACCESS" launchMode="2">
+<activity name="com.amazon.kcp.redding.WebViewActivity" theme="2131427454" configChanges="1184">
+<activity name="com.amazon.kcp.redding.AlertActivity" theme="2131427733">
+<activity name="com.amazon.kcp.welcome.WelcomeActivity" theme="2131427739" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.amazon.kcp.welcome.china.SplashPageActivity" theme="2131427706" configChanges="1152">
+<activity name="com.amazon.kcp.library.SamsungClubLearnMoreActivity" theme="2131427738">
+<activity name="com.amazon.kcp.search.SearchActivity" theme="2131427738" label="2131362956" launchMode="1">
+<activity name="com.amazon.kcp.search.BookReaderSearchActivity" theme="2131427735" configChanges="1184" launchMode="1">
+<activity name="com.amazon.kcp.search.PeriodicalReaderSearchActivity" theme="2131427735" configChanges="1184" label="2131363317" launchMode="1">
+<activity name="com.amazon.kindle.PdfBookOpenHelperActivity" theme="2131427732">
+<activity name="com.amazon.kcp.accounts.AccountConfirmationActivity" theme="2131427739">
+<activity name="com.amazon.kindle.AppInitializationLoadingActivity" theme="2131427706">
+<activity name="com.amazon.kindle.map.StandaloneMAPWebViewActivity" theme="2131427738" exported="false">
+<activity name="com.amazon.kindlefc.wxapi.WXEntryActivity" theme="16973909" exported="true" launchMode="1">
+<activity hardwareAccelerated="false" name="com.amazon.kindle.KfcUpgradePage" theme="2131427706" configChanges="1152">
+<activity name="com.amazon.kcp.debug.DebugActivity" exported="false" label="Debug Options" windowSoftInputMode="2">
+<activity name="com.amazon.kcp.application.FatalErrorActivity">
+<activity name="com.amazon.kcp.periodicals.TwoPanelsArticleListActivity" theme="2131427732">
+<activity name="com.amazon.kcp.library.download.error.StandaloneDownloadErrorActivity" theme="2131427733" exported="true">
+<activity name="com.amazon.kindle.s2k.SendToKindleActivity" theme="2131427732" configChanges="1184" label="2131363276" taskAffinity="com.amazon.kindle.s2k.s2k_affinity" launchMode="2">
+<activity icon="2130838464" name="com.amazon.ea.ui.EndActionsActivity" theme="2131427426" label="2131362135" launchMode="2">
+<activity name="com.amazon.ea.ui.widget.ratingandreview.ReviewBookActivity" theme="2131427426" parentActivityName="com.amazon.ea.ui.EndActionsActivity" label="2131362076" windowSoftInputMode="20">
+<activity name="com.amazon.ea.ui.widget.ratingandreview.PublishedReviewActivity" theme="2131427426" parentActivityName="com.amazon.ea.ui.EndActionsActivity" label="2131362075">
+<activity name="com.amazon.startactions.ui.OverlayDummyActivity" label="start-actions">
+<activity icon="2130838464" name="com.amazon.startactions.ui.BookRecommendationsActivity" theme="2131427426" label="2131362041" launchMode="2">
+<activity name="com.amazon.xray.ui.activity.XrayActivityThirdParty" label="2131361933" windowSoftInputMode="32">
+<activity name="com.amazon.identity.auth.device.AuthPortalUIActivity" configChanges="2131492866" allowTaskReparenting="true" exported="true" permission="com.amazon.identity.auth.device.perm.AUTH_SDK" label="Amazon AuthPortal" launchMode="2">
+11
+<service name="com.amazon.identity.auth.accounts.MAPSubAuthenticatorService">
+<service enabled="true" name="com.amazon.kcp.service.StandaloneBackendInteractionService">
+<service enabled="2131165325" name="com.amazon.kindle.widget.StackWidgetService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service enabled="true" name="com.amazon.kcp.cover.CoverDownloadService">
+<service enabled="true" name="com.amazon.kcp.font.FontDownloadService" exported="false">
+<service name="com.amazon.kindle.s2k.SendToKindleService">
+<service process=":thumbnailService" enabled="true" name="com.amazon.kcp.reader.ui.ThumbnailService">
+<service name="com.amazon.kcp.notifications.ReaderNotificationsIntentService">
+<service name="com.amazon.kcp.notifications.NotificationsPublishingIntentService" exported="false">
+<service name="com.amazon.identity.auth.device.storage.DirtyDataSyncingService" exported="false">
+<service name="com.amazon.identity.auth.device.storage.DatabaseCleaner$DatabaseCleaningService" exported="false">
+13
+<receiver name="com.amazon.kcp.redding.MarketReferralTracker" exported="true">
+<receiver name="com.amazon.kindle.cocktail.CocktailProvider">
+<receiver name="com.amazon.kcp.accounts.StandaloneMAPAccountAddedReceiver" exported="true" permission="com.amazon.dcp.sso.permission.account.changed">
+<receiver name="com.amazon.kindle.map.MAPAccountRemovedReceiver" exported="true">
+<receiver enabled="2131165325" name="com.amazon.kindle.widget.StackWidgetProvider">
+<receiver name="com.amazon.kcp.notifications.ReaderNotificationsBroadcastReceiver" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="com.amazon.kcp.notifications.receiver.ReaderNotificationsActionReceiver" exported="false">
+<receiver name="com.amazon.kcp.notifications.NotificationsCancellationReceiver" exported="false">
+<receiver name="com.amazon.kcp.notifications.ReaderNotificationsAlarmReceiver" exported="false">
+<receiver name="com.amazon.startactions.plugin.receiver.AccountChangeListener">
+<receiver name="com.amazon.startactions.plugin.receiver.GoodreadsLinkReceiver">
+<receiver enabled="false" name="com.amazon.identity.auth.device.storage.LambortishClock$ChangeTimestampsBroadcastReceiver">
+<receiver name="com.amazon.identity.auth.accounts.SessionUserChangedToAccountForPackageChangedAdpater">
+4
+<provider authorities="com.amazon.kindlefc.bookmetadataprovider" name="com.amazon.kindle.contentprovider.KfcExternalQueryRouter" syncable="false" exported="true" permission="com.amazon.CONTENT_PROVIDER_ACCESS">
+<provider authorities="kindlereaderfc" name="com.amazon.kcp.search.ReaderSearchProvider" syncable="false" exported="false">
+<provider authorities="com.amazon.identity.auth.device.MapInfoProvider.KfcMAPInformationProvider" name="com.amazon.kindle.map.KfcMAPInformationProvider" exported="true" permission="com.amazon.identity.permission.CAN_CALL_MAP_INFORMATION_PROVIDER">
+<provider authorities="com.amazon.kindlefc.notebookshareprovider" name="com.amazon.kcp.reader.notebook.exporting.NotebookExportFileProvider" syncable="false" exported="true">
+Owner: CN=Amazon Services LLC, OU="Java Object Signing O=Amazon Services LLC L=Las Vegas", ST="Nevada C=US"
+Issuer: CN=Amazon Self-Sign CA, OU="Java Object Signing O=Amazon Services LLC L=Las Vegas", ST="Nevada C=US"
+Serial number: 1200123ab56
+Valid from: Sat Mar 14 02:41:26 CST 2009 until: Sun Oct 23 08:00:00 CST 2033
+Certificate fingerprints: 
+	MD5:97:E8:3C:00:3B:DE:D2:44:45:AE:FD:4C:72:DC:4B:85
+	SHA1: A1:83:52:4C:3C:8F:81:53:AA:D0:2C:0A:34:6A:EF:50:5F:D3:97:EA
+	SHA256: 2F:19:AD:EB:28:4E:B3:6F:7F:07:78:61:52:B9:A1:D1:4B:21:65:32:03:AD:0B:04:EB:BF:9C:73:AB:6D:76:25
+	Signature algorithm name: SHA256withRSA
+	version: 1

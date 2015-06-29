@@ -1,0 +1,40 @@
+com.zebra.manager
+103
+1.0.3
+5
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+13
+<activity name="com.zebra.manager.Settings" label="2131165184">
+<activity name="com.zebra.manager.ProcessManager" label="2131165187">
+<activity name="com.zebra.manager.WirelessManager" label="Wireless Information">
+<activity name="com.zebra.manager.ApplicationBackup" label="Installed Applications">
+<activity screenOrientation="1" name="com.zebra.manager.RARBrowserActivity" label="RAR Browser">
+<activity screenOrientation="1" name="com.zebra.manager.FileBrowserActivity" label="2131165184">
+<activity name="com.zebra.manager.AudioPlayblack" theme="16973835" label="2131165185">
+<activity enabled="true" screenOrientation="1" name="com.zebra.manager.DirectoryInfo" label="2131165186">
+<activity name="com.zebra.manager.HelpManager" theme="16973835" label="About Open Manager">
+<activity name="com.zebra.manager.AboutActivity" theme="16973835" label="About File Manager">
+<activity screenOrientation="1" name="com.zebra.manager.MainPreferenceActivity" label="2131165219">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity screenOrientation="1" name="org.scratch.filedialog.FileChooserDialog" label="2131165325">
+1
+<service name="com.zebra.manager.ThumbService">
+0
+0
+Owner: CN=Zebra, OU=AC, O=AC, L=BJ, ST=BJ, C=CN
+Issuer: CN=Zebra, OU=AC, O=AC, L=BJ, ST=BJ, C=CN
+Serial number: 50fe3385
+Valid from: Tue Jan 22 14:36:53 CST 2013 until: Sat Jun 09 14:36:53 CST 2040
+Certificate fingerprints: 
+	MD5:08:CB:AD:C2:41:87:D2:EB:AA:3E:3E:29:28:34:CD:E2
+	SHA1: DD:22:88:3E:D6:BC:E6:E0:71:AD:FB:F7:AD:7E:4D:2F:7C:20:DE:94
+	SHA256: 24:04:3F:F7:55:5F:52:9E:D5:1D:CD:77:54:2F:68:E9:F9:62:74:DD:84:0E:0E:7A:5B:9B:18:69:16:9C:E7:AC
+	Signature algorithm name: SHA1withRSA
+	version: 3

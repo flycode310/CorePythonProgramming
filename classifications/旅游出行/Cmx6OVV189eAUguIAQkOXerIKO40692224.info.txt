@@ -1,0 +1,393 @@
+com.forms
+18
+2.2
+10
+-1
+28
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CAMERA
+android.permission.PEORDER_TASKS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.CONTROL_LOCATION_UPDATES
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INSTALL_PACKAGES
+android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+android.permission.NFC
+android.permission.SEND_SMS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.MODIFY_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+342
+<activity screenOrientation="1" name=".start.ActStart" theme="16973831" label="2131361810">
+<activity screenOrientation="1" name=".start.changeUI.ActMain" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".motionlife.changeUI.Index" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.changeUI.guiderPage.GuiderPage" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.BillActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.CreditCardIntroduction" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.CardSetting" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.PersonCenterActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.RegisterManagerActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.RegisterInfoActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.RegisterCancelActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.RegisterFilterActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.TreatmentInfoActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.PersonalBaseInfoActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.DoctorInfoListActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.DoctorDetailInfoActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.SelectDateActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.HospitalListActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.HospitalFilterActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.HospitalBranchInfoActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.OrderInfoActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.register.activity.OrderResultActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.changeUI.CitySelectMain" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.BindWeibo" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.LogoutByTwoWay" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.LogoutAccount" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.UnlockPassWord" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.ResPwdTwoWay" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.ResetPassWord" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.SetNewPwd" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.AdviceFeedback" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.AddServiceActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.network.activity.NetworkDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.network.activity.NetworkList" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".motionlife.network.activity.NetworkMap" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActRegister" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActStatusCheck" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActCardNumCheck" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActAccountReg" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActAccoutActivation" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActLogin" theme="16973830" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.settings.ThroughActivity" theme="16973830" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.settings.ActLogin" theme="16973830" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.settings.ActLoginNew" theme="16973830" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.merchants.ActMerchantLst" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.MerchantNewLst" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.MerchantNewDetail" theme="16973830" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name=".motionlife.merchants.StowShowCollect" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.ActChainMerchantLst" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.ActOrientation" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.ActMerchantDetail" theme="16973830" exported="true">
+<activity screenOrientation="1" name=".motionlife.mapabc.ActMapRouting" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.mapabc.ActMapRouting_New" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.privilege.privilist.ActPriviList" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.privilege.privilist.ActMerchantPartic" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.privilege.prividetail.ActPriviDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.privilege.prividetail.ActMerchantPartic" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.ActCreditCardMenu" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.ActCreditCardDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.ActSectionDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardQaDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.ActAcctMngMenu" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardRecLst" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardFAQList" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardBaseFunc" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardCharacSvr" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardOrderOnline" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardOrderOnlineAreaList" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActPswReset" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActAcntSetting" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActAcntSettingStep" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActSettingHelp" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.settings.ActSettingAbout" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.ActBillInquire" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.ActAmountDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.ActAmountInquire" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.ActBillUnRecordInquire" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.ActBillUnrecordDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.ActBillInfo" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.ActBillInfoNewActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.ActAcctMng" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.CardBillStages" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.DealBillStages" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.mapabc.ActMapView" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.mapabc.ActMyAround" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.mapabc.ActMyAround_New" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.internet.BranchList" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.internet.BranchDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.StowShow" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.dynamic.Dynamic_Affiche_List" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.dynamic.Dynamic_Affiche_Detail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.SmsTypeSearchList" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.account.SmsSearchSend" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.CouponList" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.CouponDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.CouponDetailGetActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants.MyCouponListActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.weibo.WebAuthorizeActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.weibo.SendMessageActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.weibo.SendSharedMessageActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".motionlife.pay.BocPayActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".motionlife.pay.ContactActivity">
+<activity screenOrientation="1" name=".motionlife.pay.ContactDetailActivity">
+<activity screenOrientation="1" name=".motionlife.pay.AgreedActivity">
+<activity screenOrientation="1" name=".motionlife.pay.PayOrderConfirm">
+<activity screenOrientation="1" name=".motionlife.pay.PayCreditCardActivity">
+<activity screenOrientation="1" name=".motionlife.pay.PayHistoryActivity">
+<activity screenOrientation="1" name=".motionlife.pay.PayHistoryDetailActivity">
+<activity screenOrientation="1" name=".motionlife.pay.AnnounCementsActivity">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardMenu" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".motionlife.virtualCard.CreditCardSet" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.virtualCard.CreditCardSetTotal" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.virtualCard.CreditCardSetOne" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardQuery" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardQueryCvv" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardQueryWeiChu" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardQueryYiChu" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardCancel" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardSetSuccess" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardCvvDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardApplyDeal" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardApply" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardApplyDetail" theme="16973830" configChanges="160" windowSoftInputMode="23">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardApplySuccess" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardUnRecord" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardBillRecord" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardQA" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.AnimTest" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.AnimFirst" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.AnimSecond" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.VirtualCardNoteCurse" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.Soonplay2Act" theme="16973830" label="2131361810">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.Soonplay1Act" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.SelecteSeatAct" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.MovieInfoAct" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.BuyRecordAct_root" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.MoreAct_root" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.CinemaInfoAct" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.Select_cinema_step1" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.CinemaInfoAct1" theme="16973830">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name=".motionlife.movieModel.act.BuyRecordAct" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.TicketInfoAct" theme="16973830">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name=".motionlife.movieModel.act.MoreAct" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.Order_formAct" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.CinemaInfoAct_new" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.Exchange_ticketAct" theme="16973830" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.Order_form_ticketAct" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.Credit_PayAct" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.Credit_PayActNew" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.Selecte_cinema_step2" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.OrderAffirmList" theme="16973830">
+<activity process=":zhangqi.process" screenOrientation="1" name=".motionlife.movieModel.act.MovieMapActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.BuyRecord_confirmAct" theme="16973830">
+<activity screenOrientation="0" name=".motionlife.movieModel.act.MediaPlayerDemo_Video" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.TurialAct" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.InstructionAct" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.AddedValuesServices_Index" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.travel.HonGueHallDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.travel.HonGueHallList" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.travel.HonHallDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.travel.InstitutionDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.travel.RecAndSedDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.travel.ThrAndBarDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.travel.Travel" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.health.ExpertOrderDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.health.Health" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.health.HealthConLineDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.health.HospitalList" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.health.MedicalSerDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.health.SingaporeMedSerDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.health.HealthMedDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.qualitylife.GlobalHotDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.qualitylife.GlobalShpDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.qualitylife.GolfDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.qualitylife.MannersDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.qualitylife.MannersHonDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.qualitylife.QualityLife" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.qualitylife.SafelyLiveDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.safety.Safety" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.safety.GlobalMedResDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.safety.InsureEquityDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.safety.RescueRoadDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.safety.LawConsultDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.myservice.MyService" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.myservice.CardDet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.guide.Guide" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkIndex" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderTest" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkSearch" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.MyNetworkOrderSearch" theme="16973830" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkRemindSet" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkConditionSelect" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderRemindDetail" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.MyNetworkOrderList" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderMapActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.forex.activity.ForexIndex" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.forex.activity.ForexCal" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.forex.activity.ForexSearch" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.MerchantDetail" theme="16973833" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.CouponsDetailActivity" theme="16973833" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.MultipleCouponActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.New_ActMerchantLst" theme="16973833" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.ShareCouponsActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.RemindSettingActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.MyCouponActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.MyCouponDetailActivity" theme="16973833">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name=".motionlife.merchants2.activity.MerchantLocation" theme="16973833" noHistory="true">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.SearchMerchant" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.ApplyMerchantActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.ApplyMerchant2Activity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.OtherChainLst" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.MerchantActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.MerchantOverseasDetailNew" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.MerchantOverseasActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.MerchantOverseasDetail" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.SearchOverseasMerchant" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.RotateControlerActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.merchants2.activity.SendMessage2WeiBoActivity" theme="16973833" launchMode="2">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.AdviceFeedBackUpGrade" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.changeUIAct.AdviceReplyActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.IntegralMenuActivity" theme="16973833" launchMode="2">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.IntegralGoodsTypeActivity" theme="16973833" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.IntegralMerchantListActivity" theme="16973833" launchMode="2">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.query.IntegralQueryActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.query.IntegralPointExpireDateActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.IntegralGoodsDetailActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.IntegralShoppingCarActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.merchant.IntegralAddrRegisterActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.merchant.IntegralAddrAffirmActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.merchant.IntegralAddrManagerActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.merchant.IntegralOrderAffirmActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.sms.IntegralSmsInfoActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.sms.IntegralSmsAffirmActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.air.IntegralAirFillinActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.air.IntegralAirAffirmActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.IntegralResultSuccessActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.order.IntegralOrderQueryActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.order.IntegralOrderListActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.order.IntegralOrderDetailActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.IntegralGoodsDetailBigImgActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.addvalue.IntegralAddValuesDetailActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.addvalue.IntegralAddValueWriteGuestInfoActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.addvalue.IntegralAddValueOrderAffirmActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.query.IntegralQueryHistoryResultActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.integral2.activity.goods.IntegralSearchPageActivity" theme="16973833" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".motionlife.tencentweibo.TencentSendMsg" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.tencentweibo.Authorize" theme="16973835">
+<activity screenOrientation="1" name=".motionlife.weibo.LogoutWeiboActivity" theme="16973830">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973830" exported="true" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.scanBarCode.activity.CaptureActivity" theme="16973833" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.scanBarCode.activity.ResultPageActivity" theme="16973835">
+<activity screenOrientation="1" name=".motionlife.installment.InstallmentIndex" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.installment.bill.BillDivideActivity" theme="16973833" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".motionlife.installment.bill.BillDivAskForActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.installment.trade.TradeDividedActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.installment.trade.TradeDivAskForActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.installment.trade.TradeDivSubmitActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.installment.tradedetail.TradeDetIndexActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.installment.tradedetail.TradeDetailActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.installment.tradedetail.DetailPageActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.installment.SubmitSuccessActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.tecent.WeiBoAPIV1Activity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.virtualCard.newCard.DetailedQueryActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.newCard.FunctionSetActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.virtualCard.newCard.VirtualCardCancels" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.watelecgaspayment.activity.WatElecGasPaymentMenuActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".motionlife.watelecgaspayment.activity.WatElecGalPaymentRecordDetailActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.watelecgaspayment.activity.WatElecGalPaymentRecordListActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.watelecgaspayment.activity.WatElecGalPaymentWriteBillActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.watelecgaspayment.activity.WatEleGalPaymentConfimOrderActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.watelecgaspayment.activity.WatElecGalPaymentCaptureActivitys" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.watelecgaspayment.activity.WatEleGalPaymentCardList" theme="16973830">
+<activity screenOrientation="1" name=".common.tools.adapter.WatEleGalPaymentCardLista" theme="16973830">
+<activity screenOrientation="1" name=".common.tools.adapter.CityListsActivity" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.addedValueServices.myservice.AddnewService" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.autoBind.activity.AutoBindStepTwo" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.creditcard.CreditCardActivate" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardActivateVerSubmit" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditcard.CardActivateSuccess" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditrepayintro.activity.CreditCardAutoRepayActivaty" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.creditrepayintro.activity.CreditCardInitiativeRepayActivaty" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.autoBind.activity.AutoBindStepDebitOne" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.YnBocPlugin.DemoActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderInfoActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderBusinessActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderConfirmInfoActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderResultActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderQueueInfo" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderQueueResult" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderQueueVerify" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.repayment.activity.RepaymentActivity" theme="16973831" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".motionlife.repayment.activity.RepaymentConfirmationActivity" theme="16973831" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".motionlife.repayment.activity.RepaymentResultActivity" theme="16973831" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".motionlife.myAround.activity.MyAroundSearch" theme="16973831" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".motionlife.myAround.activity.MyAroundIndexes" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.myAround.activity.MyAroundListIndexe" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.movieModel.act.MapMovieActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderInfoActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderBusinessActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderConfirmInfoActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderResultActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderQueueInfo" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderQueueResult" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.networkSearch.activity.NetworkOrderQueueVerify" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.settings.MoreAttentionWX" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.settings.AttentionWX" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.applyState.activity.ActApplyStateInquireNew" theme="16973830">
+<activity screenOrientation="1" name=".motionlife.applyState.activity.ActApplyStateListNew" theme="16973830">
+<activity screenOrientation="0" name=".motionlife.mapbaidu.MapBaseActivity" theme="16973831" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketIndexActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketListDetailActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketBuyInputActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketBuySuccessActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketItemDetailActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketMyCheapActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketOrderDetailsActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketOrderVerifyActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketSuitUserActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketClientDetailsActicity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.ticket.activity.TicketOrderResultActivity" theme="16973833">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name=".motionlife.ticket.activity.TicketLocation" theme="16973833" noHistory="true">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPayIndex" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPayBindCardListActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPayLimitActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPayOrderResultActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPayOrderVerifyActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPayPasswordSetActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPayResetPsdActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPaySetActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPayAlreadyBindActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.otopay.activity.OTOPayCardListActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.homePage.activity.IndexNewActivity" theme="16973833" launchMode="1">
+<activity screenOrientation="1" name=".motionlife.homePage.activity.AddMenuActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.homePage.activity.ConvenienceNewActivity">
+<activity screenOrientation="1" name=".motionlife.homePage.activity.ConvenienceClientActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.morenew.activity.MoreNewActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.morenew.activity.MoreNewSettingActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.finance.activity.FinanceNewActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.finance.activity.CardPayTypeActivity" theme="16973833">
+<activity screenOrientation="1" name=".motionlife.morenew.activity.SelectPicActivity" theme="2131427392">
+3
+<service name=".motionlife.movieModel.service.TheService">
+<service name=".start.AntiService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+0
+0
+Owner: CN=BOCCardCenter, OU=Bank Of China, O=Bank Of China, L=BJ, ST=HaiDian, C=65
+Issuer: CN=BOCCardCenter, OU=Bank Of China, O=Bank Of China, L=BJ, ST=HaiDian, C=65
+Serial number: 4fa8c9c6
+Valid from: Tue May 08 15:22:46 CST 2012 until: Thu May 01 15:22:46 CST 2042
+Certificate fingerprints: 
+	MD5:72:E2:BA:37:AA:A6:76:28:7F:40:24:C4:8A:6D:96:76
+	SHA1: 91:7F:84:8C:3F:C3:CE:83:A3:7C:60:35:53:D8:4C:FB:58:A1:5B:6D
+	SHA256: 35:EF:37:11:82:10:C2:35:6A:36:CB:CC:F1:AA:1C:2F:CE:05:72:F4:8E:37:A7:11:B8:47:45:D3:F3:78:E3:07
+	Signature algorithm name: SHA1withRSA
+	version: 3

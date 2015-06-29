@@ -1,0 +1,117 @@
+com.funshion.video.mobile
+309
+2.1.4.0
+4
+-1
+47
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.htc.launcher.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+org.adwfreak.launcher.permission.READ_SETTINGS
+android.permission.RESTART_PACKAGES
+com.huawei.launcher3.permission.READ_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+com.huawei.android.launchersenior.permission.WRITE_SETTINGS
+org.adwfreak.launcher.permission.WRITE_SETTINGS
+android.permission.RECEIVE_BOOT_COMPLETED
+com.lge.launcher.permission.READ_SETTINGS
+android.permission.CAMERA
+com.qihoo360.launcher.permission.WRITE_SETTINGS
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.BROADCAST_STICKY
+net.qihoo.launcher.permission.WRITE_SETTINGS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.huawei.launcher3.permission.WRITE_SETTINGS
+com.android.launcher.permission.INSTALL_SHORTCUT
+org.adw.launcher.permission.WRITE_SETTINGS
+com.huawei.android.launcher.permission.WRITE_SETTINGS
+com.fede.launcher.permission.WRITE_SETTINGS
+com.huawei.launcher2.permission.READ_SETTINGS
+com.huawei.android.launcher.permission.READ_SETTINGS
+com.sec.android.app.twlauncher.settings.WRITE_SETTINGS
+com.huawei.android.launchersenior.permission.READ_SETTINGS
+com.sec.android.app.twlauncher.settings.READ_SETTINGS
+com.htc.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_USER_PRESENT
+com.huawei.launcher2.permission.WRITE_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+com.qihoo360.launcher.permission.READ_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+com.fede.launcher.permission.READ_SETTINGS
+org.adw.launcher.permission.READ_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+net.qihoo.launcher.permission.READ_SETTINGS
+com.lge.launcher.permission.WRITE_SETTINGS
+com.android.launcher.permission.WRITE_SETTINGS
+37
+<activity name=".activity.StartActivity" theme="16973839" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name=".activity.MovieActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.ThematicDetailsActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.FeaturedActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.VarietyActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.EntertainmentActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.MainActivity" configChanges="160" soundEffectsEnabled="false" launchMode="2">
+<activity screenOrientation="1" name=".activity.MediaInfoActivity" theme="2131165199" configChanges="160">
+<activity screenOrientation="1" name=".activity.StagePhotoListActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.StagePhotoBrowseActivity" theme="16973839" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.CommentEditActivity" configChanges="160" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.funshion.video.mobile.activity.QuestionFeedbackActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.funshion.video.mobile.activity.SetActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.funshion.video.mobile.activity.QrcodeScanActivity" configChanges="160" windowSoftInputMode="3" launchMode="2">
+<activity name="com.funshion.video.mobile.thirdpartyactive.ThirdPartyQrcodeStartPlayerActivity">
+<activity name="com.funshion.video.mobile.thirdpartyactive.WandoujiaStartPlayerActivity">
+<activity screenOrientation="1" name=".activity.SearchActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.SearchResultActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.DownloadActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".activity.DownloadJobActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.funshion.video.mobile.activity.SubscribeActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.funshion.video.mobile.activity.PlayHistoryActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.funshion.video.mobile.activity.AboutMeActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.LoginActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.RegisterFunshionActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".activity.ThirdPartyPlatLogin" configChanges="160">
+<activity screenOrientation="1" name=".activity.LoginFunshionActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.ForgetPasswordActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.AccountBindActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.WebViewActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.FunshionWebActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.AppManagerActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name=".activity.AppWebviewActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity name="com.funshion.video.mobile.manager.ad.AdDetailActivity" configChanges="160" launchMode="2">
+<activity name="com.funshion.video.mobile.thirdpartyactive.BackgroundActivity" theme="16973839">
+<activity screenOrientation="0" name=".activity.LocalVideoActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity excludeFromRecents="true" name=".activity.NotificationDisplayActivity" theme="2131165202" noHistory="true" taskAffinity="">
+7
+<service name="com.funshion.video.mobile.service.DownloadAppService">
+<service name="com.funshion.video.mobile.service.CancelService">
+<service name="com.funshion.video.mobile.manager.download.DownloadService">
+<service process=":funshionnotification" name="com.funshion.video.mobile.push.NotificationService" exported="true">
+<service name="com.funshion.video.mobile.service.DownLoadService">
+<service name="com.funshion.video.mobile.report.UploadLogService">
+<service name="com.funshion.video.mobile.manager.p2p.debug.DebugWindowService">
+6
+<receiver name="com.funshion.video.mobile.manager.download.DownloadBroadcastReceiver">
+<receiver name="com.funshion.video.mobile.manager.uniformdownload.AppBroadcastReceiver">
+<receiver name="com.funshion.video.mobile.manager.p2p.PlayVideoBroadCast">
+<receiver name="com.funshion.video.mobile.manager.p2p.DownloadP2PBroadcastReceiver">
+<receiver name="com.funshion.video.mobile.manager.download.SdcardBroadcastReceiver">
+<receiver name="com.funshion.video.mobile.FunshionBoradcastReceiver">
+0
+Owner: CN=funshion, OU=funshion, O=funshion, L=beijing, ST=beijing, C=CN
+Issuer: CN=funshion, OU=funshion, O=funshion, L=beijing, ST=beijing, C=CN
+Serial number: 25b5bcdc
+Valid from: Mon Feb 25 16:48:25 CST 2013 until: Tue Feb 13 16:48:25 CST 2063
+Certificate fingerprints: 
+	MD5:B5:12:D8:D0:42:6A:78:21:19:D6:C1:EE:E2:DD:4A:0F
+	SHA1: 55:4E:AC:AF:F1:CB:45:5B:5D:DA:94:ED:72:33:F6:CA:70:4E:54:98
+	SHA256: 85:2A:F1:4B:13:BF:C5:EE:8D:BC:62:CA:41:48:22:10:AF:80:93:3A:6D:EE:28:89:40:8B:8E:62:2B:C7:6D:86
+	Signature algorithm name: SHA256withRSA
+	version: 3

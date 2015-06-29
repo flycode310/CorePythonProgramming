@@ -1,0 +1,96 @@
+com.benke.EnterpriseApplicationTabForbgy
+10
+2.14
+8
+19
+18
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.RESTART_PACKAGES
+android.permission.DISABLE_KEYGUARD
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+58
+<activity screenOrientation="1" name="com.yundu.app.LogoActivity" label="2131165185">
+<activity screenOrientation="1" name="com.yundu.app.view.util.LoopPageViewDemo">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.product.ProductDetailActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.MainActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.TabMainActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.more.MoreActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.product.ProductActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.product.LGProductMenu" theme="16973835">
+<activity screenOrientation="1" name="com.yundu.app.view.TabHomeActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.TabHomeActivity2">
+<activity screenOrientation="1" name="com.yundu.app.view.about.AboutActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.TabManagerActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.custom.CustomDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.exhibition.ExhibitionDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.shop.ShopDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.brand.BrandDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.news.NewsDetailActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.search.ADFragmentManager">
+<activity screenOrientation="1" name="com.yundu.app.view.search.SearchResultActivity">
+<activity screenOrientation="1" name="com.app.adrian.util.calendar.CalenderActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.user.ADLoginActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.user.RegistrationActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.user.ModifyUserPassActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.cart.AddressActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.cart.ModifyAddressActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.order.MustBuyOneActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.order.SubmitOrderActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.order.OrderDetailActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.order.OrderListActivity">
+<activity screenOrientation="1" name="com.yundu.app.view.more.ButilQRCodeActivity">
+<activity screenOrientation="1" name="com.yundu.app.util.baidumap.BaiduMapActivity">
+<activity screenOrientation="1" name="com.yundu.app.util.zxing.CaptureActivity" configChanges="224">
+<activity screenOrientation="1" name="com.yundu.app.util.zxing.QRCodeGeneratorActivity" configChanges="224">
+<activity screenOrientation="1" name="com.yundu.app.util.zxing.QRCodeScanActivity" configChanges="224">
+<activity screenOrientation="1" name="com.yundu.app.view.util.ADWebView" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.brand.BrandAdviceActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.brand.BrandSubscribActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.brand.BrandDetailHonorActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.brand.BrandProductDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.pt.CalenderActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.pt.RecordActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.pt.PTMainActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.RemindActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.service.BKCustomerServiceChatActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.service.FriendChatActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.service.FriendsEditextActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.ViewPagerActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.simple.SimpleSampleActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.newproduct.NewProductDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.newproduct.NewMoreProduct">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.productlist.ProductNextActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.productlist.ProdcutLastActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.company.SuperRegistrationActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.supply.SupplyDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.company.MerchantsActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.supply.SupplyMerchantActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.yundu.app.view.company.CompanyDetailActivity">
+0
+0
+0
+Owner: CN=Chang Jiang Wang, OU=-, O=-, L=FoShan, ST=Guangdong, C=CN
+Issuer: CN=Chang Jiang Wang, OU=-, O=-, L=FoShan, ST=Guangdong, C=CN
+Serial number: 109e5c65
+Valid from: Sat Jan 18 15:03:04 CST 2014 until: Mon Jan 11 15:03:04 CST 2044
+Certificate fingerprints: 
+	MD5:3E:50:A4:7D:7F:95:50:79:B8:98:D7:49:4D:67:15:6A
+	SHA1: E8:59:31:6D:E3:11:49:BF:E9:95:B7:9F:CA:E3:00:AC:92:CF:1C:99
+	SHA256: 5A:EB:5A:C1:01:57:45:90:23:0D:8D:95:C4:D3:D6:3F:11:82:90:02:33:D5:FF:AF:EF:27:0D:37:F6:28:C1:E8
+	Signature algorithm name: SHA256withRSA
+	version: 3

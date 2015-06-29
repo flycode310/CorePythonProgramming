@@ -1,0 +1,102 @@
+com.eg.android.AlipayGphone
+24
+3.7.0.0613
+5
+-1
+22
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.android.launcher.permission.KILL_BACKGROUND_PROCESSES
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.BATTERY_STATS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+com.alipay.android.permission.PUSHSERVICE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.DEVICE_POWER
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+56
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayRegister" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.Login" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.MessageList" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.MessageEditor" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.android.client.advert.AdvertDetail" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayAbout" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayFeedBack" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayNotifiSetting" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.appHall.component.accountbox.AlipaySearchAccountActivity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.appHall.component.accountbox.AlipayContact" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayHelp" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.SubItemAccountOutputActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.SubItemScoreListActivity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.SubItemAccountQueryActivity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.SubItemCardActivity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayPhoneBinding" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayPhoneBindingCheckcode" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.SubItemPucPayActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.SubItemAccountDetailInfoActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.lifePayment.PaymentCity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayContact" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayUserInfoSupplement" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayGetLoginPassword" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayGetPaymentPassword" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayGetPaymentPasswordSMSTransfer" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayModifyPassword" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayAccountManager" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AppHallActivity" configChanges="224" label="2131361817">
+<activity screenOrientation="1" name=".AlipayLogin" configChanges="224" label="2131361817">
+<activity screenOrientation="1" name="com.alipay.android.client.Main" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayDealDetailInfoActivity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.AlipayAccountBindingChoice" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.safepay.AlipaySafePaySetting" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayBarcodeDisplay" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayBarcodePayGuideActivity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayAgentPay" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayAgentAnylink" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayAgentSomeone" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayCashcardAdd" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayCashcardManage" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.webapp.webActivity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.webapp.AuthoActivity" theme="2131427384" configChanges="224">
+<activity screenOrientation="0" name="com.google.zxing.client.BarcodeCaptureActivity" theme="16973831" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayPaipaiPay" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayPaipaiDonate" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayBarcodeGather" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.appHall.NormalPageFrame" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.RecordsList" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayTradeRemindSysMsgDetail" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.alipay.android.bizapp.CCR.CCRActivity" configChanges="224" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.alipay.android.client.baseFunction.More" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipayChooseLoginTypeActivity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.client.AlipaySystemMsgDetail" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.ui.transfer.TransferRootControllerActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.alipay.android.client.FreeFlowActivity" configChanges="224">
+<activity screenOrientation="1" name="com.alipay.android.ui.transfer.SearchContactActivity" configChanges="224" windowSoftInputMode="16">
+3
+<service name="com.alipay.android.client.AlipayPushLinkService" permission="com.alipay.android.permission.PUSHSERVICE">
+<service name="com.alipay.android.client.PushDistributer">
+<service enabled="true" name="com.alipay.android.push.NotificationService" label="NotificationService">
+1
+<receiver name="com.alipay.android.push.BootCompletedReceiver" permission="com.alipay.android.permission.BOOT_COMPLETED">
+0
+Owner: CN=shiqun.shi, OU=alipay, O=alipay, L=beijing, ST=beijing, C=cn
+Issuer: CN=shiqun.shi, OU=alipay, O=alipay, L=beijing, ST=beijing, C=cn
+Serial number: 4b28a3c9
+Valid from: Wed Dec 16 17:09:29 CST 2009 until: Tue Jan 10 17:09:29 CST 2051
+Certificate fingerprints: 
+	MD5:40:6D:51:50:E6:43:81:12:4A:7E:85:69:F9:78:4E:D0
+	SHA1: 84:0F:34:3A:0E:FC:32:5B:A0:BF:75:DA:C8:35:E4:D5:87:03:34:35
+	SHA256: 38:9B:49:F7:83:2F:53:E9:01:79:23:22:0A:A8:5E:14:DF:AA:48:86:EC:D7:42:88:18:BF:33:95:43:CF:49:8A
+	Signature algorithm name: MD5withRSA
+	version: 1

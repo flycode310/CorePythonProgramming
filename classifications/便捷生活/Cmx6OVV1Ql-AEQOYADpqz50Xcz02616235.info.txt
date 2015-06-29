@@ -1,0 +1,170 @@
+com.gozap.labi.android
+36
+3.2.0
+5
+14
+33
+android.permission.SET_WALLPAPER
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_CALENDAR
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.SEND_SMS
+android.permission.WRITE_APN_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.WRITE_CALENDAR
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+91
+<activity screenOrientation="1" name=".ui.LaBiWelcomeActivity" theme="16973831">
+<activity screenOrientation="1" name=".ui.SlidingActivity" uiOptions="1" launchMode="2">
+<activity screenOrientation="1" name=".ui.FreshActivity" theme="16973830">
+<activity screenOrientation="1" name=".ui.LaBiLogonActivity" theme="16973830" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".ui.LaBiRegisterActivity" theme="2131492967" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".ui.BindActivity" theme="2131492967" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".ui.ActivePhoneActivity" theme="2131492967" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".ui.SetPersonInfoActivity" theme="2131492967" configChanges="160">
+<activity screenOrientation="1" name=".ui.SetPersonNameActivity" theme="2131492967" configChanges="160">
+<activity screenOrientation="1" name=".ui.LaBiSyncSettingActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.TimeMachineActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.TimeMachineInfoActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.SettingActivity" theme="2131492967" configChanges="160">
+<activity screenOrientation="1" name=".ui.OtherSettingActivity" theme="2131492967" configChanges="160">
+<activity screenOrientation="1" name=".ui.ImportFromSDActivity" theme="2131492967" configChanges="160">
+<activity screenOrientation="1" name=".ui.LaBiPushActivity" theme="2131492967" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".ui.LaBiPushTextActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LaBiServiceHtmlActivity" theme="2131492967" configChanges="160">
+<activity screenOrientation="1" name=".ui.LaBiPolicyHtmlActivity" theme="2131492967" configChanges="160">
+<activity screenOrientation="1" name=".ui.LaBiHelpActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LaBiFeedbackActivity" theme="2131492967" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".ui.LaBiContactSyncActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.ContactRestoreActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.MessageThreadActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.MessageSearchActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.SetControlPhoneActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LaBiCalllogSyncActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.CallLogThreadActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.CallLogSearchActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LaBiCalendarSyncActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.CalendarRestoreActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LaBiPhotoSyncActivity" theme="2131492967">
+<activity name=".ui.PhotoViewActivity" theme="16973831">
+<activity screenOrientation="1" name=".ui.ChoosePhotoDownloadActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.BindPhoneActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.ContactDynamicActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.WebBrowseActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.ContactDynamicUpdateActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.AboutActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.ContactDuplicateActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.ContactDuplicateMergeActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.FileSelectActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.BindManagerActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.PayWebBrowseActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LaBiPushMaskActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.SetPicPathActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.PaypalActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.InputPasswordActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.CheckPasswordActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LabiGoodMessageActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LaBiGoodMessageShowActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LaBiGoodMessageShowActivity2" theme="2131492967">
+<activity screenOrientation="1" name=".ui.BuyMembershipActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.RestoreMessageActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.PromoteMembershipActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.DetailMembershipActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.SyncRuleActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.PhotoSearchListActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.RestoreCalllogActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.MemberRuleWebBrowseActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.AdvanceGroupListActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.AdvanceGroupMemberActivity" theme="2131492967" launchMode="2">
+<activity screenOrientation="1" name=".ui.CreateNewGroupActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.AdvanceGroupContactsActivity" theme="2131492967" launchMode="2">
+<activity screenOrientation="1" name=".ui.AdvanceGroupBaseActivity" theme="2131492967" launchMode="2">
+<activity screenOrientation="1" name=".ui.AdvanceGroupDynamicActivity" theme="2131492967" launchMode="2">
+<activity screenOrientation="1" name=".ui.ToBeConfirmedActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.GroupSettingActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.GroupImportContactsActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.AdvanceContactAURListActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.AdvanceContactUpdateHistory" theme="2131492967">
+<activity screenOrientation="1" name=".ui.AdvanceGroupMemberCardActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.AdvanceGroupContactCardActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.CreateGroupInfoActivity" theme="2131492967" launchMode="1">
+<activity screenOrientation="1" name=".ui.InvitesMemberActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.NoticeActivity" theme="2131492967" launchMode="2">
+<activity screenOrientation="1" name=".ui.JoinGroupActivity" theme="2131492967" launchMode="2">
+<activity screenOrientation="1" name=".ui.AdvanceGroupRecycleActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.InviteOverActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.AccountManageActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.BindEmailActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.SelectContactsActivity" theme="2131492967">
+<activity screenOrientation="1" name=".ui.LaBiPhotoErrorActivity" theme="2131492967">
+<activity name="com.paypal.android.sdk.payments.PaymentActivity">
+<activity name="com.paypal.android.sdk.payments.LoginActivity">
+<activity name="com.paypal.android.sdk.payments.PaymentMethodActivity">
+<activity name="com.paypal.android.sdk.payments.PaymentConfirmActivity">
+<activity name="com.paypal.android.sdk.payments.PaymentCompletedActivity">
+<activity name="io.card.payment.CardIOActivity" configChanges="160">
+<activity name="io.card.payment.DataEntryActivity">
+<activity screenOrientation="1" name=".ui.LaBiMessageSyncActivity" theme="2131492967">
+9
+<service name="com.paypal.android.sdk.payments.PayPalService" exported="false">
+<service name=".sync.sms.SmsService" exported="true" permission="android.permission.SEND_RESPOND_VIA_MESSAGE">
+<service name=".push.service.LaBiService">
+<service name=".push.calllog.CalllogNotifyService">
+<service name=".push.contact.ContactNotifyService">
+<service name=".push.contact.MergeContactNotifyService">
+<service name=".push.calendar.CalendarNotifyService">
+<service name=".push.sms.SMSNotifyService">
+<service name=".pim.vcard.VCardIOService">
+17
+<receiver name=".push.receiver.LabiBootBroadcastReceiver">
+<receiver name=".push.receiver.ShutdownReceiver">
+<receiver name=".push.receiver.ScreenUnlockReceiver">
+<receiver name=".push.receiver.LogonTimeoutCheckAlarmReceiver">
+<receiver name=".push.receiver.DelayLogonAlarmReceiver">
+<receiver name=".push.receiver.HeartBeatCheckReceiver">
+<receiver name=".push.receiver.DelaySyncAlarmReceiver">
+<receiver name=".push.receiver.TimingSyncReceiver">
+<receiver name=".push.receiver.TimingOnlineReceiver">
+<receiver name=".push.receiver.TimingOfflineReceiver">
+<receiver name=".push.receiver.CalllogReceiver">
+<receiver name=".push.receiver.SMSReceiver">
+<receiver name=".push.receiver.CalendarNotifyReceiver">
+<receiver name="com.gozap.android.AutoSendEnableReceiver">
+<receiver name=".push.receiver.SMSReceiver" permission="android.permission.BROADCAST_SMS">
+<receiver name=".push.receiver.SMSReceiver" permission="android.permission.BROADCAST_WAP_PUSH">
+<receiver name="com.gozap.labi.android.ui.widget.desktop.LabiDesktopWidget" label="2131428137">
+0
+Owner: CN=labi, OU=www.labi.com, L=Beijing
+Issuer: CN=labi, OU=www.labi.com, L=Beijing
+Serial number: 4c6ba083
+Valid from: Wed Aug 18 16:57:39 CST 2010 until: Sun Aug 12 16:57:39 CST 2035
+Certificate fingerprints: 
+	MD5:1E:18:71:A0:EB:09:6F:D8:32:DF:C6:E3:C2:51:C2:26
+	SHA1: 33:5A:DE:D7:DF:84:FB:10:A8:52:EC:E6:6D:09:97:8D:88:CD:93:81
+	SHA256: 36:5C:BB:B8:38:83:12:F4:46:D1:E3:DD:91:F8:AF:88:93:90:9B:14:D9:88:C4:90:37:15:7A:A0:8D:AC:DF:C3
+	Signature algorithm name: SHA1withRSA
+	version: 3

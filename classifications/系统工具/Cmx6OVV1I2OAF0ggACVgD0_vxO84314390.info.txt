@@ -1,0 +1,83 @@
+com.suojh.legalqddh
+5
+1.4
+8
+17
+21
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.suojh.legalq.permission.JPUSH_MESSAGE
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+29
+<activity screenOrientation="1" name="com.tcdinfo.activity.SplashScreenActivity" theme="16973830">
+<activity name="com.tcdinfo.activity.MainActivity" label="2131165184">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Ask_IndexActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Ask_CoolActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Ask_Cool_OkActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.NewsActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.News_InfoActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.User_infoActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.User_loginActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.User_PersonalActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.User_LawyerActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_IndexActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_ListActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_AskActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_Ask_DetailsActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_LawyerActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_Lawyer_IntroductionActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_Lawyer_Introduction_TwoActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_DelegateActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_Ask_ScoreActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_SosoActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.Q_AnswerActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.User_Gywm_InfoActivity">
+<activity screenOrientation="1" name="com.tcdinfo.activity.User_yjfkActivity">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity excludeFromRecents="true" name="com.suojh.legalqddh.e.Daw" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.suojh.legalqddh.f.Zbo" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.suojh.legalqddh.p.Ekvw" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.suojh.legalqddh.x.Yd" theme="16973839" label="" launchMode="3">
+6
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service name="com.suojh.legalqddh.e.Hih">
+<service name="com.suojh.legalqddh.f.Jfr">
+<service name="com.suojh.legalqddh.p.Krm">
+<service name="com.suojh.legalqddh.x.Gw">
+7
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.suojh.helper.MyReceiver">
+<receiver name="com.suojh.legalqddh.e.Gmcp">
+<receiver name="com.suojh.legalqddh.f.Uawu">
+<receiver name="com.suojh.legalqddh.p.Sgc">
+<receiver name="com.suojh.legalqddh.x.Qxln">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 53243741
+Valid from: Sat Mar 15 19:19:29 CST 2014 until: Mon Feb 19 19:19:29 CST 2114
+Certificate fingerprints: 
+	MD5:82:AF:94:31:DA:20:67:34:76:6A:5C:8E:FE:E3:26:31
+	SHA1: AF:3D:D6:2F:2F:F4:C7:68:12:C1:5A:90:39:97:82:DB:70:E8:1F:91
+	SHA256: EC:14:9B:83:6E:F8:79:2B:05:27:EB:FD:8F:BF:57:F8:83:7F:9E:E4:5F:7A:AE:EE:D3:F9:A5:C6:C6:E8:E4:81
+	Signature algorithm name: SHA1withRSA
+	version: 3

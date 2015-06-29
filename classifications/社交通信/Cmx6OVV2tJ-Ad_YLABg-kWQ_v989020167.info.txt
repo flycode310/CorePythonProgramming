@@ -1,0 +1,36 @@
+com.recordermaster.kl02
+1
+1.0
+8
+17
+10
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+4
+<activity name="com.recordermaster.activity.MainActivity" theme="16973831" label="2131099648">
+<activity name="com.recordermaster.activity.LoginActivity" theme="16973831" label="通话录音">
+<activity screenOrientation="1" name="com.recordermaster.soundrecorder.SoundRecorder" theme="16973830" configChanges="32" launchMode="1">
+<activity name="com.recordermaster.soundrecorder.SoundRecorderPreferenceActivity" theme="16973830" label="settings" launchMode="1">
+1
+<service name="com.recordermaster.soundrecorder.RecorderService" exported="false">
+1
+<receiver name="com.recordermaster.receiver.CallReceiver">
+0
+Owner: CN=tian
+Issuer: CN=tian
+Serial number: 278cb45f
+Valid from: Wed Jan 22 23:56:11 CST 2014 until: Thu Jan 10 23:56:11 CST 2064
+Certificate fingerprints: 
+	MD5:05:AC:FD:BC:B9:B7:49:3B:67:F7:62:D4:21:9A:D2:84
+	SHA1: 54:98:62:33:42:19:A0:BC:BF:0B:F1:12:16:8D:95:DD:24:A8:D9:61
+	SHA256: 2F:1B:C2:20:D7:6A:3D:BB:B7:FF:05:5E:B1:1E:8F:50:B5:F3:9A:E0:20:FE:B5:50:0B:CB:75:0F:93:BD:95:00
+	Signature algorithm name: SHA256withRSA
+	version: 3

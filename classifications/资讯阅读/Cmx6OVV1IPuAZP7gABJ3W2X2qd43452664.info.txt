@@ -1,0 +1,38 @@
+com.cqz.tyjoke
+20120613
+20120513
+8
+-1
+12
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity name=".MainActivity" label="2131165184">
+<activity screenOrientation="1" name=".ListActivity" label="2131165184">
+<activity screenOrientation="1" name=".DetailActivity" label="2131165184">
+<activity screenOrientation="1" name="com.mobisage.android.MobiSageActivity" configChanges="160" launchMode="2">
+<activity name="com.tencent.mobwin.MobinWINBrowserActivity">
+1
+<service enabled="true" name="com.mobisage.android.MobiSageApkService">
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4f845102
+Valid from: Tue Apr 10 23:25:54 CST 2012 until: Thu Apr 03 23:25:54 CST 2042
+Certificate fingerprints: 
+	MD5:EB:73:87:E6:EE:50:F2:EB:47:95:72:F5:FA:A0:0C:6F
+	SHA1: B5:00:05:62:2A:D6:0E:17:A7:B3:B9:E0:4B:34:C1:B1:F3:F5:6B:97
+	SHA256: C2:42:8C:D6:08:68:1B:63:73:B6:A7:C8:10:64:D3:E7:32:8F:E1:C6:42:06:9C:E3:30:4A:96:97:41:98:D3:94
+	Signature algorithm name: SHA1withRSA
+	version: 3

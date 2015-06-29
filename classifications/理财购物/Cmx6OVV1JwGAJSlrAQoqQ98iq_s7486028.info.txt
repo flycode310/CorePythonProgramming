@@ -1,0 +1,96 @@
+cn.com.cmbc.dbank
+27000
+2.7
+8
+-1
+32
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+org.simalliance.openmobileapi.SMARTCARD
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.CLEAR_APP_CACHE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.BROADCAST_STICKY
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.WRITE_SECURE_SETTINGS
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.DEVICE_POWER
+40
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.LoadingActivity" label="2131361792">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.MainActivity" theme="16973837" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SelectPicActivity" theme="2131427487" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SettingActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.TransactionDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.OrderTransactionDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.WebkitViewLoadingActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.AccountDetailsActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.GuideAutomatedActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.thirdparty.wxapi.WXEntryActivity" theme="16973839" exported="true" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoProductActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoIndexActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoSignSuccessActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoTerminateActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoTerminateSuccessActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoSignActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoTransactionDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoIncomeDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.RuyibaoCommonIncomeActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.TransactionQueryMenuActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.CXDActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SxcActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SxcIndexActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SxcSignActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SxcSignSuccessActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SxcTerminateActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SxcTerminateSuccessActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SxcTransactionDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.ContactUsActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.CreditCardRepaymentActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.BindCardManageActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.EasyBankActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.MoneyIntoActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.MoneyTransferActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" configChanges="160" label="2131361792" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.VideoVerifyActivity">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.VideoActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SweepActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.ds.develop.activity.SweepResultActivity" windowSoftInputMode="32">
+3
+<service name="cn.com.cmbc.mbank.ds.develop.service.DownLoadIndexMenuPic" exported="false">
+<service name="cn.com.cmbc.mbank.ds.develop.service.CMBCMonitorService">
+<service name="cn.com.cmbc.mbank.ds.develop.service.UpdateGiftBox">
+1
+<receiver name="cn.com.cmbc.mbank.ds.develop.util.ExitBroadcastReciever" exported="false">
+0
+Owner: CN=mszxyh, OU=cmbc, O=cmbc, L=beijing, ST=beijing, C=cn
+Issuer: CN=mszxyh, OU=cmbc, O=cmbc, L=beijing, ST=beijing, C=cn
+Serial number: 7858d00
+Valid from: Thu Feb 26 15:21:01 CST 2015 until: Sat Feb 02 15:21:01 CST 2115
+Certificate fingerprints: 
+	MD5:77:01:1F:12:D1:7A:4A:D3:8C:DD:84:8C:4E:76:D5:6A
+	SHA1: 02:E7:22:9F:BD:4E:4D:82:F5:D2:3F:2C:88:60:F3:CC:7C:57:0E:1D
+	SHA256: 1D:56:6F:2E:01:AC:0F:A5:DD:58:81:C2:69:A2:C0:53:DE:D7:3E:AA:75:47:C7:BC:6B:6F:45:D1:56:58:2A:2D
+	Signature algorithm name: SHA256withRSA
+	version: 3

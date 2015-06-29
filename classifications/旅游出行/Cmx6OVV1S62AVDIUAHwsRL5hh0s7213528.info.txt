@@ -1,0 +1,146 @@
+com.zhongsou.hydjjd
+1403211004
+3.1.0
+8
+8
+19
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RUN_INSTRUMENTATION
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+99
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SplashActivity" theme="16973831" launchMode="1">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.RecSubActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.UserGuideActivity">
+<activity screenOrientation="1" name="com.umeng.fb.ConversationActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.umeng.fb.ContactActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.HomeActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.PlazaSubscribeRankActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.PlazaSelfCreateActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.PlazaHotShareActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SettingActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.ForgetPwdActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.ForgetPwdSuccessActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.MyInfoActivity" configChanges="1152">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.ScanResultActivity" configChanges="1152">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.LoginActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.EditNickNameActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.RegisterActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.RegisterSuccessActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.UserAgreementActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.MsgPushActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.FragmentMsgPushHistoryActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.ScaningActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.UserAccountActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.AccountBoundActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.MyCommentsActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.AboutActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.RecommendFriendActivity">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.zhongsou.souyue.activity.WebSrcViewActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.XiaoDanganWebActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.CommentaryActivity" theme="2131099648" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.LongTengActivity" theme="2131099648">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SettingSubListActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SubscribeListActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.KeywordSubscribeActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SettingGroupActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.ReadabilityActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SRPActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SearchActivity" launchMode="2">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.PlazaHomeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.PlazaHotEventsActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.PlazaPraiseActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.PlazaTucaoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.QADetailsActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SelfCreateActivity" launchMode="2">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.MyFavoriteActivity" launchMode="2">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SendWeiboActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SendBlogActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SendNextActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.dialog.SubscriptionDialog" theme="2131099649">
+<activity screenOrientation="1" name="com.zhongsou.souyue.dialog.CreateGroupDialog" theme="2131099649">
+<activity screenOrientation="1" name="com.zhongsou.souyue.dialog.ShareToSouyueFriendsDialog" theme="2131099649">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.ShareWeiboActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.ShareRenrenActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.ShareTencentWeiboActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.ShareHelpActivity">
+<activity name="com.zhongsou.souyue.activity.TouchGalleryActivity" configChanges="160">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.SelfCreateDetailActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.DimensionalCodeActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.activity.VerticalSearchActivity" configChanges="32" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.weibo.webview.OAuthV2AuthorizeWebView" label="2131558819">
+<activity screenOrientation="1" name="com.renren.api.connect.android.AuthorizationHelper$BlockActivity" theme="16973835">
+<activity name="com.tencent.weibo.sdk.android.component.Authorize">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.MainActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.EntInfoActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.EntDescActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.BaseActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.EntMapLocationActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.MenDianListActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.MenDianActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.ProductListActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.ProductActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.ProductImgsActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.QRCodeActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.UserCommentListActivity" theme="2131099670">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.CardActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.CardListActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.EntNewsActivity" theme="2131099671">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.NewsActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.PushMsgDescActivity" allowTaskReparenting="true">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.EntSquareActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.CommentActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.EntPastEventActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.ent.activity.EntPastEventDetailActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.NewsDetailActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.ContactDetailActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.SupplyDetailActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.MapNavigationActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.InquiryActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.InquiryDetailActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.LocationOverlayActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.ProductsImagesActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.SplashIndexImgsActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.SplashVideoActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.ProductsListActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.NewsListActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.ADDetailActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.SRPDetailActivity">
+<activity screenOrientation="1" name="com.zhongsou.souyue.trade.activity.HangYeLoginActivity" exported="false">
+6
+<service process=":remote" name="com.zhongsou.souyue.service.download.DownloadService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":com.tuita.sdk.PushService" name="com.tuita.sdk.PushService" exported="false" label="PushService">
+<service name="com.zhongsou.souyue.trade.service.IndexImgsService" exported="false" label="PushService">
+<service name="com.zhongsou.souyue.trade.service.LoadImgsService" exported="false" label="PushService">
+<service name="com.zhongsou.souyue.trade.service.HyzgBindService" exported="false">
+2
+<receiver name="com.zhongsou.souyue.receiver.NotificationMsgReceiverTwo" exported="false">
+<receiver name="com.zhongsou.souyue.receiver.BootCompletedReceiver" exported="false">
+0
+Owner: CN=wanglong, OU=www.zhongsou.com, O=www.zhongsou.com, L=beijing, ST=beijing, C=86
+Issuer: CN=wanglong, OU=www.zhongsou.com, O=www.zhongsou.com, L=beijing, ST=beijing, C=86
+Serial number: 507e81c6
+Valid from: Wed Oct 17 18:00:38 CST 2012 until: Fri Sep 23 18:00:38 CST 2112
+Certificate fingerprints: 
+	MD5:17:87:A6:0D:67:C4:5D:EA:DF:26:4F:95:6C:96:CF:43
+	SHA1: E5:F0:7F:01:BA:49:6C:02:D8:53:DD:2A:14:E6:D7:FE:6B:7F:11:C8
+	SHA256: 72:D9:60:95:CA:CC:EA:D2:04:8F:42:DC:0E:24:AE:75:73:E0:BB:6D:B0:95:58:FF:01:4E:14:91:7E:36:D6:66
+	Signature algorithm name: SHA1withRSA
+	version: 3

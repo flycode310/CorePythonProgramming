@@ -1,0 +1,82 @@
+net.qihoo.launcher.widget.clockweather
+43
+3.21.3
+7
+10
+17
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.INTERACT_ACROSS_USERS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+28
+<activity screenOrientation="1" name="net.qihoo.clockweather.CityQueryActivity" theme="2131427394" configChanges="160" label="2131165662" windowSoftInputMode="34">
+<activity screenOrientation="1" name="net.qihoo.clockweather.WeatherDetailActivityNew" configChanges="160" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="net.qihoo.clockweather.splash.SplashActivity" theme="16973830">
+<activity screenOrientation="1" name="net.qihoo.clockweather.splash.EntryActivity" theme="2131427371">
+<activity screenOrientation="-1" name="net.qihoo.launcher.widget.clockweather.skin.SkinOverview" theme="2131427395" configChanges="160">
+<activity screenOrientation="1" name="net.qihoo.clockweather.CityManageActivity" theme="2131427394" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="net.qihoo.clockweather.AqiDetailActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="net.qihoo.clockweather.ShareActivity" theme="2131427395" configChanges="160">
+<activity screenOrientation="1" name="net.qihoo.clockweather.contact.ContactSelectActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="net.qihoo.clockweather.kinship.KinshipActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="net.qihoo.clockweather.barrage.BarrageActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="net.qihoo.clockweather.AdsActivity" theme="2131427394" launchMode="2">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.MainSetting" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.NotificationAlertSetting" theme="2131427394">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.AutoUpdateSetting" theme="2131427394">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.FeedbackSetting" theme="2131427394">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.FaqSetting" theme="2131427394">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.AboutSetting" theme="2131427394">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.BackgroundSetting" theme="2131427394" launchMode="1">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.VoiceAlarmSetting" theme="2131427394">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.VoiceTimeSetting" theme="2131427394">
+<activity screenOrientation="1" name="net.qihoo.launcher.widget.clockweather.cropimage.CropImage" theme="2131427394">
+<activity screenOrientation="1" name="net.qihoo.launcher.widget.clockweather.crop.CropActivity" theme="16973830">
+<activity screenOrientation="1" name="net.qihoo.clockweather.setting.WidgetThemeActivity" theme="2131427394">
+<activity screenOrientation="1" excludeFromRecents="true" name="net.qihoo.clockweather.voice.VoiceAlertFullScreen" theme="2131427392" taskAffinity="" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="net.qihoo.clockweather.voice.VoiceAlertActivity" theme="2131427395" taskAffinity="" launchMode="3">
+<activity name="com.qihoo.appstore.updatelib.CheckUpdateActivity" theme="16973839" exported="false">
+<activity name="net.qihoo.clockweather.download.UpgradeActivity" theme="16973839" exported="false">
+6
+<service process="net.qihoo.launcher.widget.clockweather.WeatherService" enabled="true" name="net.qihoo.launcher.widget.clockweather.WeatherService" exported="true">
+<service process="net.qihoo.launcher.widget.clockweather.GuardService" enabled="true" name="net.qihoo.launcher.widget.clockweather.GuardService" exported="false">
+<service process="net.qihoo.launcher.widget.clockweather.WeatherService" description="2131165495" name="net.qihoo.clockweather.voice.AlarmService" exported="false">
+<service process="net.qihoo.weather.livewallpaper" enabled="2131558408" name="net.qihoo.launcher.widget.clockweather.wallpaperservice.WeatherWallpaperService" permission="android.permission.BIND_WALLPAPER" label="2131165188">
+<service process="net.qihoo.launcher.widget.clockweather.WeatherService" enabled="true" name="net.qihoo.clockweather.service.WidgetService">
+<service name="com.qihoo.appstore.updatelib.CheckUpdateService" exported="false">
+9
+<receiver name="net.qihoo.clockweather.util.DummyReceiver">
+<receiver process="net.qihoo.launcher.widget.clockweather.WeatherService" name="net.qihoo.clockweather.voice.AlarmReceiver" exported="false">
+<receiver process="net.qihoo.launcher.widget.clockweather.WeatherService" icon="2130838036" name="net.qihoo.clockweather.widget.WidgetProvider42" label="2131165189">
+<receiver process="net.qihoo.launcher.widget.clockweather.WeatherService" icon="2130838036" name="net.qihoo.clockweather.widget.WidgetProvider41" label="2131165190">
+<receiver process="net.qihoo.launcher.widget.clockweather.WeatherService" icon="2130838036" name="net.qihoo.clockweather.widget.WidgetProvider52" label="2131165192">
+<receiver process="net.qihoo.launcher.widget.clockweather.WeatherService" icon="2130838036" name="net.qihoo.clockweather.widget.WidgetProvider51" label="2131165191">
+<receiver process="net.qihoo.launcher.widget.clockweather.WeatherService" name="net.qihoo.clockweather.WeatherBootReceiver">
+<receiver process="net.qihoo.launcher.widget.clockweather.WeatherService" name="net.qihoo.clockweather.WeatherPackageReceiver">
+<receiver name="net.qihoo.clockweather.info.ForegroundReceiver">
+2
+<provider process="net.qihoo.launcher.widget.clockweather.WeatherService" authorities="net.qihoo.clockweather" name="net.qihoo.clockweather.service.WeatherProvider" exported="true" readPermission="net.qihoo.clockweather.permission.READ_WEATHER">
+<provider process="net.qihoo.launcher.widget.clockweather.WeatherService" authorities="net.qihoo.launcher.widget.clockweather" name="net.qihoo.clockweather.voice.AlarmProvider" exported="false">
+Owner: CN=Lion, OU=360, O=360, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Lion, OU=360, O=360, L=Beijing, ST=Beijing, C=CN
+Serial number: 4e4e5c20
+Valid from: Fri Aug 19 20:50:40 CST 2011 until: Tue Aug 12 20:50:40 CST 2036
+Certificate fingerprints: 
+	MD5:1D:4D:CF:3A:79:29:3E:05:FA:97:44:44:42:63:D0:48
+	SHA1: 3A:09:98:5A:68:FF:EA:DC:87:59:00:BB:08:6D:B2:68:91:BB:AC:6F
+	SHA256: FA:C6:F4:22:BE:F7:63:00:A8:70:7A:45:86:BF:CE:6D:7E:63:6D:C1:2A:29:6C:05:1A:BF:DA:F0:D4:E6:B6:20
+	Signature algorithm name: SHA1withRSA
+	version: 3

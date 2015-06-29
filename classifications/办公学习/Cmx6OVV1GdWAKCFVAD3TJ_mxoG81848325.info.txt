@@ -1,0 +1,27 @@
+com.fireant.jsxy
+1
+1.0
+7
+-1
+2
+android.permission.READ_PHONE_STATE
+android.permission.SEND_SMS
+5
+<activity screenOrientation="0" name="YActivity" theme="16973834" configChanges="160" label="2131034112">
+<activity name="UserAchieve" theme="16973834">
+<activity name=".DeveloperActivity" theme="16973834">
+<activity name="GameScoreActivity">
+<activity name="cn.egame.terminal.paysdk.EgamePayActivity" theme="16973841">
+0
+0
+0
+Owner: CN=asdf
+Issuer: CN=asdf
+Serial number: 52aeb980
+Valid from: Mon Dec 16 16:27:44 CST 2013 until: Thu Dec 15 16:27:44 CST 2016
+Certificate fingerprints: 
+	MD5:66:61:6E:F4:48:DC:B5:61:B9:12:87:E9:D6:A8:EA:86
+	SHA1: BB:A3:9C:6F:76:7A:2D:87:0F:77:98:D7:8A:C5:69:0F:1A:07:CD:02
+	SHA256: E0:38:3C:C3:F7:49:0A:BB:6C:2F:6F:E7:5E:91:0B:FB:60:EA:6B:F0:CB:5A:82:20:59:BA:2A:7E:85:91:30:26
+	Signature algorithm name: SHA1withRSA
+	version: 3

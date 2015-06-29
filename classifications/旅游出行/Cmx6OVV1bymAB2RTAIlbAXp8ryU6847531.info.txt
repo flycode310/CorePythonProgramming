@@ -1,0 +1,275 @@
+com.umetrip.android.msky.app
+89
+2.5.6
+7
+19
+25
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.NFC
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+221
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.SplashActivity" theme="16973830" configChanges="160" windowSoftInputMode="18" alwaysRetainTaskState="true">
+<activity name="com.umetrip.android.msky.activity.OpenURLActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.util.MoreFunctionActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity name="com.umetrip.android.msky.activity.airport.AirportTabhost" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.AirPortHomeActivityNew" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.AirPortInfoActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.AirPortInOut" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.flightstatus.SubscribeForFriendActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.applock.ApplockActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.applock.ApplockSettingActivity" theme="16973830" configChanges="176" windowSoftInputMode="18">
+<activity name="com.umetrip.android.msky.activity.util.TakePhotoActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.util.WebViewActivity" theme="2131296267" configChanges="1184">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.test.TestActivity" theme="16973830" configChanges="144" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.MainActivity" theme="16973830" configChanges="144" windowSoftInputMode="18" alwaysRetainTaskState="true" launchMode="2">
+<activity name="com.umetrip.android.msky.activity.airline.PlaneTypeImageActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.account.RegistActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.account.ResetAccountActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity name="com.umetrip.android.msky.activity.account.InputMobilActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.weatherforecast.WeatherForecastForHome" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.weatherforecast.WeatherForecastNewActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.util.YearSummaryActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.util.YearTravelsActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.mosaic.MosaicActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.mosaic.ShareAPhotoActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.mosaic.ShareCameraPhotoActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.setting.MessageSettingsActivity" configChanges="160" label="消息设置" windowSoftInputMode="18">
+<activity name="com.umetrip.android.msky.activity.newactivity.NewActivityActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.weatherforecast.CityManagerActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.test.Two" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.account.LoginActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.account.ForgetPassActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.account.ThirdPartyAuthActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity name="com.umetrip.android.msky.activity.account.ForgetPassActivity2" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.weixin.AttentionWeixinActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.weixin.UmetriptwoDimensionCodeActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.myjourney.MyTravelFlightsActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.myjourney.CancellationFeeRulerActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.myjourney.ScheduleStatisticsActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.myjourney.OtherAirLineActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.myjourney.SameTripListActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.passbook.PassbookListActivity" theme="16973830" configChanges="164" exported="true" windowSoftInputMode="18" alwaysRetainTaskState="true" launchMode="1">
+<activity name="com.umetrip.android.msky.activity.passbook.PassbookActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.passbook.PassbookBackActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.friend.UI_Friend_Detail" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.friend.UI_MyContact" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.setting.SettingsActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.setting.LeadActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.TranslucentActivity" theme="2131296261">
+<activity name="com.umetrip.android.msky.activity.message.MessageActivityNew" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.message.MessageListActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.message.MessageInfoActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.ticketvalidate.TicketValidateActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.weibo.WebViewActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.indoor.IndoorActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.indoor.IndoorCategoryActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.indoor.IndoorSubCategoryActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity name="com.umetrip.android.msky.activity.account.RegistOrBindActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.myjourney.FlightInfoActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.flightstatus.FlightDynamicActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.flightstatus.FlightDetailActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.flightstatus.SearchCloseFlightsResultActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.boarding.CheckInfoActivity" theme="2131296267" exported="true">
+<activity name="com.umetrip.android.msky.activity.boarding.CheckInfoSelectSeats" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.boarding.CheckinfoCommonlyUsedContact" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.boarding.CheckinfoListActvity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.boarding.CheckinfoFrequentFlyerCardActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.boarding.CheckinfoFrequentFlyerCardListActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.boarding.CheckinfoResultActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.boarding.CheckInfoAddPassenger" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.flightstatus.PunctualityRateActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.ticketbooking.TicketSearchOneWayActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.account.AccountSettingsActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.account.AccountInfoActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.account.AccountChangeInfoActivity" theme="2131296268" windowSoftInputMode="20">
+<activity name="com.umetrip.android.msky.activity.account.ModifyMobileActivity" theme="2131296268" windowSoftInputMode="20">
+<activity name="com.umetrip.android.msky.activity.img.CropImgActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.account.AccountListActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.account.AccountAddCertActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.account.AccountAuthList" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.account.AuthActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.account.ModifyAccountActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.ticketbooking.TicketSearchResultActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.ticketbooking.TicketInfoAcitivyCivil" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.ticketbooking.TicketInfoActivityInternational" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.ticketbooking.TickectSearchResult4InterActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.ticketvalidate.VerifyReturnActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.ticketvalidate.TravelValidateResultActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.ticketvalidate.IntineryActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.AirPortDetailActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.AirportTraficDetailActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.AirportTrafficAndBoardingGateActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.AirportDetailActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.AirportlivetrafficActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.TemperatureActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.LivetempActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airport.AirPortBus" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.account.ModifyPasswdActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airline.AirLineActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.airline.AirlineDetailActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.map.ItemizedOverlayDemo" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.setting.ReminderActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.setting.CustomMessageActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.tax.TaxBeginActivity" theme="2131296267" launchMode="2">
+<activity name="com.umetrip.android.msky.activity.tax.TaxInfoSubmitActivity" theme="2131296267" launchMode="2">
+<activity name="com.umetrip.android.msky.activity.tax.TaxBankCardActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.tax.TaxResultActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.tax.TaxBankListActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.tax.TaxHistoryActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.setting.ProtectTravelSettingActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.map.LocationNavigateActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.flightstatus.FlightActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.flightstatus.FlightAttentionListActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.about.AboutActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.feedback.FeedBackActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.airline.SelectAirCropActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.map.MapLocationDataListActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.map.AirportMap" theme="2131296268">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.util.SelectCityActivity" theme="16973830" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.util.SelectAllCityActivity" theme="16973830" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.util.SelectContactsActivity" theme="16973830" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.util.OfenFlyCityActivity" theme="16973830" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.friend.FriendListActivity" theme="16973830" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.friend.FriendConversationActivity" theme="16973830" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.friend.FriendSquareActivity" theme="16973830" configChanges="160" windowSoftInputMode="50">
+<activity name="com.umetrip.android.msky.activity.help.HelpActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.feedback.FAQActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.map.RouteMap" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.airport.RadarMapActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.radar.RadarActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.radar.RadarSearchByCodeActivity" theme="2131296268" windowSoftInputMode="51">
+<activity name="com.umetrip.android.msky.activity.radar.RadarSearchByAreaActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.radar.RadarGetUCodeActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.flightstatus.FlightMapActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.map.AirportBusMap" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.indoor.newp.IndoorActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.indoor.newp.IndoorCategoryChildActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.indoor.newp.IndoorCategoryActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.ticketvalidate.TravelValidateSearchActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.indoor.newp.IndoorMapManager" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.tax.SelectTaxCityActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.map.LocationListActivityNew" theme="16973830" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.RangeSelectActivity" theme="2131296261" configChanges="160" windowSoftInputMode="18">
+<activity name="com.umetrip.android.msky.activity.map.LocationInfo" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.chat.LoginActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.chat.FriendListActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.chat.ChatActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.boarding.BoardingCard_ShowActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.boarding.BoardingCardActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.boarding.BoardingActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.chat.RecentChatListActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.bag.QueryFlyBagActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.bag.QueryFlyBagResultActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.checkin.FFCCardListActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.checkin.FFCCardDetailActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.checkin.FFCCardAddActivity" theme="2131296267" windowSoftInputMode="20">
+<activity name="com.umetrip.android.msky.activity.checkin.FFCCardInputPasswordActivity" theme="2131296267" windowSoftInputMode="20">
+<activity name="com.umetrip.android.msky.activity.checkin.FFCAirlineListActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.util.DateSelectActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.app.wxapi.WXEntryActivity" theme="16973830" exported="true" label="2131230738">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.umetrip.android.msky.activity.friend.FriendsOfPersonalInfoActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.friend.ChatPersonInformationActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.friend.SelectProfessionActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.friend.SpeckFrendsTabhost" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.friend.SystemMsgListActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.friend.ApplyFriendSettingActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.account.AccountBindActivity" theme="2131296267">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.ticketvalidate.barcode.CaptureActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.checkin.NotCheckinForever" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.checkin.NotCheckinRightNow" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.checkin.CheckinNotice" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.eId.EIDNFCActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.friend.FriendContactStaticActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.checkin.CheckinRecordActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.checkin.CancleCheckinActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.util.UmePrivilegeActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umetrip.android.msky.activity.applock.PassWordAndApplockActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity name="com.umetrip.android.msky.activity.taxi.Send2AirportActivity" theme="2131296267" windowSoftInputMode="35">
+<activity name="com.umetrip.android.msky.activity.taxi.Pickup2AirportAcitivity" theme="2131296267" windowSoftInputMode="35">
+<activity name="com.umetrip.android.msky.activity.util.SelectAirportActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.taxi.SelectFlightActivity" theme="2131296267">
+<activity name="com.umetrip.android.msky.activity.taxi.AdressSearchActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.taxi.CallTaxiAnimationActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.taxi.NoTaxiActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.taxi.TaxiDriverOrderActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.community.CommunityListActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.taxi.TaxiHomeActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.taxi.TaxiOrderDetailActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.taxi.TaxiOrderListActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.taxi.TaxiPickUpPayActivity" theme="2131296268" windowSoftInputMode="34">
+<activity name="com.umetrip.android.msky.activity.community.PostDetailsActivity" theme="2131296268" windowSoftInputMode="34">
+<activity name="com.umetrip.android.msky.activity.community.LargerMapActivity" theme="2131296268" launchMode="2">
+<activity name="com.umetrip.android.msky.activity.community.PostActivity" theme="2131296268" windowSoftInputMode="34">
+<activity name="com.umetrip.android.msky.activity.community.CommunityInfoActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity name="com.umetrip.android.msky.activity.skypeas.SkypeasGuessActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.skypeas.SkypeasConvertCentreActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.skypeas.SkypeasGiftDetailsActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.skypeas.SkypeasExchangeDetailsActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.skypeas.SkypeasExchangeListActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.skypeas.SkypeasExchangeDetailsShowActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.skypeas.SkypeasDetailsActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.skypeas.InviteActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.skypeas.ShareActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.MoodTabhost" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.SameTripMoodActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.MoodBrowseActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.MoodRecordActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.MoodSquareActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.MoodWriteActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.MyMoodActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.SocialContactUserInfoActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.SameFlightMoodActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.SameRoutesMoodActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.socialcontact.GenderActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.myjourney.AddTravelByTktnumActivity" theme="2131296268" windowSoftInputMode="50">
+<activity name="com.umetrip.android.msky.activity.myjourney.AddTravelByOrdernumActivity" theme="2131296268" windowSoftInputMode="50">
+<activity name="com.umetrip.android.msky.activity.myjourney.AddTravelByFlightnumActivity" theme="2131296268" windowSoftInputMode="50">
+<activity name="com.umetrip.android.msky.activity.myjourney.AddTravelDetailsActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.myjourney.AddTravelRecordListActivity" theme="2131296268">
+<activity name="com.umetrip.android.msky.activity.myjourney.EditTravelDetailsActivity" theme="2131296268" windowSoftInputMode="50">
+5
+<service name="org.androidpn.client.MessageService">
+<service name="org.androidpn.client.ServiceTwo">
+<service name="com.umetrip.android.msky.util.multidownload.DownloadService">
+<service process=".Remote" name="com.umetrip.android.msky.service.TakePhotoService">
+<service name="com.umetrip.android.msky.util.multidownload.DownloadServiceTwo">
+3
+<receiver name="com.umetrip.android.msky.boot.BootBroadcastReceiver">
+<receiver name="org.androidpn.client.ConnectivityReceiver">
+<receiver name="org.androidpn.client.HeartActionBroadCast">
+1
+<provider authorities="com.umetrip.android.msky.app" name="com.umetrip.android.msky.contentprovider.ClientInfoContentProvider">
+Owner: O=travelsky
+Issuer: O=travelsky
+Serial number: 5121c566
+Valid from: Mon Feb 18 14:08:38 CST 2013 until: Sun Jun 21 14:08:38 CST 3012
+Certificate fingerprints: 
+	MD5:74:8F:BD:2C:58:85:27:17:48:24:44:24:8A:6D:47:EE
+	SHA1: D4:36:47:E9:E2:56:0B:6F:93:31:17:46:11:90:8E:D6:06:72:61:94
+	SHA256: A9:AE:B6:F6:74:87:0D:16:4B:77:EE:C5:4E:86:41:DE:27:EC:DC:03:8F:EF:54:03:51:65:4F:A5:AA:88:BD:BA
+	Signature algorithm name: SHA1withRSA
+	version: 3

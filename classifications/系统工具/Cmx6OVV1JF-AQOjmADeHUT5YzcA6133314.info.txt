@@ -1,0 +1,61 @@
+com.imuxuan.enwolf
+1
+1.2
+10
+18
+19
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.CLEAR_APP_CACHE
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.GET_PACKAGE_SIZE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+15
+<activity name="com.imuxuan.enwolf.SplashActivity" label="2131034112">
+<activity name=".WhatsNewActivity" theme="16973830" label="2131034112">
+<activity name="com.imuxuan.enwolf.HomeActivity">
+<activity name="com.imuxuan.enwolf.AboutUs">
+<activity name="com.imuxuan.enwolf.SettingActivity">
+<activity name="com.imuxuan.enwolf.CallSmsSafeActivity">
+<activity name="com.imuxuan.enwolf.AppManagerActivity">
+<activity name="com.imuxuan.enwolf.SimpleActivity">
+<activity name="com.imuxuan.enwolf.TaskManagerActivity">
+<activity name="com.imuxuan.enwolf.TaskSettingActivity">
+<activity excludeFromRecents="true" name="com.imuxuan.enwolf.EnterPwdActivity" launchMode="3">
+<activity name="com.imuxuan.enwolf.AntiVirusActivity" configChanges="1184">
+<activity name="com.wandoujia.ads.sdk.AppWallActivity" configChanges="1184" launchMode="1">
+<activity name="com.wandoujia.ads.sdk.AppWidgetContainerActivity" theme="16973840" configChanges="1184">
+<activity name="com.wandoujia.ads.sdk.InterstitialAdActivity" theme="16973840" configChanges="1184">
+3
+<service name="com.wandoujia.ads.sdk.DownloadService">
+<service name="com.imuxuan.enwolf.service.CallSmsSafeService">
+<service name="com.imuxuan.enwolf.service.UpdateWidgetService">
+4
+<receiver name="com.wandoujia.ads.sdk.AppChangedReceiver">
+<receiver name="com.imuxuan.enwolf.receiver.BootCompleteReceiver">
+<receiver name="com.imuxuan.enwolf.receiver.SMSReceiver">
+<receiver name="com.imuxuan.enwolf.receiver.KillAllRecevier">
+0
+Owner: CN=enwolf, OU=enwolf, O=hohot, L=hohot, ST=InnerMongolia, C=86
+Issuer: CN=enwolf, OU=enwolf, O=hohot, L=hohot, ST=InnerMongolia, C=86
+Serial number: 9e291b1
+Valid from: Tue Oct 14 01:58:36 CST 2014 until: Sun Oct 04 01:58:36 CST 2054
+Certificate fingerprints: 
+	MD5:CD:BE:3D:AF:47:FF:89:BE:85:1C:85:08:8D:CA:F3:15
+	SHA1: F8:C1:50:AC:3D:08:19:4B:30:83:55:AA:24:21:9B:B2:7C:27:D6:2A
+	SHA256: 83:29:46:8B:47:A5:3F:8C:47:FB:8C:05:F8:71:E4:CD:7D:2A:46:0A:48:9B:55:9B:F6:57:AB:A0:B7:4B:6F:16
+	Signature algorithm name: SHA256withRSA
+	version: 3

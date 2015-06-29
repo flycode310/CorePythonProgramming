@@ -1,0 +1,41 @@
+com.external.chinabank
+1
+1.0
+8
+8
+9
+android.permission.ACCESS_GPS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+12
+<activity screenOrientation="1" name=".activity.SplashActivity" theme="16973831" launchMode="1">
+<activity name=".activity.HomeActivity" theme="2131427329">
+<activity name=".activity.MainAcivity" theme="2131427329">
+<activity hardwareAccelerated="true" name=".activity.WebViewActivity" theme="2131427329">
+<activity screenOrientation="1" name=".activity.VersionsAcitivity" theme="2131427329" windowSoftInputMode="35" launchMode="3">
+<activity screenOrientation="1" name=".activity.BankBranchActivity" theme="2131427329" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".activity.AnnunciationActivity" theme="2131427329" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".activity.BranchDetialActivity" theme="2131427329" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".activity.BusinessAssistantAcitivity" theme="2131427329" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".activity.NewsActivity" theme="2131427329" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".activity.MarkerActivity" theme="2131427329">
+<activity screenOrientation="1" name=".activity.CreditActivity" theme="2131427329">
+0
+0
+0
+Owner: CN=eximbank
+Issuer: CN=eximbank
+Serial number: 52baadf4
+Valid from: Wed Dec 25 18:05:40 CST 2013 until: Sun Dec 19 18:05:40 CST 2038
+Certificate fingerprints: 
+	MD5:60:9D:08:A5:FC:04:FC:03:1A:8F:55:AA:0A:0F:92:BB
+	SHA1: 0C:81:5D:95:5E:11:47:99:5C:C0:3C:AF:FF:3C:46:EE:42:4A:46:BD
+	SHA256: 91:BE:17:16:76:53:43:2B:CA:EC:35:C3:1D:7C:14:71:09:60:3C:06:59:FD:35:C7:A2:BC:EA:CA:E3:DE:E0:12
+	Signature algorithm name: SHA1withRSA
+	version: 3

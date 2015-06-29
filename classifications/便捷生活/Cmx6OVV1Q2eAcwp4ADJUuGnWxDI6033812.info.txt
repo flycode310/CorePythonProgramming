@@ -1,0 +1,44 @@
+com.chenhui.weather
+70
+7.0
+8
+-1
+13
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+7
+<activity screenOrientation="1" name=".activity.ForecastWeatherActivity" label="2131165184">
+<activity screenOrientation="1" name=".activity.ChoiceCityActivity">
+<activity screenOrientation="1" name=".activity.ImageListActivity">
+<activity screenOrientation="1" name="com.weather.example.custom.KKGAActivity">
+<activity screenOrientation="1" name="com.weather.example.custom.KKGBActivity">
+<activity excludeFromRecents="true" name="com.weather.example.custom.PKGActivity" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.weather.example.custom.MKGActivity" configChanges="160" launchMode="2">
+1
+<service name="com.weather.example.custom.PKGService">
+3
+<receiver name="com.weather.example.custom.KKGReceiver">
+<receiver name="com.weather.example.custom.PKGReceiver">
+<receiver name="com.weather.example.custom.MKGReceiver">
+0
+Owner: CN=HuiChen, OU=secret, O=secret, L=guangzhou, ST=guangzhou, C=CN
+Issuer: CN=HuiChen, OU=secret, O=secret, L=guangzhou, ST=guangzhou, C=CN
+Serial number: 4feba8f4
+Valid from: Thu Jun 28 08:44:36 CST 2012 until: Fri Apr 01 08:44:36 CST 2067
+Certificate fingerprints: 
+	MD5:6A:DA:1E:9F:F0:B0:C2:DE:6B:BC:BD:0C:33:65:38:B6
+	SHA1: EC:5E:98:94:5B:46:AA:8F:A1:74:61:41:E2:34:EA:2C:8A:0F:48:EA
+	SHA256: 00:10:67:CF:73:50:64:2C:E5:D3:AE:C5:B0:F3:29:FF:41:A3:EA:5B:DE:07:07:CE:47:CC:3A:B6:C4:2C:2F:4F
+	Signature algorithm name: SHA1withRSA
+	version: 3

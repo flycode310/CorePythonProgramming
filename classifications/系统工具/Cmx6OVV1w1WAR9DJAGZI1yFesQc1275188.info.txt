@@ -1,0 +1,35 @@
+com.vee.project.ime
+4
+1.3
+8
+-1
+8
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+4
+<activity name=".ui.activity.SettingsActivity" label="2131361794">
+<activity name=".ui.activity.GuideActivity">
+<activity name=".ui.activity.UpdateActivity">
+<activity name=".ui.activity.AboutActivity">
+3
+<service name=".service.PinyinDecoderService">
+<service name="IME" permission="android.permission.BIND_INPUT_METHOD">
+<service name=".service.HciCloudHwrService">
+0
+0
+Owner: O=17vee, L=Beijing, C=86
+Issuer: O=17vee, L=Beijing, C=86
+Serial number: 4ed3315e
+Valid from: Mon Nov 28 14:59:42 CST 2011 until: Fri Nov 21 14:59:42 CST 2036
+Certificate fingerprints: 
+	MD5:54:F7:49:5E:17:CF:5F:2E:57:0F:7C:84:9A:25:B4:F3
+	SHA1: 36:25:E0:7F:0E:95:99:7F:C3:1F:F4:EB:8F:70:65:31:4E:92:4E:66
+	SHA256: C3:BC:7E:E7:B6:F2:64:D3:0F:29:6D:C7:F3:17:EF:F3:DD:82:71:6C:53:8B:89:8E:42:AD:E1:32:FD:50:11:F7
+	Signature algorithm name: SHA1withRSA
+	version: 3

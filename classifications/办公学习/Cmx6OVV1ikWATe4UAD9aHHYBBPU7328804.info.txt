@@ -1,0 +1,48 @@
+com.aimery.abook.dmbj
+15
+1.7.5
+3
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+19
+<activity name="com.aimery.abook.main.MainCanvas" configChanges="160" label="2131296257">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="net.youmi.android.spotad.AdActivity" configChanges="176">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="com.adwo.adsdk.AdwoAdBrowserActivity" label="2131296257">
+<activity name="com.adwo.adsdk.AdwoSplashAdActivity" label="2131296257">
+<activity screenOrientation="1" name="com.vpon.adon.android.WebInApp" configChanges="240" label="2131296257">
+<activity name="com.google.ads.AdActivity" configChanges="176">
+<activity name="com.adchina.android.ads.views.AdBrowserView" label="2131296257">
+<activity screenOrientation="1" name="cn.appmedia.ad.AdActivity" theme="16973839" configChanges="240">
+<activity name="com.winad.android.ads.VideoPlayerActivity">
+<activity name="com.greystripe.android.sdk.AdView" configChanges="176">
+<activity name="com.mdotm.android.ads.MdotmLandingPage" label="2131296257">
+<activity name="com.millennialmedia.android.MMAdViewOverlayActivity" theme="16973831" configChanges="176">
+<activity name="com.millennialmedia.android.VideoPlayer" theme="16973831" configChanges="176">
+<activity name="com.mt.airad.MultiAD" configChanges="176">
+<activity name="com.l.adlib_android.AdBrowseActivity" configChanges="176" windowSoftInputMode="18">
+<activity name="com.mobclick.android.UmengFeedback">
+<activity name="net.youmi.android.appoffers.AppOffersActivity" configChanges="176">
+0
+0
+1
+<provider authorities="com.yourcompany.sample.AdContentProvider" multiprocess="true" name="com.greystripe.android.sdk.AdContentProvider" exported="false">
+Owner: CN=aimery, OU=aimery, O=aimery, L=beijing, ST=beijing, C=CN
+Issuer: CN=aimery, OU=aimery, O=aimery, L=beijing, ST=beijing, C=CN
+Serial number: 4cca65ab
+Valid from: Fri Oct 29 14:11:55 CST 2010 until: Wed Mar 01 14:11:55 CST 3009
+Certificate fingerprints: 
+	MD5:DD:5B:DA:5B:0A:B4:EA:CD:D4:31:DB:D0:D4:8B:CB:6B
+	SHA1: 6B:BC:98:8E:C5:C8:90:D8:91:B3:D9:A3:49:52:5F:8B:BB:3D:B8:F6
+	SHA256: 17:FE:DE:15:C2:A3:D8:31:BC:D1:01:74:AA:C9:FF:30:70:C8:71:1D:7A:6F:F7:22:97:65:F3:20:5C:D6:61:30
+	Signature algorithm name: SHA1withRSA
+	version: 3

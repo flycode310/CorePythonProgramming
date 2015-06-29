@@ -1,0 +1,102 @@
+flipboard.cn
+2302
+2.3.2
+14
+18
+8
+sstream.app.broadcast.SYNC_USER
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+flipboard.cn.permission.C2D_MESSAGE
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.google.android.c2dm.permission.RECEIVE
+53
+<activity name="com.facebook.LoginActivity" theme="16974064" label="2131361944">
+<activity name="flipboard.activities.LaunchActivity" theme="2131492878" configChanges="1152" label="2131361944" launchMode="1">
+<activity name="flipboard.activities.TOCActivity" theme="2131492878" launchMode="1">
+<activity name="flipboard.activities.DebugMenuActivity" theme="2131492878">
+<activity name="flipboard.activities.ContentDrawerPhoneActivity" theme="2131492878" windowSoftInputMode="32" launchMode="1">
+<activity name="flipboard.activities.ContentDrawerTabletActivity" theme="2131492885" windowSoftInputMode="32" launchMode="1">
+<activity name="flipboard.activities.SearchTabletActivity" theme="2131492884" windowSoftInputMode="32" launchMode="1">
+<activity name="flipboard.activities.InitialConfigLoadActivity" theme="2131492878">
+<activity name="flipboard.activities.LoginActivity" theme="2131492880">
+<activity name="flipboard.activities.CreateAccountActivity" theme="2131492880" configChanges="1152" windowSoftInputMode="1">
+<activity name="flipboard.activities.UpdateAccountActivity" theme="2131492880" configChanges="1152" windowSoftInputMode="1">
+<activity hardwareAccelerated="false" name="flipboard.activities.SectionTabletActivity" theme="2131492878" windowSoftInputMode="32">
+<activity name="flipboard.activities.DetailActivity" theme="2131492878" windowSoftInputMode="32">
+<activity name="flipboard.activities.DetailActivityStayOnRotation" theme="2131492878" configChanges="1152">
+<activity name="flipboard.activities.SettingsActivity" theme="2131492880">
+<activity name="flipboard.activities.SettingsDensityActivity" theme="2131492880">
+<activity name="flipboard.activities.GenericFragmentActivity" theme="2131492880">
+<activity name="flipboard.activities.NotificationSettingsActivity" theme="2131492880">
+<activity name="flipboard.activities.AboutActivity" theme="2131492880">
+<activity name="flipboard.activities.FirstRunActivity" theme="2131492878">
+<activity name="flipboard.activities.SocialCardActivity" theme="2131492880" label="Social card">
+<activity name="flipboard.activities.ServiceLoginActivity" theme="2131492880" configChanges="1152" windowSoftInputMode="16">
+<activity name="flipboard.activities.SSOLoginActivity" theme="2131492880" configChanges="1184">
+<activity name="flipboard.activities.ServiceSettingsActivity" theme="2131492880">
+<activity name="flipboard.activities.ReadLaterSignOutActivity" theme="2131492880">
+<activity name="flipboard.activities.ComposeActivity" theme="2131492880" label="2131361944" windowSoftInputMode="16">
+<activity name="flipboard.activities.SubsectionActivity" theme="2131492884" label="Choose Account">
+<activity name="flipboard.activities.ChooseAccountActivity" theme="2131492880" label="Choose Account">
+<activity name="flipboard.activities.MuteActivity" theme="2131492880" label="Muted Authors">
+<activity name="flipboard.activities.SwitchContentGuideActivity" theme="2131492880" label="Content Guide">
+<activity name="flipboard.activities.ReadLaterActivity" theme="2131492880" label="Read Later Services">
+<activity name="flipboard.activities.LightBoxHintActivity" theme="2131492880">
+<activity name="flipboard.activities.ReportIssueActivity" theme="2131492880" windowSoftInputMode="2" launchMode="2">
+<activity name="net.hockeyapp.android.UpdateActivity">
+<activity name="flipboard.activities.VideoActivity" theme="2131492878" configChanges="1152">
+<activity name="flipboard.activities.YouTubePlayerActivity" theme="2131492878" configChanges="1184">
+<activity name="flipboard.activities.CacheConfigActivity" theme="2131492880" label="Content Cache Configuration">
+<activity name="flipboard.activities.ShareActivity" theme="2131492889" windowSoftInputMode="18">
+<activity name="flipboard.activities.SharePromoteActivity" theme="2131492889" windowSoftInputMode="18">
+<activity name="flipboard.service.FlipboardUrlHandler" theme="2131492878">
+<activity name="flipboard.service.FacebookDeepLinkHandler" theme="2131492878" exported="true">
+<activity name="flipboard.activities.AudioPlayerActivity" theme="2131492884" label="Audio Player" launchMode="1">
+<activity name="flipboard.activities.FlipboardDreamSettings" theme="2131492880" launchMode="1">
+<activity name="flipboard.activities.DebugLayoutActivity" theme="2131492878" launchMode="1">
+<activity name="com.apsalar.sdk.Activity" configChanges="160" label="Apsalar">
+<activity name="flipboard.activities.WidgetConfigActivity" theme="2131492884">
+<activity name="flipboard.activities.FacebookAuthenticateFragment">
+<activity name="com.helpshift.HSConversation" theme="2131492864" configChanges="9348" label="2131361794">
+<activity name="com.helpshift.HSQuestionsList" theme="2131492864" configChanges="1152">
+<activity hardwareAccelerated="true" name="com.helpshift.HSQuestion" theme="2131492864" configChanges="1152" label="2131361793">
+<activity hardwareAccelerated="true" name="com.helpshift.HSSection" theme="2131492864" configChanges="1152" windowSoftInputMode="32">
+<activity hardwareAccelerated="true" name="com.helpshift.HSFaqs" theme="2131492864" configChanges="1152" label="2131361792" windowSoftInputMode="32">
+<activity name="com.helpshift.HSReview" theme="2131492875" configChanges="1152" launchMode="2">
+9
+<service name="flipboard.widget.FlipboardWidget$UpdateService">
+<service name="flipboard.gcm.FlipboardGCMIntentService">
+<service enabled="2131558405" name="flipboard.remoteservice.MessengerService" exported="2131558405">
+<service enabled="2131558406" name="flipboard.remoteservice.MessengerService" exported="2131558406">
+<service enabled="2131558407" name="flipboard.remoteservice.MessengerService" exported="2131558407">
+<service name="flipboard.service.audio.MediaPlayerService" exported="false" label="2131361944">
+<service icon="2130837691" name="flipboard.daydream.FlipboardDream" exported="false" label="2131361944">
+<service name="com.helpshift.HSService" label="Helpshift Service">
+<service name="com.helpshift.HSRetryService" label="Helpshift Service">
+11
+<receiver name="com.apsalar.sdk.ApsalarReceiver" exported="true">
+<receiver enabled="2131558403" name="flipboard.widget.FlipboardWidgetSmall" label="2131362254">
+<receiver enabled="2131558404" name="flipboard.widget.FlipboardWidgetMedium" label="2131361912">
+<receiver enabled="true" name="flipboard.widget.FlipboardWidgetManager$AlarmReceiver">
+<receiver enabled="true" name="flipboard.activities.FirstRunActivity$AlarmReceiver">
+<receiver name="flipboard.gcm.FlipboardGCMBroadcastReceiver" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="flipboard.util.HelpshiftHelper$GCMReceiver">
+<receiver name="flipboard.io.AnalyticsService$FLAnalyticsReceiver" exported="false">
+<receiver name="flipboard.service.audio.MediaPlayerService$MusicIntentReceiver" exported="false">
+<receiver name="flipboard.sstream.SstreamBroadcastReceiver" permission="sstream.app.broadcast.SYNC_USER">
+<receiver name="com.helpshift.HelpshiftConnReceiver">
+1
+<provider authorities="2131361923" name="flipboard.remoteservice.FLFeedItemContentProvider" exported="true">
+Owner: CN=Unknown, OU=A Team, O=Flipboard Inc., L=Palo Alto, ST=California, C=US
+Issuer: CN=Unknown, OU=A Team, O=Flipboard Inc., L=Palo Alto, ST=California, C=US
+Serial number: 58a27957
+Valid from: Sat Apr 21 06:34:55 CST 2012 until: Sun Apr 09 06:34:55 CST 2062
+Certificate fingerprints: 
+	MD5:4D:C6:98:8A:1C:49:D0:A6:36:AD:B2:EA:DB:49:90:FB
+	SHA1: 39:8E:54:89:55:D2:5F:F5:CA:46:19:A5:DB:E1:F8:3C:4F:E5:D7:91
+	SHA256: A6:78:5F:A9:B3:DA:2A:1D:A4:AC:1A:6F:70:65:60:46:DD:7C:DD:A0:A4:42:E9:F1:B5:0D:97:07:69:05:FC:A5
+	Signature algorithm name: SHA256withRSA
+	version: 3

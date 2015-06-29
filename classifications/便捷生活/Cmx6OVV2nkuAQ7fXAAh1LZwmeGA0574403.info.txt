@@ -1,0 +1,37 @@
+com.birthay
+5005
+5.0.0.5
+4
+-1
+7
+android.permission.WRITE_CALENDAR
+android.permission.READ_CALENDAR
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.DELETE_CALENDAR
+android.permission.READ_LOGS
+android.permission.KILL_BACKGROUND_PROCESSES
+9
+<activity name="com.ani.load.Load" label="2131230721" windowSoftInputMode="35">
+<activity name="com.ani.add.AddDayView" windowSoftInputMode="35">
+<activity name="com.ani.update.UpdateView" windowSoftInputMode="19">
+<activity name="com.ani.view.ViewDay" windowSoftInputMode="19">
+<activity name="com.ani.seting.Seting" theme="2131296264" windowSoftInputMode="19">
+<activity name="com.ani.about.AboutView">
+<activity name="com.ani.backup.BackupActivity">
+<activity name="com.ani.backup.BackupHelpActivity">
+<activity name="com.ani.main.BirthdayView" windowSoftInputMode="35">
+0
+1
+<receiver name="com.ani.bootreceiver.AniBootReceiver">
+0
+Owner: CN=goapk
+Issuer: CN=goapk
+Serial number: 4ecefca6
+Valid from: Fri Nov 25 10:25:42 CST 2011 until: Wed Oct 02 10:25:42 CST 2233
+Certificate fingerprints: 
+	MD5:91:E3:38:DE:E5:F4:FF:5E:85:16:55:AD:36:83:EC:E7
+	SHA1: 09:D3:50:A1:B1:4E:35:0A:3E:0E:D4:7C:BD:4D:EA:14:EF:10:D7:0B
+	SHA256: 60:46:18:11:47:A2:2E:B4:BC:CF:FB:B9:1D:5A:E4:A0:60:43:0D:91:3E:53:E4:17:3A:56:20:B6:85:5E:2F:1F
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,69 @@
+com.somcloud.somnote
+2013080719
+1.2.2
+8
+18
+10
+com.somcloud.somnote.permission.C2D_MESSAGE
+com.android.vending.BILLING
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.BROADCAST_STICKY
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.google.android.c2dm.permission.RECEIVE
+26
+<activity name="com.somcloud.somnote.ui.phone.SplashActivity" theme="2131492952">
+<activity name=".ui.phone.NotesActivity" theme="2131492964" windowSoftInputMode="32">
+<activity name=".ui.phone.NoteEditActivity" theme="2131492964" windowSoftInputMode="16">
+<activity name=".ui.phone.NoteViewActivity" theme="2131492964">
+<activity name=".ui.phone.FolderEditActivity" theme="2131492967" windowSoftInputMode="21">
+<activity name="com.somcloud.somnote.ui.phone.VersionCheckActivity" theme="2131492964">
+<activity name=".ui.phone.FilePickerActivity" theme="2131492964">
+<activity name=".ui.phone.SearchActivity" theme="2131492952" windowSoftInputMode="4">
+<activity name=".ui.phone.SettingActivity" theme="2131492964" label="2131427376">
+<activity name=".ui.phone.AccountActivity" theme="2131492964" label="2131427485">
+<activity name=".ui.phone.SupportActivity" theme="2131492964" label="2131427434">
+<activity name=".ui.phone.MultiAccountActivity" theme="2131492952">
+<activity name=".ui.phone.LoginActivity" theme="2131492964">
+<activity name=".ui.phone.LockActivity" theme="2131492964" windowSoftInputMode="21" launchMode="1">
+<activity name=".ui.phone.LockSettingActivity" theme="2131492964" label="2131427414">
+<activity name="com.somcloud.ui.WebActivity" theme="2131492961" configChanges="1184">
+<activity name="com.somcloud.somnote.ui.phone.PremiumActivity" theme="2131492961" configChanges="1184">
+<activity name=".appwidget.NoteWidgetFolderConfigure" theme="2131492964" exported="true" label="2131427371">
+<activity name="com.somcloud.somnote.ui.phone.ImageViewActivity" theme="2131492964">
+<activity screenOrientation="1" name=".ui.phone.DrawingTutoialActivity" theme="2131492967">
+<activity screenOrientation="1" name="com.somcloud.somnote.ui.phone.DrawingActivity" theme="2131492964">
+<activity screenOrientation="1" name="com.somcloud.somnote.ui.drawing.XAPnfConnectActivity" theme="2131492952">
+<activity name=".kakao.KakaoSignupTermsActivity" theme="2131492952">
+<activity name=".shortcut.LauncherShortcuts">
+<activity name=".shortcut.DrawingShortcuts">
+<activity screenOrientation="1" name="com.somcloud.somnote.ui.drawing.CalibActivity" theme="2131492952">
+7
+<service name=".service.SyncService">
+<service name=".service.DownloadService">
+<service name=".appwidget.NoteStackWidgetService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service name=".appwidget.HoneycombNoteListService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.somcloud.somnote.GCMIntentService">
+<service name="org.openudid.OpenUDID_service">
+<service name="com.google.analytics.tracking.android.CampaignTrackingService">
+5
+<receiver enabled="2131165198" name=".appwidget.NoteStackWidgetProvider" label="2131427475">
+<receiver enabled="2131165198" name=".appwidget.HoneycombNoteListWidgetProvider" label="2131427474">
+<receiver name=".appwidget.NoteListWidgetProvider" label="2131427473">
+<receiver name="com.google.android.gcm.GCMBroadcastReceiver" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="com.google.analytics.tracking.android.CampaignTrackingReceiver" exported="true">
+1
+<provider authorities="com.somcloud.provider.SomNote" name=".provider.SomNoteProvider" exported="true">
+Owner: CN=Wizard Works, O=Wizard Works, L=Seoul, C=ko
+Issuer: CN=Wizard Works, O=Wizard Works, L=Seoul, C=ko
+Serial number: 4be6867e
+Valid from: Sun May 09 17:55:10 CST 2010 until: Mon Apr 26 17:55:10 CST 2060
+Certificate fingerprints: 
+	MD5:B5:F1:5E:A5:51:70:CB:0C:5D:F3:82:3A:07:30:7E:66
+	SHA1: 18:C9:E4:58:10:38:43:75:FE:6E:78:D3:B6:BB:9C:9F:D1:BB:63:0B
+	SHA256: D4:34:86:39:ED:3B:55:BF:E3:86:22:50:86:2C:1A:59:1E:E2:95:B8:82:01:53:AD:DE:1A:A0:84:0B:49:57:D0
+	Signature algorithm name: SHA1withRSA
+	version: 3

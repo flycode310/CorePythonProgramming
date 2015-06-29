@@ -1,0 +1,76 @@
+com.google.android.calendar
+2014112431
+5.0.1-1638276
+16
+21
+24
+android.permission.USE_CREDENTIALS
+com.google.android.googleapps.permission.GOOGLE_AUTH.mail
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+com.google.android.googleapps.permission.GOOGLE_AUTH
+com.google.android.c2dm.permission.RECEIVE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.READ_SYNC_STATS
+android.permission.WRITE_CALENDAR
+android.permission.READ_CALENDAR
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.RECEIVE_BOOT_COMPLETED
+com.google.android.calendar.permission.C2D_MESSAGE
+android.permission.INTERNET
+com.google.android.gm.permission.READ_GMAIL
+android.permission.SUBSCRIBED_FEEDS_READ
+android.permission.READ_SYNC_SETTINGS
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.SUBSCRIBED_FEEDS_WRITE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+11
+<activity name="com.android.calendar.AllInOneCalendarActivity" theme="2131230784" exported="true" windowSoftInputMode="32" launchMode="2">
+<activity name="com.android.calendar.event.EventInfoActivity" theme="2131230788" exported="false">
+<activity name="com.android.calendar.event.LaunchInfoActivity" theme="2131230789" exported="true">
+<activity name="com.android.calendar.GoogleCalendarUriIntentFilter" theme="16973909" configChanges="160" label="2131361905">
+<activity name="com.google.android.calendar.settings.GoogleCalendarSettingsActivity" theme="2131230778" parentActivityName="com.android.calendar.AllInOneCalendarActivity" exported="false" label="2131362142">
+<activity name="com.google.android.calendar.timely.settings.TimelyNotificationSettingsActvity" exported="true" label="2131362142">
+<activity name="com.google.android.calendar.timely.settings.CalendarPublicPreferenceActvity" exported="true" label="2131362142">
+<activity name="com.android.calendar.SearchActivity" theme="2131230785" exported="true" label="2131362119" windowSoftInputMode="3" launchMode="1">
+<activity excludeFromRecents="true" name="com.android.calendar.alerts.QuickResponseActivity" theme="2131230775" label="2131362110" launchMode="3">
+<activity name="com.google.android.calendar.extensions.LicenseActivity" theme="2131230773" exported="true" label="2131362346">
+<activity name="com.google.android.calendar.timely.WhatsNewFullScreenImpl" theme="2131230774">
+9
+<service name="com.android.calendar.RingtoneUpgradeReceiver$RingtoneUpgradeService">
+<service name="com.google.android.calendar.timely.settings.RecentAndDefaultNotificationsFactoryImpl$AccountRemovedService">
+<service name="com.android.calendar.alerts.AlertService">
+<service name="com.android.calendar.alerts.DismissAlarmsService">
+<service name="com.android.calendar.alerts.InitAlarmsService">
+<service name="com.android.calendar.widget.CalendarAppWidgetService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.android.calendar.AsyncQueryServiceHelper">
+<service name="com.google.android.syncadapters.calendar.CalendarSyncAdapterService" exported="true">
+<service name="com.google.android.syncadapters.calendar.CalendarSyncAdapterIntentService">
+10
+<receiver name="com.android.calendar.alerts.AlertReceiver">
+<receiver name="com.google.android.calendar.alerts.GCMDismissReceiver" exported="true" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="com.android.calendar.alerts.GlobalDismissManager" exported="false">
+<receiver name="com.android.calendar.SyncUpgradeReceiver">
+<receiver name="com.android.calendar.AllPrefsUpgradeReceiver">
+<receiver name="com.android.calendar.RingtoneUpgradeReceiver">
+<receiver name="com.google.android.calendar.timely.settings.RecentAndDefaultNotificationsFactoryImpl$AccountRemovedBroadcastReceiver">
+<receiver name="com.android.calendar.widget.CalendarAppWidgetProvider" label="2131362169">
+<receiver name="com.android.calendar.widget.WidgetDataReceiver" exported="false">
+<receiver name="com.google.android.syncadapters.calendar.CalendarSyncAdapterBroadcastReceiver">
+2
+<provider authorities="com.google.android.calendar.CalendarRecentSuggestionsProvider" name="com.android.calendar.CalendarRecentSuggestionsProvider" exported="false">
+<provider authorities="com.google.android.timely" multiprocess="false" name="com.google.android.syncadapters.calendar.timely.TimelyProvider" exported="false">
+Owner: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Issuer: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Serial number: c2e08746644a308d
+Valid from: Fri Aug 22 07:13:34 CST 2008 until: Tue Jan 08 07:13:34 CST 2036
+Certificate fingerprints: 
+	MD5:CD:E9:F6:20:8D:67:2B:54:B1:DA:CC:0B:70:29:F5:EB
+	SHA1: 38:91:8A:45:3D:07:19:93:54:F8:B1:9A:F0:5E:C6:56:2C:ED:57:88
+	SHA256: F0:FD:6C:5B:41:0F:25:CB:25:C3:B5:33:46:C8:97:2F:AE:30:F8:EE:74:11:DF:91:04:80:AD:6B:2D:60:DB:83
+	Signature algorithm name: MD5withRSA
+	version: 3

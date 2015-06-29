@@ -1,0 +1,34 @@
+com.xindongdaku.rnvhbjh
+349
+3.4.9
+8
+8
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+2
+<activity icon="2130837504" name="com.xindongdaku.rnvhbjh.MyActivity" theme="16973841" configChanges="160" label="2130968576">
+<activity name="com.appquanta.wk.MainActivity" theme="16973830" configChanges="160" label="2130968576">
+1
+<service name="com.appquanta.wk.MainService">
+1
+<receiver name="com.xindongdaku.rnvhbjh.MyReceiver">
+0
+Owner: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Issuer: CN=cn, OU=ou, O=o, L=l, ST=st, C=CN
+Serial number: 5e99cc77
+Valid from: Mon Oct 27 13:35:34 CST 2014 until: Sat Oct 27 13:35:34 CST 2114
+Certificate fingerprints: 
+	MD5:03:B8:F6:85:35:96:2A:89:28:55:32:93:74:3B:ED:77
+	SHA1: 2E:EA:54:2A:76:D5:C2:DF:FC:01:74:39:79:FD:A4:56:D1:B7:32:48
+	SHA256: C0:B8:F1:9C:C5:30:80:9C:2A:90:FC:A2:E5:4D:21:D2:E5:8F:E2:9B:72:EB:70:AA:05:31:EC:ED:1A:E8:F9:30
+	Signature algorithm name: SHA256withRSA
+	version: 3

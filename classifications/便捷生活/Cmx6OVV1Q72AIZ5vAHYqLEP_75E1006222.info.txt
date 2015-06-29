@@ -1,0 +1,88 @@
+com.pekall.weather
+20130205
+3.3
+7
+-1
+13
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+34
+<activity screenOrientation="1" name=".ui.SwitchActivity" configChanges="1184" label="2131165184">
+<activity screenOrientation="1" name=".ui.WeatherMainActivity" configChanges="1184" label="2131165184" launchMode="2">
+<activity screenOrientation="1" name=".ui.FixedTimeUpdateActivity" label="2131165380">
+<activity screenOrientation="1" name=".ui.FixedRateUpdateActivity">
+<activity screenOrientation="1" name="com.pekall.weather.SearchCityActivity">
+<activity screenOrientation="1" name=".ui.UpdateLogActivity">
+<activity screenOrientation="1" name="com.pekall.weather.CityOptionsActivity" label="2131165387">
+<activity screenOrientation="1" name=".ui.UpdateOptionsActivity" label="2131165431">
+<activity screenOrientation="1" name=".ui.WeatherTrendActivity" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name=".ui.LifeStyleActivity" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name=".ui.CityManagerActivity" configChanges="240">
+<activity screenOrientation="1" name=".ui.AddCity" configChanges="1184" windowSoftInputMode="48">
+<activity screenOrientation="1" name=".pm.PMActivity" configChanges="416">
+<activity name=".pm.PMAbout">
+<activity name="com.pekall.base.distribution.EulaActivity">
+<activity name="com.pekall.base.distribution.NewVersionActivity">
+<activity name="com.pekall.base.about.About" theme="2131230789" configChanges="128">
+<activity screenOrientation="1" name="com.pekall.base.distribution.Help">
+<activity icon="2130837673" name=".ui.WeatherSetting" theme="2131230793" configChanges="1184" label="2131165358">
+<activity screenOrientation="1" name=".ui.AlertActivity">
+<activity excludeFromRecents="true" name=".ui.AlertPopup" theme="2131230847" configChanges="1152" exported="true" taskAffinity="" launchMode="1">
+<activity screenOrientation="1" name="com.pekall.theme.ThemeManagerActivity" theme="2131230852" configChanges="1184" label="2131165569">
+<activity screenOrientation="1" name="com.pekall.theme.ThemeSettingActivity" theme="2131230853" configChanges="1184" label="2131165569" launchMode="2">
+<activity screenOrientation="1" name="com.pekall.theme.recommand.RecommandActivity" theme="2131230853" configChanges="1184">
+<activity screenOrientation="1" name="com.pekall.theme.recommand.RecommandDetailActivity" theme="2131230856" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.pekall.theme.LocalPackageInfoActivity" theme="2131230857" configChanges="1184">
+<activity screenOrientation="1" name="com.pekall.theme.NetPackageInfoActivity" theme="2131230857" configChanges="1184">
+<activity screenOrientation="1" name="com.pekall.theme.LocalThemeActivity" theme="2131230857" configChanges="1184">
+<activity name="com.pekall.weatherpush.NotificationHelper">
+<activity screenOrientation="1" name="com.pekall.share.PekallShareActivity">
+<activity screenOrientation="1" name="com.pekall.feedback.FeedbackActivity">
+<activity name="com.tencent.weibo.webview.OAuthV1AuthorizeWebView" label="2131165184">
+<activity name="com.tencent.weibo.oauthv1.OAuthV1">
+<activity name="com.pekall.weather.ui.UseHelp" theme="16973934">
+6
+<service name=".widget.UpdateWidgetService">
+<service name=".service.WeatherFetcherService">
+<service process=":apkdownload" name="com.pekall.base.update.ApkDownloadService">
+<service name="com.pekall.theme.ThemeApkDownLoadService">
+<service enabled="true" name="com.pekall.weatherpush.PushService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+11
+<receiver name=".widget.WeatherReceiver">
+<receiver icon="2130837678" name=".widget.provider.WeatherProvider_4_3" label="2131165460">
+<receiver icon="2130837678" name=".widget.provider.WeatherProvider_4_2" label="2131165459">
+<receiver icon="2130837678" name=".widget.provider.WeatherProvider_4_1" label="2131165458">
+<receiver name=".service.UpdateReceiver">
+<receiver name=".service.InitUpdatesReceiver">
+<receiver name=".service.SourceUpdateReceiver">
+<receiver name=".service.MessagePushReceiver">
+<receiver name=".LocalChangeReceiver">
+<receiver enabled="true" name="com.pekall.weatherpush.BootReceiver" exported="false">
+<receiver name="com.pekall.weather.service.ScreenOnAndOffReceiver">
+4
+<provider authorities="com.pekall.weather.provider" name=".providers.WeatherProvider">
+<provider authorities="com.pekall.weather" name=".providers.AvaliableCityProvider">
+<provider authorities="com.pekall.weather.pm.provider" name=".pm.PMProvider">
+<provider authorities="com.pekall.share.files" multiprocess="false" name="com.pekall.share.LocalFileProvider">
+Owner: CN=richard.liu, O=Capital Allicance Software Ltd., L=Beijing, C=86
+Issuer: CN=richard.liu, O=Capital Allicance Software Ltd., L=Beijing, C=86
+Serial number: 4d8836ff
+Valid from: Tue Mar 22 13:43:27 CST 2011 until: Sat Mar 15 13:43:27 CST 2036
+Certificate fingerprints: 
+	MD5:5E:3F:53:F2:B5:99:5B:02:CD:CB:FD:68:A6:59:D6:88
+	SHA1: 62:30:B6:24:E3:55:96:DC:05:ED:3E:6E:44:83:87:D5:AF:E7:B3:B9
+	SHA256: 2E:E0:68:1B:17:5D:A6:A9:F7:A6:4B:DD:87:69:8A:A1:44:D2:C0:65:C6:D5:21:B6:DA:87:95:85:48:08:A4:CC
+	Signature algorithm name: SHA1withRSA
+	version: 3

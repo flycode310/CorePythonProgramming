@@ -1,0 +1,93 @@
+cn.chinabus.main
+968
+7.0.69
+4
+-1
+15
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_FIND_LOCATION
+com.android.launcher.permission.WRITE_SETTINGS
+52
+<activity screenOrientation="1" name=".startActivity" theme="16973831" label="2131165184">
+<activity screenOrientation="1" name=".GuideActivity" theme="16973831">
+<activity name=".mainActivity" theme="2131296264" configChanges="160" windowSoftInputMode="32" alwaysRetainTaskState="true" launchMode="2">
+<activity name="cn.chinabus.bus.activity.BusMainActivity" configChanges="176">
+<activity name="cn.chinabus.bus.activity.BusTransferDetails" configChanges="176">
+<activity name="cn.chinabus.bus.activity.TransferActivity" configChanges="176">
+<activity name="cn.chinabus.bus.activity.StationActivity" configChanges="176">
+<activity name="cn.chinabus.bus.activity.LineActivity" configChanges="176">
+<activity screenOrientation="1" name="cn.chinabus.bus.activity.ChooseStationActivity">
+<activity screenOrientation="1" name="cn.chinabus.bus.activity.ChooseLineActivity">
+<activity name="cn.chinabus.history.activity.HistoryActivity" configChanges="176">
+<activity name="cn.chinabus.ad.activity.TrainActivity" theme="16973835">
+<activity name="cn.chinabus.ad.activity.MTRActivity" theme="16973835">
+<activity name="cn.chinabus.ad.activity.TakeOutActivity" theme="16973835">
+<activity name="cn.chinabus.toolbox.ToolboxActivity" configChanges="160">
+<activity name="cn.chinabus.busonline.busOnlineActivity" configChanges="160">
+<activity name="cn.chinabus.more.moreActivity" configChanges="160">
+<activity name="cn.chinabus.setting.settingActivity">
+<activity name="cn.chinabus.feedback.feedbackActivity">
+<activity name="cn.chinabus.weibo.weiboActivity">
+<activity name="cn.chinabus.about.aboutActivity">
+<activity name="cn.chinabus.bus.activity.StationSelectActivity" theme="16973830" configChanges="160">
+<activity name="cn.chinabus.bus.activity.BusSettingActivity">
+<activity name="cn.chinabus.map.MapSettingActivity">
+<activity name="cn.chinabus.account.accSettingAct">
+<activity name="cn.chinabus.toolbox.toolboxSettingAct">
+<activity name="cn.chinabus.more.moreSettingAct">
+<activity name="cn.chinabus.customdb.CustomDBSettingActivity">
+<activity name="cn.chinabus.correction.CorrectSettingActivity">
+<activity name="cn.chinabus.map.MapViewActivity" theme="16973831">
+<activity name="cn.chinabus.customdb.CustomDBActivity">
+<activity name="cn.chinabus.dbmanager.DBManagerActivity" configChanges="160">
+<activity name="cn.chinabus.correction.CorrectInWebviewActivity">
+<activity name="cn.chinabus.plugin.activity.PluginActivity">
+<activity name="cn.chinabus.plugin.activity.SquarePluginSettingActivity">
+<activity name="cn.chinabus.plugin.activity.MapPluginSettingActivity">
+<activity name="cn.chinabus.plugin.activity.BusBellPluginSettingActivity">
+<activity screenOrientation="-1" name="com.umeng.api.activity.OauthActivity" configChanges="160" windowSoftInputMode="16">
+<activity name="cn.chinabus.ad.activity.BannerExample" configChanges="176">
+<activity name="cn.chinabus.bus.activity.WheelActivity">
+<activity name="cn.chinabus.checkin.activity.CheckInActivity" configChanges="160">
+<activity name="cn.chinabus.checkin.activity.SearchLineActivity" theme="16973831" configChanges="160">
+<activity name="cn.chinabus.more.HelpActivity">
+<activity name="cn.chinabus.share.ShareActivity" theme="16973835">
+<activity name="cn.chinabus.share.SyncToActivity">
+<activity screenOrientation="1" name="cn.chinabus.share.SyncSettingActivity">
+<activity screenOrientation="-1" name="cn.chinabus.api.activity.UpdateStatusActivity" configChanges="160" windowSoftInputMode="20">
+<activity name="cn.chinabus.api.qzone.TAuthActivity">
+<activity name="cn.chinabus.square.WebSquareActivity" theme="16973830" configChanges="160">
+<activity name="cn.chinabus.square.EmptyActivity" theme="16973830">
+<activity excludeFromRecents="true" name="com.chinabus.oauth.activity.OAuthActivity" theme="16973830" configChanges="160" label="2131165184">
+<activity process=":system" name="cn.chinabus.crashHandler.CrashActivity" theme="16973835">
+3
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":DownloadingService" name="com.exchange.Public.DownloadingService" exported="true">
+<service process=":system" name="cn.chinabus.crashHandler.CatchService">
+3
+<receiver name="cn.chinabus.plugin.receiver.ShareToSnsReceiver">
+<receiver name="cn.chinabus.plugin.receiver.OnCalNearByStationReceiver">
+<receiver name="cn.chinabus.plugin.receiver.OnSetStationReceiver">
+0
+Owner: CN=8684.cn, OU=8684.cn, O=8684.cn, L=Guangzhou, ST=GD, C=86
+Issuer: CN=8684.cn, OU=8684.cn, O=8684.cn, L=Guangzhou, ST=GD, C=86
+Serial number: 4dabb61c
+Valid from: Mon Apr 18 11:55:08 CST 2011 until: Wed Mar 25 11:55:08 CST 2111
+Certificate fingerprints: 
+	MD5:7D:8A:CE:13:6D:2C:A0:79:A8:9B:B1:73:32:20:15:86
+	SHA1: 3D:EC:A7:43:84:C9:99:A1:24:97:3A:AC:B7:57:0C:A3:0D:5D:4A:A6
+	SHA256: A0:3B:FE:03:81:07:6A:28:27:2D:E7:FF:67:21:A3:99:9D:61:CF:10:F1:37:5F:55:D8:4C:98:C1:A8:EF:8C:7B
+	Signature algorithm name: SHA1withRSA
+	version: 3

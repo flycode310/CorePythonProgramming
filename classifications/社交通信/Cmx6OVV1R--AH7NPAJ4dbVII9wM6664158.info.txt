@@ -1,0 +1,162 @@
+im.wecall.phone
+3
+1.0.2
+5
+9
+40
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_CALL_LOG
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CONFIGURE_SIP
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.BROADCAST_STICKY
+android.permission.PERSISTENT_ACTIVITY
+android.permission.USE_SIP
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.BATTERY_STATS
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.READ_PROFILE
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_USER_PRESENT
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.READ_CALL_LOG
+com.android.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.WRITE_SETTINGS
+78
+<activity screenOrientation="1" name="im.wecall.phone.Launcher" label="2131099872" noHistory="true" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.CallbackActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="im.wecall.phone.MainActivity" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="im.wecall.phone.LockScreenActivity" label="2131099872" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.ErrorActivity" theme="2131558407" label="2131099921" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.NewbieGuide" label="2131099919" launchMode="1">
+<activity name="im.wecall.phone.wxapi.WXEntryActivity" exported="true">
+<activity screenOrientation="1" name="im.wecall.phone.AutoAuthorize" label="2131099918" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.UserLoginActivity" label="2131099917" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.UserRegistActivity" label="2131099916" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.AddContactActivity" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.EarnMoneyActivity" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.UserBinderActivity" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.CallLogDetailByNumberActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.ContactDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.AccountRecharge" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.RechargeTipActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.SwitchingAccount" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.ChangePasswordActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.ForgetPasswordActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.RoamSetActivity" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.AboutActivity" launchMode="1">
+<activity screenOrientation="1" name="com.savecall.gamehall.GameHallInformationActivity" theme="16973837" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.GameHallActivity" theme="16973837" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.SubscribeActivity" theme="16973837" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.TestSubscribe" theme="16973837" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.PromotionsActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.HelpActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.PreferentialNotice" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.SignInActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.CorrectCaller" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.OnlineServiceActivity" configChanges="160" windowSoftInputMode="35" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.AlipayActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.UnionpayActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.StartMode" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.CheckingActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.LockSetActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.LockSetPasswordActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.IntegralWallActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.RechargeActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.CountryCodeActivity" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.QueryBalanceActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.InviteActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.RechargeMoneyActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.RechargeTypeActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.RechargeCardInputActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.MicroPaymentActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.MoreActivity" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.PartnerSelectActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.ChatActivity" configChanges="1184" windowSoftInputMode="3" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="im.wecall.phone.GifShowActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.PhotoShowActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.ComboActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.OrderComboActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.FeedBackActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.SmsSignActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.InnerWebActivity" theme="16973830" configChanges="32" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="im.wecall.phone.CallTypeSetActivity" theme="16973830" launchMode="1">
+<activity name="com.savecall.push.PushActivity">
+<activity name="com.tencent.android.tpush.XGPushActivity" exported="false">
+<activity screenOrientation="1" name="com.unionpay.uppay.PayActivity" theme="16973830" launchMode="1">
+<activity excludeFromRecents="true" name="com.unionpay.uppay.PayActivityEx" configChanges="160" label="2131099872" windowSoftInputMode="16">
+<activity process=":sipStack" screenOrientation="1" excludeFromRecents="true" name="im.wecall.phone.sip.SipOutCallActivity" theme="16973830" configChanges="128" allowTaskReparenting="true" permission="android.permission.CONFIGURE_SIP" taskAffinity="" launchMode="2">
+<activity process=":sipStack" screenOrientation="1" excludeFromRecents="true" name="im.wecall.phone.sip.SipInCallActivity" theme="16973830" configChanges="128" allowTaskReparenting="true" permission="android.permission.CONFIGURE_SIP" taskAffinity="" launchMode="2">
+<activity name="com.savecall.app.wall.AppWallMainActivity" theme="16973837" windowSoftInputMode="3">
+<activity name="com.savecall.app.wall.AppInformationActivity" theme="16973837">
+<activity name="com.savecall.app.wall.SearchActivity" theme="16973837">
+<activity name="com.savecall.app.wall.DisplayScreenShotActivity" theme="16973834">
+<activity name="com.savecall.app.wall.AdWebViewActivity" theme="16973837">
+<activity name="com.savecall.app.wall.MoreTypeActivity">
+<activity name="com.savecall.app.wall.ListActivity" theme="16973837">
+<activity name="com.savecall.app.wall.RankingListActivity" theme="16973837">
+<activity name="mm.purchasesdk.iapservice.BillingLayoutActivity" theme="16973839" configChanges="160">
+<activity excludeFromRecents="true" name="safiap.framework.ui.UpdateHintActivity" theme="16973840" configChanges="128" launchMode="3">
+<activity screenOrientation="1" name="mail139.umcsdk.activity.AuthActivity">
+<activity name="MsgActivity">
+11
+<service name="com.savecall.gamehall.GameHallDownloadService">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service icon="2130837792" description="2131099916" name="com.savecall.service.Heartbeat" label="2131099872">
+<service icon="2130837792" description="2131099916" name="com.savecall.service.SaveCallService" label="2131099872">
+<service icon="2130837792" description="2131099655" name="com.savecall.service.ChatService" label="2131099655">
+<service process=":sipStack" name="com.csipsimple.service.SipService" exported="true" permission="android.permission.CONFIGURE_SIP">
+<service name="com.savecall.app.wall.DownloadService">
+<service name="com.savecall.app.wall.AppWallService">
+<service name="mm.purchasesdk.iapservice.PurchaseService" exported="true">
+<service process="safiap.framework" name="safiap.framework.SafFrameworkManager" exported="true">
+<service process=":remote" name="safiap.framework.logreport.monitor.handler.LogreportHandler">
+11
+<receiver name="com.savecall.push.PushReceiver">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="com.csipsimple.utils.TimerWrapper">
+<receiver name="com.savecall.service.BootReceiver" label="2131099872">
+<receiver name="com.savecall.wx.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver name="com.savecall.service.SignReceiver">
+<receiver process=":sipStack" name="com.csipsimple.service.DeviceStateReceiver">
+<receiver process=":sipStack" name="com.csipsimple.service.DeviceStateReceiver" permission="android.permission.CONFIGURE_SIP">
+<receiver name="com.csipsimple.service.HeadsetButtonReceiver">
+<receiver process=":sipStack" name="com.csipsimple.plugins.telephony.CallHandler" permission="android.permission.PROCESS_OUTGOING_CALLS">
+<receiver name="safiap.framework.CheckUpdateReceiver">
+2
+<provider authorities="com.csipsimple.wecall.prefs" name="com.csipsimple.service.PreferenceProvider" permission="android.permission.CONFIGURE_SIP">
+<provider process=":sipStack" authorities="com.csipsimple.wecall.db" name="com.csipsimple.db.DBProvider" permission="android.permission.CONFIGURE_SIP">
+Owner: CN=SaveCall, OU=SaveCall.cn, O=SaveCall Copyright, L=ShenZhen, ST=GuangDong, C=China
+Issuer: CN=SaveCall, OU=SaveCall.cn, O=SaveCall Copyright, L=ShenZhen, ST=GuangDong, C=China
+Serial number: 4e804791
+Valid from: Mon Sep 26 17:36:17 CST 2011 until: Sun Jan 27 17:36:17 CST 3011
+Certificate fingerprints: 
+	MD5:CD:DF:99:D1:1A:9A:28:D2:CC:65:C7:51:D5:AD:8E:9E
+	SHA1: E4:87:32:42:1E:BF:82:6C:92:C5:4E:FB:E2:9A:EA:50:1B:12:D4:EC
+	SHA256: 08:3A:28:18:5C:9E:C2:5B:AB:0B:E2:5B:55:38:72:22:60:EB:FE:D8:BB:11:2B:34:A9:8A:43:70:4D:A8:B6:52
+	Signature algorithm name: SHA1withRSA
+	version: 3

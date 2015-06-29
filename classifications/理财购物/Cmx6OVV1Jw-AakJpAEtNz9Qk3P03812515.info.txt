@@ -1,0 +1,79 @@
+com.zhangdan.safebox
+11
+2.5.0
+8
+8
+19
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.READ_PHONE_STATE
+51zhangdan.permission.ACCESS_SAFEBOX_DATA
+android.permission.READ_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+35
+<activity screenOrientation="1" name=".activities.SplashActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.MainActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activities.card.CardListActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.card.detail.CardDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.card.AddCreditCardActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activities.card.AddCardTypeActivity" configChanges="160">
+<activity name=".activities.settings.SettingActivity" configChanges="176">
+<activity screenOrientation="1" name=".activities.settings.PwdActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.settings.FeedBackActivity" configChanges="176">
+<activity screenOrientation="1" name=".activities.settings.AboutUsActivity" configChanges="176">
+<activity screenOrientation="1" name=".activities.settings.BackupActivity" configChanges="176">
+<activity screenOrientation="1" name=".activities.tools.CropNewImageActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.tools.CameraActivity" theme="16973834" configChanges="160">
+<activity name=".activities.map.BankMapActivity" configChanges="176">
+<activity screenOrientation="1" name=".activities.map.BankInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.map.BankFilterActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.card.BankChooseListActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.dial.DialBankListActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.dial.ServiceSettingActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activities.dial.BankSmsServiceActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.dial.BankTelServiceActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.map.baidu.BaiduBankMapActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activities.account.LoginActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.account.LoginTypeActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.account.RegisterActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.smsbills.TestBillActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.smsbills.ScanActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.smsbills.QuickAccountActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.smsbills.BillRemarkActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.smsbills.BillActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.smsbills.TradingRecordActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.ebank.EBankMainActivity" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="io.card.payment.CardIOActivity" configChanges="160">
+<activity screenOrientation="1" name="io.card.payment.DataEntryActivity">
+3
+<service name=".service.LoadBankDataService">
+<service enabled="true" name="com.zhangdan.safebox.service.ScanService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+1
+<receiver name=".service.AlarmReceiver">
+1
+<provider authorities="com.zhangdan.safebox" name=".data.db.DataProvider" permission="51zhangdan.permission.ACCESS_SAFEBOX_DATA">
+Owner: CN=chenjun, OU=51zhangdan, O=51zhangdan, L=hangzhou, ST=zhejiang, C=ZH
+Issuer: CN=chenjun, OU=51zhangdan, O=51zhangdan, L=hangzhou, ST=zhejiang, C=ZH
+Serial number: 4ff26b2a
+Valid from: Tue Jul 03 11:46:50 CST 2012 until: Wed Apr 06 11:46:50 CST 2067
+Certificate fingerprints: 
+	MD5:65:C6:0E:23:68:BD:B1:74:84:C8:F8:5A:BE:65:72:FA
+	SHA1: A0:A9:41:64:4D:E1:25:48:4F:7E:E9:92:F3:70:B7:93:45:29:7C:71
+	SHA256: 9B:A8:E4:2B:7F:3C:56:EE:4B:4D:E1:13:18:0F:18:53:F5:08:10:EC:20:B7:9A:E7:F2:C5:8D:6D:C2:C1:98:F6
+	Signature algorithm name: SHA1withRSA
+	version: 3

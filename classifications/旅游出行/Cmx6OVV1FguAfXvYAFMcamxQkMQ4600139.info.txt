@@ -1,0 +1,107 @@
+com.yipiao
+198
+2.5.3
+8
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+70
+<activity screenOrientation="1" name="com.yipiao.activity.LaunchActivity" label="2131361792">
+<activity screenOrientation="1" name="com.yipiao.activity.MainTab" configChanges="32" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.yipiao.activity.CityListActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.yipiao.activity.SeatListActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.QuerySeatListActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.MonitorSeatListActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.MonitorSetActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.MonitorListActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.NoteFilterActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.NoteSimpleActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.QueryActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.UserSetActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yipiao.activity.BookActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.PassengerEditActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.PassengerSetActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.PassengerHistoryActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.PassengerMultipleSelectActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.OrderQueryActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.MoreActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.AppRecommentActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.UserInfoActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.LogActivity">
+<activity name="cn.suanya.common.ui.WEBActivity" configChanges="224" exported="false">
+<activity screenOrientation="1" name="com.yipiao.activity.StationActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.AdvancedQueryActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.RegisterActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.NoteQueryActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.OrderHistoryActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.PayListActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.PayCMBActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.PayABCActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.PayABC2Activity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.PayCCBActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.PayZFBWEBActivity" windowSoftInputMode="3">
+<activity screenOrientation="4" name="com.yipiao.activity.PayWEBActivity" configChanges="160">
+<activity screenOrientation="1" name="com.yipiao.activity.PayCCB2Activity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.PayCCBWEBActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.SuggestActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.QueryResignActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.ResignSeatListActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.ResignBookActivity" windowSoftInputMode="3">
+<activity name="com.yipiao.wxapi.WXEntryActivity" theme="16973839" exported="true" label="2131361792">
+<activity screenOrientation="1" name="com.example.pathview.MainActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.example.pathview.ResultActivity" label="2131361803" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.example.pathview.ResultByTrainActivity" label="2131361803" windowSoftInputMode="3">
+<activity name="com.example.pathview.AlarmDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="com.example.pathview.OfflineQueryResultActivity">
+<activity screenOrientation="1" name="com.yipiao.activity.OrderActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.OtherOrderActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.DamaActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.AdvancedSettingActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.MonitorPassengerSetActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.CommonWebActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.BookMonitorActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.DownDetailActivity" theme="2131427454" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.DownloadCancelActivity" theme="2131427454" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.ChangePwdActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.My12306Activity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.BookQianPiao2Activity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.DatePickActivity" label="DatePickActivity ">
+<activity screenOrientation="1" name="com.yipiao.activity.DateTimePickActivity" label="DateTimePickActivity ">
+<activity screenOrientation="1" name="com.yipiao.activity.TrainDetailActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.HalfwayTicketActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.OrderHistoryDetailActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.SeatTypeSelectActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.DatePickListActivity_2" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.DateTimePickListActivity_2" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.MoreMoreActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.yipiao.activity.SeatListMultipleAcitivity" windowSoftInputMode="3">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+7
+<service name="com.yipiao.service.LogOrderService">
+<service name="com.yipiao.service.LaunchService">
+<service name="com.yipiao.service.MonitorService1">
+<service name="com.yipiao.service.MonitorService2">
+<service name="com.yipiao.service.DownloadService">
+<service name="com.yipiao.service.AdvancedQueryService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+1
+<receiver process=":remote" enabled="true" name="com.example.pathview.StationAlarmReceiver">
+0
+Owner: CN=li, OU=aaa, O=bbb, L=ccc, ST=ddd, C=cn
+Issuer: CN=li, OU=aaa, O=bbb, L=ccc, ST=ddd, C=cn
+Serial number: 4fcec16b
+Valid from: Wed Jun 06 10:33:15 CST 2012 until: Thu Mar 10 10:33:15 CST 2067
+Certificate fingerprints: 
+	MD5:27:BE:C3:0E:F9:F2:14:A1:91:8D:4C:C1:79:EE:3E:1A
+	SHA1: 31:72:F3:C5:F5:16:4E:8E:BE:00:2F:30:47:32:75:DD:C9:DE:F1:85
+	SHA256: 44:95:B2:6B:7D:EF:63:53:59:C8:53:49:3F:77:ED:18:DF:A0:30:98:6E:A2:29:0F:37:23:46:86:59:80:89:80
+	Signature algorithm name: SHA1withRSA
+	version: 3

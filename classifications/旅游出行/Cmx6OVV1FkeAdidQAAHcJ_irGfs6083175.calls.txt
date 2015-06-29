@@ -1,0 +1,3 @@
+android.util.Log: int i(java.lang.String,java.lang.String)
+android.telephony.TelephonyManager: java.lang.String getSubscriberId()
+android.telephony.TelephonyManager: java.lang.String getDeviceId()

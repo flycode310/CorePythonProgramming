@@ -1,0 +1,60 @@
+com.youloft.calendar
+15
+3.2.1
+5
+17
+9
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+15
+<activity screenOrientation="1" name="com.youloft.calendar.ui.SplashActivity" theme="2131165200" noHistory="true">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.HomeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.AgendarEditActivity">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.AgendarInfoActivity" parentActivityName="com.youloft.calendar.ui.HomeActivity">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.AgendarSearchActivity" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.DailyHoroscopeActivity">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.youloft.calendar.ui.WebActivity">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.youloft.calendar.ui.NewsOrHistoryInfoActivity">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.SelectGoodActivity">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.GlobalConfigActivity" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.MessageCenterActivity" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.LoginActivity" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.MonthWidgetConfigActivity" theme="2131165201" exported="false" windowSoftInputMode="48" launchMode="3">
+<activity screenOrientation="1" name="com.youloft.calendar.ui.DestinyInfoActivity" exported="false" launchMode="2">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131165225" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+10
+<service name="com.youloft.calendar.service.DestinyInfoRetrieveService">
+<service name="com.youloft.calendar.service.TickService">
+<service name="com.youloft.calendar.service.AgendarService">
+<service name="com.youloft.calendar.service.NotifyService" exported="false">
+<service name="com.youloft.calendar.service.SyncService" exported="false">
+<service name="com.youloft.calendar.service.UpdateDataService" exported="false">
+<service process=":alarm" name="com.youloft.calendar.service.AlarmService">
+<service process=":alarm" name="com.youloft.calendar.service.LoopTimeService">
+<service name="com.youloft.calendar.service.AgendarUpdateService" exported="false">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+6
+<receiver name="com.youloft.calendar.reciever.PackageUpdateReciever">
+<receiver name="com.youloft.calendar.reciever.AlarmReciever" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver name="com.youloft.calendar.appwidgets.SingleDateAppWidgets" label="2131361849">
+<receiver name="com.youloft.calendar.appwidgets.MiddleWidget" label="2131361887">
+<receiver name="com.youloft.calendar.appwidgets.MonthAppWidget" label="2131361892">
+<receiver name="com.youloft.calendar.appwidgets.LargeAppWidget">
+0
+Owner: CN=owen, OU=owenlin, O=owenlin, L=chongqing, ST=chongqing, C=cn
+Issuer: CN=owen, OU=owenlin, O=owenlin, L=chongqing, ST=chongqing, C=cn
+Serial number: 4dc7facb
+Valid from: Mon May 09 22:31:39 CST 2011 until: Tue Apr 26 22:31:39 CST 2061
+Certificate fingerprints: 
+	MD5:8F:1F:F0:02:6A:5D:82:FF:E3:E7:03:A3:00:CA:88:0F
+	SHA1: DA:13:75:A1:62:E4:39:3C:73:2E:E8:A3:1D:96:3D:29:67:40:F1:00
+	SHA256: 1C:5B:51:10:79:9E:99:1B:AB:EB:0B:FF:61:AD:C8:C9:82:51:30:98:53:4A:D1:A0:CC:38:D1:F7:58:54:D5:45
+	Signature algorithm name: SHA1withRSA
+	version: 3

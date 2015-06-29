@@ -1,0 +1,96 @@
+com.sz.weizy
+12
+2.1.0
+15
+19
+20
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+getui.permission.GetuiService.com.sz.weizy
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+44
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MainActivity" theme="2131296266" uiOptions="1" launchMode="2">
+<activity screenOrientation="1" name="com.sz.weizy.activity.SlidingMainActivity" theme="2131296266" uiOptions="1" launchMode="2">
+<activity screenOrientation="1" name="com.sz.weizy.activity.AskZoneActivity" theme="2131296265" uiOptions="1" launchMode="2">
+<activity screenOrientation="1" name="com.sz.weizy.activity.WelcomeActivity" uiOptions="1" launchMode="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.SplashActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.TopicDetailActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.TopicEditActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.TopicPhotoActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.TopicPhotoListActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.PhotoDetailActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyAccountActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.SystemSettingActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.FixPwdActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.LoginActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.ForgetPwdActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.ForgetPwdNextActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.RegistActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.RegisterDetailActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.FeedbackActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.DoctorDetailActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.AskDoctorActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.wxapi.WXEntryActivity" theme="2131296265" exported="true" windowSoftInputMode="16" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" theme="2131296265" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MoreTopicActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyAttentionActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.CustomEditActivity" theme="2131296265" uiOptions="1" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.sz.weizy.activity.GradeActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyTipsActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyPriMsgActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyRemindActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyInvitionsActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyPostActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyReplyActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyDocActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyAskActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.MyAttenDocActivity" theme="2131296265" uiOptions="1">
+<activity screenOrientation="1" name="com.sz.weizy.activity.InnerWebView" theme="2131296265" uiOptions="1" launchMode="2">
+<activity screenOrientation="1" name="com.sz.weizy.activity.AboutActivity" theme="2131296265" uiOptions="1" launchMode="2">
+<activity screenOrientation="1" name="com.sz.weizy.activity.CityDoctorActivity" theme="2131296265" uiOptions="1" launchMode="2">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+6
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.easemob.chat.EMChatService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+5
+<receiver name="com.sz.weizy.reciver.GetuiPushReciver" exported="false">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+1
+<provider process=":pushservice" authorities="downloads.com.sz.weizy" name="com.igexin.download.DownloadProvider">
+Owner: CN=weizy, OU=weizy, O=weizy, L=sz, ST=gd, C=86
+Issuer: CN=weizy, OU=weizy, O=weizy, L=sz, ST=gd, C=86
+Serial number: 31038e3
+Valid from: Tue Mar 17 14:34:58 CST 2015 until: Wed Dec 18 14:34:58 CST 2069
+Certificate fingerprints: 
+	MD5:70:8E:A5:22:F3:4F:22:0A:DA:BE:CF:9C:B3:25:08:69
+	SHA1: 65:4D:5C:AC:C9:85:83:8A:15:4E:BA:CF:F6:80:23:0B:9E:0C:53:09
+	SHA256: 39:E5:ED:A7:40:2B:3B:39:4E:3B:99:4C:79:86:DE:7E:66:F4:1A:97:6E:CD:63:16:E6:4F:06:6D:9B:84:78:93
+	Signature algorithm name: SHA256withRSA
+	version: 3

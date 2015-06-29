@@ -1,0 +1,33 @@
+com.FeifeiSchedule.activity
+1
+1.0
+8
+-1
+6
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity screenOrientation="1" name=".FeifeiScheduleActivity" label="2131034112">
+<activity screenOrientation="1" name="AddScheduleActivity" label="2131034112">
+<activity screenOrientation="1" name="AddClassActivity" label="2131034112">
+<activity screenOrientation="1" name="AlarmActivity" label="2131034112">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+0
+2
+<receiver process=":remote" name=".MyBroadCast">
+<receiver name="net.youmi.android.YoumiReceiver">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4f38b242
+Valid from: Mon Feb 13 14:48:34 CST 2012 until: Wed Feb 05 14:48:34 CST 2042
+Certificate fingerprints: 
+	MD5:4B:2F:88:0A:74:2A:28:5A:F8:A7:0C:92:60:BD:7E:F2
+	SHA1: 21:24:66:88:E1:0D:A6:30:1A:B6:45:E9:DC:B6:0B:5B:1D:0D:01:B5
+	SHA256: 8C:A0:E2:C2:D3:67:C1:77:36:D1:AA:4C:BE:D2:F5:FF:B7:F0:46:EA:35:EB:40:86:40:73:34:2B:F2:1D:68:5D
+	Signature algorithm name: SHA1withRSA
+	version: 3

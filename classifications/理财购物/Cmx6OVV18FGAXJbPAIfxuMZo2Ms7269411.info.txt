@@ -1,0 +1,199 @@
+net.mobileprince.cc
+140
+3.46
+8
+8
+20
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.DISABLE_KEYGUARD
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+140
+<activity screenOrientation="1" name=".CCM_Screen" launchMode="2">
+<activity screenOrientation="1" name=".CCM_new" launchMode="2">
+<activity screenOrientation="1" name=".CCM_SMS">
+<activity screenOrientation="1" name=".CCM_SYSPSWD" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".CCM_SYSPSWD1" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".CCM_StatDetail">
+<activity screenOrientation="1" name=".CCM_AccountList">
+<activity screenOrientation="1" name=".CCM_KakaInfo">
+<activity screenOrientation="1" name=".CCM_FindPSWDActivity">
+<activity screenOrientation="1" name=".CCM_About">
+<activity screenOrientation="1" name=".CCM_Preference">
+<activity screenOrientation="1" name=".CCM_Preference_SMS">
+<activity screenOrientation="1" name=".CCM_Preference_Backup">
+<activity screenOrientation="1" name=".CCM_RepaymentActivity">
+<activity screenOrientation="1" name=".CCM_AccountDetailGroup">
+<activity screenOrientation="1" name=".CCM_AccountDetail">
+<activity screenOrientation="1" name=".CCM_AccountTransferSelect" theme="2131427329">
+<activity screenOrientation="1" name=".CCM_WeiBo">
+<activity screenOrientation="1" name=".CCM_AccountSetActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".CCM_DateTimeSelect" theme="2131427329">
+<activity screenOrientation="1" name=".CCM_RepaymentAlarm" theme="16973835">
+<activity screenOrientation="1" name=".CCM_Agreement" theme="16973835">
+<activity screenOrientation="1" name=".CCM_BlogShareDialog" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".CCM_TradeSetActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".CCM_UserCreditCardSetActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".CCM_RepaymentDateActivity" theme="16973835">
+<activity screenOrientation="1" name=".CCM_UserAccountSetActivity" theme="16973835" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".CCM_BankSet" theme="16973835">
+<activity screenOrientation="1" name=".CCM_TradeActivity">
+<activity screenOrientation="1" name=".CCM_TradeListActivity">
+<activity screenOrientation="1" name=".CCM_RepaymentListActivity">
+<activity screenOrientation="1" name=".CCM_RepaymentListActivity2">
+<activity screenOrientation="1" name=".CCM_FootprintMonthActivity" theme="16973835">
+<activity screenOrientation="1" name=".CCM_BillDetail">
+<activity screenOrientation="1" name=".CCM_RepaymentDetailModify">
+<activity screenOrientation="1" name=".CCM_UserAccountDetail">
+<activity screenOrientation="1" name=".CCM_UserCreditCardDetail">
+<activity screenOrientation="1" name=".CCM_TradeDetail">
+<activity screenOrientation="1" name=".CCM_SMSDetail">
+<activity screenOrientation="1" name=".CCM_TradeTypeSet">
+<activity screenOrientation="1" name=".CCM_UserRegisterActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".CCM_UserDetailActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".CCM_UserUpdatePwdActivity">
+<activity screenOrientation="1" name=".CCM_UserFindPwdActivity">
+<activity screenOrientation="1" name=".CCM_UserLoginActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".CCM_UserCitysListActivity">
+<activity screenOrientation="1" name=".CCM_SMS_Resolve">
+<activity screenOrientation="1" name=".CCM_Share_Comment_Activity">
+<activity screenOrientation="1" name=".CCM_Share_Comment_Insert_Activity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".CCM_Share_Activity">
+<activity screenOrientation="1" name=".CCM_User_FeedBack" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".CCM_User_FeedBack_List">
+<activity screenOrientation="1" name=".CCM_User_Feedback_Detail">
+<activity screenOrientation="1" name=".CCM_Share_User_Info_Activity" theme="16973835">
+<activity screenOrientation="1" name=".CCM_Share_User_Face_Activity">
+<activity screenOrientation="1" name=".CCM_Share_Topic_Activity">
+<activity screenOrientation="1" name=".CCM_Trade_Detail_Activity">
+<activity screenOrientation="1" name=".CCM_Trade_Detail_In_Activity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".CCM_Borrow_Activity">
+<activity screenOrientation="1" name=".CCM_Borrow_Add_Activity">
+<activity screenOrientation="1" name=".CCM_Borrow_Detail_Activity">
+<activity screenOrientation="1" name=".CCM_EntryActivity">
+<activity screenOrientation="1" name=".CCM_Bank_CurrentDepositActivity">
+<activity screenOrientation="1" name=".CCM_Bank_NoticeDepositsActivity">
+<activity screenOrientation="1" name=".CCM_Bank_WholeWholeActivity">
+<activity screenOrientation="1" name=".CCM_Bank_ScatterWholeActivity">
+<activity screenOrientation="1" name=".CCM_Bank_WholeScatterActivity">
+<activity screenOrientation="1" name=".CCM_Bank_RPDepositActivity">
+<activity screenOrientation="1" name=".CCM_Bank_FixedCurrentDepositAvtivity">
+<activity screenOrientation="1" name=".CCM_Bank_OptimumCombinationActivity">
+<activity screenOrientation="1" name=".CCM_Bank_PersonalLoan">
+<activity screenOrientation="1" name=".CCM_Stock_Activity">
+<activity screenOrientation="1" name=".CCM_Stock_DetailActivity">
+<activity screenOrientation="1" name=".CCM_Stock_MaiMaiActivity">
+<activity screenOrientation="1" name=".CCM_Trade_Image_Activity">
+<activity screenOrientation="1" name=".CCM_Trade_Image_Show_Activity">
+<activity screenOrientation="1" name=".CCM_Taobao" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".CCM_Taobao_Recharge">
+<activity screenOrientation="1" name=".CCM_Taobao_Lottery">
+<activity screenOrientation="1" name=".CCM_Taobao_List">
+<activity screenOrientation="1" name=".CCM_Taobao_History">
+<activity screenOrientation="1" name=".CCM_Taobao_Detail_WebView">
+<activity screenOrientation="1" name=".CCM_Taobao_Recharge_WebView">
+<activity screenOrientation="1" name=".CCM_Preference_TaoBao_Login">
+<activity screenOrientation="1" name=".CCM_Taobao_Lottery_WebView">
+<activity screenOrientation="1" name=".CCM_Taobao_Lottery_3DRandom" theme="16973835">
+<activity screenOrientation="1" name=".CCM_Taobao_Lottery_SSQRandom" theme="16973835">
+<activity screenOrientation="1" name=".CCM_DialogDragListActivity" theme="16973835">
+<activity screenOrientation="1" name=".CCM_Preference_Notify">
+<activity screenOrientation="1" name=".CCM_Borrow_Update_Activity">
+<activity screenOrientation="1" name=".CCM_UserBank">
+<activity screenOrientation="1" name=".CCM_UserBankSetActivity">
+<activity screenOrientation="1" name=".CCM_SMSType">
+<activity screenOrientation="1" name=".CCM_ReimburseList">
+<activity screenOrientation="1" name=".CCM_ReimburseDetail">
+<activity screenOrientation="1" name=".CCM_WebUrlActivity">
+<activity screenOrientation="1" name=".CCM_CreditCard_Select">
+<activity screenOrientation="1" name=".CCM_Fenqi_Activity">
+<activity screenOrientation="1" name=".CCM_Fenqi_Handle_Activity">
+<activity screenOrientation="1" name=".CCM_FenqiDetail_Activity">
+<activity screenOrientation="1" name=".CCM_AccountManagerActivity">
+<activity screenOrientation="1" name=".CCM_FixDetailActivity">
+<activity screenOrientation="1" name=".CCM_FixListActivity">
+<activity screenOrientation="1" name=".CCM_FixActivity">
+<activity screenOrientation="1" name=".CCM_Taobao_List_BigPicture">
+<activity screenOrientation="1" name=".CCM_Taobao_List_DoublePic">
+<activity screenOrientation="1" name=".CCM_QuickTrade_Activity">
+<activity screenOrientation="1" name=".CCM_FirstPage_AutoDef_Activity">
+<activity screenOrientation="1" name=".CCM_AccountingCompleted">
+<activity screenOrientation="1" name=".CCM_StatShow">
+<activity screenOrientation="1" name=".CCM_AccountHide">
+<activity screenOrientation="1" name=".CCM_TradeList_Filter">
+<activity screenOrientation="1" name=".CCM_StockList">
+<activity screenOrientation="1" name=".CCM_StockList_Detail">
+<activity screenOrientation="1" name=".CCM_SMSPopUp" theme="16973839">
+<activity screenOrientation="1" name=".CCM_FestivalTradeStat">
+<activity screenOrientation="1" name=".CCM_SuspectedTransfer">
+<activity screenOrientation="1" name=".CCM_Help">
+<activity screenOrientation="1" name=".CCM_HelpDetail">
+<activity screenOrientation="1" name=".WriteFormActivity" configChanges="224" windowSoftInputMode="32">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity screenOrientation="1" name=".MyConversationActivity" theme="16973833">
+<activity screenOrientation="1" name=".MyContactActivity" theme="16973833">
+<activity screenOrientation="1" name=".LetterActivity" theme="16973833" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.kakalicai.youhui.YH_MainActivity">
+<activity screenOrientation="1" name="com.kakalicai.youhui.YH_CityChooseActivity">
+<activity screenOrientation="1" name="com.kakalicai.youhui.Yh_BrandsCouponActivity">
+<activity screenOrientation="1" name="com.kakalicai.youhui.YH_CouponDetialActivity">
+<activity screenOrientation="1" name="com.kakalicai.youhui.YH_ShopListActivity">
+<activity screenOrientation="1" name="com.kakalicai.youhui.YH_SeachCouponActivity">
+<activity screenOrientation="1" name=".CCM_BillReminder" launchMode="2">
+<activity screenOrientation="1" name=".CCM_FinQiCalculator">
+<activity screenOrientation="1" name=".CCM_XunHuanLiXi">
+<activity screenOrientation="1" name=".CCM_ZhiNaJin_Calculate">
+<activity screenOrientation="1" name=".CCM_lottery_Activity">
+<activity screenOrientation="1" name=".CCM_DataStatistics">
+<activity screenOrientation="1" name=".CCM_TaoBao_Go" theme="16973833">
+<activity screenOrientation="1" name=".SucceedActivity" theme="16973833">
+<activity screenOrientation="1" name=".TianBiaoActivity" theme="16973833">
+5
+<service process=":sms" name=".broadcast.CCM_SMS_Service">
+<service name=".broadcast.AutoSubmitService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service name="com.qq.e.ads.AdService" exported="false">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+13
+<receiver name=".broadcast.CCM_FixReceiver">
+<receiver name=".broadcast.CCM_ADUUReceiver">
+<receiver name=".broadcast.CCM_ADFHReceiver">
+<receiver name=".broadcast.CCM_AlarmReceiver">
+<receiver name=".broadcast.CCM_BackupDoAlarmReceiver">
+<receiver name=".broadcast.CCM_UpdateDoAlarmReceiver">
+<receiver name=".broadcast.CCM_DoAlarmReceiver">
+<receiver name=".broadcast.CCM_Appwidget">
+<receiver name=".broadcast.CCM_BOOT">
+<receiver name=".broadcast.CCM_Package">
+<receiver name=".broadcast.BaiduPushReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+1
+<provider authorities="net.mobileprince.cc.provider" name=".provider.CCM_KKContentProvider">
+Owner: CN=Bin Zhai, OU=Kebi.Mobi, C=CN
+Issuer: CN=Bin Zhai, OU=Kebi.Mobi, C=CN
+Serial number: 4d2551e3
+Valid from: Thu Jan 06 13:23:47 CST 2011 until: Mon Dec 31 13:23:47 CST 2035
+Certificate fingerprints: 
+	MD5:60:1F:98:69:92:1C:57:C1:FF:0A:0D:1C:38:20:02:9E
+	SHA1: 40:BE:3F:2B:68:82:B2:F7:4F:97:DD:D8:05:BF:9D:A7:0B:6F:0E:8A
+	SHA256: 0E:28:6A:C7:F9:CB:E0:03:1A:33:6D:04:3C:50:11:C1:67:99:7B:D5:70:8F:8F:86:CB:FF:75:42:B6:63:FD:60
+	Signature algorithm name: SHA1withRSA
+	version: 3

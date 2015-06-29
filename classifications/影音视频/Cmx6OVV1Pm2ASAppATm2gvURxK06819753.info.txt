@@ -1,0 +1,118 @@
+com.qihoo.video
+47
+3.2.2
+8
+17
+32
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.htc.launcher.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CLEAR_APP_CACHE
+com.huawei.launcher3.permission.READ_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+com.qihoo360.launcher.permission.WRITE_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+com.android.launcher.permission.READ_PHONE_STATE
+com.huaqin.launcherEx.permission.READ_SETTINGS
+android.permission.BROADCAST_STICKY
+android.permission.GET_PACKAGE_SIZE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+com.htc.launcher.permission.READ_SETTINGS
+com.huaqin.launcherEx.permission.WRITE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.INTERNET
+com.qihoo360.launcher.permission.READ_SETTINGS
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+57
+<activity screenOrientation="1" name="SplashActivity" theme="16973833" configChanges="160" label="2131165288">
+<activity screenOrientation="1" name="com.qihoo.video.FavoritesActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.ReservationActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.SubscribeChannelActivity" theme="16973830" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.SubscribeSelectActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.MoviePayDetailActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.PayFeedbackActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.qihoo.video.SubscriptionActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.AlbumDetailActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.VideoWebViewActivity" configChanges="160" label="2131165339" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.qihoo.video.WebViewActivity" configChanges="160" label="2131165339" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.qihoo.video.AboutActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.DeclareActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.qihoo.video.VideoWebSiteActivity" theme="2131230758" configChanges="9620" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.FeedbackActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.qihoo.video.HistoryActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="SpecialActivity" theme="2131230758" configChanges="160" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.ChannelTvActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.LiveListActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="SearchActivity" theme="2131230758" configChanges="160" exported="true" label="2131165339" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.qihoo.video.FunctionSettingsActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="com.qihoo.video.QihuVideoMainActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="OffLineActivity" theme="2131230758" configChanges="160" exported="true" label="2131165339" launchMode="1">
+<activity screenOrientation="1" name="TVOffLineSelectorActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="VarityShowOffLineSelectorActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="VideoDetailPageActivity" theme="2131230758" configChanges="1184" exported="true" label="2131165339">
+<activity screenOrientation="1" name="LiveDetailPageActivity" configChanges="1200" exported="false" label="2131165339">
+<activity screenOrientation="1" name="ShortVideoDetailActivity" configChanges="1200" exported="false" label="2131165339" launchMode="1">
+<activity screenOrientation="1" name="DownloadedSerieActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="RecommendAppActivity" theme="2131230758" exported="false" label="apps" launchMode="2">
+<activity screenOrientation="1" name="WebSearchDetailActivity" theme="2131230758" exported="false" label="2131165339">
+<activity screenOrientation="1" name="MiniHandlerActivity" exported="true" label="2131165339">
+<activity screenOrientation="1" name="MiniHandlerPlayActivity" theme="2131230760" configChanges="160" exported="true" label="2131165339">
+<activity screenOrientation="6" name="QihooPlayerActivity" configChanges="1200" exported="true" label="2131165288" launchMode="2">
+<activity screenOrientation="1" name="MiniOffLineActivity" theme="2131230758" configChanges="160" exported="true" label="2131165339" launchMode="1">
+<activity screenOrientation="1" name="MiniHistoryActivity" theme="2131230758" configChanges="160" exported="true" label="2131165339">
+<activity screenOrientation="6" name="com.letv.sdk.qihu.video.play.impl.BasePlayActivity" theme="16973834" configChanges="1200" exported="false">
+<activity screenOrientation="1" name="com.letv.sdk.qihu.video.play.impl.LetvWebViewActivity" exported="false">
+<activity screenOrientation="1" name="com.letv.ads.view.LetvWebViewActivity" theme="16973833" configChanges="160" exported="false">
+<activity screenOrientation="1" name="YunpanActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="YunPanGroupFileListActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="YunpanAddGroupActivity" theme="2131230758" exported="false" label="2131165339" windowSoftInputMode="4">
+<activity screenOrientation="1" name="YunpanLoginActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="YunpanRegActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="YunpanWebViewActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="YunpanFileActivity" theme="2131230758" configChanges="160" exported="false" label="2131165339">
+<activity screenOrientation="1" name="RankActivity" theme="2131230758" configChanges="160" label="2131165339">
+<activity screenOrientation="1" name="GameCooperationActivity" theme="2131230758" configChanges="160" label="2131165339">
+<activity screenOrientation="1" name="AlbumActivity" theme="2131230758" configChanges="160" label="2131165339">
+<activity screenOrientation="0" name="ImageBrowserActivity" theme="16973831" exported="false">
+<activity screenOrientation="1" name="XianKanActivity" theme="2131230758" exported="false">
+<activity screenOrientation="1" name="com.qihoo.video.LogInActivity" configChanges="1184" label="2131165288">
+<activity screenOrientation="1" name="com.qihoo.video.CustomSelectAccountsActivity" theme="2131230755" configChanges="1184">
+<activity name="com.qihoo.video.CustomAddAccountsActivity" theme="2131230755" configChanges="1184">
+<activity name="com.qihoo.video.CustomAddAccountsForSsoActivity" theme="2131230755" configChanges="1184">
+<activity name="com.qihoo360.accounts.ui.a.WebViewActivity" theme="2131230755" configChanges="1184">
+<activity screenOrientation="1" name="com.alipay.sdk.app.H5PayActivity">
+6
+<service name="com.qihoo.video.services.PushVideoService">
+<service name="com.qihoo.video.services.LogRecorderService">
+<service name=".services.DownloadService">
+<service enabled="true" name=".services.MagicPocketService" exported="false">
+<service name="cn.u360.lightapp.download.DownloadService">
+<service process="com.qihoo360.accounts" name="com.qihoo360.accounts.sso.svc.AccountService" exported="true">
+2
+<receiver name=".broadcastreceiver.TimerReceiver">
+<receiver name=".broadcastreceiver.MagicPocketStartReceiver">
+1
+<provider authorities="com.letv.datastatistics.db.StatisContentProvider.qihu" name="com.letv.datastatistics.db.StatisContentProvider">
+Owner: CN=360Video, OU=360Video, O=Qihoo, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=360Video, OU=360Video, O=Qihoo, L=Beijing, ST=Beijing, C=CN
+Serial number: 63d918d2
+Valid from: Wed Sep 04 12:21:54 CST 2013 until: Tue Jan 05 12:21:54 CST 3013
+Certificate fingerprints: 
+	MD5:87:29:4A:99:DC:FE:D1:F5:A0:FB:21:E1:4D:44:3B:E8
+	SHA1: C9:D6:11:2C:1A:FF:7F:16:A8:3F:46:D0:06:EF:95:82:16:B5:AB:36
+	SHA256: 9A:9A:26:82:2B:64:A5:2B:C1:73:65:29:84:7C:A4:64:F9:A7:24:EA:7A:36:9C:DB:22:7A:A6:90:BD:CA:DD:DB
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,67 @@
+com.easaa.e201209271136315920
+7
+7.0
+4
+-1
+17
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+26
+<activity screenOrientation="1" name=".WelcomeActivity" theme="16973833" label="2131230720">
+<activity screenOrientation="1" name=".TabHostActivity" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.more.More" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.more.LeavaMeassage" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.more.Login" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.more.Messages" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.more.QuickLeaveMeassage" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.more.Registration" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.more.Service" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.WeiboShare.ShareListActivity" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.WeiboShare.ShareWeb" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".MainActivity" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.content.ListArt_Contents" theme="16973833" label="2131230720" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.easaa.content.ContentArt_Contents" theme="16973833" label="2131230720" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".ImgContentGallery" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.content.ListTitle" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.content.ContentPicture" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.content.ListPicture" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.easaa.content.Web" theme="16973833" label="2131230720" windowSoftInputMode="32">
+<activity name="com.easaa.LBS.LBSMainActivity" theme="16973833" label="2131230720" windowSoftInputMode="34">
+<activity name="com.easaa.LBSSearch.LBSSearchActivity" theme="16973833" label="2131230720" windowSoftInputMode="34">
+<activity name="com.easaa.LBSPoiDetail.LBSPoiDetail" theme="16973833" label="2131230720" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.nd.dianjin.activity.OfferAppActivity" configChanges="160" launchMode="1">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="net.youmi.android.appoffers.YoumiOffersActivity" configChanges="176">
+<activity name="com.weibo.net.ShareActivity">
+2
+<service name="com.easaa.push.PushService">
+<service name="com.nd.dianjin.service.PackageChangedService">
+2
+<receiver name="com.easaa.LBS.Boot">
+<receiver name="net.youmi.android.YoumiReceiver">
+0
+Owner: CN=移商网, OU=www.easaa.com, O=移商网信息技术有公司, L=深圳, ST=广东, C=CN
+Issuer: CN=移商网, OU=www.easaa.com, O=移商网信息技术有公司, L=深圳, ST=广东, C=CN
+Serial number: 4fed7ad0
+Valid from: Fri Jun 29 17:52:16 CST 2012 until: Sat Apr 02 17:52:16 CST 2067
+Certificate fingerprints: 
+	MD5:86:D6:07:1A:5D:D5:D1:BB:5C:E7:0A:E5:28:B0:05:85
+	SHA1: FF:4F:0A:35:05:F8:F5:E5:CA:25:FA:39:56:17:41:34:8B:C3:2C:28
+	SHA256: FC:0F:D3:DF:11:58:E5:EE:13:CA:72:D7:B8:8D:78:BE:94:84:40:BA:3E:A2:E4:EB:CA:C8:79:D9:1E:39:A4:82
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,35 @@
+com.MIzhushou.COC
+2
+2.0
+8
+8
+11
+android.permission.READ_PHONE_STATE
+android.permission.INJECT_EVENTS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name="MainActivity" label="2131034112">
+<activity name="com.ZMAD.score.ScoreActivity">
+<activity name="com.ZMAD.score.LoadActivity">
+1
+<service name=".FloatWindowService">
+0
+0
+Owner: CN=lulu
+Issuer: CN=lulu
+Serial number: 1
+Valid from: Sat Dec 21 12:09:21 CST 2013 until: Mon Nov 27 12:09:21 CST 2113
+Certificate fingerprints: 
+	MD5:96:C1:5A:B6:79:7D:27:33:C9:19:F0:10:73:91:A1:BF
+	SHA1: 69:E0:49:75:36:D3:80:72:20:5A:D4:51:4C:E9:6B:0D:21:FE:71:92
+	SHA256: 76:37:75:D1:82:07:99:A1:CD:07:51:C4:9F:DF:3D:06:F5:1B:1B:99:A3:71:6B:45:E7:97:D8:0D:ED:C8:4B:E6
+	Signature algorithm name: SHA256withRSA
+	version: 3

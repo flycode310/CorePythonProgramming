@@ -1,0 +1,49 @@
+com.sookin.gnwczhenjiangjiudian
+2
+1.1
+8
+10
+14
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+12
+<activity name="com.sookin.gnwca.ui.MainActivity">
+<activity name="com.sookin.gnwca.ui.HostActivity">
+<activity name="com.sookin.gnwca.ui.HomePageActivity" launchMode="1">
+<activity name="com.sookin.gnwca.ui.FloorActivity" launchMode="1">
+<activity name="com.sookin.gnwca.ui.ContactUsActivity" launchMode="1">
+<activity name="com.sookin.gnwca.ui.Map">
+<activity name="com.sookin.gnwca.ui.MoreInfoActivity" launchMode="1">
+<activity name="com.sookin.gnwca.ui.AboutUsActivity" launchMode="1">
+<activity name="com.sookin.gnwca.ui.NotificationActivity" launchMode="1">
+<activity name="com.sookin.gnwca.ui.AppActivity" launchMode="1">
+<activity name="com.sookin.gnwca.ui.WebActivity" launchMode="1">
+<activity name="com.sookin.gnwca.ui.DownLoadActivity" launchMode="1">
+2
+<service process=":remote" enabled="true" name="com.baidu.location.f" permission="android.permission.BAIDU_LOCATION_SERVICE">
+<service name="com.sookin.gnwca.service.NotificationService">
+1
+<receiver name="com.sookin.gnwca.service.BootBroadcastReceiver">
+0
+Owner: CN=hzsookin, OU=www.sookin.com, O=www.sookin.com, L=wuhan, ST=hubei, C=cn
+Issuer: CN=hzsookin, OU=www.sookin.com, O=www.sookin.com, L=wuhan, ST=hubei, C=cn
+Serial number: 51932120
+Valid from: Wed May 15 13:46:08 CST 2013 until: Thu Feb 16 13:46:08 CST 2068
+Certificate fingerprints: 
+	MD5:4A:17:41:4F:84:69:D1:D3:5D:FA:86:51:23:60:B1:08
+	SHA1: 91:F3:6A:D0:C6:C5:79:28:36:1B:D7:53:BA:06:31:20:1E:B7:94:2E
+	SHA256: 17:54:40:FB:98:3D:85:34:98:5E:99:0A:4F:26:2A:B0:E7:C9:48:B4:A5:FE:15:6B:46:88:C8:31:E7:3B:B0:2A
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,52 @@
+com.google.android.inputmethod.pinyin
+241
+4.0.0.77661813-preload-armeabi-v7a
+14
+21
+14
+android.permission.USE_CREDENTIALS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_USER_DICTIONARY
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.READ_SYNC_SETTINGS
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.WRITE_USER_DICTIONARY
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+12
+<activity enabled="2131558401" name="com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity" label="2131231307" launchMode="2">
+<activity name="com.google.android.apps.inputmethod.pinyin.preference.SettingsActivity" label="2131230834">
+<activity name="com.google.android.apps.inputmethod.pinyin.preference.AccountActivity" label="2131231304">
+<activity name="com.google.android.apps.inputmethod.libs.framework.auth.AndroidAccountActivity" label="2131230950">
+<activity clearTaskOnLaunch="true" finishOnTaskLaunch="true" name="com.google.android.apps.inputmethod.pinyin.firstrun.PinyinFirstRunActivity" label="2131231307">
+<activity name="com.google.android.apps.inputmethod.libs.framework.core.UserFeedbackActivity" exported="false">
+<activity name="com.google.android.apps.inputmethod.libs.framework.core.LicenseActivity" exported="false">
+<activity excludeFromRecents="true" name="com.google.userfeedback.android.api.UserFeedbackActivity" theme="16973835">
+<activity excludeFromRecents="true" name="com.google.userfeedback.android.api.PreviewActivity" theme="16973835">
+<activity excludeFromRecents="true" name="com.google.userfeedback.android.api.ShowTextActivity" theme="16973835">
+<activity excludeFromRecents="true" name="com.google.userfeedback.android.api.ShowStringListActivity" theme="16973835">
+<activity name="com.google.android.apps.inputmethod.libs.framework.core.BlankActivity" label="BlankActivity">
+3
+<service name="com.google.android.inputmethod.pinyin.PinyinIME" permission="android.permission.BIND_INPUT_METHOD" label="2131231307">
+<service name="com.google.android.apps.inputmethod.pinyin.preference.SyncService" exported="true" label="2131231307">
+<service name="com.google.userfeedback.android.api.SendUserFeedbackService">
+2
+<receiver name="com.google.android.apps.inputmethod.libs.framework.core.LauncherIconVisibilityInitializer">
+<receiver enabled="false" name="com.google.userfeedback.android.api.FeedbackConnectivityReceiver">
+1
+<provider authorities="2131231313" name="com.google.android.apps.inputmethod.libs.framework.dataservice.StubProvider" syncable="true" exported="false">
+Owner: CN=Unknown, OU="Google, Inc", O="Google, Inc", L=Mountain View, ST=CA, C=US
+Issuer: CN=Unknown, OU="Google, Inc", O="Google, Inc", L=Mountain View, ST=CA, C=US
+Serial number: 4934987e
+Valid from: Tue Dec 02 10:07:58 CST 2008 until: Sat Apr 19 10:07:58 CST 2036
+Certificate fingerprints: 
+	MD5:D0:46:FC:5D:1F:C3:CD:0E:57:C5:44:40:97:CD:54:49
+	SHA1: 24:BB:24:C0:5E:47:E0:AE:FA:68:A5:8A:76:61:79:D9:B6:13:A6:00
+	SHA256: 3D:7A:12:23:01:9A:A3:9D:9E:A0:E3:43:6A:B7:C0:89:6B:FB:4F:B6:79:F4:DE:5F:E7:C2:3F:32:6C:8F:99:4A
+	Signature algorithm name: MD5withRSA
+	version: 1

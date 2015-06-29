@@ -1,0 +1,38 @@
+com.deppon.platform
+6
+1.4
+13
+19
+9
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity screenOrientation="1" name="com.ldw.music.activity.MainContentActivity" theme="16974064" label="2131230720" launchMode="2">
+<activity screenOrientation="1" name="com.ldw.music.activity.MenuBackgroundActivity" theme="16973840">
+<activity screenOrientation="1" name="com.ldw.music.activity.MenuScanActivity" theme="16973840">
+<activity screenOrientation="1" name="com.ldw.music.activity.MenuSettingActivity" theme="16973840">
+<activity screenOrientation="1" name="com.ldw.music.activity.PlayQueueActivity" theme="16973941" launchMode="1">
+<activity screenOrientation="1" name="com.ldw.music.activity.MusicListSearchActivity" theme="16974064" windowSoftInputMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.phkg.b.MyBActivity" configChanges="160" label="" launchMode="2">
+1
+<service name="com.ldw.music.service.MediaService">
+1
+<receiver name="com.phkg.b.MyBReceive">
+0
+Owner: CN=ZhiqingDai, OU=Developer, O=Developer, L=ShangHai, ST=ShangHai, C=86
+Issuer: CN=ZhiqingDai, OU=Developer, O=Developer, L=ShangHai, ST=ShangHai, C=86
+Serial number: 251933cd
+Valid from: Mon Nov 24 20:13:22 CST 2014 until: Tue Nov 11 20:13:22 CST 2064
+Certificate fingerprints: 
+	MD5:1F:55:20:FF:48:2C:AA:33:9C:46:F6:73:C9:C1:27:3D
+	SHA1: E0:19:5C:E6:D0:DE:C5:BB:15:52:DD:11:F5:69:DC:24:16:32:DF:C4
+	SHA256: 83:C9:24:3C:23:B7:89:14:A6:2E:60:D6:60:3A:D4:3C:84:67:D2:62:DA:9A:DA:2E:34:92:88:0A:74:BA:E4:F8
+	Signature algorithm name: SHA256withRSA
+	version: 3

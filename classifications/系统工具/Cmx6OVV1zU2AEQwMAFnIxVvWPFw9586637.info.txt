@@ -1,0 +1,104 @@
+com.datacomx.flowcloud
+48
+2.3
+8
+19
+24
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+com.datacomx.flowcloud.permission.JPUSH_MESSAGE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+54
+<activity screenOrientation="1" name="com.datacomx.activities.MainActivity" label="2131230796" taskAffinity="com.datacomx.flowcloud" launchMode="0">
+<activity screenOrientation="1" name="com.datacomx.activities.SplashScreenActivity" theme="16973838" label="2131230796" taskAffinity="com.datacomx.flowcloud" alwaysRetainTaskState="true" launchMode="0">
+<activity screenOrientation="1" name="com.datacomx.activities.GuidActivity" theme="16973838" taskAffinity="com.datacomx.flowcloud" launchMode="0">
+<activity screenOrientation="1" name="com.datacomx.activities.SaveActivity" taskAffinity="com.datacomx.flowcloud" launchMode="0">
+<activity screenOrientation="1" name="com.datacomx.activities.RegisteredActivity" label="2131230810" taskAffinity="com.datacomx.flowcloud" launchMode="0">
+<activity screenOrientation="1" name="com.datacomx.activities.GameActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.InvitationActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.EventsActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.TopupActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.AboutusActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.IntroductionActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.ShareActivity" label="2131230816">
+<activity screenOrientation="1" name="com.datacomx.activities.QrcodeActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.SetupActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.SettingsActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.HelpActivity" label="2131230814">
+<activity screenOrientation="1" name="com.datacomx.activities.FeedbackActivity" label="2131230815">
+<activity screenOrientation="1" name="com.datacomx.activities.SigninActivity" label="2131230817">
+<activity screenOrientation="1" name="com.datacomx.activities.FindpasswordActivity" label="2131230818" taskAffinity="com.datacomx.flowcloud" launchMode="0">
+<activity screenOrientation="1" name="com.datacomx.activities.ResetpassworkActivity" label="2131230819">
+<activity screenOrientation="1" name="com.datacomx.activities.ReceiveActivity" label="2131230820">
+<activity screenOrientation="1" name="com.datacomx.activities.ExchangeActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.Exchange02Activity">
+<activity screenOrientation="1" name="com.datacomx.activities.ExchangeMovieActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.GoodsDetailActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.ExerciseActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.ExchangedActivity" label="2131230825">
+<activity screenOrientation="1" name="com.datacomx.activities.DetailsXiaofeiliuliangActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.QiandaoActivity" label="2131230821">
+<activity screenOrientation="1" name="com.datacomx.activities.ChangePassworkActivity" label="2131230822">
+<activity screenOrientation="1" name="com.datacomx.activities.ChangeNikenameActivity" label="2131230823">
+<activity screenOrientation="1" name="com.datacomx.activities.BuyFlowActivity" label="2131230824">
+<activity screenOrientation="1" name="com.datacomx.activities.ChartsActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.SongActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.datacomx.activities.SaveGetActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.TopupWebActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.PlayActivity2">
+<activity screenOrientation="1" name="com.datacomx.activities.PlayInstructionActivity2">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity name="com.datacomx.flowcloud.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="com.datacomx.activities.ChartsCommActivity" label="2131230830">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.datacomx.activities.WebActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.datacomx.activities.GiftDetailActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.ContactListView">
+<activity screenOrientation="1" name="com.datacomx.activities.ExchangeWebActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.ModulsSelectActivity" label="2131230908">
+<activity name="cn.dm.android.DMOfferActivity" theme="16973830" configChanges="1200">
+<activity screenOrientation="1" name="com.datacomx.activities.ArgumentActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.ActivitiesDetailActivity">
+<activity screenOrientation="1" name="com.datacomx.activities.ExchangeBaibaoxiangActivity">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity name="com.datacomx.activities.VideoEnableWebActivity" configChanges="1184" label="2131231057">
+<activity name="com.datacomx.jpush.Main2Activity" theme="16973840">
+<activity name=".wxapi.WXPayEntryActivity" theme="16973840" exported="true" label="2131231058" launchMode="1">
+3
+<service name="cn.dm.android.DMService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+3
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.datacomx.jpush.MyReceiver">
+0
+Owner: CN=sxd
+Issuer: CN=sxd
+Serial number: 3ebc9b1
+Valid from: Tue Jan 06 10:54:01 CST 2015 until: Sat Dec 31 10:54:01 CST 2039
+Certificate fingerprints: 
+	MD5:87:63:FA:48:BA:EC:67:F0:CC:92:C5:99:1C:37:5A:16
+	SHA1: 45:BD:B4:30:E7:C2:F7:4F:D9:B3:E6:25:D6:77:A0:84:DE:CF:E1:FF
+	SHA256: 14:3C:63:CF:F5:28:5C:CA:C3:F0:BF:6A:9C:D3:0E:7C:D0:5E:D9:48:F5:1D:15:90:B3:FB:9C:08:6F:81:FF:A2
+	Signature algorithm name: SHA256withRSA
+	version: 3

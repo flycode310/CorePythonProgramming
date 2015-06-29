@@ -1,0 +1,48 @@
+com.lovesport.fujij
+23
+1.6.0
+11
+19
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name="com.lovesport.yogadaren.ShowActivity" theme="16973831" label="健身教练">
+<activity name="com.lovesport.yogadaren.MainActivity" theme="16973831">
+<activity name="com.lovesport.yogadaren.VideoPlay" theme="16973831">
+<activity name="com.lovesport.yogadaren.PlayerActivity" theme="16973831">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity excludeFromRecents="true" name="com.lovesport.yogadaren.t.Ct" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.lovesport.yogadaren.x.Get" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.lovesport.yogadaren.f.Watk" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.lovesport.yogadaren.y.Ttqj" theme="16973839" label="" launchMode="3">
+5
+<service name="com.umeng.common.net.DownloadingService">
+<service name="com.lovesport.yogadaren.t.Ypp">
+<service name="com.lovesport.yogadaren.x.Nq">
+<service name="com.lovesport.yogadaren.f.Vxta">
+<service name="com.lovesport.yogadaren.y.Wnn">
+4
+<receiver name="com.lovesport.yogadaren.t.Zl">
+<receiver name="com.lovesport.yogadaren.x.Qt">
+<receiver name="com.lovesport.yogadaren.f.Tlyq">
+<receiver name="com.lovesport.yogadaren.y.Hukq">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 53411931
+Valid from: Sun Apr 06 17:06:57 CST 2014 until: Tue Mar 13 17:06:57 CST 2114
+Certificate fingerprints: 
+	MD5:ED:B0:9C:FA:5E:95:06:4A:8A:EE:94:67:F6:17:02:9E
+	SHA1: 7B:57:FA:4F:5D:40:8F:81:4D:CE:C1:E2:B6:6F:26:D6:EC:85:28:52
+	SHA256: 54:86:22:D0:63:9F:32:52:EA:51:66:FC:0D:45:0A:53:FD:06:78:AC:11:94:96:8C:FA:78:49:8C:53:04:BA:D5
+	Signature algorithm name: SHA1withRSA
+	version: 3

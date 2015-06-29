@@ -1,0 +1,115 @@
+com.liantong.mobile
+104
+1.1.4.liantong
+7
+-1
+22
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INSTALL_PACKAGES
+android.permission.USE_CREDENTIALS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+com.huawei.hwid.permission.ACCESS
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_SECURE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.MODIFY_PHONE_STATE
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.MANAGE_ACCOUNTS
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+70
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.LoginEntranceActivity" label="2131230720" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.PhoneConferenceActivity" label="2131230720" launchMode="2">
+<activity name="com.liantong.mobile.MainTest" label="2131230720">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.SplashActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.GuidePageActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CallWattingActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.LogonActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.RegisterActivity" launchMode="2">
+<activity name="com.liantong.mobile.ui.activity.AccountOverviewActivity" theme="2131296285">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.GetBackPasswordActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.RegisterConfirmActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.GetBackPasswordConfirmActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.MeetingRoomActivity" launchMode="1">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CalllogActivity" theme="16973836">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.SettingActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.SettingActivityGroupoup">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.ChangePasswordActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.UpdateSystemActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.RechargeActivityGroupoup">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.RechargeActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.MoreActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CheckInActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.MessageActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.UsedArticleActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.PrivacyPolicyeActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.AccountActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CalllogListActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CalllogInfoActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.ContactBookListActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.HomeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.MeetingAddNewActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.MeetingCurrentListActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.MeetingRoomInfoActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.ChargeAccountActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.FeedBackActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.ContactsMainListActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CloudContactEditActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.AccountChannelActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.ContactGroupEditActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.ContactGroupSubListActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.ContactGroupLinkEditActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CallbackHomeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CallbackDialActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CallbackLogActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.BillHomeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.PackPlanHomeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CallbackBillActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.ConfBillActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.SubConfBillActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.PackPlanListActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.QuotaPackPlanListActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.PackPlanInfoActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.QuotaPackPlanInfoActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.MyPackPlanActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.MyQuotaPackPlanActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.TicketHomeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.HomeMainCallbackActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.MeetingHomeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CardChargeHomeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CardChargeHomeLianTongActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.TariffExplainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.CardChargeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.NetblankRechargeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.HomeDialActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.UserAgreementActivity" launchMode="2">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.ProgressBarActivity">
+<activity screenOrientation="1" name="com.liantong.mobile.ui.activity.RegisterHomeActivity" launchMode="2">
+<activity name="com.liantong.mobile.huawei.pay.HuaweiPayMainActivity" configChanges="160" launchMode="2">
+<activity name="com.liantong.mobile.huawei.pay.HuaweiPayInfoActivity" configChanges="160" launchMode="2">
+<activity name="com.huawei.hwid.openapi.auth.dump.OpenDumpActivity" theme="16973839" configChanges="160" exported="false">
+1
+<service name="com.liantong.mobile.app.service.LocalService">
+2
+<receiver name="com.liantong.mobile.app.receiver.NetworkChangeReceiver">
+<receiver name="com.liantong.mobile.app.receiver.UpdateReceiver">
+0
+Owner: CN=众方协同, OU=众方协同, O=众方协同, L=深圳, ST=广东, C=cn
+Issuer: CN=众方协同, OU=众方协同, O=众方协同, L=深圳, ST=广东, C=cn
+Serial number: 50cc2561
+Valid from: Sat Dec 15 15:23:13 CST 2012 until: Sun Sep 18 15:23:13 CST 2067
+Certificate fingerprints: 
+	MD5:F0:DA:F4:22:12:77:10:6F:89:9C:B3:0B:B0:39:B9:71
+	SHA1: 00:1D:00:45:AF:58:AC:C9:E0:A9:7C:17:FB:81:59:A8:9A:5D:28:95
+	SHA256: 75:ED:8D:67:B7:32:15:62:2B:90:8F:E5:36:A6:74:D7:D9:DC:3D:14:88:A1:CE:6F:EE:19:4D:F8:D6:C5:BA:97
+	Signature algorithm name: SHA1withRSA
+	version: 3

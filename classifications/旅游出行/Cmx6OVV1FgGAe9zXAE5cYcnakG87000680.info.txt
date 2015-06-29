@@ -1,0 +1,85 @@
+com.wandafilm.app
+26
+2.0.6
+8
+15
+10
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+53
+<activity screenOrientation="1" name=".activity.LoadActivity" theme="16973830">
+<activity screenOrientation="1" name=".activity.MainActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.FilmBaseActivityGroup" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.FilmMainActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.UserBaseActivityGroup" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.UserMainActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.buyticket.BuyTickedBaseActivityGroup" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.buyticket.BuyTicketMainActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.taketicket.TakeTicketBaseActivityGroup" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.taketicket.TakeTicketMainActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.more.MoreBaseActivityGroup" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.more.MoreMainActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.FilmPosterActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.FilmListActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.FilmDetailActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.ShareActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.SendCommentActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.FilmPhotosActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.SendCommentShareActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.film.BigPicShareActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.LoginActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.RegisterActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.ForgetPassActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.ModifyUserInfoActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.ModifyMobileNumActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.MemberCardActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.MemberCardRechargeActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.MemberCardRechargeOrderActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.MyOrderActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.MyCommentActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.MyMessageActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.WeiboBindActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.weibo.sina.api.SinaOAuthV1AuthorizeWebView" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.weibo.tencent.api.TencentOAuthV1AuthorizeWebView" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.ModifyPassActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.OrderDetailsActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.OrderFavorableActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.OrderPayCenterActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.user.OrderSuccessActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.buyticket.CinemaInfoActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.buyticket.CinemaMapActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.buyticket.SelectSeatActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.buyticket.GoodsActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.more.GradeActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.more.FeedbackActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.more.NoviceHelperActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.more.AboutAppActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.taketicket.QRCodeActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.SelectCityActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.SelectCinemaActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.BrowserActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity name="com.tencent.weibo.sdk.android.component.Authorize">
+<activity name="com.wandafilm.app.activity.QQWebView">
+2
+<service name=".services.MainServices">
+<service name=".services.PushMsgService">
+0
+0
+Owner: CN=wanda, OU=wanda, O=wanda, L=beijing, ST=beijing, C=CHN
+Issuer: CN=wanda, OU=wanda, O=wanda, L=beijing, ST=beijing, C=CHN
+Serial number: 4f94ebcc
+Valid from: Mon Apr 23 13:42:36 CST 2012 until: Fri Apr 17 13:42:36 CST 2037
+Certificate fingerprints: 
+	MD5:C8:85:62:28:82:32:2E:B4:E8:CF:A9:7A:E2:FF:99:9C
+	SHA1: F5:B6:C0:BC:2F:4C:8F:DB:F1:80:7C:47:62:7D:0E:C7:5A:C2:58:EA
+	SHA256: 3A:35:51:EB:BD:03:6E:D2:EF:A1:1F:BD:62:B9:7F:3D:7B:C9:77:F3:CE:01:A3:DA:12:35:15:D9:95:05:32:07
+	Signature algorithm name: SHA1withRSA
+	version: 3

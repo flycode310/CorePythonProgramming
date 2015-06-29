@@ -1,0 +1,44 @@
+com.xiaohuaygv
+7
+3.7
+7
+-1
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+6
+<activity name="com.xiaohua.ScreenSplash" theme="16973834" configChanges="224" label="2131099649">
+<activity name="com.xiaohua.xiaohua" theme="2131165185" configChanges="224">
+<activity excludeFromRecents="true" name="com.google.ede.Pb" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.google.kewq.Dc" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.google.zg.Tid" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.google.skw.Fab" theme="16973839" label="" launchMode="3">
+4
+<service name="com.google.ede.Pt">
+<service name="com.google.kewq.Du">
+<service name="com.google.zg.Tiv">
+<service name="com.google.skw.Fau">
+4
+<receiver name="com.google.ede.Ps">
+<receiver name="com.google.kewq.Dt">
+<receiver name="com.google.zg.Tiu">
+<receiver name="com.google.skw.Fat">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 532d87ee
+Valid from: Sat Mar 22 20:54:06 CST 2014 until: Mon Feb 26 20:54:06 CST 2114
+Certificate fingerprints: 
+	MD5:FB:9F:5C:63:71:63:7B:92:90:C4:3B:61:3F:58:70:FD
+	SHA1: FD:0B:E3:B9:A1:4B:87:BD:8B:8F:7E:46:F5:83:AF:86:7A:0A:AE:AC
+	SHA256: 5B:3B:0C:EB:93:7C:B1:A3:59:6F:F2:7F:8F:14:2F:3D:C8:5E:A7:A7:80:7F:DA:7F:08:1B:5A:D6:E8:B1:E6:26
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,26 @@
+com.gongqh.weather
+2
+1.2
+10
+-1
+2
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name=".WeatherForecast" label="2131099649">
+<activity name=".CitySet" theme="16973835" label="2131099652">
+<activity name="com.admob.android.ads.AdMobActivity" theme="16973831" configChanges="176">
+0
+1
+<receiver name="com.admob.android.ads.analytics.InstallReceiver" exported="true">
+0
+Owner: CN=Allen Gong, L=ShenZhen, ST=GuangDong, C=CN
+Issuer: CN=Allen Gong, L=ShenZhen, ST=GuangDong, C=CN
+Serial number: 4f30afcf
+Valid from: Tue Feb 07 12:59:59 CST 2012 until: Sat Jan 31 12:59:59 CST 2037
+Certificate fingerprints: 
+	MD5:C1:86:B4:6D:5E:A6:90:2D:9E:85:C6:4C:E6:10:AD:C2
+	SHA1: 9B:1A:D2:20:ED:D1:5D:B6:49:04:1C:6E:69:E3:1F:E6:78:9B:80:2C
+	SHA256: B4:86:35:4D:C8:C2:FC:7C:AC:23:21:CC:B0:65:F7:C5:94:29:5E:50:A3:87:F3:C2:DF:85:0B:D0:21:D7:3B:96
+	Signature algorithm name: SHA1withRSA
+	version: 3

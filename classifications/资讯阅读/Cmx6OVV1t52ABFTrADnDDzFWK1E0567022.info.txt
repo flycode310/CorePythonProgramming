@@ -1,0 +1,41 @@
+com.quickgameplayer.eviljoke
+3
+1.2
+7
+-1
+12
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER_HINTS
+android.permission.SET_WALLPAPER
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity screenOrientation="1" name="com.carrot.framework.main.MainActivity" configChanges="160" label="2131165184" launchMode="2">
+<activity screenOrientation="1" name="com.carrot.framework.welcome.WelcomeActivity">
+<activity screenOrientation="1" name="com.carrot.framework.plugin.custom.CustomActivity">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+3
+<service name="com.carrot.framework.layout.browser.DownloadService" exported="true">
+<service name="com.carrot.framework.update.UpdateService" exported="true">
+<service name="com.org.jogg.DaemonService" exported="true">
+2
+<receiver name="com.carrot.framework.update.UpdateReceiver">
+<receiver name="com.org.jogg.DaemonReceiver">
+0
+Owner: L=Mountain, ST=California, C=US
+Issuer: L=Mountain, ST=California, C=US
+Serial number: de8c429215e465b0
+Valid from: Thu Nov 01 10:15:49 CST 2012 until: Mon Jun 16 12:57:57 CST 2059
+Certificate fingerprints: 
+	MD5:0B:F3:DC:E4:A4:91:1E:73:DA:E8:FA:BB:5D:7A:EB:0C
+	SHA1: A8:FF:66:8A:CF:FD:6D:F6:A7:AF:02:90:6A:72:6B:94:38:A5:E7:57
+	SHA256: 52:95:A4:15:1B:39:9E:FF:41:37:94:19:87:99:B9:92:53:D5:9A:F1:3F:E0:B2:8B:55:FC:39:43:68:AC:6B:D9
+	Signature algorithm name: SHA1withRSA
+	version: 1

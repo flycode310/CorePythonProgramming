@@ -1,0 +1,87 @@
+com.duofangtong
+104
+1.0.4
+8
+20
+13
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.WRITE_CALL_LOG
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CALL_LOG
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.MODIFY_AUDIO_SETTINGS
+53
+<activity name="com.duofangtong.scut.ui.meeting.view.CreateMeetingMainActivity">
+<activity name="com.duofangtong.scut.ui.common.AddMemberDirectlyActivity" label="2131165206">
+<activity name="com.duofangtong.scut.ui.common.ContactListViewActivity">
+<activity name="com.duofangtong.newappcode.activity.more.MoreNoticeSettingActivity">
+<activity name="com.duofangtong.newappcode.whatsnew.WhatsNewActivity">
+<activity name="com.duofangtong.newappcode.history.HistoryDetailActivity">
+<activity name="com.duofangtong.newappcode.history.CallDetailActivity">
+<activity name="com.duofangtong.newappcode.activity.more.perinfo.EditNameActivity">
+<activity name="com.duofangtong.newappcode.home.HomeActivity" windowSoftInputMode="34">
+<activity name="com.duofangtong.scut.ui.welcome.WelcomeActivity" label="2131165206">
+<activity name="com.duofangtong.scut.ui.welcome.RegisterActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.duofangtong.scut.ui.welcome.LoginActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.scut.ui.welcome.GetVerificationActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.scut.ui.welcome.ReSetPwdActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.scut.ui.welcome.LoginWebActivity" windowSoftInputMode="34">
+<activity name="com.duofangtong.scut.ui.welcome.VertificationActivity">
+<activity name="com.duofangtong.scut.ui.main.MainActivity" launchMode="2">
+<activity name="com.duofangtong.scut.ui.history.ChattingHistoryActivity">
+<activity name="com.duofangtong.scut.ui.setting.SettingActivity">
+<activity name="com.duofangtong.scut.ui.setting.SettingActivityAbout">
+<activity name="com.duofangtong.scut.ui.setting.SettingActivityHelp">
+<activity screenOrientation="1" name="com.duofangtong.scut.ui.setting.SettingActivityShare" theme="16973833" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.RecommendFriActivity" theme="16973833" configChanges="160" launchMode="2">
+<activity name="com.duofangtong.scut.ui.setting.SettingActivityFeedback">
+<activity name="com.duofangtong.scut.ui.meeting.view.AddMemberFromGroupActivity">
+<activity name="com.duofangtong.scut.ui.meeting.view.CreateNewGroupActivity">
+<activity name="com.duofangtong.scut.ui.common.GroupContactListViewActivity">
+<activity name="com.duofangtong.scut.ui.meeting.view.AddGroupManuallyActivity">
+<activity name="com.duofangtong.scut.ui.meeting.view.TestAlterGroupActivity">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.time.AvailableTimeActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.time.GiveOtherActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.time.GiveOtherRecordActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.setting.MoreSettingActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.setting.SuggestActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.setting.AppHelpActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.headpic.CropImageActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.headpic.roundimage.RoundCropImageActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.perinfo.PersonInfoActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.perinfo.PersonCardActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.perinfo.PersonNameActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.QRCodeActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.setting.ModifyPwdActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.time.RechargeActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.CallAndChatActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.more.ChatTextSizeActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.maillist.EditLinkManActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.maillist.IsWhichGroupDialog" theme="2131230768" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.maillist.LookContactActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.group.GroupMenuActivity" theme="2131230766" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.group.LookGroupInfoActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.duofangtong.newappcode.activity.group.OperateGroupMemActivity" windowSoftInputMode="34">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+0
+1
+<receiver name=".yxapi.AppRegister" permission="im.yixin.sdk.permission.YIXIN_SDK_MESSAGE">
+0
+Owner: CN=duofangtong, OU=scut, O=scut, L=Guangzhou, ST=Guangdong, C=CN
+Issuer: CN=duofangtong, OU=scut, O=scut, L=Guangzhou, ST=Guangdong, C=CN
+Serial number: 5eb8d3c
+Valid from: Sat Apr 12 10:02:11 CST 2014 until: Wed Aug 28 10:02:11 CST 2041
+Certificate fingerprints: 
+	MD5:A3:22:38:23:9B:1F:23:F5:D2:66:F7:89:7D:3A:4B:9A
+	SHA1: 3D:5B:FE:99:58:5B:5F:3E:5D:93:32:ED:1D:F6:EA:5D:FF:D4:77:F1
+	SHA256: 03:8F:F5:00:FF:C0:DF:D4:CE:B1:02:99:A4:6F:56:62:54:2A:5A:8A:AA:33:B7:7B:1E:89:00:69:13:8F:66:44
+	Signature algorithm name: SHA256withRSA
+	version: 3

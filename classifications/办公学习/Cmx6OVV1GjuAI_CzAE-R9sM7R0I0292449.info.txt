@@ -1,0 +1,30 @@
+com.cjoy.danpianji
+1
+1.0
+4
+-1
+0
+10
+<activity name="com.cjoy.danpianji.Load1" theme="16973830" label="2131165184">
+<activity name="com.cjoy.danpianji.MainActivity" theme="16973830" label="2131165184">
+<activity name="com.cjoy.danpianji.Diyizhang" theme="16973830" label="2131165184">
+<activity name="com.cjoy.danpianji.Dierzhang" theme="16973830" label="2131165184">
+<activity name="com.cjoy.danpianji.Disanzhang" theme="16973830" label="2131165184">
+<activity name="com.cjoy.danpianji.Disizhang" theme="16973830" label="2131165184">
+<activity name="com.cjoy.danpianji.Diwuzhang" theme="16973830" label="2131165184">
+<activity name="com.cjoy.danpianji.Diliuzhang" theme="16973830" label="2131165184">
+<activity name="com.cjoy.danpianji.Showphoto" theme="16973830" label="2131165184">
+<activity name="com.cjoy.danpianji.AboutActivity" theme="16973830" label="2131165184">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 6d6cad2c
+Valid from: Thu Mar 07 21:24:48 CST 2013 until: Sat Feb 28 21:24:48 CST 2043
+Certificate fingerprints: 
+	MD5:D1:11:CB:89:67:79:40:EC:ED:35:BD:84:11:12:3F:34
+	SHA1: 07:4C:6E:03:D8:E9:DB:18:E2:01:43:25:55:68:84:38:1A:C5:2D:CD
+	SHA256: C3:BC:7F:EC:E2:A4:6C:B6:01:CD:55:EF:D0:27:44:F9:ED:95:1F:50:60:4D:D2:43:3A:3B:90:BC:D0:2C:90:8A
+	Signature algorithm name: SHA256withRSA
+	version: 3

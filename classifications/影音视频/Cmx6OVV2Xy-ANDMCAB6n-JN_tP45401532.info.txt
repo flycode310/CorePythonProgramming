@@ -1,0 +1,65 @@
+com.tanwenhuo.musicplayer
+11
+1.4.0
+14
+-1
+13
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+29
+<activity clearTaskOnLaunch="true" screenOrientation="5" excludeFromRecents="true" name="com.tanwenhuo.musicplayer.MainActivity" theme="16973830" exported="true" windowSoftInputMode="48" taskAffinity="" launchMode="2">
+<activity screenOrientation="1" name="com.tanwenhuo.musicplayer.PlaybackActivity" theme="2131099660" launchMode="2">
+<activity excludeFromRecents="true" name="com.tanwenhuo.musicplayer.AudioPreview" theme="16973835" exported="true" taskAffinity="">
+<activity name="com.tanwenhuo.musicplayer.ArtistAlbumBrowserActivity" exported="false">
+<activity name="com.tanwenhuo.musicplayer.FolderBrowserActivity" exported="false">
+<activity name="com.tanwenhuo.musicplayer.FolderTrackBrowserActivity" exported="false">
+<activity name="com.tanwenhuo.musicplayer.VideoBrowserActivity" exported="false">
+<activity name="com.tanwenhuo.musicplayer.AlbumBrowserActivity" exported="false">
+<activity name="com.tanwenhuo.musicplayer.TrackBrowserFromActivity" exported="false">
+<activity name="com.tanwenhuo.musicplayer.TrackBrowserActivity" exported="false">
+<activity name="com.tanwenhuo.musicplayer.QueryBrowserActivity" theme="16973830" exported="true">
+<activity name="com.tanwenhuo.musicplayer.PlaylistBrowserActivity" exported="true" label="2131165305">
+<activity name="com.tanwenhuo.musicplayer.MediaPickerActivity" exported="false" label="2131165309">
+<activity name="com.tanwenhuo.musicplayer.MusicPicker" exported="true" label="2131165326">
+<activity name="com.tanwenhuo.musicplayer.CreatePlaylist" theme="16973835" exported="false">
+<activity name="com.tanwenhuo.musicplayer.RenamePlaylist" theme="16973835" exported="false">
+<activity name="com.tanwenhuo.musicplayer.WeekSelector" theme="16973835" exported="false">
+<activity name="com.tanwenhuo.musicplayer.DeleteItems" theme="16973835" exported="false">
+<activity name="com.tanwenhuo.musicplayer.ScanningProgress" theme="16973835" exported="false">
+<activity screenOrientation="5" name="com.tanwenhuo.videoplayer.VideoLibraryActivity" theme="16973919" launchMode="2">
+<activity name="com.tanwenhuo.videoplayer.VideoPlayerActivity" configChanges="160">
+<activity screenOrientation="5" name="com.tanwenhuo.musicplayer.LockScreenActivity" theme="16973919" launchMode="2">
+<activity name="com.tanwenhuo.musicplayer.PreferencesActivity" theme="2131099670">
+<activity name="com.tanwenhuo.musicplayer.PreferencesActivity$ShakeActivity">
+<activity name="com.tanwenhuo.musicplayer.PreferencesActivity$AboutActivity">
+<activity name="com.tanwenhuo.musicplayer.NoActivity">
+<activity name="com.tanwenhuo.musicplayer.EqualizerActivity">
+<activity name="com.tanwenhuo.musicplayer.VisualizerActivity">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+1
+<service name="com.tanwenhuo.musicplayer.MediaPlaybackService" exported="false">
+2
+<receiver name="com.tanwenhuo.musicplayer.MediaButtonIntentReceiver">
+<receiver name="com.tanwenhuo.musicplayer.MediaAppWidgetProvider">
+0
+Owner: CN=tanwh, OU=voilet, O=voilet, L=gaozhou, ST=voilet, C=ZN
+Issuer: CN=tanwh, OU=voilet, O=voilet, L=gaozhou, ST=voilet, C=ZN
+Serial number: 757e0638
+Valid from: Fri Mar 09 15:41:47 CST 2012 until: Sat Feb 25 15:41:47 CST 2062
+Certificate fingerprints: 
+	MD5:30:A6:54:B7:79:FF:B8:83:B4:B5:91:BB:D8:4B:33:B5
+	SHA1: 9A:BF:B1:36:D9:F7:AD:56:B9:D7:14:F7:25:55:33:60:F2:EE:02:58
+	SHA256: 07:37:CE:D9:06:68:5F:1C:08:83:46:64:A4:34:2D:F7:1E:B5:58:95:BE:F3:C2:EB:C9:16:9B:AF:F3:DF:DA:D2
+	Signature algorithm name: SHA256withRSA
+	version: 3

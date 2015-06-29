@@ -1,0 +1,58 @@
+com.scliang.bqcalendarc
+2920
+2.9.2
+17
+21
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+12
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.scliang.remind.AppWidgetNewNoteActivity" theme="16973840">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.MainActivity" label="2131296280">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.DayRemindsActivity" label="2131296309" launchMode="2">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.AllRemindsActivity" label="2131296309" launchMode="2">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.SettingActivity" label="2131296354">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.GuideActivity" label="2131296299">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.FeedbackActivity" label="2131296295" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.scliang.bqcalendar.SelectDateActivity" theme="2131361798" label="">
+<activity excludeFromRecents="true" name="com.scliang.bqcalendar.m.Iok" configChanges="128" label="">
+<activity excludeFromRecents="true" name="com.scliang.bqcalendar.u.Jbsc" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.scliang.bqcalendar.h.Rb" theme="16973839" label="" launchMode="3">
+8
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.scliang.bqcalendar.SrlAppwidgetService" exported="false" label="2131296281">
+<service name="com.scliang.bqcalendar.SrlService">
+<service name="com.scliang.bqcalendar.m.Cru">
+<service name="com.scliang.bqcalendar.c.Js">
+<service name="com.scliang.bqcalendar.u.Gyig">
+<service name="com.scliang.bqcalendar.h.Yz">
+<service name="com.scliang.bqcalendar.d.Teu">
+8
+<receiver name="com.scliang.bqcalendar.SrlMiniAppwidgetReceiver">
+<receiver name="com.scliang.bqcalendar.SrlClockAppwidgetReceiver">
+<receiver name="com.scliang.remind.RemindReceiver">
+<receiver name="com.scliang.bqcalendar.m.Ra">
+<receiver name="com.scliang.bqcalendar.c.Hr">
+<receiver name="com.scliang.bqcalendar.u.Xeea">
+<receiver name="com.scliang.bqcalendar.h.Jon">
+<receiver name="com.scliang.bqcalendar.d.Mfo">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 532410e5
+Valid from: Sat Mar 15 16:35:49 CST 2014 until: Mon Feb 19 16:35:49 CST 2114
+Certificate fingerprints: 
+	MD5:C6:66:EF:43:ED:59:E9:A3:57:E7:C6:E6:9F:55:FC:E8
+	SHA1: 2B:3B:0C:F3:7E:86:E3:03:57:83:1D:39:98:0F:2F:B3:FF:26:CF:2C
+	SHA256: 0C:82:37:A0:B3:5C:C7:1D:D7:8D:4A:8F:9C:CD:C9:A3:0B:6F:2F:F7:E0:5F:8C:4A:59:2A:7D:2D:6A:23:2C:37
+	Signature algorithm name: SHA1withRSA
+	version: 3

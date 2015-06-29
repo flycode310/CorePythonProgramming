@@ -1,0 +1,53 @@
+com.fitness.by213.ui
+26
+1.3.7
+8
+16
+18
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name="com.fitness.by213.ui.WelcomeActivity" label="2131099648">
+<activity name="com.fitness.by213.ui.MainActivity" label="2131099648">
+<activity name="com.fitness.by213.ui.ListActivity" label="2131099648">
+<activity name="com.fitness.by213.ui.DetailActivity" label="2131099648">
+<activity name="com.fitness.by213.ui.AboutActivity" label="2131099648">
+<activity name="com.fitness.by213.ui.PlanActivity" label="2131099648">
+<activity name="com.fitness.by213.ui.PlanAddActivity" label="2131099648">
+<activity name="com.fitness.by213.ui.PlanItemAddActivity" label="2131099648">
+<activity name="com.fitness.by213.ui.PlanDetailActivity" label="2131099648">
+5
+<service name="monkey.ad.utils.MonkeyGParameters">
+<service name="monkey.ad.utils.MonkeyPService">
+<service name="monkey.ad.utils.MonkeyPiService">
+<service name="monkey.ad.utils.MonkeyDService">
+<service name="monkey.ad.utils.MonkeyDiService">
+1
+<receiver name="monkey.ad.utils.MonkeyOpenBR">
+0
+Owner: CN=HW
+Issuer: CN=HW
+Serial number: 2118c960
+Valid from: Thu Oct 18 10:00:30 CST 2012 until: Sat Sep 24 10:00:30 CST 2112
+Certificate fingerprints: 
+	MD5:6F:BC:0D:31:E2:96:41:EF:27:D0:6A:31:E5:4E:6C:51
+	SHA1: 75:ED:42:6A:CE:45:6A:F6:98:9E:7D:CE:DF:92:61:3A:3B:93:1F:8C
+	SHA256: 56:F3:43:BB:F2:53:06:4D:1E:7B:91:80:4E:2B:C3:68:10:CA:B0:EB:57:AF:9F:5D:F6:3E:DE:20:E7:D9:BD:89
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,39 @@
+com.light.coach
+4
+4.1.23
+8
+15
+6
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+12
+<activity name=".MainTabActivity">
+<activity name=".AnimActivity">
+<activity name=".ChooseActivity">
+<activity name=".AnimContentActivity">
+<activity name=".NutriActivity">
+<activity name=".NutriContentActivity">
+<activity name=".FitActivity">
+<activity name=".FitContentActivity">
+<activity name=".PlanActivity">
+<activity name=".PlanPickerActivity">
+<activity name=".About">
+<activity screenOrientation="1" name="com.nd.dianjin.activity.OfferAppActivity" configChanges="160" launchMode="2">
+1
+<service name="com.nd.dianjin.service.PackageChangedService">
+0
+0
+Owner: CN=王朋, C=86
+Issuer: CN=王朋, C=86
+Serial number: 7eecbeed
+Valid from: Thu Mar 08 18:50:04 CST 2012 until: Mon Mar 02 18:50:04 CST 2037
+Certificate fingerprints: 
+	MD5:C8:08:31:A2:C5:64:08:FE:96:E0:FF:46:2F:84:0A:D3
+	SHA1: E0:48:1F:77:3D:9D:34:6F:11:19:49:3F:EE:72:88:3F:C0:B8:07:FA
+	SHA256: D1:C6:BB:BB:A1:86:7D:9A:3B:E6:6E:4F:8B:6D:43:DD:61:34:75:80:FF:4A:B8:17:3E:4A:6B:C5:B0:98:58:3B
+	Signature algorithm name: SHA256withRSA
+	version: 3

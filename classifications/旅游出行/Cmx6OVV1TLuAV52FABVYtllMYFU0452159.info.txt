@@ -1,0 +1,46 @@
+com.a1989980531524e57446c44c5a.a41507250a
+3
+1.03
+8
+15
+11
+android.permission.READ_PHONE_STATE
+com.a1989980531524e57446c44c5a.a41507250a.permission.C2D_MESSAGE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.google.android.c2dm.permission.RECEIVE
+10
+<activity screenOrientation="1" name="cordovaExample" configChanges="160" label="2131099648">
+<activity screenOrientation="1" name="com.a1989980531524e57446c44c5a.a41507250a.cordovaExample" label="2131099648" launchMode="1">
+<activity screenOrientation="1" name="org.apache.cordova.DroidGap" configChanges="160" label="2131099648">
+<activity screenOrientation="1" name="com.google.ads.AdActivity" configChanges="4016">
+<activity screenOrientation="1" name="com.inmobi.androidsdk.IMBrowserActivity" configChanges="176">
+<activity screenOrientation="1" name="com.millennialmedia.android.MMActivity" theme="16973840" configChanges="176">
+<activity screenOrientation="1" name="com.millennialmedia.android.MMAdViewOverlayActivity" theme="16973840" configChanges="176">
+<activity screenOrientation="1" name="com.millennialmedia.android.VideoPlayer" configChanges="176">
+<activity screenOrientation="1" name="com.fancypush.pushnotifications.FancyPushMessageActivity">
+<activity screenOrientation="1" name="com.fancypush.pushnotifications.FancyPushHandlerActivity">
+2
+<service name="com.fancypush.pushnotifications.FancyPushGCMIntentService">
+<service name="com.fancypush.pushnotifications.ad.AdService">
+3
+<receiver name="com.google.android.gcm.GCMBroadcastReceiver" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="com.fancypush.pushnotifications.AlarmReceiver">
+<receiver name="com.fancypush.pushnotifications.BootReceiver">
+0
+Owner: CN=
+Issuer: CN=
+Serial number: 524e732e
+Valid from: Fri Oct 04 15:50:06 CST 2013 until: Tue Feb 19 15:50:06 CST 2041
+Certificate fingerprints: 
+	MD5:89:48:5A:E2:48:E5:24:BD:E0:A4:90:3B:61:B7:29:3B
+	SHA1: B1:66:42:27:82:0A:0D:41:68:77:2F:9F:41:33:4E:94:B4:63:DB:81
+	SHA256: 7E:85:8B:D2:8D:7E:8A:15:FE:90:9E:30:D6:FA:5C:6F:F9:6D:74:BC:E9:DA:EB:3D:B9:46:72:51:24:13:A6:6D
+	Signature algorithm name: SHA1withRSA
+	version: 3

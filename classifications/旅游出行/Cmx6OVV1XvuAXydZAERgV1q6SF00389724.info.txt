@@ -1,0 +1,116 @@
+com.sankuai.hotel
+20
+3.2
+8
+16
+11
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+com.sankuai.common.PERMISSION
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+77
+<activity screenOrientation="1" name=".Welcome" theme="2131230902" label="2131165224">
+<activity screenOrientation="1" name=".GuideActivity" theme="2131230901">
+<activity screenOrientation="1" name=".MainActivity" launchMode="2">
+<activity screenOrientation="1" name=".hotel.MainFlipperActivity" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".hotel.HotelFilterActivity">
+<activity screenOrientation="1" name=".hotel.RangeFilterActivity">
+<activity screenOrientation="1" name=".groupon.DealDetailActivity">
+<activity screenOrientation="1" name=".groupon.DealLotteryActivity">
+<activity screenOrientation="1" name=".groupon.DealAlbumActivity">
+<activity screenOrientation="1" name=".groupon.DealAboutWebActivity">
+<activity screenOrientation="1" name=".groupon.DealAboutActivity">
+<activity screenOrientation="1" name=".hotel.HomeInnRoomStatus">
+<activity screenOrientation="1" name=".hotel.HomeInnRoomReservation">
+<activity screenOrientation="1" name=".hotel.HomeInnRoomReservationInfo">
+<activity screenOrientation="1" name=".reservation.ReservationResultActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".reservation.ReservationActivity" windowSoftInputMode="18">
+<activity name=".reservation.MockRoomInfoActivity">
+<activity screenOrientation="1" name=".hotel.HotelDetailActivity" launchMode="1">
+<activity screenOrientation="1" name=".mine.MineActivity">
+<activity screenOrientation="1" name=".account.SetPasswordActivity">
+<activity screenOrientation="1" name=".login.DynamicLoginActivity">
+<activity screenOrientation="1" name=".login.LoginActivity">
+<activity screenOrientation="1" name=".login.OauthLoginActivity">
+<activity screenOrientation="1" name=".signup.RegisterActivity">
+<activity screenOrientation="1" name=".signup.NickNameSignupActivity">
+<activity screenOrientation="1" name=".signup.SmsUpSignupActivity">
+<activity screenOrientation="1" name=".account.ModifyPasswordActivity">
+<activity screenOrientation="1" name=".account.MeituanTermsActivity">
+<activity screenOrientation="1" name=".hotel.HotelAlbumsActivity">
+<activity screenOrientation="1" name=".account.RetrievePassword">
+<activity screenOrientation="1" name=".comments.CommentsActivity">
+<activity screenOrientation="1" name=".merchant.BranchActivity">
+<activity screenOrientation="1" name=".myorder.OrderListActivity">
+<activity name=".wxapi.WXPayEntryActivity" exported="true">
+<activity screenOrientation="1" name=".mine.FavoriteListActivity">
+<activity screenOrientation="1" name=".myorder.OrderCommentActivity" configChanges="160">
+<activity screenOrientation="1" name=".myorder.OrderDetailActivity">
+<activity screenOrientation="1" name=".myorder.BookOrderDetailActivity">
+<activity screenOrientation="1" name=".myorder.RefundActivity">
+<activity screenOrientation="1" name=".myorder.LotteryResultActivity">
+<activity screenOrientation="1" name=".buy.BuyActivity">
+<activity screenOrientation="1" name=".bindphone.PhoneBindActivity" configChanges="48" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".pay.PayOrderActivity" configChanges="48" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".pay.PayWebActivity">
+<activity screenOrientation="1" name=".pay.PayResultActivity">
+<activity screenOrientation="1" name=".pay.PayCheckActivity">
+<activity screenOrientation="1" name=".pay.bank.BanksActivity" configChanges="48" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.umpay.creditcard.android.UmpayActivity" configChanges="176" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".pay.PayFaqActivity">
+<activity screenOrientation="1" name=".city.CityListActivity">
+<activity screenOrientation="1" name=".hotel.filter.FilterAreaSubwayActivity">
+<activity screenOrientation="1" name=".map.route.PoiMapActivity">
+<activity screenOrientation="1" name=".map.RouteListActivity">
+<activity screenOrientation="1" name=".map.SelectPointActivity">
+<activity screenOrientation="1" name=".map.RouteActivity" theme="2131230899">
+<activity screenOrientation="1" name=".map.MtMapActivity" theme="2131230899">
+<activity screenOrientation="1" name=".more.MoreActivity">
+<activity screenOrientation="1" name=".more.feedback.FeedbackActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".more.AboutActivity">
+<activity screenOrientation="1" name=".search.SearchActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".search.SearchResultActivity">
+<activity screenOrientation="1" name=".web.MarketingWebActivity">
+<activity screenOrientation="1" name=".mine.PromotionsActivity">
+<activity screenOrientation="1" name=".vouchers.VouchersActivity">
+<activity screenOrientation="1" name=".myorder.coupon.CouponListActivity">
+<activity screenOrientation="1" name=".vouchers.VoucherHelper">
+<activity screenOrientation="1" name=".vouchers.VoucherVerifierActivity" windowSoftInputMode="3">
+<activity name=".developer.DeveloperActivity">
+<activity name=".wxapi.WXEntryActivity" exported="true" label="2131165205">
+<activity screenOrientation="1" name=".booking.PartnerRegisterActivity" windowSoftInputMode="5">
+<activity screenOrientation="1" name=".booking.BookingOrderCreateActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".booking.BookingOrderPayActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".booking.BookingPayResultActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".booking.BookingPayWebActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".booking.BookingBankCardsActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".booking.CalendarActivity">
+<activity screenOrientation="1" name=".userlocked.UserUnlockActivity">
+1
+<service process=":push" enabled="false" name="com.sankuai.mtmp.service.MtmpService">
+5
+<receiver name=".notification.PushMessageReceiver">
+<receiver enabled="false" name="com.sankuai.mtmp.receiver.NetworkReceiver">
+<receiver name="com.sankuai.mtmp.receiver.CommunicateReceiver">
+<receiver name=".notification.pull.receiver.CouponExpiredReceiver">
+<receiver name=".notification.pull.receiver.NetworkChangeReceiver">
+2
+<provider authorities="com.sankuai.hotel.UUIDprovider" name=".global.HotelUUIDProvider" exported="true" permission="com.sankuai.common.PERMISSION">
+<provider authorities="com.sankuai.hotel.account.sync" name=".global.HotelAccountSyncProvider" exported="true" permission="com.sankuai.common.PERMISSION">
+Owner: CN=CHEN Liang, OU=meituan.com, O=Sankuai Technology Co. Ltd., L=Beijing, ST=Beijing, C=CN
+Issuer: CN=CHEN Liang, OU=meituan.com, O=Sankuai Technology Co. Ltd., L=Beijing, ST=Beijing, C=CN
+Serial number: 4d691bb8
+Valid from: Sat Feb 26 23:26:48 CST 2011 until: Mon Feb 02 23:26:48 CST 2111
+Certificate fingerprints: 
+	MD5:63:8C:81:26:14:79:C2:10:4E:DE:3F:25:18:E9:17:25
+	SHA1: 0B:7D:82:CF:CF:38:75:D0:6C:D3:C1:35:C2:A5:AD:1D:55:97:F1:28
+	SHA256: 73:A6:11:C3:A0:1D:C6:E1:13:88:87:3D:AE:EE:1E:55:6A:D9:E5:76:8E:5C:22:20:55:F5:08:A2:4C:3A:82:15
+	Signature algorithm name: SHA1withRSA
+	version: 3

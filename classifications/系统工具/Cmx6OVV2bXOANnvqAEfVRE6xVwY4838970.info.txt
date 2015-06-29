@@ -1,0 +1,34 @@
+com.um.mplayer
+41
+02.01.03
+7
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+com.google.android.gm.permission.READ_GMAIL
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+5
+<activity screenOrientation="1" name="com.um.player.phone.SplashScreenActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="com.um.player.phone.GuideActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="0" name="com.um.player.phone.player.UMVideoActivity" theme="16973831" configChanges="1073742068" launchMode="2">
+<activity screenOrientation="1" name="com.um.player.phone.videos.MainUIActivity" theme="16973831" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.um.player.phone.videos.ScanningPathActivity" theme="16973831" configChanges="160">
+0
+0
+1
+<provider authorities="com.um.player.hd.db.umplayercontentprovider" name="com.um.player.phone.db.UMPlayerContentProvider">
+Owner: CN=SXH, OU=sxmobi.com, O=sxmobi.com, L=Shenzhen, ST=GuangDong, C=86
+Issuer: CN=SXH, OU=sxmobi.com, O=sxmobi.com, L=Shenzhen, ST=GuangDong, C=86
+Serial number: 4c4fd349
+Valid from: Wed Jul 28 14:50:49 CST 2010 until: Thu Jul 15 14:50:49 CST 2060
+Certificate fingerprints: 
+	MD5:B8:F9:3E:00:32:C0:97:AD:C6:A7:C9:1B:3D:1F:39:15
+	SHA1: 49:A1:21:E8:C2:B6:EE:B0:42:59:F9:13:46:49:33:20:27:6B:76:9F
+	SHA256: 75:D7:94:E3:A4:53:66:8F:09:9C:D2:44:AA:DE:62:E5:0F:B6:C4:1B:E3:41:09:81:25:60:AF:BF:AF:6F:49:CE
+	Signature algorithm name: SHA1withRSA
+	version: 3

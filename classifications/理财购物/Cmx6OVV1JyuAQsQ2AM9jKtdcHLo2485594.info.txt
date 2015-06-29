@@ -1,0 +1,128 @@
+cn.com.bhbc.mobilebank.per
+16
+3.6
+10
+-1
+38
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.WRITE_OWNER_DATA
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+com.sonyericsson.permission.CAMERA_EXTENDED
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.NFC
+android.permission.SEND_SMS
+android.permission.SET_DEBUG_APP
+com.google.android.c2dm.permission.RECEIVE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.DISABLE_KEYGUARD
+com.mb.voip.permission.C2D_MESSAGE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.SUBSCRIBED_FEEDS_WRITE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+67
+<activity screenOrientation="1" name=".Splash" theme="16973833" label="2131427367">
+<activity screenOrientation="1" name=".activity.Main" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name=".activity.mobilemenu.MobileMenuCanAdd" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name=".activity.mobilemenu.MobileMenuList" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name=".activity.CouponBigImage" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name=".activity.EmptyActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name=".activity.APPMapView" theme="16973833" exported="false" label="2131427370">
+<activity screenOrientation="1" name=".activity.salesinfo.InformationZiFeiListActivity" theme="16973833" exported="false" label="2131427461">
+<activity screenOrientation="1" name=".activity.salesinfo.InformationZiFeiDetailListActivity" theme="16973833" exported="false" label="2131427461">
+<activity screenOrientation="1" name=".activity.salesinfo.FavoriteActivity" theme="16973833" exported="false" label="2131427371">
+<activity screenOrientation="1" name=".activity.salesinfo.FavoriteListSalesInfoActivity" theme="16973833" exported="false" label="2131427398">
+<activity screenOrientation="1" name=".activity.salesinfo.SalesInfoListActivity" theme="16973833" exported="false" label="2131427461">
+<activity screenOrientation="1" name=".activity.salesinfo.SalesInfoDetailActivity" theme="16973833" exported="false" label="2131427461">
+<activity screenOrientation="1" name=".activity.salesinfo.NewestAnnouncementListActivity" theme="16973833" exported="false" label="2131427463">
+<activity screenOrientation="1" name=".activity.salesinfo.InformationLiLvHuLvActivity" theme="16973833" exported="false" label="2131427463">
+<activity screenOrientation="1" name=".activity.finance.information.FinanceWaiHuiPaiJiaActivity" theme="16973833" exported="false" label="2131427463">
+<activity screenOrientation="1" name=".activity.finance.information.FinanceGuiJingShuActivity" theme="16973833" exported="false" label="2131427463">
+<activity screenOrientation="1" name=".activity.finance.information.FinanceWaiBiDuiHuanActivity" theme="16973833" configChanges="160" exported="false" label="2131427463" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.node.NodeDetailActivity" theme="16973833" exported="false" label="2131427493">
+<activity screenOrientation="1" name=".activity.node.NodeListActivity" theme="16973833" exported="false" label="2131427493">
+<activity screenOrientation="1" name=".activity.node.NodeSearchActivity" theme="16973833" exported="false" label="2131427494">
+<activity screenOrientation="1" name=".activity.node.NodeSearchListActivity" theme="16973833" exported="false" label="2131427494">
+<activity screenOrientation="1" name=".activity.productinfo.ProductDetailActivity" theme="16973833" exported="false" label="2131427401">
+<activity screenOrientation="1" name=".activity.productinfo.ProductInfoListActivity" theme="16973833" exported="false" label="2131427461">
+<activity screenOrientation="1" name=".activity.contactus.ContactUsActivity" theme="16973833" exported="false" label="2131427405">
+<activity screenOrientation="1" name=".activity.SettingActivity" theme="16973833" exported="false" label="2131427422">
+<activity screenOrientation="1" name=".activity.SettingHisListActivity" theme="16973833" exported="false" label="2131427422">
+<activity screenOrientation="1" name=".activity.account.LoginActivity" theme="16973833" exported="false" label="2131427367" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.BBarActivity" theme="16973833" configChanges="160" exported="false" label="2131427444" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".activity.DialogActivity" theme="16973835" exported="false">
+<activity screenOrientation="1" name=".activity.WebMapActivity" theme="16973833" configChanges="160" exported="false" label="2131427444" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.WebMapActivityV3" theme="16973833" configChanges="160" exported="false" label="2131427444" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.finance.calculator.FinanceMenu" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.AssistantMenuActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.CalculatorMenuActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.PaymentInFull" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.AssistantGeRenDaiKuanActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.SaveScatteredActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.SaveWholeActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.CurrentDepositActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.CallDepositActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.LoadHouseActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.LoadRateListActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.LoadRepayDetailListActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name=".activity.finance.calculator.ProvidentFundActivity" theme="16973833" exported="false">
+<activity screenOrientation="1" name="cn.com.bhbc.mobilebank.per.activity.TakePhotoActivity" theme="16973833" exported="false" label="2131427461">
+<activity screenOrientation="1" name=".activity.salesinfo.CallMeActivity" theme="16973833" exported="false" label="2131427461">
+<activity screenOrientation="1" name=".activity.salesinfo.CommonWebviewActivity" theme="16973833" exported="false" label="2131427461">
+<activity screenOrientation="1" name=".activity.salesinfo.WeiBoActivity" theme="16973833" exported="false" label="2131427461">
+<activity screenOrientation="1" name=".activity.salesinfo.MerchantNearbyListActivity" theme="16973833" label="2131427472" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name=".activity.salesinfo.MerchantNearbyDetailActivity" theme="16973833" exported="false" label="2131427472">
+<activity screenOrientation="1" name=".activity.salesinfo.MerchantSearchActivity" theme="16973833" exported="false" label="2131427473">
+<activity screenOrientation="1" name=".activity.salesinfo.MerchantSearchListActivity" theme="16973833" exported="false" label="2131427473">
+<activity screenOrientation="1" name="cn.com.yitong.mobilebank.twodimentioncode.encoding.CaptureActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name="cn.com.yitong.mobilebank.twodimentioncode.encoding.ElectricMoneyCreateActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name="cn.com.bhbc.mobilebank.per.activity.SetGesPwdActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name="cn.com.bhbc.mobilebank.per.activity.VerGesPwdActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name="cn.com.bhbc.mobilebank.per.activity.BoLiDuoActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name="cn.com.bhbc.mobilebank.per.activity.GuideActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name="cn.com.bhbc.mobilebank.per.activity.calendar.CalendarActivity" theme="16973833" exported="false" label="2131427367" launchMode="2">
+<activity screenOrientation="1" name="cn.com.bhbc.mobilebank.per.activity.calendar.CalendarAddEvent" theme="16973833" exported="false" label="2131427367" launchMode="2">
+<activity screenOrientation="1" name="cn.com.bhbc.mobilebank.per.activity.calendar.CalendarDayDetail" theme="16973833" exported="false" label="2131427367" launchMode="2">
+<activity screenOrientation="1" name="cn.com.bhbc.mobilebank.per.activity.calendar.CalendarBaseActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name=".activity.tjb.TjbSelectActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name=".activity.tjb.NewTjbActivity" theme="16973833" exported="false" label="2131427367">
+<activity screenOrientation="1" name=".activity.makecall.MakeCallActivity" theme="16973833" exported="false" windowSoftInputMode="34">
+<activity name=".activity.makecall.VoipVideoCalling" theme="16973833" configChanges="1184">
+2
+<service enabled="true" name="com.baidu.location.f">
+<service name="com.mb.mbvoiplib.VoipService">
+1
+<receiver name="com.xinzhi.network.client.android.receiver.KeepAliveReceiver" exported="false">
+0
+Owner: CN=yao, OU=yitong, O=yitong, L=shanghai, ST=shanghai, C=cn
+Issuer: CN=yao, OU=yitong, O=yitong, L=shanghai, ST=shanghai, C=cn
+Serial number: 4d0d970c
+Valid from: Sun Dec 19 13:24:28 CST 2010 until: Mon Sep 21 13:24:28 CST 2065
+Certificate fingerprints: 
+	MD5:6C:36:26:44:63:71:91:7E:9E:25:90:BE:B5:DA:12:3B
+	SHA1: 26:85:76:AF:6F:50:DA:40:19:6E:18:D6:E0:59:D2:A7:21:37:36:38
+	SHA256: 46:82:68:F9:28:DF:8B:5F:73:17:FB:CF:BE:A2:EB:BF:25:F2:F2:08:26:DE:BE:D8:2A:DD:11:C1:B9:2F:BE:55
+	Signature algorithm name: SHA1withRSA
+	version: 3

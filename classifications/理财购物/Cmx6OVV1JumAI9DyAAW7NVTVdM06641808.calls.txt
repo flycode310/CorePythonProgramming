@@ -1,0 +1,4 @@
+android.util.Log: int e(java.lang.String,java.lang.String)
+android.content.pm.PackageManager: java.util.List getInstalledPackages(int)
+android.os.Handler: android.os.Message obtainMessage(int)
+android.os.Handler: boolean sendMessage(android.os.Message)

@@ -1,0 +1,40 @@
+com.stockbang
+24
+2.4
+11
+18
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+10
+<activity name=".AppStartActivity" label="2131165193">
+<activity name=".MainActivity" windowSoftInputMode="2">
+<activity name=".activity.RegisterActivity">
+<activity hardwareAccelerated="false" name=".activity.ReadingBookActivity">
+<activity name=".activity.StockInfoActivity">
+<activity name=".activity.MoreAboutActivity">
+<activity name=".activity.MoreQuestionActivity">
+<activity name=".activity.TradeDetailActivity" theme="2131230721">
+<activity name=".activity.OperatorDetailActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.iflytek.voiceads.request.IFLYBrowser" configChanges="1200">
+0
+0
+0
+Owner: CN=liuheyuan, OU=56self, O=56self, L=bj, ST=bj, C=ch
+Issuer: CN=liuheyuan, OU=56self, O=56self, L=bj, ST=bj, C=ch
+Serial number: 517ca6ae
+Valid from: Sun Apr 28 12:33:50 CST 2013 until: Tue Nov 03 12:33:50 CST 2122
+Certificate fingerprints: 
+	MD5:7A:40:D3:D5:A8:CD:1A:6E:7C:AC:9B:37:8C:C1:11:2D
+	SHA1: C7:A2:0E:EE:91:B1:C7:5A:C8:F8:0A:16:77:55:E9:C0:A5:E5:50:76
+	SHA256: C5:39:13:3B:D3:D5:C4:B4:51:8D:10:63:59:53:02:B0:A8:D1:78:C7:74:F2:79:07:5F:AC:D6:B9:11:2C:03:18
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,92 @@
+com.whty.qdone.huifukuan.shanxitonglian
+55
+1.4.1406061030
+8
+-1
+20
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.hardware.camera.autofocus
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+49
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.HomeLaunchActivity" configChanges="160" label="2131099648" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qdone.huifukuan.shanxitonglian.LoginActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.HomeMainActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.account.LoginActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.account.FindPasswordActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.account.ChangePasswordActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.MerchantListActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.BillToPayListActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.BillToDealListActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.QuickOrderActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.UserSettingActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.MoreSettingActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.LifeServiceActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.HistoryTradeActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.HistoryTradeDetailActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.HistoryReceiptActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.LatestMessageDetailActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.LatestMessageListActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.ProductSignActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.OrderConfirmActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.AppIntroActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.AppUserProtocolActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.PersonalInfoActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="0" name="com.whty.qd.huifukuan.home.PictureTakeActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.AppPromoteActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.AppPromoteDetailActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.lifeservice.TradeHistoryActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.lifeservice.TradeHistoryDetailActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.lifeservice.CreditRepaymentActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.lifeservice.CreditRepaymentConfActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.lifeservice.PhonePayActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.lifeservice.PhonePayConfActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.ProductSelectActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.ProductCartActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.ProductDetailActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.home.OrderProductsActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.DeviceProbeActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.DeviceUnlockActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.DeviceChangepsdActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.BankcardManageActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.BankcardAddActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.BankcardReadActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.BankcardUpdateActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.BankcardQueryResultActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.PayConfirmActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.BankcardSelectActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.PaySuccessActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.SecretInput" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.whty.qd.huifukuan.pay.SignActivity" configChanges="160" windowSoftInputMode="2">
+2
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.whty.qd.huifukuan.dovila.BatteryElectricService">
+1
+<receiver name="com.whty.qd.huifukuan.pay.MediaButtonReceiver">
+0
+Owner: CN=QD, OU=QD, O=QD, L=WUHAN, ST=HUBEI, C=CN
+Issuer: CN=QD, OU=QD, O=QD, L=WUHAN, ST=HUBEI, C=CN
+Serial number: 4eeb067b
+Valid from: Fri Dec 16 16:51:07 CST 2011 until: Sun Dec 08 16:51:07 CST 2041
+Certificate fingerprints: 
+	MD5:A9:B8:58:55:76:CB:B1:91:A0:2E:E4:E3:67:DB:91:80
+	SHA1: 5A:9E:38:FC:5D:DC:53:09:4D:AF:47:51:F1:40:F8:33:42:C3:39:C7
+	SHA256: FD:06:CB:52:8F:87:33:6E:A7:AC:58:35:67:B7:5C:56:0E:56:37:3E:26:36:3F:32:6D:5C:FC:7A:FA:28:0C:FA
+	Signature algorithm name: SHA1withRSA
+	version: 3

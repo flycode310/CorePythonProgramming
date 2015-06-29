@@ -1,0 +1,408 @@
+com.paic.zhifu.wallet.activity
+350
+3.5.0
+14
+16
+32
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.ACCESS_GPS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.SEND_SMS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+346
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.cashier.PartnerPredictActivity" theme="16973840">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.cashier.PartnerCenterActivity" theme="16973840">
+<activity finishOnTaskLaunch="false" screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.cashier.PartnerResultActivity" theme="16973840" allowTaskReparenting="false" exported="true">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.cashier.PartnerResultNewActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.login.OldLoginActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.guide.GuideActivity" theme="16973841" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.guide.LoadingActivity" theme="16973841" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.login.LoginGestureActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.gesture.GestureSettingActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.login.OldLoginChangeActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.login.LoginVerify" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.login.LoginOutActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.CertificationActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.SetLoginPasswordActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.SetPayPasswordActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.SixNumberPaypassword">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.PhoneValidationActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.RegistryResultsActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.UploadAvatarActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.CheckUpdateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.PersonDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.AboutActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.FeedbackActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.recharge.RechargeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.withdraw.WithdrawRechargeBanckCardActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.cashier.CashierNewActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.cashier.CashierLiteActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.recharge.RechargeBankActivity" launchMode="0">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.withdraw.WithdrawActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.withdraw.PrewithdrawActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.withdraw.WithdrawInputActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.withdraw.WithdrawBankActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.withdraw.WithdrawResultActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.boundcard.OpenPaymentActivity" theme="16973840" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.boundcard.OpenUnionPayAcitivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.boundcard.OpenPaymentConfirmActivity" theme="16973840" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.boundcard.BindCardResultActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.WalletAgreementActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.WalletAboutActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.boundcard.OpenPayAgreementActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bill.BillDetailActivity" launchMode="0">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bill.PersonalBillActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bill.Point2PointBillActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.pay.TransferWalletActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.pay.HistoryTransferBankActivity" launchMode="0">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardsInfo.BankCardsInfo" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardsInfo.BankCardSelectFunction" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.SetUpGroupDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.GroupInfoActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.GroupMemberListActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.ActivityListActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.GroupContactActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.GroupModifyNameActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.GroupMemberInfoNoteName" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.GroupChatActivity" theme="2131558418" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.pay.TransferPayActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.contacts.PhoneContactsActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.contacts.SearchPhoneActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.qrcode.CaptureActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.qrcode.GeneralCaptureActivity" theme="2131558489" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.qrcode.MyQRCodeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.transactionInfo.TransactionInfo" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.publicaccount.PublicAccountActivity" theme="2131558418" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.publicaccount.PADetailActivity" theme="2131558418" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.HelpActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.HelpDetailActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.home.ReferFriendActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.NewMessageNotificationAcitvity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.NowpayActivity2" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.NowpayActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.PaymentSettingActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.DefaultPaymentModeActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.SettingResultActivity" theme="2131558424" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.control.ImageActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.animation.TransferMoneyAnimationActivity" theme="16973840">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.animation.RedBagPersonalAnimationActivity" theme="16973830">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.animation.RedBagMaAnimationActivity" theme="16973840">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.mobilerecharge.MobileRechargeActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.mobilerecharge.ModernMobileRechargeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.mobilerecharge.SelectRechargeNumberActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.CertifiedAsASafetyDeviceActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.youqian.YouQianActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.GroupMemberInfoActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.appcenter.OtherAppsActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.redpacket.RedPacketsActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.redpacket.FriendsActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.redpacket.SendRedPacketInfoActivity" theme="2131558418" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.redpacket.BegRedPacketActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.home.AdsActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.RegisterSignUpActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.WeakRealNameSignUpApplyActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.MonthlyBillActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.MonthlyBillDetailActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.NoMonthlyBillActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.UploadICActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.RealNameSignUpApplyActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.wlt.OpenWlt" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.FindPassword" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.wlt.IntegrationWlt" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.wlt.GamePayResultActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.cashier.PaySuccessActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.AppraiseActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.PaymentActvity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.RepaymentInfoActivity" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.UploadBankBillActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.SecondAddInfoPageOneActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.SecondAddInfoPageTwoActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.FindPayPassword" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.CommonEquipmentActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.ModifyDeviceName">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.FunctionIntroductionActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.SecurityCenterActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.publicaccount.PublicAccountInfoActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.NotSupportActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.ApplicationProcessingActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.OfficePhysicalAddressActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.StepThreeGPSActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.wlt.MoreIntegration" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.LicenseStepOneActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.StepOneSuccessActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.appcenter.OtherAppsWebActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.BankCardWaitVerifyActivity" launchMode="2">
+<activity name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.BankBillImageViewerActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.ChangeLoginPassWord" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.ChangePayPassWord" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.MineQRCodeActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditpayment.HelpInfoActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.SecurityLevelActvity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.Pay4OfflineActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.Pay4OfflineActivityNew" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.Pay4OfflineShopListActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.Pay4OfflineSearchShopActivity" windowSoftInputMode="21">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.Pay4OfflineShopDetailsActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.OfflineShopWebAvtivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.ShopOnMapActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.Pay4OfflinePathActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.group.ChangeGroupHeadActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.control.DateTimeSelectActivity" theme="16973835" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.LifePayAgreementActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.LifePayCityChooseActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.LifePayChooseConfirmActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.LifePayInputActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.LifePayMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.LifepaySuccess" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.LifepayUnpayBill" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.HouseNumInputActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.BarcodeInputActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.LifepayProtocol" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundBillActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.AboutBalanceActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundTransferoutAutoRuleList">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundTransferOutDatePicker">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundTransferOutRuleDetail">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.TransferInSuccessActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.TransferOutSuccessActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundMain" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundAssets" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundWebViewActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.PageAssetsMore" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundIn" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundOut" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundLargeOutConfirm">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.LargeFundOut">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundWithdraw" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundWithdrawInput" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundWithdrawSetAmount" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundWithdrawPassword" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundOutSelectSource" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundoutPasswordActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundAutoTransferOutPasswordActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundAutoTransferOutSelectPaymentActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundAutoTransferOutSetAmountActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundAutoTransferOutSetRemarkActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundAutoTransferInSelectDateActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundAutoTransferInSelectPamentActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundAutoTransferInValueActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundInAuto">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.ExperienceGoldActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundInAutoPasswordActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundTransferInRemarkActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundInAutoRuleDetailActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.ModifyFundInRuleActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.ModifyFundRuleDetailsActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.ModifyFundInAmountActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.MyExperienceGoldActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundGuideActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.FinancingMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.YanglaoxianProtocol" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.FinancingTypeDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.FinanceRecomandDetail" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.FinanceActivityRiskEntry" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.FinanceActivityRiskQuestion">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.FinanceActivityRiskResult">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.FinanceBuyActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.TransactionList" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.FinancingBillDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financing.FinancePaySuccess">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.FinancingWebViewActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.extension.ExtensionMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.upgradeaccount.UpgradeRealName" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.boundcard.OpenPaymentSetPayPssword" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.upgradeaccount.UpgradePoint" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.pay.VerifyPayPasswordActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.VerifyIdcardActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.home.ProtocolPromptActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.home.BillsActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.home.SettingActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.beaconpay.OpenBluetoothActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.beaconpay.BeaconPayEntranceActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.beaconpay.NearBeaconActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardsInfo.BankCardDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.beaconpay.AffirmPayActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.prepaidcard.PrepaidCardAdd" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardmanager.PrePayCardBindReady" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.prepaidcard.PrepaidAgreement" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.login.LoginSendSMS" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.login.LoginSMSVerify" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.Pay4OfflineOneShopAllListactivity" theme="2131558418" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.Pay4OfflineOneShopDetails" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.merchant.WebMerchant">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.login.LoginPaOneActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundTransactionHistoryActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundTransferIntoAuto" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.FundAbout" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.pay4offline.Pay4OfflinePSWActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.PageRule">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.PageRuleInput">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.film.FilmTradeSuccessActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardmanager.BankcardManager" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardmanager.BankCardDetail" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardmanager.PrePayCardInputPasswordActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardmanager.PrePayCardActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.healthcard.AddHealthCardActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.youqian.NewYouQianActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.healthcard.HealthCardActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.healthcard.HealthCardShopActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.healthcard.SimpleSuccessActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.coupon.CouponSketchActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.coupon.CouponSearchActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.pay.PaySuccessActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.pay.MobileRechargePaySuccessActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.beaconpay.BeaconAdActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.share.WeiboShareActivity" windowSoftInputMode="37" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.messagecenter.MessageCenterActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.login.LoginPaOneRegister" theme="2131558417" launchMode="2">
+<activity screenOrientation="0" name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.wxapi.WXEntryActivity" theme="2131558417" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.wxapi.QzoneEntryActivity" theme="2131558417" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.messagelogin.MessageLoginActivity" theme="2131558417" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.wxapi.WBEntryActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.securitycenter.ChangePhoneNumActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.extension.ExtensionOutActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.extension.ExtensionOutPasswordActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.extension.ExtensionOutSuccessActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.settings.AvatarActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.home.HelpCenterActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.HktGuideActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.OpenHktActivity" theme="2131558442">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.HKtDateSelectorActivity" theme="2131558437">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.HKtMainActivity" theme="2131558418" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.HKtRepaymentBankSettingActivity" theme="2131558437">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.HktSettingPasswordActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.OpenHktSuccessActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.AddRepayBankCardActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.AddRepayBankCardConfirmActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.register.FromThirdPartyRegister" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.newhome.NewHomeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.home.TotalAssetsActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huankuantong.HktAgreementActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.coupon.CouponHomePlusActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.coupon.CouponDetailsPlusActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.coupon.OldCouponDetailsPlusActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.internalloginstate.InternalWebActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.internalloginstate.CommonwealSuccessActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangBankCardChooserActivity" theme="2131558492">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardTransferInAutoActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardTransferInAutoSettingActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardTransferInByHandActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardTransferInSuccessfulActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardInputPasswordActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardNoCardAvailableActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardUserPermissionContractActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.ApplyHuaYangCard">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.ApplySuccess">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.CheckPostAddressActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.SelectDateActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.ActivityHYKOpenSuccess">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.StartApplyHykActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HykStatusActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HykVerifiDenialActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.NewHuaYangCardHomeActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardHomeActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardGainsHome">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardChangePasswordActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.UpLoadIdCard">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.ApplyHYKErrorActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardOpen">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HYKBillsActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HYKBillsDetailActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HYKProfitDetailActicity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.huayangka.HuaYangCardInviteActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.haoguanjia.HGJPaySuccessActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.webtool.LoadUrlActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.mall.MallPaySuccessActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.home.InvitationCodeActivity">
+<activity name="com.paf.hybridframe.bridge.PafHybridframeActivity" theme="2131558430" configChanges="1204" label="2131493024" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.FinanceMallHome" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.FinanceProductLists" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.MyFinanceProductActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.MyFinanceActivity" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.FinanceMallBuySuccessActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.FinanceMallBuyWaywardSuccessActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditrepayment.AddCreditCardActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditrepayment.CreditcardListActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditrepayment.CreditRePayBillsActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditrepayment.CreditRePayQuotaActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.creditrepayment.CreditRepaySuccess">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.FinanceMallRedeemSuccessActivity" launchMode="1">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.pay.LotteryPaySuccessActivity">
+<activity screenOrientation="1" name="com.pingan.anydoor.ui.activity.CommonWebViewActivity" theme="2131558402" label="2131494907" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pingan.anydoor.ui.activity.ProtocolWebViewActivity" theme="2131558402">
+<activity name="com.paic.zhifu.wallet.activity.modules.newhome.TransferRecordsActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.debitcardtransfer.DebitcardTransferActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.debitcardtransfer.DebitcardListActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.fund.OpenBalanceAddValueActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.debitcardtransfer.DebitcardBankListActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.debitcardtransfer.DebitcardQuotaActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.debitcardtransfer.DebitcardSuccessActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardmanager.PrepayCardDetailActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.bankcardmanager.PrePayCardChangePwdActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.newlogin.LoginActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.newlogin.ActivationActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.newlogin.IdentityVerifyActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.newlogin.LoginInputPwdActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.newlogin.LoginWithSMSActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.newlogin.LoginChangeActivity" theme="2131558417" launchMode="2">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.guide.ConfiguredImageActivity" theme="2131558417">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.paone.PAoneBindActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.paone.PAoneBindByYQBActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.proxy.ProxyActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.modules.home.YiGuanJiaActivity" configChanges="160">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.PullToRefreshActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.lifepay.LifePayRemarkActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.ProceedsCalendarActivity">
+<activity screenOrientation="1" name="com.paic.zhifu.wallet.activity.outerapp.financingmall.MyProductFilterActivity">
+7
+<service name="com.paic.zhifu.wallet.sdk.service.PaicService" exported="true">
+<service process=":remote" enabled="true" name="com.paic.zhifu.wallet.activity.push.PushMessageService" exported="false" label="PushMessageService">
+<service enabled="true" name="com.paic.zhifu.wallet.activity.controller.multimediaManager.audioProcessing.AudioPlayerService" exported="false">
+<service enabled="true" name="com.paic.zhifu.wallet.activity.modules.login.LoginService" exported="true">
+<service name="com.paic.zhifu.wallet.activity.uploadconfig.UpLoadConfigServices" exported="false">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" persistent="true" name="com.paic.zhifu.wallet.activity.outerapp.messagecenter.MessageCenterService" exported="false">
+3
+<receiver name="com.paic.zhifu.wallet.activity.push.PushNotificationDismissReceiver">
+<receiver name="com.paic.zhifu.wallet.activity.push.PushReceiver">
+<receiver name="com.paf.hybridframe_support.RemoveAppChecker">
+0
+Owner: CN=yqb youqian, OU=Ping An Pay Intelligence Technology Co. Ltd, O=Ping An Pay Intelligence Technology Co. Ltd, L=Shanghai, ST=Shanghai, C=86
+Issuer: CN=yqb youqian, OU=Ping An Pay Intelligence Technology Co. Ltd, O=Ping An Pay Intelligence Technology Co. Ltd, L=Shanghai, ST=Shanghai, C=86
+Serial number: 527b27df
+Valid from: Thu Nov 07 13:40:47 CST 2013 until: Wed Mar 10 13:40:47 CST 3013
+Certificate fingerprints: 
+	MD5:EA:3D:5B:A6:E1:A4:70:70:B8:00:3F:57:2D:7F:40:02
+	SHA1: 8D:7A:8B:6B:3F:09:64:CB:A5:17:3E:48:DC:44:15:5C:87:87:91:DA
+	SHA256: 12:CD:E5:5E:E4:1B:96:4C:1D:39:FD:3F:E2:E9:C0:50:CF:60:1D:95:3F:76:37:8B:FA:07:5A:9A:D3:68:B7:F7
+	Signature algorithm name: SHA1withRSA
+	version: 3

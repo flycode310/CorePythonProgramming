@@ -1,0 +1,107 @@
+com.zgwz
+14
+3.0.0
+8
+17
+24
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.BATTERY_STATS
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.BROADCAST_STICKY
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+57
+<activity screenOrientation="1" name="com.cmstop.android.SplashActivity" theme="2131492968" configChanges="144" label="2131099791">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.cmstop.android.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.cmstop.android.CmsTopSlideMuActivity" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopHome" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.newhome.CmsTopHome" theme="2131492973" configChanges="144" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cmstop.picture.CmsTopPics" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.picture.ContentActivity" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopLives" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopLivesDetail" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopVideos" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopSpTopic" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopAddColumn" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopSetting" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopLoginActivity" theme="2131492970" configChanges="144" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopFeedBack" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopArticaleDetail" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopLinktoDetail" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopGroupPicsDetail" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopGroupPicsNewsDetail" theme="2131492970" configChanges="144">
+<activity name="com.cmstop.android.CmsTopVideosDetail" theme="2131492970" configChanges="1184">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopSpecialDetail" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopSpTopicDetail" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopHomeRightFragmentActivity" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.newhome.CmsTopWeatherActivity" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopAboutUs" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopChooseCity" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopBaoLiao" theme="2131492970" configChanges="176" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopComment" configChanges="176" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopShare" theme="2131492970" configChanges="144" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopSearchNews" configChanges="144" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopSettingText" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopMessage" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopFavNews" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopVoteAndSurveys" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopVoteDetail" theme="2131492970" configChanges="144" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopSurveyDetail" theme="2131492970" configChanges="176" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopActionMapShow" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopLinkErWeiMa" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopActionSignUpDetail" theme="2131492970" configChanges="176" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopActionDetail" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopActions">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopAPPsquare" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopSingleImageShow" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopWeibo" theme="2131492967" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopWeiboDetail" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopWeiboPics" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.android.CmsTopWeiboLinkDetail" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.group.WaterPullActivity" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.cmstop.picture.pull.PullToRefreshSampleActivity" theme="2131492970" configChanges="144">
+<activity screenOrientation="1" name="com.zbar.lib.CaptureActivity" configChanges="160">
+<activity screenOrientation="1" name="com.zbar.lib.ScannerResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.cmstop.share.qq.WebviewActivity">
+<activity name="com.qiang.escore.sdk.view.DetailActivity" configChanges="160">
+<activity name="com.qiang.escore.sdk.view.WebActivity" configChanges="160">
+<activity name="com.tencent.android.tpush.XGPushActivity" theme="16973839">
+3
+<service enabled="true" name="com.cmstop.service.idigest.DownloadService">
+<service process=":xg_service_v2" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service process=":qq_push_daemon" name="com.tencent.android.tpush.service.XGDaemonService">
+3
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="com.cmstop.service.idigest.CustomPushReceiver">
+<receiver name="com.cmstop.service.idigest.NotificationReceiver" label="2131099791">
+0
+Owner: CN=li, OU=palmtrends, O=palmtrends, L=chongqing, ST=chongqing, C=cn
+Issuer: CN=li, OU=palmtrends, O=palmtrends, L=chongqing, ST=chongqing, C=cn
+Serial number: 4fc347cf
+Valid from: Mon May 28 17:39:27 CST 2012 until: Fri May 22 17:39:27 CST 2037
+Certificate fingerprints: 
+	MD5:CF:A6:EE:AD:94:93:D7:1D:F9:F7:F2:F4:00:FB:80:1F
+	SHA1: 2F:16:79:0F:D4:3C:6C:89:71:60:5A:95:7D:AB:8D:81:50:43:D3:42
+	SHA256: 2D:BB:23:84:B4:79:6A:2D:71:D3:15:E7:83:30:D1:23:9D:A6:D1:93:CB:7B:0B:CB:C6:3E:90:BE:2D:99:60:9D
+	Signature algorithm name: SHA1withRSA
+	version: 3

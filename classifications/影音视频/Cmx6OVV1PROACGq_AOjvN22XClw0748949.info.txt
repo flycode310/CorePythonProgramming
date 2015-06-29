@@ -1,0 +1,95 @@
+com.kk.zhubojie
+110
+1.1.0
+14
+18
+25
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.BATTERY_STATS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+41
+<activity screenOrientation="1" name="com.kk.zhubojie.splash.SplashActivity" theme="2131230724" label="2131034242">
+<activity screenOrientation="1" name="com.kk.zhubojie.main.MainActivity" label="2131034242" launchMode="2">
+<activity screenOrientation="1" name="com.kugou.platform.component.app.CancelUpdateActivity" label="2131034242">
+<activity screenOrientation="1" name="com.kugou.framework.component.imagebrowser.ImagePagerActivity">
+<activity screenOrientation="1" name="com.kugou.framework.imagecrop.CropImage">
+<activity screenOrientation="1" name="com.kk.zhubojie.set.ConversationActivity">
+<activity screenOrientation="1" name="com.kk.zhubojie.mine.AttentionAnchorsActivity">
+<activity screenOrientation="1" name="com.kk.zhubojie.mine.BroadcastNotifyActivity">
+<activity screenOrientation="1" name="com.kk.zhubojie.anchors.fragment.SearchAnchorActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.kk.zhubojie.publish.AVRecorderActivity" launchMode="2">
+<activity screenOrientation="1" name="com.kk.zhubojie.publish.AVPreviewActivity" launchMode="2">
+<activity screenOrientation="1" name="com.kk.zhubojie.mine.ShowPreviewActivity" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.kk.zhubojie.anchors.fragment.UserHomePage" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.kk.zhubojie.set.ContactActivity">
+<activity screenOrientation="1" name="com.kk.zhubojie.hot.CustomCameraActivity">
+<activity screenOrientation="1" name="com.kk.zhubojie.set.SettingActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.kk.zhubojie.set.AboutActivity">
+<activity screenOrientation="1" name="com.kk.zhubojie.mine.CommentActivity" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.kk.zhubojie.mine.ApplyAnchorActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.kk.zhubojie.mine.PushMsgSettingActivity">
+<activity screenOrientation="1" name="com.kk.zhubojie.anchors.fragment.AnchorInfoEditActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.kk.zhubojie.anchors.fragment.FansListActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.kk.zhubojie.user.LoginActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.kk.zhubojie.user.ForgetPswActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.kk.zhubojie.user.UserAgreementActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.kk.zhubojie.detail.DynamicDetailActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.kk.zhubojie.hot.WebViewActivity" launchMode="2">
+<activity screenOrientation="1" name="com.kk.zhubojie.publish.AddDynamicActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.kk.zhubojie.publish.PublishAVActivity" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="multi_image.ImageDetailActivity">
+<activity screenOrientation="1" name="multi_image.MultiImageActivity">
+<activity screenOrientation="1" name="multi_image.ScanPhotoActivity">
+<activity screenOrientation="1" name="multi_image.ScanSinglePhotoActivity">
+<activity screenOrientation="1" name="multi_image.ScanSingleAVActivity">
+<activity screenOrientation="1" name="multi_image.ImagePagerWithWHActivity">
+<activity screenOrientation="1" name="com.kk.zhubojie.publish.AudioRecordAcitvity">
+<activity screenOrientation="1" name="com.kk.zhubojie.publish.PublishAudioRecordActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.kk.zhubojie.sharesdk.ShareSinaEditActivity">
+<activity name="com.tencent.android.tpush.XGPushActivity" exported="true">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+6
+<service enabled="true" name="com.kk.zhubojie.app.DownloadStartService">
+<service persistent="true" name="com.kk.zhubojie.service.GuardService">
+<service name="com.kk.zhubojie.player.MediaPlaybackService">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service name="com.tencent.android.tpush.rpc.XGRemoteService" exported="true">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+2
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="com.kk.zhubojie.xg_push.MessageReceiver">
+1
+<provider authorities="zhubojiedb" name="com.kk.zhubojie.db.AnchorProvider" exported="false">
+Owner: O=kuge, L=gz, ST=gd, C=CN
+Issuer: O=kuge, L=gz, ST=gd, C=CN
+Serial number: 13c23e6e
+Valid from: Tue Oct 14 11:13:34 CST 2014 until: Thu Sep 20 11:13:34 CST 2114
+Certificate fingerprints: 
+	MD5:03:C9:14:58:FC:CE:41:F0:43:84:7E:88:C6:25:D8:62
+	SHA1: 21:41:33:BB:46:02:72:1A:75:75:0F:ED:C2:86:3E:BB:BB:FD:AC:11
+	SHA256: EE:A7:2E:46:27:1B:9E:18:61:BB:2E:91:F4:2A:2B:E5:B0:1D:54:D9:56:30:D9:28:D9:33:47:32:22:2C:7F:24
+	Signature algorithm name: SHA256withRSA
+	version: 3

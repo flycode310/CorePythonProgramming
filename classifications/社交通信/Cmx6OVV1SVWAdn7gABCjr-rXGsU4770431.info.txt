@@ -1,0 +1,80 @@
+com.android.weimail.ui
+21
+2.6.1
+-1
+-1
+14
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_APN_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+40
+<activity screenOrientation="1" name=".WelcomeActivity" label="2131165184">
+<activity screenOrientation="1" name=".MainActivity" theme="16973836" launchMode="1">
+<activity screenOrientation="1" name=".MailSetActivity" theme="16973835" windowSoftInputMode="18">
+<activity name=".MessageView">
+<activity name=".MailSendActivity">
+<activity name=".ReceiveTipsActivity" theme="16973835">
+<activity name=".FolderList" theme="16973836">
+<activity screenOrientation="1" name=".UpdateActivity" theme="16973835">
+<activity name=".MenuMoreActivity">
+<activity name=".AboutActivity">
+<activity name=".HelpActivity">
+<activity name=".SignatureActivity" theme="16973835">
+<activity name=".MailBoxManagerActivity" theme="16973836">
+<activity name=".BrowserActivity">
+<activity name=".ContactsActivity" theme="16973836">
+<activity name=".FileDialog" theme="16973836">
+<activity name=".AttachmentHandle" theme="16973836">
+<activity name=".AttachmentSend" theme="16973835">
+<activity name=".DaemonSetActivity" theme="16973835">
+<activity screenOrientation="1" name=".ConversationActivity">
+<activity name=".StatisticsActivity" theme="16973836">
+<activity screenOrientation="1" name=".SmsSenderActivity" theme="16973836">
+<activity name=".ContactsPhoneActivity" theme="16973836" launchMode="1">
+<activity name="com.feedback.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.feedback.ui.FeedbackConversations">
+<activity name="com.feedback.ui.FeedbackConversation" configChanges="16">
+<activity name=".AlbumSelectActivity" theme="16973836">
+<activity name=".ApplicationShareActivity" theme="16973836">
+<activity name=".ExitTipsActivity" theme="16973835">
+<activity name=".MailOptActivity" theme="16973835">
+<activity name=".ProtectionActivity" theme="16973835">
+<activity name=".AddMailContact" theme="16973835">
+<activity name=".MailContactActivity" theme="16973836">
+<activity name=".MailSetCustomActivity" theme="16973836">
+<activity screenOrientation="1" name=".SmsBackupActivity" theme="16973836">
+<activity name=".MmsListActivity" theme="16973836">
+<activity name=".MmsContentActivity" theme="16973836">
+<activity screenOrientation="1" name=".ContactBackupActivity" theme="16973836">
+<activity name=".widget.WidgetConversationHandler" theme="16973835">
+<activity name=".widget.WidgetMessageViewHandler" theme="16973835">
+1
+<service name="com.android.weimail.logic.TaskService">
+2
+<receiver name=".widget.MailAppWidgetProvider">
+<receiver name="com.android.weimail.logic.BootReceiver">
+3
+<provider authorities="com.android.weimail.attachmentprovider" multiprocess="true" name="com.android.weimail.provider.AttachmentProvider">
+<provider authorities="com.android.weimail.MailSearchProvider" name="com.android.weimail.provider.MailSearchProvider">
+<provider authorities="com.android.weimail.ContactsPhoneProvider" name="com.android.weimail.provider.ContactsPhoneProvider">
+Owner: CN=WG, OU=21CN, O=21CN, L=GZ, ST=GD, C=CN
+Issuer: CN=WG, OU=21CN, O=21CN, L=GZ, ST=GD, C=CN
+Serial number: 4f2a5c73
+Valid from: Thu Feb 02 17:50:43 CST 2012 until: Mon Jan 26 17:50:43 CST 2037
+Certificate fingerprints: 
+	MD5:21:5E:7D:58:4A:63:11:59:0B:E8:B5:A5:03:6B:17:99
+	SHA1: 82:9A:65:E2:0D:9C:BB:4A:68:DE:54:00:02:70:CE:7A:AF:46:CA:1D
+	SHA256: E3:86:B7:B0:00:89:AD:AB:2D:B9:71:30:2D:7A:6E:53:A3:B0:67:07:89:61:2F:5A:B5:F5:76:EA:68:05:38:97
+	Signature algorithm name: SHA1withRSA
+	version: 3

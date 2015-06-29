@@ -1,0 +1,128 @@
+com.cungu.callrecorder.ui
+229
+4.4_Release
+8
+17
+37
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.ACCESS_FINE_LOCATION
+com.cungu.callrecorder.ui.permission.JPUSH_MESSAGE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.REORDER_TASKS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.READ_CALL_LOG
+android.permission.CHANGE_NETWORK_STATE
+52
+<activity name="com.cungo.callrecorder.ui.ActivityBaseWithActionBar_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityBase_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityRegister_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityLogin_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityRecordingSetting_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityDialPad_" noHistory="true">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityRecordType_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityAbout_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivitySafe_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityRecordList_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivitySearch_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivitySyncRecordList_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActiivityBecomeVip_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityPromptNote_" theme="2131492897">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityVerifyPassword_" theme="2131492897">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityFindPwd_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityAutomaticDetection_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityUserGuide_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityAccountDetail_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityRecordPlayer_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityContacts_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityPages_" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityGuide_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityListManage_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityRechargeHotLine_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityGuideV2_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityUsage_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityBecomeVip_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityPlayerSettings_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityRecordModeSelect_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityAutoCleanSetting_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityFunctionIntroduction_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityMessageCenter_" launchMode="1">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityVipFunction_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityContactUs_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityAttention_" theme="2131492897">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.BaseWebViewActivity_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityAlipayChooser_" theme="2131492897">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityLoading_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityFloatDialog_" theme="2131492897">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityPayment_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivitySubmitPayment_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityRecordingErrorInfo_" launchMode="1">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityRecommendDevices_" launchMode="1">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityShell_">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityPrivileageDesc_" launchMode="1">
+<activity name="group.pals.android.lib.ui.lockpattern.LockPatternActivity">
+<activity screenOrientation="1" name="com.cungo.callrecorder.ui.ActivityFragmentShell_">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+9
+<service name="com.cungo.callrecorder.service.TestDBService" exported="false">
+<service name="com.cungo.callrecorder.push.CGPushService" exported="false">
+<service name="com.cungo.callrecorder.service.CGTrashService" exported="false">
+<service name="com.cungo.callrecorder.service.CGEasyRecordingService" exported="false">
+<service name="com.cungu.lib.callrecorder.externel.CGRecordService" exported="false">
+<service name="com.cungo.callrecorder.service.CGRecordUploadService" exported="false">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+10
+<receiver name="com.cungo.callrecorder.service.CGBootReceiver" exported="false">
+<receiver enabled="true" name="com.cungo.callrecorder.service.CGEasyPhoneStateReceiver" exported="true">
+<receiver name="com.cungo.callrecorder.CGUserStateReceiver" exported="false">
+<receiver name="com.cungo.callrecorder.ActivationBroadCast" exported="false">
+<receiver name="com.cungo.callrecorder.service.CGNetworkListener" exported="false">
+<receiver name="com.cungo.callrecorder.push.CGPushGoesOffReceiver" exported="false">
+<receiver name="com.cungo.callrecorder.push.CGLocalPushListener" exported="false">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.cungo.callrecorder.service.JPushReceiver" exported="true">
+0
+Owner: CN=huyq, OU=LIUXIAN, O=LIUXIAN, L=HZ, ST=ZJ, C=CN
+Issuer: CN=huyq, OU=LIUXIAN, O=LIUXIAN, L=HZ, ST=ZJ, C=CN
+Serial number: 50a5e11e
+Valid from: Fri Nov 16 14:45:50 CST 2012 until: Sun Nov 09 14:45:50 CST 2042
+Certificate fingerprints: 
+	MD5:09:82:F4:0A:5D:AB:DF:34:5B:C1:0C:B4:C2:66:D2:C2
+	SHA1: F0:1D:20:69:31:C1:1A:50:1C:B3:4C:F2:AF:D8:DD:91:1D:FA:A2:AC
+	SHA256: B4:61:42:CA:B1:0C:EB:1A:D2:6A:0D:13:72:C4:A9:55:26:5B:B8:54:05:85:BF:2A:E5:76:D6:FB:2C:9A:4D:A1
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,39 @@
+com.daihaoer.SMSjokeGood
+1
+1.0
+4
+-1
+9
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+10
+<activity screenOrientation="1" name="com.daihaoer.SMSjoke.SMSjokeActivity" configChanges="160" label="2130968576">
+<activity screenOrientation="1" name="com.daihaoer.SMSjoke.SMSjokeWindow" configChanges="160" label="2130968576">
+<activity screenOrientation="1" name="com.daihaoer.SMSjoke.SMSjokeFavs" configChanges="160" label="2130968576">
+<activity name="com.millennialmedia.android.MMAdViewOverlayActivity" theme="16973840">
+<activity name="com.millennialmedia.android.VideoPlayer" theme="16973831" configChanges="176">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="com.google.ads.AdActivity" configChanges="176">
+<activity name="com.guohead.sdk.GuoheAdActivity" theme="16973835" configChanges="176">
+<activity screenOrientation="1" name="com.vpon.adon.android.WebInApp" configChanges="240">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+0
+0
+0
+Owner: CN=DAI ZHENGUO, OU=NEW STARTING LINE, O=NEW STARTING LINE, L=BEIJING, ST=BEIJING, C=CN
+Issuer: CN=DAI ZHENGUO, OU=NEW STARTING LINE, O=NEW STARTING LINE, L=BEIJING, ST=BEIJING, C=CN
+Serial number: 4af78437
+Valid from: Mon Nov 09 10:53:43 CST 2009 until: Sun Feb 11 10:53:43 CST 2035
+Certificate fingerprints: 
+	MD5:DB:34:75:9C:53:29:75:0D:C9:0A:32:94:1B:B0:19:CD
+	SHA1: 30:DC:B6:DF:34:B1:79:1A:77:CD:01:8E:0C:B2:B2:F4:23:75:EE:D9
+	SHA256: 3B:F5:7F:9D:E6:7A:4C:C7:D2:CC:14:72:4A:8C:1E:3A:F8:C2:5F:8E:62:4F:BE:7A:6B:10:FA:25:6B:98:23:32
+	Signature algorithm name: SHA1withRSA
+	version: 3

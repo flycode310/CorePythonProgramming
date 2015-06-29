@@ -1,0 +1,121 @@
+com.evernote.world
+14210
+4.2.1
+4
+15
+18
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+evernote.permission.READ_DATA
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+evernote.permission.WRITE_DATA
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+68
+<activity name="com.evernote.ui.HomeActivity" theme="2131623938" configChanges="160" alwaysRetainTaskState="true">
+<activity name="com.evernote.ics.phone.PhoneMainActivity" theme="2131623938" configChanges="1184" alwaysRetainTaskState="true" launchMode="2">
+<activity name="com.evernote.ics.tablet.TabletMainActivity" theme="2131623938" configChanges="1184" alwaysRetainTaskState="true" launchMode="2">
+<activity name="com.evernote.ui.maps.EvernoteMapActivity" theme="2131623938" label="2131165191" launchMode="2">
+<activity name="com.evernote.ui.maps.SnippetActivity" theme="2131623938" label="2131165191" launchMode="2">
+<activity name="com.evernote.ui.maps.NoteListActivity" theme="2131623938" configChanges="1184" label="2131165191" launchMode="2">
+<activity name="com.evernote.ui.maps.MapActivityGroup" theme="2131623938" label="2131165191" launchMode="2">
+<activity name="com.evernote.ui.maps.PinDropActivity" theme="2131623938" configChanges="128" label="2131165191" launchMode="1">
+<activity name="com.evernote.ui.maps.amazon.EvernoteMapActivity" theme="2131623938" label="2131165191" launchMode="2">
+<activity name="com.evernote.ui.maps.amazon.MapActivityGroup" theme="2131623938" label="2131165191" launchMode="2">
+<activity name="com.evernote.ui.maps.amazon.PinDropActivity" theme="2131623938" label="2131165191" launchMode="1">
+<activity name="com.evernote.ui.PinLockActivity" theme="2131623938">
+<activity name="com.evernote.ui.SecurityPreferenceActivity" configChanges="416" label="2131165933" launchMode="2">
+<activity name="com.evernote.ics.phone.SwipeableNoteListActivity" theme="2131623938" configChanges="1184">
+<activity name="com.evernote.ics.phone.SwipeableNoteListAloneActivity" theme="2131623938" configChanges="1184" allowTaskReparenting="true" taskAffinity="com.evernote.standAlone" alwaysRetainTaskState="true" launchMode="1">
+<activity name="com.evernote.ics.EvernoteNotePickerActivity" theme="2131623938" configChanges="1184" alwaysRetainTaskState="true" launchMode="1">
+<activity name="com.evernote.ics.phone.SwipeableNoteViewActivity" theme="2131623938" configChanges="1184" alwaysRetainTaskState="true">
+<activity name="com.evernote.ics.phone.HoneycombSwipeableNoteViewActivity" theme="2131623938" configChanges="1184" alwaysRetainTaskState="true">
+<activity name="com.evernote.ics.phone.SwipeableNoteViewAloneActivity" theme="2131623938" configChanges="1184" allowTaskReparenting="true" taskAffinity="com.evernote.standAlone" alwaysRetainTaskState="true">
+<activity name="com.evernote.ui.InformationActivity" configChanges="1184" label="2131165448">
+<activity name="com.evernote.ics.tablet.NoteListActivity" theme="2131623938" configChanges="1184" alwaysRetainTaskState="true">
+<activity name="com.evernote.ui.GoogleSearchResultRedirectActivity" allowTaskReparenting="true" taskAffinity="com.evernote.standAlone" launchMode="1">
+<activity name="com.evernote.ics.tablet.NoteListAloneActivity" theme="2131623946" configChanges="1184" allowTaskReparenting="true" taskAffinity="com.evernote.standAlone" alwaysRetainTaskState="true" launchMode="1">
+<activity name="com.evernote.ics.tablet.NoteViewActivity" theme="2131623946" configChanges="1184" alwaysRetainTaskState="true">
+<activity name="com.evernote.ics.tablet.NoteViewAloneActivity" theme="2131623946" configChanges="1184" allowTaskReparenting="true" taskAffinity="com.evernote.standAlone" alwaysRetainTaskState="true">
+<activity name="com.evernote.ui.AccountInfoPreferenceActivity" configChanges="160" label="2131165622">
+<activity name="com.evernote.ui.EvernotePreferenceActivity" configChanges="160" label="2131165622">
+<activity name="com.evernote.note.composer.NewNoteActivity" theme="2131623946" configChanges="1440" allowTaskReparenting="true" alwaysRetainTaskState="true">
+<activity name="com.evernote.ui.SkitchImageActivity" theme="2131624083" configChanges="1440">
+<activity name="com.evernote.note.composer.NewNoteAloneActivity" theme="2131623946" configChanges="1440" taskAffinity="com.evernote.standAlone" alwaysRetainTaskState="true">
+<activity name="com.evernote.ui.WidgetNewNoteActivity" theme="2131623950" configChanges="1184" label="2131166056" taskAffinity="com.evernote.newNoteTask" alwaysRetainTaskState="true">
+<activity name="com.evernote.ui.EmailActivity" theme="2131623950" configChanges="1184">
+<activity name="com.evernote.ui.TagEditActivity" theme="2131624084" configChanges="1184" windowSoftInputMode="2">
+<activity name="com.evernote.ui.NoteInfoActivity" theme="2131624084" configChanges="1184">
+<activity name="com.evernote.ui.SkitchUpsellActivity" theme="2131624084" configChanges="1184">
+<activity name="com.evernote.note.composer.FilePickerActivity" configChanges="1184">
+<activity name="com.evernote.ui.AuthenticationActivity" theme="2131624084" configChanges="1184">
+<activity name="com.evernote.ui.WebActivity" configChanges="1184">
+<activity name="com.evernote.ui.TrunkActivity" theme="2131623946" configChanges="160">
+<activity name="com.evernote.ui.SearchActivity" theme="2131623950" configChanges="1184" windowSoftInputMode="2" alwaysRetainTaskState="true">
+<activity clearTaskOnLaunch="true" excludeFromRecents="true" name="com.evernote.ui.WidgetSearchActivity" theme="2131623948" configChanges="1184" allowTaskReparenting="true" windowSoftInputMode="2" taskAffinity="com.evernote.searchTask">
+<activity name="com.evernote.ui.AdvanceSearchActivity" theme="2131623946" configChanges="1184" windowSoftInputMode="2">
+<activity name="com.evernote.ui.AdvanceSearchSelector" theme="2131623946" configChanges="1184">
+<activity name="com.evernote.ui.LoginActivity" theme="2131623939">
+<activity name="com.evernote.ui.RateAppActivity" theme="2131623944" configChanges="1184" label="2131165895">
+<activity name="com.evernote.ui.DYNDialogActivity" theme="2131623944" configChanges="1184" label="2131165945">
+<activity name="com.evernote.ui.StandardDialogActivity" theme="2131623942" configChanges="1184" launchMode="1">
+<activity name="com.evernote.ui.ShareWithFacebook" theme="2131623944" configChanges="1184" label="2131165945">
+<activity name="com.evernote.ui.ShareDialogActivity" theme="2131623942" configChanges="1184">
+<activity name="com.evernote.ui.SDCardChangedActivity" theme="2131623942" configChanges="1184" launchMode="2">
+<activity name="com.evernote.ui.helper.URIBrokerActivity" configChanges="416">
+<activity name="com.evernote.billing.AmazonBillingActivity" theme="2131624084" launchMode="2">
+<activity name="com.evernote.billing.BillingActivity" theme="2131624084" launchMode="2">
+<activity name="com.evernote.billing.LaunchBillingActivity" theme="2131624084">
+<activity name="com.evernote.ui.NotebookShareSettingsActivity" theme="2131623946" configChanges="1184">
+<activity name="com.evernote.ui.NoteShareSettingsActivity" theme="2131623946" configChanges="1184">
+<activity name="com.evernote.ui.EmailPickerActivity" theme="2131623940" configChanges="1184" windowSoftInputMode="2">
+<activity name="com.evernote.support.CustomerSupportActivity" theme="2131623946" configChanges="1184" label="2131166387">
+<activity excludeFromRecents="true" name="com.evernote.ui.dialog.GetWidgetAppDialogActivity" theme="2131623943" configChanges="1184" taskAffinity="com.evernote.widgetDialog" launchMode="1">
+<activity excludeFromRecents="true" name="com.evernote.ui.dialog.ReplaceWidgetDialogActivity" theme="2131623943" configChanges="1184" taskAffinity="com.evernote.widgetDialog" launchMode="1">
+<activity excludeFromRecents="true" name="com.evernote.ui.dialog.BlockOldWidgetDialogActivity" theme="2131623943" configChanges="1184" exported="true" taskAffinity="com.evernote.widgetDialog" launchMode="1">
+<activity excludeFromRecents="true" name="com.evernote.help.FeatureDiscoveryWidgetGet" theme="2131623947" configChanges="1184" noHistory="true" taskAffinity="com.evernote.fullscreenfeatureDialog">
+<activity name="com.evernote.help.FeatureDiscoveryPromo" theme="2131623947" configChanges="1056">
+<activity name="com.evernote.help.PromoWebActivity" theme="2131623940" configChanges="1184">
+<activity excludeFromRecents="true" name="com.evernote.help.FeatureDiscoveryWidgetConfig" theme="2131623947" configChanges="1184" noHistory="true" taskAffinity="com.evernote.fullscreenfeatureDialog">
+<activity screenOrientation="1" name="com.evernote.ui.VideoCaptureActivity" theme="2131623941" configChanges="1184">
+<activity name="com.evernote.ui.WelcomeActivity" theme="2131623945">
+<activity name="com.evernote.ui.gallery.GalleryActivity" theme="2131623938" configChanges="1184">
+3
+<service name="com.evernote.client.EvernoteService" label="2131165191">
+<service name="com.evernote.client.SyncService" label="2131165191">
+<service name="com.evernote.billing.BillingService">
+11
+<receiver name="com.evernote.ui.EvernoteWidgetProvider" label="2131166054">
+<receiver name="com.evernote.ui.EvernoteWidgetWSnippetProvider" label="2131166055">
+<receiver name="com.evernote.BootReceiver">
+<receiver name="com.evernote.ui.helper.SyncNotification">
+<receiver name="com.evernote.ui.helper.LiveKeyAudioNoteReceiver" label="2131166059">
+<receiver name="com.evernote.ui.helper.StopAudioNoteReceiver">
+<receiver name="com.evernote.billing.BillingReceiver">
+<receiver name="com.evernote.util.MultiUseReceiver">
+<receiver name="com.amazon.inapp.purchasing.ResponseReceiver">
+<receiver name="com.evernote.common.util.AndroidCommonReceiver">
+<receiver name="com.evernote.util.SessionTrackingReceiver">
+1
+<provider writePermission="evernote.permission.WRITE_DATA" authorities="com.evernote.evernoteprovider" name="com.evernote.provider.EvernoteProvider" grantUriPermissions="true" readPermission="evernote.permission.READ_DATA">
+Owner: CN=Evernote Mobile Products, O=Evernote Corporation, L=Mountain View, ST=California, C=US
+Issuer: CN=Evernote Mobile Products, O=Evernote Corporation, L=Mountain View, ST=California, C=US
+Serial number: 4af9fc4d
+Valid from: Wed Nov 11 07:50:37 CST 2009 until: Fri Nov 04 07:50:37 CST 2039
+Certificate fingerprints: 
+	MD5:88:68:F4:3F:9F:DA:A9:35:5C:C6:CE:19:DE:5B:EB:E0
+	SHA1: 0B:47:D8:D2:1D:8A:24:A2:A4:0C:41:59:E8:A5:D4:D6:B0:27:AF:25
+	SHA256: 5D:2E:C7:84:5D:F1:F3:E9:21:A3:88:8E:9C:04:08:74:FE:FF:9B:85:2C:6D:12:A0:68:40:2B:D4:76:97:C2:77
+	Signature algorithm name: SHA1withRSA
+	version: 3

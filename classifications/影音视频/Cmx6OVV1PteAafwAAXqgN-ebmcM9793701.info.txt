@@ -1,0 +1,111 @@
+com.baidu.tv.hd
+3
+1.1.1
+15
+15
+32
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RUN_INSTRUMENTATION
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.MANAGE_USERS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_ALL_DOWNLOADS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.GET_PACKAGE_SIZE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+android.permission.INTERACT_ACROSS_USERS_FULL
+com.baidu.appsearch.permission.LAUNCH
+com.baidu.permission.SHARE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.INTERACT_ACROSS_USERS
+android.permission.VIBRATE
+47
+<activity screenOrientation="0" name="com.baidu.tv.launcher.home.SplashActivity" theme="16973834" configChanges="187">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.settings.update.SettingUpdateActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.settings.SettingPlayActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.music.MusicMainActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.music.MusicDetailActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.music.MusicTableActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.music.MusicListActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.pan.pic.ImageSlideFromFlowActivity" theme="2131689684" configChanges="1184">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.pan.pic.ImageSlideFromShaftActivity" theme="2131689684" configChanges="1184">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.pan.pic.AlphaSlideShowActivity" theme="2131689684" configChanges="1184">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.home.HomePageActivity" theme="2131689584" configChanges="187" label="2131623955" windowSoftInputMode="34">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.appmgr.InstalledActivity" windowSoftInputMode="34">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.appmgr.RecomAppListActivity" windowSoftInputMode="34">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.appmgr.RecomAppDetailActivity" windowSoftInputMode="34">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.pan.app.PanAppUpdateActivity" theme="16973839">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.ZoneActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.VideoListLackActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.ListActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.YYLiveActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.FilterListActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.SpecialsActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.SpecialActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.MyFavoritesListActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.OperationActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.LiveActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.list.VideoListSelectActivity" theme="2131689588">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.settings.DeleteCacheActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.settings.InfomationActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.settings.WeatherActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.video.detail.VideoDetailActivity" windowSoftInputMode="34">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.settings.update.SettingUpdateDialogActivity" theme="16973839" launchMode="1">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.settings.update.SettingUpdateForceActivity" theme="16973839" launchMode="1">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.settings.TVHelperActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.recentwatched.RecentWatchedActivity" windowSoftInputMode="34">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.search.online.OnlineSearchActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.search.online.RecommendResultActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.search.pad.OnlineSearchForPadActivity">
+<activity screenOrientation="0" name="com.baidu.tv.launcher.pan.PanLauncherActivity" theme="2131689585" configChanges="1184">
+<activity screenOrientation="0" name="com.baidu.sapi2.tv.activity.AccountManagerActivity" launchMode="1">
+<activity screenOrientation="0" name="com.baidu.sapi2.tv.activity.LoginActivity">
+<activity screenOrientation="0" name="com.baidu.sapi2.tv.activity.RegActivity">
+<activity screenOrientation="0" name="com.baidu.sapi2.tv.activity.ForgetPwdActivity">
+<activity screenOrientation="0" name="com.baidu.sapi2.tv.activity.UnifiedLoginActivity">
+<activity screenOrientation="0" name="com.baidu.sapi2.tv.activity.LoginActivityForPad">
+<activity process=":player" screenOrientation="0" name="com.baidu.tv.player.VideoPlayerActivity" configChanges="1184" launchMode="2">
+<activity screenOrientation="0" name="com.baidu.tv.player.MusicPlayerActivity" configChanges="1184">
+<activity name="com.baidu.providers.downloads.SizeLimitActivity" theme="2131689587" launchMode="2">
+5
+<service process=":bdinput" name="com.baidu.tv.baidutvhelper.service.NetService" exported="false">
+<service process=":ssd" name="com.baidu.tv.player.sniffer.SourceService" exported="false">
+<service process=":player" name="com.baidu.tv.player.library.vlc.impl.MediaService" exported="false">
+<service name="com.baidu.tv.player.debug.TrafficService" exported="false">
+<service name="com.baidu.providers.downloads.DownloadService" permission="android.permission.ACCESS_DOWNLOAD_MANAGER">
+5
+<receiver name="com.baidu.tv.baidutvhelper.receiver.BootActionReceiver">
+<receiver name="com.baidu.tv.baidutvhelper.receiver.MountReceiver">
+<receiver enabled="true" name="com.baidu.tv.launcher.receiver.MyReceiver" exported="true">
+<receiver name="com.baidu.sapi2.share.ShareReceiver" permission="com.baidu.permission.SHARE">
+<receiver name="com.baidu.providers.downloads.DownloadReceiver" exported="false">
+2
+<provider authorities="com.baidu.tv.pad.base.provider" name="com.baidu.tv.base.db.DBProvider">
+<provider authorities="com.baidu.tv.pad" name="com.baidu.providers.downloads.DownloadProvider" exported="true">
+Owner: CN=baidu
+Issuer: CN=baidu
+Serial number: 3d9650ee
+Valid from: Tue Jan 22 16:36:08 CST 2013 until: Thu Jan 15 16:36:08 CST 2043
+Certificate fingerprints: 
+	MD5:55:67:6E:9B:7C:67:28:53:3C:B7:DE:B4:06:A3:41:94
+	SHA1: 63:A3:F8:06:39:7E:92:4F:3F:1E:0F:81:AA:88:0A:C4:C8:1A:CA:F6
+	SHA256: B9:16:40:FB:CD:58:C6:94:F3:37:0D:F3:05:D9:62:8F:A9:6C:DB:61:25:28:33:50:D1:9A:32:5A:A5:54:A9:37
+	Signature algorithm name: SHA256withRSA
+	version: 3

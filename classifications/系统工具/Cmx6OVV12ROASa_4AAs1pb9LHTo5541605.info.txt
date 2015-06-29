@@ -1,0 +1,95 @@
+com.jodo.fileexplorer
+3
+1.2
+14
+18
+48
+android.permission.INSTALL_DRM
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+dianxin.permission.ACCESS_LAUNCHER_DATA
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+org.adwfreak.launcher.permission.READ_SETTINGS
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED
+android.permission.ACCESS_DRM
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+com.android.mylauncher.permission.READ_SETTINGS
+com.lge.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_ALL_DOWNLOADS
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+com.tencent.qqlauncher.permission.READ_SETTINGS
+com.huawei.android.launcher.permission.READ_SETTINGS
+android.permission.BATTERY_STATS
+com.htc.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.RECEIVE_USER_PRESENT
+com.nd.android.launcher.permission.READ_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+org.adw.launcher_donut.permission.READ_SETTINGS
+com.moxiu.launcher.permission.READ_SETTINGS
+android.permission.WRITE_SETTINGS
+com.qihoo360.launcher.permission.READ_SETTINGS
+android.permission.INTERNET
+android.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+com.yulong.android.launcher.permission.READ_SETTINGS
+com.fede.launcher.permission.READ_SETTINGS
+org.adw.launcher.permission.READ_SETTINGS
+android.permission.VIBRATE
+android.permission.READ_SECURE_SETTINGS
+com.android.launcher.permission.READ_SETTINGS
+com.bbk.launcher2.permission.READ_SETTINGS
+net.qihoo.launcher.permission.READ_SETTINGS
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+10
+<activity name="com.jodo.myshares.activity.FakeLaunchActivity" label="2131165184">
+<activity screenOrientation="1" name="com.jodo.fileexplorer.MainActivity" uiOptions="1" configChanges="1056">
+<activity name="net.micode.fileexplorer.SearchActivity">
+<activity name="net.micode.fileexplorer.FileExplorerPreferenceActivity" theme="16974064" label="2131165312" launchMode="1">
+<activity name="net.jd.providers.downloads.SizeLimitActivity" theme="16973840" launchMode="2">
+<activity name="net.shares.GLWebviewActivity" exported="true">
+<activity excludeFromRecents="true" name="net.shares.GLActionActivity" theme="16973841" exported="true" launchMode="3">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973834">
+<activity windowNoTitle="true" name="com.umeng.fb.ContactActivity" theme="16973834">
+9
+<service name="net.micode.fileexplorer.FTPServerService">
+<service name="com.jodo.myshares.service.LauncherService" exported="true">
+<service name="net.jd.providers.downloads.DownloadService" exported="false" permission="android.permission.ACCESS_DOWNLOAD_MANAGER">
+<service name="net.shares.service.PS_service" exported="false">
+<service name="net.shares.service.RA_Service" exported="false">
+<service name="net.shares.service.ES_Service" exported="false">
+<service name="net.shares.service.SDKUSBStatus_Service" exported="false">
+<service name="net.shares.service.CreateLaunchShortcut_service" exported="false">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+7
+<receiver name="net.shares.receiver.AB_Receiver">
+<receiver name="net.shares.receiver.PA_Receiver" exported="false">
+<receiver name="net.shares.receiver.ApkInst_Receiver" exported="false">
+<receiver name="net.shares.receiver.Pkg_Receiver" label="PackageManager">
+<receiver name="net.jd.providers.downloads.DownloadReceiver" exported="false">
+<receiver name="net.shares.receiver.SDKUSBStatusReceiver">
+<receiver name="net.shares.receiver.ApkDownload_Receiver">
+1
+<provider authorities="com.jodo.fileexplorer" name="net.jd.providers.downloads.DownloadProvider" exported="false" permission="android.permission.ACCESS_ALL_DOWNLOADS">
+Owner: CN=gamelabchina, OU=gamelabchina, O=gamelabchina, L=GZ, ST=GD, C=86
+Issuer: CN=gamelabchina, OU=gamelabchina, O=gamelabchina, L=GZ, ST=GD, C=86
+Serial number: 517213e0
+Valid from: Sat Apr 20 12:04:48 CST 2013 until: Mon Mar 27 12:04:48 CST 2113
+Certificate fingerprints: 
+	MD5:98:FC:99:91:04:17:56:3E:38:FA:30:37:BE:83:9A:A9
+	SHA1: E0:A1:C7:6E:C5:92:21:16:ED:DA:12:4A:DD:1B:37:40:BF:F1:5E:93
+	SHA256: 5E:14:67:3A:DE:77:2C:5A:DD:E5:0E:D3:3F:26:59:62:B8:3F:52:B8:8B:99:3A:94:AF:3E:A0:8C:A3:11:9C:9B
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,37 @@
+com.book.maer
+1
+1.0
+-1
+-1
+7
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+6
+<activity name="mm.purchasesdk.iapservice.BillingLayoutActivity" theme="16973839" configChanges="160">
+<activity excludeFromRecents="true" name="safiap.framework.ui.UpdateHintActivity" theme="16973840" configChanges="128" launchMode="3">
+<activity screenOrientation="1" name="com.book.maer.BookListActivity" theme="16973830" configChanges="160" label="2131099648">
+<activity screenOrientation="1" name="com.book.maer.Read" configChanges="160">
+<activity screenOrientation="1" name="com.book.maer.InActivity">
+<activity screenOrientation="1" name="com.book.maer.buy_activity">
+3
+<service name="mm.purchasesdk.iapservice.PurchaseService" exported="true">
+<service process="safiap.framework" name="safiap.framework.SafFrameworkManager" exported="true">
+<service process=":remote" name="safiap.framework.logreport.monitor.handler.LogreportHandler">
+1
+<receiver name="safiap.framework.CheckUpdateReceiver">
+0
+Owner: CN=3958512, SERIALNUMBER=20140902003535353, C=CN
+Issuer: CN=CMCA application signing CA, C=CN
+Serial number: 15e0f5ac
+Valid from: Tue Sep 02 00:35:53 CST 2014 until: Sat Sep 02 00:35:53 CST 2034
+Certificate fingerprints: 
+	MD5:18:A6:51:85:77:E2:12:D6:24:D2:5A:36:BF:8A:F0:B1
+	SHA1: E0:82:47:7F:81:6E:AD:A1:49:63:77:0B:2C:FC:EB:47:9B:50:D8:21
+	SHA256: 3C:9B:EE:77:63:F7:A4:CB:D4:7E:1D:91:15:49:8D:9A:D9:1F:A4:5F:40:5D:3B:6C:14:ED:E3:2C:20:79:D8:5D
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,35 @@
+com.gongjin.cradio
+25
+2.5
+4
+19
+9
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+5
+<activity name=".MainActivity" theme="16973830" configChanges="144" label="2130968580">
+<activity name=".PlayerActivity" theme="16973830" configChanges="144" label="2130968580">
+<activity name=".SettingActivity" theme="16973830" configChanges="144" label="2130968580">
+<activity name=".AboutActivity" theme="2131034112" configChanges="144" label="2130968580">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+1
+<service name=".player.PlayerService">
+0
+0
+Owner: CN=gong jin, OU=www.cradio.cn, O=www.cradio.cn, L=shanghai, ST=shanghai, C=CN
+Issuer: CN=gong jin, OU=www.cradio.cn, O=www.cradio.cn, L=shanghai, ST=shanghai, C=CN
+Serial number: 501bcc47
+Valid from: Fri Aug 03 21:04:07 CST 2012 until: Sat Jul 11 21:04:07 CST 2111
+Certificate fingerprints: 
+	MD5:C3:25:9C:DC:A4:4D:A8:3B:60:97:96:3F:7F:C7:15:A5
+	SHA1: D6:5B:07:7B:A4:D4:FC:E9:5B:60:C7:4D:AF:00:39:61:DB:63:4E:63
+	SHA256: EE:CE:09:EC:82:21:D7:04:6B:D4:86:9E:EB:51:E2:C5:58:31:DC:03:BF:1B:20:C9:2E:7E:70:86:98:E8:80:E2
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,51 @@
+com.tianguayuedu.reader
+24
+2.4
+8
+8
+7
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+22
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity screenOrientation="1" name="com.tianguayuedu.reader.OpenLocalActivity" theme="2131492891" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.ShelfRenameActivity" theme="2131492893" label="2131099720" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.LoginActivity" theme="2131492893" label="2131099727" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.FileInfoActivity" theme="2131492893" label="2131099722" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.LocalDeleteActivity" theme="2131492893" label="2131099723" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.tianguayuedu.reader.LocalSearchActivity" theme="2131492893" label="2131099724" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.LocalRenameActivity" theme="2131492893" label="2131099720" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.ChapterActivity" theme="2131492893" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.BookmarkActivity" theme="2131492893" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.FeedbackActivity" theme="2131492893" label="2131099729" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.tianguayuedu.reader.MainActivity" theme="2131492891">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.ReaderActivity" theme="2131492891" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.UpgradeActivity" theme="2131492893" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.SplashActivity" theme="2131492892" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.tianguayuedu.reader.DownloadManagerActivity" theme="2131492891" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.BookcityListActivity" theme="2131492891" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.BookcityDetailActivity" theme="2131492891" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.tianguayuedu.reader.BookcitySearchActivity" theme="2131492891" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.BookcityCategoryActivity" theme="2131492891" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.BookcitySiteActivity" theme="2131492891" windowSoftInputMode="48">
+<activity screenOrientation="2" name="com.tianguayuedu.reader.BookcityChapterActivity" theme="2131492893" windowSoftInputMode="48">
+2
+<service name="com.tianguayuedu.reader.service.DownloadService" exported="false">
+<service name="com.tianguayuedu.reader.service.UpgradeService" exported="false">
+0
+0
+Owner: CN=a
+Issuer: CN=a
+Serial number: 521064a5
+Valid from: Sun Aug 18 14:07:33 CST 2013 until: Sat Dec 19 14:07:33 CST 3012
+Certificate fingerprints: 
+	MD5:27:C7:DB:76:EA:73:B1:EA:A3:54:15:5C:DC:A0:79:6C
+	SHA1: 1A:19:81:DE:0A:96:85:22:56:32:BE:D8:7B:B9:FF:1C:D5:D8:46:47
+	SHA256: 1B:4C:5A:6F:D8:8E:39:CB:C3:5C:8C:7B:71:F8:1D:3E:77:24:75:4D:D1:59:45:13:0D:B9:23:A9:58:34:AB:2D
+	Signature algorithm name: SHA1withRSA
+	version: 3

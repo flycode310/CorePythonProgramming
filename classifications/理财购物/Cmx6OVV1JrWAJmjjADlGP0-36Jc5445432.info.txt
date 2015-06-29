@@ -1,0 +1,123 @@
+com.meilishuoqlwe25
+26
+3.5.2
+5
+-1
+13
+android.permission.READ_PHONE_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.android.launcher.permission.android.permission.READ_LOGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.READ_CONTACTS
+android.permission.ACCESS_NETWORK_STATE
+84
+<activity screenOrientation="1" name="com.meilishuoqlwe25.app.activity.WelcomeActivity" theme="16973831" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.meilishuoqlwe25.app.activity.MainActivity" theme="16973830" label="2131230720" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".app.activity.UmengSoftRecommand" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name=".app.activity.DarenActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name=".app.activity.DapeixiuActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name=".app.activity.TwitterHaibaoListActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name=".app.activity.ItemShowSingleTwitterActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name=".app.activity.TwitterListActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name=".app.activity.DanbaoReplayActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name=".app.dialog.NoLoginDialogFormButtom" theme="16973839">
+<activity screenOrientation="1" name=".app.activity.NewShareActivity" theme="16973830" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".app.activity.NewShareActivity2" theme="16973830" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".app.activity.AddMetionActivity" theme="16973830" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".app.activity.NewMessageActivity" theme="16973830" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".app.activity.ClassificationActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.CategoryClassifyActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.ReplayForwardActivity" theme="16973830" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".app.activity.PrivateMessageThreadActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".app.activity.ImageEffectActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SearchActivityNew" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SharedActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SearchActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SearchGoodsResultActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.LoginActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.NoBindWeiboActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.FillAccountActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.BindAccountActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.NoLoginActivityNew" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.RegisterActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".app.activity.RecommandActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.TopicActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.ProfileActiviy" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SettingsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SetSyncActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainHomeActivityNew" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainHotActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainNoLoginLikeActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainNoLoginMeActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainMeActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainSortActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainLikeActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainMessageActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainShoppingActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MainInviteActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SelectContactsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.WeiboInviteActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.PhotoShowActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.ItemShowActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".app.activity.ItemFlipActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".app.activity.MyFollowsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.GroupMagaActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.FollowActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.TogetherPhotoActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.ShowTitlePicPhotoActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.ChooseTitileTopicPhotoActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.DanBaoLikeActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SelectContactsActivityForLowVersion" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name=".app.activity.MainCategoryActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name=".app.activity.WebActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.TaobaoWebActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.CategoryFenleiActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.HerProfileActiviy" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.NewMainMeActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.ChooseInterestFollowActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.RecommendFollowActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.StyleTestResultActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.CollectMagazineActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.ShareToSinaWeiboActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SixinActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.NewMainMeDetailsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SettingProfileActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.CommonHaibaoActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MyMeilishuoActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.AtMeActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.MyZazhisheActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.AboutActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.SuggestionActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.XiangxiDanbaoActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".app.activity.MainNoLoginAttentionActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.FenleiFor351Activity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.TempAPKActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" excludeFromRecents="true" name=".wxapi.WXEntryActivity" theme="16973830" configChanges="160" exported="true">
+<activity screenOrientation="1" name=".app.activity.MeilishuoWeiXingActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".app.activity.TaobaoAuthActivity" theme="16973830" configChanges="160">
+3
+<service enabled="true" name="com.meilishuoqlwe25.app.TrafficService">
+<service name=".app.PushService" label="meilishuo Push Notifications Service">
+<service process=":DownloadingService" name="com.es.common.DownloadingService" exported="true">
+3
+<receiver name=".app.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver name=".app.BootBroadcast" label="2131230720">
+<receiver name=".app.ConnNetChangeBroadcast">
+0
+Owner: CN=Young Honglin, OU=wowowo, O=wo, L=beijing, ST=China, C=22
+Issuer: CN=Young Honglin, OU=wowowo, O=wo, L=beijing, ST=China, C=22
+Serial number: 4da6f616
+Valid from: Thu Apr 14 21:26:46 CST 2011 until: Mon Apr 07 21:26:46 CST 2036
+Certificate fingerprints: 
+	MD5:F6:C3:13:99:4B:96:D2:B2:16:B4:63:EB:10:62:D9:3F
+	SHA1: AD:E6:D0:8C:B8:E5:7C:E1:D8:F8:99:70:61:E0:80:FF:DE:F0:BE:EE
+	SHA256: FB:79:36:FE:0C:6D:39:5E:18:4D:C0:6F:E2:37:17:2A:EB:2C:93:4E:71:6E:D3:70:A4:45:A7:AF:E9:FB:7F:AE
+	Signature algorithm name: SHA1withRSA
+	version: 3

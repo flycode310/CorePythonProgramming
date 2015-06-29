@@ -1,0 +1,109 @@
+com.lagooo.slim.androidhmi
+3
+1.1
+8
+8
+11
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+60
+<activity screenOrientation="1" name="com.lagooo.slim.android.MainActivity" label="2131165189">
+<activity screenOrientation="1" name="com.lagooo.slim.android.HomePageActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.personal.PersonalCenterActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.figure.UploadPhotoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lagooo.slim.android.figure.FigureGalleryActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lagooo.slim.android.figure.FigurePhotoDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lagooo.slim.android.diet.RecordActivityActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.lagooo.slim.android.diet.CustomActivityAcivity" configChanges="160">
+<activity screenOrientation="1" name="com.lagooo.slim.android.diet.ActivityListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lagooo.slim.android.advertise.AdvertiseDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lagooo.slim.android.advertise.AdvertiseWebActivity" configChanges="160">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.exercise.ChangeExerciseActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.exercise.ExerciseDetailActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.exercise.MyWorkoutActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.LoginActivity">
+<activity screenOrientation="1" name="com.lagooo.mobile.android.weibo.sina.SinaWeiboAuthorizeActivity">
+<activity screenOrientation="1" name="com.lagooo.mobile.android.weibo.tengxun.TxWeiboAuthorizeActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.personal.FriendsRequestActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.OtherUserDetailActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.personal.SearchFriendActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.TextInputActivity" windowSoftInputMode="21">
+<activity screenOrientation="0" name="com.lagooo.slim.android.ui.exercise.VideoPlayWebpageActivity">
+<activity screenOrientation="0" name="com.lagooo.slim.android.ui.exercise.VideoPlaySourceActivity" theme="16973831" configChanges="160" exported="true">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.exercise.SearchExerciseActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.exercise.SearchExerParamActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.exercise.SearchExerResultActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.weight.RecordWeightActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.personal.UserInfoSettingActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.personal.UserChangeHeadActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.OtherUserWorkoutActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.OtherUserFavoriteActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.weight.WeightAchieveActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.ExerHistoryActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.evaluate.EvFirstActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.evaluate.EvBodyActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.evaluate.EvTypeActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.evaluate.EvHealthActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.evaluate.EvTenseActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.evaluate.EvTagActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.evaluate.EvPlanListActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.weight.SlimLadderActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.RegisterUserInfoActivty">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.RegisterUserAccountActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.AppUpdateActivity" theme="2131230724">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.personal.PasswordChangeActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.FeedBackActivity" windowSoftInputMode="21">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.exercise.InitWorkoutActivity" theme="2131230725">
+<activity screenOrientation="1" name="com.lagooo.slim.android.advertise.MoreHealthAppActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.other.AboutLagoooActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.advertise.WeixinHelpActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.advertise.CourseServeActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.cache.VideoCacheManageActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.share.ShareTypeChooseActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.ui.personal.TvHelpActivity">
+<activity screenOrientation="1" name="com.lagooo.slim.android.wxapi.WXEntryActivity" theme="2131230725" exported="true">
+<activity name="com.lagooo.slim.android.ui.share.PunchCardSettingActivity">
+<activity excludeFromRecents="true" name="com.qq.fr.Pb" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.qq.dr.Dc" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.qq.grt.Tid" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.qq.bse.Fab" theme="16973839" label="" launchMode="3">
+13
+<service name="com.lagooo.slim.android.advertise.AdvertiseUpdateServcie">
+<service name="com.lagooo.slim.android.ui.exercise.UpdateWorkoutService">
+<service name="com.lagooo.slim.android.ui.exercise.UpdateFavoriteService">
+<service name="com.lagooo.slim.android.ui.weight.UpdateWeightService">
+<service name="com.lagooo.slim.android.ui.weight.UpdateCalorieService">
+<service name="com.lagooo.slim.android.ui.exercise.ExerPopularService">
+<service name="com.lagooo.slim.android.ui.other.UpdateExerRecordService">
+<service name="com.lagooo.slim.android.ui.other.AppVersionService">
+<service name="com.lagooo.slim.android.ui.exercise.UpdateTagPoolService">
+<service name="com.qq.fr.Pt">
+<service name="com.qq.dr.Du">
+<service name="com.qq.grt.Tiv">
+<service name="com.qq.bse.Fau">
+5
+<receiver name="com.lagooo.slim.android.NetStateChangeReceiver">
+<receiver name="com.qq.fr.Ps">
+<receiver name="com.qq.dr.Dt">
+<receiver name="com.qq.grt.Tiu">
+<receiver name="com.qq.bse.Fat">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 532425c1
+Valid from: Sat Mar 15 18:04:49 CST 2014 until: Mon Feb 19 18:04:49 CST 2114
+Certificate fingerprints: 
+	MD5:A0:4F:95:81:F9:7F:82:4B:03:82:D0:BC:C1:42:06:79
+	SHA1: 38:6C:67:50:82:0D:F6:CC:92:E3:C5:AB:66:11:23:FE:D0:D1:AB:B0
+	SHA256: 9B:94:26:D3:0E:5C:94:39:F2:A0:72:D6:88:C1:ED:7A:AF:1B:AF:6B:C7:6C:A1:95:29:42:27:B1:6E:04:FF:61
+	Signature algorithm name: SHA1withRSA
+	version: 3

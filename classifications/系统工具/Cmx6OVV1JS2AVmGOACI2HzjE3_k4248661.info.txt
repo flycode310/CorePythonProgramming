@@ -1,0 +1,82 @@
+com.id.zhima
+5
+2.0.2
+3
+4
+14
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+48
+<activity screenOrientation="1" name=".MainGroup" theme="2131361793" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".MainView" theme="2131361793" configChanges="160">
+<activity name=".fun.AboutActivity" theme="2131361793">
+<activity name=".fun.HelpActivity" theme="2131361793">
+<activity screenOrientation="0" name=".camera.decode.CaptureActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name=".code.CodeItemActivity" theme="2131361793">
+<activity screenOrientation="1" name=".code.CodeListActivity" theme="2131361793">
+<activity name=".fun.SettingActivity">
+<activity name=".encode.EncodeTypeListActivity" theme="2131361793">
+<activity name=".encode.CreateCodeActivity" theme="2131361793">
+<activity screenOrientation="1" name=".encode.SetCodeActivity" theme="2131361793">
+<activity name=".encode.FavListActivity" theme="2131361793">
+<activity name=".code.CodeListTypes" theme="2131361793">
+<activity screenOrientation="1" name="MainStart" theme="16973831">
+<activity screenOrientation="1" name=".camera.decode.InputBarcodeActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.LoginActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.RegisterActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.MyInformationActivity" theme="2131361793" configChanges="144">
+<activity screenOrientation="1" name=".fun.HotChartsActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.InputCommentActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.MyFavListActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.CouponListActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.ShopHomeActivity" theme="2131361793" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".fun.ShopMainView" theme="2131361793">
+<activity screenOrientation="1" name=".fun.MyCommentActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.UserCommentsListActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.CheckinListActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.Activity01" theme="2131361793">
+<activity screenOrientation="1" name=".fun.MessageActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.HotChartListActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.CouponDetailsActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.ShopActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.ProductMainView" theme="2131361793">
+<activity screenOrientation="1" name=".fun.CheckinDetailsActivity" theme="2131361793">
+<activity screenOrientation="1" name=".camera.decode.BarcodeResultActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.TrainTicketActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.BProductHomeActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.BProductMainView" theme="2131361793">
+<activity screenOrientation="1" name="MainNearby" theme="2131361793">
+<activity screenOrientation="1" name="MainZhima" theme="2131361793">
+<activity screenOrientation="1" name="MainMore" theme="2131361793">
+<activity screenOrientation="1" name=".fun.NearbySearchResult" theme="2131361793">
+<activity screenOrientation="1" name=".fun.CityActivity" theme="2131361793">
+<activity screenOrientation="1" name="com.id.kankan.wheel.demo.CitiesActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.BusinessSearchActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.BusinessSearchResult" theme="2131361793">
+<activity screenOrientation="1" name=".fun.ProductListActivity" theme="2131361793">
+<activity screenOrientation="1" name=".fun.TicketListActivity" theme="2131361793">
+0
+0
+0
+Owner: CN=hwang, OU=zhima, O=zhima, L=Beijing, C=CN
+Issuer: CN=hwang, OU=zhima, O=zhima, L=Beijing, C=CN
+Serial number: 7e4cc41f
+Valid from: Sat Jan 28 21:33:42 CST 2012 until: Mon Jan 04 21:33:42 CST 2112
+Certificate fingerprints: 
+	MD5:0B:9B:8F:47:70:0B:03:34:2B:C9:57:BE:B0:8B:8E:F6
+	SHA1: BC:5F:09:B5:66:DD:A3:95:DA:C2:05:29:E5:21:15:7B:20:F6:3C:52
+	SHA256: 2D:9C:6C:C6:E7:6F:32:45:97:6B:AB:E8:7F:1E:2E:DD:AB:A6:91:B7:68:A9:A5:45:26:67:F5:C5:A3:4F:FE:74
+	Signature algorithm name: SHA256withRSA
+	version: 3

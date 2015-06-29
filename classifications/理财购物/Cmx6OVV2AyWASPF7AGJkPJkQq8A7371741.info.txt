@@ -1,0 +1,131 @@
+com.baidu.finance
+220
+2.2.0
+8
+18
+21
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+com.baidu.appsearch.permission.LAUNCH
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+80
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.ui.SplashActivity" theme="16973830" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.ui.PrologueActivity" theme="16973830" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.ui.MainActivity" theme="16973830" configChanges="1184" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.ui.mine.MyFinance" theme="16973830" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.ui.mine.ProductInterestInfo" theme="16973830" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.ui.mine.ProductInsuranceInterestInfoAcitivity" theme="16973830" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.ui.mine.AccountInterestTransacDetail" theme="16973830" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.ui.mine.AssetDetailsActivity" theme="16973837" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.widget.WebviewActivity" theme="16973830" exported="false" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.widget.SafeWebviewActivity" theme="16973830" exported="false" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".auth.JSH5BondCardActivity" theme="16973830" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.baidu.finance.test.NetworkInterfaceTest" theme="16973830" label="2131230937">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".lock.LockActivity" theme="2131296268" configChanges="1248">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.FinanceBuyActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="19">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.FinanceSellActivity1" theme="2131296268" configChanges="1120" windowSoftInputMode="19">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.FinanceSellActivity2" theme="2131296268" configChanges="1120" windowSoftInputMode="19">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.ResultOfBuyTradeActiviy" theme="2131296268" configChanges="1120">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.ResultOfSellTradeActiviy" theme="2131296268" configChanges="1120">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.mine.InterestTransactionDetails" theme="2131296268" configChanges="1120">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.mine.TransactionRecord" theme="2131296268" configChanges="1120">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.personal.RiskEvaluationActivity" theme="2131296268" configChanges="1120">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.baidu.sapi2.ui.LoginActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.baidu.sapi2.ui.RegisterActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.baidu.sapi2.ui.HowToRegisterActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.baidu.sapi2.ui.PhoneRegistActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.baidu.sapi2.ui.RegistActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.baidu.sapi2.ui.SmsCodeActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.baidu.sapi2.ui.ForgetPwdActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".product.ProductDetailActivity" theme="2131296268" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".product.ProductRateChart" theme="2131296268" configChanges="1120" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".product.ProductRateList" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.more.SettingActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.more.FinanceUserFeedback" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.more.HelpCenterActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.more.QAndAActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.more.AboutPage" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.product.CrowdfundingDetailActivity" theme="2131296269" configChanges="1184">
+<activity screenOrientation="1" name="com.baidu.finance.ui.mine.PurchasedCrowdfundingActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.bankcard.BankcardManageActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.bankcard.SelectBondCardTypeActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.baidu.finance.bankcard.BankcardInfoActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.address.DeliveryAddressManagerActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.address.EditDeliveryAddressActivity" theme="2131296268" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.baidu.finance.address.DeliverAddressSelectActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.address.EditContactActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.personal.AccountInfoActivity" theme="2131296268" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".safepay.ScanThreatListActivity" theme="2131296268">
+<activity screenOrientation="1" name=".auth.BondCardActivity" theme="2131296268" configChanges="1184" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".auth.JSBondCardActivity" theme="2131296268" configChanges="1184" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".auth.AuthAndBondProtocol" theme="2131296268">
+<activity screenOrientation="1" name=".auth.AuthActivity" theme="2131296268" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.cfTrade.CfProductGetOrder" theme="2131296268">
+<activity screenOrientation="1" name=".ui.cfTrade.OrderConfirm" theme="2131296268">
+<activity screenOrientation="1" name=".ui.cfTrade.OrderPay" theme="2131296268">
+<activity screenOrientation="1" name=".ui.cfTrade.ResultOfCrowdBuyActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.frontia.activity.share.FrontiaSocialOAuthActivity" theme="16973841" exported="true">
+<activity screenOrientation="1" name="com.baidu.frontia.activity.share.FrontiaLocalShareActivity" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.frontia.activity.share.FrontiaQQFriendShareReceiverActivity" launchMode="2">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973841" exported="true" label="2131230937">
+<activity screenOrientation="1" name="com.baidu.batsdk.ui.FeedbackActivity">
+<activity screenOrientation="1" name="com.baidu.finance.ui.mine.crowd.CrowdTransationRecordActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.mine.crowd.CrowdInterestRecordActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.mine.crowd.CrowdRedEnvelopeRecordActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.mine.crowd.CrowdAllProjectInterestTransacDetail" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.mine.crowd.CrowdInterestNoRedTransDetails" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.mine.crowd.CrowdRedEnvelopeDetails" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.mine.crowd.CrowdTransactionRecordActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.ui.mine.crowd.CrowdInterestTransDetails" theme="2131296268">
+<activity screenOrientation="0" name="com.baidu.bankdetection.BankCardDetecEnterActivity" theme="2131296268" label="BankCardDetection">
+<activity screenOrientation="1" name="com.baidu.bankdetection.BankcardCompActivity" theme="2131296268">
+<activity screenOrientation="1" name="com.baidu.finance.uploadidcard.UploadIDCardActivity" theme="2131296268" configChanges="1184">
+<activity screenOrientation="1" name="com.baidu.finance.uploadidcard.RectPhoto" theme="2131296268">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.FinanceBuyInsuranceProduct" theme="2131296268" configChanges="1120" windowSoftInputMode="19">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.mine.InsuranceTransRecordActivity" theme="2131296268" configChanges="1120">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.FinanceInsuranceConfirm" theme="2131296268" configChanges="1120">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.InsuranceProtocol" theme="2131296268" configChanges="1120">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.GuangdaOpenAccount" theme="2131296268" configChanges="1120" windowSoftInputMode="19">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".ui.trade.BondCardVerifyActivity" theme="2131296268" configChanges="1120">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".bankcard.UnbindBankCardActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="19">
+<activity screenOrientation="1" hardwareAccelerated="false" name=".bankcard.ChannelSupportedAllProductsActivity" theme="2131296268" configChanges="1120" windowSoftInputMode="19">
+5
+<service name=".safepay.ThreatScanForStartService" exported="true">
+<service process=":unvservice_v1" enabled="true" name=".update.UpdateNewVersionService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="com.baidu.batsdk.ui.BatsdkService">
+<service name=".safepay.ThreatScanForStartService" exported="true">
+3
+<receiver name="com.baidu.finance.push.FinancePushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+2
+<provider enabled="true" authorities="baidu_province_city_info" name="com.baidu.finance.provider.ProvincesProvider" exported="false">
+<provider enabled="true" authorities="baidu_province_city_info" name="com.baidu.finance.provider.ProvincesProvider" exported="false">
+Owner: CN=Baidu, OU=Baidu Inc., O=Baidu Inc., L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Baidu, OU=Baidu Inc., O=Baidu Inc., L=Beijing, ST=Beijing, C=CN
+Serial number: 52a1341e
+Valid from: Fri Dec 06 10:19:10 CST 2013 until: Sat Nov 24 10:19:10 CST 2063
+Certificate fingerprints: 
+	MD5:30:29:DB:F5:93:2D:8D:9C:D7:0D:3F:6E:61:A1:BF:AF
+	SHA1: 0B:71:08:47:64:C2:57:6D:A3:21:41:FE:D1:EB:23:3F:DF:DC:12:23
+	SHA256: 65:B2:D1:47:7B:8F:1C:6D:E7:5C:EA:41:5D:3C:30:A7:05:12:41:A2:66:E2:37:4D:B1:AA:A6:E1:29:45:89:80
+	Signature algorithm name: SHA1withRSA
+	version: 3

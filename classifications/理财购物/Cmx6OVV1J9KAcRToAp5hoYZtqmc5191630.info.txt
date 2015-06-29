@@ -1,0 +1,195 @@
+com.android.stockclient
+33
+20.3
+8
+17
+32
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.USE_CREDENTIALS
+android.permission.BATTERY_STATS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+126
+<activity name="com.android.stockclient.activity.SplashActivity" theme="16973830">
+<activity name="com.android.stockclient.chat.activity.AlertDialog" theme="16973830" label="2131297110">
+<activity name="com.android.stockclient.chat.activity.ShowBigImage" theme="16973830" label="2131297110">
+<activity name="com.android.stockclient.chat.activity.ChatActivity" theme="16973830" label="2131297110">
+<activity name="com.android.stockclient.activity.MainActivity2" theme="16973830" label="2131297110">
+<activity name="com.android.stockclient.activity.MainActivity" theme="16973830" label="2131297110">
+<activity name="com.android.stockclient.activity.Login" theme="16973830">
+<activity name="com.android.stockclient.activity.LoginThirdth" theme="16973830">
+<activity name="com.android.stockclient.activity.LoginThirdth2" theme="16973830">
+<activity name="com.android.stockclient.activity.Register" theme="16973830">
+<activity name="com.android.stockclient.activity.CompleteData" theme="16973830">
+<activity name="com.android.stockclient.activity.Buy" theme="16973830">
+<activity name="com.android.stockclient.activity.ExpertHelp" theme="16973830">
+<activity name="com.android.stockclient.activity.UserHelp" theme="16973830">
+<activity name="com.android.stockclient.activity.ValueInvestList" theme="16973830">
+<activity name="com.android.stockclient.activity.MidlineList" theme="16973830">
+<activity name="com.android.stockclient.activity.ShortLineList" theme="16973830">
+<activity name="com.android.stockclient.activity.FeedBack" theme="16973830">
+<activity name="com.android.stockclient.activity.StockMidline" theme="16973830">
+<activity name="com.android.stockclient.activity.StockShortLine" theme="16973830">
+<activity name="com.android.stockclient.activity.SelfChoiceStockNew" theme="16973830">
+<activity name="com.android.stockclient.activity.StockForum" theme="16973830">
+<activity name="com.android.stockclient.activity.SkillTrain" theme="16973830">
+<activity name="com.android.stockclient.activity.ExpertStock" theme="16973830">
+<activity name="com.android.stockclient.activity.ExpertSubscribe" theme="16973830">
+<activity name="com.android.stockclient.activity.MyAccount" theme="16973830">
+<activity name="com.android.stockclient.share.ShareFriend" theme="16973830">
+<activity name="com.android.stockclient.share.AuthActivity">
+<activity name="com.android.stockclient.activity.StockHistory" theme="16973830">
+<activity name="com.android.stockclient.activity.ExpertStockHistory" theme="16973830">
+<activity screenOrientation="4" name="com.android.stockclient.activity.PictureActivity" theme="16973830">
+<activity name="com.android.stockclient.activity.ExpertDetail" theme="16973830">
+<activity name="com.android.stockclient.activity.FeedbackList" theme="16973830">
+<activity name="com.android.stockclient.activity.ChangePswActivity" theme="16973830">
+<activity name="com.android.stockclient.activity.ChangeSelfInfoActivity" theme="16973830">
+<activity name="com.android.stockclient.activity.StockBook" theme="16973830">
+<activity name="com.android.stockclient.activity.StockWebsites" theme="16973830">
+<activity name="com.android.stockclient.activity.StockVideos" theme="16973830">
+<activity name="com.android.stockclient.activity.ShowUp" theme="16973830">
+<activity name="com.android.stockclient.activity.ExpertOpinion" theme="16973830" windowSoftInputMode="3">
+<activity name="com.android.stockclient.activity.StockWeb" theme="16973830">
+<activity name="com.android.stockclient.activity.Stocktrain" theme="16973830">
+<activity name="com.android.stockclient.activity.ShowupApprise" theme="16973830">
+<activity name="com.android.stockclient.activity.BookClassify" theme="16973830">
+<activity name="com.android.stockclient.activity.BookContent" theme="16973830">
+<activity name="com.android.stockclient.activity.BookList" theme="16973830">
+<activity name="com.android.stockclient.activity.StockExam" theme="16973830">
+<activity name="com.android.stockclient.activity.Show" theme="16973830">
+<activity name="com.android.stockclient.activity.ExpertMyOpinion" theme="16973830">
+<activity name="com.android.stockclient.activity.BuyExpert" theme="16973830">
+<activity name="com.android.stockclient.activity.OpinionComment" theme="16973830">
+<activity name="com.android.stockclient.game.GameActivity" theme="16973830">
+<activity name="com.android.stockclient.activity.Casino" theme="16973830">
+<activity name="com.android.stockclient.game.FloaterDialogActivity" theme="2131165288">
+<activity name="com.android.stockclient.game.HelpDialogActivity" theme="2131165288">
+<activity name="com.android.stockclient.game.QuestionActivity" theme="16973830">
+<activity name="com.android.stockclient.game.ResultDialogActivity" theme="2131165288">
+<activity name="com.android.stockclient.activity.UserListActivity" theme="16973830">
+<activity name="com.android.stockclient.activity.BottomDialog" theme="2131165289">
+<activity name="com.android.stockclient.activity.NetworkError" theme="2131165290">
+<activity name="com.android.stockclient.activity.Map" theme="16973830">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.example.sina.wxapi.WXEntryActivity" exported="true">
+<activity screenOrientation="1" name="cn.sharesdk.onekeyshare.ShareAllGird" theme="16973840" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.sharesdk.framework.AuthorizeActivity" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.onekeyshare.SharePage" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ReportActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.PostsActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.PublishTopicActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.PublishPollTopicActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.PublishAnnounceActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.RepostTopicActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ReplyTopicActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.AboutActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.SearchTopicListActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.PointImageViewActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.AnnounceActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.PicTopicListActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ForumManageActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ModeratorManageActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ReportUserManageActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ReportTopicManageActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ModeratorActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.UserFriendsFragmentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.PointImageViewActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.SettingFragmentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.UserHomeFragmentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.UserFeedActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.FanOrFollowActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.UserTopicFragmentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.MessageFragmentActivity" configChanges="160" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.MsgChatRoomFragmentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.HomeTopicFragmentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.BoardListFragmentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.UserLoginFragmentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.TopicListFragmentActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.CropImageActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.fragmentActivity.ImageViewerFragmentActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.WebViewActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.share.android.activity.MCShareAppActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.LoginActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.PlatformLoginListActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.RegActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.RegSuccActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.PlatformLoginActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.UserMyInfoActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.UserMyPwdActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.AuthorizationSuccActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ForgetPasswordActivity">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ResetPassowrdActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.UserBannedActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.UserShieldedActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.BannedManageActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.ShieldedManageActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.AnnounceApplyManageActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.base.android.ui.activity.PlazaMyActivity" configChanges="160" windowSoftInputMode="3">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131165320" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name=".UmengHome" label="2131297110">
+<activity name="com.tencent.plus.ImageActivity">
+<activity name="com.mobcent.ad.android.ui.activity.WebViewActivity">
+<activity screenOrientation="1" name="com.mobcent.plaza.android.ui.activity.PlazaActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobcent.plaza.android.ui.activity.PlazaSearchActivity" theme="16973830" configChanges="160" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.mobcent.plaza.android.ui.activity.PlazaWebViewActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+12
+<service enabled="true" name="com.mobcent.update.android.os.service.UpdateNoticeOSService">
+<service enabled="true" name="com.mobcent.update.android.os.service.DownloadNoticeOSService">
+<service enabled="true" name="com.mobcent.forum.android.os.service.HeartMsgOSService">
+<service enabled="true" name="com.mobcent.forum.android.os.service.MentionFriendsOSService">
+<service enabled="true" name="com.mobcent.forum.android.os.service.PopNoticeOSService">
+<service enabled="true" name="com.mobcent.forum.android.os.service.LocationOSService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="com.mobcent.base.android.ui.activity.service.MediaService">
+<service process=":xg_service_v2" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.easemob.chat.EMChatService">
+5
+<receiver name="com.android.stockclient.activity.NetWorkChangeBroadcastReceiver">
+<receiver name="com.mobcent.base.android.ui.activity.receiver.HeartBeatReceiver">
+<receiver name="com.mobcent.ad.android.receiver.DownFailedReceiver">
+<receiver name="com.mobcent.ad.android.receiver.ApkInstallReceiver">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 1722a23d
+Valid from: Wed Nov 13 15:07:05 CST 2013 until: Fri Nov 06 15:07:05 CST 2043
+Certificate fingerprints: 
+	MD5:69:EB:0E:6C:3F:4A:4F:9B:87:7C:A1:EF:7C:B3:9E:6D
+	SHA1: AA:E7:31:6E:53:4A:66:56:64:2E:4B:06:74:60:0D:EE:70:D0:56:DF
+	SHA256: 05:12:F8:05:A8:7B:3C:8E:96:2A:B2:5B:D5:65:23:BD:F8:DF:6E:CC:60:0A:A4:5D:F9:D6:7C:20:73:28:82:80
+	Signature algorithm name: SHA256withRSA
+	version: 3

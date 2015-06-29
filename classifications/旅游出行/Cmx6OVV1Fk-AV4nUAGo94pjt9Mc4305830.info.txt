@@ -1,0 +1,191 @@
+cn.damai
+50001
+5.0.1
+8
+10
+42
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RUN_INSTRUMENTATION
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.intent.action.VIEW
+android.permission.KILL_BACKGROUND_PROCESSESS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_CONFIGURATION
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+124
+<activity name="cn.damai.activity.MainSplashActivity" label="2131493269">
+<activity screenOrientation="1" name="cn.damai.activity.MainActivity" theme="2131558638">
+<activity screenOrientation="1" name="cn.damai.activity.TypeCalendarActivity" theme="2131558671">
+<activity screenOrientation="1" name="cn.damai.activity.LoginActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.PhoneLoginActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.RankingList">
+<activity screenOrientation="1" name="cn.damai.activity.IntroductActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.RegisterActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.CityListActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.CityListForFilmActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.OrderDetailNewActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.ETicketActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.MyCollectActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.AddressListActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.QuestionListActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.MyStarListActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.MyStarDetailActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.FindPasswordRequestActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.StarMaiTianActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.UserMaiTianActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.StarNoteDetailActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.CinemaSeatActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.CinemaOrderActivity" configChanges="160" windowSoftInputMode="2" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.AttendStarActivity" configChanges="160" windowSoftInputMode="2" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.UserAttendActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.UserCouponsActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.SelectCouponsActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.FilmDetailActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.FindPasswordCodeActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.ModifyUserDataActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.ChooseSite" configChanges="160" windowSoftInputMode="4" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.MapActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.Movie_map" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.zbar.ZbarQcodeActivity" configChanges="1184" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.TypeMapActivity" theme="2131558671" configChanges="1184" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.DamaiCaptureActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.QrCodeResultActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.VerificationCheckActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.FindPasswordActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.zoomimage.ZoomImageActivity" theme="16973839" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.AboutActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.UserCenterActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.PublishTopicActivity" configChanges="160" windowSoftInputMode="3" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.FaqActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.MoreActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.SearchActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.HelpActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.GuideActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.AddAddressActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.ProjectDetailActivity" exported="true" launchMode="2">
+<activity screenOrientation="1" name="cn.damai.activity.JuZhaoListActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.JuZhaoDetailActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.ProjectDetailJupingActivity">
+<activity screenOrientation="1" name="cn.damai.activity.ProjectDetailWebDescActivity">
+<activity screenOrientation="1" name="cn.damai.activity.ProjectVenueActivity">
+<activity screenOrientation="1" name="cn.damai.activity.ProjectDetailVenueDetailActivity" exported="true">
+<activity screenOrientation="1" name="cn.damai.activity.Venue360Activity" theme="2131558660">
+<activity screenOrientation="1" name="cn.damai.activity.ProjectBuyNewActivity">
+<activity screenOrientation="1" name="cn.damai.activity.ProjectVerCodeActivity">
+<activity screenOrientation="1" name="cn.damai.activity.AnswerQuestionActivity">
+<activity screenOrientation="1" name="cn.damai.activity.OrderConfirmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.damai.activity.WapPayActivity">
+<activity screenOrientation="1" name="cn.damai.activity.AliPayActivity">
+<activity screenOrientation="1" name="cn.damai.activity.UnionPayActivity">
+<activity screenOrientation="1" name="cn.damai.activity.RegionActivity">
+<activity screenOrientation="1" name="cn.damai.activity.OrderRegionActivity">
+<activity screenOrientation="1" name="cn.damai.activity.SeatActivity">
+<activity screenOrientation="1" name="cn.damai.activity.OrderSeatActivity">
+<activity screenOrientation="1" name="cn.damai.activity.ShareActivity" theme="16973839">
+<activity screenOrientation="1" name="cn.damai.activity.ShareSinaActivity">
+<activity screenOrientation="1" name="cn.damai.activity.VenueDetailProjectListactivity">
+<activity screenOrientation="1" name="cn.damai.wxapi.WXEntryActivity" theme="16973839" exported="true">
+<activity name="cn.damai.wxapi.WXPayEntryActivity" exported="true" launchMode="1">
+<activity name="cn.damai.wxapi.DamaiWXPayActivity">
+<activity screenOrientation="1" name="cn.damai.activity.VenueListOfmapactivity" theme="2131558672">
+<activity screenOrientation="1" name="cn.damai.activity.GoodRegesiterActivity" theme="2131558672" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.damai.activity.OrderConfirmVerCodeActivity" theme="2131558672" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.damai.activity.OrderConfirmChooseSeatActivity">
+<activity screenOrientation="1" name="cn.damai.activity.WebViewActivity">
+<activity screenOrientation="1" name="cn.damai.activity.ActivityProjectListactivity">
+<activity name="com.baidu.android.pushservice.richmedia.MediaViewActivity" configChanges="160" label="MediaViewActivity">
+<activity name="com.baidu.android.pushservice.richmedia.MediaListActivity" configChanges="160" label="MediaListActivity" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.AboutActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.DealActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.AboutCvnTwoActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.AddCardInfoActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.AddAllCardActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.BaseActivity" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.AddCreditCardActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.AddDebitCardActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.GuideAddCreditActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.GuideAddDebitActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.GuideRegisterActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserResiterSmsActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.OrderDetailPopuWindow" theme="16973839">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.LoadingActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.ManageCardActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.PayResultActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.PayTypeSwitchActivity" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.QuickPayInfoActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.SupportBanksActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserAuthenticationActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserAuthenticationConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserChangePhoneActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserChangePwActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserInfoActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserIdLoginActivity" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserResetPwdAnswerActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserResetPwInfoActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.UserResiterActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.VerifyBankCardActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.PayBankCardActivity" theme="16973830">
+<activity screenOrientation="1" name="cn.com.argorse.plugin.unionpay.activity.MerchantLoginActivity" theme="16973839" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.damai.activity.EventActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.ChooseMovieActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.OrderActivity" configChanges="160" exported="true" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="1" name="cn.damai.activity.MovieProjectActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name=".activity.MovieOrderResultActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.MovieExchangeActivity" configChanges="160" windowSoftInputMode="2" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.MovieProjectMapActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.EventCommentActivity" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.damai.activity.EventContentActivity" configChanges="160" alwaysRetainTaskState="true">
+1
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+4
+<receiver enabled="true" name="cn.damai.pushservice.PushService">
+<receiver name="cn.damai.pushservice.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: O=大麦娱乐, L=北京, C=86
+Issuer: O=大麦娱乐, L=北京, C=86
+Serial number: 4de5f05c
+Valid from: Wed Jun 01 15:55:08 CST 2011 until: Thu May 19 15:55:08 CST 2061
+Certificate fingerprints: 
+	MD5:6B:3F:9A:6E:FC:47:4F:77:1F:A7:92:A5:39:F1:C2:20
+	SHA1: D4:AB:8A:20:49:1E:D0:FA:CD:81:5A:82:2A:2E:D3:62:95:57:99:7C
+	SHA256: 4A:CD:9A:20:8A:F3:11:23:60:8C:F1:35:5A:C6:3D:53:E2:75:47:38:7E:4E:25:4B:CD:23:2E:72:EF:E2:E3:C9
+	Signature algorithm name: SHA1withRSA
+	version: 3

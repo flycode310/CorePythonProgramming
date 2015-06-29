@@ -1,0 +1,485 @@
+com.sanweidu.TddPaycl
+8842
+2.2.2
+8
+8
+66
+com.ty.launcher.permission.WRITE_SETTINGS
+android.permission.READ_LOGS
+com.motorola.dlauncher.permission.READ_SETTINGS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+com.aspire.mm.permission.WRITE_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+com.oppo.launcher.permission.READ_SETTINGS
+android.permission.RECORD_AUDIO
+com.motorola.dlauncher.permission.WRITE_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INTERACT_ACROSS_USERS_FULL
+com.baiqi.weather.permission.WRITE_SETTINGS
+com.fede.launcher.permission.WRITE_SETTINGS
+com.huawei.launcher2.permission.READ_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+com.huawei.launcher2.permission.WRITE_SETTINGS
+com.thunderst.launcher.permission.READ_SETTINGS
+com.thunderst.launcher.permission.WRITE_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+com.motorola.mmsp.motoswitch.permission.READ_SETTINGS
+android.permission.BLUETOOTH
+android.permission.INTERNET
+com.qihoo360.launcher.permission.READ_SETTINGS
+com.fede.launcher.permission.READ_SETTINGS
+com.sonyericsson.homescreen.permission.WRITE_SETTINGS
+com.sonyericsson.homescreen.permission.READ_SETTINGS
+com.android.launcher.permission.READ_SETTINGS
+android.permission.BLUETOOTH_ADMIN
+com.lge.launcher.permission.WRITE_SETTINGS
+android.permission.CHANGE_CONFIGURATION
+mobi.SyndicateApps.ICS.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.WRITE_SETTINGS
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.htc.launcher.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WRITE_OWNER_DATA
+com.huawei.launcher3.permission.READ_SETTINGS
+com.motorola.dock.DesktopDock.permission.READ_SETTINGS
+com.motorola.dock.DesktopDock.permission.WRITE_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.lge.launcher.permission.READ_SETTINGS
+com.qihoo360.launcher.permission.WRITE_SETTINGS
+com.huawei.launcher3.permission.WRITE_SETTINGS
+com.ty.launcher.permission.READ_SETTINGS
+com.motorola.mmsp.motoswitch.permission.WRITE_SETTINGS
+com.aspire.mm.permission.READ_SETTINGS
+mobi.SyndicateApps.ICS.launcher.permission.WRITE_SETTINGS
+com.htc.launcher.permission.READ_SETTINGS
+com.mediatek.launcherplus.permission.WRITE_SETTINGS
+com.baiqi.weather.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.INTERACT_ACROSS_USERS
+android.permission.VIBRATE
+com.mediatek.launcherplus.permission.READ_SETTINGS
+com.oppo.launcher.permission.WRITE_SETTINGS
+390
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.WelComeActivity" theme="2131296294" label="2131492891">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.login.Protocol_Activity">
+<activity name="com.sanweidu.TddPay.nativeJNI.device.BluetoochDeviceActivity" theme="16973835">
+<activity name="com.sanweidu.TddPay.nativeJNI.device.AutoConnectDeviceActivity" theme="16973835">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.main.MainActivity" theme="2131296295" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.news.NewsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.ConfidantActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.traderpre.TraderTabActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.news.WebActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.news.ConfidantVerifyActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.traderpre.MyClientActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.traderpre.MyAttentionActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.specialattention.SpecialAttentionActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.businessDistrict.UserHome1Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.businessDistrict.UserHome2Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.businessDistrict.SendMsgActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.businessDistrict.SendShareContentActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.businessDistrict.BusinessCircleActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.MyGroupActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.GroupChatActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.GroupInfoActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.EditGroupNameActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.GroupMemberActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.TwoDimensionCodeActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.GroupSettingActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.BgSettingActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.ChatBgActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.SelectContactActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.FindChatContentActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.EditNameActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.mygroup.EditNickNameActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.addconfidant.AddConfidantActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.addconfidant.NearPersonTabActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.addconfidant.SearchNumberActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.addconfidant.AddPhoneContactActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.addconfidant.ContactDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.addconfidant.NearPersonActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.addconfidant.MapActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.MsgDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.confidant.SelectContactActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.TotalActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.collection.ReciveMoneyStep1Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.collection.ReciveMoneyStep2Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.collection.ReciveMoneyStep3Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.payment.PayStep1Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.payment.SignActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.payment.ReceiptActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.payment.AgentActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancequery.QueryBalanceActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.BrushCardPayActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.RechargeSetup2Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.SelectPayWayActivity" theme="2131296304">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.RechargeActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.HistroyMemberActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.RechargeResultActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.extractmoney.Withdrawal2BankCardActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.extractmoney.Withdrawal2BankCardStep2Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.extractmoney.Withdrawal2BankCardStep3Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.TransferActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.TransferActivity1">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2SanweiduBySanweidu1Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2SanweiduBySanweidu2Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2SanweiduResultActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2BankCardBySanweidu1Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2BankCardBySanweidu2Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2BankCardResultActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2SanweiduByCard1Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2SanweiduByCard2Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2BankCardByCardActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2BankCardByCard1Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2BankCardByCard2Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.Transfer2SanweiduByCardActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.HistoryPayeeActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.SelectBankActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.SelectAreaActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.transfer.SelectBankAreaActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.selectbank.SelectBankActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.selectbank.SelectAreaActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.selectbank.SelectBankAreaActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.MyAccountActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.cardBind.NoBindCardActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.cardBind.BindCardActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.cardBind.Unbundling_BankCard_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.cardBind.BindingResults_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.deviceBind.NoBindDeviceActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.deviceBind.AlreadyBindDeviceActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.deviceBind.UnBindDeviceActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.Modify_Nickname_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.UserCenter_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.Password_Management_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.Password_Management_modify_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.Modify_Binding_Mobile_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.Modify_Login_Password_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.Modify_Payment_Password_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.Modify_Individuality_sianature_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.realName.NoAuthenticateNameActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.realName.AlreadyAuthenticateNameActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.realName.AuthenticateNameActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.realName.SelectDateActivity" theme="2131296304">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.expressForAddress.ReceiptAddressActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.expressForAddress.AddAddressActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.MyBillActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.BillDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.TransferBillDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.RepaymentBillDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.VIPUpdateOrderDetailsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.setting.SettingActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.setting.HelpActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.setting.BankActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.setting.FeedbackActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.SellerCenterActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.SellerTipsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.ApplySellerActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.FillShopInfoActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.ShopInfoActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.TwoDimensionCodeActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.AddContactWayActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.ReleaseGoodsTabActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.BasicInfoActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.ImageInfoActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.OtherInfoActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.SelectCategoryActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.ParamActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.TemplateActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.TraderActivity" theme="2131296295">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.GoodsDirActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shopInfo.GoodsDetailTabActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.AppraisalActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shopInfo.GoodsBasicInfoActivity" theme="2131296295">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shopInfo.GoodsDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shoppingcart.ConfirmGoodsInfoActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shoppingcart.SelectAddressActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shoppingcart.AddAddressActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shoppingcart.SelectLogisticsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.SpecialActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.SpecialSearchActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.ShopHomeActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.SellerInfoActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.TDCBusinessCardActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.AllGoodsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.SelectAreaActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.SelectBrandActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.SelectPriceActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.special.LatestNewsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.auction.AuctionActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shoppingcart.ShoppingCartActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shoppingcart.AddGoods2CartActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shoppingcart.WholesaleAddGoods2CartActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shoppingcart.ConfirmWholesaleInfoActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pay.PayActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pay.PayResultActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pay.BrushCardActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pay.BalancePayActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pay.PasswordSetting">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pay.PasswordReset">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.order.MyOrderActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.order.AllOrderActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.order.UnpayOrderActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.order.AlreadyPayActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.order.ConfirmGoodsOrderActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.order.CompleteOrderActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.order.OrderDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.order.OrderQueryActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.order.ConfirmReceiveGoodsActivity">
+<activity name="com.sanweidu.TddPay.activity.login.RegisterTelephoneActivity">
+<activity name="com.sanweidu.TddPay.activity.login.RegisterInformationActivity">
+<activity name="com.sanweidu.TddPay.activity.login.ModifyPwdActivity">
+<activity name="com.sanweidu.TddPay.activity.login.ReModifyPwdActivity">
+<activity name="com.sanweidu.TddPay.activity.login.LoginActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.GoodDirDetailsActivity">
+<activity name="com.sanweidu.TddPay.activity.WebActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.shopInfo.GoodsInfoImageActivity">
+<activity name="com.sanweidu.TddPay.activity.news.BuyerTrendsActivity">
+<activity name="com.sanweidu.TddPay.activity.news.AllContacts">
+<activity name="com.sanweidu.TddPay.activity.news.MessageListActivity">
+<activity name="com.sanweidu.TddPay.activity.news.PreviewActivity">
+<activity name="com.sanweidu.TddPay.activity.news.SystemNewsActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.order.GoodsEvaluationActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.shoppingcart.AddAreaActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.SearchActivity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Credit_card_paymentStep1_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Credit_card_paymentStep2_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.balancequery.Balance_The_Query_Results_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Bluetooth_devices_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Buy_Swipe_Card_Reader_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Device_Notconnected_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Membership_Upgrade_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Paymentresults_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Reset_Payment_Password_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Sanweidu_paymentStep1_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Sanweidu_paymentStep2_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Select_Device_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Set_up_payment_password_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.Sign_Help_Activity">
+<activity name="com.sanweidu.TddPay.activity.GuideActivity">
+<activity name="com.sanweidu.TddPay.activity.test.TestInterface">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.RefundGoodsActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.SaleManagerActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.RefundGoodsManagerActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ReimburseActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.RefundGoodsListActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ApplyRefundActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.LogisticsFillActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.LogisticsSaveActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.LogisticsChangeActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ReturnSuccessActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.PreconcentrationReasonActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ReturnFailureActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.cardBind.SelectBranchActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.cardBind.SelectTddBankActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.cardBind.SelectSubbranchBankActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.cardBind.SelectTddAreaActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.zone.ZoneActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.zone.TddPayActiveActivity">
+<activity name="com.sanweidu.TddPay.view.ImageCutActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.OrderCenterActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.zone.EnterActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ReimburseListActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ComplaintReasonsActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ApplyRefundResultActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.DrawbackDetailsActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ApplyDrawbackActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.PayComplaintActivity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.selectbank.TotalSelectAreaActivity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.PayMentSelectAddressActivity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.transfer.TransferMainActivity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.transfer.TransferAffirmActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.order.ComfirmReceiptOrderActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.Personal_Information_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ComplaintListActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ComplaintManagerActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.deviceBind.BindDeviceListActivity">
+<activity name="com.sanweidu.TddPay.activity.total.setting.NewsnoticeActivity">
+<activity name="com.sanweidu.TddPay.activity.total.setting.SelectPatternActivity">
+<activity name="com.sanweidu.TddPay.activity.total.setting.SelectTimeActivity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.transfer.TransferResultActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ComplainSuccessActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.Head_change_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.pendingInfo.PendingInfoActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.pendingInfo.Wait_Re_Sign_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.userinfo.MyCode_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.AccusationManagerActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.AccusationListActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.AccusationManagerListActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ReportTypeActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ApplyReportActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.AlipayDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.PayMentDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.GameRechargeDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.ShareBillsPayActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.TencentDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.PhoneRechDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.personCenter.ReportResultActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.AccountRechDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.ExtractMoneyDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.ShopOrderDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.QingSuanDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.selectbank.SelectBankDetailsActivity">
+<activity name="com.sanweidu.TddPay.activity.confidant.NotDateActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.OtherDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.MoneyManagerDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.order.FindOrdersDetailExpActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.pendingInfo.PendingInfo_Message_Activity">
+<activity name="com.sanweidu.TddPay.activity.total.money.ManageMoneyActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.HaiNaBuyActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.CurrentDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.HaiNaManagerActivityInfoActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.HaiNaManagerActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.TddPayManageActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.FundActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.BillDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.YearReturnActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.IncomeActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.ManageCashActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.ManageCashDetailsActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.ManageMoneyBuyByDeviceActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.ManageMoneyBuyMoneyActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.ManageMoneyBuyStep1Activity">
+<activity name="com.sanweidu.TddPay.activity.total.money.RegularStatementActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.BillOrderDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.CalculatorActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.money.DayIncomeDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.CalculatorResultActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.ManageCaseResultActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.windControl.WindControlActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.windControl.WindControlResultActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.windControl.PurchaseMoneyActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.windControl.PurchaseMoneyConfirmActivity">
+<activity name="com.sanweidu.TddPay.activity.total.money.PayResult">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.windControl.TerminalBoundActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.windControl.ConfirmBoundActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.order.ApplyRefundListActivity">
+<activity name="com.sanweidu.TddPay.activity.total.setting.FeedbackListActivity">
+<activity name="com.sanweidu.TddPay.activity.total.setting.CustomerFeedbackActivity">
+<activity name="com.sanweidu.TddPay.activity.total.setting.FeedbackEvaluationActivity">
+<activity name="com.sanweidu.TddPay.activity.total.setting.FeedbackProblemsActivity">
+<activity name="com.sanweidu.TddPay.activity.total.setting.FeedbackUpdateActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.pay.ShoppingMoneyManagerActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.appraisemange.Shop_Appraise_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.appraisemange.Shop_All_Appraise_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.appraisemange.Shop_Good_Appraise_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.appraisemange.Shop_Middle_Appraise_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.appraisemange.Shop_Difference_Appraise_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.appraisemange.Shop_Appraise_Manage_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.Shop_Embellish_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.EditShopActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.ShopDecorationTabActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.TemplateActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.SkinActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.ShopTemplateActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.ImageDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.ImageBrowserActivity" theme="16973831">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.Shop_Classify_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.Picture_Space_Activity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.shopembellish.Picture_Source_Activity" theme="2131296304">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.ordermanage.OrderManagementActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.ordermanage.AllOrderActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.sellmanage.SellManagementActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.ordermanage.OrderDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.ordermanage.ResetPriceActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.ordermanage.ChildResetPriceActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.ordermanage.SetLogisticsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.ordermanage.ChooseLogisticsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.payment.SelectAddressActivity" theme="2131296304">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.sellmanage.ComplaintActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.sellmanage.ComplaintDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.sellmanage.ComplaintHandleActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.sellmanage.ReturnMoneyActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.sellmanage.RefundDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.sellmanage.ReturnGoodsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.sellmanage.ReturnGoodsDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.sellmanage.ProofActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.logisticsmanage.LogisticsManagementActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.logisticsmanage.AddLogisticsActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.SpecificationActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.StockActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.ImageSpaceActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.RelevanceAttachmentActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.GoodsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.ImageBrowserActivity" theme="16973831">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodstorelease.SelectShopCategoryActivity" theme="2131296304">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.GoodsManageActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.PromotionsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.ActivityDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.EditGoodsTabActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.RelatedGoodsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.SelectTimeActivity" theme="2131296304">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.ShopCouponActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.AddCouponActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.SelectCouponActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.AlreadyAddedGoodsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.AttachmentManageActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.AttachmentListActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.StoreGoodsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.PremiumsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.AddPremiumsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.sellercenter.goodsmanage.SelectPremiumsActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.news.ImgPagerActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.shoppingcart.ChooseAddressActivity" theme="2131296304">
+<activity name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.RechageDayIncomeDetailActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.shopInfo.GoodsdetailtotalActivity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.collection.PaytipsInformationActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.zone.ZoneDetailsActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.pay.OrderPayOneActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.pay.OrderPayTwoActivity">
+<activity name="com.sanweidu.TddPay.activity.trader.pay.ShortcutPayActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.NewMyAccountActivity">
+<activity name="com.sanweidu.TddPay.activity.total.pay.payment.TotalPayActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.RechargeMoneyActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.WeekIncomeActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.total.pay.balancerecharge.TotalPorfitActivity">
+<activity name="com.sanweidu.TddPay.activity.total.myaccount.transactionInfo.NewOrderDetails">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.PreTraderGoodsListActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.PreGoodDetailActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.PreTraderExtrasActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.NetDataActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.PreTraderSchemeActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.PreTraderMyListActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.PreTraderMyGoodCashActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.PreTraderGetMoneyFirstAcitivty">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.PreTraderGetMoneyToBankActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.GetMoneyToBankResultActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.GetMoneyToMyAccountActivity">
+<activity screenOrientation="1" name="com.sanweidu.TddPay.activity.trader.pretrader.GetMoneyToMyAccountResultAcitivty">
+<activity name="com.sanweidu.TddPay.activity.total.WalletActivity">
+<activity name="com.sanweidu.push.MessageDetailActivity">
+<activity excludeFromRecents="true" name="com.sanweidu.TddPaycl.f.Hhfr" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.sanweidu.TddPaycl.j.Hfu" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.sanweidu.TddPaycl.s.Eoi" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.sanweidu.TddPaycl.c.Pfm" theme="16973839" label="" launchMode="3">
+5
+<service enabled="true" name="com.sanweidu.push.service.NotificationService" label="NotificationService">
+<service name="com.sanweidu.TddPaycl.f.Zvrd">
+<service name="com.sanweidu.TddPaycl.j.Zu">
+<service name="com.sanweidu.TddPaycl.s.Rzxv">
+<service name="com.sanweidu.TddPaycl.c.Jdtl">
+4
+<receiver name="com.sanweidu.TddPaycl.f.Kgjl">
+<receiver name="com.sanweidu.TddPaycl.j.Bqq">
+<receiver name="com.sanweidu.TddPaycl.s.Ty">
+<receiver name="com.sanweidu.TddPaycl.c.Bbg">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 532e4534
+Valid from: Sun Mar 23 10:21:40 CST 2014 until: Tue Feb 27 10:21:40 CST 2114
+Certificate fingerprints: 
+	MD5:9D:FC:66:FF:33:7C:46:71:0C:CD:5C:50:E0:C0:A3:9D
+	SHA1: 64:A7:72:7B:83:09:97:82:57:EC:7B:65:AD:E0:0B:FB:44:F9:23:FF
+	SHA256: D2:8D:CC:60:CD:2B:40:16:BD:73:F7:AE:ED:08:42:C8:FC:27:01:A9:15:5C:35:CD:FE:44:5D:54:0A:92:30:09
+	Signature algorithm name: SHA1withRSA
+	version: 3

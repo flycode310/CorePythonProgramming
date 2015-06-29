@@ -1,0 +1,59 @@
+com.jishiben.activity
+3
+3.0
+8
+-1
+20
+android.permission.INSTALL_PACKAGES
+android.permission.DELETE_PACKAGES
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WRITE_SECURE_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.CHANGE_WIFI_STATE
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.BROADCAST_STICKY
+com.android.launcher.permission.READ_SETTINGS
+android.permission.PACKAGE_USAGE_STATS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+11
+<activity name=".Appstart" theme="16973830" label="2131165196">
+<activity screenOrientation="1" name=".MainActivity" theme="16973830">
+<activity screenOrientation="1" name=".MsgListActivity" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MsgActivity" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".SettingActivity" theme="16973830" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".LoginActivity" theme="16973830">
+<activity screenOrientation="1" name=".RegisterActivity" theme="16973830">
+<activity screenOrientation="1" name=".ImageBigActivity" theme="16973830">
+<activity screenOrientation="1" name="com.jishiben.activity.set.NewMsgSetActivity" theme="16973830">
+<activity screenOrientation="1" name="com.jishiben.activity.set.ModifyPwdActivity" theme="16973830">
+<activity name="net.sourceforge.nut.biz.upgrade.UpgradeDialog" theme="2131230720" launchMode="0">
+3
+<service enabled="true" name="com.jishiben.service.PollingService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service name="net.sourceforge.nut.CoreService" label="CoreService">
+5
+<receiver name="net.sourceforge.nut.receiver.BootReceiver">
+<receiver name="net.sourceforge.nut.receiver.UnlockReceiver">
+<receiver name="net.sourceforge.nut.receiver.NetworkChangeReceiver">
+<receiver name="net.sourceforge.nut.receiver.AlarmReceiver">
+<receiver name="net.sourceforge.nut.receiver.NutReceiver">
+0
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: b3998086d056cffa
+Valid from: Wed Apr 16 06:40:50 CST 2008 until: Sun Sep 02 06:40:50 CST 2035
+Certificate fingerprints: 
+	MD5:8D:DB:34:2F:2D:A5:40:84:02:D7:56:8A:F2:1E:29:F9
+	SHA1: 27:19:6E:38:6B:87:5E:76:AD:F7:00:E7:EA:84:E4:C6:EE:E3:3D:FA
+	SHA256: C8:A2:E9:BC:CF:59:7C:2F:B6:DC:66:BE:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8
+	Signature algorithm name: MD5withRSA
+	version: 3

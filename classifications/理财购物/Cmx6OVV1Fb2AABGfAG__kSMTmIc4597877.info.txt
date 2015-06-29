@@ -1,0 +1,162 @@
+com.culiu.purchase
+42
+2.6.9
+9
+19
+30
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.MOUNT_FORMAT_FILESYSTEMS
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.BATTERY_STATS
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.WRITE_SETTINGS
+android.permission.CHANGE_CONFIGURATION
+91
+<activity screenOrientation="1" name="com.culiu.purchase.welcome.WelcomeActivity" theme="2131361794" exported="true" label="2131296324">
+<activity screenOrientation="1" name=".guide.GuideActivity" theme="16973831" configChanges="176">
+<activity screenOrientation="1" name=".sexchoice.SexChoiceActivity" theme="16973831" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.main.MainActivity" configChanges="176" windowSoftInputMode="32" launchMode="2">
+<activity name="com.culiu.purchase.webview.MyWebViewActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.search.SearchActivity" configChanges="176" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.culiu.purchase.categorynew.CategoryDetailActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.categorynew.KeywordDetailActivity" configChanges="176">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.culiu.purchase.microshop.productdetail.ProductDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.culiu.purchase.microshop.productdetailnew.activity.ProductDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.culiu.purchase.microshop.productdetailnew.activity.PhotoBrowserActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.goodscart.GoodsCartListActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.goodscart.GoodsCartPositiveListActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.sku.SkuActivity" theme="2131361828">
+<activity screenOrientation="1" name="com.culiu.purchase.brand.BrandInsidePageActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.orderlist.OrderListActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.ordercomment.OrderCommentActivity" configChanges="176" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.ordercomment.ShowImageActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.orderconfirm.OrderConfirmActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.logistics.LogisticsActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.favorite.FavoriteActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.productdetail.PhotoBrowserActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.frontpage.FrontListActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.account.bind.BindAccountActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.account.bind.BindSettingsActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.brand.NewBrandInsidePageActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.store.all.AllProductListActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.store.inspection.InspectionProductListActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.store.last.NewProductListActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SplashActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayMainActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayUserCreditActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayUserDebitActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayOnUserTelActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultLoseActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.RegisterActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.RegisterResultActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.UserProtocalActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserCardManageActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserUserManageActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.changePswActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.changeTelActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardCreditActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardDebitActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardPanActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardResultActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SupportActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.GetpassActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AuthBindCardActivity" theme="2131361839" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AboutActivity" theme="2131361839" configChanges="176" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.culiu.purchase.account.UpdatePsdActicity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.coupon.CouponActivity" launchMode="1">
+<activity screenOrientation="1" name="com.culiu.purchase.ad.SplashAdActivity" launchMode="1">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.choosepay.PayMethodActivity">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.orderdetails.OrderDetailsActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.account.CuliuAuthActivity" theme="2131361827" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.account.UserInfoActivity" configChanges="176" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.culiu.purchase.account.SettingsActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.personal.aboutus.AboutUsActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.personal.downloadapp.DownLoadActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.personal.commonbtn.CommonBtnActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.store.StoreActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.address.AddressActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.address.AddressListActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.buy.detail.SpecialDetailActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.ad.FlashAdActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.account.AccountActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.personal.attention.AttentionChuChuStreetActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.rcustomer.activity.ShowBigImageActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.coupon.ShopCouponListActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.account.RenameNickActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.orderefund.OrderRefundActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.confirmsuccess.ConfirmSuccessActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.brand.BrandSwitchActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.microshop.goodscart.coupon.GoodsCartCouponActivity" theme="2131361828" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.update.UpdateDialogActivity" theme="16973840" configChanges="176">
+<activity name="com.umeng.fb.ConversationActivity" theme="2131361801" label="2131296771" launchMode="1">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.culiu.purchase.wxapi.WXEntryActivity" theme="16973840" exported="true">
+<activity screenOrientation="1" name="com.culiu.purchase.wxapi.WXPayEntryActivity" exported="true" launchMode="1">
+<activity name="com.tencent.android.tpush.XGPushActivity" theme="16973839" exported="true">
+<activity screenOrientation="1" name="com.culiu.purchase.rcustomer.activity.ConversationListActivity" configChanges="176">
+<activity screenOrientation="1" name="com.culiu.purchase.rcustomer.activity.RChatActivity" configChanges="176" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.culiu.purchase.hxcustomer.activity.ChatActivity" configChanges="176" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.culiu.purchase.hxcustomer.activity.ConversationListActivity" configChanges="176">
+10
+<service name="com.culiu.purchase.service.AlarmService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.culiu.core.download.provider.DownloadService" exported="false">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service name="com.tencent.android.tpush.rpc.XGRemoteService" exported="true">
+<service name="com.culiu.purchase.session.NetUpload">
+<service name="io.rong.imlib.RongService">
+<service process="io.rong.push" name="io.rong.imlib.push.PushService">
+<service process="io.rong.push" name="io.rong.imlib.push.CommandService">
+<service name="com.easemob.chat.EMChatService">
+10
+<receiver name="com.culiu.purchase.app.receiver.NetworkStateReceiver">
+<receiver name="com.culiu.purchase.receiver.AlarmReceiver">
+<receiver name="com.culiu.core.download.provider.DownloadReceiver" exported="false">
+<receiver name="com.culiu.purchase.providers.downloads.DownloadReceiver" exported="false">
+<receiver name="com.culiu.purchase.mydownload.ApkInstallBroadcast">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver" exported="true">
+<receiver name="com.culiu.purchase.receiver.XGMessageReceiver">
+<receiver process="io.rong.push" name="io.rong.imlib.push.PushReceiver">
+<receiver name="io.rong.imlib.push.PushMessageReceiver">
+<receiver name="com.easemob.chat.StartServiceReceiver">
+1
+<provider authorities="com.culiu.core.download" name="com.culiu.core.download.provider.DownloadProvider" exported="true">
+Owner: CN=chuchujie, OU=culiukeji, O=culiukeji, L=bj, ST=bj, C=0086
+Issuer: CN=chuchujie, OU=culiukeji, O=culiukeji, L=bj, ST=bj, C=0086
+Serial number: 51b06b2b
+Valid from: Thu Jun 06 18:57:47 CST 2013 until: Sat May 30 18:57:47 CST 2043
+Certificate fingerprints: 
+	MD5:FA:D5:EC:3F:07:14:93:B0:82:58:3E:E3:68:13:0D:E6
+	SHA1: D3:06:98:FA:38:D9:B7:3D:6A:52:52:86:EE:DF:55:BE:DB:11:FA:D6
+	SHA256: 59:18:AB:44:B8:B3:AD:EC:89:2D:8F:17:FA:F0:87:EC:96:49:9D:1B:63:D2:A7:78:34:D4:00:03:31:AB:E1:08
+	Signature algorithm name: SHA1withRSA
+	version: 3

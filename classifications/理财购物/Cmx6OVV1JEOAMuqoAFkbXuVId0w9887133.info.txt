@@ -1,0 +1,127 @@
+com.tencent.token
+44
+6.3.1
+9
+9
+15
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+86
+<activity screenOrientation="1" name="com.tencent.token.ui.LogoActivity" configChanges="224">
+<activity screenOrientation="1" name="com.tencent.token.ui.WelcomeActivity" configChanges="224" label="2131361792">
+<activity screenOrientation="1" name="com.tencent.token.ui.BaseActivity" configChanges="224" label="2131361792">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name="com.tencent.token.ui.IndexActivity" theme="2131427362" configChanges="224" label="2131361792" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.token.ui.PushTransitionActivity" configChanges="224" label="2131361792">
+<activity screenOrientation="1" name="com.tencent.token.ui.WidgetTransitionActivity" configChanges="224" label="2131361792">
+<activity screenOrientation="1" name="com.tencent.token.ui.ModifyQQPwdActivity" configChanges="224" exported="false" label="2131361925" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tencent.token.ui.StartPwdDigitVerifyActivity" configChanges="224" label="2131361938" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.tencent.token.ui.AboutActivity" configChanges="224" label="2131361872">
+<activity screenOrientation="1" name="com.tencent.token.ui.KnowTokenActivity" configChanges="224" label="2131361954">
+<activity screenOrientation="1" name="com.tencent.token.ui.SerialNumberActivity" configChanges="224" label="2131361883">
+<activity screenOrientation="1" name="com.tencent.token.ui.CorrectTokenActivity" configChanges="224" label="2131361886">
+<activity screenOrientation="1" name="com.tencent.token.ui.VerifyStartScanActivity" theme="16973840" configChanges="224" label="2131362292" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tencent.token.ui.BindUinActivity" configChanges="224" label="2131362314">
+<activity screenOrientation="1" name="com.tencent.token.ui.UnbindUinActivity" configChanges="224" label="2131361898">
+<activity screenOrientation="1" name="com.tencent.token.ui.SettingPageActivity" configChanges="224" label="2131362294">
+<activity screenOrientation="1" name="com.tencent.token.ui.StartPwdDigitSelActivity" configChanges="224" label="2131361792">
+<activity screenOrientation="1" name="com.tencent.token.ui.AccountManageActivity" configChanges="224" label="2131361964">
+<activity screenOrientation="1" name="com.tencent.token.ui.StartPwdGestureIndexActivity" configChanges="224" label="2131361957">
+<activity screenOrientation="1" name="com.tencent.token.ui.FacePwdIndexActivity" configChanges="224" label="2131362118">
+<activity screenOrientation="1" name="com.tencent.token.ui.NetActiveVryQuesActivity" configChanges="224" label="2131362314">
+<activity screenOrientation="1" name="com.tencent.token.ui.NetActiveVryMobileNoSmsActivity" configChanges="224" label="2131362314">
+<activity screenOrientation="1" name="com.tencent.token.ui.SelectCountryCodeActivity" configChanges="224" label="2131362384">
+<activity screenOrientation="1" name="com.tencent.token.ui.NetActiveVryOtherListActivity" configChanges="224" label="2131362314">
+<activity screenOrientation="1" name="com.tencent.token.ui.NetActiveVryQQTokenActivity" configChanges="224" label="2131362314">
+<activity screenOrientation="1" name="com.tencent.token.ui.NetActiveSetDirBySeqActivity" configChanges="224" label="2131362314">
+<activity screenOrientation="1" name="com.tencent.token.ui.OpreateMsgActivity" configChanges="224" label="2131361892">
+<activity screenOrientation="1" name="com.tencent.token.ui.OpMsgDisplayActivity" configChanges="224" label="2131361892" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.token.ui.LoginMsgActivity" configChanges="224" label="2131362004" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsActivity" configChanges="224" label="2131362163">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsQbQdProtectActivity" configChanges="224" label="2131362169">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsGameProtectActivity" configChanges="224" label="2131362167">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsAccountLockActivity" configChanges="224" label="2131361955">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsLoginProtectActivity" configChanges="224" label="2131362246">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsGameLockActivity" configChanges="224" label="2131361956">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsMbInfoActivity" configChanges="224" label="2131362170" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsMbInfoItemActivity" configChanges="224" label="2131362170">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsModSetMobileStep1Activity" configChanges="224" label="2131362170">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsModSetMobileStep2Activity" configChanges="224" label="2131362170">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsModSetMobileStep2SmsActivity" configChanges="224" label="2131362170">
+<activity screenOrientation="1" name="com.tencent.token.ui.JLFindItems" configChanges="224" label="2131362253" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.token.ui.JLFinditemsChooseZone" configChanges="224" label="2131362255">
+<activity screenOrientation="1" name="com.tencent.token.ui.JLAppealListActivity" configChanges="224" label="2131362269">
+<activity screenOrientation="1" name="com.tencent.token.ui.JLAppealListDetailActivity" configChanges="224" label="2131362270">
+<activity screenOrientation="1" name="com.tencent.token.ui.JLFinditemsResult" configChanges="224" label="2131362254">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsTokenLabActivity" configChanges="224" label="2131362417">
+<activity screenOrientation="1" name="com.tencent.token.ui.FaceRecognitionDefaultActivity" configChanges="224" label="2131362418">
+<activity screenOrientation="1" name="com.tencent.token.ui.FaceRecognitionCreateActivity" configChanges="224" label="2131362418">
+<activity screenOrientation="1" name="com.tencent.token.ui.FaceRecognitionCameraActivity" configChanges="224">
+<activity name="com.tencent.feedback.eup.ConfirmDialog" theme="16973835" exported="false" launchMode="0">
+<activity screenOrientation="1" name="com.tencent.qbardemo.MainActivity" theme="16973840">
+<activity screenOrientation="1" name="com.tencent.token.ui.ScanLoginAccountListActivity" configChanges="224" label="2131362060" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.token.ui.ScanLoginConfirmLoginActivity" configChanges="224" label="2131362057">
+<activity screenOrientation="1" name="com.tencent.token.ui.ScanLoginBindActivity" configChanges="224" label="2131362057">
+<activity screenOrientation="1" name="com.tencent.token.ui.GetBarcodeVerifyMsgActivity" configChanges="224" label="2131362081">
+<activity screenOrientation="1" name="com.tencent.token.ui.GetOtherBarcodeActivity" configChanges="224" label="2131362081">
+<activity screenOrientation="1" name="com.tencent.token.ui.StartPwdGestureModifyActivity" configChanges="224" label="2131362149">
+<activity screenOrientation="1" name="com.tencent.token.ui.StartPwdUpdateInfoActivity" configChanges="224" label="2131362147">
+<activity screenOrientation="1" name="com.tencent.token.ui.StartPwdGestureSelActivity" configChanges="224" label="2131362147">
+<activity screenOrientation="1" name="com.tencent.token.ui.SecurityReporterActivity" configChanges="224" label="2131362412">
+<activity screenOrientation="1" name="com.tencent.token.ui.StartPwdGestureForgetActivity" configChanges="224" label="2131362148">
+<activity screenOrientation="1" name="com.tencent.token.ui.StartPwdGestureDeleteActivity" configChanges="224" label="2131362147">
+<activity screenOrientation="1" name="com.tencent.token.ui.StartPwdGestureVerifyActivity" theme="16973840" configChanges="224" label="2131362147" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.token.ui.AssistantRecommendFriendQrcode" configChanges="224" label="2131361958">
+<activity screenOrientation="1" name="com.tencent.token.ui.AccountPageActivity" configChanges="224" label="2131362286">
+<activity screenOrientation="1" name="com.tencent.token.ui.AccountDetailActivity" configChanges="224" label="2131362289">
+<activity screenOrientation="1" name="com.tencent.token.ui.HelpActivity" configChanges="224" label="2131361954">
+<activity screenOrientation="1" name="com.tencent.token.ui.FacePKActivity" configChanges="224" label="2131362420">
+<activity screenOrientation="1" name="com.tencent.token.ui.FindPasswdActivity" configChanges="224" label="2131362296">
+<activity screenOrientation="1" name="com.tencent.token.ui.LoginMsgReportLocationActivity" configChanges="224" label="2131362030">
+<activity screenOrientation="1" name="com.tencent.token.ui.LoginMsgIpShareActivity" configChanges="224" label="2131362031">
+<activity screenOrientation="1" name="com.tencent.token.ui.LoginMsgChangePwdActivity" configChanges="224" label="2131362032">
+<activity screenOrientation="1" name="com.tencent.token.ui.WtLoginAccountInput" configChanges="224" label="2131362300" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tencent.token.ui.WtloginFinishNoMibaoActivity" configChanges="224" label="2131362314">
+<activity screenOrientation="1" name="com.tencent.token.ui.SettingSubmitCommentActivity" configChanges="224" label="2131362327">
+<activity screenOrientation="1" name="com.tencent.token.ui.LookNetworkActivity" configChanges="224" label="2131362341">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsMbInfoFeedbackMobileUsingSuccActivity" configChanges="224" label="2131362213">
+<activity screenOrientation="1" name="com.tencent.token.ui.ScanLoginSuccActivity" configChanges="224" label="2131362057">
+<activity screenOrientation="1" name="com.tencent.token.ui.SmsActitivity" theme="2131427410" configChanges="224">
+<activity screenOrientation="1" name="com.tencent.token.ui.JianLingActivity" configChanges="224" label="2131362405">
+<activity screenOrientation="1" name="com.tencent.token.ui.UtilsCommonProtectActivity" configChanges="224" label="2131362219">
+<activity screenOrientation="1" name="com.tencent.token.ui.AbnormalLoginActivity" configChanges="224" label="2131362408">
+<activity screenOrientation="1" name="com.tencent.token.ui.WtloginSigExpireActivity" configChanges="224" label="2131362394">
+<activity screenOrientation="1" name="com.tencent.token.ui.SettingTokenActivity" configChanges="224" label="2131361811">
+<activity screenOrientation="1" name="com.tencent.token.ui.ShowLogActivity" configChanges="224">
+<activity screenOrientation="1" name="com.tencent.token.ui.VerifyMobilePhoneActivity" configChanges="224" label="2131361864" windowSoftInputMode="18">
+3
+<service name="com.tencent.token.widget.TokenService" exported="false">
+<service name="com.tencent.token.core.push.PushService" exported="false">
+<service name="com.tencent.token.core.gamelogin.GameLoginService" exported="false">
+3
+<receiver name="com.tencent.token.widget.TokenWidgetProvider" exported="false" label="2131361792">
+<receiver name="com.tencent.token.core.push.BootBroadcastReceiver" exported="false">
+<receiver name="com.tencent.token.utils.SMSReceiver" exported="false">
+0
+Owner: CN=neal, OU=tencent.com, O=tencent.com, L=Shenzhen, ST=CN, C=CN
+Issuer: CN=neal, OU=tencent.com, O=tencent.com, L=Shenzhen, ST=CN, C=CN
+Serial number: 4cc68d8d
+Valid from: Tue Oct 26 16:13:01 CST 2010 until: Thu Oct 02 16:13:01 CST 2110
+Certificate fingerprints: 
+	MD5:CB:74:6C:E3:54:D1:7D:9B:CD:03:F7:F8:C2:32:F4:C1
+	SHA1: 3B:87:0F:09:4B:82:46:D5:AB:E3:38:8D:98:32:FE:DF:7C:A3:29:44
+	SHA256: 03:22:84:72:13:A9:BD:C9:83:55:18:F0:A3:BC:82:8D:94:0D:50:3B:76:6E:AB:EE:90:58:86:35:B4:2C:C6:24
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,108 @@
+com.caixin.investor
+726
+3.5.2
+13
+-1
+26
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.RECORD_VIDEO
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DISABLE_KEYGUARD
+android.permission.WRITE_CALENDAR
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+51
+<activity screenOrientation="1" name=".activity.SplashActivity" theme="16973830" windowSoftInputMode="32">
+<activity name=".base.BaseActivity">
+<activity screenOrientation="1" name=".activity.ActionBarActivity" launchMode="0">
+<activity screenOrientation="1" name=".activity.WelcomeActivity">
+<activity screenOrientation="1" name=".activity.secondary.MySelect">
+<activity screenOrientation="1" name=".activity.secondary.LivingActivity">
+<activity screenOrientation="1" name=".activity.secondary.KindActivity">
+<activity screenOrientation="1" name=".activity.secondary.InterestLiveActivity">
+<activity screenOrientation="1" name=".activity.secondary.FollowWithInterestActivity">
+<activity screenOrientation="1" name=".activity.secondary.RankLiveActivity">
+<activity screenOrientation="1" name=".activity.secondary.RecentlyLiveActivity">
+<activity screenOrientation="1" name=".activity.secondary.SelectTagActivity">
+<activity screenOrientation="0" name=".activity.secondary.LiveRoomActivity_2" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".activity.secondary.HistoryLiveActivity">
+<activity screenOrientation="1" name=".activity.secondary.ForecastDetailActivity">
+<activity screenOrientation="1" name=".activity.secondary.NewsDetailActivity">
+<activity screenOrientation="1" name=".activity.secondary.ContactsActivity">
+<activity screenOrientation="1" name=".activity.secondary.ChatActivity">
+<activity screenOrientation="1" name=".activity.secondary.GroupChatActivity">
+<activity screenOrientation="1" name=".activity.secondary.GroupSetting">
+<activity screenOrientation="1" name=".activity.secondary.ManageGroupMemberActivity">
+<activity screenOrientation="1" name=".activity.secondary.GroupInviteUserActivity">
+<activity screenOrientation="1" name=".activity.secondary.AnalystInformationActivity">
+<activity screenOrientation="1" name=".activity.secondary.AnalystSquareActivity">
+<activity screenOrientation="1" name=".activity.secondary.SettingActivity">
+<activity screenOrientation="1" name=".activity.secondary.FeedBackActivity">
+<activity screenOrientation="1" name=".activity.secondary.ModifyAccountActivity">
+<activity screenOrientation="1" name=".activity.secondary.EditProfileActivity" windowSoftInputMode="23">
+<activity screenOrientation="1" name=".activity.secondary.SecondLoginActivity">
+<activity screenOrientation="1" name=".activity.secondary.SecondRegisterActivity">
+<activity screenOrientation="1" name=".activity.secondary.ModifyPasswordActivity">
+<activity screenOrientation="1" name=".activity.secondary.BindMobileActivity">
+<activity screenOrientation="1" name=".activity.secondary.InvestAreaActivity">
+<activity screenOrientation="1" name=".activity.secondary.SetNoDisturbActivity">
+<activity screenOrientation="1" name=".activity.secondary.AboutActivity">
+<activity screenOrientation="1" name=".activity.secondary.HelpActivity">
+<activity screenOrientation="1" name=".activity.secondary.AboutWebActivity">
+<activity screenOrientation="1" name=".activity.secondary.FindPwdActivity">
+<activity screenOrientation="1" name=".activity.secondary.AdsView">
+<activity screenOrientation="1" name=".activity.secondary.QuotationActivity">
+<activity screenOrientation="1" name=".activity.secondary.MySavedLiveActivity">
+<activity screenOrientation="1" name=".activity.secondary.AccrodingNewsActivity">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131165200" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.umeng.socialize.view.CommentActivity" theme="2131165201" configChanges="144">
+<activity name="com.umeng.socialize.view.CommentDetail" theme="2131165201" configChanges="144" noHistory="true">
+<activity name="com.umeng.socialize.view.CommentDetailNoMap" theme="2131165201" configChanges="144" noHistory="true">
+6
+<service name=".service.InvestorService" exported="false">
+<service name=".service.LiveAudioService_i" exported="false">
+<service name=".service.LiveRoomService" exported="false">
+<service enabled="true" name="com.longau.service.UpdateAppService">
+<service enabled="true" name=".service.DownLoadImgService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+5
+<receiver name=".receiver.CXBroadcastReceiver">
+<receiver name=".receiver.SMSReceiver">
+<receiver name=".receiver.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=xiewl, OU=longxuncaixin, O=develop, L=beijing, ST=shijingshan, C=CN
+Issuer: CN=xiewl, OU=longxuncaixin, O=develop, L=beijing, ST=shijingshan, C=CN
+Serial number: 53156c4c
+Valid from: Tue Mar 04 14:01:48 CST 2014 until: Sat Jan 15 14:01:48 CST 2214
+Certificate fingerprints: 
+	MD5:63:7D:B9:CB:A9:E1:11:2C:05:30:64:55:93:F1:2F:44
+	SHA1: 31:33:86:49:75:D1:A4:37:AF:52:6D:5F:77:3F:09:B9:09:1D:4A:F1
+	SHA256: 08:B7:43:E3:B9:E6:EA:33:3B:AE:73:D8:EC:9F:89:94:47:C4:B0:E4:4B:D0:FE:EC:CA:8F:DD:F1:EE:9B:A4:CF
+	Signature algorithm name: SHA1withRSA
+	version: 3

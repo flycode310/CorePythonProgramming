@@ -1,0 +1,95 @@
+com.itotem.cmcc.ticket
+8
+1.3
+7
+-1
+12
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_APN_SETTINGS
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+62
+<activity screenOrientation="1" name=".activity.MainActivity" label="2131230731">
+<activity screenOrientation="1" name=".activity.TrainSearchActivity">
+<activity screenOrientation="1" name=".calender.DateWidget" theme="2131296263">
+<activity screenOrientation="1" name=".activity.AirplaneDetailActivity">
+<activity screenOrientation="1" name=".activity.AirplaneSearchActivity">
+<activity screenOrientation="1" name=".activity.AirplaneOrderActivity" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.BusDetailActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.BusSearchActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.BusOrderActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.MyTicketActivity" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.FeedbackActivity" theme="2131296265">
+<activity screenOrientation="1" name=".activity.LoginActivity" theme="2131296265">
+<activity screenOrientation="1" name=".activity.AirplanceCaptchaActivity" theme="2131296265">
+<activity screenOrientation="1" name=".activity.AboutActivity" theme="2131296265">
+<activity screenOrientation="1" name=".activity.ShareActivity" theme="2131296265">
+<activity screenOrientation="1" name=".activity.SearchCityActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainTabActivity" theme="2131296260" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainAgentActivity" theme="2131296260" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainAgentSearchActivity" theme="2131296260" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainTrendsDetailDialogActivity" theme="2131296265" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.MessageDialogActivity" theme="2131296265" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.BusTabActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.BusOrderManageActivity" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.BusOrderDetailActivity" theme="2131296265" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.PhoneActivity" theme="2131296265">
+<activity screenOrientation="1" name=".activity.ToBeActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.LoadingActivity">
+<activity screenOrientation="1" name=".activity.SearchAirplaneCityActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.BusPayConfirmActivity" theme="2131296265" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainCodeDetailActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainDetailActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainDetailMoreActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainOrderActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainOrderDetailActivity" theme="2131296265" configChanges="240" windowSoftInputMode="32">
+<activity process=":myexeptionprocess" name="com.itotem.loghandler.ErrorHandler" taskAffinity="system.ErrorHandler">
+<activity screenOrientation="1" name=".activity.AirplaneCompanySearchActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.AirplaneOrderOkActivity" theme="2131296265">
+<activity screenOrientation="1" name=".activity.AirplaneOrderOkBackActivity" theme="2131296265">
+<activity screenOrientation="1" name=".activity.AirplaneTabActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.AirplaneOrderManagerActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.AirplaneOrderDetailDialogActivity" theme="2131296265" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.ShareToSinaLogin" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.SearchTrainCityActivity" theme="2131296260" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TrainOrderDetailDialogActivity" theme="2131296265" configChanges="240" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SplashActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CardMainActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayMainActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayItActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AccountMainActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.LoginActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.RegisterActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.GetpassActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.ResetpassActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.EditpassActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.EditinfoActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AddCardActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.UserProtocalActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CheckCardBalanceActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CardInfoActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CardBalanceResultActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.CardBankResultActivity">
+0
+0
+1
+<provider authorities="com.itotem.db.provider" name=".db.ItotemContentProvider" permission="com.itotem.android.provider.ACCESS">
+Owner: CN=itotemApp, OU=itotem, O=itotem, L=北京, ST=海淀, C=cn
+Issuer: CN=itotemApp, OU=itotem, O=itotem, L=北京, ST=海淀, C=cn
+Serial number: 1b64b70a
+Valid from: Thu Mar 29 14:42:45 CST 2012 until: Fri Mar 17 14:42:45 CST 2062
+Certificate fingerprints: 
+	MD5:DE:D6:8C:90:76:85:20:99:FA:B6:D5:8B:03:AC:2B:AC
+	SHA1: 1E:76:FB:43:F4:DF:D6:12:48:34:5B:CE:F7:7C:F4:A8:5F:18:3E:92
+	SHA256: AC:A5:26:19:2C:C2:D0:E6:48:C3:67:86:23:2D:C3:54:E5:A6:84:81:7F:76:A7:ED:11:70:B2:A1:D7:37:03:CD
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,64 @@
+com.videopark
+166
+1.6.6
+9
+17
+18
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_APN_SETTINGS
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+com.lemon.android.download.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.RECEIVE_BOOT_COMPLETED
+com.lemon.android.download.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.lemon.android.download.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+21
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.SplashActivity" theme="16973830" label="2131165207">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.GuideActivity" theme="16973830" label="2131165220">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.MainActivity" theme="2131230724" label="2131165207">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.DetailActivity" theme="2131230735" configChanges="1184" label="2131165218" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.ColumnActivity" theme="2131230734" label="2131165219">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.SearchActivity" theme="16973830" label="2131165226">
+<activity name="com.wondertek.peoplevideo.wxapi.WXEntryActivity" exported="true" label="2131165207">
+<activity screenOrientation="0" name="com.wondertek.peoplevideo.activity.OfflinePlayerActivity" theme="16973831" configChanges="1184" label="2131165270">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.LoginActivity" theme="16973830" label="2131165287">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.RegisterActivity" theme="16973830" label="2131165301">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.ForgetSecretActivity" theme="16973830" label="2131165315">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.UserInfoChangeActivity" theme="16973830" label="2131165319">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.SettingActivity" theme="16973830" label="2131165324">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.SuggestionActivity" theme="16973830" label="2131165334">
+<activity name="com.cmcc.cmvsdk.main.NewOrderActivity" theme="2131230740">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.AboutActivity" theme="16973830">
+<activity name="com.msgpush.mqtt.NotificationDetailsActivity">
+<activity screenOrientation="1" name="com.wondertek.peoplevideo.activity.DutyActivity" theme="16973830" label="2131165374">
+<activity screenOrientation="1" name="com.wondertek.applicationdownLoad.activity.ApplicationActivity" theme="2131230735" label="2131165410">
+<activity screenOrientation="1" name="com.wondertek.applicationdownLoad.activity.ApplicationDetailActivity" theme="16973830" label="2131165416">
+<activity screenOrientation="1" name="com.wondertek.applicationdownLoad.activity.ApplicationManagerActivity" theme="16973830" label="2131165418">
+2
+<service name="com.lemon.android.download.service.DownloadService">
+<service enabled="true" name="com.msgpush.mqtt.MQTTService">
+2
+<receiver name="com.lemon.android.download.receiver.DownloadReceiver" exported="false">
+<receiver name="com.msgpush.mqtt.BootReceiver">
+1
+<provider authorities="com.lemon.android.downloads" name="com.lemon.android.download.provider.DownloadProvider">
+Owner: CN=wd, OU=wd, O=wd, L=wd, ST=wd, C=wd
+Issuer: CN=wd, OU=wd, O=wd, L=wd, ST=wd, C=wd
+Serial number: 4e1fe829
+Valid from: Fri Jul 15 15:11:37 CST 2011 until: Thu Feb 06 15:11:37 CST 2110
+Certificate fingerprints: 
+	MD5:48:61:65:90:06:71:9E:84:73:AD:B8:11:80:F1:90:E3
+	SHA1: FD:FA:B7:C7:50:CA:D0:5B:04:90:15:71:55:07:95:6F:F8:DE:7E:74
+	SHA256: 70:49:B6:23:B8:FA:20:94:A4:24:EA:B4:D1:F8:B4:6B:6E:11:44:E7:99:0B:65:95:47:2C:33:51:7D:6F:7F:7E
+	Signature algorithm name: SHA1withRSA
+	version: 3

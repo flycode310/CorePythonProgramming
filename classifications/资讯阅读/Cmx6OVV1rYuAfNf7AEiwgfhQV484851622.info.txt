@@ -1,0 +1,37 @@
+com.kingreader.comic
+6800
+6.8
+4
+11
+7
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name=".SplashActivity" theme="2131230728" label="2131165184">
+<activity screenOrientation="1" name=".ActivityTopBook" theme="2131230730" configChanges="144" label="2131165184" windowSoftInputMode="32">
+<activity name=".ActivityBookShelf" theme="2131230730" configChanges="144" label="2131165184" windowSoftInputMode="32">
+<activity name=".ActivityReader" theme="2131230720" configChanges="144" label="2131165184" windowSoftInputMode="32">
+<activity name=".ActivityFileManager" theme="2131230730" configChanges="144" label="2131165184" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".WhatNewActivity" theme="2131230730" configChanges="144" label="2131165184" windowSoftInputMode="32">
+<activity screenOrientation="3" name=".ActivityStartService" theme="16973840" configChanges="160">
+<activity name="com.kingreader.cropimage.CropImage" configChanges="160" label="手动裁剪">
+<activity name=".ActivitySetting" theme="2131230730" configChanges="160" label="2131165184">
+0
+1
+<receiver name="com.kingreader.service.UpgradeReceiver" label="NetworkConnection">
+0
+Owner: CN=kingreader.com
+Issuer: CN=kingreader.com
+Serial number: 505adbe2
+Valid from: Thu Sep 20 17:03:30 CST 2012 until: Sat Aug 27 17:03:30 CST 2112
+Certificate fingerprints: 
+	MD5:A8:01:DF:60:68:36:CF:E7:52:6D:DC:FF:82:1B:91:01
+	SHA1: CF:82:AB:C2:70:21:B3:BD:70:23:E6:AC:7E:9B:3B:BC:49:C2:76:A5
+	SHA256: 0C:A6:E2:89:F7:4A:EA:E0:34:C1:F1:FB:51:FB:DD:AD:50:B4:55:74:27:D9:66:99:E9:6C:19:78:EC:EA:40:B4
+	Signature algorithm name: SHA1withRSA
+	version: 3

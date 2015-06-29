@@ -1,0 +1,115 @@
+com.ifeng.newvideo
+6094
+6.9.4
+8
+18
+32
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.CHANGE_COMPONENT_ENABLED_STATE
+android.permission.DELETE_PACKAGES
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.SET_ACTIVITY_WATCHER
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.WRITE_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INSTALL_PACKAGES
+android.permission.WRITE_SECURE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.EXPAND_STATUS_BAR
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+42
+<activity screenOrientation="1" name="com.ifeng.newvideo.ui.ActivityMainTab" configChanges="3312" exported="true" launchMode="2">
+<activity name="com.ifeng.newvideo.dialogUI.MobileNetAlert" theme="2131296261" configChanges="3312" launchMode="2">
+<activity screenOrientation="1" name="com.ifeng.newvideo.cache.CacheAllActivity">
+<activity screenOrientation="1" name="com.ifeng.newvideo.ui.live.ActivityLive" configChanges="3312" launchMode="2">
+<activity screenOrientation="0" name="com.ifeng.newvideo.ui.live.LiveFromUrlActivity" configChanges="3312">
+<activity screenOrientation="1" name="com.ifeng.newvideo.cache.CachingActivity">
+<activity screenOrientation="1" name="com.ifeng.newvideo.cache.CacheFolderActivity">
+<activity screenOrientation="1" name="com.ifeng.newvideo.ui.mine.favorites.ActivityFavorites">
+<activity screenOrientation="1" name="com.ifeng.newvideo.ui.mine.history.ActivityHistory">
+<activity screenOrientation="1" name="com.ifeng.newvideo.cache.CacheMoreActivity" theme="16973840">
+<activity screenOrientation="1" name="com.ifeng.newvideo.ui.ActivitySplash" theme="16973841">
+<activity screenOrientation="1" name="com.ifeng.newvideo.ui.ActivityNewVerGuide" theme="16973831">
+<activity screenOrientation="1" name="com.ifeng.newvideo.videoplayer.activity.ActivityTopicPlayer" configChanges="3312" exported="true" launchMode="0">
+<activity screenOrientation="1" name="com.ifeng.newvideo.videoplayer.activity.ActivityVideoPlayer" configChanges="3312" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.ifeng.newvideo.videoplayer.activity.ActivityVideoPlayerDetail" theme="16973830" configChanges="3312" exported="true" launchMode="2">
+<activity process=":remote" screenOrientation="1" name="com.ifeng.newvideo.ui.ad.ADActivity" launchMode="1">
+<activity screenOrientation="0" name="com.ifeng.newvideo.dlna.DLNABasePlayerActivity" configChanges="3312">
+<activity screenOrientation="0" name="com.ifeng.newvideo.dlna.DLNAPlayerActivity" configChanges="3312">
+<activity screenOrientation="0" name="com.ifeng.newvideo.dlna.DLNAPlayerActivtyForVideo" configChanges="3312">
+<activity screenOrientation="1" name="com.ifeng.newvideo.setting.activity.SettingActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ifeng.newvideo.setting.activity.AboutActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ifeng.newvideo.setting.activity.CachePathActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ifeng.newvideo.setting.activity.UserFeedbackActivity" launchMode="1">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.ifeng.newvideo.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="com.ifeng.newvideo.login.activity.MainLoginActivity" theme="16973840" launchMode="1">
+<activity screenOrientation="1" name="com.ifeng.newvideo.login.activity.IfengLoginActivity" theme="16973840" launchMode="1">
+<activity screenOrientation="1" name="com.ifeng.newvideo.login.activity.RegisterActivity" theme="16973840">
+<activity screenOrientation="1" name="com.ifeng.newvideo.login.activity.CheckMailActivity" theme="16973840">
+<activity screenOrientation="1" name="com.ifeng.newvideo.login.activity.CheckNoteActivity" theme="16973840">
+<activity screenOrientation="1" name="com.ifeng.newvideo.login.activity.ActivityArgeement" theme="16973840" launchMode="3">
+<activity name="com.ifeng.newvideo.login.activity.ActivityForgetPwd" theme="16973840">
+<activity name="com.ifeng.video.upgrade.ui.UpgradeActivity" theme="16973835">
+<activity name="com.ifeng.newvideo.dialogUI.DialogForAudio" theme="2131296261" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.ifeng.newvideo.freeflow.BusinessActivity">
+<activity screenOrientation="1" name="com.ifeng.newvideo.search.ActivitySearch" theme="16973840" configChanges="3312" windowSoftInputMode="32">
+<activity name="com.ifeng.newvideo.dialogUI.DownloadDialogInActivity" theme="16973840">
+<activity name="com.ifeng.newvideo.dialogUI.LiveBookDialogInActivity" theme="16973840">
+<activity screenOrientation="1" name="com.ifeng.newvideo.ui.mine.signin.SignInActivity" windowSoftInputMode="18">
+<activity name="com.ifeng.newvideo.coustomshare.ShareVerticalActivity" theme="16973840" configChanges="1184" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.ifeng.newvideo.coustomshare.EditPage" theme="16973840">
+<activity name="com.ifeng.newvideo.ui.basic.BaseActivity">
+12
+<service name="com.ifeng.video.core.download.DownloadService">
+<service name="com.ifeng.newvideo.service.StatisticsInEndService">
+<service name="com.ifeng.newvideo.service.StatisticHBService">
+<service name="com.ifeng.newvideo.dlna.DLNAService">
+<service enabled="true" name="com.ifeng.ipush.client.service.PushService" exported="false">
+<service enabled="true" name="com.ifeng.ipush.client.service.EventService" exported="false">
+<service name="com.ifeng.newvideo.videoplayer.service.VideoAudioService">
+<service name="com.ifeng.newvideo.videoplayer.service.LiveAudioService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.ifeng.video.upgrade.HandleUpgradeService">
+<service name="com.ifeng.newvideo.freeflow.unicom.common.OperatorsService">
+<service process=":bdservice_v1" name="com.baidu.android.moplus.MoPlusService" exported="true">
+9
+<receiver name="com.ifeng.newvideo.receiver.BootReceiver">
+<receiver name="com.ifeng.newvideo.receiver.SystemTimeReceiver">
+<receiver name="com.ifeng.newvideo.receiver.LiveAlarmReceiver">
+<receiver name="com.ifeng.newvideo.cache.NetReceiver">
+<receiver enabled="true" name="com.ifeng.newvideo.push.PushReceiver" exported="false">
+<receiver enabled="true" name="com.ifeng.ipush.client.receiver.PushReceiver" exported="false">
+<receiver process=":bdservice_v1" name="com.baidu.android.moplus.MoPlusReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.moplus.MoPlusExtReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.defense.push.PushMsgReceiver">
+0
+Owner: CN=ifeng.com, OU=Phoenix Online (Beijing) Infomation Technology Co.Ltd., O=Phoenix Online (Beijing) Infomation Technology Co.Ltd., L=Beijing, ST=Beijing, C=CN
+Issuer: CN=ifeng.com, OU=Phoenix Online (Beijing) Infomation Technology Co.Ltd., O=Phoenix Online (Beijing) Infomation Technology Co.Ltd., L=Beijing, ST=Beijing, C=CN
+Serial number: 4be3754a
+Valid from: Fri May 07 10:04:58 CST 2010 until: Mon Apr 17 10:04:58 CST 2090
+Certificate fingerprints: 
+	MD5:9D:95:E8:91:FA:60:7E:92:68:B9:1A:8C:3D:D5:07:2B
+	SHA1: F8:68:B2:50:9E:DA:DF:BE:7E:C0:24:20:5A:DE:6A:CA:61:8B:23:B9
+	SHA256: 8D:CB:8B:55:BA:D7:72:41:DA:69:11:0E:1A:14:10:FC:6D:36:32:78:E0:F5:4F:20:1B:16:27:28:35:50:7E:79
+	Signature algorithm name: SHA1withRSA
+	version: 3

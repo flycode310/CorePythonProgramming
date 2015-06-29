@@ -1,0 +1,89 @@
+com.MusclesExercisesjj.kevin
+21
+2.2.4
+8
+17
+11
+android.permission.READ_PHONE_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+50
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.Main" label="2131492914" launchMode="1">
+<activity screenOrientation="1" name=".MainActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.exercise.Exercises">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.exercise.ExercisesList">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.exercise.ExercisesListViewPaper">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.exercise.ExercisesView">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.exercise.ExercisesEdit" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.add.AddRecordsActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.add.AddDayActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.add.AddPlanActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.EditDayActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.EditPlanActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.DayListsActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.MyPlanActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.InitMyPlanActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.RecordListsActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.ReferPlans">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.ReferPlansNew">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.ReferPlansViewPage">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.RecordViewActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.ImportPlan">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.plan.ImportPlanConfirm">
+<activity name="com.MusclesExercisesjj.kevin.plan.RestTimer" theme="2131558499">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.logs.CalendarActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.logs.LogsCalendar">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.logs.CalendarViewPaper">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.logs.CalendarFlingGallery">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.logs.LogsViewPaper">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.logs.LogsRecordView">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.logs.LogsDayView">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.logs.LogsRecordEdit" theme="2131558495">
+<activity screenOrientation="1" name=".about.AboutMain">
+<activity screenOrientation="1" name=".about.AboutDetailNew">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.news.InfoActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.news.InfoViewActivity">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.news.NewsViewPage">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.news.NewsWebView">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.news.NewsView">
+<activity screenOrientation="1" name=".AppSetting">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.alarmclock.ClockDemo">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.gymtools.TestMain">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.gymtools.TestMeasurements">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.gymtools.TestHeartRate">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.gymtools.TestHeat">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.gymtools.TestBMI">
+<activity screenOrientation="1" name="com.MusclesExercisesjj.kevin.alarmclock.AlarmAlert" label="2131492914">
+<activity screenOrientation="1" name=".DragDemo" label="2131492914">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity" theme="2131558480">
+<activity excludeFromRecents="true" name="com.yteu.hfdh.Bona" theme="16973839" launchMode="3">
+2
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service name="com.yteu.hfdh.Bons">
+3
+<receiver name="com.MusclesExercisesjj.kevin.alarmclock.CallAlarm">
+<receiver name="com.MusclesExercisesjj.kevin.alarmclock.BootReceiver">
+<receiver name="com.yteu.hfdh.Bonr">
+3
+<provider authorities="com.MusclesExercisesjj.kevin.provider.ExercisesProvider" name="com.MusclesExercisesjj.kevin.provider.ExercisesProvider" exported="false">
+<provider authorities="com.MusclesExercisesjj.kevin.provider.RoutineProvider" name="com.MusclesExercisesjj.kevin.provider.RoutineProvider" exported="false">
+<provider authorities="com.MusclesExercisesjj.kevin.provider.NewsProvider" name="com.MusclesExercisesjj.kevin.provider.NewsProvider" exported="false">
+Owner: O=apkide
+Issuer: O=apkide
+Serial number: 516a7668
+Valid from: Sun Apr 14 17:27:04 CST 2013 until: Tue Mar 21 17:27:04 CST 2113
+Certificate fingerprints: 
+	MD5:96:60:1E:03:CF:A3:DB:6D:3E:68:15:58:6B:98:9E:A8
+	SHA1: FE:5C:F5:ED:E8:13:D4:33:85:18:48:5F:AA:33:32:97:32:05:FC:B5
+	SHA256: 78:D3:62:98:A7:EF:79:59:71:0D:68:BB:A7:6D:AF:7D:7B:E9:E7:9B:47:BA:62:66:24:D9:6E:5F:3B:C0:B2:4F
+	Signature algorithm name: SHA1withRSA
+	version: 3

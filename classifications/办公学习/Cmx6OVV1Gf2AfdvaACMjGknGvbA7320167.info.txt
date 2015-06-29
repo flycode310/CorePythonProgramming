@@ -1,0 +1,75 @@
+com.xingheng.gjjizhenyixue
+1
+1.1.0
+10
+18
+8
+android.permission.READ_PHONE_STATE
+android.permission.INSTALL_PACKAGES
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+47
+<activity name="com.xingheng.mainboard.DoctorText" label="2131165198">
+<activity name="com.xingheng.mainboard.LoginActivity">
+<activity name="com.xingheng.mainboard.RegisterActivity">
+<activity name="RecoveryPwdActivity">
+<activity name="NewPwdActivity">
+<activity name="MainActivity">
+<activity name="HomeActivity">
+<activity name="SkillsActivity">
+<activity name="com.xingheng.mainboard.ExamMainActivity">
+<activity name="PersonalActivity">
+<activity name="com.xingheng.mainboard.FeedbackActivity">
+<activity name="PaperDownloadActivity">
+<activity name="com.xingheng.mainboard.SecuritySetActivity">
+<activity name="BindNumActivity">
+<activity name="com.xingheng.mainboard.ModifyPwdActivity">
+<activity name="com.xingheng.mainboard.RankingMainPage">
+<activity name="com.xingheng.mainboard.SoftRegister">
+<activity name="com.xingheng.mainboard.PaperrankMainPage">
+<activity name="com.xingheng.mainboard.AboutUs">
+<activity name="com.xingheng.mainboard.Comingsoon">
+<activity name="com.xingheng.exam.ExamDatabaseActivity">
+<activity name="com.xingheng.exam.ChaperTitleSecond">
+<activity name="com.xingheng.exam.ChaperTitleThird">
+<activity name="com.xingheng.exam.ModelExamActivity">
+<activity name="com.xingheng.exam.ExamDetailActivity">
+<activity name="com.xingheng.exam.FavoriteShowList">
+<activity name="com.xingheng.exam.WrongSetShowList">
+<activity name="com.xingheng.exam.UniversalTest">
+<activity name="com.xingheng.exam.LearningProcess">
+<activity name="com.xingheng.exam.TestCollectActivity">
+<activity name="com.xingheng.exam.RankingByCredit">
+<activity name="com.xingheng.exam.TcardActivity">
+<activity name="com.xingheng.exam.PreviousListActivity">
+<activity name="com.xingheng.exam.TopicActivity">
+<activity name="com.xingheng.exam.NoteSubmit">
+<activity name="com.xingheng.exam.FavoriteAndWrongSetPractice">
+<activity name="com.xingheng.exam.ExamCompass">
+<activity name="com.xingheng.alipay.Base64">
+<activity name="com.xingheng.alipay.ExternalPartner">
+<activity name="com.xingheng.alipay.Keys">
+<activity name="com.xingheng.alipay.Result">
+<activity name="com.xingheng.alipay.Rsa">
+<activity name="com.xingheng.exam.MyNoteShowList">
+<activity name="com.xingheng.exam.OldExamActivity">
+<activity name="com.xingheng.exam.OldExamSection">
+<activity hardwareAccelerated="true" name="com.xingheng.exam.CompassContent">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+0
+0
+0
+Owner: CN=张李娜, OU=教育培训, O=星恒教育, L=中国, ST=北京, C=010
+Issuer: CN=张李娜, OU=教育培训, O=星恒教育, L=中国, ST=北京, C=010
+Serial number: 4aab5928
+Valid from: Fri Jan 24 10:35:03 CST 2014 until: Tue Jan 18 10:35:03 CST 2039
+Certificate fingerprints: 
+	MD5:11:66:75:48:C6:56:76:2D:CF:20:95:CC:AF:A9:56:19
+	SHA1: C9:13:70:45:4F:07:C6:7A:89:41:C4:D7:BA:07:24:5B:1E:1F:46:3B
+	SHA256: 04:0F:00:8E:57:C7:5A:92:77:EF:1F:E6:2B:25:B3:54:58:5C:FF:85:6B:2F:F1:3B:BC:8A:7D:13:E4:D7:F8:6B
+	Signature algorithm name: SHA256withRSA
+	version: 3

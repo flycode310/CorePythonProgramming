@@ -1,0 +1,29 @@
+com.virus.meitu
+1
+1.0
+8
+8
+4
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.READ_LOGS
+3
+<activity screenOrientation="1" name=".MainActivity" configChanges="224" label="2131099653">
+<activity screenOrientation="1" name="o.aUX" configChanges="224">
+<activity screenOrientation="1" name="o.Ē" configChanges="224">
+0
+2
+<receiver name=".InstallUninstallReceiver">
+<receiver name=".BootReceiver">
+0
+Owner: CN=WilsonWu, OU=3G, O=Tencent, L=Guangzhou, ST=GD, C=CN
+Issuer: CN=WilsonWu, OU=3G, O=Tencent, L=Guangzhou, ST=GD, C=CN
+Serial number: 4c96f48f
+Valid from: Mon Sep 20 13:43:43 CST 2010 until: Tue Jun 23 13:43:43 CST 2065
+Certificate fingerprints: 
+	MD5:00:B1:20:86:38:DE:0F:CD:3E:92:08:86:D6:58:DA:F6
+	SHA1: 9C:5E:F5:BC:E0:B4:72:95:54:40:71:A2:CE:BB:3D:2E:F1:BA:DA:C8
+	SHA256: D0:B3:F1:05:0B:84:6F:80:6E:E6:77:C5:2F:AF:31:4E:CF:39:A3:0B:47:50:AD:B4:10:A6:F9:3A:FE:F2:D4:44
+	Signature algorithm name: SHA1withRSA
+	version: 3

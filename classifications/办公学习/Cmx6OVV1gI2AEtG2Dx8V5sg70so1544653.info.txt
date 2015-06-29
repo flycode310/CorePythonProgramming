@@ -1,0 +1,47 @@
+com.miHoYo.HSoDv22144.uc
+35
+2.1.18
+9
+19
+20
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.USE_CREDENTIALS
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+6
+<activity screenOrientation="0" hardwareAccelerated="true" name="com.onevcat.uniwebview.AndroidPlugin" configChanges="1073745919" label="2131034125" launchMode="2">
+<activity hardwareAccelerated="true" name="com.onevcat.uniwebview.UniWebViewCustomViewActivity" theme="16973834" configChanges="1073745919" label="2131034125">
+<activity name="com.unisocial.WebViewActivity" theme="16973831" configChanges="1073745919">
+<activity name="cn.uc.gamesdk.SdkActivity" theme="16973840" configChanges="1184" label="2131034125" windowSoftInputMode="16">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+0
+1
+<receiver name=".AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+0
+Owner: CN=9Game, OU=UC, O=UC, L=GuangZhou, ST=GuangDong Province, C=CN
+Issuer: CN=9Game, OU=UC, O=UC, L=GuangZhou, ST=GuangDong Province, C=CN
+Serial number: 4fdee569
+Valid from: Mon Jun 18 16:23:05 CST 2012 until: Tue Mar 22 16:23:05 CST 2067
+Certificate fingerprints: 
+	MD5:7B:1A:92:EA:D4:8C:3F:48:90:02:42:8D:EF:69:DF:E7
+	SHA1: 90:09:81:AF:8A:38:7D:9D:FA:06:CD:B7:D9:C4:9F:FA:90:FC:ED:7C
+	SHA256: C7:4B:CE:F4:9A:25:DA:9F:CF:EF:5A:6F:72:1A:58:F6:2F:19:DE:EF:39:AD:1B:9C:E1:5B:E3:2E:21:44:5F:E8
+	Signature algorithm name: SHA1withRSA
+	version: 3

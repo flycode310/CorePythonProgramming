@@ -1,0 +1,37 @@
+com.mappn.anews
+9
+1.6.3
+3
+-1
+8
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RESTART_PACKAGES
+8
+<activity name="LoginActivity" theme="16973835" label="睿讯新闻">
+<activity screenOrientation="1" name="MyNewsActivity">
+<activity screenOrientation="1" name="MyPreferenceActivity">
+<activity screenOrientation="1" name="ItemListActivity">
+<activity screenOrientation="1" name="NewsDetailActivity">
+<activity name="LoadUrlActivity">
+<activity name="ItemGalleryActivity">
+<activity screenOrientation="1" name="RecommendFeedActivity">
+0
+0
+1
+<provider authorities="com.mappn.anews" name=".provider.FeedDataContentProvider" label="FeedDataContentProvider">
+Owner: CN=tyt, OU=tyt, O=tyt, L=NanJing, ST=JiangSu, C=CN
+Issuer: CN=tyt, OU=tyt, O=tyt, L=NanJing, ST=JiangSu, C=CN
+Serial number: 4be112bc
+Valid from: Wed May 05 14:39:56 CST 2010 until: Thu Feb 05 14:39:56 CST 2065
+Certificate fingerprints: 
+	MD5:05:D6:12:DC:E6:06:DD:84:EF:33:59:0A:CA:B3:BB:23
+	SHA1: 87:83:78:74:60:2A:23:A4:99:D0:03:75:F2:DC:B8:A4:C9:47:7B:8A
+	SHA256: 75:FD:BC:F4:44:F8:A4:AB:D0:7B:48:34:93:1B:67:92:7E:76:5C:07:72:00:64:64:F9:78:4B:B6:5A:05:FA:0C
+	Signature algorithm name: SHA1withRSA
+	version: 3

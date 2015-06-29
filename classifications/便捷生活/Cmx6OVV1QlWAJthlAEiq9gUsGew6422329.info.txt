@@ -1,0 +1,118 @@
+me.crude.oil.android
+46
+2.0
+8
+19
+26
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+60
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.LoadingActivity" configChanges="1152" label="2131034112" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.LoginActivity">
+<activity screenOrientation="1" name="me.gold.day.android.ui.NaviActivity">
+<activity screenOrientation="1" name="me.gold.day.android.ui.MainActivity" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.ForgetPasswordActivity">
+<activity screenOrientation="1" name="me.gold.day.android.ui.ConfirmPasswprdActivity">
+<activity name="me.gold.day.android.ui.register.ReginputPhoneAct">
+<activity name="me.gold.day.android.ui.register.ReginputValicodeAct">
+<activity name="me.gold.day.android.ui.register.ReginputPwdAct">
+<activity screenOrientation="1" name="me.gold.day.android.ui.EconomicCalendaActivity" theme="2131230769" label="财经日历">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.ETFReportActivity" theme="2131230769" label="ETF报告">
+<activity screenOrientation="1" name="me.gold.day.android.ui.EditOptionalActivity" label="我的自选">
+<activity screenOrientation="1" name="me.gold.day.android.ui.AddOptionalActivity" label="添加自选">
+<activity screenOrientation="1" name="me.gold.day.android.ui.AddBakSourceOptionalActivity" label="添加自选">
+<activity screenOrientation="1" name="me.gold.day.android.ui.SearchActivity" label="查询">
+<activity screenOrientation="1" name="me.gold.day.android.ui.AboutUsActivity">
+<activity screenOrientation="1" name="me.gold.day.android.ui.CalcToolActivity" label="单位换算">
+<activity screenOrientation="1" name="me.gold.day.android.ui.ProActivity" label="产品介绍">
+<activity screenOrientation="1" name="me.gold.day.android.ui.ShowBaiYingActivity" label="产品介绍">
+<activity screenOrientation="1" name="me.gold.day.android.ui.fragment.news.live.ShowLiveActivity" label="实时新闻">
+<activity hardwareAccelerated="false" name="me.gold.day.android.ui.PortOptionalActivity" configChanges="1152">
+<activity hardwareAccelerated="false" name="me.gold.day.android.ui.PortOptional4TianjingActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.ShowNewsActivity" configChanges="1152">
+<activity screenOrientation="0" hardwareAccelerated="false" name="me.gold.day.android.ui.ImageViewAttachActivity" theme="2131230737" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.VirtualTradeActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.MeKaiHuActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.MeFanKuiActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.ShowTongActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.EventInfoActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.OpenPositionActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.CloseOutActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.SettingActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.ParamSetActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.KlineNormSetActiviy" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.RemindActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.ChooseOptionalActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.alarm.AlarmAlertActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.CopyDetailStrategyActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.WebActivity" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.RemindListActivity" theme="2131230769" configChanges="1152">
+<activity screenOrientation="0" hardwareAccelerated="false" name="me.gold.day.android.ui.FullImageActivity" configChanges="1152">
+<activity screenOrientation="1" name="me.gold.day.android.ui.liveroom.activity.DayAnalysActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.liveroom.activity.LiveRoomDetailActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.liveroom.activity.LiveRoomsActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.liveroom.activity.TabRoomActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.liveroom.activity.TabChatActivity" theme="2131230733" configChanges="176" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.liveroom.activity.TabCallListActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.liveroom.activity.TabHistoryActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.liveroom.activity.CallListDetailActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="0" name="me.gold.day.android.ui.liveroom.activity.TabRoomDetailActivity" theme="2131230734" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.OiLSilverDetailActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.FindpwByEmialActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.LawActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" name="me.gold.day.android.ui.ProductManagerActivity" theme="2131230733" configChanges="176" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name="me.gold.day.android.ui.ProductActivity" configChanges="1152">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131230728" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+6
+<service name="me.gold.day.android.ui.alarm.AlarmService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service process=":push" name="com.umeng.message.UmengService" exported="true" label="PushService">
+<service name="com.umeng.message.UmengIntentService">
+<service name="me.gold.day.android.app.PushIntentService">
+<service name="com.umeng.message.UmengDownloadResourceService">
+6
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver process=":push" name="com.umeng.message.SystemReceiver">
+<receiver process=":push" name="com.umeng.message.MessageReceiver">
+<receiver process=":push" name="com.umeng.message.ElectionReceiver">
+<receiver name="com.umeng.message.RegistrationReceiver" exported="false">
+<receiver name="com.umeng.message.BootBroadcastReceiver">
+0
+Owner: CN=trude, OU=sso, O=cn, L=sh, ST=sh, C=cn
+Issuer: CN=trude, OU=sso, O=cn, L=sh, ST=sh, C=cn
+Serial number: 30504799
+Valid from: Sun Nov 16 14:06:34 CST 2014 until: Mon Oct 23 14:06:34 CST 2113
+Certificate fingerprints: 
+	MD5:D4:CD:89:D8:74:CF:33:D8:FA:05:78:F5:F8:50:11:FB
+	SHA1: B6:01:66:3F:7A:FB:8F:94:DA:26:C8:3F:24:9C:91:E0:A5:A4:AD:EA
+	SHA256: D2:91:42:7C:74:40:A4:9B:80:CC:14:2B:A7:39:49:B9:D4:CC:5E:04:6B:21:19:19:77:22:24:26:E6:4A:2B:63
+	Signature algorithm name: SHA256withRSA
+	version: 3

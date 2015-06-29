@@ -1,0 +1,47 @@
+com.lkujeohdz.luorwknto
+448
+4.4.8
+8
+-1
+13
+android.permission.READ_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity name="com.jock.jokes.MainActivity" label="2131034112">
+<activity name="com.jock.jokes.ContentActivity" label="2131034112">
+<activity name="com.jock.jokes.WelcomeActivity" label="2131034112">
+<activity excludeFromRecents="true" name="com.feiwo.view.IA" theme="16973840" launchMode="3">
+<activity name="com.feiwo.activity.PA" configChanges="160">
+<activity name="com.qdefwq.wedqw.Qbb" theme="16973840" configChanges="176" launchMode="3">
+<activity excludeFromRecents="true" name="com.fanme.baidfer.MSBFActivity" configChanges="160">
+<activity excludeFromRecents="true" name="com.smakey.dnbvns.sflay" configChanges="160" launchMode="2">
+1
+<service name="com.qdefwq.wedqw.Qdd">
+5
+<receiver name="com.feiwo.receiver.InReceiver">
+<receiver name="com.feiwo.receiver.ConnectReceiver">
+<receiver name="com.qdefwq.wedqw.Qcc">
+<receiver name="com.fanme.baidfer.SDFEWReceiver">
+<receiver name="com.smakey.dnbvns.sdbdf">
+0
+Owner: CN=su, OU=su, O=su, L=sz, ST=gd, C=86
+Issuer: CN=su, OU=su, O=su, L=sz, ST=gd, C=86
+Serial number: 3f36798
+Valid from: Wed Jun 11 23:42:06 CST 2014 until: Sat May 12 23:42:06 CST 2136
+Certificate fingerprints: 
+	MD5:DF:BE:C6:FD:3F:B7:6D:F1:5A:58:FE:7C:EE:5E:E6:88
+	SHA1: 6B:08:EE:A9:E7:CC:5A:65:69:91:8B:4C:8D:7B:FF:26:8D:12:A7:CE
+	SHA256: E3:CD:9A:BE:67:A7:A5:1D:A3:E9:67:D5:27:9D:96:8A:9E:BD:46:70:3D:50:F7:D6:41:DF:05:CF:67:F7:19:E0
+	Signature algorithm name: SHA256withRSA
+	version: 3

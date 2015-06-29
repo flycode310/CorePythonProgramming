@@ -1,0 +1,22 @@
+com.noahedu.Calendar
+6
+2.4
+5
+-1
+0
+1
+<activity screenOrientation="1" name="CalendarView" label="2131165184">
+0
+1
+<receiver name="CalendarWidget" label="2131165184">
+0
+Owner: CN=xinyu210
+Issuer: CN=xinyu210
+Serial number: 4f76fcaf
+Valid from: Sat Mar 31 20:46:39 CST 2012 until: Mon Mar 07 20:46:39 CST 2112
+Certificate fingerprints: 
+	MD5:F6:94:9F:F2:D6:18:C0:E8:22:56:F8:DC:CC:9B:42:DB
+	SHA1: CA:ED:12:70:F3:F2:36:C5:23:A7:38:72:06:2A:BF:0C:70:C4:90:4A
+	SHA256: AD:A1:0E:DD:A6:D1:56:C5:57:F3:DB:6B:87:37:D2:E1:5B:EB:C8:08:77:33:4C:53:8D:70:9A:D0:FD:28:E5:0B
+	Signature algorithm name: SHA1withRSA
+	version: 3

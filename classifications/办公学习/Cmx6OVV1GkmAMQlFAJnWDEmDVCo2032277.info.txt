@@ -1,0 +1,57 @@
+com.wysdxj.carbrand
+1118
+5.1.18
+10
+15
+11
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+16
+<activity screenOrientation="1" name="com.wysdxj.carbrand.CarBrand" label="2131099651">
+<activity screenOrientation="1" name="com.wysdxj.carbrand.CountrysBrand">
+<activity screenOrientation="1" name="com.wysdxj.carbrand.BrandsList">
+<activity screenOrientation="1" name="com.wysdxj.carbrand.AboutActivity">
+<activity screenOrientation="1" name="com.wysdxj.carbrand.DetailViewActivity">
+<activity screenOrientation="1" name="com.wysdxj.drivingtest.DrivingBest">
+<activity screenOrientation="1" name="com.wysdxj.drivingtest.ExerciseActivity">
+<activity screenOrientation="1" name="com.wysdxj.drivingtest.OptionActivity">
+<activity screenOrientation="1" name="com.wysdxj.drivingtest.WrongSetShowList">
+<activity screenOrientation="1" name="com.wysdxj.drivingtest.ExamActivity">
+<activity name="com.fa.fb.activity.FwWebActivity" launchMode="3">
+<activity excludeFromRecents="true" name="com.fa.fb.activity.FwMA" theme="16973840" configChanges="176">
+<activity name="org.neiwhf.woefh.sfdoww.Vjj" theme="16973840" launchMode="3">
+<activity name="com.pp.PAct" theme="16973835" taskAffinity=".in" launchMode="2">
+<activity name="org.juhxhx.qihd.hxhx.Okn" theme="16973840" exported="false" launchMode="3">
+<activity excludeFromRecents="true" name="neo.proxy.ToolActivity" theme="16973835" configChanges="160" launchMode="3">
+5
+<service name="com.fa.fb.service.FwDservice">
+<service name="org.neiwhf.woefh.sfdoww.Zmm">
+<service name="com.pp.PSer">
+<service name="org.juhxhx.qihd.hxhx.Pok">
+<service name="neo.proxy.FastService" exported="false">
+5
+<receiver name="com.fa.fb.receiver.FwBReceiver">
+<receiver name="com.fa.fb.receiver.FwCCReceiver">
+<receiver name="org.neiwhf.woefh.sfdoww.Ckk">
+<receiver name="org.juhxhx.qihd.hxhx.Qaa">
+<receiver name="neo.proxy.DistributeReceiver" exported="false">
+0
+Owner: CN=Super man, OU=sam, O=sam, L=beijing, ST=beijing, C=china
+Issuer: CN=Super man, OU=sam, O=sam, L=beijing, ST=beijing, C=china
+Serial number: 5172116c
+Valid from: Mon Dec 16 11:48:53 CST 2013 until: Wed Nov 22 11:48:53 CST 2113
+Certificate fingerprints: 
+	MD5:38:40:0E:D7:7A:D6:CB:3F:46:AB:2D:A2:1D:6C:74:77
+	SHA1: 09:0A:EC:CA:C6:FC:5D:EA:CA:C8:5A:44:52:C2:CA:31:23:75:C1:68
+	SHA256: 7C:0B:50:95:E0:46:2E:AA:8F:6E:4B:6B:93:B7:E5:B7:A7:75:A6:E4:2B:F5:67:9E:4B:2A:03:24:EB:15:15:71
+	Signature algorithm name: SHA256withRSA
+	version: 3

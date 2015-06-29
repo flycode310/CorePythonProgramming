@@ -1,0 +1,102 @@
+com.etao.kaka
+26
+1.7.8
+8
+14
+24
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.taobao.permission.UPDATE_CREDENTIALS
+android.permission.USE_CREDENTIALS
+android.permission.GET_TASKS
+com.ut.permission.DEVICE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+com.etao.kaka.permission.agoo
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+com.taobao.permission.USE_CREDENTIALS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+com.android.launcher.permission.READ_SETTINGS
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+47
+<activity name=".WelcomeActivity" theme="2131492874" launchMode="3">
+<activity screenOrientation="1" name=".MainActivity" theme="2131492874" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="CardListActivity" theme="2131492875" configChanges="160" exported="true">
+<activity screenOrientation="1" name=".AboutActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".login.LoginActivity" theme="2131492875" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".WebviewActivity" theme="2131492875" configChanges="160" exported="true">
+<activity screenOrientation="1" name=".PropertiesActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".AuctionDetailActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".ExpressActivity" theme="2131492875" configChanges="160" exported="true">
+<activity screenOrientation="1" name=".StoreMapViewActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".FavorityActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".HistoryActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".HistoryItemActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".CommentsActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".UgcTakePictureActivity" theme="2131492874" configChanges="160">
+<activity screenOrientation="1" name=".FlyActivity" theme="2131492874" configChanges="160">
+<activity screenOrientation="1" name=".UgcUploadActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".MyUgcActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".RegisterActivity" theme="2131492875" configChanges="160">
+<activity screenOrientation="1" name=".userguide.FirstUseGuideActivity" theme="2131492874" configChanges="160">
+<activity name=".catchme.butterflydetail.CMCouponButterflyDetailActivity" theme="2131492879">
+<activity name=".catchme.butterflydetail.CMJokeButterflyDetailActivity" theme="2131492879">
+<activity name=".catchme.butterflydetail.CMBonusButterflyDetailActivity" theme="2131492879">
+<activity name="com.etao.kaka.catchme.butterflydetail.CMBaseButterflyDetailActivity" theme="2131492879">
+<activity name=".catchme.butterflydetail.CMPriviledgeButterflyDetailActivity" theme="2131492879">
+<activity name="com.etao.kaka.catchme.butterflydetail.webview.CMBaseH5Activity" theme="2131492879">
+<activity name="com.etao.kaka.catchme.butterflydetail.delivery.CMAddressSubmitActivity" theme="2131492879">
+<activity name=".catchme.museum.CMMuseumActivity" theme="2131492879">
+<activity name=".catchme.activity.CMActivityListActivity" theme="2131492879">
+<activity name=".catchme.museum.CMPPTestActivity" theme="2131492879">
+<activity name=".catchme.butterflydetail.CMOfflineButterflyDetailActivity" theme="2131492879">
+<activity name=".catchme.butterflydetail.CMOrientedCouponButterflyDetailActivity" theme="2131492879">
+<activity name=".share.KakaShareMainActivity" theme="2131492875">
+<activity name=".share.ShareSinaActivity">
+<activity name=".share.AuthWebActivity">
+<activity screenOrientation="1" name="com.etao.kaka.ExpressOrderActivity" theme="2131492875">
+<activity screenOrientation="5" name=".catchme.flyButterflys.FlyButterFlysMainActivity" theme="2131492875" configChanges="160" exported="true" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".catchme.flyButterflys.FlyButterProperties" theme="2131492875">
+<activity name=".catchme.butterflydetail.CMBusinessButterflyDetailActivity" theme="2131492879">
+<activity name=".catchme.museum.notification.CMMuseumNotificationCenterActivity" theme="2131492879">
+<activity screenOrientation="1" name="FeedBackActivity" theme="2131492875">
+<activity screenOrientation="1" name="com.etao.kaka.posterscanning.KakaPosterScanningResActivity" theme="2131492875">
+<activity screenOrientation="1" name="com.etao.kaka.posterscanning.KakaPosterTestActivity" theme="2131492875">
+<activity name=".catchme.butterflydetail.CMPersonalButterflyDetailActivity" theme="2131492879">
+<activity screenOrientation="1" name=".catchme.butterflydetail.StoreDetailMapViewActivity" theme="2131492875">
+<activity screenOrientation="1" name="com.etao.kaka.wxapi.WXEntryActivity" theme="16973840" exported="true" launchMode="1">
+<activity name=".catchme.butterflydetail.CMCollectionPointsButterflyDetailActivity" theme="2131492879">
+7
+<service name="com.etao.kaka.ugc.UgcUploadService" exported="false">
+<service name="com.etao.kaka.CheckUpdateService" exported="false">
+<service process=":utremote" name="com.taobao.statistic.module.data.Yolanda">
+<service name=".AgooIntentService">
+<service name="android.taobao.agoo.service.AgooService">
+<service name="com.taobao.android.sso.internal.PidGetterService" exported="true">
+<service enabled="false" name="com.taobao.android.sso.internal.AuthenticationService" exported="true" permission="android.permission.ACCOUNT_MANAGER">
+4
+<receiver priority="1000" name="android.taobao.agoo.client.AgooBroadcastReceiver">
+<receiver enabled="true" priority="1" name="com.etao.kaka.receiver.BootCompletedReceiver" exported="false">
+<receiver name="com.ut.device.BQueryWhoHasOne" exported="true" permission="com.ut.permission.DEVICE_STATE">
+<receiver name="com.ut.device.BFoundIt" exported="true" permission="com.ut.permission.DEVICE_STATE">
+0
+Owner: CN=1
+Issuer: CN=1
+Serial number: 50bca1a2
+Valid from: Mon Dec 03 20:57:06 CST 2012 until: Fri Nov 27 20:57:06 CST 2037
+Certificate fingerprints: 
+	MD5:0A:AB:EF:06:C0:6A:8F:82:4D:B8:5A:22:0C:C7:91:4D
+	SHA1: D5:FB:22:3F:05:5B:7F:B4:2B:E2:69:8C:AC:5A:1A:5C:9A:D1:D9:CF
+	SHA256: F9:14:13:76:3D:7F:BF:85:28:06:7E:2A:40:4C:46:5F:67:2F:EC:E5:B4:C9:4D:EE:E6:5D:94:90:79:83:03:DB
+	Signature algorithm name: SHA1withRSA
+	version: 3

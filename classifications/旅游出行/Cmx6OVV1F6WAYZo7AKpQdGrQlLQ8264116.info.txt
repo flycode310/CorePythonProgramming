@@ -1,0 +1,155 @@
+com.qyer.android.jinnang
+6300
+6.3
+12
+21
+21
+android.permission.READ_EXTERNAL_STORAGE
+com.qyer.android.jinnang.permission.MIPUSH_RECEIVE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.UPDATE_APP_OPS_STATS
+android.permission.CONTROL_LOCATION_UPDATES
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+103
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.launcher.SplashActivity" theme="2131492878">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.launcher.SplashVideoActivity" theme="16973831">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.main.MainActivity" theme="2131492878" launchMode="2">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.common.PhotoPickerActivity" theme="2131492879">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.common.PhotoAlbumPickActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.common.PhotoItemPickActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.common.QaListPhotoViewActivity" theme="2131492889">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.qyer.android.jinnang.activity.webview.WebBrowserActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.webview.SubjectWebViewActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.OnWayActivity" theme="2131492888" launchMode="2">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.OnWayGuideActivity" theme="2131492888">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.ArbitraryDoorActivity" theme="2131492886">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.ChatRoomActivity" theme="2131492886" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.ChatSessionActivity" theme="2131492886" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.SessionListActivity" theme="2131492886">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.PeopleAroundActivity" theme="2131492886">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.PeopleAroundFollowActivity" theme="2131492886">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.LoginActivity" theme="2131492888" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.AccountSecurityActivity" theme="2131492888" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.RegistEmailActivity" theme="2131492888" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.RegistPhoneActivity" theme="2131492888" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.RegistPhoneCode" theme="2131492888" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.RegistPhoneFinish" theme="2131492888" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.manager.user.authorize.WebLoginAuthorizeActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.UpdateNameActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.FeedBackActivity" theme="2131492886" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.SettingActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.setting.AboutQyerActivity" theme="2131492888">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.manager.user.authorize.weibo.WeiBoSsoActivity" theme="2131492888">
+<activity name="com.qyer.android.jinnang.wxapi.WXEntryActivity" theme="16973909" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.UserDetailActivity" theme="2131492887">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.UserDetailTaActivity" theme="2131492887">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.UserAvatarEditActivity" theme="2131492889">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.UserFriendsActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.UserBeenActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.UserWebMsgListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.UserBeenPoiListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.UserWantActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.UserWantPoiListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.user.OnWayUserWantActivity" theme="2131492886">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.CountryDetailActivity" theme="2131492887">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.CityDetailActivity" theme="2131492887">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.HotTripListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.PoiListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.CityListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.map.MapActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.OnWayPoiListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.OnWayFilterPoiListActivity" theme="2131492885">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.FilterPoiListActivity" theme="2131492885">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.CommentEditActivity" theme="2131492879" windowSoftInputMode="16">
+<activity screenOrientation="4" name="com.qyer.android.jinnang.activity.dest.PoiDetailActivity" theme="2131492887" configChanges="1152">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.PoiCommentActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.PoiPhotoAllActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.PoiPhotoBrowserActivity" theme="2131492889">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.GuideWebViewActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.hotel.CityHotelEditorRecommendsActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.hotel.CityHotelGreatPriceActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.hotel.DayPickerActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.bbs.BbsMainActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.bbs.WriteArticleActvity" theme="2131492879" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.bbs.UserArticleActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.bbs.ArticleDetailWebViewActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.search.SearchActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.search.SearchCityActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.search.SearchHotelActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.search.SearchPlantoDestActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.guide.GuideJnAllActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.guide.GuideJnListForDestActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.guide.GuideJnListForUserActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.guide.GuideJnForOnWayActivity" theme="2131492886">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.guide.GuideJnDetailActivity" theme="2131492887">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.guide.GuideJnReaderCoverActivity" theme="2131492878">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.guide.GuideJnReaderActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.MicroGuideJnListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.dest.MicroGuideJnDetailActivity" theme="2131492887">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.DealAllActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.DealRemindAddActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.DealRemindSelectActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.DealDetailActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.ContactsActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.OrderInfoActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.OrderToPayActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.OrderPayTypeActivity" theme="2131492872">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.OrderStatusActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.ProductCalendarActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.UserDealActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.deal.DealHotListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.plan.UserPlanListForOnWayActivity" theme="2131492886">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.plan.UserPlanListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.plan.DestPlanListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.plan.PlanDetailActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.hotel.HotelMainActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.hotel.CityHotelListActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.hotel.HotelSearchFilterActivity" theme="2131492885">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.hotel.CityAreaActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.NoticeBoardActivity" theme="2131492886" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.NoticeBoardDetailActivity" theme="2131492886" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.activity.onway.NoticeBoardPublishActivity" theme="2131492879" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.manager.user.authorize.WebOauthActivity">
+<activity screenOrientation="1" name="com.qyer.android.jinnang.share.activity.ShareEditActivity" windowSoftInputMode="20">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+5
+<service name="com.arrownock.push.PushService">
+<service enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service name="com.umeng.update.net.DownloadingService">
+6
+<receiver name="com.qyer.android.jinnang.activity.deal.DealAlarmReceiver">
+<receiver name="com.qyer.android.jinnang.receiver.QaEventReceiver">
+<receiver name="com.qyer.android.jinnang.activity.onway.ChatMessageReceiver">
+<receiver name="com.qyer.android.jinnang.receiver.QaPushMessageReceiver" exported="true">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+0
+Owner: CN=Yi Xiao, OU=Mobile Product Unit, O=QYER, L=chaoyang, ST=BJ, C=86
+Issuer: CN=Yi Xiao, OU=Mobile Product Unit, O=QYER, L=chaoyang, ST=BJ, C=86
+Serial number: 49fa2516
+Valid from: Wed Sep 26 21:23:34 CST 2012 until: Sun Sep 20 21:23:34 CST 2037
+Certificate fingerprints: 
+	MD5:54:FB:99:4E:B8:C1:D0:7A:AA:C2:B2:E5:02:97:9B:67
+	SHA1: 5F:11:5B:D0:D3:5F:DA:B3:58:79:2A:20:8C:AB:E0:7B:FC:AA:53:FA
+	SHA256: B1:8B:9C:9C:79:0F:87:51:D7:7A:AD:36:BE:EB:DB:4A:AD:26:56:AC:6F:F9:4F:D8:3C:9A:29:A8:B0:0F:F4:53
+	Signature algorithm name: SHA256withRSA
+	version: 3

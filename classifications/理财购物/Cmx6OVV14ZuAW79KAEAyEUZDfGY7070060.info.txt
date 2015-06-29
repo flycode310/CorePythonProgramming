@@ -1,0 +1,99 @@
+com.tmall.wireless
+7
+1.2.1
+7
+-1
+12
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_APN_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+61
+<activity screenOrientation="1" name=".activity.TMSplashActivity" theme="16973831" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".activity.TMGuideActivity" theme="16973831" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".activity.TMCategoryListActivity" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".module.mytmall.TMMyTmallActivity" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".module.mytmall.TMAppRecommendActivity" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".activity.TMMoreActivity" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".activity.TMSettingsActivity" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".module.tmallchannel.TMTmallChannelActivity" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".activity.TMAboutusActivity" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".module.login.TMLoginActivity" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".activity.TMRegisterActivity" configChanges="160" label="2131361851">
+<activity screenOrientation="1" name=".activity.TMMainTabActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".timeline.TMTimelineActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".timeline.TMTimelineDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.detail.TMItemDetailsActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMLikeActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMFavoriteInMtopActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMAddressManagerActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMEditAddressActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMSearchActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMSearchResultActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMBannerDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMEvaluationActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMCommonWebViewActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.detail.TMItemDetailsWapActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMSearchFilterNewActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.TMOrderListActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMOrderDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMCeshiTecentWeiboActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMShareWeiboActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMCallWeixinActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMWeixinAccessoryActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMFeedbackActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".module.sku.TMSkuInfoActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".purchase.TMOrderConfirmActivity" configChanges="160">
+<activity screenOrientation="1" name=".purchase.TMOrderInvalidActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.cart.TMCartManagerActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMLogisticsDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.taobao.mtop.components.comp.ww.WWwapActivity" configChanges="160">
+<activity name=".wxapi.WXEntryActivity" exported="true">
+<activity screenOrientation="1" name=".activity.TMGalleryActivity" configChanges="160">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name=".module.scanner.CameraScannerActivity" theme="16973831" configChanges="160" windowSoftInputMode="3" stateNotNeeded="true">
+<activity screenOrientation="1" name=".module.scanner.CameraScanInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.scanner.history.TMScannerHistoryActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMPrepayActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMPrepayConfirmActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMCouponListActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.shopdetails.TMShopDetailsActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.shopcategory.TMShopCategoryActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.shopgoods.TMShopGoodsActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMShopLikeRankActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.TMShopFavoriteActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.bannerlist.TMBannerListActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.cart.TMBagActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.bannerwapdetail.TMBannerWapDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.channel1111enters.TM1111EntersActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.shopcoupon.TMShareScanCodeActivity" theme="2131230812" configChanges="160">
+<activity screenOrientation="1" name=".module.channel1111enters.TM1111TipsActivity" theme="2131230812" configChanges="160">
+<activity screenOrientation="1" name=".module.shopcoupon.TMShopCouponActivity" configChanges="160">
+<activity screenOrientation="1" name=".module.shopcoupondetail.TMShopCouponDetailActivity" configChanges="160">
+<activity name="com.tencent.weibo.webview.OAuthV2AuthorizeWebView" label="Tmall_Android_Common">
+2
+<service process=":core" icon="2130837514" name=".service.TMPushHostService" label="2131361852">
+<service process=":remote" name="com.taobao.statistic.Yolanda">
+4
+<receiver name=".widget.TMSearchAppWidget" label="2131361949">
+<receiver name=".widget.TMPrepayAppWidget" label="2131361951">
+<receiver process=":appwidget" name=".widget.TMTimelineAppWidget" label="2131361950">
+<receiver process=":core" name=".receiver.TMBootCompletedReceiver">
+0
+Owner: CN=Android Tmall, OU=TMALL.COM, O=TMALL.COM, L=Hangzhou, ST=Zhejiang, C=86
+Issuer: CN=Android Tmall, OU=TMALL.COM, O=TMALL.COM, L=Hangzhou, ST=Zhejiang, C=86
+Serial number: 4ff3b684
+Valid from: Wed Jul 04 11:20:36 CST 2012 until: Fri Jun 10 11:20:36 CST 2112
+Certificate fingerprints: 
+	MD5:15:94:22:1E:91:9D:5F:05:5B:F3:C1:2B:4F:A4:C6:82
+	SHA1: B9:F1:39:AC:74:93:CD:EB:EC:DE:5C:A1:81:A6:DB:2A:12:0F:54:5E
+	SHA256: 0F:76:B3:65:07:DE:28:D9:E7:BE:BE:47:14:3E:13:18:38:6C:FA:E3:7B:C9:68:2F:F0:CA:02:97:B8:21:E3:C5
+	Signature algorithm name: SHA1withRSA
+	version: 3

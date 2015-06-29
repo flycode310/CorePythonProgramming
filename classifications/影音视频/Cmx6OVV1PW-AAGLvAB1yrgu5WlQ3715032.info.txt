@@ -1,0 +1,56 @@
+com.tudou.android.hot
+3
+2.2.5
+3
+-1
+12
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+23
+<activity screenOrientation="1" name="com.tudou.android.Main">
+<activity name="com.tudou.android.ui.activities.ChannelListActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.VideoDetailActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.RegistActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.MySpaceActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.LoginActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.SearchActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.UpLoadActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.UpLoadListActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.VideoPlayActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.SimpleChannelSwitcher" configChanges="160">
+<activity name="com.tudou.android.ui.activities.SimpleCollectedWatched" configChanges="160">
+<activity name="com.tudou.android.ui.activities.SimpleMyUploadedActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.SimpleDownLoadActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.CommentListActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.SetupActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.AboutHelpActivity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.Usage_Disable_Activity" configChanges="160">
+<activity name="com.tudou.android.ui.activities.ChannelSwitcher" theme="16973839" configChanges="160">
+<activity name="com.tudou.android.ui.activities.CommitShareActivity" theme="16973839" configChanges="160">
+<activity name="com.tudou.android.ui.activities.CommentDetail" theme="16973839" configChanges="160">
+<activity name="com.tudou.android.ui.activities.OptionActivity" theme="16973839" configChanges="160">
+<activity name="com.tudou.android.ui.activities.CacheCleanActivity" theme="16973839" configChanges="160">
+1
+<service enabled="true" name="com.tudou.android.service.serviceimpl.CommonServiceImpl">
+0
+0
+Owner: CN=TuDou, OU=TuDou, O=TuDou, L=SHANGHAI, ST=SHANGHAI, C=CN
+Issuer: CN=TuDou, OU=TuDou, O=TuDou, L=SHANGHAI, ST=SHANGHAI, C=CN
+Serial number: 4cb5820a
+Valid from: Wed Oct 13 17:55:22 CST 2010 until: Thu Jul 16 17:55:22 CST 2065
+Certificate fingerprints: 
+	MD5:CA:3E:7E:C3:A0:05:E9:8A:43:75:B8:8E:40:DC:E6:F2
+	SHA1: 71:78:44:C7:17:C1:90:79:FF:81:E7:2C:44:24:14:A7:DD:D6:EB:2F
+	SHA256: 9C:2C:F0:9C:55:DD:E4:46:3C:15:93:5D:96:43:F3:31:A6:56:06:D6:C6:D9:8C:BD:AB:1B:59:0E:9F:AA:14:4A
+	Signature algorithm name: SHA1withRSA
+	version: 3

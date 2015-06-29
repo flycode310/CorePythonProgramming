@@ -1,0 +1,50 @@
+com.cplatform.hotnews
+55
+3.6.1.1
+7
+14
+14
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WRITE_OWNER_DATA
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.READ_OWNER_DATA
+android.permission.WRITE_SETTINGS
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity screenOrientation="1" name=".activity.SplashActivity" theme="16973839">
+<activity screenOrientation="1" name=".ui.activity.HomeActivity" configChanges="1152" launchMode="2">
+<activity screenOrientation="1" name=".ui.activity.NewsBodyActivity" configChanges="1152" exported="true">
+<activity screenOrientation="1" name=".ui.activity.BrowserActivity" configChanges="1184">
+<activity name=".ui.activity.CheckUpdateActivity" theme="2131230778">
+<activity name=".ui.activity.UpdateActivity" theme="2131230778">
+<activity screenOrientation="1" name=".ui.activity.ConfirmNetworkActivity" theme="2131230778">
+<activity finishOnTaskLaunch="true" excludeFromRecents="true" name="org.acra.CrashReportDialog" theme="16973835" launchMode="3">
+<activity screenOrientation="1" name=".ui.activity.VideoBodyActivity" configChanges="1184">
+2
+<service name="com.cplatform.surfdesktop.common.services.SurfNewsService">
+<service process="com.cplatform.surfdesktop.startservice" name="com.cplatform.surfdesktop.common.services.NotifyService" exported="false">
+4
+<receiver enabled="true" name=".common.receiver.BootReceiver">
+<receiver name=".common.receiver.ConnectivityChangeReceiver">
+<receiver name=".common.receiver.UserPresentReceiver">
+<receiver name=".common.receiver.ExternalStorageReceiver">
+1
+<provider authorities="com.cplatform.hotnews.control.provider" name=".common.db.SurfDBProvider">
+Owner: O=C-Platform
+Issuer: O=C-Platform
+Serial number: 4fa6cad8
+Valid from: Mon May 07 03:02:48 CST 2012 until: Fri May 01 03:02:48 CST 2037
+Certificate fingerprints: 
+	MD5:FB:D4:91:0D:81:09:4A:0F:AD:16:4D:84:E3:3F:9F:DD
+	SHA1: D5:9F:28:42:EB:A5:48:A5:9D:5E:D2:0A:9C:00:CD:7D:44:40:E1:FA
+	SHA256: 37:5F:CC:80:0C:95:8A:53:0E:E3:BE:94:C8:3E:D6:C4:83:D2:25:AF:3E:4A:E2:C6:81:66:08:C2:EB:8F:02:F2
+	Signature algorithm name: SHA1withRSA
+	version: 3

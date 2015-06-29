@@ -1,0 +1,31 @@
+cn.ultralisk.gameapp.GuoDongGongChang
+100
+1.0.3
+8
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity screenOrientation="1" name="cn.ultralisk.gameapp.MoaiActivity" configChanges="176" label="2130968576" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.ziplinegames.moai.MoaiMoviePlayer" theme="16973830" configChanges="160" label="2130968576">
+<activity name="cn.egame.terminal.paysdk.EgamePayActivity" theme="16973841">
+<activity screenOrientation="1" name="cn.egame.terminal.moregame.MoreGameActivity" theme="16973841">
+0
+1
+<receiver name="com.ziplinegames.moai.MoaiLocalNotificationReceiver">
+0
+Owner: CN=girl9dev, OU=UL, O=ultralisk, L=cd, ST=sc, C=CN
+Issuer: CN=girl9dev, OU=UL, O=ultralisk, L=cd, ST=sc, C=CN
+Serial number: 52c6206b
+Valid from: Fri Jan 03 10:28:59 CST 2014 until: Mon Jan 01 10:28:59 CST 2024
+Certificate fingerprints: 
+	MD5:E7:CE:A9:F4:2E:A0:1D:4A:F8:28:5F:A3:B9:DC:09:D9
+	SHA1: 04:26:C2:CF:21:41:6D:55:00:2D:C8:3F:58:9E:2C:47:41:DD:3B:3C
+	SHA256: 1D:EE:9A:01:EB:B4:6C:E5:66:8F:10:5D:6C:74:C8:8A:0F:BD:D7:48:6E:DB:CA:0F:54:31:B2:A6:B3:EB:F5:D7
+	Signature algorithm name: SHA1withRSA
+	version: 3

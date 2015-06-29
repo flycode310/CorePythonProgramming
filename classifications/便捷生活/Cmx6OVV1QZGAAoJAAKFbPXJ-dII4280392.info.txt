@@ -1,0 +1,151 @@
+com.greenline.palm.dongguanhuakanghospital
+6
+1.0
+8
+16
+17
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.WRITE_OWNER_DATA
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.ACCESS_GPS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.READ_OWNER_DATA
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+111
+<activity screenOrientation="1" name="com.greenline.palmHospital.home.HomeActivity" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.greenline.palmHospital.home.GuideActivity" theme="2131230849" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.doctorDepartment.DeptListActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.doctors.DoctListActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.UpdateContactActivity" configChanges="1184">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.greenline.palmHospital.doctors.DoctHomeActivity" configChanges="1184">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.greenline.palmHospital.guahao.GuahaoDocHomeActivity" configChanges="1184">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.greenline.palmHospital.doctors.SubscribeDoctHomeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.doctorDepartment.DoctorDepartmentActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.contact.ChooseContactActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.FinalOrderActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.OrderDetailActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.setting.FeedbackActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.newpg.LoginActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.SignUpActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.SignUpConfirmActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.PersonalInfoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.HospitalNavigationActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.HospitalNavigationActivity2" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.MapNavigationActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.InternalNavigationActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.FloorsInfoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.HospitalPicsActivity1" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.BriefIntrodutionActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.RegisterCheckCodeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.SendCodePwdActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.CheckCodePwdActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.waittingDiagnose.WaitingClinicActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.home.WelcomeActivity" theme="2131230807" configChanges="1184" label="2131165184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.intelligentDiagnose.OrganChooseActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.intelligentDiagnose.SexChooseActivity" theme="2131230814" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.intelligentDiagnose.SymptomChooseActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.intelligentDiagnose.DiagnoseChooseActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.intelligentDiagnose.DiagnoseResultActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.AppointmentOrderManageActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.contact.ContactsManageActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.PersonalCenterActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.setting.SettingActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.healthInformation.HealthConsultActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.healthInformation.DetailAdviceActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.reports.CheckReportActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.reports.CheckReporWithTwoTypeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.reports.CheckReportListActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.reports.CheckReportDetailActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.ContactDetailActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.ContactVerifyPhoneActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.ContactVerifyFailedActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.subscribe.OrderForSubscribeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.OrderForGuahaoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.OrderOptionSelectActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.OrderInfoForGuahaoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.subscribe.OrderInfoForSubscribeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.subscribe.DoctListForSubscribeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.DoctListForGuaHaoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.GuahaoDoctHomeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.OrderRuleInfoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.subscribe.SubscribeDoctHomeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.prescription.PrescriptionContactActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.prescription.PrescriptionInfoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.prescription.PrescriptionListActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.subscribe.PayTypeSelectForSubscribeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.PayTypeSelectForGuahaoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.PayTypeSelectForGuahaoActivity2" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palm.wuhantongji.wxapi.WXPayEntryActivity" configChanges="1184" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.healthFitness.FitnessActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.healthFitness.FinessSearchActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.survey.SurveyActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.survey.DetailsSurveryActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.home.TableHostTest" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.JiuZhenProcessActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.FloorsNavigationActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.AccountInfoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.personalCenter.PushSettingActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.subscribe.GetCheckCodeForSubscribeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.GetCheckCodeActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.OrderInfoForGuahaoActivity2" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.PatientCardSelectActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.PatientCardSelectActivity2" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.GuahaoSuccessActivity2" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.JkkPaymentActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.doctors.DoctListActivity2" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.search.SearchDoctorActivity" theme="2131230808" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.AccountInfoActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.GetPhotoDialogActivity" theme="2131230814" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.contact.PerfectPresonalInfoActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.contact.AddContactActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.contact.UpdatePersonalInfoActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.contact.UpdateMobileVerifyActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.contact.UpdateContactActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.contact.ClinicListActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.report.MyReportListActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.report.MyCollectReportListActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.report.MyReportDetailActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.newpg.RegisterActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.newpg.RegisterCheckCodeActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.newpg.RegisterPwdSetActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.newpg.FindPwdActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.newpg.FindPwdCheckCodeActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.newpg.FindPwdSetPwdActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.accountManager.newpg.ModifyPwdActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.common.baseclass.WebActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.setting.AboutUsActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.myorder.MyOrderActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.guahao.JkkSelectActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.InternalNavigationSearchActivity" theme="2131230815" configChanges="1168" windowSoftInputMode="20" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.home.MessageListActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.greenline.palmHospital.navigation.AreaFloorsNavigationActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.myorder.AppointmentOrderManageActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.myorder.OrderDetailActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.greenline.palmHospital.me.myorder.MyOrderInfoDetailActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+2
+<service isolatedProcess="false" name="com.greenline.palmHospital.updateVersion.NewVersionDownloadService" exported="false">
+<service enabled="true" name="com.greenline.palm.wuhantongji.xmpp.XMPPService">
+1
+<receiver name="com.greenline.palm.wuhantongji.xmpp.XMPPReceiver">
+0
+Owner: CN=Winger Chou
+Issuer: CN=Winger Chou
+Serial number: 5285d074
+Valid from: Fri Nov 15 15:42:44 CST 2013 until: Tue Nov 09 15:42:44 CST 2038
+Certificate fingerprints: 
+	MD5:18:B1:80:C2:31:FB:F5:D5:D1:96:7D:B2:E8:A6:09:2E
+	SHA1: 9A:F9:B5:EC:B8:0B:06:26:2A:73:D2:68:15:0C:52:FA:E5:D1:EC:03
+	SHA256: B4:57:CD:54:07:1D:84:48:75:44:09:37:2C:01:FC:71:A1:8A:8F:75:8B:BB:DB:E3:60:C5:A2:70:C5:20:EB:3E
+	Signature algorithm name: SHA1withRSA
+	version: 3

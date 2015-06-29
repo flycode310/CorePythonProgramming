@@ -1,0 +1,171 @@
+com.cutt.zhiyue.android.app718831
+656
+1.18.150212
+8
+-1
+24
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+getui.permission.GetuiService
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.CHANGE_CONFIGURATION
+117
+<activity screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.SplashActivity" label="2131296287" launchMode="1">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.SplashAdActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipRegisterActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipForgetPasswordActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipBindPhoneActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipChangePasswordActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipGradeEffectActivity">
+<activity finishOnTaskLaunch="true" name="com.cutt.zhiyue.android.view.activity.chatting.ChattingTaskListActivity" configChanges="128">
+<activity finishOnTaskLaunch="true" name="com.cutt.zhiyue.android.view.activity.sub.img.album.AlbumActivity" configChanges="128">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.sub.img.photo.PhotoActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.article.gallery.PhotoGalleryActivity">
+<activity finishOnTaskLaunch="true" name="com.cutt.zhiyue.android.view.activity.community.message.ContribMessageActivity" configChanges="128" label="2131296814">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.square.AppSquareActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipInfoRenameActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipInfoAddrActivity" windowSoftInputMode="20">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.admin.PhotoAlbumActivity" label="2131296504">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipCenterActivity" label="2131296506">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipInfoActivityV2" label="2131296687">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipMessageActivity" label="2131296714">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipMessageCenterActivity" label="2131296727">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.square.SquareSplashActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.square.AppSquareBookmarkAcivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.chatting.ChattingActivity" windowSoftInputMode="2">
+<activity finishOnTaskLaunch="true" name="com.cutt.zhiyue.android.view.activity.chatting.ChattingSettingActivity" configChanges="128">
+<activity screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.main.MainFrameActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.navigation.GridMenuActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.navigation.VerticalMenuActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.navigation.SplitMenuWithHeadLineActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.SearchResultActivity" label="2131296529">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.DraftActivity" label="2131296530">
+<activity screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.article.ArticleActivity" label="2131296393">
+<activity name="com.cutt.zhiyue.android.view.activity.article.ArticleGallaryActivity" configChanges="128" label="2131296393">
+<activity screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.article.ArticleForumNewActivity" label="2131296393">
+<activity screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.CommentActivity" label="2131296401" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.ShareActivity" label="2131296421" windowSoftInputMode="2">
+<activity name="com.cutt.zhiyue.android.view.activity.ImgViewerActivity" configChanges="128" label="2131296393">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.setting.SettingActivity" label="2131296467">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.square.AppSquareSettingActivity" label="2131296467">
+<activity screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.AboutActivity" label="2131296468">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.InternalBrowser" label="2131296467">
+<activity name="com.cutt.zhiyue.android.view.activity.FeedbackActivity" exported="false" label="2131296482" windowSoftInputMode="2">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.setting.SettingSNSConnectionActivity" exported="false" label="2131296485">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.community.CommunityActivity" label="2131296626">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.admin.PublishActivity" label="2131296772">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.admin.TougaoActivity" label="2131296772">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.admin.TougaoContactEditActivity" label="2131296772">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.community.CommunityPostActivity" label="2131296509" windowSoftInputMode="20">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.CoverListActivity" label="2131296391">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipLoginActivity" label="2131296667">
+<activity name=".wxapi.WXEntryActivity" exported="true" label="2131296667">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.UserLoginActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.community.blocklist.BlockListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipDescEditActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.UserInfoActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.chatting.GroupInfoActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.chatting.GroupPeopleInfoActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.mommy.MommyActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.fixnav.FixNavActivity" windowSoftInputMode="32">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.chatting.DiscoverListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.chatting.DiscoverActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.chatting.DiscoverGroupActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.chatting.DiscoverSettingPreference">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.setting.NotificationSettingActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.qrscan.QrScanActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderTypeSelectActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderSelectActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderSelectPreviewActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderListPreviewActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderPublishActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderTypeActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.UserOrderListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderDetailEditActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderPreviewActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderProductPreviewActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderPlacePreviewActivity" windowSoftInputMode="19">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderPlaceConfirmActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderPlacedListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.ShopLikedListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderPlacedDetailActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderProductDetailEditActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderProductDetailPreviewActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderProductPlaceConfirmActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.ShopMapLocationActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.member.MemberManagePortalActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.member.MemberFunctionActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.member.MemberFunctionViewActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.member.MemberListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.member.MemberGroupNoticeActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.member.MyMemberCardActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.sp.SpCatsActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.sp.SpItemsActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.sp.SpDetailActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.sp.SpMapDetailActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.region.PortalRegionListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.ShopCouponListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponDetailEditActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponManageDetailPreviewActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponManageDetailCheckActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponManageDetailVerifyActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponManageDetailVerifyPreviewActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponManageDetailVerifiedResultActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.ShopCouponListForCustomerActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.ShopCouponListForInvalidActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponCustomerDetailCheckActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponCustomerDetailInfoActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponCustomerInfoQrcodeActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.CouponCustomerListActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.coupon.MyCouponActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.order.OrderCommentsActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipScoreInfoActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipScoreRulesActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipExprInfoActivity">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.cutt.zhiyue.android.view.activity.vip.VipExprRulesActivity">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+4
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.cutt.zhiyue.android.service.draft.DraftUploadService" exported="false">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":bdservice" name="com.baidu.android.pushservice.PushService" exported="true">
+6
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.cutt.zhiyue.android.service.MessageBroadcastReceiver" exported="false">
+<receiver name="com.cutt.zhiyue.android.service.BaiduMessageBroadcastReceiver">
+<receiver process=":bdservice" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=简网, OU=简网, O=简网, L=北京, ST=北京, C=86
+Issuer: CN=简网, OU=简网, O=简网, L=北京, ST=北京, C=86
+Serial number: 50ee96f0
+Valid from: Thu Jan 10 18:24:48 CST 2013 until: Fri Oct 14 18:24:48 CST 2067
+Certificate fingerprints: 
+	MD5:A2:7F:E0:35:1A:E0:82:E9:88:E4:3B:C5:F4:6C:C4:8F
+	SHA1: 24:F5:8A:97:F4:6C:AC:49:B8:D0:92:36:D2:3F:E2:AD:4A:1B:6B:AF
+	SHA256: 1D:13:F8:5F:58:C2:A6:9F:D1:84:C8:10:E9:49:65:81:8E:CF:01:FF:03:28:91:6A:84:99:0E:56:9A:F4:FC:DF
+	Signature algorithm name: SHA1withRSA
+	version: 3

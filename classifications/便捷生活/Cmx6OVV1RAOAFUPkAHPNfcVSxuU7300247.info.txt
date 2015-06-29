@@ -1,0 +1,91 @@
+com.nineton.weatherforecast
+316
+3.1.6
+8
+18
+20
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.BATTERY_STATS
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+32
+<activity name="com.nineton.weatherforecast.LogoActivity" theme="16973830" label="2131493049">
+<activity logo="2130837618" screenOrientation="1" name="com.nineton.weatherforecast.MainActivity" theme="2131427468">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.AddCityActivity" theme="16973830">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.SettingActivity" label="2131492938">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.AboutUsActivity" label="2131492956">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.PushCityActivity" label="2131492942">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.UpdateTimeSpanActivity" label="2131492943">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.WeatherCameraActivity" label="2131492944">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.WidgetThemeManageActivity" label="2131492945">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.ThemeSwitchActivity" label="2131492947">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.NotificationWeatherActivity" label="2131492954">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.ChangeSkinActivity" label="2131492948">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.HelpActivity" label="2131492949">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.HelpCityListActivity" label="2131492950">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.HelpWidgetActivity" label="2131492951">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.NotificationCityActivity" label="2131492954">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.LotteryListActivity" label="2131492955">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.LotteryActivity" label="2131492955">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.SelectCityActivity" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.AuthorizationActivity" label="2131492957">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.NewHelpActivity" label="2131492949">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.TestWidgetActivit" label="2131492983">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.WeatherSkinActivity" label="2131492974">
+<activity screenOrientation="1" name="com.nineton.weatherforecast.WeatherSkinDetailActivity" label="2131492982">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131427507" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+10
+<service name="com.nineton.weatherforecast.service.QueryWeatherService">
+<service name="com.nineton.weatherforecast.service.WeatherSkinService">
+<service name="com.nineton.weatherforecast.service.NotificationService">
+<service name="com.nineton.splash.service.SplashService">
+<service name="com.nineton.splash.service.AppDownloadService">
+<service name="com.nineton.weatherforecast.service.WidgetWeatherService">
+<service name="com.nineton.weatherforecast.service.WidgetTimeService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+8
+<receiver icon="2130837764" name=".widget.WeatherWidget4X1" label="2131493015">
+<receiver icon="2130837764" name=".widget.WeatherWidget4X2" label="2131493016">
+<receiver icon="2130837764" name=".widget.WeatherWidget5X1" label="2131493018">
+<receiver icon="2130837764" name=".widget.WeatherWidget5X2" label="2131493019">
+<receiver name=".broadcast.WidgetBroadcastReceiver">
+<receiver name="com.nineton.weatherforecast.broadcast.BootBroadcastReceiver">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="com.nineton.weatherforecast.broadcast.XGPushBroadcastReceiver">
+1
+<provider authorities="com.nineton.weatherforecast" name="com.nineton.weatherforecast.database.DataContentProvider" exported="true">
+Owner: CN=NineTon, OU=NineTon, O=NineTon, L=CQ, ST=CQ, C=86
+Issuer: CN=NineTon, OU=NineTon, O=NineTon, L=CQ, ST=CQ, C=86
+Serial number: 2943ba46
+Valid from: Fri Oct 18 17:56:05 CST 2013 until: Wed Oct 08 17:56:05 CST 2053
+Certificate fingerprints: 
+	MD5:EE:CB:68:03:4C:6C:0D:B9:E8:C6:BF:D4:B8:86:27:3A
+	SHA1: 78:42:8E:99:95:1A:EE:35:2C:B0:0E:34:73:40:F5:C8:58:29:C1:D7
+	SHA256: AC:B8:73:54:F6:3D:B6:E6:72:25:D2:89:A9:74:1E:81:0E:60:5C:92:43:70:AB:4E:2B:13:BF:46:50:45:D9:C7
+	Signature algorithm name: SHA256withRSA
+	version: 3

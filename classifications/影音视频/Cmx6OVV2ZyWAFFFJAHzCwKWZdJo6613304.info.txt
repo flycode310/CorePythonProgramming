@@ -1,0 +1,89 @@
+com.sohu.tv
+4600000
+4.6.0
+11
+19
+18
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+39
+<activity screenOrientation="6" hardwareAccelerated="true" name=".activity.MainActivity" configChanges="1248" label="2131361792" launchMode="1">
+<activity screenOrientation="6" hardwareAccelerated="true" name="com.sohu.tv.activity.SearchActivity" configChanges="1248" label="2131361792" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="6" name=".activity.DisclaimerActivity" theme="16973831" configChanges="1248" launchMode="1">
+<activity screenOrientation="6" name=".activity.WelcomeActivity" theme="16973831" configChanges="1152" label="2131361792">
+<activity screenOrientation="6" name=".activity.FirstNewbieGuideActivity" configChanges="1248" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="6" name=".activity.IndividualH5Activity" launchMode="0">
+<activity screenOrientation="6" name=".activity.ShareDialogActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="34">
+<activity screenOrientation="6" name=".activity.ShareActivity" theme="2131492870" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="6" name=".activity.EventViewActivity" theme="2131492870" configChanges="160">
+<activity screenOrientation="6" hardwareAccelerated="true" name=".activity.VideoDetailActivity" theme="16973834" configChanges="1248" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="6" hardwareAccelerated="true" name=".activity.ThirdDownloadActivity" theme="16973841" configChanges="1248" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="6" hardwareAccelerated="true" name=".activity.HotPointDetailActivity" theme="16973834" configChanges="1248" launchMode="2">
+<activity screenOrientation="6" hardwareAccelerated="true" name=".activity.SinglePosterActivity" theme="2131492878" configChanges="1248" launchMode="2">
+<activity screenOrientation="6" name=".activity.AgreementActivity" configChanges="1248" windowSoftInputMode="18">
+<activity screenOrientation="6" name=".activity.PlayActivity" theme="16973831" configChanges="1184" launchMode="1">
+<activity screenOrientation="6" name=".activity.IndividualCenterActivity" configChanges="1248">
+<activity screenOrientation="6" name=".activity.AccountActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.PersonalInfoEditActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.ActivateCodeActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.BuySohuFilmActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.MySohuFilmOrderActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.SohuMovieOrderDetailActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.SohufilmCommodityListActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.SohuMovieNoAvderActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.SohuImageCaptureActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.SohuMovieFromDetailOrderActivity" theme="2131492870" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" hardwareAccelerated="true" name=".activity.NewLivePlayActivity" theme="16973834" configChanges="1248" launchMode="1">
+<activity screenOrientation="6" name=".activity.ThirdLoginActivity" configChanges="1248" windowSoftInputMode="18">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity name="com.sohu.tv.wxapi.WXEntryActivity" exported="true" launchMode="0">
+<activity name="com.sohu.tv.wxapi.WXPayEntryActivity" exported="true" launchMode="1">
+<activity screenOrientation="6" name=".activity.VipOpenActivity" theme="2131492868" configChanges="1248" launchMode="2">
+<activity screenOrientation="6" name=".activity.PreloadedAlbumActivity" theme="16973833" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="6" name=".activity.PreloadingActivity" theme="16973833" configChanges="1248" windowSoftInputMode="18" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name=".activity.SohuEntryActivity" theme="16973909" exported="true" launchMode="3">
+<activity name="com.sohu.app.ads.sdk.core.PadDetailsActivity">
+6
+<service name="org.openudid.OpenUDID_service">
+<service name=".service.TimeStampService">
+<service name=".service.SohuVideoService">
+<service process=":core_service" name=".service.LogService" exported="false">
+<service process=":download" name=".service.DownloadService">
+<service name=".service.ServiceForWebServer">
+6
+<receiver name=".receiver.SohuVideoServiceReceiver">
+<receiver name=".receiver.PushNotificationReceiver">
+<receiver name=".receiver.VideoDownloadReceiver">
+<receiver name=".receiver.UpdateBroadCastReceiver">
+<receiver name=".receiver.SettingChangeReceiver">
+<receiver name="com.sohu.tv.service.SohuEntryReceiver" exported="true">
+0
+Owner: CN=AndroidTeam, OU=sohu, O=sohu.com, L=beijing, ST=beijing, C=cn
+Issuer: CN=AndroidTeam, OU=sohu, O=sohu.com, L=beijing, ST=beijing, C=cn
+Serial number: 4e0303c7
+Valid from: Thu Jun 23 17:13:43 CST 2011 until: Fri Mar 26 17:13:43 CST 2066
+Certificate fingerprints: 
+	MD5:9C:93:66:E5:8D:4F:2D:A1:49:F8:A4:53:AB:B3:10:3A
+	SHA1: 2F:1B:96:06:CD:B9:5C:59:B0:A2:3E:40:80:3E:54:16:EF:AB:AC:AE
+	SHA256: 62:73:5F:D1:F0:65:81:8A:B6:D1:9D:2F:A8:20:53:67:57:D6:76:9A:C9:6E:56:AC:19:B8:17:8A:C2:89:8D:A9
+	Signature algorithm name: SHA1withRSA
+	version: 3

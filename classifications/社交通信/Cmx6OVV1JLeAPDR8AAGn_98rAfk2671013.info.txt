@@ -1,0 +1,38 @@
+com.conowen.grid
+8
+4.0
+7
+-1
+15
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+3
+<activity name=".CallActivity" label="2130968577">
+<activity name="org.achartengine.GraphicalActivity">
+<activity name="com.conowen.grid.ChartActivity">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 1a836b9
+Valid from: Fri Apr 04 16:02:35 CST 2014 until: Sun Mar 27 16:02:35 CST 2044
+Certificate fingerprints: 
+	MD5:88:13:05:A1:06:26:30:58:08:4B:B3:41:1F:CA:F9:5D
+	SHA1: C2:24:13:36:F6:1C:2D:50:33:4D:24:B1:10:7F:DF:F4:C8:52:0D:1E
+	SHA256: 29:1A:46:1C:76:B5:CF:AE:2B:32:71:59:CE:41:AE:07:44:2E:A0:ED:61:BC:AA:6F:D7:51:08:34:47:95:1D:2B
+	Signature algorithm name: SHA256withRSA
+	version: 3

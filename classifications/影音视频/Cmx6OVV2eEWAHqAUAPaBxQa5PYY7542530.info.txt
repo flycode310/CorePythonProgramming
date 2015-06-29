@@ -1,0 +1,52 @@
+com.hoo.guesstv360ar
+6
+1.0.6
+6
+-1
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+12
+<activity name="com.hoo.qamd.MiApiActivity" configChanges="160">
+<activity name="com.hoo.guesstv360.MainActivity">
+<activity name="com.hoo.guesstv360.GuoGuanActivity" theme="2131230720">
+<activity name="com.hoo.guesstv360.GameActivity">
+<activity name="com.hoo.guesstv360.SelectGreadActivity">
+<activity name="com.hoo.guesstv360.SelectGuanActivity">
+<activity name="com.hoo.guesstv360.ShopActivity">
+<activity name="com.hoo.guesstv360.TongGuanActivity" theme="2131230720">
+<activity excludeFromRecents="true" name="com.hoo.guesstv360.m.Remz" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.hoo.guesstv360.z.Wg" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.hoo.guesstv360.r.Tnz" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.hoo.guesstv360.l.Vnud" theme="16973839" label="" launchMode="3">
+5
+<service name="com.hoo.juyouad.JOService">
+<service name="com.hoo.guesstv360.m.Che">
+<service name="com.hoo.guesstv360.z.Ewa">
+<service name="com.hoo.guesstv360.r.Zh">
+<service name="com.hoo.guesstv360.l.Gno">
+5
+<receiver name="com.hoo.juyouad.JOReceiver">
+<receiver name="com.hoo.guesstv360.m.Odej">
+<receiver name="com.hoo.guesstv360.z.Paa">
+<receiver name="com.hoo.guesstv360.r.Rsz">
+<receiver name="com.hoo.guesstv360.l.Ssgv">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 532c2da5
+Valid from: Fri Mar 21 20:16:37 CST 2014 until: Sun Feb 25 20:16:37 CST 2114
+Certificate fingerprints: 
+	MD5:C4:9A:D0:E3:E7:12:EB:18:BC:C1:9D:D4:0A:A5:FC:8F
+	SHA1: 35:D4:18:89:C9:9E:11:68:8C:62:10:16:65:12:88:28:D6:7F:A0:6A
+	SHA256: 76:36:D7:F1:98:93:87:15:B3:6A:F4:38:38:F8:E2:9A:5D:0D:0D:1F:02:AA:9E:71:D4:58:B7:A9:87:76:D0:B7
+	Signature algorithm name: SHA1withRSA
+	version: 3

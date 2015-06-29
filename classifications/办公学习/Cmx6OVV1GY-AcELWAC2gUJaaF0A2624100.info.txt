@@ -1,0 +1,39 @@
+com.hzlong.activity
+10
+kk_hzlong_1_0
+8
+17
+7
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RESTART_PACKAGES
+11
+<activity screenOrientation="1" name="com.hzlong.activity.LogoActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.AboutActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.LoginActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.RegisterActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.MainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.TradeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.StudyActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.AnalyzeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.DoPaperActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.SeePaperActivity" theme="16973830">
+<activity screenOrientation="1" name="com.hzlong.activity.BookActivity" theme="16973830">
+1
+<service name="com.hzlong.service.MainService" permission="android.permission.INSTALL_PACKAGES">
+0
+0
+Owner: CN=cuipeng, OU=hzlong, O=hzlong, L=changchun, ST=changchun, C=CN
+Issuer: CN=cuipeng, OU=hzlong, O=hzlong, L=changchun, ST=changchun, C=CN
+Serial number: 925f93
+Valid from: Sat Sep 28 16:19:33 CST 2013 until: Mon Sep 04 16:19:33 CST 2113
+Certificate fingerprints: 
+	MD5:5B:0A:BA:A3:71:C3:83:CD:FC:9F:31:50:89:43:BC:01
+	SHA1: BC:CE:77:A8:3E:03:0B:F8:10:67:8F:06:EB:89:15:0E:CA:1F:49:AC
+	SHA256: 80:D5:D4:97:BE:0C:54:EB:90:B4:E5:86:3C:A5:94:8A:62:C0:60:54:DD:09:8F:A1:35:15:A4:37:EA:7B:AD:18
+	Signature algorithm name: SHA256withRSA
+	version: 3

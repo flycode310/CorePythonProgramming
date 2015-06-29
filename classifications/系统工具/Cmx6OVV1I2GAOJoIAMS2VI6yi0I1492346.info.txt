@@ -1,0 +1,27 @@
+com.nd.android.pandatheme.p_Lakemountains20140822
+57
+5.7
+7
+-1
+4
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+1
+<activity screenOrientation="1" name="com.nd.android.pandatheme.PandaThemeActivity" label="2131034112">
+1
+<service name="com.nd.android.pandatheme.UserDataUploadService">
+1
+<receiver name="com.nd.android.pandatheme.LauncherInstallReceiver">
+0
+Owner: CN=http://soft.sj.91.com, OU=Android Team, O=NetDragon, L=FZ, ST=FJ, C=CN
+Issuer: CN=http://soft.sj.91.com, OU=Android Team, O=NetDragon, L=FZ, ST=FJ, C=CN
+Serial number: 4a0bc9cd
+Valid from: Thu May 14 15:35:41 CST 2009 until: Sat Apr 20 15:35:41 CST 2109
+Certificate fingerprints: 
+	MD5:5B:12:0E:96:B2:0F:5B:4E:C6:95:D7:9B:20:D1:87:53
+	SHA1: BC:87:C8:2C:D2:88:6A:4E:07:E1:F2:E1:15:6D:DC:9B:2C:46:7D:C8
+	SHA256: A7:89:A5:2F:B4:71:13:37:49:33:10:CB:93:A2:42:1F:9D:78:9E:A7:37:29:14:BF:D9:6A:AF:E3:F7:75:D4:3E
+	Signature algorithm name: SHA1withRSA
+	version: 3

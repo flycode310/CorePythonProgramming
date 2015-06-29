@@ -1,0 +1,39 @@
+com.iflytek.pth
+1019
+1.0.1019
+8
+14
+8
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.READ_CONTACTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+10
+<activity screenOrientation="1" name="com.iflytek.pth.flashview.FlashViewActivity" theme="16973840" label="2131165184">
+<activity screenOrientation="1" name="com.iflytek.pth.MainActivity">
+<activity screenOrientation="1" name="com.iflytek.inputmethod.codescan.activity.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.iflytek.inputmethod.codescan.imagecrop.MyCropActivity" configChanges="1248">
+<activity screenOrientation="1" name="com.iflytek.pth.about.About">
+<activity screenOrientation="1" name="com.iflytek.pth.query.StudentScoreQueryActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.iflytek.pth.check.CertificateInfoCheckActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.iflytek.pth.check.CertificateInfoResultActivity">
+<activity screenOrientation="1" name="com.iflytek.pth.query.StudentScoreResultActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.iflytek.pth.business.versionupdate.UpdateDialog" theme="16973835" configChanges="224" launchMode="1">
+1
+<service process=":remote" name="com.iflytek.inputmethod.codescan.encoding.EncodeService" exported="true">
+0
+0
+Owner: CN=gyliu, OU=iflytek lnc., O=iflytek lnc., L=hangzhou, ST=zhejiang, C=CN
+Issuer: CN=gyliu, OU=iflytek lnc., O=iflytek lnc., L=hangzhou, ST=zhejiang, C=CN
+Serial number: 546dff26
+Valid from: Thu Nov 20 22:48:06 CST 2014 until: Wed Mar 23 22:48:06 CST 3014
+Certificate fingerprints: 
+	MD5:48:8E:C0:32:A5:3A:A1:D9:CE:F5:52:EF:2C:43:A2:0D
+	SHA1: C8:62:74:A3:E7:1B:DD:9D:DE:6D:2A:BA:7B:2A:2B:0A:86:46:8D:98
+	SHA256: 41:36:0A:06:21:C6:E9:0D:0C:0C:A4:E5:AA:80:8A:59:AB:BA:B4:D9:2B:0D:31:5E:99:D5:30:37:A2:19:7A:84
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,73 @@
+com.beijing.shengjiafu
+1
+1.0
+7
+15
+11
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+41
+<activity screenOrientation="1" name="com.beijing.shengjiafu.WelcomeActivity" theme="2131165185">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.FrameActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.Task2Act">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.ServiceDetailActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.Task2ActInfo">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.HomeActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.CommentActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.MyGoldAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.TaskActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.AccountActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.PictureActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.OrderformActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.MessageActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.RoomListAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.RoomAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.TaskInfoAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.RegisterAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.LoginActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.ChangeGoldAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.AllOrderAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.SubCommAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.OrderDetailAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.ScaleActivity2" theme="16973830">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.ProgramAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.MorePicAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.ChangePassAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.WaitCommOrderAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.XieyiAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.BusinessHallMapActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.DJJLAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.HDJLAct">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.ItemizedOverlayDemo">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.MyDT">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.UserInfo">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.AroundActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.AroundListActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.AroundDetailActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.SearchResultActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.ServiceDetailSub">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.AboutActivity">
+<activity screenOrientation="1" name="com.beijing.shengjiafu.BigPicSlide">
+0
+0
+1
+<provider authorities="com.beijing.shengjiafu" name=".util.JSContentProvider" exported="true">
+Owner: OU=北京盛嘉福商务酒店
+Issuer: OU=北京盛嘉福商务酒店
+Serial number: 515a9c68
+Valid from: Tue Apr 02 16:52:56 CST 2013 until: Thu Mar 09 16:52:56 CST 2113
+Certificate fingerprints: 
+	MD5:93:AB:37:C5:E3:3A:BE:C9:E2:57:42:F0:A6:9D:90:BC
+	SHA1: 93:33:DA:71:50:B7:41:E0:15:09:2C:9E:F1:21:80:C7:F6:3E:6D:41
+	SHA256: F6:6A:0A:F3:9B:FF:38:19:87:3D:F8:AE:9B:55:BC:CB:2A:A2:0A:7E:7D:C0:05:11:A7:8A:37:DC:EA:07:E3:DA
+	Signature algorithm name: SHA1withRSA
+	version: 3

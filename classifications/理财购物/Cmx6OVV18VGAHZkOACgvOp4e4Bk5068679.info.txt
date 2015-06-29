@@ -1,0 +1,51 @@
+com.rxhui.bank
+2
+1.1
+8
+17
+11
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.READ_LOGS
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+18
+<activity screenOrientation="1" name="com.rxhui.bank.MainActivity" label="2131165184">
+<activity screenOrientation="1" name="com.rxhui.bank.detail.DetailActivity" label="2131165186">
+<activity screenOrientation="1" name="com.rxhui.bank.filter.FilterViewActivity" label="2131165191">
+<activity screenOrientation="1" name="com.rxhui.bank.favor.FavorActivity">
+<activity screenOrientation="1" name="com.rxhui.bank.setting.SettingActivity">
+<activity screenOrientation="1" name="com.rxhui.bank.detail.EarningAndRishActivity">
+<activity screenOrientation="1" name="com.rxhui.bank.detail.OtherClauseActivity">
+<activity screenOrientation="1" name="com.rxhui.bank.setting.AboutActivity">
+<activity name="com.rxhui.bank.UmengHome" label="2131165184">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity name="com.umeng.socialize.view.CommentActivity" theme="2131230735" configChanges="144">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131230734" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.umeng.socialize.view.CommentDetail" theme="2131230735" configChanges="144" noHistory="true">
+<activity name="com.umeng.socialize.view.CommentDetailNoMap" theme="2131230735" configChanges="144" noHistory="true">
+<activity screenOrientation="1" name="com.rxhui.bank.MapActivity">
+<activity name="com.rxhui.bank.detail.AdvertizementDetailActivity" label="2131165207">
+<activity name="com.rxhui.bank.detail.PrebookActivity" label="2131165208">
+1
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+1
+<receiver name="com.rxhui.bank.detail.bottombar.LocalNotification">
+0
+Owner: CN=Tian Zheng, OU=RHJX INC., O=RHJX INC., L=Beijing, ST=Beijing, C=86
+Issuer: CN=Tian Zheng, OU=RHJX INC., O=RHJX INC., L=Beijing, ST=Beijing, C=86
+Serial number: 51a5a76f
+Valid from: Wed May 29 14:59:59 CST 2013 until: Thu Mar 01 14:59:59 CST 2068
+Certificate fingerprints: 
+	MD5:30:8D:AE:0F:25:B0:DF:50:B1:89:E4:2A:BC:C7:A1:1D
+	SHA1: 8D:39:74:1E:5B:B9:BC:CE:36:FC:16:25:5E:A4:4A:EE:71:28:B9:00
+	SHA256: CD:58:84:53:16:38:B5:75:30:14:BC:5E:5F:B6:AD:6D:71:00:8C:97:9C:29:2A:34:18:70:E5:81:BB:52:6D:91
+	Signature algorithm name: SHA1withRSA
+	version: 3

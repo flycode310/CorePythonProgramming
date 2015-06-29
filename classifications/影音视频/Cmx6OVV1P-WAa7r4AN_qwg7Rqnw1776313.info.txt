@@ -1,0 +1,83 @@
+com.igrs.tivic.phone
+2
+1.0.1
+14
+-1
+13
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.GET_PACKAGE_SIZE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+45
+<activity screenOrientation="1" name="._NewActivity._SearchActivity">
+<activity screenOrientation="1" name=".Activity.LoginActivity" label="2131165400">
+<activity screenOrientation="1" name="._NewActivity.HomePageActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="._NewActivity._WaterfallActivity">
+<activity screenOrientation="1" name="._NewActivity.NewEPGActivity">
+<activity name="._NewActivity.NewSocialPhotoBrowseActivity">
+<activity screenOrientation="1" name="._NewActivity._BaseThumbnailActivity" theme="2131558514">
+<activity screenOrientation="0" name=".Activity.VideoPlayActivity">
+<activity screenOrientation="1" name="._NewActivity.NewGuideActivity" theme="16973833">
+<activity screenOrientation="1" name=".Activity.GuideActivity">
+<activity screenOrientation="1" name="._NewActivity.ContentsActivity">
+<activity name=".Activity.LoginRegistrationCameraActivity" theme="16973834" configChanges="160">
+<activity screenOrientation="1" name="com.igrs.tivic.phone._NewActivity.UGCPublishActivity">
+<activity screenOrientation="1" name="com.igrs.tivic.phone._NewActivity.UGCPagerActivity">
+<activity screenOrientation="1" name=".Activity.SocialBaseActivity" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".Activity.SocialModifySignActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".Activity.SocialModifyPwdActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".Activity.SocialFeedBackActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationActivity">
+<activity screenOrientation="1" name=".Activity.LoginFindpwdActivity">
+<activity screenOrientation="1" name=".Activity.LoginFindpwdMailActivity">
+<activity screenOrientation="1" name=".Activity.LoginFindpwdPhoneActivity">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationBaseInfoNewActivity">
+<activity screenOrientation="1" name="com.igrs.tivic.phone._NewActivity.ContentPublishActivity" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationBaseInfoActivity">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationNewActivity">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationWantedActivity">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationInterested3Activity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationSystemAvaterActivity">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationMailValidationActivity">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationPhoneValidationActivity">
+<activity screenOrientation="1" name=".Activity.LoginRegistrationExtInfoActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".Activity.LoginDialogActivity" theme="2131558514" configChanges="160" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name=".Activity.SettingModifyPwdActivity" theme="2131558514" configChanges="160" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name=".Activity.SocialSystemIconActivity">
+<activity name=".Activity.SocialPhotoBrowseActivity">
+<activity screenOrientation="1" name="com.igrs.tivic.phone._NewActivity.ScreenShotActivity">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity process=":standalone" screenOrientation="1" hardwareAccelerated="true" name="com.aviary.android.feather.FeatherActivity" theme="2131558519" configChanges="1184" largeHeap="true">
+<activity screenOrientation="1" name="cn.sharesdk.framework.AuthorizeActivity" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.onekeyshare.ShareAllGird" theme="16973840" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.sharesdk.onekeyshare.SharePage" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.igrs.tivic.phone.wxapi.WXEntryActivity" exported="true">
+3
+<service name=".Service.RefreshDataService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+1
+<receiver process=":aviary_sample_system_receiver" name="com.aviary.android.feather.library.receivers.AviarySystemReceiver" exported="true">
+1
+<provider process=":standalone" authorities="com.igrs.tivic.phone.HiResProvider" name="com.aviary.android.feather.library.providers.FeatherContentProvider" exported="false">
+Owner: CN=Felix Feng, OU=IGRS, O=Unknown, L=Beijing, ST=Unknown, C=CN
+Issuer: CN=Felix Feng, OU=IGRS, O=Unknown, L=Beijing, ST=Unknown, C=CN
+Serial number: 4e45357b
+Valid from: Fri Aug 12 22:15:23 CST 2011 until: Tue Dec 28 22:15:23 CST 2038
+Certificate fingerprints: 
+	MD5:61:11:17:18:19:42:EB:E2:56:28:37:2C:AC:A1:15:66
+	SHA1: 3D:90:87:90:09:B9:6E:E2:E8:4A:C2:5F:7C:61:CA:4F:B0:7F:40:DD
+	SHA256: 94:AB:BD:91:3B:E4:B3:13:C2:E4:60:25:8A:2F:3F:E0:FB:34:E3:47:8D:1C:3D:70:02:0A:E6:24:EB:B0:D8:C4
+	Signature algorithm name: SHA1withRSA
+	version: 3

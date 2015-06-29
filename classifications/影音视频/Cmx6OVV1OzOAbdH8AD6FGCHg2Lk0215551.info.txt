@@ -1,0 +1,32 @@
+com.kate.health.sleepingMusic
+3
+1.0.2
+3
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity screenOrientation="1" name=".MainActivity" configChanges="48" label="2131230720">
+<activity screenOrientation="1" name="FileBrowser" configChanges="48">
+<activity screenOrientation="1" name="MoreApp" configChanges="48">
+<activity screenOrientation="1" name="Help" configChanges="48">
+0
+0
+0
+Owner: CN=Vidition, OU=Droid, O=Droid, L=NY, ST=10001, C=10
+Issuer: CN=Vidition, OU=Droid, O=Droid, L=NY, ST=10001, C=10
+Serial number: 4b21a6df
+Valid from: Fri Dec 11 09:56:47 CST 2009 until: Sun Nov 17 09:56:47 CST 2109
+Certificate fingerprints: 
+	MD5:78:D8:AD:F3:99:DD:08:62:65:A8:36:CC:DD:62:77:D5
+	SHA1: 35:65:C2:FA:B0:3E:8D:36:A2:98:41:C7:FF:EF:1A:9B:3A:C1:1B:59
+	SHA256: 93:50:A2:95:9A:4A:FC:2A:43:75:4E:83:36:49:E4:17:5C:DD:30:01:C3:DC:8A:8F:13:D3:66:20:7A:F9:48:35
+	Signature algorithm name: SHA1withRSA
+	version: 3

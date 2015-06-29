@@ -1,0 +1,79 @@
+com.UCMobile
+100
+9.6.0
+8
+8
+37
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+com.htc.launcher.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+com.sec.android.app.twlauncher.READ_SETTINGS
+org.adwfreak.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+org.adwfreak.launcher.permission.WRITE_SETTINGS
+android.permission.CAMERA
+com.sec.android.app.twlauncher.WRITE_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.PERSISTENT_ACTIVITY
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+org.adw.launcher.permission.WRITE_SETTINGS
+com.gau.go.launcherex.permission.READ_SETTINGS
+com.fede.launcher.permission.WRITE_SETTINGS
+com.gau.go.launcherex.permission.WRITE_SETTINGS
+com.htc.launcher.permission.READ_SETTINGS
+com.android.email.permission.READ_ATTACHMENT
+android.permission.EXPAND_STATUS_BAR
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+com.fede.launcher.permission.READ_SETTINGS
+org.adw.launcher.permission.READ_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+com.android.launcher.permission.WRITE_SETTINGS
+10
+<activity finishOnTaskLaunch="true" name="com.UCMobile.main.UCMobile" theme="16973839" configChanges="1073741984" label="2131165241" windowSoftInputMode="32" noHistory="true" alwaysRetainTaskState="true" launchMode="2">
+<activity name="com.uc.browser.InnerUCMobile" theme="2131623977" configChanges="1073741984" label="2131165241" windowSoftInputMode="32" launchMode="2">
+<activity name="com.uc.browser.skinmgmt.CropImage">
+<activity screenOrientation="1" name="com.UCMobile.barcode.client.android.CaptureActivity" theme="2131623978">
+<activity name="com.UCMobile.SystemManageData.ManageDataActivity">
+<activity screenOrientation="0" name="com.uc.browser.cameraengine.CameraActivity" configChanges="160">
+<activity screenOrientation="1" name="com.UCMobile.ScreenshotsGraffiti.SGActivity" theme="2131623979" configChanges="160" label="2131165241">
+<activity screenOrientation="2" name="com.uc.browser.ProxyActivity" configChanges="160" label="ProxyActivity">
+<activity finishOnTaskLaunch="true" excludeFromRecents="true" name="com.uc.addon.adapter.PermissionDialogActivity" theme="2131623980" configChanges="160" label="2131165241" noHistory="true" taskAffinity="com.uc.addon.adapter.PermissionDialogActivity" launchMode="2">
+<activity finishOnTaskLaunch="true" excludeFromRecents="true" name=".wxapi.WXEntryActivity" theme="2131623980" configChanges="160" exported="true" label="2131165241" noHistory="true" taskAffinity="wxapi.WXEntryActivity" launchMode="2">
+6
+<service name="com.UCMobile.main.NotificationService">
+<service process=":RemoteHttpService" name="com.uc.data.service.RemoteHttpService">
+<service process=":DownloadService" name="com.uc.browser.download.service.RemoteDownloadService">
+<service process=":RemoteBackgroundProcess" name="com.uc.browser.msgpush.RemoteBackgroundProcess">
+<service name="com.uc.browser.openwifi.AuthOpenWifiService">
+<service process=":FloatWidgetProcess" name="com.UCMobile.desktopwidget.floatview.DesktopFloatService">
+5
+<receiver name="com.UCMobile.receivers.SysReceiver" label="2131165241">
+<receiver name="com.uc.browser.googleanalytics.GoogleAnalyticsReceiver" exported="true">
+<receiver process=":RemoteBackgroundProcess" name="com.uc.browser.msgpush.BackgroundProcessBroadcastReveiver">
+<receiver name="com.UCMobile.desktopwidget.UCWidgetProvider" label="2131165235">
+<receiver name="com.uc.browser.openwifi.NetworkConnectReceiver">
+1
+<provider authorities="com.UCMobile.main.UCContentProvider" name="com.UCMobile.main.UCContentProvider" exported="true">
+Owner: CN=uc, OU=uc, O=uc, L=gz, ST=gd, C=cn
+Issuer: CN=uc, OU=uc, O=uc, L=gz, ST=gd, C=cn
+Serial number: 4d92c9ac
+Valid from: Wed Mar 30 14:11:56 CST 2011 until: Thu Dec 31 14:11:56 CST 2065
+Certificate fingerprints: 
+	MD5:51:A5:EB:6E:85:03:3F:42:27:15:35:AA:D1:19:A2:F4
+	SHA1: 20:7B:2F:DD:43:EF:02:FF:00:FA:74:C9:32:D2:C1:D8:63:E5:14:52
+	SHA256: BB:E2:FF:26:98:28:A0:D9:22:49:8E:E8:7F:65:AF:E7:69:C2:7D:62:F4:89:D5:C1:9B:9C:C6:C4:44:C8:08:11
+	Signature algorithm name: SHA1withRSA
+	version: 3

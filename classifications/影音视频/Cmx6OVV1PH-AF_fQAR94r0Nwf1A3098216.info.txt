@@ -1,0 +1,159 @@
+com.rednovo.weibo
+141
+1.4.1
+9
+19
+30
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+com.rednovo.weibo.permission.JPUSH_MESSAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.webkit.permission.PLUGIN
+android.permission.SEND_SMS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.REORDER_TASKS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+95
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.EntryActivity" theme="16973830" label="2131099713">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.MainActivity" theme="2131493032" label="2131099714">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.LiveActivity" theme="2131493042" parentActivityName="com.rednovo.weibo.activity.MainActivity" label="2131099713" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.welcome.WelcomeActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.rednovo.weibo.activity.EntryLoginActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.NoticeRemindActivity" label="2131100416" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.InformationActivity" label="2131100403" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.NoticeInfoActivity" label="2131100414" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.rednovo.weibo.activity.LoginActivity" label="2131099741" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.RegisterActivity" label="2131099745" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.LookForPasswordActivity" label="2131100094" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.LookForMobilePasswordActivity" label="2131100094" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.LookForSetPasswordActivity" label="2131100094" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.LookForSetPasswordFinalizeActivity" label="2131100094" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.BoundMobileActivity" label="2131100094" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.CoinMissionActivity" label="2131100110" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.SetNickNameActivity" label="2131099723" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.BindTelephoneActivity" label="2131099808" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.DailySignActivity" label="2131099808" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.AdviceActivity" label="2131100202" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.StarZoneActivity" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.UserZoneActivity" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.OtherUserZoneActivity" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.NewOtherUserZoneActivity" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.SendBroadcastActivity" label="2131100023" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.SongOrderActivity" label="2131100026" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.StarFollowingActivity" label="2131100106" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.SettingsActivity" label="2131100173" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.MessagePushRemindActivity" label="2131100173" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.MessageRemindSettingActivity" label="2131100173" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.push.PushWebViewActivity" label="2131100173" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.push.PushLiveActivity" label="2131100173" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.push.PushPopupActivity" label="2131100173" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.AboutActivity" label="2131100210" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.TaskLoginActivity" label="2131100111" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.TaskCenterActivity" label="2131100111" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.BannerActivity" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FansListActivity" label="2131100179" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.WonderGiftActivity" label="2131100180" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.HelpActivity" label="2131100212" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.AdviseActivity" label="2131099821" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.BuyVipActivity" configChanges="1152" label="2131099772" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilyDetailsActivity" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilySettingsActivity" label="2131100384" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilyNoticeSettingActivity" label="2131100391" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilyCommentsActivity" label="2131100412" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.DeletedTopicActivity" label="2131100412" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilyAddTopicActivity" label="2131100736" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilyAddCommentActivity" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilyReplyCommentActivity" label="2131100734" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.SearchActivity" theme="2131493041" configChanges="1184" launchMode="1">
+<activity visibility="2" screenOrientation="1" name="com.rednovo.weibo.activity.StarCoinCenterActivity" label="2131100855" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.MountMallActivity" label="2131100576" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.UpgradeVipActivity" label="2131100574" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.TaskActivity" label="2131100111" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.ImageShowerActivity" label="2131100324" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.SendGiftRecordActivity" label="2131100863" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.ReceiveGiftRecordActivity" label="2131100864" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.OfficialTopicListActivity" label="2131100411" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.OfficialAddTopicActivity" label="2131100736" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.OfficialCommentsActivity" label="2131100765" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.pay.PayActivity" label="2131100229" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.pay.AlipayActivity" label="2131100316" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.pay.WeChatPayActivity" label="2131100880" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.pay.TenpayActivity" label="2131100317" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.pay.UPPayActivity" label="2131100843" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.pay.HandsetCardPayActivity" label="2131100324" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.pay.SmsPayActivity" label="2131100418" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.pay.GameCardPayActivity" label="2131100323" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.pay.ComputerPayActivity" label="2131100850" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.RedactInfoActivity" label="2131100851" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.MyFavStarActivity" label="2131100852" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.MyRecentlyStarActivity" label="2131100853" launchMode="1">
+<activity name="com.vsofo.vpaysmszf.MActivity_vpaysmszf" label="2131100418">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.xiuba.sdk.usersystem.AuthorizeActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.MyMountActivity" label="2131100130" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.UserBadgeActivity" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.RechargeListActivity" label="2131100228" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.ExchangeActivity" label="2131100236" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.SetPasswordActivity" label="2131100214" launchMode="2">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.StarAlbumActivity" label="2131100530" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.StarGalleryActivity" theme="2131493044" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilyCreateActivity" label="Create Family Activity" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilyCreateDetailsActivity" label="创建家族详情" launchMode="1">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.FamilyApplyListActivity" label="审核管理" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.AccuseActivity" label="2131100429">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.SystemMessageActivity" label="2131100416" launchMode="2">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.PromotionNoticeActivity" label="2131100415" launchMode="2">
+<activity screenOrientation="1" name="com.rednovo.weibo.activity.PromotionNoticeInformationActivity" label="2131100417" launchMode="2">
+<activity name="com.rednovo.weibo.share.api.wxapi.WXEntryActivity" theme="16973909" exported="true">
+<activity name="com.rednovo.weibo.wxapi.WXEntryActivity" theme="16973909" exported="true">
+8
+<service name="com.xiuba.lib.service.MainService">
+<service process=":DownService" name="com.xiuba.lib.download.DownService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+6
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.rednovo.weibo.push.PushReceiver">
+0
+Owner: CN=wangchunhe, OU=北京泛泛科技有限公司, O=泛泛科技, L=北京, ST=北京, C=CN
+Issuer: CN=wangchunhe, OU=北京泛泛科技有限公司, O=泛泛科技, L=北京, ST=北京, C=CN
+Serial number: 4eafa3bd
+Valid from: Tue Nov 01 15:46:05 CST 2011 until: Thu Oct 08 15:46:05 CST 2111
+Certificate fingerprints: 
+	MD5:A8:9F:D9:C7:D6:A3:92:77:EF:71:AD:4C:60:2C:6F:D8
+	SHA1: B9:53:1D:28:FC:DC:A9:90:7E:8D:58:4D:C7:00:82:2F:F2:18:6A:C7
+	SHA256: CA:07:09:39:9F:EB:D6:77:DE:7A:16:74:F2:ED:18:33:FB:30:7A:5C:5E:E5:88:B8:54:30:C1:9B:73:66:74:7E
+	Signature algorithm name: SHA1withRSA
+	version: 3

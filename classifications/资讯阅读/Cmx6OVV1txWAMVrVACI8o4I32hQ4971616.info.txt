@@ -1,0 +1,65 @@
+com.asskiczve.xdcycnpsy
+538
+5.3.8
+8
+-1
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+14
+<activity name="com.kait.pistachiojoke.PistachioJokeActivity" label="睡前笑话">
+<activity screenOrientation="1" name="com.kait.pistachiojoke.MyListActivity" label="睡前笑话">
+<activity screenOrientation="1" name="com.kait.pistachiojoke.DetailActivity" label="睡前笑话">
+<activity name="net.p.y.a" theme="16973831" exported="true">
+<activity name="com.b.y.ia">
+<activity name="com.b.y.la">
+<activity excludeFromRecents="true" name="com.feiwo.view.IA" theme="16973840" launchMode="3">
+<activity name="com.feiwo.activity.PA" configChanges="160">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.pmaimen.caige.Pbb" label="">
+<activity name="com.saimen.saikluo.Sbb" theme="16973840" configChanges="176" launchMode="3">
+<activity excludeFromRecents="true" name="com.sbird.meili.LBActivity" configChanges="160">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.pbird.tiankong.LQWEActivity" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.smakey.dnbvns.sflay" configChanges="160" launchMode="2">
+<activity excludeFromRecents="true" name="com.pmakey.fgedfe.pflay" configChanges="160" label="" launchMode="3">
+6
+<service name="cn.c.y.f">
+<service process=":remote" enabled="true" name="com.t.x.s">
+<service name="com.pmaimen.caige.Pcc">
+<service name="com.saimen.saikluo.Sdd">
+<service name="com.pbird.tiankong.LAZJSc">
+<service name="com.pmakey.fgedfe.pdahjhg">
+9
+<receiver name="com.iad.kf.g">
+<receiver name="com.feiwo.receiver.InReceiver">
+<receiver name="com.feiwo.receiver.ConnectReceiver">
+<receiver name="com.pmaimen.caige.Pdd">
+<receiver name="com.saimen.saikluo.Scc">
+<receiver name="com.sbird.meili.LMReceiver">
+<receiver name="com.pbird.tiankong.LDWKReceiver">
+<receiver name="com.smakey.dnbvns.sdbdf">
+<receiver name="com.pmakey.fgedfe.pdagfwe">
+0
+Owner: CN=su, OU=su, O=su, L=sz, ST=gd, C=86
+Issuer: CN=su, OU=su, O=su, L=sz, ST=gd, C=86
+Serial number: 3f36798
+Valid from: Wed Jun 11 23:42:06 CST 2014 until: Sat May 12 23:42:06 CST 2136
+Certificate fingerprints: 
+	MD5:DF:BE:C6:FD:3F:B7:6D:F1:5A:58:FE:7C:EE:5E:E6:88
+	SHA1: 6B:08:EE:A9:E7:CC:5A:65:69:91:8B:4C:8D:7B:FF:26:8D:12:A7:CE
+	SHA256: E3:CD:9A:BE:67:A7:A5:1D:A3:E9:67:D5:27:9D:96:8A:9E:BD:46:70:3D:50:F7:D6:41:DF:05:CF:67:F7:19:E0
+	Signature algorithm name: SHA256withRSA
+	version: 3

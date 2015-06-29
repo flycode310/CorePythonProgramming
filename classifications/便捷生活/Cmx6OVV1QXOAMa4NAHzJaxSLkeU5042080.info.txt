@@ -1,0 +1,102 @@
+com.lcworld.doctoronlinepatient
+5
+1.2
+8
+17
+18
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.lcworld.doctoronlinepatient.permission.JPUSH_MESSAGE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+55
+<activity screenOrientation="1" name=".main.MainTabActivity" configChanges="160" windowSoftInputMode="18">
+<activity name=".WelcomeActivity" label="2131230762">
+<activity screenOrientation="1" name=".login.activity.LoginActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".login.activity.AuthActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".login.activity.RetakeActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".regist.activity.RegistActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.activity.ExpertActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.visit.activity.VisitActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.visit.activity.AnamnesisActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.inquiry.activity.InquiryActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.inquiry.activity.DepartmentExpertActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.inquiry.activity.ExpertInfoActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.inquiry.activity.ExpertCommentActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.inquiry.activity.ExpertCaseActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.inquiry.activity.CaseActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.inquiry.activity.PayOrderActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.consult.activity.ConsultActivity" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.activity.OnlineConsultActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".expert.visit.activity.RandomCaseActivity" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".share.activity.ShareActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".share.activity.HealthLogActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".share.activity.CommentActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".share.activity.HealthConsultActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.PersonalActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.accountcenter.activity.AccountBalanceActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.accountcenter.activity.ChargeActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.BaseInfoActivity" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.casemanager.activity.CaseManageActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.casemanager.activity.NewCaseActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.ChangePwdActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.HealthLogActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.AddHealthLogActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.MyCommentActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.MyFavoriteActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.DoctorInfoActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.MedicineInfoActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.activity.SymptomInfoActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.history.activity.QueryHistoryActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.history.activity.ClinicalhistoryActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.history.activity.HistoryCliActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.history.activity.HistoryBasicInfoActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".personal.history.activity.ConsultHistoryActivity" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.activity.MoreActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.activity.FeedBackActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.activity.FreeDeclareActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.activity.ServiceTermsActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.activity.MedicineQueryActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.activity.MedicineInfo" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.activity.PrrtvActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.activity.DiseaseInfoActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.takemanager.activity.TakeMedicineActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.takemanager.activity.NewTakeActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.takemanager.activity.AlarmAlertActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+3
+<service name=".more.takemanager.activity.AlarmService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+6
+<receiver name="com.lcworld.doctoronlinepatient.more.takemanager.receiver.AlarmReceiver">
+<receiver name=".more.takemanager.receiver.CallAlarm">
+<receiver name=".more.takemanager.receiver.BootReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.lcworld.doctoronlinepatient.receiver.MyReceiver">
+0
+Owner: CN=lcworld, OU=lcworld, O=lcworld, L=BJ, ST=BJ, C=CN
+Issuer: CN=lcworld, OU=lcworld, O=lcworld, L=BJ, ST=BJ, C=CN
+Serial number: 5254b493
+Valid from: Wed Oct 09 09:42:43 CST 2013 until: Sun Oct 03 09:42:43 CST 2038
+Certificate fingerprints: 
+	MD5:2D:9D:09:C1:44:9C:89:B2:01:21:78:6A:05:4D:F9:FC
+	SHA1: B4:B7:FA:DD:75:21:02:EC:29:64:9E:18:F8:AE:F9:F3:BF:2A:C7:91
+	SHA256: DB:12:A3:7A:5E:8D:CE:52:A6:BD:3A:06:24:93:C8:44:1E:75:74:7C:CB:0A:79:F5:8D:33:7F:9E:4F:BE:04:D9
+	Signature algorithm name: SHA1withRSA
+	version: 3

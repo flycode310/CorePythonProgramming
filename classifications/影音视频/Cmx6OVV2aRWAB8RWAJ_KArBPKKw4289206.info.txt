@@ -1,0 +1,121 @@
+com.funshion.video.mobile
+353
+2.3.0.4
+10
+16
+51
+org.adwfreak.launcher.permission.READ_SETTINGS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+net.qihoo.launcher.permission.WRITE_SETTINGS
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.fede.launcher.permission.WRITE_SETTINGS
+com.huawei.launcher2.permission.READ_SETTINGS
+com.huawei.android.launchersenior.permission.READ_SETTINGS
+com.sec.android.app.twlauncher.settings.WRITE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_USER_PRESENT
+com.huawei.launcher2.permission.WRITE_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+com.qihoo360.launcher.permission.READ_SETTINGS
+com.fede.launcher.permission.READ_SETTINGS
+org.adw.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+net.qihoo.launcher.permission.READ_SETTINGS
+com.lge.launcher.permission.WRITE_SETTINGS
+com.android.launcher.permission.WRITE_SETTINGS
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.htc.launcher.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.huawei.launcher3.permission.READ_SETTINGS
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.huawei.android.launchersenior.permission.WRITE_SETTINGS
+org.adwfreak.launcher.permission.WRITE_SETTINGS
+com.lge.launcher.permission.READ_SETTINGS
+com.qihoo360.launcher.permission.WRITE_SETTINGS
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.BROADCAST_STICKY
+com.huawei.launcher3.permission.WRITE_SETTINGS
+org.adw.launcher.permission.WRITE_SETTINGS
+com.huawei.android.launcher.permission.WRITE_SETTINGS
+com.huawei.android.launcher.permission.READ_SETTINGS
+com.sec.android.app.twlauncher.settings.READ_SETTINGS
+com.htc.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+43
+<activity screenOrientation="1" name="com.funshion.video.activity.StartActivity" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.funshion.video.activity.MainActivity" theme="2131558470" configChanges="160" label="2131492909" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.funshion.video.activity.PersonalActivity" theme="2131558473">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.funshion.video.activity.ChannelMediaActivity" configChanges="160" label="2131492909" windowSoftInputMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.funshion.video.activity.ChannelVideoV1Activity" theme="2131558472" configChanges="160" label="2131492909" windowSoftInputMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.funshion.video.activity.ChannelVarietyActivity" configChanges="160" label="2131492909" windowSoftInputMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.funshion.video.activity.ChannelPersonalizeActivity" configChanges="160" label="2131492909" windowSoftInputMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.funshion.video.activity.ChannelLiveActivity" theme="2131558472" configChanges="160" label="2131492909" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.funshion.video.activity.SearchActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.funshion.video.activity.SearchSubScriptionActivity" configChanges="160" windowSoftInputMode="50" launchMode="1">
+<activity screenOrientation="1" name="com.funshion.video.activity.SearchSubScriptionResultActivity" configChanges="160" windowSoftInputMode="50">
+<activity screenOrientation="1" name="com.funshion.video.activity.MySubScriptionActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.funshion.video.activity.DownloadActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.funshion.video.activity.DownloadJobActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.funshion.video.activity.DldingJobActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.funshion.video.activity.TopicDetailActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.funshion.video.activity.VTopicDetailActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.funshion.video.activity.SearchResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.funshion.video.activity.LoginActivity" configChanges="160">
+<activity screenOrientation="1" name="com.funshion.video.activity.LoginThirdPlatFormActivity" configChanges="160">
+<activity screenOrientation="1" name="com.funshion.video.activity.LoginFunshionActivity" configChanges="160" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.funshion.video.activity.SettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.funshion.qrcodescan.QrcodeScanActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.funshion.video.activity.FeedbackActivity" configChanges="160">
+<activity screenOrientation="1" name="com.funshion.video.activity.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name="com.funshion.video.activity.WebViewActivity" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.funshion.video.activity.SendCommentActivity" configChanges="160" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="4" name="com.funshion.video.activity.MediaPlayActivity" theme="16973830" configChanges="1184" windowSoftInputMode="50" launchMode="2">
+<activity screenOrientation="4" name="com.funshion.video.activity.VideoPlayActivity" theme="16973830" configChanges="1184" windowSoftInputMode="50" launchMode="2">
+<activity screenOrientation="4" name="com.funshion.video.activity.LivePlayEpgActivity" theme="2131558471" configChanges="1184" windowSoftInputMode="2" launchMode="2">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity screenOrientation="1" name="com.funshion.video.activity.AppManagerActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.funshion.video.activity.AppWebviewActivity" configChanges="160" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="0" name="com.funshion.video.activity.LocalPlayActivity" theme="16973831" configChanges="1184" launchMode="2">
+<activity screenOrientation="0" name="com.funshion.video.activity.FullScrnAdPlay" theme="16973834" configChanges="1184">
+<activity screenOrientation="1" name="com.funshion.player.core.NotificationActivity" theme="16973839" launchMode="3">
+<activity screenOrientation="1" name="com.funshion.video.activity.ChannelManagerActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.newxp.view.handler.umwall.AlimamaWall" configChanges="144" launchMode="2">
+<activity name="com.qq.e.ads.AdActivity" theme="16973839" configChanges="176">
+<activity screenOrientation="1" name="com.funshion.share.ui.WeiBoShareAcitivity" theme="16973837" configChanges="1184" windowSoftInputMode="4">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.funshion.video.activity.VideoNumberActivity" theme="2131558470" configChanges="160" label="2131492909" windowSoftInputMode="2" launchMode="2">
+5
+<service name="com.funshion.video.dld.DownloadService">
+<service process=":funshionnotification" name="com.funshion.player.core.NotificationService" exported="true">
+<service process=":DownloadingService" name="com.taobao.munion.base.download.DownloadingService" exported="true">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+<service enabled="true" name="com.mediav.ads.sdk.service.MvService" exported="false">
+2
+<receiver name="com.funshion.video.receiver.FSBroadcastReceiver">
+<receiver process=":alarmreceiver" name="com.funshion.video.receiver.FSAlarmReceiver">
+0
+Owner: CN=funshion, OU=funshion, O=funshion, L=beijing, ST=beijing, C=CN
+Issuer: CN=funshion, OU=funshion, O=funshion, L=beijing, ST=beijing, C=CN
+Serial number: 25b5bcdc
+Valid from: Mon Feb 25 16:48:25 CST 2013 until: Tue Feb 13 16:48:25 CST 2063
+Certificate fingerprints: 
+	MD5:B5:12:D8:D0:42:6A:78:21:19:D6:C1:EE:E2:DD:4A:0F
+	SHA1: 55:4E:AC:AF:F1:CB:45:5B:5D:DA:94:ED:72:33:F6:CA:70:4E:54:98
+	SHA256: 85:2A:F1:4B:13:BF:C5:EE:8D:BC:62:CA:41:48:22:10:AF:80:93:3A:6D:EE:28:89:40:8B:8E:62:2B:C7:6D:86
+	Signature algorithm name: SHA256withRSA
+	version: 3

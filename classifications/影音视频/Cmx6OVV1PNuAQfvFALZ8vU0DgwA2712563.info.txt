@@ -1,0 +1,47 @@
+com.ztsoft.quanplayer
+11
+2.1
+8
+18
+11
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+12
+<activity screenOrientation="1" name="com.ztsoft.quanplayer.WelcomeActivity" label="2131165197">
+<activity screenOrientation="1" name="com.ztsoft.quanplayer.MainActivity" windowSoftInputMode="32">
+<activity process=":vitamio" screenOrientation="0" name="com.ztsoft.quanplayer.VideoPlayer">
+<activity name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="176" windowSoftInputMode="3" launchMode="1">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131230735" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity excludeFromRecents="true" name="com.mfcd.ToosActivity" theme="16973835" configChanges="160" launchMode="3">
+3
+<service name="com.ztsoft.quanplayer.service.MediaScannerService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.mfcd.s.Ss">
+1
+<receiver name="com.mfcd.s.Sb">
+0
+Owner: CN=quanplayer
+Issuer: CN=quanplayer
+Serial number: 5fbef188
+Valid from: Mon Jul 07 12:57:49 CST 2014 until: Wed Jun 13 12:57:49 CST 2114
+Certificate fingerprints: 
+	MD5:A8:A2:B2:D5:40:44:2D:F0:19:E4:B4:28:3D:57:3F:38
+	SHA1: CA:3A:A0:5C:FE:ED:73:79:3E:DE:84:5C:FA:52:58:12:72:DA:F0:BA
+	SHA256: 15:25:DF:45:2D:D9:FC:8E:2D:D4:0A:20:C6:9F:F0:A8:97:55:4B:67:F8:5F:72:7B:5E:F1:99:D3:AE:42:23:21
+	Signature algorithm name: SHA256withRSA
+	version: 3

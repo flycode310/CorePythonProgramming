@@ -1,0 +1,29 @@
+com.haocheng.callrecorder_register
+1
+1.0.1
+3
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.READ_CONTACTS
+android.permission.RECORD_AUDIO
+2
+<activity screenOrientation="1" name=".MainActivity" label="2130968593">
+<activity name="ActivityDialog">
+1
+<service name="ServiceTest">
+1
+<receiver name="MyReceiver">
+0
+Owner: CN=wanglu, OU=haocheng, O=android, L=xi'an, ST=shaanxi, C=cn
+Issuer: CN=wanglu, OU=haocheng, O=android, L=xi'an, ST=shaanxi, C=cn
+Serial number: 4b46e5a0
+Valid from: Fri Jan 08 15:58:24 CST 2010 until: Sat Oct 11 15:58:24 CST 2064
+Certificate fingerprints: 
+	MD5:77:24:1A:D7:EF:BA:FC:7D:1C:44:ED:FD:70:E2:01:7A
+	SHA1: 65:D3:00:32:A4:55:AB:EF:5C:FC:0D:D1:AD:52:29:60:B7:9A:CF:FE
+	SHA256: BB:DC:EE:E6:4C:40:7E:0D:77:B5:1A:2D:CE:44:57:28:B5:F7:2D:EB:ED:23:FE:58:8C:D5:69:17:E4:FC:42:D8
+	Signature algorithm name: SHA1withRSA
+	version: 3

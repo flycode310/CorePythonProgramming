@@ -1,0 +1,39 @@
+com.xiaobaifile.tv
+5
+1.0.2
+14
+19
+8
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+6
+<activity screenOrientation="0" name="com.xiaobaifile.tv.view.MainActivity" label="2131361820" launchMode="2">
+<activity screenOrientation="0" name="com.xiaobaifile.tv.view.RemoteActivity" launchMode="2">
+<activity screenOrientation="0" name="com.xiaobaifile.tv.view.FileExplorerActivity" launchMode="2">
+<activity screenOrientation="0" name="com.xiaobaifile.tv.view.VolumeActivity" launchMode="2">
+<activity screenOrientation="0" name="com.xiaobaifile.tv.view.StartupActivity" launchMode="2">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+3
+<service name="com.xiaobaifile.tv.service.ftp.FTPServerService">
+<service name="com.xiaobaifile.tv.service.xbfile.FileScanService" label="Scan Service">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+2
+<receiver name="com.xiaobaifile.tv.view.receiver.MountReceiver">
+<receiver name="com.xiaobaifile.tv.view.receiver.MediaScannerReceiver">
+0
+Owner: CN=zhangqian, OU=xiaobaikeji, O=xiaobaikeji, L=gd, ST=gz, C=cn
+Issuer: CN=zhangqian, OU=xiaobaikeji, O=xiaobaikeji, L=gd, ST=gz, C=cn
+Serial number: 5428aac9
+Valid from: Mon Sep 15 10:03:26 CST 2014 until: Tue Jun 18 10:03:26 CST 2069
+Certificate fingerprints: 
+	MD5:1E:33:B0:59:A6:9F:9B:1D:49:88:C8:F2:2B:4F:15:C6
+	SHA1: AF:7A:54:2A:C7:92:58:37:13:D9:DB:08:2B:3E:2B:FD:2C:61:95:36
+	SHA256: 6E:4C:EA:D8:B3:B7:09:91:3B:83:A1:85:63:CF:B9:43:79:03:62:6A:3A:CA:E4:FF:D0:92:00:5A:09:61:0C:0D
+	Signature algorithm name: SHA256withRSA
+	version: 3

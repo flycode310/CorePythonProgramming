@@ -1,0 +1,76 @@
+org.zywx.wbpalmstar.widgetone.uex11337029
+119
+00.04.1208
+-1
+-1
+29
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.SEND_SMS
+android.permission.BATTERY_STATS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+16
+<activity screenOrientation="1" name="org.zywx.wbpalmstar.engine.EBrowserActivity" theme="2131427332" configChanges="160" windowSoftInputMode="34" alwaysRetainTaskState="true" launchMode="2">
+<activity name="org.zywx.wbpalmstar.platform.mam.PolicyActivity" configChanges="224" windowSoftInputMode="32">
+<activity name="org.zywx.wbpalmstar.platform.mam.PolicyInfoActivity" configChanges="224" windowSoftInputMode="32">
+<activity name="org.zywx.wbpalmstar.plugin.uexbaidumap.BaiduMapLocationActivity" configChanges="160">
+<activity name="org.zywx.wbpalmstar.plugin.uexcamera.CustomCamera" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="org.zywx.wbpalmstar.engine.EBrowserActivity" theme="2131427332" configChanges="160" windowSoftInputMode="18" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="4" name="org.zywx.wbpalmstar.plugin.ueximagebrowser.ImageWatcherActivity" theme="2131427333" configChanges="160">
+<activity name="org.zywx.wbpalmstar.plugin.ueximagebrowser.ImagePreviewActivity" theme="16973831" configChanges="160">
+<activity name="org.zywx.wbpalmstar.plugin.ueximagebrowser.PickMultiActivity" theme="16973830" configChanges="160">
+<activity name="org.zywx.wbpalmstar.plugin.ueximagebrowser.ImageReviewActivity" theme="2131427339" configChanges="160">
+<activity name="org.zywx.wbpalmstar.plugin.ueximagebrowser.PictureActivity" theme="2131427334" configChanges="160">
+<activity screenOrientation="1" name="org.zywx.wbpalmstar.plugin.uexzxing.client.android.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="org.zywx.wbpalmstar.plugin.uexzxing.client.android.BarcodeActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity name=".wxapi.WXEntryActivity" theme="2131427328" exported="true" launchMode="1">
+<activity name=".wxapi.WXPayEntryActivity" theme="2131427328" exported="true" launchMode="1">
+<activity name="com.tencent.android.tpush.XGPushActivity" theme="16973839">
+6
+<service process=":push" enabled="true" name="com.baidu.location.f">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service name="com.tencent.android.tpush.rpc.XGRemoteService" exported="true">
+<service process=":qq_push_daemon" name="com.tencent.android.tpush.service.XGDaemonService">
+<service enabled="true" name="com.tencent.android.tpush.XGDownloadService" exported="false">
+<service process=":push" enabled="true" name="org.zywx.wbpalmstar.platform.push.PushService">
+4
+<receiver name="org.zywx.wbpalmstar.platform.push.PushRecieveMsgReceiver">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="com.roy.CustomPushReceiver">
+<receiver process=":push" name="org.zywx.wbpalmstar.platform.push.PushBroadCastReceiver">
+1
+<provider authorities="org.zywx.wbpalmstar.widgetone.uex11337029.sp" name="org.zywx.wbpalmstar.base.ACEContentProvider" exported="false">
+Owner: CN=YSN, OU=ZYWX, O=DEV, L=BJ, ST=BJ, C=CN
+Issuer: CN=YSN, OU=ZYWX, O=DEV, L=BJ, ST=BJ, C=CN
+Serial number: 4dc75424
+Valid from: Mon May 09 10:40:36 CST 2011 until: Tue Feb 09 10:40:36 CST 2066
+Certificate fingerprints: 
+	MD5:D3:82:D6:71:C6:67:2C:BA:4B:87:98:09:92:CD:9D:77
+	SHA1: 49:3E:52:87:09:E1:B4:D2:B8:FF:12:6E:2C:C8:40:6D:3B:5E:4D:BB
+	SHA256: 81:DC:B7:44:99:B7:9B:2D:3B:4F:4C:5C:6F:DA:BD:68:C2:BA:7C:FD:1D:04:08:3B:EC:8E:56:0A:80:9E:67:E1
+	Signature algorithm name: SHA1withRSA
+	version: 3

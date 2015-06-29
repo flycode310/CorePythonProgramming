@@ -1,0 +1,56 @@
+com.android.calendar2
+1
+1.0
+14
+-1
+15
+android.permission.USE_CREDENTIALS
+com.google.android.googleapps.permission.GOOGLE_AUTH.mail
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_CALENDAR
+android.permission.READ_CALENDAR
+android.permission.INTERNET
+android.permission.READ_SYNC_SETTINGS
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+12
+<activity name="AllInOneActivity" theme="2131689496" exported="true" windowSoftInputMode="32" launchMode="1">
+<activity name="EventInfoActivity" theme="2131689496">
+<activity name=".event.EditEventActivity" theme="2131689496">
+<activity name="GoogleCalendarUriIntentFilter" theme="16973909" configChanges="160" label="2131558400">
+<activity name=".selectcalendars.SelectVisibleCalendarsActivity" theme="16973934" label="2131558425">
+<activity name=".selectcalendars.SelectSyncedCalendarsMultiAccountActivity" theme="16973934" label="2131558430">
+<activity name="CalendarSettingsActivity" theme="16973934" label="2131558507">
+<activity name="SearchActivity" theme="2131689496" exported="true" label="2131558480" windowSoftInputMode="3" launchMode="1">
+<activity excludeFromRecents="true" name=".alerts.AlertActivity" theme="16973943" launchMode="3">
+<activity name="CalendarTests" exported="false" label="Calendar Tests">
+<activity name="com.ztemt.event.PictureBrowserActivity" theme="2131689506" configChanges="160">
+<activity screenOrientation="1" name="com.ztemt.vcalendar.VCalendarImport" theme="16973836" configChanges="160" label="2131558400">
+4
+<service name=".alerts.AlertService">
+<service name=".alerts.DismissAllAlarmsService">
+<service name=".AsyncQueryServiceHelper">
+<service name="com.ztemt.event.ContactsBirthdayGenerateService">
+3
+<receiver name=".alerts.AlertReceiver">
+<receiver name=".alerts.RingChangeReceiver">
+<receiver name=".alerts.SMSSendStatusReceiver">
+2
+<provider authorities="com.zte.calendar.provider.eventdata" name=".database.CustomCalendarProvider">
+<provider authorities="com.android.calendar2.CalendarRecentSuggestionsProvider" name=".CalendarRecentSuggestionsProvider">
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: b3998086d056cffa
+Valid from: Wed Apr 16 06:40:50 CST 2008 until: Sun Sep 02 06:40:50 CST 2035
+Certificate fingerprints: 
+	MD5:8D:DB:34:2F:2D:A5:40:84:02:D7:56:8A:F2:1E:29:F9
+	SHA1: 27:19:6E:38:6B:87:5E:76:AD:F7:00:E7:EA:84:E4:C6:EE:E3:3D:FA
+	SHA256: C8:A2:E9:BC:CF:59:7C:2F:B6:DC:66:BE:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8
+	Signature algorithm name: MD5withRSA
+	version: 3

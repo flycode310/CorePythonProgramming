@@ -1,0 +1,96 @@
+com.forecastshare.a1
+156
+30.14
+8
+19
+15
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+58
+<activity screenOrientation="1" name="com.forecastshare.a1.WelcomeActivity" theme="2131427426" configChanges="160" label="2131361812" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.MainActivity" configChanges="160" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.forecastshare.a1.home.BargainWebActivity" configChanges="160" exported="true" launchMode="2">
+<activity screenOrientation="1" name=".account.RecommendExpertActivity" configChanges="160" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.forecastshare.a1.account.ModifyPwdActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.trade.AboutFollowMoneyAcitivty" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.more.DevModeActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name=".more.BindPhoneActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name=".more.ChangePhoneActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.lottery.ShareBargainActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="com.forecastshare.a1.trade.TradeActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.trade.MockTradeActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.home.CommentActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.user.ModifyUserActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name=".lottery.LotteryListActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.user.ModifyNameActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.user.ModifyNickActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.stock.NewsDetailActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.search.SearchActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name=".selfstock.PlateListActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name=".selfstock.PlateActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.search.SearchExpertActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.more.PushSettingAcitivity" configChanges="160" launchMode="0">
+<activity name="com.unionpay.uppay.PayActivity">
+<activity screenOrientation="1" name="com.forecastshare.a1.account.LoginActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.account.OauthInfoActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.realstock.BindStockSettingActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.trade.BuyCoinActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.realstock.RebindRealStockActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.trade.GetCoinActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name=".lottery.LotteryDetailActivty" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name=".lottery.EndedLotteryDetailActivty" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.account.ProfileActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.account.RegisterActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.stock.StockActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.more.ExpertListActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.settings.PrivateSettingActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.realstock.StartRealStockActivity" configChanges="160" exported="true" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.realstock.BindRealStockActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.realstock.BrokerListActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.more.AboutActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.more.HelpActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.base.CommonWebActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.feature.FeatureDetailActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.follow.FollowActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.follow.SettingFollowMoneyActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.expert.NormalExpertListActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.GuideLineActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.trade.TransferMoneyActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.more.UserCenterActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.more.MessageCenterActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.message.MessageDetailActivity" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="com.forecastshare.a1.more.StockPollActivity" configChanges="160" launchMode="0">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131427436" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.android.tpush.XGPushActivity">
+1
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+2
+<receiver name="com.forecastshare.a1.base.ReopenPushService">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+0
+Owner: CN=Cui Yidao
+Issuer: CN=Cui Yidao
+Serial number: 4e392b77
+Valid from: Wed Aug 03 19:05:27 CST 2011 until: Sun Jul 04 19:05:27 CST 2134
+Certificate fingerprints: 
+	MD5:07:A0:41:7E:79:DD:9F:04:A9:F3:29:40:75:D2:D3:E3
+	SHA1: A4:AD:69:F8:7E:98:EB:35:3D:F4:16:03:5C:E8:02:4F:74:D9:94:30
+	SHA256: 49:53:14:56:AE:C8:A2:58:64:E7:6B:32:EA:73:EF:51:4A:20:1E:4E:9C:2B:DA:1A:3A:D6:CB:B4:0C:A8:C0:65
+	Signature algorithm name: SHA1withRSA
+	version: 3

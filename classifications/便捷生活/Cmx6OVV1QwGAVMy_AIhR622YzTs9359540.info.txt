@@ -1,0 +1,64 @@
+com.movinapp.easypadse
+32
+3.3.5
+9
+14
+10
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+com.android.vending.BILLING
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+15
+<activity name="com.movinapp.easypad.QuickNote" label="2131230849" windowSoftInputMode="19">
+<activity name="com.movinapp.easypad.NewQuickNote" label="2131230849">
+<activity name="com.movinapp.easypad.Preferences" theme="2131099686" label="2131230874">
+<activity name="com.movinapp.easypad.QuickNoteList" label="2131230849">
+<activity name="com.movinapp.easypad.SimpleQuickNoteList" label="2131230826">
+<activity name="com.movinapp.easypad.BackupPreviewList" label="2131230820">
+<activity name="com.movinapp.easypad.BackupFiles" theme="2131099687" label="2131230849">
+<activity name="com.movinapp.easypad.ManageBackupFiles" theme="2131099687" label="2131230849">
+<activity name="com.movinapp.easypad.QuickNoteWidgetConfigure" theme="2131099687" label="2131230849">
+<activity name="com.movinapp.easypad.alarm.ReminderActivity" configChanges="160" label="2131230786">
+<activity name="com.movinapp.billing.BillingActivity" theme="2131099687" label="2131230849">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+<activity name="com.appbrain.AppBrainActivity" configChanges="4016">
+<activity excludeFromRecents="true" name="com.solids.PDActivity" exported="true" label="">
+<activity name="com.solids.PLActivity" label="">
+4
+<service name="com.movinapp.easypad.widget.QuickNoteWidget$QuickNoteWidgetService">
+<service name="com.movinapp.billing.BillingService">
+<service name="com.appbrain.AppBrainService">
+<service name="com.solids.PMService">
+15
+<receiver name="com.movinapp.easypad.widget.QuickNoteWidgetSmall" label="2131230851">
+<receiver name="com.movinapp.easypad.widget.QuickNoteWidget2x1" label="2131230852">
+<receiver name="com.movinapp.easypad.widget.QuickNoteWidgetMedium" label="2131230853">
+<receiver name="com.movinapp.easypad.widget.QuickNoteWidget3x2" label="2131230854">
+<receiver name="com.movinapp.easypad.widget.QuickNoteWidgetLarge" label="2131230855">
+<receiver name="com.movinapp.easypad.widget.QuickNoteWidget4x2" label="2131230856">
+<receiver name="com.movinapp.easypad.widget.QuickNoteWidgetXLarge" label="2131230857">
+<receiver name="com.movinapp.easypad.widget.QuickNoteWidget4x1" label="2131230858">
+<receiver name="com.movinapp.easypad.widget.QuickNoteWidget1x4" label="2131230859">
+<receiver name="com.movinapp.util.notifications.NotificationsBroadcastReceiver">
+<receiver process=":remote" name="com.movinapp.easypad.alarm.AlarmReceiver">
+<receiver name="com.movinapp.easypad.alarm.AlarmBootReceiver">
+<receiver name="com.movinapp.billing.BillingReceiver">
+<receiver name="com.appbrain.ReferrerReceiver" exported="true">
+<receiver name="com.solids.PMReceiver">
+0
+Owner: CN=panda, OU=panda, O=panda, L=jinan, ST=shandong, C=zy
+Issuer: CN=panda, OU=panda, O=panda, L=jinan, ST=shandong, C=zy
+Serial number: 530fdf40
+Valid from: Fri Feb 28 08:58:40 CST 2014 until: Sat Dec 01 08:58:40 CST 2068
+Certificate fingerprints: 
+	MD5:99:09:E0:9E:7F:D9:FD:25:C4:48:41:20:72:20:E6:1A
+	SHA1: 15:1D:F3:27:6B:8D:ED:FB:A0:17:8C:8A:A3:FC:9E:BA:78:44:24:79
+	SHA256: 7A:28:2C:3C:CB:89:CA:B1:5A:47:0E:C6:E9:F9:9E:C7:E2:AA:DE:0B:46:CF:35:34:B4:F2:00:71:B9:61:FF:71
+	Signature algorithm name: SHA1withRSA
+	version: 3

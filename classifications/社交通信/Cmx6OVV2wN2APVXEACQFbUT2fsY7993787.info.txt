@@ -1,0 +1,92 @@
+com.hueylu.wxmail
+5
+1.0.5
+8
+-1
+22
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.WRITE_CONTACTS
+com.hueylu.email.permission.READ_ATTACHMENT
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_CALENDAR
+android.permission.READ_CALENDAR
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.RECEIVE_BOOT_COMPLETED
+com.hueylu.email.permission.ACCESS_PROVIDER
+android.permission.READ_OWNER_DATA
+android.permission.INTERNET
+android.permission.READ_SYNC_SETTINGS
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+34
+<activity name="com.android.email.activity.Welcome">
+<activity name="com.android.email.activity.UpgradeAccounts" theme="16973830" configChanges="160" label="2131165431">
+<activity name="com.android.email.activity.HWelcomeActivity" theme="2131492867" configChanges="160">
+<activity name="com.android.email.activity.setup.AccountSetupBasics" theme="2131492867" exported="true">
+<activity clearTaskOnLaunch="true" name="com.android.email.activity.MainTabUi" theme="2131492866" configChanges="160" launchMode="2">
+<activity name="com.android.email.activity.SettingActivity" label="2131165477">
+<activity name="com.android.email.activity.setup.AccountSetupAccountType" theme="2131492867" label="2131165330">
+<activity name="com.android.email.activity.setup.AccountSetupIncoming" theme="2131492867" label="2131165336">
+<activity name="com.android.email.activity.setup.AccountSetupOutgoing" theme="2131492867" label="2131165353">
+<activity name="com.android.email.activity.setup.AccountSetupExchange" theme="2131492867" configChanges="160" label="2131165360">
+<activity name="com.android.email.activity.setup.AccountSetupOptions" theme="2131492867" label="2131165365">
+<activity name="com.android.email.activity.setup.AccountSetupNames" theme="2131492867" label="2131165326">
+<activity name="com.android.email.activity.setup.AccountSetupCheckSettings" theme="2131492867" configChanges="160" label="2131165321">
+<activity name="com.android.email.activity.setup.AccountSettings" theme="2131492867" label="2131165232">
+<activity android.label="2131165400" name="com.android.email.activity.setup.AccountSecurity">
+<activity name="com.android.email.activity.Debug" label="2131165208">
+<activity name="com.android.email.activity.AccountFolderList" launchMode="1">
+<activity enabled="false" name="com.android.email.activity.AccountShortcutPicker" label="2131165206">
+<activity name="com.android.email.activity.MailboxList" theme="2131492868">
+<activity name="com.android.email.activity.MessageList" theme="2131492867">
+<activity name="com.android.email.activity.FolderMessageList" launchMode="2">
+<activity name="com.android.email.activity.MessageView" theme="2131492867">
+<activity name="com.android.filemanageractivity.filemanager.FileManagerActivity" theme="2131492867">
+<activity enabled="false" name="com.android.email.activity.MessageCompose" theme="2131492867" label="2131165206">
+<activity screenOrientation="1" name="com.android.email.activity.ContactListActivity" label="2131165206">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity name="com.android.email.activity.AddContactActivity" theme="16973830" configChanges="16">
+<activity name="com.android.email.activity.EditContactActivity" theme="16973830" configChanges="16">
+<activity name="com.android.email.activity.ContactDetailActivity" theme="16973830" configChanges="16">
+<activity name="com.android.email.activity.MailLoginHelpActivity" theme="2131492867" configChanges="16">
+<activity name="com.android.email.activity.RootHelperActivity" theme="2131492867" configChanges="16">
+<activity name="com.android.email.activity.AppRecmdActivity" theme="2131492867" configChanges="16">
+8
+<service name="com.android.email.service.EmailBroadcastProcessorService">
+<service name="com.android.email.service.MailService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.android.exchange.ContactsSyncAdapterService" exported="true">
+<service name="com.android.exchange.CalendarSyncAdapterService" exported="true">
+<service enabled="true" name="com.android.exchange.SyncManager">
+<service enabled="true" name="com.android.email.service.EasAuthenticatorService" exported="true">
+<service enabled="false" name="com.android.email.service.EasAuthenticatorServiceAlternate" exported="true">
+5
+<receiver name="com.android.exchange.EmailSyncAlarmReceiver">
+<receiver name="com.android.exchange.MailboxAlarmReceiver">
+<receiver enabled="true" name="com.android.email.service.EmailBroadcastReceiver">
+<receiver description="2131165449" name="com.android.email.SecurityPolicy$PolicyAdmin" permission="android.permission.BIND_DEVICE_ADMIN" label="2131165448">
+<receiver name="com.android.email.service.NetworkReceiver">
+3
+<provider authorities="com.android.email.hueyattachmentprovider" multiprocess="true" name="com.android.email.provider.HueyAttachmentProvider" grantUriPermissions="true" readPermission="com.hueylu.email.permission.READ_ATTACHMENT">
+<provider authorities="com.android.email.hueyprovider" multiprocess="true" name="com.android.email.provider.HueyEmailProvider" permission="com.hueylu.email.permission.ACCESS_PROVIDER">
+<provider authorities="com.android.exchange.hueyprovider" multiprocess="true" name="com.android.exchange.provider.HueyExchangeProvider" permission="com.hueylu.email.permission.ACCESS_PROVIDER">
+Owner: CN=Fengxin, OU=Fengxin, O=Fengxin, L=Beijing, ST=Beijing, C=86
+Issuer: CN=Fengxin, OU=Fengxin, O=Fengxin, L=Beijing, ST=Beijing, C=86
+Serial number: 50418a0d
+Valid from: Sat Sep 01 12:07:41 CST 2012 until: Mon Aug 08 12:07:41 CST 2112
+Certificate fingerprints: 
+	MD5:50:41:E3:FB:24:E4:95:19:AB:D6:0E:D4:34:5B:84:15
+	SHA1: 25:28:F6:94:A1:88:DC:17:F8:2E:1B:6D:0C:80:99:95:32:76:AA:AE
+	SHA256: D1:E2:6D:B3:3C:8F:65:C5:AE:B9:5E:3F:03:4A:70:ED:0C:CF:1B:AA:FD:81:6D:F4:C8:65:13:25:6D:C1:A0:6B
+	Signature algorithm name: SHA1withRSA
+	version: 3

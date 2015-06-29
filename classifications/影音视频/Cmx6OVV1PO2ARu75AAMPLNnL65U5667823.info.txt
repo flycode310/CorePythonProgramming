@@ -1,0 +1,28 @@
+cn.umweb
+8
+1.8
+3
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.MODIFY_AUDIO_SETTINGS
+3
+<activity name="cn.umweb.UMWeb" configChanges="160" label="2130968576">
+<activity screenOrientation="0" name="cn.umweb.CameraPreview" configChanges="160" label="2130968576">
+<activity screenOrientation="0" name="cn.umweb.PlayMovie" configChanges="160" label="2130968576">
+0
+0
+0
+Owner: CN=Yongchang Cui, OU=Mobile, O=Emerging Asia, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Yongchang Cui, OU=Mobile, O=Emerging Asia, L=Beijing, ST=Beijing, C=CN
+Serial number: 4c2ad976
+Valid from: Wed Jun 30 13:43:18 CST 2010 until: Sun Nov 15 13:43:18 CST 2037
+Certificate fingerprints: 
+	MD5:A1:F7:8B:FE:E4:3B:10:26:4E:D1:17:9A:79:27:97:30
+	SHA1: 3F:9A:58:83:B1:87:40:7A:8E:B6:3D:41:59:58:B5:37:08:1B:7F:A4
+	SHA256: BA:E0:17:F9:4E:8D:06:D9:AE:B5:90:8B:6D:45:70:75:98:5F:83:55:34:D4:F7:BD:24:BE:A8:87:0E:B8:1E:B5
+	Signature algorithm name: SHA1withRSA
+	version: 3

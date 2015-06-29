@@ -1,0 +1,54 @@
+com.hd.sdao
+7
+1.1.2
+9
+21
+10
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+16
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131099662" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="com.hd.sdao.MainActivity" label="2131230837" launchMode="2">
+<activity screenOrientation="1" name="com.hd.sdao.welcome.WelcomeActivity">
+<activity screenOrientation="1" name="com.hd.sdao.IntroActivity">
+<activity screenOrientation="1" name="com.hd.sdao.view.ViewActivity">
+<activity screenOrientation="1" name="com.hd.sdao.search.SearchActivity">
+<activity screenOrientation="1" name="com.hd.sdao.user.login.LoginActivity">
+<activity screenOrientation="1" name="com.hd.sdao.user.UserActivity">
+<activity screenOrientation="1" name="com.hd.sdao.user.info.UserInfoActivity">
+<activity screenOrientation="1" name="com.hd.sdao.user.reg.RegActivity">
+<activity screenOrientation="1" name="com.hd.sdao.user.reg.RegInfoActivity">
+<activity screenOrientation="1" name="com.hd.sdao.setting.SettingActivity">
+5
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.umeng.message.UmengDownloadResourceService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+3
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+0
+Owner: CN=huading, OU=huading, O=huading, L=ShanTou, ST=GuangDong, C=CN
+Issuer: CN=huading, OU=huading, O=huading, L=ShanTou, ST=GuangDong, C=CN
+Serial number: cbe14cc
+Valid from: Fri Jan 16 17:41:59 CST 2015 until: Tue Jan 10 17:41:59 CST 2040
+Certificate fingerprints: 
+	MD5:B3:CC:39:56:53:E2:7F:12:86:0A:5B:0E:36:FD:39:CB
+	SHA1: 17:1B:A8:ED:34:2A:5F:02:D0:ED:23:37:68:A4:25:01:44:35:54:26
+	SHA256: B2:20:FB:9A:BE:D7:B2:57:0F:4C:18:E3:42:29:1E:08:49:8B:13:21:78:40:9E:8A:2A:36:77:39:40:E9:84:45
+	Signature algorithm name: SHA256withRSA
+	version: 3

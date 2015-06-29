@@ -1,0 +1,64 @@
+com.brid.awesomenote
+120102
+2.1.2
+16
+-1
+20
+android.permission.USE_CREDENTIALS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.sec.android.provider.badge.permission.WRITE
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.GET_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_CALENDAR
+android.permission.READ_CALENDAR
+android.permission.CAMERA
+android.permission.BLUETOOTH
+com.sec.android.provider.badge.permission.READ
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+15
+<activity name=".a_AwesomeNote" configChanges="1184" label="2131296256" windowSoftInputMode="32">
+<activity name=".a_emp" theme="16973840" configChanges="1184" label="2131296256">
+<activity name=".ui.setting.a_SettingMain" theme="16974064" configChanges="1184" label="2131296256">
+<activity name=".ui.setting.a_SettingWebView" theme="16974064" configChanges="1184" label="2131296256">
+<activity name=".ui.popup.p_Main_MapView" theme="16973840" configChanges="1184" label="2131296256" windowSoftInputMode="16">
+<activity name=".ui.popup.p_Main_MapView_c" theme="16973840" configChanges="1184" label="2131296256" windowSoftInputMode="16">
+<activity name=".ui.main.a_SDrawing" theme="16973840" configChanges="1152" label="2131296256">
+<activity name=".ui.popup.p_Main_Bluetooth" theme="16973840" configChanges="1184" label="2131296256" windowSoftInputMode="16">
+<activity name=".ui.popup.p_Setting_Sync_Evernote" theme="16973840" configChanges="1184" label="2131296256" windowSoftInputMode="16">
+<activity name=".ui.popup.p_Setting_Sync_GoogleDrive" theme="16973840" configChanges="1184" label="2131296256" windowSoftInputMode="16">
+<activity name=".ui.setting.s_Sync_Evernote" theme="2131361810" configChanges="1184" label="2131296256" windowSoftInputMode="16">
+<activity name="com.evernote.client.oauth.android.EvernoteOAuthActivity" theme="2131361810" configChanges="1184" label="2131296256" windowSoftInputMode="16">
+<activity name="com.google.drive.oauth.android.GoogleDriveOAuthActivity" theme="2131361810" configChanges="1184" label="2131296256" windowSoftInputMode="16">
+<activity name=".ui.setting.s_Sync_GoogleDrive" theme="2131361810" configChanges="1184" label="2131296256" windowSoftInputMode="16">
+<activity name=".appwidget.CameraTempActivity" theme="16973840" configChanges="1184" label="2131296256">
+3
+<service name=".appwidget.AppWidgetService" permission="android.permission.BIND_REMOTEVIEWS">
+<service name=".appwidget.AppWidgetThumbService" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.brid.awesomenote.ui.setting.SyncService">
+6
+<receiver name=".appwidget.AppWidgetProviders">
+<receiver name=".appwidget.AppWidgetProviders_3_1">
+<receiver name=".appwidget.AppWidgetThumb">
+<receiver name=".appwidget.ChangedData">
+<receiver enabled="true" name=".comm.AlarmReceiver" exported="false">
+<receiver process=":remote" name="com.brid.awesomenote.ui.setting.SyncReceiver">
+0
+Owner: O=Ocube
+Issuer: O=Ocube
+Serial number: 50b40e9f
+Valid from: Tue Nov 27 08:51:43 CST 2012 until: Thu Nov 20 08:51:43 CST 2042
+Certificate fingerprints: 
+	MD5:25:71:89:A3:B5:B5:4D:D0:DA:D6:07:AC:04:39:7B:48
+	SHA1: 3C:F9:4D:21:EA:3A:4F:3C:FB:CB:D4:02:7D:ED:3E:F8:90:58:6D:6C
+	SHA256: 3E:EC:4E:1D:14:F0:42:B6:9F:34:5C:CE:66:62:DC:35:F6:3D:BA:0B:F9:9A:FB:E8:3D:78:A1:BB:6C:D7:7A:0D
+	Signature algorithm name: SHA1withRSA
+	version: 3

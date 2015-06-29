@@ -1,0 +1,25 @@
+com.lingmi.feiji2
+1
+1.0
+7
+10
+3
+android.permission.READ_PHONE_STATE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+2
+<activity screenOrientation="1" name="com.fighter.MainActivity" theme="16973831" configChanges="160" label="2130968579" launchMode="2">
+<activity name="cn.egame.terminal.paysdk.EgamePayActivity" theme="16973841">
+0
+0
+0
+Owner: CN=ruixun
+Issuer: CN=ruixun
+Serial number: 516ef983
+Valid from: Mon Mar 24 01:14:00 CST 2014 until: Fri Mar 16 01:14:00 CST 2046
+Certificate fingerprints: 
+	MD5:E7:AC:E1:05:CE:79:0D:62:87:BC:46:C5:B6:3B:38:B6
+	SHA1: 9F:26:6E:83:E3:2A:B9:72:07:81:47:A5:32:51:00:24:27:59:0A:BC
+	SHA256: B1:A0:E4:38:2F:96:1E:5D:EB:3B:C8:B0:F0:08:D0:60:64:6C:2C:BE:D1:B3:77:95:36:CF:3B:49:26:B3:3F:84
+	Signature algorithm name: SHA256withRSA
+	version: 3

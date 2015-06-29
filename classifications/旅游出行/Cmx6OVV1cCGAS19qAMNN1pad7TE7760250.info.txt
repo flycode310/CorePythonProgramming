@@ -1,0 +1,277 @@
+com.gift.android
+45
+7.0.0
+8
+18
+27
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.CLEAR_APP_CACHE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+224
+<activity screenOrientation="1" name="com.gift.android.activity.WelcomeActivity" theme="2131558422" label="2131492925">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.gift.android.activity.TestActivity">
+<activity screenOrientation="1" name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.wxapi.WXEntryActivity" theme="2131558476" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.wxapi.WXPayEntryActivity" theme="2131558476" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.activity.ShareActivitySina">
+<activity screenOrientation="1" name="com.gift.android.activity.ShareActivityQQ">
+<activity screenOrientation="1" name="com.gift.android.activity.ShareActivityQZone">
+<activity screenOrientation="1" name="com.gift.android.activity.ShareActivityQZoneBlog">
+<activity screenOrientation="1" name="com.gift.android.activity.ShareActivityTencentWeibo">
+<activity screenOrientation="1" name="com.gift.android.splash.SplashActivity" theme="2131558422">
+<activity screenOrientation="1" name="com.gift.android.splash.SplashActivity700" theme="2131558423">
+<activity screenOrientation="1" name="com.gift.android.splash.SplashTwoActivity" theme="2131558422">
+<activity screenOrientation="1" name="com.gift.android.activity.MainActivity" uiOptions="1" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.activity.NearbyActivity" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelCardPayActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelOrderContactActivity">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelCitySelectActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.ReSendCertActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.RegisterActivity">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelKeywordActivity">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelKeywordSearchActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.ImageGalleryActivity">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelPayOrderActivity">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelChooseCardActivity">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelIndexSearchActivity">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelOrderFillActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.activity.WebViewIndexActivity" uiOptions="1" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.gift.android.activity.WebViewPayActivity" uiOptions="1">
+<activity screenOrientation="1" name="com.gift.android.favorite.activity.MineFavoriteActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.MineUserSetActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.search.V5IndexSearchActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.specialprice.activity.V5SpecialpriceActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.activity.MineUserAlterPassActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.MineUserAlterNameActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.CropImageActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusCunkuanUpdateMobileActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.ModifyMailActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.EditUserInfoActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusCunkuanLostMobileActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusCunkuanUpdateSecondActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusCunkuanBindingMobileActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusCunkuanChongzhiActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusChongzhiWebviewPayActivity" uiOptions="1">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusChongzhiSuccessActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.comm.library.AQRCodeActivity">
+<activity screenOrientation="1" name="com.gift.android.comm.library.AQRCaptureActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.gift.android.activity.MineCommentBucketActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.MineCommentGridActivity">
+<activity screenOrientation="1" name="com.gift.android.groupon.activity.SpecialSaleActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.groupon.activity.GrouponActivity">
+<activity screenOrientation="1" name="com.gift.android.groupon.activity.GrouponDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.activity.LoginActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.GetBackPasswordActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.MoreFeedBackActivity">
+<activity screenOrientation="1" name="com.gift.android.order.activity.MineOrderDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.order.activity.MineHotelOrderDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.order.activity.MineOrderActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.MineCouponActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.ElectronTicketActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.MineCommentActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.MineCommentWriteActivity" configChanges="1248" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.activity.MineHistoryActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.MoreAboutActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.UseCouponActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.ReMaiActivity">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.TicketActivity" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.TicketFilterActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.TicketFindActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.TicketOrderFillActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.ZhuTiYouActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.gift.android.activity.FreenessListActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.OrderContactActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.gift.android.activity.CommonInfoActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.CommonTraverActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.CommonAddressActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.ContactTypeActivity">
+<activity screenOrientation="1" name="com.gift.android.search.TicketSeacherActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.gift.android.ticket.activity.TicketNearByMapActivity" theme="2131558424" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.TicketDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.TicketDetailFootRoutActivity" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.TicketPlaceActivityDetailActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.WebViewActivity" uiOptions="1" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.activity.WebViewActivitySina" uiOptions="1" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.activity.WebViewActivityTencent" uiOptions="1" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.activity.WebViewAlipayActivity" uiOptions="1" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.gift.android.ticket.activity.TicketLocationMapActivity" theme="2131558424" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.activity.PullToRefreshGridActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayAbroadActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayDomesticActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayNearbyActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayOutsetCityActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayListActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayDetailActivity" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.search.HolidaySearchActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayFillOrderActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayRecommentActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayChangeHotelActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayChangeTrafficActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayChangeFreetripActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayChangeUpdateActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayChangeTicketActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayChangeRelationActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayChangeHotelCombActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayChangeInsuranceRelationActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayOrderActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayNearbyPlayPeopleActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.IntentionOrderFinishActivity">
+<activity screenOrientation="1" name="com.gift.android.holiday.activity.HolidayDomesticMoreActivity">
+<activity screenOrientation="1" name="com.gift.android.ticket.activity.TicketStationActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.gift.android.activity.FreedomWalkerActivity" theme="2131558424" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.gift.android.activity.FreedomWalkerMapActivity" theme="2131558424" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.orderpay.activity.BookOrderPayActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.orderpay.activity.BookOrderPayVSTActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.orderpay.activity.BookOrderCunKuanPayActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.orderpay.activity.OrderPayFinishActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.activity.DateSelectActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.activity.ExtraPrductIntroActivity" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.gift.android.activity.NearbyMapTicketActivity" theme="2131558424">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.gift.android.hotel.activity.HotelListActivity" theme="2131558424">
+<activity screenOrientation="1" name="com.gift.android.hotel.activity.HotelNearbyActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SplashActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayMainActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayUserCreditActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayUserDebitActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayOnUserTelActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.PayResultLoseActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.RegisterActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.RegisterResultActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.UserProtocalActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserCardManageActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserUserManageActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.changePswActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.changeTelActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardCreditActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardDebitActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardPanActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.OnUserBindCardResultActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.SupportActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.GetpassActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AuthBindCardActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unionpay.upomp.bypay.activity.AboutActivity" theme="2131558400" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.gift.android.activity.RaidersActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.RaidersAllChinaActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.activity.RaidersAllForeignActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.activity.RaidersOfficialActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.RaidersOfficialReaderActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.RaidersAllCitySearch" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.gift.android.activity.OnLineBackMoneyActivity">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusAccountActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusAccountShouru">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusAccountZhichu">
+<activity screenOrientation="1" name="com.gift.android.activity.BonusAccountTuikuan">
+<activity screenOrientation="1" name="com.gift.android.ship.activity.YouLunActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.ship.activity.ShipListFramgmentActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.ship.activity.ShipDetailsFragmentActivity" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.ship.activity.ShipCompanyFramgmentActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.gift.android.search.ShipSearchFragmentActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.ship.activity.ShipBarnSelectFragmentActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.gift.android.ship.activity.ShipOrderFillActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.ship.activity.ShipDateSelectActivity" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.ship.activity.No7ShipSearchActivity" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.traffic.activity.TrafficFragmentActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.gift.android.visa.activity.VisaIndexActivity">
+<activity screenOrientation="1" name="com.gift.android.visa.activity.VisaProvinceSelectedActivity" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.gift.android.visa.activity.VisaAllCountryActivity">
+<activity screenOrientation="1" name="com.gift.android.visa.activity.VisaListActivity">
+<activity screenOrientation="1" name="com.gift.android.visa.activity.VisaDetailsActivity">
+<activity screenOrientation="1" name="com.gift.android.visa.activity.VisaMaterialDetailActivity">
+<activity screenOrientation="1" name="com.gift.android.visa.activity.VisaOrderFilledActivity" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.gift.android.visa.activity.VisaIndexHelpActivity">
+<activity screenOrientation="1" name="com.gift.android.visa.activity.VisaDateSelectActivity">
+<activity name="com.gift.android.activity.SchemeControlActivity" label="2131492925">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelSearchActivty" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelSearchResultActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.EditTravelActivity" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelNoteActivity">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.RelevancePoiActivity">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.RelevanceTravelProductActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelPicturesActivity">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.PoisSortActivity">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.ChangeTravelCoverActivity">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.AddPoiActivity">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.MineOfflineTravelActivity" launchMode="2">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.MineTravelActivity">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.SearchMoreDestinationsActivity">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.SettingActivity">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelDetailActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelDetailInfoActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.MoreDestinationsSelectActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelDetailiInfoCommentFragmentActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelDetailiInfoLargePicActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelDetailiInfoFreeWalkerListSpecialActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelDetailiInfoPersonalHomePageActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.DestinationMoreActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.DestinationMorePoisActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelDetailiInfoCommentActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.gift.android.travel.activity.TravelDetailMap" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.gift.android.qrcode.activity.QRCodeListActivity">
+<activity screenOrientation="1" name="com.gift.android.qrcode.activity.QRCodeDetailActivity" launchMode="1">
+<activity name="com.gift.android.baidu.BaiduPayActivity" theme="2131558415" configChanges="1248">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.WelcomeActivity" theme="2131558418" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PayResultActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdCheckActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="4">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdSetActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="4">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdConfirmActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="4">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdPayActivity" theme="2131558416" configChanges="1248" exported="false" windowSoftInputMode="4">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PwdPaySmsActivity" theme="2131558416" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.WebViewActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindFirstActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="16">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindSecondActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindSecondCreditAcitvity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindSecondCredit2Activity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.BindThirdActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="16">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.SelectBindCardActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.LoginActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.PassNormalizeActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.baidu.android.pay.ui.OrderHomeActivity" theme="2131558415" configChanges="1248" exported="false" windowSoftInputMode="2">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5AuthActivity" configChanges="224" exported="false">
+4
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.gift.android.travel.utils.SynchronousTravelService">
+<service name="com.gift.android.DownloadFileService">
+<service name="org.eclipse.paho.android.service.MqttService">
+2
+<receiver name="com.gift.android.push.PushBroadcastReceiver" exported="false">
+<receiver name="com.lvmama.push.ScreenUnlockReceiver">
+0
+Owner: CN=dengcheng, OU=joyu, O=www.lvmama.com, L=jiading, ST=shanghai, C=ZH
+Issuer: CN=dengcheng, OU=joyu, O=www.lvmama.com, L=jiading, ST=shanghai, C=ZH
+Serial number: 4e607a8f
+Valid from: Fri Sep 02 14:41:19 CST 2011 until: Sat Jun 05 14:41:19 CST 2066
+Certificate fingerprints: 
+	MD5:AE:DE:15:D1:A0:FC:E9:A6:C7:09:D0:40:B1:93:77:49
+	SHA1: 17:3E:05:8B:79:65:1B:25:83:41:5A:1D:58:99:EF:D4:B1:28:BA:FA
+	SHA256: 59:27:FE:05:EE:A0:C1:90:F6:41:FB:67:8C:4A:BE:0E:5D:A7:E1:CC:BB:39:48:A1:55:A6:2E:38:77:71:75:56
+	Signature algorithm name: SHA1withRSA
+	version: 3

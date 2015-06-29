@@ -1,0 +1,140 @@
+com.cn7782.safe.android
+34
+1.0.6
+7
+14
+22
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+com.cn7782.safe.android.permission.JPUSH_MESSAGE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+81
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.StartActivity" theme="16973833" label="2131165184">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.WeclomeActivity">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.CKActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.mainui.MainActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.mainui.HomeActivity" theme="2131230754">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.mainui.ToDoActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.mainui.MemberMainActivity" theme="2131230755">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.mainui.WorkMainActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.mainui.SettingMainActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.findpwd.InputPhoneActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.findpwd.ResetPwdActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.AboutActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.UserAgreeActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.FeedBackActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.HelpActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.discuss.DiscussListActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.discuss.DiscussAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.discuss.DiscussDetailActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.todo.TodoMainActivity" theme="2131230754">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.todo.ApprToDoActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.todo.XJTaskToDoActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.todo.ReportToDoActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.todo.TaskToDoActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.LoginActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.RegisterActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.PolistActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.event.EventDetailActivity" theme="2131230721" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.event.ImageDetailActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.EventAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.event.EventKQAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.event.EventQDAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.event.EventGGAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.event.EventSBAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.event.EventFXActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.xj.XJMainActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.xj.XJReportActiivty" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.xj.XJDetailActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.xj.XJFinishDetailActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.xj.XJSetListActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.xj.XJTaskAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.xj.XJAddressSelActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.xj.XJSetFinishListActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.qj.QJMainActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.qj.QJAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.bx.BXMainActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.bx.BXAddActivity" theme="2131230721" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.qppr.ApprMainActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.task.MyTaskListActivity" theme="2131230734">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.task.ICreateTaskListActivity" theme="2131230734">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.task.TaskAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.task.TaskUpdateActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.task.MyTaskDetailActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.task.TaskCommitHisActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.task.TaskCommitHisDetailActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.customer.CustomerMainActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.customer.CustomerDetailAcitivty" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.customer.CustomerAddActivity" theme="2131230721" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.customer.CustomerListActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.customer.CustomerSubitHisActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.dep.DepAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.dep.DepListActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.dep.AllUserActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.dep.DepListUserActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.dep.DepNoDepUserListActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.dep.DepSetListActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.UserListChooseActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.UserListChooseActivity2" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.UserListChooseActivity3" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.contactsel.ContactListActivity" theme="2131230721" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.PersonInfoActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.MemberWorkAndLocActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.MemberContactDetailActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.HisLocationActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.LocationDetailActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.DelMemberActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.KQSetActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.MemberAddActivity" theme="2131230721">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.ChangePwdActivity" theme="2131230721" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.voice.ChatActivity" configChanges="160">
+<activity screenOrientation="1" name="com.cn7782.safe.android.activity.voice.MyChatActivity" configChanges="160" windowSoftInputMode="18">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+9
+<service name="com.cn7782.safe.android.service.CoreService">
+<service name="com.cn7782.safe.android.service.LocMonitorService">
+<service name="com.cn7782.safe.android.service.FunEventUploadService">
+<service name="com.cn7782.safe.android.util.background.BackGroudSendService">
+<service enabled="true" name="com.cn7782.safe.android.activity.voice.service.OffLineMsgReceiveService" label="OffLineMsgReceiveService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+8
+<receiver name="com.cn7782.safe.android.receiver.ScreenUnlockReceiver">
+<receiver name="com.cn7782.safe.android.receiver.RecordLocReceiver">
+<receiver name="com.cn7782.safe.android.receiver.BootReceiver">
+<receiver name="com.cn7782.safe.android.receiver.AlarmReceiver">
+<receiver name="com.cn7782.safe.android.activity.voice.keepalive.KeepAliveReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.cn7782.safe.android.receiver.MyJpushReceiver">
+0
+Owner: CN=7782
+Issuer: CN=7782
+Serial number: 51d14dce
+Valid from: Mon Jul 01 17:37:18 CST 2013 until: Sun Jun 17 17:37:18 CST 2068
+Certificate fingerprints: 
+	MD5:50:C1:43:77:6A:EC:25:B2:A0:70:CA:E6:34:16:E5:93
+	SHA1: F2:F2:4C:FE:D5:5E:77:2C:D5:A6:43:2E:29:7C:26:E0:19:F8:FD:B7
+	SHA256: 5F:6E:F7:71:B5:AF:93:03:73:3C:8A:61:43:69:F7:39:68:29:3E:83:4F:85:9B:F6:D6:7D:8A:2B:8F:EA:34:3E
+	Signature algorithm name: SHA1withRSA
+	version: 3

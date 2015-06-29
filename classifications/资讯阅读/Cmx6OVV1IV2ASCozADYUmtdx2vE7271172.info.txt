@@ -1,0 +1,42 @@
+com.Novel01
+5
+3.3.8
+7
+-1
+8
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+11
+<activity name=".TestStart" label="2131099649">
+<activity name=".TestNovel">
+<activity name=".setting.TestHop">
+<activity name=".DownLoad.TestListView">
+<activity name=".DownLoad.TestDownList">
+<activity name=".TestLayout">
+<activity name=".TestNovePopupwindow" theme="16973835" label="关于:">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity name="net.miidi.credit.MiidiWebViewActivity">
+1
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+2
+<receiver name="MyReceiver">
+<receiver name="net.miidi.credit.CPAFeeReceiver">
+0
+Owner: CN=ll
+Issuer: CN=ll
+Serial number: 4fdd9637
+Valid from: Sun Jun 17 16:32:55 CST 2012 until: Thu Jun 11 16:32:55 CST 2037
+Certificate fingerprints: 
+	MD5:87:5E:60:D7:3E:68:B5:D8:1B:D3:15:ED:D4:21:97:7A
+	SHA1: 5C:AA:50:F4:4F:D2:75:61:D7:C6:66:4F:67:72:06:AB:D1:A7:13:55
+	SHA256: 66:DB:BA:BA:F6:81:BF:9A:69:09:4C:39:66:F3:23:3E:9F:14:21:B9:6C:3C:ED:A0:F9:7A:ED:2F:A7:FB:23:D8
+	Signature algorithm name: SHA1withRSA
+	version: 3

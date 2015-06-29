@@ -1,0 +1,51 @@
+com.ada.app.notaserver
+1
+1.0.1
+8
+21
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.SET_DEBUG_APP
+android.permission.GET_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+8
+<activity name="com.ada.app.notaserver.MainActivity" theme="16973840" exported="true" label="2131034114">
+<activity name="com.ada.app.notaserver.DeleteActivity" theme="16973840" exported="true" label="2131034159">
+<activity name="com.ada.app.notaserver.NoActivity" theme="16973840" label="2131034160">
+<activity name="com.adasdk.ui.SplashActivity" theme="2131099650">
+<activity name="com.adasdk.ui.MsgActivity" theme="2131099652" exported="true">
+<activity name="com.adasdk.ui.WebActivity" theme="2131099650" exported="true">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity excludeFromRecents="true" name="neo.proxy.ToolActivity" theme="16973835" configChanges="160" launchMode="3">
+3
+<service process=":wait" name="com.adasdk.pp.AdaService" exported="false">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="neo.proxy.FastService" exported="false">
+4
+<receiver name="com.adasdk.pp.BBR" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver name="com.adasdk.pp.AlarmReceiver" exported="false">
+<receiver name="com.adasdk.pp.DownloadApkReceiver">
+<receiver name="neo.proxy.DistributeReceiver" exported="false">
+0
+Owner: CN=ada, OU=ada, O=ada, L=jiangsu, ST=wuxi, C=CN
+Issuer: CN=ada, OU=ada, O=ada, L=jiangsu, ST=wuxi, C=CN
+Serial number: 422e158e
+Valid from: Tue Jun 10 09:33:35 CST 2014 until: Sun May 31 09:33:35 CST 2054
+Certificate fingerprints: 
+	MD5:1F:D6:5E:3B:C5:2F:57:BB:09:3C:73:EE:79:34:C2:F1
+	SHA1: D3:E3:BD:E6:9B:54:66:FA:D6:37:F3:68:5D:61:53:F9:89:D2:45:75
+	SHA256: FC:DC:17:41:37:4B:9D:0C:5C:20:92:C3:80:17:7C:B6:0F:4A:74:53:DD:8A:7D:99:A2:07:31:5A:CE:D7:C4:1D
+	Signature algorithm name: SHA256withRSA
+	version: 3

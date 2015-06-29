@@ -1,0 +1,146 @@
+com.wise.zssh
+1
+4.0.2
+8
+15
+22
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.ACCESS_LOCATION
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.REORDER_TASKS
+android.permission.ACCESS_GPS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.WAKE_LOCK
+96
+<activity screenOrientation="1" name=".main.MainIndexActivity" configChanges="160">
+<activity name=".main.IndexerActivity">
+<activity name=".main.CatalogActivity">
+<activity name=".main.CatalogGoodsActivity">
+<activity name=".main.LbsActivity">
+<activity name=".main.LbsShopsActivity">
+<activity name=".main.Theme1Activity">
+<activity name=".main.Theme2Activity">
+<activity name=".main.Theme3Activity">
+<activity name=".main.Theme4Activity">
+<activity screenOrientation="1" name=".detail.InfoDetailsActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".detail.SupplyDetailsActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".detail.BuyDetailsActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".detail.DetailCommentActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".detail.ShopsDetailsActivity" configChanges="160" windowSoftInputMode="2">
+<activity name=".main.BusinessActivity">
+<activity name=".main.ShopActivity">
+<activity name=".main.SearchActivity">
+<activity screenOrientation="1" name=".main.MoreActivity" configChanges="160">
+<activity screenOrientation="1" name=".more.AboutUSActivity" configChanges="160">
+<activity screenOrientation="1" name=".more.UnionActivity" configChanges="160">
+<activity screenOrientation="1" name=".view.ecommerce.CreateOrder" configChanges="160">
+<activity screenOrientation="1" name=".more.WeiboSettingActivity" configChanges="160">
+<activity screenOrientation="1" name=".more.FeedbackActivity" configChanges="160" windowSoftInputMode="16">
+<activity name=".detail.DetailShareActivity" theme="2131427340">
+<activity name="com.tencent.weibo.webview.OAuthV2AuthorizeWebView" label="2131361792" windowSoftInputMode="16">
+<activity name="com.weibo.net.ShareActivity" windowSoftInputMode="32">
+<activity name=".model.MapActivity">
+<activity name=".model.GoogleMapActivity" configChanges="128">
+<activity name=".model.GoogleMapBrowserActivity" configChanges="128">
+<activity name=".main.LoginActivity" launchMode="2">
+<activity name=".main.ReferActivity">
+<activity name=".model.SearchLineActivity">
+<activity screenOrientation="1" name=".more.MorePush">
+<activity screenOrientation="1" name=".buy.ItemDetailActivity" windowSoftInputMode="48">
+<activity screenOrientation="1" name=".buy.OrderDetailActivity">
+<activity screenOrientation="1" name=".buy.CartActivity">
+<activity screenOrientation="1" name=".buy.ReceiveAddressActivity">
+<activity screenOrientation="1" name=".buy.PayWayActivity">
+<activity screenOrientation="1" name=".buy.MyOrdersActivity">
+<activity screenOrientation="1" name=".view.ecommerce.ECMainContainerActivity" launchMode="2">
+<activity screenOrientation="1" name=".view.ecommerce.HomeActivity">
+<activity screenOrientation="1" name=".view.ecommerce.HomeActivity0">
+<activity screenOrientation="1" name=".view.ecommerce.CatalogActivity">
+<activity screenOrientation="1" name=".newview.CatalogActivity_Two">
+<activity screenOrientation="1" name=".newview.HotShopActivity">
+<activity screenOrientation="1" name=".newview.ShopActivity_Two">
+<activity screenOrientation="1" name=".newview.Shop2DetailActivity">
+<activity screenOrientation="1" name=".newview.InfoActivity_Two">
+<activity screenOrientation="1" name=".newview.InfoActivity3">
+<activity screenOrientation="1" name=".newview.ShopActivity3">
+<activity screenOrientation="1" name=".newview.LbsActivity3">
+<activity screenOrientation="1" name=".newview.CatalogActivity3">
+<activity screenOrientation="1" name=".newview.News2DetailActivity">
+<activity screenOrientation="1" name=".view.ecommerce.InfoActivity">
+<activity screenOrientation="1" name=".view.ecommerce.LbsActivity" launchMode="2">
+<activity screenOrientation="1" name=".view.topic.MainContainerActivity">
+<activity screenOrientation="1" name=".view.topic.TopicActivity">
+<activity screenOrientation="1" name=".view.topic.TopicDetailActivity">
+<activity screenOrientation="1" name=".view.topic.TopicMoreActivity">
+<activity screenOrientation="1" name=".view.ecommerce.MoreActivity">
+<activity screenOrientation="1" name=".view.ecommerce.ShopActivity">
+<activity screenOrientation="1" name=".view.ecommerce.AboutActivity">
+<activity screenOrientation="1" name=".view.ecommerce.MicroBlogActivity">
+<activity screenOrientation="1" name=".view.ecommerce.FeedBackActivity">
+<activity screenOrientation="1" name=".view.ecommerce.LbsAreaActivity" theme="2131427340">
+<activity screenOrientation="1" name=".view.ecommerce.LbsShopsActivity">
+<activity screenOrientation="1" name=".view.ecommerce.UnionActivity">
+<activity screenOrientation="1" name=".view.ecommerce.NotificationActivity">
+<activity screenOrientation="1" name=".view.ecommerce.LoginActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".view.ecommerce.ECShopsDetailsActivity" launchMode="2">
+<activity screenOrientation="1" name=".view.ecommerce.ECInfoDetailsActivity">
+<activity screenOrientation="1" name=".view.ecommerce.ECDetailCommentActivity">
+<activity screenOrientation="1" name=".view.ecommerce.CatalogGoodsActivity">
+<activity screenOrientation="1" name=".view.ecommerce.ECSupplyDetailsActivity">
+<activity screenOrientation="1" name=".view.ecommerce.SearchActivity">
+<activity screenOrientation="1" name=".view.ecommerce.CartActivity">
+<activity screenOrientation="1" name=".view.ecommerce.MyOrdersActivity">
+<activity screenOrientation="1" name=".view.ecommerce.ReferActivity">
+<activity screenOrientation="1" name=".view.ecommerce.ItemDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".view.ecommerce.ReceiveAddressActivity">
+<activity screenOrientation="1" name=".view.ecommerce.PayWayActivity">
+<activity screenOrientation="1" name=".view.ecommerce.OrderDetailActivity">
+<activity screenOrientation="1" name=".view.ecommerce.WebViewActivity">
+<activity screenOrientation="1" name=".view.ecommerce.HomeActivty_NewOne">
+<activity screenOrientation="1" name=".view.ecommerce.HomeActivity_custom">
+<activity screenOrientation="0" name="com.wise.zssh.widget.videoview.VideoPlayerActivity">
+<activity screenOrientation="1" name=".view.ecommerce.HomeActivty_NewTwo">
+<activity screenOrientation="1" name=".view.ecommerce.SearchViewActivity">
+<activity screenOrientation="1" name=".view.ecommerce.CreateOrderListActivity">
+<activity screenOrientation="1" name=".view.ecommerce.SupplyDetailChooseActivity" theme="2131427346">
+<activity screenOrientation="1" name=".view.ecommerce.AddressActivity">
+<activity screenOrientation="1" name=".view.ecommerce.AddShoppingAdressActivity">
+<activity screenOrientation="1" name=".view.ecommerce.QQWeiboActivity">
+<activity name="com.qq.e.ads.AdActivity" theme="16973839">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+5
+<service name=".push.PushService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+3
+<receiver name=".push.BootBroadcastReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver enabled="true" name=".push.WiseBroadcastReceiver">
+0
+Owner: CN=zssh
+Issuer: CN=zssh
+Serial number: 2e3bf665
+Valid from: Fri Jun 27 14:37:37 CST 2014 until: Sat Jun 14 14:37:37 CST 2064
+Certificate fingerprints: 
+	MD5:C0:55:65:0D:9D:F9:89:75:AD:34:52:8D:BD:CB:27:9C
+	SHA1: F3:28:9D:65:59:5D:58:51:3E:A2:4A:D6:57:7B:5D:12:D9:1E:A0:D0
+	SHA256: AA:5E:87:32:FB:9E:98:82:5A:E4:3E:74:C9:E8:70:92:5C:24:C0:7D:0D:10:94:0A:6B:15:48:D2:50:31:1B:48
+	Signature algorithm name: SHA256withRSA
+	version: 3

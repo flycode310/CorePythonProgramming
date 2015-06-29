@@ -1,0 +1,33 @@
+com.xyj_xiamen
+1
+1.0
+-1
+-1
+3
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+10
+<activity name=".acti_splash" label="2130968577">
+<activity name=".acti_main">
+<activity name=".acti_citywarning">
+<activity name=".acti_jingqu">
+<activity name=".acti_jingqu_other">
+<activity name=".acti_jingqu_wenzhanglist">
+<activity name=".acti_content">
+<activity name=".acti_pinglun">
+<activity name=".acti_about">
+<activity name=".acti_weather">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4dc75e3a
+Valid from: Mon May 09 11:23:38 CST 2011 until: Tue May 08 11:23:38 CST 2012
+Certificate fingerprints: 
+	MD5:BE:9A:06:F7:3E:BD:BE:3A:8B:66:6B:81:97:D2:83:9D
+	SHA1: 18:06:F8:1D:87:2C:71:D9:F4:AD:C4:26:54:76:B4:D2:2A:AB:34:D3
+	SHA256: 4B:F7:22:CC:6D:7F:1B:25:14:A4:68:42:5B:B8:90:FC:74:97:69:4E:E7:82:12:68:B3:38:49:C1:FE:22:1D:30
+	Signature algorithm name: SHA1withRSA
+	version: 3

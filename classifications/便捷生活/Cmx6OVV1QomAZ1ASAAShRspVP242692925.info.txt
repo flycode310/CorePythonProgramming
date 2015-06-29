@@ -1,0 +1,39 @@
+wing.android.project
+2
+1.1
+3
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name="MainActivity" label="2131034138">
+<activity name="DeskStrActivity">
+<activity name="DeskBackActivity">
+<activity name="HelpActivity">
+<activity name="MemoryList">
+<activity name="AddActivity">
+<activity name="DialogActivity" theme="16973835">
+<activity name="net.youmi.android.spotad.AdActivity" configChanges="176">
+<activity name="net.youmi.android.appoffers.AppOffersActivity" configChanges="176">
+0
+2
+<receiver name=".MyAppWidgetProvider">
+<receiver name=".receiver.AlarmReceiver">
+0
+Owner: CN=meilei, OU=wing, O=wing, L=wuhan, ST=hubei, C=CN
+Issuer: CN=meilei, OU=wing, O=wing, L=wuhan, ST=hubei, C=CN
+Serial number: 4d7a0ffa
+Valid from: Fri Mar 11 20:05:14 CST 2011 until: Sat Dec 12 20:05:14 CST 2065
+Certificate fingerprints: 
+	MD5:25:CC:D8:CD:C8:C0:B0:F9:C9:41:C9:CA:05:55:33:6F
+	SHA1: 50:8C:56:12:E7:68:BE:F1:8A:20:AA:89:20:74:E7:56:86:CF:A4:D2
+	SHA256: C9:DE:0F:71:5A:54:75:13:AD:F1:0A:A4:00:4B:A5:74:01:86:7B:05:0E:BD:3D:78:CB:DE:63:19:E6:B8:41:4D
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,67 @@
+com.android.ctrip.gs
+7
+1.6.1
+8
+19
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+25
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.GSSplashActivity" theme="2131558412" label="2131492867" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.GSMainActivity" theme="2131558412" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.base.GSCommonActivity" theme="2131558411" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.travels.reading.GSTravelsCommentListActivity" configChanges="1073743012" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.common.imageviewer.GSImageDisplayActivity" configChanges="1073743012" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.travels.reading.detailView.GSTravelsDetailFragmentActivity" configChanges="1073743012" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.map.core.GSGaodeMapActivity" configChanges="1073743012">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.map.core.GSGoogleJSMapActivity" configChanges="1073743012">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.profile.login.GSLoginActivity" configChanges="1073743012" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.profile.mygs.settings.GSSettingsActivity" configChanges="1073743012">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.GSDebugActivity" configChanges="1073743012">
+<activity screenOrientation="1" name="com.android.ctrip.gs.ui.Cutscenes.GSNewbieGuideActiviity" configChanges="1073743012">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131558410" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.android.ctrip.gs.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="ctrip.business.login.thirdLogin.WeiBoEntryActivity" theme="16973840" configChanges="1073743012" exported="true">
+<activity screenOrientation="1" excludeFromRecents="true" name="ctrip.business.login.thirdLogin.QQSSOEntryActivity" theme="16973840" configChanges="1073743012" exported="true">
+<activity screenOrientation="1" excludeFromRecents="true" name="ctrip.business.login.thirdLogin.WeiBoAuthorizeActivity" configChanges="1073743012" exported="true">
+<activity screenOrientation="1" excludeFromRecents="true" name="ctrip.business.login.thirdLogin.QQAuthorizeActivity" configChanges="1073743012" exported="true">
+<activity screenOrientation="1" name="ctrip.business.login.view.CtripLoginActivity" configChanges="1073743012" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="ctrip.business.login.thirdLogin.ToAccountBindActivity" label="2131492867">
+<activity screenOrientation="1" name="ctrip.business.login.thirdLogin.AccountBindActivity" label="2131492867">
+<activity screenOrientation="1" name="ctrip.business.login.thirdLogin.ToThirdAccountBindActivity" configChanges="1073743012" label="2131492867" launchMode="1">
+3
+<service name="com.android.ctrip.gs.ui.updata.DownloadServices">
+<service process=":pushsdk.v1" name="ctrip.android.pushsdk.PushService">
+<service name="com.android.ctrip.gs.ui.strategy.download.GSPicDownLoadService">
+3
+<receiver process=":pushsdk.v1" name="ctrip.android.pushsdk.DaemonReceiver">
+<receiver process=":pushsdk.v1" name="ctrip.android.pushsdk.PushMsgCenter">
+<receiver process=":pushsdk.v1" name="com.android.ctrip.gs.ui.notification.push.GSPushReceiver">
+0
+Owner: CN=gs android, OU=GS, O=Ctrip, L=Shanghai, ST=Shanghai, C=China(86)
+Issuer: CN=gs android, OU=GS, O=Ctrip, L=Shanghai, ST=Shanghai, C=China(86)
+Serial number: 31a99f94
+Valid from: Tue Nov 18 11:22:26 CST 2014 until: Wed Nov 05 11:22:26 CST 2064
+Certificate fingerprints: 
+	MD5:C5:17:57:00:55:C4:BF:67:A8:B2:83:5C:B7:C6:9A:C4
+	SHA1: 2C:1A:CF:FD:D0:6B:6D:94:D4:76:44:4C:A5:B5:09:FA:17:C5:EC:07
+	SHA256: 6C:D7:EE:D2:30:D9:B1:BA:33:22:43:B6:7B:D2:0B:6B:37:8F:DD:64:8B:99:01:1D:D9:5F:06:AF:96:15:BD:9A
+	Signature algorithm name: SHA256withRSA
+	version: 3

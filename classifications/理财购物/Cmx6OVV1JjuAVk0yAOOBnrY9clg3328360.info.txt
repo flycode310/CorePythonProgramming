@@ -1,0 +1,208 @@
+com.wuba
+6120
+6.1.2.0
+8
+14
+42
+android.permission.GET_TASKS
+android.permission.ACCESS_LOCATION
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.ACCESS_GPS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.GET_PACKAGE_SIZE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+com.wuba.permission.MIPUSH_RECEIVE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PROFILE
+android.permission.REORDER_TASKS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+109
+<activity screenOrientation="1" name="com.wuba.house.activity.HouseInfoListFragmentActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.house.activity.HouseBrokerMapActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.house.broker.BrokerDetailActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.house.activity.HouseDetailActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.house.activity.NHDetailBigImgActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.detail.activity.DetailBaseActivity">
+<activity screenOrientation="1" name="com.wuba.tradeline.search.NativeSearchResultActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.tradeline.detail.activity.BigImageActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.publish.PublishCameraActivity" configChanges="36">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.account.BindNickNameActivity" configChanges="36">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name="com.wuba.zxing.scan.activity.CaptureActivity" configChanges="36" windowSoftInputMode="3" stateNotNeeded="true">
+<activity screenOrientation="1" name="com.wuba.activity.searcher.SearchSelectCateActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.more.RefreshAlarmActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.webactivity.NearGroupListActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.activity.more.MoreMainActivity" configChanges="36">
+<activity screenOrientation="0" name="com.wuba.activity.assistant.CameraActivity" theme="16973831" configChanges="36" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.wuba.plugins.weather.WeatherDetailActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.taskcenter.TaskCoinDetailActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.personal.CollectActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.more.MoreHelperActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.city.CityHotActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.activity.launch.LeadingActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.payment.PaymentActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.account.UserAccountFragmentActivity" configChanges="36" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.wuba.im.IMMsgHomeManager" configChanges="36" exported="true">
+<activity screenOrientation="1" name="com.wuba.activity.account.PhoneCodeRegActivity" configChanges="36" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.wuba.activity.searcher.SearchSelectSubCateActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.fragment.InfoListFragmentActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.activity.launch.LaunchActivity" configChanges="36" label="2131558412">
+<activity screenOrientation="1" name="com.wuba.activity.account.BindStateActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.account.PhoneDynamicLoginActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.recruit.RecruitCateActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.webactivity.GroupBuyHomeActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.activity.more.SettingMainActivity" configChanges="36" launchMode="2">
+<activity screenOrientation="1" name="com.wuba.activity.searcher.SearchResultsActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.personal.BrowseSiftActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.more.CopyrightActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.detailimg.FlowBigImageActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.push.AdvMsgActivity" configChanges="36">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.wuba.activity.more.InstallHintActivity" theme="2131624015" configChanges="36" noHistory="true" taskAffinity="com.wuba.installhint">
+<activity screenOrientation="1" name="com.wuba.wxapi.WXEntryActivity" theme="2131624012" configChanges="36" exported="true">
+<activity screenOrientation="1" name="com.wuba.im.IMKickOutActivity" theme="2131624007" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.map.MapDetailAcyivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.webactivity.BackReloadActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.webactivity.CategoryListActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.home.HomeActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.activity.share.ShareMainActivity" theme="2131624012" configChanges="36" launchMode="2">
+<activity screenOrientation="1" name="com.wuba.activity.publish.HomePublishActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.account.ResetPasswordActivity" configChanges="36" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.wuba.activity.account.BindAccountActivity" configChanges="36" windowSoftInputMode="17">
+<activity screenOrientation="1" name="com.wuba.activity.account.EmailRetrievePasswordActivity" configChanges="36" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.wuba.activity.searcher.SearchActivity" configChanges="36" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.wuba.push.SubscriptionListActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.taskcenter.TaskCenterActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.home.CityChangeDailogActivity" theme="2131624007" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.push.GuessFavoriteActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.account.PhoneRetrievePasswordActivity" configChanges="36" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.wuba.activity.webactivity.SingleLinkedActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.webactivity.GroupBuySearchActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.activity.more.FeedbackActivity" configChanges="36" windowSoftInputMode="17">
+<activity screenOrientation="1" name="com.wuba.activity.more.HotAppActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.im.IMChatRoomActivity" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.wuba.activity.publish.PublishActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.personal.MessageCenterActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.personal.PersonalPublishActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.webactivity.DistributeCallActivity" configChanges="36" label="2131558412">
+<activity screenOrientation="1" name="com.wuba.push.SubscriptionActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.webactivity.InfoDetailActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.searcher.SubCateResultActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.publish.PublishBigImageActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.personal.RecruitMainActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.account.BindWXActivity" configChanges="36">
+<activity screenOrientation="1" name="com.tencent.tauth.AuthActivity" configChanges="36" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.wuba.activity.more.UpdateActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.publish.CameraAlbum" configChanges="36" label="2131559094">
+<activity screenOrientation="1" name="com.wuba.activity.searcher.SearchCateActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.publish.AddImageActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.activity.publish.EditImageActivity" configChanges="36">
+<activity screenOrientation="1" name="com.wuba.plugin.dynamicload.DLProxyActivity">
+<activity screenOrientation="1" name="com.wuba.plugin.dynamicload.DLProxyFragmentActivity">
+<activity screenOrientation="1" name="com.wuba.thirdapps.link.ThirdWebActivity" configChanges="36">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name="com.wuba.thirdapps.zxing.CaptureActivity" configChanges="160" label="2131558412" windowSoftInputMode="3" stateNotNeeded="true">
+<activity screenOrientation="1" name="com.wuba.plugins.ThirdFolderActivity" theme="2131623948" configChanges="36" taskAffinity="com.wuba.affinity_third_folder">
+<activity screenOrientation="1" name="com.yintong.ytmall.activity.YT_Main" configChanges="128" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.yintong.ytmall.activity.YT_PayResult" configChanges="128">
+<activity screenOrientation="1" name="com.yintong.ytmall.activity.YT_CosumeList" configChanges="128">
+<activity screenOrientation="1" name="com.yintong.ytmall.activity.YT_ConsumDetail" configChanges="128">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.Plugin" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLPayAuthSMS" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLPayFailure" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLPaySuccess" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLAboutLL" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLAgreement" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLPayBankList" theme="2131624080" launchMode="2">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLPayCheckPatternLock" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLAuthCardID" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLPayPatternLock" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLPaySetPatternAuthSMS" theme="2131624080">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLBindCardInit" theme="2131624079" launchMode="2">
+<activity screenOrientation="1" name="com.yintong.secure.customize.tc58.activity.LLBindCardDetail" theme="2131624080" windowSoftInputMode="5" launchMode="2">
+<activity screenOrientation="1" name="com.wuba.job.activity.JobInfoListFragmentActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.job.activity.JobDetailActivity" configChanges="36" label="2131558412" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.huangye.activity.HuangyeInfoListFragmentActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.huangye.activity.HuangyeDetailActivity" configChanges="36" label="黄页" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.sale.activity.SaleInfoListFragmentActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.sale.activity.SaleDetailActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.car.activity.CarInfoListFragmentActivity" configChanges="36" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.wuba.car.activity.CarDetailActivity" configChanges="36">
+24
+<service name="com.wuba.service.SaveRecentFootService">
+<service name="com.wuba.service.SaveBrowseService">
+<service process=":downloadapkservice" name="com.wuba.service.ChannelService">
+<service name="com.wuba.service.SaveCateService">
+<service name="com.wuba.service.SaveSiftService">
+<service process=":downloadapkservice" name="com.wuba.service.CommonUpdateService">
+<service process=":downloadapkservice" name="com.wuba.android.lib.usertrace.ActionLogService" exported="true">
+<service process=":downloadapkservice" enabled="true" name="com.xiaomi.push.service.XMPushService" exported="true">
+<service process=":downloadapkservice" name="com.wuba.actionlog.OpenClientIntentService">
+<service process=":downloadapkservice" enabled="false" name="com.wuba.service.InstallFanqieService" exported="false">
+<service name="com.wuba.service.SaveDialService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service process=":downloadapkservice" name="com.wuba.service.DownLoadAPKService">
+<service name="com.wuba.activity.personal.ShopPointService">
+<service process=":downloadapkservice" name="com.wuba.service.UpgradeApkService">
+<service name="com.wuba.activity.publish.RecordPlayService">
+<service process=":downloadapkservice" name="com.wuba.push.PushService">
+<service name="com.wuba.service.AdService">
+<service process=":downloadapkservice" enabled="true" name="com.wuba.actionlog.ActionLogObservService" exported="true">
+<service process=":downloadapkservice" name="com.baidu.location.f">
+<service name="com.wuba.fragment.personal.RecentMsgService">
+<service name="com.wuba.activity.personal.BangbangDialogService">
+<service name="com.yintong.secure.customize.tc58.service.PayService">
+7
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver name="com.wuba.push.DistributeReceiver" exported="true">
+<receiver name="com.wuba.internal.InstallFanqieReceiver" exported="false">
+<receiver name="com.wuba.push.NotificationReceiver" exported="true">
+<receiver name="com.wuba.utils.CookieExpire">
+<receiver process=":downloadapkservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+<receiver name="com.wuba.push.PhoneStateReceiver">
+6
+<provider authorities="com.wuba.android.provider.preference" name="com.wuba.android.lib.util.commons.SharedPreferencesProvider" exported="false">
+<provider authorities="com.wuba.android.provider.area" name="com.wuba.databaseprovider.AreaDBProvider" exported="false">
+<provider authorities="com.wuba.hybrid.localfile" name="com.wuba.LocalFileContentProvider" exported="false">
+<provider process=":downloadapkservice" authorities="com.wuba.hybrid.chat" name="com.wuba.im.IMChatProvider" exported="false">
+<provider process=":downloadapkservice" authorities="com.wuba.android.provider.data" name="com.wuba.databaseprovider.InquiryDBUpdateInBgProvider" exported="false">
+<provider process=":downloadapkservice" authorities="com.wuba.android.provider.useraction" name="com.wuba.databaseprovider.UserActionDBProvider" exported="false">
+Owner: CN=wuba, OU=58.com, O=clientteam, L=bj, ST=bj, C=cn
+Issuer: CN=wuba, OU=58.com, O=clientteam, L=bj, ST=bj, C=cn
+Serial number: 4cd4f8c8
+Valid from: Sat Nov 06 14:42:16 CST 2010 until: Sun Aug 09 14:42:16 CST 2065
+Certificate fingerprints: 
+	MD5:4C:D1:51:FA:EA:CA:F4:E0:32:EF:40:AA:B0:42:2E:46
+	SHA1: 5E:12:A4:B3:1E:0D:CB:4F:82:7D:59:A5:3B:DA:C1:CE:7B:7B:3C:FB
+	SHA256: 08:73:B1:E2:BD:CD:E3:C3:AB:13:0D:EA:54:2D:E5:B3:06:08:00:E8:29:EF:24:62:4D:10:2B:CE:D4:64:BB:3C
+	Signature algorithm name: SHA1withRSA
+	version: 3

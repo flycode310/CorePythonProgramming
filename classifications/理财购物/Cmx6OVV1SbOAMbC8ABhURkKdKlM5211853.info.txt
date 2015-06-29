@@ -1,0 +1,53 @@
+com.dazhihui.gpad
+23467
+2.21
+8
+11
+7
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+26
+<activity screenOrientation="0" name="com.dazhihui.gpad.dzh" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.DateActivity" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.ProtectionActivity" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.SymbolSearchPopupScreen" theme="2131296267" windowSoftInputMode="2">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.InitScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.NoticeScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.HomePageScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.BrowserScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.StockChartScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.OpenedFundLineScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.HangqingListScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.InquireListScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.InterestLevelScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.StockPondMSGScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.view.ScrectScreen" theme="2131296263">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadTradeLoginCenter" theme="2131296268">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadQuickBuySell" theme="2131296268">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadNewAccount" theme="2131296268">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadDelAccount" theme="2131296268">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadMobileLogin" theme="2131296268" configChanges="128" windowSoftInputMode="16">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadMobileLoginGuotaiMode" theme="2131296268">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadMobileLoginDonghaiMode" theme="2131296268">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadTradeLogin" theme="2131296268">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadAuthCodeRegister" theme="2131296268">
+<activity screenOrientation="0" name="com.dazhihui.gpad.trade.PadTradeDepartmentPicker" theme="2131296268">
+<activity screenOrientation="0" name=".trade.TradeMainMenuFrame" theme="2131296263">
+0
+0
+0
+Owner: CN=dzh
+Issuer: CN=dzh
+Serial number: 4e36117c
+Valid from: Mon Aug 01 10:37:48 CST 2011 until: Fri Jul 25 10:37:48 CST 2036
+Certificate fingerprints: 
+	MD5:B7:4B:42:CF:E8:AB:A1:F4:B1:9F:08:6D:62:2C:0B:02
+	SHA1: 62:54:B5:32:57:06:58:DF:FF:BE:13:07:B1:FC:A1:83:56:3D:18:29
+	SHA256: 97:C1:E2:3B:E1:8B:22:79:BE:6A:DC:94:4E:45:D2:E9:E6:28:9C:7B:ED:7D:E1:D4:62:84:99:FA:CD:76:7E:29
+	Signature algorithm name: SHA1withRSA
+	version: 3

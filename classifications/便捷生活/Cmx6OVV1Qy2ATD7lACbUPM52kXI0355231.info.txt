@@ -1,0 +1,90 @@
+my.Frank
+138
+1.4.3b
+9
+4
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.WRITE_CALENDAR
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.READ_SYNC_SETTINGS
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+32
+<activity name=".Frank" configChanges="1184" label="AA Task" windowSoftInputMode="32">
+<activity name="AddTask" configChanges="160">
+<activity name="AddPurpose" configChanges="160">
+<activity name="AddWorth" configChanges="160">
+<activity excludeFromRecents="true" name="AlarmAlert" theme="2131165190" configChanges="160" launchMode="3">
+<activity name="AddMemo" configChanges="160">
+<activity name="Anniversary" configChanges="160" label="AA Anniversary">
+<activity name="AddAnniversary" configChanges="160" label="AA Anniversary">
+<activity name="DailyTaskList" theme="2131165190" configChanges="160">
+<activity name="my.preference.Preference" configChanges="160">
+<activity icon="2130837711" name="AddTaskForGoogleCalendar" configChanges="160">
+<activity name="SetRepeat" theme="2131165190" configChanges="160">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity name="my.holiday.Holiday" theme="2131165190" configChanges="160">
+<activity excludeFromRecents="true" name=".SearchFont" theme="2131165190" configChanges="160" launchMode="3">
+<activity name="my.search.Search" configChanges="160" windowSoftInputMode="20">
+<activity name="my.datePickers.DatePickerMonthYear" theme="2131165190" configChanges="160">
+<activity name="my.datePickers.DatePickerAnniversaryDate" theme="2131165190" configChanges="160">
+<activity name="my.datePickers.DatePickerAnniversaryAlarm" theme="2131165190" configChanges="160">
+<activity name="my.datePickers.DatePickerTaskAlarm" theme="2131165190" configChanges="160">
+<activity name="my.datePickers.DatePickerRepeatEndsCount" theme="2131165190" configChanges="160">
+<activity name="my.datePickers.DatePickerRepeatEndsDate" theme="2131165190" configChanges="160">
+<activity name="my.datePickers.DatePickerTask" theme="2131165190" configChanges="160">
+<activity name="my.datePickers.MyTimePicker" theme="2131165190" configChanges="160">
+<activity name="my.datePickers.TimePickerAATaskCalendarAlarm" theme="2131165190" configChanges="160">
+<activity name="PasswordInputDialog" theme="2131165190" configChanges="160" windowSoftInputMode="36">
+<activity name="InputPasswordQnA" theme="2131165190" configChanges="160" windowSoftInputMode="36">
+<activity name="com.mocoplex.adlib.AdlibDialogActivity" theme="16973839" configChanges="176">
+<activity name="com.mocoplex.adlib.AdlibWebBrowserActivity" configChanges="176">
+<activity name="com.mocoplex.adlib.AdlibVideoPlayer" theme="16973830" configChanges="176">
+<activity name="com.nbpcorp.mobilead.sdk.MobileAdBrowserActivity" configChanges="160">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+1
+<service name="my.Frank.AlertService">
+20
+<receiver name=".AlarmService_Service">
+<receiver name=".AlarmInitReceiver">
+<receiver name=".AlarmServiceForZero">
+<receiver name=".WidgetCalendar_44" label="AA Task(Calendar, 4x4)">
+<receiver name=".WidgetTask_22" label="AA Task(Schedule, 2x2)">
+<receiver name=".WidgetTask" configChanges="176" label="AA Task(Schedule, 2x3)">
+<receiver name=".WidgetTask_24" label="AA Task(Schedule, 2x4)">
+<receiver name=".WidgetTask_42" label="AA Task(Schedule, 4x2)">
+<receiver name=".WidgetTask_43" label="AA Task(Schedule, 4x3)">
+<receiver name=".WidgetTask_44" label="AA Task(Schedule, 4x4)">
+<receiver name=".WidgetMemo" label="AA Task(Memo, 2x3)">
+<receiver name=".WidgetMemo_22" label="AA Task(Memo, 2x2)">
+<receiver name=".WidgetMemo_24" label="AA Task(Memo, 2x4)">
+<receiver name=".WidgetMemo_42" label="AA Task(Memo, 4x2)">
+<receiver name=".WidgetMemo_43" label="AA Task(Memo, 4x3)">
+<receiver name=".WidgetMemo_44" label="AA Task(Memo, 4x4)">
+<receiver name=".Widget" label="AA Task(Schedule & Memo, 3x3)">
+<receiver name=".Widget_43" label="AA Task(Schedule & Memo, 4x3)">
+<receiver name=".Widget_44" label="AA Task(Schedule & Memo, 4x4)">
+<receiver name="my.Frank.AlarmServiceForRefreshGoogleCalendar">
+1
+<provider authorities="my.Frank" name="my.Frank.LocalFileContentProvider">
+Owner: CN=Hyunse Jin, OU=an individual, O=Unknown, L=Kangdong-gu, ST=Seoul, C=KR
+Issuer: CN=Hyunse Jin, OU=an individual, O=Unknown, L=Kangdong-gu, ST=Seoul, C=KR
+Serial number: 4c9edeb6
+Valid from: Sun Sep 26 13:48:38 CST 2010 until: Mon Jun 29 13:48:38 CST 2065
+Certificate fingerprints: 
+	MD5:79:9D:2E:60:A4:EF:87:19:71:0C:48:C7:FA:41:C5:0B
+	SHA1: 13:11:3E:96:95:DF:91:A3:8F:FE:E0:73:BB:F5:CD:E6:EF:3C:00:80
+	SHA256: 08:0B:9C:30:54:BB:B4:17:6C:0F:7D:04:D8:18:17:AC:F5:76:DA:05:3D:5F:EE:84:3F:80:83:0F:75:85:92:2A
+	Signature algorithm name: SHA1withRSA
+	version: 3

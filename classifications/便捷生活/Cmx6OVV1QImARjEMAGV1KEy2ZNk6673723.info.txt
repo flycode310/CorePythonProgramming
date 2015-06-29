@@ -1,0 +1,47 @@
+com.youcoach.online
+3
+1.3
+8
+-1
+4
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_NETWORK_STATE
+22
+<activity screenOrientation="1" name=".StartPageActivity" label="2130968576">
+<activity screenOrientation="1" name=".ui.MainActivity">
+<activity screenOrientation="1" name=".ui.SettingActivity">
+<activity screenOrientation="1" name=".ui.SelectStartDateActivity">
+<activity screenOrientation="1" name=".ui.SelectDaysOfWeekActivity">
+<activity screenOrientation="1" name=".ui.SelectFitnessPackageActivity">
+<activity screenOrientation="1" name=".ui.FitnessPackagePreviewActivity">
+<activity screenOrientation="1" name=".ui.FitnessPackagePreviewTypeItmeActivity">
+<activity screenOrientation="1" name=".ui.CustomDateListActivity">
+<activity screenOrientation="1" name=".ui.CustomSortItemActivity">
+<activity screenOrientation="1" name=".ui.CustomItemTypeListActivity">
+<activity screenOrientation="1" name=".ui.CustomItemListActivity">
+<activity screenOrientation="1" name=".ui.TrainingItemActivity">
+<activity screenOrientation="1" name=".ui.TrainingSetsActivity">
+<activity screenOrientation="1" name=".ui.TrainingUserBehaviorActivity">
+<activity screenOrientation="1" name=".ui.ManageCalendarActivity">
+<activity screenOrientation="1" name=".ui.ManageItmeActivity">
+<activity screenOrientation="1" name=".ui.ManageTypeItmeActivity">
+<activity screenOrientation="1" name=".ui.ManageHistoryItmeActivity">
+<activity screenOrientation="1" name=".ui.ManageHistorySetsActivity">
+<activity screenOrientation="0" name=".ui.MediaPlayerOnlineMp4">
+<activity screenOrientation="0" name=".ui.MediaPlayerWait">
+0
+1
+<receiver process=".itmkoo" name=".app.AlarmReceiver">
+0
+Owner: CN=youcoach
+Issuer: CN=youcoach
+Serial number: 4f8e31f3
+Valid from: Wed Apr 18 11:16:03 CST 2012 until: Fri Apr 11 11:16:03 CST 2042
+Certificate fingerprints: 
+	MD5:D7:1E:74:8B:BE:D4:31:13:7F:73:E6:17:4B:29:9D:BC
+	SHA1: E6:0D:20:72:23:0D:68:F6:EF:02:14:4F:44:6D:DF:8A:61:87:13:13
+	SHA256: C6:6E:81:44:FE:C8:4B:7D:C2:7C:DC:6C:F7:17:87:BE:C4:04:DC:50:55:FE:12:FD:82:51:92:DF:77:9E:9A:1F
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,31 @@
+com.sfli
+1
+1.0
+3
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+android.permission.MANAGE_APP_TOKENS
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity name=".MainActivity" theme="16973830" configChanges="128" label="2131099648">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4ea80bb3
+Valid from: Wed Oct 26 21:31:31 CST 2011 until: Fri Oct 18 21:31:31 CST 2041
+Certificate fingerprints: 
+	MD5:D0:A2:2E:E4:7D:54:8C:AC:CB:65:B4:85:6E:BF:9F:D3
+	SHA1: A7:46:21:43:52:C2:E2:7A:63:D1:28:2D:13:01:1B:2E:26:66:05:66
+	SHA256: AE:C9:BC:7D:38:98:5E:DD:4A:E1:D2:F3:E1:DB:32:8D:4F:68:82:11:E0:3D:6B:B7:DB:E0:4D:60:E0:C2:BF:0A
+	Signature algorithm name: SHA1withRSA
+	version: 3

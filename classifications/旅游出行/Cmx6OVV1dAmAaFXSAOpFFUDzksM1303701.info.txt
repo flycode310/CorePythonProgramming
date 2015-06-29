@@ -1,0 +1,94 @@
+com.autonavi.minimap
+400
+6.0.0
+7
+-1
+25
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.NFC
+android.permission.SEND_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.CHANGE_NETWORK_SATET
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.autonavi.permission.ACCESS_LOCATION
+43
+<activity name="com.amap.panorama.mapapi.support.AMapViewActivity" label="2131361792">
+<activity screenOrientation="1" name="com.autonavi.minimap.Splashy" configChanges="160" label="2131361792" noHistory="true">
+<activity screenOrientation="1" name="com.autonavi.minimap.MapActivity" configChanges="1073745332" windowSoftInputMode="32" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="1" name="com.autonavi.minimap.SysNaviSettingActivity">
+<activity screenOrientation="1" name="com.autonavi.minimap.SystemActivity" configChanges="1073741988" label=" ">
+<activity screenOrientation="1" name="com.autonavi.minimap.SwitchCityActivity" theme="2131427353" configChanges="160" label=" ">
+<activity screenOrientation="1" name=".SysMapSettingActivity" configChanges="160" label=" " windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.SystemSet" configChanges="160" label=" ">
+<activity screenOrientation="1" name=".SysAboutActivity" configChanges="160" label=" ">
+<activity screenOrientation="1" name="com.autonavi.minimap.WeiBoActivity" configChanges="160" label=" ">
+<activity screenOrientation="1" name="com.autonavi.minimap.ImgGestureActivity" configChanges="160">
+<activity screenOrientation="1" name=".update.DownloadActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.sso.ChooseCityActivity" theme="2131427387" configChanges="160" label=" ">
+<activity screenOrientation="1" name="com.autonavi.minimap.sso.PswChangeAcitivity" configChanges="192">
+<activity screenOrientation="1" name="com.autonavi.minimap.sso.PswBackActivity" configChanges="192">
+<activity screenOrientation="1" name="com.autonavi.minimap.sns.setting.SnsEditNickActivity" configChanges="128">
+<activity screenOrientation="1" name="com.autonavi.minimap.sns.setting.SnsEditSignActivity" configChanges="128">
+<activity screenOrientation="1" name="com.autonavi.minimap.sns.setting.SnsTelBindActivity" configChanges="160">
+<activity screenOrientation="1" name="com.autonavi.minimap.sns.web.WebViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.autonavi.minimap.weather.WeatherActivity" configChanges="160" label=" " windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.RTTConnectoHistoryActivity" configChanges="160">
+<activity name="com.autonavi.navi.AutoNaviActivity" configChanges="160">
+<activity name="com.autonavi.navi.ArAutoNaviActivity" configChanges="160">
+<activity screenOrientation="1" name="com.autonavi.minimap.download_road_enlarge.DownLoadRoadEnlargeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.autonavi.minimap.sso.v3.GaoDeLoginActivity" configChanges="192" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.autonavi.minimap.sso.v3.PersonSettingActivity" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.sso.v3.RegisterActivity" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.diandao.amap.FloorSelectorActivity" theme="16973830" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.diandao.amap.IndoorMapActivity" theme="16973830" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.diandao.amap.StoreDetailActivity" theme="16973830" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.sys.setting.ProcessPhotoActivity" theme="16973830" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.sso.v3.AccountActivity" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.StorageActivity" theme="2131427353">
+<activity screenOrientation="1" name="com.autonavi.minimap.UserAgreeActivity" theme="16973830">
+<activity screenOrientation="1" name="com.autonavi.minimap.LogSettingActivity" theme="16973830">
+<activity screenOrientation="1" name="com.autonavi.minimap.PanoramaActivity" theme="16973830">
+<activity screenOrientation="1" name="com.autonavi.minimap.QRCodeScanActivity" theme="16973830">
+<activity screenOrientation="1" name="com.autonavi.minimap.WeiboNearByActivity" theme="16973830">
+<activity screenOrientation="1" name="com.autonavi.minimap.errorback.ErrorReportBusTransferActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.UserGuideActivity" theme="16973830">
+<activity screenOrientation="1" name="com.autonavi.minimap.sns.setting.SnsEmailBindActivity" configChanges="160">
+<activity screenOrientation="1" name="com.autonavi.minimap.errorback.DoorAddressUpload" windowSoftInputMode="16">
+<activity name="com.autonavi.minimap.sso.PswBackEmailAcitivity" configChanges="192" windowSoftInputMode="32">
+4
+<service name="com.autonavi.minimap.layer.service.LayerService">
+<service name="com.autonavi.minimap.UserGuideService">
+<service process=":pushservice" enabled="true" name="com.amap.api.service.AMapService" exported="false">
+<service name="com.autonavi.minimap.share.ShareService">
+2
+<receiver name="com.autonavi.navi.tools.AutoNaviTelStatusReceiver">
+<receiver name="com.amap.api.service.BootEventReceiver">
+0
+Owner: CN=minimap, OU=mobile department, O=autonavi, L=beijing, ST=beijing, C=cn
+Issuer: CN=minimap, OU=mobile department, O=autonavi, L=beijing, ST=beijing, C=cn
+Serial number: 4c032728
+Valid from: Mon May 31 11:04:08 CST 2010 until: Tue Mar 03 11:04:08 CST 2065
+Certificate fingerprints: 
+	MD5:3F:9E:AE:A4:F2:D4:28:5C:2D:DB:BD:A7:39:13:64:79
+	SHA1: ED:D0:4A:69:6A:0D:CD:41:29:82:0A:1C:03:AB:16:94:3E:C6:C5:3F
+	SHA256: B3:6C:0B:80:CB:24:17:E7:FE:4C:3D:F0:1A:2D:16:3A:7D:84:43:60:4D:D2:76:A2:BC:1A:B0:D3:25:10:2E:3E
+	Signature algorithm name: SHA1withRSA
+	version: 3

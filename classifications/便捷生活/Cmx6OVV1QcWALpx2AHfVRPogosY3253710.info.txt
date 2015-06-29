@@ -1,0 +1,228 @@
+doctorjob.com.cn
+40
+4.0
+8
+-1
+17
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.CHANGE_CONFIGURATION
+179
+<activity name="doctorjob.com.cn.loading.SplashActivity" theme="2131230764" label="2131558400">
+<activity clearTaskOnLaunch="true" name="doctorjob.com.cn.fragment.NewMainActivity" configChanges="160" windowSoftInputMode="34" alwaysRetainTaskState="true" launchMode="2">
+<activity name="doctorjob.com.cn.userhelp.UserGuideActivity" theme="2131230764" label="2131558400">
+<activity name="doctorjob.com.cn.search.SearchResultsActivity" label="2131558400">
+<activity name="doctorjob.com.cn.search.SeeMoreActivity" label="2131558400">
+<activity name="doctorjob.com.cn.search.SeeMoreCommandPosActivity" label="2131558400">
+<activity name="doctorjob.com.cn.search.DetailActivityGroup" label="2131558400">
+<activity name="doctorjob.com.cn.search.DetailActivity" label="2131558400">
+<activity name="doctorjob.com.cn.search.SimilarJobActivity" label="2131558400">
+<activity name="doctorjob.com.cn.search.LocationActivity" label="2131558400">
+<activity name="doctorjob.com.cn.search.ProfileActivity" label="2131558400">
+<activity name="doctorjob.com.cn.myresume.UserCenterActivity" label="2131558400">
+<activity name="doctorjob.com.cn.myresume.PreviewResumeActivity" label="2131558400">
+<activity name="doctorjob.com.cn.more.More_page_content" label="2131558400">
+<activity name="doctorjob.com.cn.search.Other_posts" label="2131558400">
+<activity name="doctorjob.com.cn.search.BlogActivity" theme="2131230720" configChanges="160" label="2131558400" launchMode="2">
+<activity name="doctorjob.com.cn.myresume.Application_record" label="2131558400">
+<activity name="doctorjob.com.cn.myresume.Jobs_Favorites" label="2131558400">
+<activity name="doctorjob.com.cn.myresume.WhoSeeMe" label="2131558400">
+<activity name="doctorjob.com.cn.myresume.ResumeDetailActivity" label="2131558400">
+<activity name="doctorjob.com.cn.myresume.UpdateResumedetail" label="2131558400" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.myresume.Interview" label="2131558400">
+<activity name="doctorjob.com.cn.myresume.Interview_detail" label="2131558400">
+<activity screenOrientation="-1" name="com.umeng.api.activity.OauthActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="-1" name="com.umeng.api.activity.UpdateStatusActivity" theme="2131230842" configChanges="160" windowSoftInputMode="20">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity name="doctorjob.com.cn.weibo.WebViewActivity">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="doctorjob.com.cn.wxapi.WXEntryActivity" exported="true" label="2131558400" launchMode="1">
+<activity name="doctorjob.com.cn.wxapi.WXPayEntryActivity" exported="true" launchMode="1">
+<activity name="doctorjob.com.cn.newversion.MyResumeActivity">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterRegisterPage">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterFindPswPage">
+<activity name="doctorjob.com.cn.newversion.MyResumeRefreshActivity">
+<activity name="doctorjob.com.cn.newversion.MyResumeApplyManager">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterSendOut">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterAccountManager">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterInterviewPage">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterWhoseePage">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterApplyRecords">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterFavoritePostPage">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterApplySendRecords">
+<activity name="doctorjob.com.cn.newversion.MyResumeWorkExMain">
+<activity name="doctorjob.com.cn.newversion.MyResumeWorkExDesc">
+<activity name="doctorjob.com.cn.newversion.MyResumeWorkExEditPage" windowSoftInputMode="18">
+<activity name="doctorjob.com.cn.newversion.MyResumeBasicInfoPage" windowSoftInputMode="18">
+<activity name="doctorjob.com.cn.newversion.MyResumeEduMain">
+<activity name="doctorjob.com.cn.newversion.MyResumeEduEditPage">
+<activity name="doctorjob.com.cn.newversion.MyResumeOccuDaoGangTime" theme="2131230731">
+<activity name="doctorjob.com.cn.newversion.MyResumeOccuSalary" theme="2131230731">
+<activity name="doctorjob.com.cn.newversion.MyResumeOccupationEditPage" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.TradeChoseActivity" theme="2131230731">
+<activity name="doctorjob.com.cn.newversion.MyDatePickDialogActivity" theme="16973835">
+<activity name="doctorjob.com.cn.newversion.MyResumeCenterPhotoDialogActivity" theme="16973835">
+<activity name="doctorjob.com.cn.qq.QQLoginActivity">
+<activity name="doctorjob.com.cn.newversion.MyCompanyTypeSelectActivity" theme="16973835">
+<activity name="doctorjob.com.cn.newversion.MyWeiboBindEmailActivity">
+<activity name="doctorjob.com.cn.search.ApplyToLoginActivity" theme="16973835">
+<activity name="doctorjob.com.cn.newversion.MyResumeSuperiority" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.MyResumeProjectExpEditPage" windowSoftInputMode="18">
+<activity name="doctorjob.com.cn.newversion.MyResumeProjectExpMain" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.more.AboutUsActivity">
+<activity name="doctorjob.com.cn.more.CorporateCultureActivity">
+<activity name="doctorjob.com.cn.more.ContactUsActivity">
+<activity name="doctorjob.com.cn.more.AppCommandActivity">
+<activity name="doctorjob.com.cn.more.VersionNumberActivty">
+<activity name="doctorjob.com.cn.more.AdviceActivity">
+<activity name="doctorjob.com.cn.calendar.CalendarActivity">
+<activity name="doctorjob.com.cn.search.SimilarJob">
+<activity name="doctorjob.com.cn.more.OurAppStoreActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorLoginActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorManageCenterActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorOrderManageActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorPhoneAskActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorZhuanzhenSupplyActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorPersonalActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorMoneyCenterActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorMoneyCenter" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorAccountManageActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorAddCashActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorSubmitCardActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.ChooseCityActivity">
+<activity name="doctorjob.com.cn.newversion.ChooseDepActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorAskOnlineActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.DoctorOrderDetailActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorOnlineQuestionDetail" windowSoftInputMode="2">
+<activity name="doctorjob.com.cn.newversion.DoctorPersonalInf" windowSoftInputMode="2">
+<activity name="doctorjob.com.cn.newversion.DoctorOrderManagingActivity" windowSoftInputMode="2">
+<activity name="doctorjob.com.cn.newversion.DoctorPhoneAskingActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorPersonal2Activity">
+<activity name="doctorjob.com.cn.newversion.DoctorAskOnline2Activity">
+<activity name="doctorjob.com.cn.newversion.DoctorExpenseInfActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorPaymentInfActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorBasicInfoSetActivity" windowSoftInputMode="2">
+<activity name="doctorjob.com.cn.newversion.DoctorDeptInf" windowSoftInputMode="2">
+<activity name="doctorjob.com.cn.newversion.DoctorServiceSet">
+<activity name="doctorjob.com.cn.newversion.DoctorMyOrder">
+<activity name="doctorjob.com.cn.newversion.DoctorPhoneAskOrderActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorZzOrderActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorPersOrderActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorMyPatient">
+<activity name="doctorjob.com.cn.newversion.OnlineAnswerNewQuestion">
+<activity name="doctorjob.com.cn.newversion.OnlineAnswerRecommendQuestion">
+<activity name="doctorjob.com.cn.newversion.OnlineAnswerWaitReply">
+<activity name="doctorjob.com.cn.newversion.OnlineAnswerReplyFinish">
+<activity name="doctorjob.com.cn.newversion.DoctorMyPatientDetail">
+<activity name="doctorjob.com.cn.newversion.DocPhoneAskOrderDetail">
+<activity name="doctorjob.com.cn.newversion.DocZzOrderDetail">
+<activity name="doctorjob.com.cn.newversion.DoctorCertificActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorPhotoViewActivity">
+<activity name="doctorjob.com.cn.newversion.DoctorPhotoSendActivity" windowSoftInputMode="2">
+<activity name="doctorjob.com.cn.newversion.DoctorPhotoPreview">
+<activity name="doctorjob.com.cn.newversion.MyResumeSpecialTechPage" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.myresume.WhoSeeMeDetail" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.AddBlockActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouBlockDetail">
+<activity name="doctorjob.com.cn.newversion.SendPostActivity" windowSoftInputMode="2">
+<activity name="doctorjob.com.cn.newversion.ZhiyouBlockQuestionDetail" windowSoftInputMode="2">
+<activity name="doctorjob.com.cn.newversion.PopularPeoplePlaceActivity">
+<activity name="doctorjob.com.cn.newversion.BlockDetailSearchActivity" windowSoftInputMode="2">
+<activity name="doctorjob.com.cn.newversion.BlockSearchListinfo">
+<activity name="doctorjob.com.cn.newversion.ZhiyouMyPostActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouMyCollectActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouMyReplyActivity">
+<activity name="doctorjob.com.cn.newversion.NurseHouseActivity">
+<activity name="doctorjob.com.cn.newversion.MyOrderActivity">
+<activity name="doctorjob.com.cn.newversion.PersonCenterActivity">
+<activity name="doctorjob.com.cn.newversion.NursDetailActivity">
+<activity name="doctorjob.com.cn.newversion.ConfirmPayActivity">
+<activity name="doctorjob.com.cn.newversion.PaymentActivity">
+<activity name="doctorjob.com.cn.newversion.MyInfoActivity">
+<activity name="doctorjob.com.cn.newversion.CustomEvaActivity">
+<activity name="doctorjob.com.cn.newversion.RechargeActivity" windowSoftInputMode="3">
+<activity name="doctorjob.com.cn.newversion.MyAccountActivity">
+<activity name="doctorjob.com.cn.newversion.MyClientActivity">
+<activity name="doctorjob.com.cn.newversion.NearNurseActivity">
+<activity name="doctorjob.com.cn.newversion.UpdatePasswordActivity">
+<activity name="doctorjob.com.cn.newversion.LocalListActivity">
+<activity name="doctorjob.com.cn.newversion.MoreActivity">
+<activity name="doctorjob.com.cn.newversion.NurseUpPhoneActivity">
+<activity name="doctorjob.com.cn.newversion.MemberEditAdressActivtiy">
+<activity name="doctorjob.com.cn.newversion.ModNurIntroActivity">
+<activity name="doctorjob.com.cn.newversion.PointSearchActivity">
+<activity name="doctorjob.com.cn.newversion.PeihuProtocolActivity">
+<activity name="doctorjob.com.cn.newversion.MyResumeSpreadActivity">
+<activity name="doctorjob.com.cn.newversion.MyResumePayRecord">
+<activity name="doctorjob.com.cn.newversion.MyresumeSpreadBuyActivity">
+<activity name="doctorjob.com.cn.newversion.MyresumeSpreadDetailActivity">
+<activity name="doctorjob.com.cn.newversion.AliPayActivity">
+<activity name="doctorjob.com.cn.newversion.SelectGalleryActivity">
+<activity name="doctorjob.com.cn.newversion.SelectGalleryShowActivity">
+<activity name="doctorjob.com.cn.newversion.MyCurrentOrderActivity">
+<activity name="doctorjob.com.cn.newversion.MyHistoryOrderActivity">
+<activity name="doctorjob.com.cn.newversion.MyOrderDetailActivity">
+<activity name="doctorjob.com.cn.newversion.InfoChargePayActivity">
+<activity name="doctorjob.com.cn.newversion.PeihuPaymentActivity">
+<activity name="doctorjob.com.cn.newversion.MyCenterActivity">
+<activity name="doctorjob.com.cn.newversion.MemberEditInfoActivity">
+<activity name="doctorjob.com.cn.newversion.MemberSelfIntroduceActivity">
+<activity name="doctorjob.com.cn.newversion.MemberUpdatePasswordActivity">
+<activity name="doctorjob.com.cn.newversion.MemberUpdatePhoneActivity">
+<activity name="doctorjob.com.cn.newversion.MyAppraiseActivity">
+<activity name="doctorjob.com.cn.newversion.MemberRechargeActivity">
+<activity name="doctorjob.com.cn.newversion.MemberRecordActivity">
+<activity name="doctorjob.com.cn.newversion.LocalTopListActivity">
+<activity name="doctorjob.com.cn.newversion.MemberScheduleActivity">
+<activity name="doctorjob.com.cn.newversion.CurrentPositionActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouAttentionBlockActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouAttentionPostActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouRelatedPersonActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouPersonalInfoActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouPostDetailPraiseActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouHotPostActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouLatestPostActivity">
+<activity name="doctorjob.com.cn.newversion.ZhiyouMoreReplyActivity">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+9
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service enabled="true" name="doctorjob.com.cn.info.RemindInfoService">
+<service enabled="true" name="doctorjob.com.cn.info.NotificationService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":NotificationService" enabled="true" name="doctorjob.com.cn.push.NotificationService" exported="true">
+<service name="doctorjob.com.cn.service.DataUpdateService">
+3
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+0
+Owner: CN=doctorjob, OU=36cn, O=36cn, L=sz, ST=gd, C=cn
+Issuer: CN=doctorjob, OU=36cn, O=36cn, L=sz, ST=gd, C=cn
+Serial number: 52896e3f
+Valid from: Mon Nov 18 09:32:47 CST 2013 until: Wed Oct 25 09:32:47 CST 2113
+Certificate fingerprints: 
+	MD5:80:F7:2F:8D:A6:1C:20:D6:65:1D:1B:75:DA:11:F0:0E
+	SHA1: 2F:97:DE:05:7E:1F:F2:50:42:41:AB:67:C2:C3:8C:A1:3D:B3:65:B2
+	SHA256: 8C:9C:6D:13:30:21:78:58:E9:05:A4:47:45:93:67:84:92:5E:D7:7A:68:DD:A8:74:A0:EF:9D:36:99:C8:F2:7E
+	Signature algorithm name: SHA1withRSA
+	version: 3

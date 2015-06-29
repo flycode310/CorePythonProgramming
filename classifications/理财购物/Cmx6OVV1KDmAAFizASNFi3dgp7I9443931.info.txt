@@ -1,0 +1,75 @@
+oms.mmc.fortunetelling.hexagramssign.zhouyiliuyao
+265
+2.6.5
+9
+19
+21
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.BATTERY_STATS
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.RECEIVE_BOOT_COMPLETED
+com.android.vending.BILLING
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.BLUETOOTH
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+20
+<activity screenOrientation="1" name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyaoyaoWelcomeActivity" configChanges="160" exported="true" label="2131559300" windowSoftInputMode="32">
+<activity screenOrientation="1" name="oms.mmc.fortunetelling.zhouyiyuce.activity.WebBrowserActivity">
+<activity name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyaoyaoGuideActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyuceTabHostActivity" configChanges="160" windowSoftInputMode="32">
+<activity name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyuceMainActivity" configChanges="160" windowSoftInputMode="32">
+<activity name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyuceHistoryActivity" configChanges="160">
+<activity name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyuceClassActivity" configChanges="160">
+<activity name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyaoyaoActivity" configChanges="160">
+<activity name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyuceResultActivity" configChanges="160">
+<activity name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyuceSettingActivity" configChanges="160">
+<activity name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyuceHistoryRecordActivity" configChanges="160">
+<activity name="oms.mmc.fortunetelling.zhouyiyuce.activity.ZhouyiyuceClassKwnoledgeActivity" configChanges="160">
+<activity icon="2130837661" screenOrientation="1" name="oms.mmc.fu.core.ui.FyChoiceActivity" theme="2131624002" launchMode="2">
+<activity screenOrientation="1" name="oms.mmc.fu.core.ui.FyLingFuActivity" theme="2131624002">
+<activity name="mm.purchasesdk.iapservice.BillingLayoutActivity" theme="16973839" configChanges="160">
+<activity excludeFromRecents="true" name="safiap.framework.ui.UpdateHintActivity" theme="16973840" configChanges="128" launchMode="3">
+<activity name="oms.mmc.app.WebBrowserActivity">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.tencent.android.tpush.XGPushActivity" theme="16973839">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+8
+<service name="oms.mmc.fu.core.wallpaper.LiveWallpaperService" permission="android.permission.BIND_WALLPAPER" label="2131558480">
+<service name="mm.purchasesdk.iapservice.PurchaseService" exported="true">
+<service process="safiap.framework" name="safiap.framework.SafFrameworkManager" exported="true">
+<service process=":remote" name="safiap.framework.logreport.monitor.handler.LogreportHandler">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="oms.mmc.push.TrendsService">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service process=":qq_push_daemon" name="com.tencent.android.tpush.service.XGDaemonService">
+6
+<receiver name="oms.mmc.fortunetelling.zhouyiyuce.receiver.NotifyReceiver" label="NetworkConnection">
+<receiver name="newyear.mmc.oms.newyearlib.push.NewYearRemindReceiver">
+<receiver name="safiap.framework.CheckUpdateReceiver">
+<receiver name="oms.mmc.push.RemindReceiver">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="oms.mmc.push.PushReceiver" exported="false">
+0
+Owner: CN=suanming, OU=suanming, O=suanming, L=Tokyo, ST=Tokyo, C=Jp
+Issuer: CN=suanming, OU=suanming, O=suanming, L=Tokyo, ST=Tokyo, C=Jp
+Serial number: 4c78e525
+Valid from: Sat Aug 28 18:29:57 CST 2010 until: Sun May 31 18:29:57 CST 2065
+Certificate fingerprints: 
+	MD5:29:01:C7:E1:DC:99:9F:3B:0D:9E:5E:E1:95:9A:99:F8
+	SHA1: C8:61:14:36:60:C3:42:8F:EC:1A:B6:04:79:C8:B2:44:EB:FA:67:10
+	SHA256: 99:95:91:C2:1D:AF:A1:38:EB:52:E8:5F:97:6E:D4:13:DE:94:3E:18:D0:CA:22:E7:ED:35:3D:C6:E9:29:D0:D8
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,41 @@
+com.easaa.bgsb
+4
+4.0
+4
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+11
+<activity screenOrientation="1" name=".Welcome" theme="16973833">
+<activity screenOrientation="1" name=".Bgsb" theme="16973833">
+<activity screenOrientation="1" name=".List" theme="16973833">
+<activity screenOrientation="1" name=".Content" theme="16973833">
+<activity screenOrientation="1" name=".Content2" theme="16973833">
+<activity screenOrientation="1" name=".List_Content" theme="16973833">
+<activity screenOrientation="1" name=".Content_web" theme="16973833">
+<activity screenOrientation="1" name=".List2" theme="16973833">
+<activity screenOrientation="1" name=".WebPage" theme="16973833">
+<activity screenOrientation="1" name=".List3" theme="16973833">
+<activity screenOrientation="1" name="com.nd.dianjin.activity.OfferAppActivity" configChanges="160" launchMode="1">
+1
+<service name="com.nd.dianjin.service.PackageChangedService">
+0
+0
+Owner: CN=easaa, OU=easaa, O=easaa, L=SZ, ST=GD, C=CN
+Issuer: CN=easaa, OU=easaa, O=easaa, L=SZ, ST=GD, C=CN
+Serial number: 484a1d36
+Valid from: Fri Apr 13 17:18:42 CST 2012 until: Thu Mar 06 17:18:42 CST 2149
+Certificate fingerprints: 
+	MD5:DC:39:E2:B1:F0:BD:45:44:D3:D2:29:DB:C4:53:84:C9
+	SHA1: D2:2A:1C:38:B5:D2:ED:A5:7A:79:04:53:50:A3:8A:80:9B:76:11:F8
+	SHA256: 85:49:F0:45:33:BE:57:AB:09:A2:1B:73:10:3D:76:49:75:6A:EA:C2:85:79:D6:1E:07:67:16:10:B0:8A:FD:DF
+	Signature algorithm name: SHA256withRSA
+	version: 3

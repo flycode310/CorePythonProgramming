@@ -1,0 +1,102 @@
+com.iknowing.android
+111
+1.1.1
+2
+2
+17
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_APN_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+61
+<activity screenOrientation="1" name=".iKnowingInitiate" label="2131165225">
+<activity screenOrientation="1" name=".MyNoteSortActivity" label="2131165225">
+<activity screenOrientation="1" name=".MoreActivity" label="2131165225">
+<activity screenOrientation="1" name=".SyncLogAct" label="2131165225">
+<activity screenOrientation="1" name=".showImage.ImageGridView" label="2131165225">
+<activity screenOrientation="1" name=".PersonalCenterAct" label="2131165225" windowSoftInputMode="3">
+<activity name="MyRssAct">
+<activity screenOrientation="1" name=".PersonalCenterEditAct" label="2131165225" windowSoftInputMode="5">
+<activity screenOrientation="1" name=".SettingSyncAct" label="2131165225" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".FeedbakAdviceActivity" label="2131165225" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".MoreActivity">
+<activity screenOrientation="1" name=".AboutUsAct" label="2131165225" windowSoftInputMode="34">
+<activity name="com.weibo.net.ShareActivity" theme="2131296256" configChanges="160" windowSoftInputMode="37" launchMode="2">
+<activity screenOrientation="1" name=".LoginActivity" configChanges="48" label="2131165225" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ResetPWActivity" label="2131165225" windowSoftInputMode="4">
+<activity screenOrientation="1" name=".RegisterActivity" label="2131165225" windowSoftInputMode="5">
+<activity screenOrientation="1" name=".ScreenLock" label="2131165225">
+<activity screenOrientation="1" name=".ConfirmPassword" label="2131165225">
+<activity screenOrientation="1" name=".CanclePassword" label="2131165225">
+<activity screenOrientation="1" name=".MainPassword" label="2131165225">
+<activity screenOrientation="1" name=".MyNoteListActivity" label="2131165225" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".MainMenuActivity" label="2131165225">
+<activity screenOrientation="1" name=".BlackHorseAct" label="2131165225">
+<activity screenOrientation="1" name=".handwrite.TuyaActivity">
+<activity name="com.tencent.tauth.TAuthView" launchMode="2">
+<activity name=".handwrite.ApiUploadPhotoActivity">
+<activity name=".handwrite.TencentPhoto">
+<activity name=".handwrite.QQUPloadPic">
+<activity screenOrientation="1" name=".OtherNoteContentAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".BlackHorseNoteContentAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".NoteInfoAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".AttachmentListAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".Bind" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".SearchNoteAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".FriendAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".FriendShareAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".FriendShareGroup" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".FriendShareTitle" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".FriendHomeAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".FriendHomeAct2" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".FriendOfFriendAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".FriendOpenNoteAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".CreateNoteActivity" configChanges="224" label="2131165225" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".LookAndEditNoteActivity" configChanges="224" label="2131165225">
+<activity screenOrientation="1" name=".showImage.ShowImgAct" label="2131165225">
+<activity screenOrientation="1" name=".MyNoteActivity" configChanges="224" label="2131165225" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".MyNoteWebViewActivity" label="2131165225" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".CreateNoteCategoryActivity" label="2131165225">
+<activity screenOrientation="1" name=".CreateNewCategoryActivity" label="2131165225" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".functionnav.NavGroupAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".functionnav.NavFirstPageAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".functionnav.NavSecondPageAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".functionnav.NavThirdPageAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".functionnav.NavFourthPageAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".functionnav.NavFifthPageAct" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".functionnav.NavSixthPageAct" windowSoftInputMode="2">
+<activity name="com.renren.api.connect.android.AuthorizationHelper$BlockActivity" theme="16973835">
+<activity name="com.renren.api.connect.android.photos.UploadPhotoActivity">
+<activity name="com.renren.api.connect.android.photos.CreateAlbumActivity">
+<activity screenOrientation="1" name=".RecordViewActivity" label="2131165225">
+<activity name="com.tencent.weibo.webview.OAuthV2AuthorizeWebView" label="2131165225">
+4
+<service name="com.iknowing.services.SyncService">
+<service name="com.iknowing.services.DownloadService">
+<service name="com.iknowing.services.Listen">
+<service name="com.iknowing.services.Lock">
+0
+0
+Owner: CN=terry, OU=iknowing, O=iknowing, L=shanghai, ST=shanghai, C=CN
+Issuer: CN=terry, OU=iknowing, O=iknowing, L=shanghai, ST=shanghai, C=CN
+Serial number: 4f140e51
+Valid from: Mon Jan 16 19:47:29 CST 2012 until: Tue Oct 19 19:47:29 CST 2066
+Certificate fingerprints: 
+	MD5:65:F2:E4:7E:99:74:86:B3:1D:15:B5:90:F6:C2:69:D4
+	SHA1: B7:40:E7:DE:8F:E9:96:6D:7A:A1:D8:B0:6B:AC:7D:68:D1:16:ED:64
+	SHA256: 26:4F:A2:CD:26:19:C3:62:C9:EA:69:BB:1C:7F:F9:97:3E:B3:79:01:F4:A1:06:79:F7:89:38:36:DF:B7:A3:AB
+	Signature algorithm name: SHA1withRSA
+	version: 3

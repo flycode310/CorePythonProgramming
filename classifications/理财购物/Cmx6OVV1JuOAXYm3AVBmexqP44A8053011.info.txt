@@ -1,0 +1,40 @@
+cc.hittennis
+21
+9.1
+9
+17
+8
+android.permission.READ_PHONE_STATE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_NETWORK_STATE
+10
+<activity screenOrientation="6" name="com.unity3d.player.UnityPlayerProxyActivity" configChanges="1073745919" label="2130903040" launchMode="2">
+<activity screenOrientation="6" name="com.unity3d.player.UnityPlayerActivity" configChanges="1073745919" label="2130903040" launchMode="2">
+<activity screenOrientation="6" name="com.unity3d.player.UnityPlayerNativeActivity" configChanges="1073745919" label="2130903040" launchMode="2">
+<activity screenOrientation="6" name="com.chartboost.sdk.CBDialogActivity" theme="16973839" configChanges="176" windowSoftInputMode="16" launchMode="1">
+<activity excludeFromRecents="true" name="com.chartboost.sdk.CBImpressionActivity" theme="16973840">
+<activity name="com.tapjoy.TJCOffersWebView" configChanges="160">
+<activity name="com.tapjoy.TapjoyFullScreenAdWebView" configChanges="160">
+<activity name="com.tapjoy.TapjoyVideoView" configChanges="160">
+<activity name="com.tapjoy.TapjoyDailyRewardAdWebView" configChanges="160">
+<activity screenOrientation="1" name="com.umeng.adutils.SplashActivity">
+0
+2
+<receiver name="com.umeng.adutils.SmsMask">
+<receiver name="com.umeng.adutils.UpdateReceiver">
+0
+Owner: CN=shangyou, OU=shangyou, O=shangyou
+Issuer: CN=shangyou, OU=shangyou, O=shangyou
+Serial number: 50c35b1a
+Valid from: Sat Dec 08 23:22:02 CST 2012 until: Mon Nov 14 23:22:02 CST 2112
+Certificate fingerprints: 
+	MD5:F9:FF:17:E9:0C:B2:54:FC:51:39:48:02:E2:84:C5:D8
+	SHA1: 1B:86:09:A5:4F:53:9C:57:41:2E:89:62:B9:B1:4E:75:91:CF:AA:90
+	SHA256: C9:5D:C2:A3:A7:26:3B:98:CA:00:39:FB:3F:00:1E:C3:89:0B:09:94:A2:F3:A9:DF:E0:BB:1D:67:5F:B9:2C:15
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,102 @@
+com.icaikee.xrzgp
+18
+2.0.1
+10
+21
+21
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+com.icaikee.xrzgp.permission.JPUSH_MESSAGE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+53
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.StartupScreenActivity" theme="2131165197" label="2131099648" noHistory="true">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.common.firmoffer.detail.FirmOfferDetailActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.common.firmoffer.detail.FirmOfferPictureActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" name="com.icaikee.xrzgp.activity.comb.CombCommentFragmentActivity" theme="2131165199" configChanges="160" label="2131099648" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.common.combdetail.viewpoint.ViewPointListActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.common.combdetail.viewpoint.ViewPointDetailActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.common.firmoffer.detail.FirmOfferTradeListActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.common.firmoffer.list.FirmOfferListActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.XrzMainFragmentActivity" theme="2131165197" label="2131099648" launchMode="2">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.tab2.CombintionHotActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.tab2.topic.CombintionTopicActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.tab2.CombintionMineActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.tab2.FNUserHotActivity" theme="2131165199" label="2131099648">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.common.guide.shadow.GuideActivity" theme="16973840">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.common.guide.launch.GuideActivity" theme="16973839" exported="true">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.common.combdetail.adjust.AdjustRecordActivity" theme="16973839" exported="true">
+<activity screenOrientation="1" name="com.calendar.storm.controller.activity.common.share.ShareActivity" theme="2131165199">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.activity.GroupsDetailActivity" theme="2131165197" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.common.advert.AdOutWebViewActivity" theme="2131165199" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.common.combdetail.InvestRecoActivity" theme="2131165197" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.tab1.CombineMessageActivity" theme="2131165199" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.common.search.SearchActivity" theme="2131165199" exported="true" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.common.stockdetail.StockDetailActivity" theme="2131165199" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.stock.StockNewsDeatilActivity" theme="2131165199" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.tab4.about.AboutActivity" theme="2131165199" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.mine.FavouriteFragmentActivity" theme="2131165199" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.login.RegisterActivity" theme="2131165199" exported="true" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.login.RegisterLoginActivity" theme="2131165199" exported="true" windowSoftInputMode="5" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.login.RegisterVerifyActivity" theme="2131165199" exported="true" windowSoftInputMode="5" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.mine.SettingFragmentActivity" theme="2131165199" launchMode="1">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity hardwareAccelerated="true" name="com.umeng.fb.ConversationActivity" theme="2131165197">
+<activity hardwareAccelerated="true" name="com.umeng.fb.ContactActivity" theme="2131165197">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.common.combdetail.CombDetailActivity" theme="2131165199" exported="true">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.common.infodetail.InfoDetailFragmentActivity" theme="2131165199" exported="true">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.tab2.CombintionMotifActivity" theme="2131165199" exported="true">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.tab2.CombintionTypeActivity" theme="2131165199" exported="true">
+<activity name="com.calendar.storm.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.calendar.storm.controller.activity.common.advert.AdWebViewActivity" theme="2131165197" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.stock.StockSeacherActivity" theme="2131165199" exported="true" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.seacher.SeacherLookMoreActivity" theme="2131165199" exported="true" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.seacher.SeacherAllFragmentActivity" theme="2131165199" exported="true" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.stock.EncourageActivity" theme="2131165199" exported="true" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.fnuser.DynamicFragmentActivity" theme="2131165199" exported="true" launchMode="1">
+<activity name="com.icaikee.xrzgp.wxapi.WXEntryActivity" theme="2131165199" configChanges="1184" exported="true" launchMode="1">
+<activity hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.fnuser.FnuserDetailFragmentActivity" theme="2131165199" configChanges="1184" launchMode="1">
+<activity hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.trading.TradingFragmentActivity" theme="2131165199" configChanges="1184" launchMode="1">
+<activity hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.trading.EquityStockFragmentActivity" theme="2131165199" configChanges="1184" launchMode="1">
+<activity hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.trading.TradeLoginFragmentActivity" theme="2131165199" configChanges="1184" launchMode="1">
+<activity hardwareAccelerated="true" name="com.icaikee.xrzgp.activity.trading.TradingInfoFragmentActivity" theme="2131165199" configChanges="1184" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+4
+<service name="com.calendar.storm.controller.service.UpdateAppService">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="com.calendar.storm.controller.service.UpdatePointService" exported="false">
+4
+<receiver name="com.calendar.storm.controller.recevier.NetworkChangeReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.calendar.storm.controller.recevier.JPushReceiver">
+0
+Owner: CN=houyinbo, OU=icaikee, O=icaikee, L=ShangHai, ST=ShangHai, C=CN
+Issuer: CN=houyinbo, OU=icaikee, O=icaikee, L=ShangHai, ST=ShangHai, C=CN
+Serial number: 7ce01c72
+Valid from: Mon Sep 22 10:20:10 CST 2014 until: Tue Sep 09 10:20:10 CST 2064
+Certificate fingerprints: 
+	MD5:B5:20:C9:53:03:45:98:8E:1B:C0:64:1A:5D:1A:92:CB
+	SHA1: 4E:8A:E3:BC:02:84:25:19:F2:9A:D2:3E:D1:D9:A7:93:C3:EB:C6:30
+	SHA256: 78:87:71:6C:90:59:94:22:1E:96:C5:3A:D8:22:FD:16:BD:FE:FA:26:05:EF:5D:0F:B4:B6:0F:C5:64:FC:30:5E
+	Signature algorithm name: SHA256withRSA
+	version: 3

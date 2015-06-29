@@ -1,0 +1,75 @@
+com.baowa.wirelessdisk
+22
+4.7
+4
+-1
+11
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RESTART_PACKAGES
+android.permission.WAKE_LOCK
+37
+<activity name="ServerControlActivity">
+<activity name=".ConfigureActivity" class=".ConfigureActivity">
+<activity name="com.admogo.AdMogoWebView" label="2131165190">
+<activity name="com.lmmob.ad.sdk.LmMobAdWebView" configChanges="160">
+<activity name="com.lmmob.ad.sdk.LmMobFullImageActivity" configChanges="160">
+<activity name="com.mobisage.android.MobiSageActivity" configChanges="176">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="net.youmi.android.spotad.AdActivity" configChanges="176">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="com.adwo.adsdk.AdwoAdBrowserActivity" label="2131165190">
+<activity name="com.adwo.adsdk.AdwoSplashAdActivity" label="2131165190">
+<activity screenOrientation="1" name="com.vpon.adon.android.WebInApp" configChanges="240" label="2131165190">
+<activity name="com.vpon.adon.android.CrazyAdRun" theme="16973839" configChanges="240" label="2131165190">
+<activity clearTaskOnLaunch="true" finishOnTaskLaunch="true" name="com.vpon.adon.android.webClientHandler.QRActivity" configChanges="112">
+<activity clearTaskOnLaunch="true" finishOnTaskLaunch="true" name="com.vpon.adon.android.webClientHandler.ShootActivity" configChanges="112">
+<activity clearTaskOnLaunch="true" finishOnTaskLaunch="true" name="com.google.zxing.client.android.HelpActivity" configChanges="112">
+<activity clearTaskOnLaunch="true" finishOnTaskLaunch="true" screenOrientation="0" name="com.google.zxing.client.android.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity name="com.google.ads.AdActivity">
+<activity name="com.adchina.android.ads.views.AdBrowserView" theme="16973839" configChanges="176" label="2131165190">
+<activity name="com.adchina.android.ads.views.FullScreenAdActivity" theme="16973839" configChanges="176" label="2131165190">
+<activity name="cn.appmedia.ad.AdActivity">
+<activity name="com.winad.android.ads.VideoPlayerActivity">
+<activity name="com.mdotm.android.ads.MdotmLandingPage" label="2131165190">
+<activity name="com.millennialmedia.android.MMAdViewOverlayActivity" theme="16973831" configChanges="176">
+<activity name="com.millennialmedia.android.VideoPlayer" theme="16973831" configChanges="176">
+<activity name="com.mt.airad.MultiAD" theme="16973840" configChanges="176">
+<activity name="com.l.adlib_android.AdBrowseActivity" configChanges="176" windowSoftInputMode="18">
+<activity name="com.wooboo.adlib_android.AdActivity" configChanges="160">
+<activity name="com.wooboo.adlib_android.FullActivity" configChanges="160" launchMode="2">
+<activity name="com.lmmob.ad.sdk.LmMobAdWebView" configChanges="160">
+<activity name="com.lmmob.ad.sdk.LmMobFullImageActivity" configChanges="160">
+<activity name="com.tencent.mobwin.MobinWINBrowserActivity">
+<activity name="net.winsmedia.WebViewActivity" configChanges="160">
+<activity name="com.suizong.mobplate.ads.AdActivity" configChanges="176">
+<activity name="com.baidu.AppActivity" configChanges="176">
+<activity name="com.tencent.mobwin.MobinWINBrowserActivity">
+<activity name="net.winsmedia.WebViewActivity" configChanges="160">
+4
+<service name=".FTPServerService">
+<service process=":remote" name="com.admogo.UpdateService" exported="true">
+<service process=":remote" name="com.admogo.CountService" exported="true">
+<service name="com.mobisage.android.MobiSageApkService" exported="true">
+3
+<receiver name=".WidgetProvider" label="2131165259">
+<receiver name=".WidgetProvider" label="2131165259">
+<receiver name="com.winad.android.ads.ReciveInstallPackage">
+0
+Owner: CN=Baowa
+Issuer: CN=Baowa
+Serial number: 4d3bb8a8
+Valid from: Sun Jan 23 13:12:08 CST 2011 until: Mon Jan 10 13:12:08 CST 2061
+Certificate fingerprints: 
+	MD5:63:E3:CC:83:ED:42:2A:84:B9:83:00:33:BF:AB:A7:AA
+	SHA1: EC:67:A1:80:5A:9C:A0:96:86:D1:20:97:EF:A9:5C:FA:FE:85:34:8F
+	SHA256: 1F:4E:F5:AB:C7:54:16:37:FB:5C:EE:B8:F0:93:9B:E4:27:1E:63:79:0B:55:54:73:C8:C4:B5:C8:A4:7E:E3:BF
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,41 @@
+com.baijia.video
+200
+2.0.0
+8
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.SENDTO
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.SEND
+13
+<activity screenOrientation="1" name=".HomepageActivity" label="2131427329" launchMode="2">
+<activity name=".MyTabActivity" theme="2131492864" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".LunaticActivity" theme="2131492864" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".SearchActivity" theme="2131492864" configChanges="224" launchMode="0">
+<activity screenOrientation="1" name=".CategoryActivity" theme="2131492864" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".VideoDetailActivity" theme="2131492864" configChanges="224" launchMode="0">
+<activity name=".NotLunaticActivity" theme="2131492864" configChanges="224" launchMode="2">
+<activity name=".tab.MyTabHost" theme="2131492864" configChanges="224" launchMode="2">
+<activity name=".tab.MyTabHost" theme="2131492864" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".MyAd" theme="2131492864" configChanges="224" launchMode="2">
+<activity name=".RootActivity" theme="2131492864" configChanges="224">
+<activity name="MyWebActivity" theme="2131492864" configChanges="224">
+<activity name="com.waps.OffersWebView" configChanges="160">
+0
+0
+0
+Owner: CN=ufo
+Issuer: CN=ufo
+Serial number: 509cc0e2
+Valid from: Fri Nov 09 16:37:54 CST 2012 until: Mon Jul 11 16:37:54 CST 2512
+Certificate fingerprints: 
+	MD5:34:70:8F:C2:D9:50:5A:1E:E5:B0:6B:A5:04:D1:BF:75
+	SHA1: 03:85:94:E7:E8:95:82:39:32:D4:B2:58:99:D4:F3:B1:DF:0C:28:EF
+	SHA256: DA:A0:35:09:E0:4E:D0:02:A2:67:CD:8C:05:74:EF:88:44:3C:43:F4:F4:42:0D:C7:E0:32:51:20:D6:98:49:29
+	Signature algorithm name: SHA1withRSA
+	version: 3

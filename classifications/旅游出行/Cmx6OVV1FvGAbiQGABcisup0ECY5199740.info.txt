@@ -1,0 +1,41 @@
+com.zhiqu.lvxinglushang
+3
+3.0
+8
+18
+12
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CAMERA
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.MODIFY_AUDIO_SETTINGS
+5
+<activity name="com.zhiqu.lvxinglushang.activity.Welcome">
+<activity screenOrientation="1" name="com.zhiqu.lvxinglushang.activity.MainActivity" label="2131099648">
+<activity screenOrientation="1" name="com.zhiqu.lvxinglushang.activity.DetailTourismActivity" label="2131099648">
+<activity name="mm.purchasesdk.iapservice.BillingLayoutActivity" theme="16973839" configChanges="160">
+<activity excludeFromRecents="true" name="safiap.framework.ui.UpdateHintActivity" theme="16973840" configChanges="128" launchMode="3">
+3
+<service name="mm.purchasesdk.iapservice.PurchaseService" exported="true">
+<service process="safiap.framework" name="safiap.framework.SafFrameworkManager" exported="true">
+<service process=":remote" name="safiap.framework.logreport.monitor.handler.LogreportHandler">
+1
+<receiver name="safiap.framework.CheckUpdateReceiver">
+0
+Owner: CN=3986639, SERIALNUMBER=20150304235138029, C=CN
+Issuer: CN=CMCA application signing CA, C=CN
+Serial number: 164384b9
+Valid from: Wed Mar 04 23:52:45 CST 2015 until: Sun Mar 04 23:52:45 CST 2035
+Certificate fingerprints: 
+	MD5:E2:37:D8:07:0D:9C:AB:3C:29:4B:15:0B:0A:AB:C3:44
+	SHA1: AA:E9:E3:2A:81:BD:0A:5E:AA:53:FA:75:DB:FB:3B:8E:CF:B5:89:CF
+	SHA256: 85:DB:7C:2B:AD:50:DE:4F:49:A4:9C:53:DE:58:3A:99:D2:08:3D:9B:34:7E:5C:C4:99:D7:7E:52:AE:5B:E4:D7
+	Signature algorithm name: SHA1withRSA
+	version: 3

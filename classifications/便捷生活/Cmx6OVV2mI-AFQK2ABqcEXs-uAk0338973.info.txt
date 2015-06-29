@@ -1,0 +1,92 @@
+org.ccc.mm
+200
+2.00
+7
+8
+14
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+45
+<activity name=".activity.HomeActivity" theme="2131361887" label="2131296256">
+<activity name=".activity.MemoDetailsActivity" label="2131296758">
+<activity name=".activity.MemoEditActivity" label="2131296753" windowSoftInputMode="1">
+<activity name=".activity.SettingsActivity" label="2131296546">
+<activity name=".activity.MMCategoryList" label="2131296598">
+<activity name=".activity.MemoListActivity" label="2131296598">
+<activity name=".activity.SettingsMainActivity" label="2131296546">
+<activity name=".activity.ExportToTxtActivity" label="2131296793">
+<activity name=".activity.ImportFromTxtActivity" label="2131296792">
+<activity name=".activity.DeletedMemoListActivity" label="2131296786">
+<activity name=".activity.ImportExportSettingsActivity" label="2131296790">
+<activity name=".activity.ImportExportSettingsMainActivity" label="2131296790">
+<activity name="org.ccc.gdbase.activity.BackupEditActivity" label="2131296460">
+<activity name="org.ccc.gdbase.activity.BackupListActivity" label="2131296468">
+<activity name="org.ccc.gdbase.activity.AboutActivity" label="2131296548">
+<activity name="org.ccc.gdbase.activity.LogActivity" label="2131296256">
+<activity name="org.ccc.gdbase.activity.AppListActivity" label="2131296580">
+<activity name="org.ccc.base.activity.NeedOffersActivity" theme="16973835" label="2131296580">
+<activity name="org.ccc.base.activity.RemoveAdsDialog" label="2131296256">
+<activity name="org.ccc.gdbase.activity.OffersTestActivity" label="2131296256">
+<activity name="org.ccc.gdbase.activity.FileSelector">
+<activity name="org.ccc.gdbase.activity.SelectRingtoneActivity" label="2131296483">
+<activity name="org.ccc.gdbase.activity.DatetimeEditActivity" label="2131296408" windowSoftInputMode="1">
+<activity name="org.ccc.gdbase.activity.DatetimeListActivity" label="2131296406">
+<activity name="org.ccc.gdbase.activity.PrivacySettingsActivity" label="2131296418">
+<activity name="org.ccc.mm.activity.MemoShowSettingsActivity" label="2131296822">
+<activity name="org.ccc.mm.activity.MemoShowSettingsMainActivity" label="2131296822">
+<activity name="org.ccc.mm.activity.RemindSettingsActivity" label="2131296813">
+<activity name="org.ccc.mm.activity.RemindSettingsMainActivity">
+<activity name="org.ccc.gdbase.activity.PrivacySettingsMainActivity" label="2131296418">
+<activity name="org.ccc.gdbase.activity.ChangeSecurityQuestion" label="2131296434">
+<activity name="org.ccc.gdbase.activity.ChangePasswordActivity" label="2131296419">
+<activity name="org.ccc.gdbase.activity.LoginActivity" label="2131296417" windowSoftInputMode="4">
+<activity name="org.ccc.gdbase.activity.ForgetPasswordActivity" label="2131296441">
+<activity name="org.ccc.base.activity.CheckUpdateActivity" theme="16973835">
+<activity name="org.ccc.base.activity.DialogActivity" theme="16973835">
+<activity name="org.ccc.gdbase.activity.AlarmEditActivity" label="2131296348" windowSoftInputMode="1">
+<activity name="org.ccc.gdbase.activity.HelpListActivity">
+<activity name="org.ccc.mm.activity.HelpContent1Activity">
+<activity name="org.ccc.mm.activity.HelpContent2Activity">
+<activity name="org.ccc.base.activity.SupportAuthorDialog" label="2131296256">
+<activity name="org.ccc.gdbase.activity.SelectBkImageActivity" label="2131296272">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity name="net.youmi.android.AdBrowser" theme="16973837" configChanges="176">
+5
+<service name="org.ccc.mm.other.DeleteExpiredMemoService">
+<service name="org.ccc.base.backup.BackupService">
+<service name="org.ccc.base.other.WakescreenService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="net.youmi.android.AdService" exported="false">
+8
+<receiver name="org.ccc.base.activity.BackupListActivityWrapper$RestartReciver">
+<receiver name="org.ccc.mm.other.MemoWidget" label="2131296804">
+<receiver name="org.ccc.mm.other.MemoWidget2" label="2131296805">
+<receiver name="org.ccc.mm.other.MemoWidget3" label="2131296806">
+<receiver name=".core.MMStartupReciver">
+<receiver name=".core.MMRemindReciver">
+<receiver name="net.youmi.android.AdReceiver">
+<receiver name="net.youmi.android.offers.OffersReceiver" exported="false">
+0
+Owner: CN=FangJue Cai
+Issuer: CN=FangJue Cai
+Serial number: 4f76c26d
+Valid from: Sat Mar 31 16:38:05 CST 2012 until: Wed Mar 25 16:38:05 CST 2037
+Certificate fingerprints: 
+	MD5:57:D3:A7:2C:A0:28:2E:48:7D:85:09:49:51:A1:67:79
+	SHA1: 55:75:67:09:7E:FD:09:83:0C:BA:C9:71:96:ED:71:14:74:01:8A:0D
+	SHA256: DB:3D:A8:2B:27:C3:19:44:82:D1:CE:0F:18:97:36:6D:CD:C9:C2:72:EA:DC:41:3E:9F:48:66:BB:B0:D7:26:60
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,49 @@
+com.xiaomi.shop
+20121017
+1.1.20121017
+10
+-1
+22
+android.permission.INSTALL_PACKAGES
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.DELETE_PACKAGES
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+5
+<activity screenOrientation="1" name=".MainTabActivity" theme="16973833" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.xiaomi.common.WebViewActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name=".SplashActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name=".AboutActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.common.CommonServiceActivity" theme="16973833" configChanges="160">
+1
+<service name=".MainService" exported="false">
+1
+<receiver name="com.xiaomi.common.CommonReceiver">
+0
+Owner: EMAILADDRESS=miui@xiaomi.com, CN=MIUI, OU=MIUI, O=Xiaomi, L=Beijing, ST=Beijing, C=CN
+Issuer: EMAILADDRESS=miui@xiaomi.com, CN=MIUI, OU=MIUI, O=Xiaomi, L=Beijing, ST=Beijing, C=CN
+Serial number: e552a8ecb9011b7c
+Valid from: Tue Dec 06 11:26:26 CST 2011 until: Sat Apr 23 11:26:26 CST 2039
+Certificate fingerprints: 
+	MD5:70:14:78:A1:E3:B4:B7:E3:97:8E:A6:94:69:41:0F:13
+	SHA1: 7B:6D:C7:07:9C:34:73:9C:E8:11:59:71:9F:B5:EB:61:D2:A0:32:25
+	SHA256: C9:00:9D:01:EB:F9:F5:D0:30:2B:C7:1B:2F:E9:AA:9A:47:A4:32:BB:A1:73:08:A3:11:1B:75:D7:B2:14:90:25
+	Signature algorithm name: SHA1withRSA
+	version: 3

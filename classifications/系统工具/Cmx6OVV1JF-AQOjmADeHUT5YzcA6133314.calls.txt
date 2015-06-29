@@ -1,0 +1,4 @@
+android.database.Cursor: java.lang.String getString(int)
+android.content.pm.PackageManager: java.util.List getInstalledApplications(int)
+android.content.pm.PackageManager: java.util.List getInstalledPackages(int)
+android.os.Handler: boolean sendMessage(android.os.Message)

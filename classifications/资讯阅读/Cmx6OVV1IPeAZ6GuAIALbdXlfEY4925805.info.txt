@@ -1,0 +1,34 @@
+com.joymetec.ouxin.fruit
+11
+1.1.5
+8
+15
+8
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SEND_SMS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity screenOrientation="0" name="com.joymetec.ouxin.fruit.CutFruit" theme="16973831" configChanges="128" label="2131099648" launchMode="1">
+<activity screenOrientation="0" name="cn.egame.terminal.paysdk.EgamePayActivity" theme="16973841" configChanges="176">
+<activity name="cn.play.dserv.EmpActivity" configChanges="176" exported="true">
+2
+<service process=":dservice_v1" enabled="true" name="cn.play.dserv.DService" exported="false" label="dservice">
+<service name="com.unicom.wostore.unipay.paysecurity.SecurityServiceFramework">
+1
+<receiver process=":dservice_v1" name="cn.play.dserv.DsReceiver">
+0
+Owner: CN=3924024, SERIALNUMBER=20140707110748351, C=CN
+Issuer: CN=CMCA application signing CA, C=CN
+Serial number: 15c5fe41
+Valid from: Mon Jul 07 11:07:50 CST 2014 until: Fri Jul 07 11:07:50 CST 2034
+Certificate fingerprints: 
+	MD5:A9:E1:75:5F:9F:FC:FC:8B:B8:E0:8C:22:87:80:12:E2
+	SHA1: 75:0E:82:6C:DB:A7:A6:2C:B0:F6:70:59:2A:A0:CE:15:69:D3:C8:1A
+	SHA256: 5E:B4:86:B7:B5:C7:5E:25:17:CA:E5:92:8E:C9:41:CB:CF:95:4B:74:69:69:A0:C8:8C:51:45:5F:5F:22:17:D4
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,43 @@
+com.zxt.view
+5
+1.4
+8
+15
+12
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+9
+<activity screenOrientation="1" name=".MainActivity" theme="2131361794" configChanges="160" label="2131296256">
+<activity screenOrientation="0" name=".CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".FtpHomeSelectActivity" theme="2131361794" label="2131296292">
+<activity screenOrientation="1" name=".WinXpHelpActivity" theme="2131361794" configChanges="160" label="2131296297">
+<activity screenOrientation="1" name=".SetUpActivity" theme="2131361794" configChanges="160" label="2131296301">
+<activity screenOrientation="1" name=".FileManagerActivity" theme="2131361794" configChanges="160" label="2131296319">
+<activity screenOrientation="1" name=".WaitToFileActivity" theme="2131361794" configChanges="160" label="2131296337">
+<activity screenOrientation="1" name=".MobileFtpActivity" theme="2131361794" configChanges="160" label="2131296341">
+<activity screenOrientation="1" name=".HelpActivity" theme="2131361794" configChanges="160" label="2131296312">
+2
+<service enabled="true" stopWithTask="false" name=".ZxtService">
+<service enabled="true" stopWithTask="false" name=".ShareClientSerivce">
+0
+0
+Owner: CN=cao, L=shenzhen
+Issuer: CN=cao, L=shenzhen
+Serial number: 51c11fec
+Valid from: Wed Jun 19 11:05:16 CST 2013 until: Sun Jun 13 11:05:16 CST 2038
+Certificate fingerprints: 
+	MD5:45:54:77:C8:A9:82:EE:7C:D0:3F:21:BC:E3:3F:6D:E5
+	SHA1: 1B:0D:E4:0B:03:C3:2B:60:D4:57:E5:70:D2:B9:24:C7:70:EF:E9:06
+	SHA256: D1:2A:61:0F:63:6A:C5:DF:47:AE:86:A7:D1:B9:20:2F:6B:14:C9:21:CA:7A:19:EA:83:1E:DE:0E:2C:8E:5A:CC
+	Signature algorithm name: SHA1withRSA
+	version: 3

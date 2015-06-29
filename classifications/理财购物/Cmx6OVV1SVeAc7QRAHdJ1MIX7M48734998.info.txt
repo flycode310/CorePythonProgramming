@@ -1,0 +1,137 @@
+com.polyvi.cupmp
+101
+2.4.2
+8
+-1
+17
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+95
+<activity screenOrientation="1" name=".ui.ImppActivity" configChanges="160" label="2131099649">
+<activity screenOrientation="1" name="com.polyvi.activity.LaunchActivity" theme="16973833" configChanges="160" label="2131099649">
+<activity screenOrientation="1" name=".ui.common.CommonChargeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.common.CommonAddAccountActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.common.CityActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.game.GameRechargeActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.HomePageActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.cupmobile.PaywayActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.cupmobile.PaymentInitialActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.cupmobile.PaymentActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.cupmobile.PaymentBankListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.cupmobile.UPCardPaymentActivity" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".ui.vip.card.VipCardRecordActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.vip.card.VipCardMarketDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.vip.card.VipCardMarketActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.vip.card.VipCardMarketSubjectActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.vip.card.VipCardDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.vip.card.VipCardChargeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.vip.card.VipCardActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.bank.BankCardActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.cupmobile.MyBillActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.notice.NoticeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.notice.NoticeCouponDetaiActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.notice.NoticeActivityDetaiActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.notice.NoticeBillDetaiActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.notice.NoticeGeneralDetaiActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.ActivityWebViewActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.UserLoginActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.user.UserLoginHaveCardActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.UserLoginLockPatternActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.UserLoginAgreementActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.UserResetPasswordActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.UserRegisterActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.UserResetLockPatternActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.UserTimeoutLockPatternActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalCenterActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalInfoEditActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalSDInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalSDPwdModifyActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalPwdManageActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalPwdModifyActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalLockPatternActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalContactsActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.user.PersonalShippingAddressActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.more.MoreActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.more.FeedBackActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.more.HelpActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.more.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coupon.CouponActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coupon.CouponMarketActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.coupon.CouponMarketDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coupon.CouponDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".cropimage.CropImageActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.GlobalMerchantListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.GlobalMerchantMapActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.phone.PhoneRechargeActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.bank.CreditCardActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.BuyRecordDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.BuyRecordListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.Select3DBallActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.SelectDoubleBallActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.SelectSevenBallActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.TakeCashActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.lottery.ChargeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.SelectedListActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.lottery.LotteryIndexActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.UserInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.WinRecordDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.lottery.WinRecordListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.bank.QueryBalanceActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.bank.QueryBalanceCardListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.bank.QueryBalanceResultActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.common.CommonBillActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.bank.CashChargeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.bank.QueryBalanceNewActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.bank.VerifySDPinActivity" theme="2131361815" configChanges="160">
+<activity screenOrientation="1" name=".ui.bank.SupportBankListActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.bank.SupportBankInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.more.DownloadActivity" configChanges="160" launchMode="3">
+<activity screenOrientation="1" name=".ui.coachticket.IndexActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.SelectTargetStationActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.SelectStartCityActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.SelectStartStationActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.BuyRecordActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.BuyRecordDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.QueryCoachActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.CoachDetailActivity" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".ui.coachticket.NoticeActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.ContactActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.PassengerIndexdActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.SureOrderActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.coachticket.AddOrEditPassengerActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.coachticket.CalendarActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.common.CommonAddExtraActivity" configChanges="160">
+4
+<service enabled="true" name=".ui.util.download.DownloadService">
+<service enabled="true" name="com.polyvi.cupmp.service.LockScreenService">
+<service enabled="true" name=".service.NotificationService" label="NotificationService">
+<service name=".OpenUDID.OpenUDID_service">
+0
+1
+<provider authorities="com.polyvi.cupmp.cache" name=".db.provider.CacheContentProvider" exported="false">
+Owner: CN=Chenxiaoyao, OU=polyvi, O=polyvi, L=chengdu, ST=sichuan, C=CN
+Issuer: CN=Chenxiaoyao, OU=polyvi, O=polyvi, L=chengdu, ST=sichuan, C=CN
+Serial number: 4c357fa9
+Valid from: Thu Jul 08 15:35:05 CST 2010 until: Fri Apr 10 15:35:05 CST 2065
+Certificate fingerprints: 
+	MD5:6A:0F:55:8F:A6:03:CA:8D:B0:09:B2:2E:73:A2:16:D1
+	SHA1: 41:AF:42:B5:F7:45:6D:F5:D3:DF:00:F7:0C:81:00:7F:F4:8F:84:1B
+	SHA256: 1A:1C:41:81:CE:E7:C7:FB:3C:F8:A2:F4:F1:D2:A7:F1:76:B9:96:69:E7:7A:A3:28:11:E8:AD:3A:E2:56:8C:0A
+	Signature algorithm name: SHA1withRSA
+	version: 3

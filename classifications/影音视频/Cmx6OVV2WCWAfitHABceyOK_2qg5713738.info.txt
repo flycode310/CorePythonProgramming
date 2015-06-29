@@ -1,0 +1,64 @@
+com.xiami
+27
+1.4.3
+7
+-1
+11
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+28
+<activity screenOrientation="1" name=".activity.StartActivity" theme="2131361801" label="2131165185" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".activity.MainActivity" theme="2131361801" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".activity.LoginActivity" noHistory="true">
+<activity screenOrientation="1" name=".activity.JoinActivity">
+<activity screenOrientation="1" name=".activity.PopShareActivity" theme="16973835">
+<activity screenOrientation="1" name=".activity.CollectDetailActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.AlbumDetailActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.ArtistDetailActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.ArtistTop30Activity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.ArtistSimilartyActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.ArtistAlbumsActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.BillDetailActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.NumBillDetailActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.DescriptionActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.PerfLocalFolderActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.SearchActivity" theme="2131361801" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".activity.SearchSongActivity" theme="2131361801" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".activity.SearchAlbumActivity" theme="2131361801" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".activity.SearchArtistActivity" theme="2131361801" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".activity.SearchCollectActivity" theme="2131361801" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name=".activity.RadioPickrActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.PerfActivity">
+<activity screenOrientation="1" name=".activity.FeedBackActivity" theme="2131361801">
+<activity screenOrientation="1" name=".activity.AboutActivity" theme="2131361801" noHistory="true">
+<activity screenOrientation="1" name=".activity.WizardV2Activity" theme="2131361801" noHistory="true">
+<activity name="com.mobclick.android.UmengFeedback">
+<activity screenOrientation="1" name="com.exchange.View.PearlCurtainActivity" configChanges="160">
+<activity screenOrientation="1" name="com.exchange.View.ListCurtainActivity" configChanges="160">
+3
+<service name=".service.MusicPlayService" label="music play service">
+<service process=":push" name=".service.PushService" label="push message receiver">
+<service process=":DownloadingService" name="com.exchange.Public.DownloadingService" exported="true">
+0
+2
+<provider authorities="com.xiami.util.SearchSuggestionProvider" name=".util.SearchSuggestionProvider">
+<provider authorities="com.xiami.util.assetcontentprovider" name=".util.AssetContentProvider">
+Owner: CN=xiami.com, OU=xiami.com
+Issuer: CN=xiami.com, OU=xiami.com
+Serial number: 4c764010
+Valid from: Thu Aug 26 18:21:04 CST 2010 until: Mon Aug 20 18:21:04 CST 2035
+Certificate fingerprints: 
+	MD5:84:84:84:2A:80:90:84:A8:6D:A1:65:AF:E6:C0:4D:B9
+	SHA1: 11:DE:FE:2C:F9:D8:13:73:EA:98:C8:7F:D5:E4:E5:EC:10:BD:51:40
+	SHA256: C6:27:43:B5:6B:9F:90:29:05:64:4A:D0:DC:12:5E:13:51:A6:F4:F4:77:32:15:D4:29:98:5B:6C:59:69:CA:93
+	Signature algorithm name: SHA1withRSA
+	version: 3

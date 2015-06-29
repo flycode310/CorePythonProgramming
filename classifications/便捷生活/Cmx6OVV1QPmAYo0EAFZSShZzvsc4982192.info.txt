@@ -1,0 +1,60 @@
+com.northpark.pushups
+54
+3.161
+9
+17
+8
+com.google.android.providers.gsf.permission.READ_GSERVICES
+com.android.alarm.permission.SET_ALARM
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+25
+<activity screenOrientation="1" name=".AdMobActivity" configChanges="240" label="2131296283" launchMode="3">
+<activity screenOrientation="1" name=".MainActivity">
+<activity screenOrientation="1" name=".OptionsActivity">
+<activity screenOrientation="1" name=".WidgetSubActivity">
+<activity screenOrientation="1" name=".ReminderSettings">
+<activity screenOrientation="1" name="LanguageActivity">
+<activity screenOrientation="1" name="ChartActivity">
+<activity screenOrientation="1" name="WorkoutActivity">
+<activity screenOrientation="1" name="StatisticActivity">
+<activity screenOrientation="1" name="NowActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="Now2Activity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="IntroduceActivity">
+<activity screenOrientation="1" name="TestActivity">
+<activity screenOrientation="1" name="PlanActivity">
+<activity screenOrientation="1" name="DoActivity">
+<activity screenOrientation="1" name="RestActivity" launchMode="1">
+<activity screenOrientation="1" name="TaskActivity">
+<activity screenOrientation="1" name="CongratulationsActivity">
+<activity screenOrientation="1" name="ExitActivity">
+<activity screenOrientation="1" name="LevelAdjustActivity">
+<activity screenOrientation="1" name=".More">
+<activity screenOrientation="1" name=".ThanksActivity">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+<activity name="com.dropbox.sync.android.DbxAuthActivity">
+<activity name="com.dropbox.client2.android.AuthActivity" launchMode="2">
+2
+<service name="com.google.analytics.tracking.android.CampaignTrackingService">
+<service enabled="true" name="com.dropbox.sync.android.DbxSyncService" exported="false" label="Dropbox Sync">
+5
+<receiver name="com.google.analytics.tracking.android.CampaignTrackingReceiver" exported="true">
+<receiver process=":remote" name=".AlamrReceiver">
+<receiver name="com.northpark.pushups.SnoozeReceiver">
+<receiver name=".systemBootReceiver">
+<receiver icon="2130837572" name=".WidgetProvider" label="2131296283">
+0
+Owner: CN=NorthPark, OU=NorthPark, O=NorthPark, L=hangzhou, ST=zhejiang, C=CN
+Issuer: CN=NorthPark, OU=NorthPark, O=NorthPark, L=hangzhou, ST=zhejiang, C=CN
+Serial number: 4dfc20a4
+Valid from: Sat Jun 18 11:51:00 CST 2011 until: Fri Oct 19 11:51:00 CST 3010
+Certificate fingerprints: 
+	MD5:57:BF:28:D2:E8:86:A8:8F:31:3B:80:BB:11:F0:7D:50
+	SHA1: AC:00:A3:5E:C8:92:E4:39:10:59:5C:BB:E7:DD:0A:82:40:96:C5:A3
+	SHA256: AD:A4:7A:46:62:EE:0C:93:59:2F:AB:DF:7F:91:0B:51:CF:40:64:8D:65:5A:08:8F:3C:EF:42:B6:9B:A3:05:51
+	Signature algorithm name: SHA1withRSA
+	version: 3

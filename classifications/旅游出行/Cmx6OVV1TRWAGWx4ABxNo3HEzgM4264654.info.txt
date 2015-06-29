@@ -1,0 +1,39 @@
+com.example.huiyijiudian
+2
+2.0
+10
+15
+3
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+16
+<activity name=".Start_Activity" label="2131165187">
+<activity name=".MainActivity1">
+<activity name=".TabmoreActivity">
+<activity name=".TaboneActivity">
+<activity name=".TabtwoActivity">
+<activity name=".TabthreeActivity">
+<activity name=".TabfourActivity">
+<activity name=".webviewtab1">
+<activity name=".webviewtab4">
+<activity name=".About">
+<activity name=".ContentView2">
+<activity name=".Tab3_DataActivity">
+<activity name=".MainActivity">
+<activity name=".zhanhui">
+<activity name=".MainActivity2">
+<activity name=".MainContent_Activity">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 28c5675
+Valid from: Tue Nov 19 15:28:24 CST 2013 until: Thu Nov 12 15:28:24 CST 2043
+Certificate fingerprints: 
+	MD5:AC:4F:04:54:1C:AF:0A:C8:6B:8C:7C:CD:2B:74:13:65
+	SHA1: 84:18:74:6B:F3:10:C6:C5:68:1E:C8:D1:E6:B4:A3:22:28:EA:DD:4B
+	SHA256: AF:AE:BE:22:82:35:FA:46:EA:DB:C3:8B:37:D1:0C:F6:5D:05:5F:CB:DA:8D:B4:00:1D:69:B3:24:A0:BF:74:84
+	Signature algorithm name: SHA256withRSA
+	version: 3

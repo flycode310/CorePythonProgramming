@@ -1,0 +1,40 @@
+com.photo.easyphotoplayer
+23
+3.3
+9
+16
+10
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity name="com.photo.easyphotoplayer.PhotoPlayerMain" configChanges="1200" label="2131361820">
+<activity name="com.photo.easyphotoplayer.play.PlayFlingActivity" theme="16973831" configChanges="1200">
+<activity name="com.photo.photoplayer.utility.YeeronFolderDeleteProgressBar" theme="16973840" configChanges="1152">
+<activity name="com.photo.easyphotoplayer.setting.MusicPlayerActivity" theme="16973831" configChanges="160">
+<activity name="com.photo.easyphotoplayer.stylesetting.Setting" theme="16973831" configChanges="160">
+<activity name="com.wandoujia.ads.sdk.activities.AppDetailActivity" theme="2131427532">
+<activity name="com.wandoujia.ads.sdk.activities.AppWallActivity" theme="2131427532">
+<activity name="com.wandoujia.ads.sdk.activities.InterstitialActivity" theme="16973840">
+2
+<service name="com.photo.easyphotoplayer.play.MusicPlayerService" exported="true">
+<service process=":app_download" name="com.wandoujia.ads.sdk.download.AppDownloadService">
+0
+0
+Owner: CN=Yeeron, OU=Yeeron, O=Yeeron, L=Shanghai, ST=Shanghai, C=86
+Issuer: CN=Yeeron, OU=Yeeron, O=Yeeron, L=Shanghai, ST=Shanghai, C=86
+Serial number: 55a46e05
+Valid from: Sun Aug 10 20:58:56 CST 2014 until: Tue Jul 17 20:58:56 CST 2114
+Certificate fingerprints: 
+	MD5:48:DA:B8:76:A6:A6:C3:2B:68:81:DA:71:09:B9:27:EA
+	SHA1: C0:34:4C:9F:DB:CB:5D:69:73:3A:E7:F0:A4:FF:75:16:7C:DE:D7:6D
+	SHA256: 9D:DB:C8:6C:49:B5:BF:6E:C1:2B:50:A8:C5:53:79:F1:8A:46:81:B5:37:8D:83:C9:C3:C5:1D:F3:F4:26:5C:2D
+	Signature algorithm name: SHA256withRSA
+	version: 3

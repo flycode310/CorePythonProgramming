@@ -1,0 +1,262 @@
+com.corp21cn.flowpay
+35
+3.2
+7
+17
+38
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.ACCESS_LOCATION
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.WRITE_OWNER_DATA
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.SEND_SMS
+android.permission.WRITE_APN_SETTINGS
+android.permission.ACCESS_ASSISTED_GPS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.READ_OWNER_DATA
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.hardware.sensor.accelerometer
+android.permission.CHANGE_CONFIGURATION
+178
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.MainActivity" theme="2131492891" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.BlankActivity" theme="2131492891">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.AutoLoginActivity" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.ClientIntroducePage" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.AnnouncementActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.PuzzlePersonListActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.MainTabActivity" theme="2131492892" launchMode="2">
+<activity screenOrientation="1" name=".activity.CommonLoginActivity" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.LoginActivity" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.SmsRegisterAndLoginActivity" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.fragment.MoreActivity">
+<activity screenOrientation="1" name=".activity.SignActivity">
+<activity screenOrientation="1" name=".activity.FlowCoinActivity">
+<activity screenOrientation="1" name=".activity.PersonelCenterActivity">
+<activity screenOrientation="1" name=".activity.AboutPageActivity">
+<activity screenOrientation="1" name=".activity.LevelPageActivity">
+<activity screenOrientation="1" name=".activity.FeaturesPageActivity">
+<activity screenOrientation="1" name=".activity.BindMobileActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".activity.ChangeSecretActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".activity.ChangeNameActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".activity.ShareSetActivity">
+<activity screenOrientation="1" name=".activity.FeedBackActivity">
+<activity screenOrientation="1" name=".activity.HelpDetailActivity">
+<activity screenOrientation="1" name=".activity.GiftRuleActivity">
+<activity screenOrientation="1" name=".activity.DemoActivity">
+<activity screenOrientation="1" name=".activity.InviteFriendTaskActivity">
+<activity screenOrientation="1" name=".activity.DailyAttendanceActivity">
+<activity screenOrientation="1" name=".activity.ProblemDetailActivity">
+<activity screenOrientation="1" name=".activity.TaskFinishActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.PhoneContactActivity" exported="true" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".activity.NiuBExchangeActivity">
+<activity screenOrientation="1" name=".activity.NiubExchangeHistoryActivity">
+<activity screenOrientation="1" name=".activity.ExchangeTraceActivity">
+<activity screenOrientation="1" name=".activity.NiubExchangeDetailActivity">
+<activity screenOrientation="1" name=".activity.MyFlowCardActivity">
+<activity screenOrientation="1" name=".activity.FlowCardExchangeHistoryActivity">
+<activity screenOrientation="1" name=".activity.FlowBillActivity">
+<activity screenOrientation="1" name=".activity.FlowCardRechargeActivity">
+<activity screenOrientation="1" name=".activity.AppDetailNativeActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.InstallappFragmentNativeActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.JoinActivityFragmentActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.GameFragmentActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.DynamicFragmentNativeActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.WebFragmentActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.SystemDynamicDetailNativeActivity">
+<activity screenOrientation="1" name=".activity.ADPromotionActivity">
+<activity screenOrientation="1" name=".activity.BuyFlowActivity">
+<activity screenOrientation="1" name=".activity.ExchangeActivity">
+<activity screenOrientation="1" name=".activity.ExchangeTeleFareActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".activity.ExchangeHistoryActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.ShareInvitationCodeActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FindPassWordActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.HelpActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.HelpCenterActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.SetNewPasswordActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FilterTaskActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.SystemGiftActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.SystemRequestActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.RechargeActivity">
+<activity screenOrientation="1" name=".activity.MoreActivity">
+<activity screenOrientation="1" name=".activity.DefeatedFriendsActivity">
+<activity screenOrientation="1" name=".activity.RemindSetActivity">
+<activity screenOrientation="1" name=".activity.DynamicDetailActivity">
+<activity screenOrientation="1" name=".activity.DynamicDetailSystemActivity">
+<activity screenOrientation="1" name=".activity.PublicAccountActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.RequestFlowActivity" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.RechargeMobilActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.RegistActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.GenderSelectorListActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.CaituTaskResultActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.CaituActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.RobRedPackageActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.AmassActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.AmassPresentActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FriendHistoryTaskActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.DynamicDetailNativeActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.EnableInviteCodeActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.InviteActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.InviteFaceActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.CalendarActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.LevelPagerActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.LevelKnowledgeActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.WebActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.EarnFlowActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.GameActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.GuessGuide">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.GuessFinish">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.InviteContactActivity">
+<activity screenOrientation="1" name="cn.com.chinatelecom.account.lib.ct.DownloadApkActivity" theme="16973830">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.CaptureActivity" theme="16973830" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.ScanCodeLoginActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.QrcodeReceiveTicketOrCoinActivity">
+<activity screenOrientation="1" name="com.yuninfo.videoextand.SendCardActivity" theme="16973837" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.yuninfo.videoextand.ReadCardActivity" theme="16973837">
+<activity screenOrientation="1" name="com.yuninfo.videoextand.recorder.RecorderActivity" theme="16973837">
+<activity screenOrientation="0" name="com.yuninfo.videoextand.player.VideoPlayerActivity" theme="16973838">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.ShareActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.JigsawCoverActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.JigsawEngineActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.JigsawManagerActivity" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.JigsawGroupManagerActivity" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.JigsawDetailActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.JigsawGameActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.sina.WeiboShareActivity" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.TicketExchangeConfirmActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.TicketTabActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.NavigationDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.corp21cn.flowpay.activity.NavigationWebActivity" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.corp21cn.flowpay.activity.InternationalWebActivity" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowMonitorActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowMonitorSettingActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowMonitorModifyActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowMonitorWarnActivity">
+<activity screenOrientation="1" name=".activity.TelecomBillListActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowWarningTipActivity">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.corp21cn.flowpay.activity.TicketPresentActivity" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowPresentActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowPresentEditActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowPresentHistoryActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.AppRecommendActivity">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.corp21cn.flowpay.activity.WatchAdvertisementWebActivity" configChanges="1184">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.corp21cn.flowpay.activity.AdVideoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowPrivilegeDetailActivity" theme="2131492891" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.FlowAliPrivilegeDetailActivity" theme="2131492891" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.DianGActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.DianGDetailActivity" theme="2131492909">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.DianGTabActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.TicketSettingActivity">
+<activity screenOrientation="1" name="com.ct.yjdg.ui.ChinaTelecomYjdgActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.AutoUpgrateDialogActivity" theme="2131492894" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.WifiTipsActivity" theme="2131492894" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.CommonShareActivity" theme="2131492893" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.ShareAndCompleteActivity" theme="2131492894" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.TaskShareActivity" theme="2131492894" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.wxapi.WXEntryActivity" theme="16973840" exported="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.corp21cn.flowpay.yxapi.YXEntryActivity" theme="16973840" exported="true" launchMode="1">
+<activity screenOrientation="1" name=".activity.RedPackageFragmentMainActivity">
+<activity screenOrientation="1" name=".activity.RedPackageRushActivity">
+<activity screenOrientation="1" name=".activity.RedPackageRushFailedActivity">
+<activity screenOrientation="1" name=".activity.RedPackageShareActivity">
+<activity screenOrientation="1" name=".activity.ActiveFriendCircleRedActivity">
+<activity screenOrientation="1" name=".activity.DynamicDetailPublicActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgPleaseActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgPleaseContactActivity" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgPleasePhoneActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgPleaseActionActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgPleaseResultActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgMineActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgSendGeneralActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgSendGeneralPhoneActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgSendGeneralActionActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgSendGeneralResultActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgSendGenYunActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.SmsAuthToLoginActivity" launchMode="1">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RobRedPkgActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RobRedPkgRobbedActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.LuckyRedpkgActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.LuckyRedpkgSendedActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.BuyTicketMainActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.BuyTicketInputNumberActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.BuyTicketContactsActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.BuyTicketConfirmActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.BuyTicketExchangeInputNumActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.TicketExchangeInputNumActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.BuyTicketSuccessActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.WifiActivity" launchMode="2">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.activity.SmsVerifyLoginActivity">
+<activity screenOrientation="1" name=".activity.WifiListActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.WifiMapActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.WifiHotTypeActivity">
+<activity screenOrientation="1" name=".activity.WiFiHotRadarListActivity">
+<activity screenOrientation="1" name=".activity.PersonLevelPriviActivity">
+<activity screenOrientation="1" name=".activity.FlowCoinQAActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgMainActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.ui.RedPkgRankActivity">
+<activity screenOrientation="1" name="com.corp21cn.flowpay.redpkg.test.TestActivity">
+12
+<service name="com.corp21cn.flowpay.service.DianLeService">
+<service name="com.ct.yjdg.service.PollingCheckService">
+<service name="com.corp21cn.flowpay.service.DianLeService">
+<service name="com.corp21cn.flowpay.service.FlowPrivilegeWidgetService">
+<service name="com.corp21cn.flowpay.service.WifiCoreService">
+<service name="com.corp21cn.flowpay.service.WindowService">
+<service name="com.corp21cn.flowpay.service.WifiScanService">
+<service enabled="false" name="com.corp21cn.flowpay.smsintercepted.SmsReceiverService">
+<service process=":cn21push_v1" name="com.cn21.push.PushService" exported="true">
+<service name="com.corp21cn.flowpay.utils.DownloadService" exported="false">
+<service name="com.corp21cn.flowpay.utils.CheckAppOperationInforService" exported="false">
+<service name="com.corp21cn.flowpay.service.FlowMonitorService" exported="false">
+14
+<receiver name="com.corp21cn.flowpay.yxapi.YXAppRegister" permission="im.yixin.sdk.permission.YIXIN_SDK_MESSAGE">
+<receiver name="com.corp21cn.flowpay.smsintercepted.SMSBroadcastReceiver" exported="false">
+<receiver name="com.corp21cn.flowpay.provider.FlowTenPrivilegeWidgetProvider" label="2131230764">
+<receiver name="com.corp21cn.flowpay.provider.FlowPrivilegeWidgetProvider" label="2131230765">
+<receiver name="com.corp21cn.flowpay.receiver.PushMessageReceiver" exported="false">
+<receiver name="com.cn21.receiver.BootBroadcast" exported="false">
+<receiver name="com.cn21.receiver.RegistrationReceiver" exported="false">
+<receiver name="com.corp21cn.flowpay.receiver.WIFIReceiver">
+<receiver name="com.corp21cn.flowpay.receiver.WifiCardUsedReceiver">
+<receiver name="com.corp21cn.flowpay.receiver.NetChangeReceiver">
+<receiver name="com.corp21cn.flowpay.receiver.UserLoginReceiver">
+<receiver enabled="true" name="com.corp21cn.flowpay.receiver.BootReceiver" exported="true">
+<receiver name="com.corp21cn.flowpay.receiver.FlowpayShutDownReceiver">
+<receiver name="com.corp21cn.flowpay.receiver.FlowMonitorAlarmBroadcast" exported="true">
+0
+Owner: CN=www.21cn.com, OU=世纪龙信息网络有限责任公司, O=世纪龙信息网络有限责任公司, L=GuangZhou, ST=GuangDong, C=CN
+Issuer: CN=www.21cn.com, OU=世纪龙信息网络有限责任公司, O=世纪龙信息网络有限责任公司, L=GuangZhou, ST=GuangDong, C=CN
+Serial number: 4dd39fab
+Valid from: Wed May 18 18:30:03 CST 2011 until: Fri May 10 18:30:03 CST 2041
+Certificate fingerprints: 
+	MD5:1C:71:AF:12:BE:AA:24:E4:D4:C9:18:9F:3C:9A:D5:76
+	SHA1: 6C:75:CA:15:3F:D5:DF:CE:4B:BE:86:FE:85:A8:E4:EA:DE:55:F2:73
+	SHA256: B1:22:36:90:63:BE:8C:5A:80:9C:44:9C:3E:56:55:AF:E1:7B:D8:05:9A:82:73:B4:98:CC:9C:8B:7E:1B:9A:E8
+	Signature algorithm name: SHA1withRSA
+	version: 3

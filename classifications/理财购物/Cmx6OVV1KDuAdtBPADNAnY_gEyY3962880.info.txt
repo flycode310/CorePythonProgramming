@@ -1,0 +1,73 @@
+com.goldencarp.lingqianbao
+11
+3.0.4
+8
+21
+21
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.BROADCAST_PACKAGE_INSTALL
+android.permission.CALL_PHONE
+android.permission.BROADCAST_PACKAGE_REPLACED
+android.permission.RESTART_PACKAGES
+android.permission.BROADCAST_PACKAGE_CHANGED
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.BROADCAST_PACKAGE_ADDED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+22
+<activity screenOrientation="1" name=".MainActivity" label="2131427344" launchMode="2">
+<activity screenOrientation="1" name=".SogouSplashActivity">
+<activity screenOrientation="1" name=".SlashActivity" launchMode="2">
+<activity screenOrientation="1" name="com.hxcr.chinapay.activity.Initialize" theme="2131493107" launchMode="3">
+<activity screenOrientation="1" name="com.hxcr.chinapay.activity.InfoMain" theme="2131493107" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.hxcr.chinapay.activity.ResultInfo" theme="2131493107" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.hxcr.chinapay.activity.HelpMain" theme="2131493107" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.hxcr.chinapay.activity.SustainBankList" theme="2131493107" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.hxcr.chinapay.activity.SubmitSujestion" theme="2131493107" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umeng.socialize.view.ShareActivity" theme="2131493119" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.goldencarp.lingqianbao.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="com.tencent.tauth.AuthActivity">
+<activity screenOrientation="1" name=".SetGestureActivity" label="2131427415">
+<activity screenOrientation="1" name=".GestureLoginActivity" label="2131427416">
+<activity screenOrientation="1" name=".AlertActivity" theme="2131493110" label="2131427427">
+<activity screenOrientation="1" name=".LoginActivity" theme="2131493110" label="2131427433">
+<activity screenOrientation="1" name=".QuitAlertActivity" theme="2131493110" label="2131427434">
+<activity screenOrientation="1" name=".AutoCloseAlertActivity" theme="2131493110" label="2131427435">
+<activity name="com.umeng.socialize.view.CommentActivity" theme="2131493120" configChanges="144">
+<activity name="com.umeng.socialize.view.CommentDetail" theme="2131493120" configChanges="144" noHistory="true">
+<activity name="com.umeng.socialize.view.CommentDetailNoMap" theme="2131493120" configChanges="144" noHistory="true">
+4
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service process=":push" name="com.umeng.message.UmengService" exported="true" label="PushService">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.umeng.message.UmengDownloadResourceService">
+6
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver process=":push" name="com.umeng.message.SystemReceiver">
+<receiver process=":push" name="com.umeng.message.MessageReceiver">
+<receiver process=":push" name="com.umeng.message.ElectionReceiver">
+<receiver name="com.umeng.message.RegistrationReceiver" exported="false">
+<receiver name="com.umeng.message.BootBroadcastReceiver">
+0
+Owner: CN=Golden Carp
+Issuer: CN=Golden Carp
+Serial number: 74af1c5e
+Valid from: Tue Feb 18 19:24:16 CST 2014 until: Mon Jun 21 19:24:16 CST 3013
+Certificate fingerprints: 
+	MD5:28:A2:64:3D:87:A9:43:AB:BA:BD:9B:25:D9:FD:2C:8E
+	SHA1: 2B:05:9F:2D:32:97:56:DF:35:23:40:1D:CC:B9:07:EF:F9:6E:A7:AE
+	SHA256: 58:3C:7F:3B:53:68:5E:4B:24:EC:89:6B:05:DA:DE:96:7C:CE:10:99:EA:D1:6B:2C:65:27:7C:9B:EB:0C:CE:33
+	Signature algorithm name: SHA256withRSA
+	version: 3

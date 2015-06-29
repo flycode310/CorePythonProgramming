@@ -1,0 +1,67 @@
+com.example.chinazk_zhangshangshenghuo
+1
+1.0
+8
+16
+10
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+37
+<activity name="WelComeActivity" theme="16973831">
+<activity name="MainActivity" theme="16973831" label="2131230788">
+<activity name="Activity1">
+<activity name="Activity2">
+<activity name="Activity2Sort" theme="16973831">
+<activity name="ActivityUser">
+<activity name="Activity_sendneed" theme="16973831">
+<activity name="TakePhotoActivity">
+<activity name="Activity_sendsupply" theme="16973831">
+<activity name="Activity2content" theme="16973831">
+<activity name="Activity3" theme="16973831">
+<activity name="Activity4" theme="16973831">
+<activity name="Activity1content" theme="16973831">
+<activity name="Activity3content" theme="16973831">
+<activity name="Activity4content" theme="16973831">
+<activity name="Activity_login" theme="16973831">
+<activity name="Activity_reg" theme="16973831">
+<activity name="Activity_needManage" theme="16973831">
+<activity name="Activity_supplyManage" theme="16973831">
+<activity name="ActivityUserArea" theme="16973831">
+<activity name="ActivityUserSort" theme="16973831">
+<activity name="Activity_CompanySupply" theme="16973831">
+<activity name="Activity_CompanySNContent" theme="16973831">
+<activity name="Activity_CompanyNeed" theme="16973831">
+<activity name="ActivityCompanyInfo" theme="16973831">
+<activity name="Activity_updatePwd" theme="16973831">
+<activity name="Activity_collect" theme="16973831">
+<activity name="Activity_Sort_snList" theme="16973831">
+<activity name="Activity_more" theme="16973831">
+<activity name="Activity_msgList" theme="16973831">
+<activity name="Activity_Msg_content" theme="16973831">
+<activity name="Activity_aboutMe" theme="16973831">
+<activity name="Activity2sort_snlist" theme="16973831">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="160" exported="true">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity name="Activity_callMe" theme="16973831">
+<activity name=".WelComAcitivyt1" theme="16973831">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 53ce02c7
+Valid from: Tue Jul 22 14:20:55 CST 2014 until: Thu Jul 14 14:20:55 CST 2044
+Certificate fingerprints: 
+	MD5:24:33:ED:7E:99:B3:B8:A8:E2:75:3E:BA:ED:CB:EB:AA
+	SHA1: 8F:3A:49:43:90:26:52:9B:76:A1:A4:EB:6F:C9:1D:36:33:3F:2B:09
+	SHA256: EA:23:A4:AF:B5:DC:6E:28:BF:C1:3B:12:04:93:98:D2:B8:C1:F4:41:01:3C:E9:09:5D:F1:F1:00:4B:D6:FF:63
+	Signature algorithm name: SHA1withRSA
+	version: 3

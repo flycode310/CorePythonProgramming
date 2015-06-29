@@ -1,0 +1,25 @@
+com.ytxt.ebook825872
+1
+1.0
+5
+-1
+1
+android.permission.WRITE_SETTINGS
+4
+<activity screenOrientation="1" name=".activity.MainActivity" label="2131099649">
+<activity screenOrientation="1" name=".activity.SectionActivity">
+<activity screenOrientation="1" name=".activity.MMBookActivity">
+<activity screenOrientation="1" name=".activity.BookmarkActivity">
+0
+0
+0
+Owner: CN=YuTian gd, OU=YTTech, O=Yutian, L=TianHe, ST=GuangZhou, C=China
+Issuer: CN=YuTian gd, OU=YTTech, O=Yutian, L=TianHe, ST=GuangZhou, C=China
+Serial number: 4c89c9c2
+Valid from: Fri Sep 10 14:01:38 CST 2010 until: Sat Jun 13 14:01:38 CST 2065
+Certificate fingerprints: 
+	MD5:58:59:DF:0F:4C:92:B3:81:4A:B5:90:96:C7:B2:DD:36
+	SHA1: BF:64:B5:84:A2:57:D2:4B:70:D2:7E:C7:DC:C9:B5:63:17:76:29:D6
+	SHA256: 70:2F:A3:FC:6C:20:6D:A9:17:3E:49:23:BF:A0:9F:86:2B:4A:23:8C:16:74:BB:34:3F:8E:1E:E8:45:46:F3:CC
+	Signature algorithm name: SHA1withRSA
+	version: 3

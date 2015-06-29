@@ -1,0 +1,67 @@
+com.dns.newdnstwitter_standard0package925
+102
+1.0.2
+4
+-1
+12
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_APN_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+35
+<activity screenOrientation="1" name=".DnsTwitter_standard0package925" configChanges="160" label="2131230725" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".login.Login" configChanges="160" label="2131230725" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".setup.SystemSetting" configChanges="160" label="2131230725">
+<activity screenOrientation="1" name=".message.MessageActivity" configChanges="160" label="2131230725">
+<activity screenOrientation="1" name=".map.Map" configChanges="160" label="2131230725">
+<activity screenOrientation="1" name=".son_view.IFunctionActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".son_view.LoginActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".son_view.FindPasswordSelectActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".son_view.RegisterSelectActivity" configChanges="224">
+<activity screenOrientation="1" name=".son_view.EmailRegisterActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".son_view.TelNumberRegisterActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".son_view.EmailFindPasswordActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".son_view.TelNumberModifyPasswordActivity" configChanges="224" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".son_view.ChangeSkinActivity" configChanges="224">
+<activity screenOrientation="1" name=".son_view.SettingActivity" configChanges="224">
+<activity screenOrientation="1" name=".son_view.MyReplyListActivity" configChanges="224">
+<activity screenOrientation="1" name=".son_view.HelpActivity" configChanges="224">
+<activity screenOrientation="1" name=".son_view.ContactUsActivity" configChanges="224">
+<activity screenOrientation="1" name=".son_view.ContactUsAddressActivity" configChanges="224">
+<activity screenOrientation="1" name=".son_view.WelcomeActivity" configChanges="224">
+<activity name=".son_view.NewsDetail">
+<activity name=".son_view.MagazineDetail">
+<activity screenOrientation="1" name=".son_view.PictorialDetail" configChanges="160">
+<activity name=".son_view.VoteDetail">
+<activity name=".son_view.SettingDetail">
+<activity name=".son_view.CollectionDetail">
+<activity name=".son_view.CommentDetail">
+<activity name=".son_view.MessageDetail">
+<activity name=".son_view.About">
+<activity name=".son_view.ShareActivity">
+<activity name="com.dns.framework.tagconfig.TagConfig">
+<activity name="basic.jar.share.com.tencent.weibo.webview.OAuthV1AuthorizeWebView" label="2131230725">
+<activity name="basic.jar.share.com.tencent.weibo.webview.OAuthV2AuthorizeWebView" label="2131230725">
+<activity name="basic.jar.share.com.weibo.net.ShareActivity" label="2131230725">
+<activity name="basic.jar.share.api.adapter.TecentResultActivity">
+0
+0
+0
+Owner: CN=dns.com.cn Inc., OU=www.dns.com.cn, O=dzs.mobi, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=dns.com.cn Inc., OU=www.dns.com.cn, O=dzs.mobi, L=Beijing, ST=Beijing, C=CN
+Serial number: 4c3f2bcc
+Valid from: Thu Jul 15 23:39:56 CST 2010 until: Mon Jul 09 23:39:56 CST 2035
+Certificate fingerprints: 
+	MD5:C3:85:B8:2B:DF:17:3C:D9:4E:28:93:28:3A:C6:09:9C
+	SHA1: 6D:5A:76:AD:41:91:DC:7A:4F:AA:BD:38:45:29:FB:42:73:0C:D8:C9
+	SHA256: 1A:25:34:A2:0C:09:E7:3A:19:F6:6B:91:AA:40:60:4A:D9:15:9B:02:BB:50:19:F5:37:40:F5:1C:EA:0C:C0:0B
+	Signature algorithm name: SHA1withRSA
+	version: 3

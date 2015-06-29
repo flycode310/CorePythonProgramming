@@ -1,0 +1,32 @@
+com.family.notepad
+10
+1.0
+-1
+-1
+7
+android.permission.READ_PHONE_STATE
+android.permission.SEND_SMS
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+5
+<activity screenOrientation="5" name="com.family.notepad.MainActivity" label="2131099648">
+<activity screenOrientation="5" name="com.family.notepad.AddNotepad" windowSoftInputMode="17">
+<activity screenOrientation="5" name="com.family.notepad.AboutMain" windowSoftInputMode="17">
+<activity screenOrientation="5" name="com.family.notepad.ParentAppsDownload" windowSoftInputMode="17">
+<activity screenOrientation="5" name="com.family.notepad.SpeechRecognitionMainActivity">
+0
+0
+0
+Owner: CN=Yaoxin, OU=Yaoxin, O=Yaoxin, L=SH, ST=SH, C=CN
+Issuer: CN=Yaoxin, OU=Yaoxin, O=Yaoxin, L=SH, ST=SH, C=CN
+Serial number: 5100e36a
+Valid from: Thu Jan 24 15:31:54 CST 2013 until: Sat Jan 17 15:31:54 CST 2043
+Certificate fingerprints: 
+	MD5:1B:E7:C7:CD:0D:69:A8:B5:76:B9:AD:B7:92:34:38:23
+	SHA1: 71:CB:53:8C:0C:11:A9:8C:AA:EE:8E:69:99:27:CD:72:35:AD:38:C8
+	SHA256: 8D:69:34:DC:37:4B:BE:FA:7B:16:D0:28:C3:4E:B3:4B:04:F3:99:7E:66:E6:AA:7A:58:F3:43:9E:13:84:66:DB
+	Signature algorithm name: SHA1withRSA
+	version: 3

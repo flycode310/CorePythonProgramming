@@ -1,0 +1,99 @@
+com.aspirecn.dcop
+7
+android1.7
+9
+18
+20
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOG
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.BATTERY_STATS
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER_HINTS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+54
+<activity icon="2130837704" screenOrientation="1" name="com.aspirecn.framework.activity.LoadingActivity" label="2131165215" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.HomeFragmentActivityH" label="2131165215" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.RegActivityZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.LoginActivityZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.PresentFlowActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivitySettingZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityMyHongBaoZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ForgetActivityZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityRedpacketOwnerZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.PresentFlowActivityZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.AccountDetailActivityZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityAccountDetailZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.HongBaoBeiQActivityZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityPersonInfoZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.HongBaoDetailSendActivityZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityPersonInfo">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityPersonDetailZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityPersonDetail">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityUpdatePwdZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityUpdatePwd" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityCommonProblemZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityCommonProblem">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityHelpCenterZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityHelpCenter">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityGZWeiXinZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityAddFriendZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.HongBaoDetailActivityZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityFriendInfoZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityEditFriendZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityMyBillZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityPreRecordInMonthZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.PhoneBookActivityZ" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.PresentFlowRecordActivityZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityPresentRecordZ">
+<activity screenOrientation="1" name="com.aspirecn.framework.activity.VerDownloadActivity" theme="16973835" label="2131165215">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.WebShowActivity">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivitySetNotifyMessage">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.SendRedPacketActivityL" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ShowSentRedPacketResultActivityL">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.ActivityPresentSendSuccessZ">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.BuyActivityA" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.PayActivityA" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.PayOtherActivityA" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.PayResultActivityA">
+<activity screenOrientation="1" name="com.cmccpay.pay.sdk.activity.PaymentModeActivity" theme="16973837">
+<activity screenOrientation="1" name="com.cmccpay.pay.sdk.activity.WebActivity">
+<activity name="com.aspirecn.dcop.wxapi.WXPayEntryActivity" exported="true">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity name="com.aspirecn.dcop.wxapi.WXEntryActivity" exported="true">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.GetFlowActivityH" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.InputPhoneSuccessActivityL">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.SelectMobileFromPhonebookL" windowSoftInputMode="32">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity screenOrientation="1" name="com.aspirecn.dcop.activity.InputPhoneActivityH" windowSoftInputMode="32">
+2
+<service name="cn.com.fetion.openapi.gamecenter.impl.GetCodeService">
+<service name="cn.com.fetion.openapi.gamecenter.impl.GetTokenService">
+2
+<receiver name=".receiver.NetworkChangeReceiver">
+<receiver name="com.aspirecn.framework.receiver.FileDownloadCompleteReceiver">
+1
+<provider authorities="com.aspirecn.framework.utils.CourseDataProvider" name="com.aspirecn.framework.utils.CourseDataProvider">
+Owner: CN=aspirecn
+Issuer: CN=aspirecn
+Serial number: 2373a00e
+Valid from: Thu Oct 16 13:49:02 CST 2014 until: Sat Oct 08 13:49:02 CST 2044
+Certificate fingerprints: 
+	MD5:A5:9F:6C:17:15:FA:D3:AB:1B:89:17:9D:71:A1:F6:F7
+	SHA1: 6D:FC:B7:91:51:1E:24:91:EC:04:D3:94:D9:F7:AA:CB:68:57:BD:54
+	SHA256: 08:C8:AE:78:0A:CD:73:99:AF:BE:DD:62:4E:14:1D:E6:13:B5:D6:49:59:BA:4D:E8:74:90:33:66:00:D0:66:25
+	Signature algorithm name: SHA256withRSA
+	version: 3

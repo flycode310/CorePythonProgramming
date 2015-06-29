@@ -1,0 +1,72 @@
+com.bingdian.hotelcool
+10
+2.0.6
+8
+-1
+15
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_APN_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+37
+<activity screenOrientation="1" name=".view.Loading" theme="16973830">
+<activity screenOrientation="1" name=".view.MainActivity" theme="16973830" label="2131099652" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name=".view.ReturnOpinion" theme="16973830">
+<activity screenOrientation="1" name=".view.About" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.CityList" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".view.hotelSearchList" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".view.orderList_orderAndMember" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".view.orderList_useCard" theme="16973830" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".view.hotelOrder" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.orderInfo_Map" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.orderInfo" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.orderList" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.accountRegister" theme="16973830">
+<activity screenOrientation="1" name=".view.accountManager" theme="16973830">
+<activity screenOrientation="1" name=".view.applyNewMember" theme="16973830">
+<activity screenOrientation="1" name=".view.setNewPassword" theme="16973830">
+<activity screenOrientation="1" name=".view.addMemberCard" theme="16973830" windowSoftInputMode="4">
+<activity screenOrientation="1" name=".view.tellFriend" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.hotelInfomation" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.MemberCardPackage_Main" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.MemberCardPackage" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.CalendarActivity" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.HotelInfo" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.CheckAccount" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.EverydayPrice" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.Prompt" theme="16973830" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".view.StarWebView" theme="16973830">
+<activity screenOrientation="1" name=".view.DownLoadActivity" theme="16973830">
+<activity name="com.tencent.tauth.TAuthView" exported="false" launchMode="2">
+<activity screenOrientation="1" name=".view.HotelMap" theme="16973830">
+<activity screenOrientation="1" name=".view.MobileRegister" theme="16973830">
+<activity screenOrientation="1" name=".view.QQLoadingActvity" theme="16973830">
+<activity screenOrientation="1" name=".view.HotelSearchlist_Map" theme="16973830">
+<activity screenOrientation="1" name=".view.HotelInfomationSweet" theme="16973830">
+<activity screenOrientation="1" name=".view.HotelInfomationSweetCopy" theme="16973830">
+<activity screenOrientation="1" name=".view.ShowImages" theme="16973830">
+<activity screenOrientation="1" name=".view.HotelSearchListTwo" theme="16973830">
+0
+0
+0
+Owner: CN=bingdian, OU=bingdian, O=bingdian, L=shanghai, ST=shanghai
+Issuer: CN=bingdian, OU=bingdian, O=bingdian, L=shanghai, ST=shanghai
+Serial number: eae625e
+Valid from: Wed Aug 01 11:39:19 CST 2012 until: Sun Jul 26 11:39:19 CST 2037
+Certificate fingerprints: 
+	MD5:09:93:72:27:00:B9:3A:C1:3E:7C:D3:15:DE:AF:04:27
+	SHA1: B8:59:FA:D6:C8:76:6B:CC:37:03:FA:AF:A3:9A:31:70:FF:F0:57:26
+	SHA256: 27:55:2D:7E:44:41:3B:6B:F7:35:89:D4:2E:30:E1:11:06:95:9E:CB:B7:9E:02:7D:CD:E4:01:FA:13:7D:9F:FD
+	Signature algorithm name: SHA256withRSA
+	version: 3

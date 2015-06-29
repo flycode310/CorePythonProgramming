@@ -1,0 +1,97 @@
+battymole.trainticket
+83
+8.1.4
+9
+-1
+8
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+68
+<activity screenOrientation="1" name=".a.SplashView" label="2131165185">
+<activity screenOrientation="1" name=".v.LoginView" label="2131165185">
+<activity screenOrientation="1" name=".v.MainView" label="2131165185" launchMode="1">
+<activity screenOrientation="1" name=".v.PersonalTicketAboutView" label="2131165185">
+<activity screenOrientation="1" name=".v.AboutView" label="2131165185">
+<activity screenOrientation="1" name=".v.QueryTicketView" label="2131165185">
+<activity screenOrientation="1" name=".v.StationView" label="2131165185">
+<activity screenOrientation="1" name=".v.QueryTicketResultView" label="2131165185">
+<activity screenOrientation="1" name=".v.TrainStopView" label="2131165185">
+<activity screenOrientation="1" name=".v.FilterOptionView" label="2131165185">
+<activity screenOrientation="1" name=".v.BookView" label="2131165185">
+<activity screenOrientation="1" name=".v.AddPassengerView" label="2131165185">
+<activity screenOrientation="1" name=".v.AddNewPassengerView" label="2131165185">
+<activity screenOrientation="1" name=".v.PreView" label="2131165185">
+<activity screenOrientation="1" name=".v.BankListView" label="2131165185">
+<activity screenOrientation="1" name=".v.CMBInsidePayView" label="2131165185">
+<activity screenOrientation="1" name=".v.CCBInsidePayView" label="2131165185">
+<activity screenOrientation="1" name=".v.CCBMobileCodeView" label="2131165185">
+<activity screenOrientation="1" name=".v.ABCInsidePayView" label="2131165185">
+<activity screenOrientation="1" name=".v.ABCMobileCodeView" label="2131165185">
+<activity screenOrientation="1" name=".v.BankPayTipsView" label="2131165185">
+<activity screenOrientation="1" name=".v.BankPayWebView" label="2131165185">
+<activity screenOrientation="1" name=".v.PayFinishView" label="2131165185">
+<activity screenOrientation="1" name=".v.Web2miWebView" label="2131165185">
+<activity screenOrientation="1" name=".v.QueryOrderListView" label="2131165185">
+<activity screenOrientation="1" name=".v.QueryOrderTicketView" label="2131165185">
+<activity screenOrientation="1" name=".v.RefundView" label="2131165185">
+<activity screenOrientation="1" name=".v.QueryOrderSettingView" label="2131165185">
+<activity screenOrientation="1" name=".v.ResignQueryTicketView" label="2131165185">
+<activity screenOrientation="1" name=".v.ResignBookView" label="2131165185">
+<activity screenOrientation="1" name=".v.NotCompOrderView" label="2131165185">
+<activity screenOrientation="1" name=".v.SystemSettingView" label="2131165185">
+<activity screenOrientation="1" name=".v.DelayCheckView" label="2131165185">
+<activity screenOrientation="1" name=".v.PersonalInfoView" label="2131165185">
+<activity screenOrientation="1" name=".v.ModifyLoginPwdView" label="2131165185">
+<activity screenOrientation="1" name=".v.PersonalInputView" label="2131165185">
+<activity screenOrientation="1" name=".v.PassengerListView" label="2131165185">
+<activity screenOrientation="1" name=".v.PassengerDetailView" label="2131165185">
+<activity screenOrientation="1" name=".v.PassengerModifyView" label="2131165185">
+<activity screenOrientation="1" name=".v.QuickBuyView" label="2131165185">
+<activity screenOrientation="1" name=".v.QueryTicketDateView" label="2131165185">
+<activity screenOrientation="1" name=".v.QueryOrderSelectTicketView" label="2131165185">
+<activity screenOrientation="1" name=".v.QueryOrderInsureSelectView" label="2131165185">
+<activity screenOrientation="1" name=".v.OrderTraceView" label="2131165185">
+<activity screenOrientation="1" name=".v.RefundResultView" label="2131165185">
+<activity screenOrientation="1" name=".v.SelectTrainView" label="2131165185">
+<activity screenOrientation="1" name=".v.SelectSeatView" label="2131165185">
+<activity screenOrientation="1" name=".v.QuickBuyListView" label="2131165185">
+<activity screenOrientation="1" name=".v.FavBuyView" label="2131165185">
+<activity screenOrientation="1" name=".v.RandCodeView" label="2131165185">
+<activity screenOrientation="1" name=".v.RandCodeWebView" label="2131165185">
+<activity screenOrientation="1" name=".v.NotifyManagementView" label="2131165185">
+<activity screenOrientation="1" name=".v.TravelAndDiscoverView" label="2131165185">
+<activity screenOrientation="1" name=".v.ExtListView" label="2131165185">
+<activity screenOrientation="1" name=".v.MessageCenterView" label="2131165185">
+<activity screenOrientation="1" name=".v.OfflineOrderListView" label="2131165185">
+<activity screenOrientation="1" name=".v.OfflineOrderTicketView" label="2131165185">
+<activity screenOrientation="1" name=".v.SelectNetServerView" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.ConfirmOrder" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.InsureStore" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.MyInsureOrder" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.MyInsureOrderDetail" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.StoreAddPassenger" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.StoreFillInsureOrder" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.StorePassengerList" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.WebViewInsure" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.OrderFillInsureOrder" label="2131165185">
+<activity screenOrientation="1" name="com.web2mi.insure.v.OrderInsureList" label="2131165185">
+1
+<service name=".s.NTService" exported="false">
+0
+0
+Owner: CN=web2mi-android-trainticket, OU=web2mi-android, O=web2mi, L=nanjing, ST=jiangsu, C=CN
+Issuer: CN=web2mi-android-trainticket, OU=web2mi-android, O=web2mi, L=nanjing, ST=jiangsu, C=CN
+Serial number: 4f87d082
+Valid from: Fri Apr 13 15:06:42 CST 2012 until: Tue Apr 07 15:06:42 CST 2037
+Certificate fingerprints: 
+	MD5:F7:E7:B0:F6:89:FF:C8:39:10:5B:36:8E:5A:C0:82:82
+	SHA1: 13:D0:5B:B0:51:88:4E:5D:E6:BB:9F:1B:19:0B:05:29:4D:33:86:5C
+	SHA256: 0A:8C:31:E2:02:07:F7:73:9A:B9:27:12:83:B4:BE:23:04:B1:74:C4:B4:1A:0D:11:2F:E4:FA:7C:8F:D8:F5:33
+	Signature algorithm name: SHA1withRSA
+	version: 3

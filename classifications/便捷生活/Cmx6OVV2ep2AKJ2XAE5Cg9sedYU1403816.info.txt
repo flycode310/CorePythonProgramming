@@ -1,0 +1,126 @@
+com.wowsai.yundongker
+11
+2.1
+9
+18
+18
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+android.permission.BROADCAST_STICKY
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+77
+<activity name="com.wowsai.yundongker.activities.ActivityAppBreif">
+<activity name="com.wowsai.yundongker.activities.ActivityTabDiscover">
+<activity name="com.wowsai.yundongker.activities.ActivityTabCourse">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityQaPublish" configChanges="1184" windowSoftInputMode="20" launchMode="2">
+<activity name="com.wowsai.yundongker.activities.ActivityTabQAWithTag">
+<activity name="com.wowsai.yundongker.activities.ActivityQaMakePrograma">
+<activity name="com.wowsai.yundongker.activities.ActivityQaDetail">
+<activity name="com.wowsai.yundongker.activities.ActivityTabPerson">
+<activity name="com.wowsai.yundongker.activities.ActivityEditUserInfo">
+<activity name="com.wowsai.yundongker.activities.ActivityCourseDetail">
+<activity name="com.wowsai.yundongker.activities.ActivityCourseDetailNew">
+<activity name="com.wowsai.yundongker.activities.ActivityCourseDetailCommentList">
+<activity name="com.wowsai.yundongker.activities.ActivityShowIM">
+<activity name="com.wowsai.yundongker.activities.ActivityCourseAllSteps">
+<activity name="com.wowsai.yundongker.activities.ActivityLaudList">
+<activity name="com.wowsai.yundongker.activities.ActivityCourseByTag">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityCourseMakeTitle" configChanges="1184" windowSoftInputMode="20" launchMode="2">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityCourseMakeStep" configChanges="1184" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityCourseMakePrograma" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityCourseMakeTags" configChanges="1184" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityCourseMakeStepSort">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityCourseMakeStepDes" configChanges="1184" windowSoftInputMode="20">
+<activity name="com.wowsai.photoaibum.PhotoAlbumActivity">
+<activity name="com.wowsai.photoaibum.PhotoActivity">
+<activity name="com.wowsai.yundongker.activities.ActivityMain" launchMode="2">
+<activity name="com.wowsai.yundongker.activities.ActivitySplash">
+<activity name="com.wowsai.yundongker.activities.ActivityLogin">
+<activity name="com.wowsai.yundongker.activities.ActivityRegistUserInfo">
+<activity name="com.wowsai.yundongker.activities.ActivityRegist">
+<activity name="com.wowsai.yundongker.activities.ActivityRegistAuthCode">
+<activity name="com.wowsai.yundongker.activities.ActivityForgetPassword">
+<activity name="com.wowsai.yundongker.activities.ActivityResetPassword">
+<activity name="com.wowsai.yundongker.activities.ActivitySetting">
+<activity name="com.wowsai.yundongker.activities.ActivityUserIndex" launchMode="2">
+<activity name="com.wowsai.yundongker.activities.ActivityUserIndexOther">
+<activity name="com.wowsai.yundongker.activities.ActivityAboutUs">
+<activity name="com.wowsai.yundongker.activities.ActivityFeedBack">
+<activity name="com.wowsai.yundongker.activities.ActivityEditUserNick" windowSoftInputMode="16">
+<activity name="com.wowsai.yundongker.activities.ActivityEditUserSex" windowSoftInputMode="16">
+<activity name="com.wowsai.yundongker.activities.ActivityEditUserRegion">
+<activity name="com.wowsai.yundongker.activities.ActivityEditUserSign" windowSoftInputMode="16">
+<activity name="com.wowsai.yundongker.activities.ActivityAttentionWX">
+<activity name="com.wowsai.yundongker.activities.ActivityMsgListComment">
+<activity name="com.wowsai.yundongker.activities.ActivityMsgListReply">
+<activity name="com.wowsai.yundongker.activities.ActivityMsgListTome">
+<activity name="com.wowsai.yundongker.activities.ActivityMsgListLetter">
+<activity name="com.wowsai.yundongker.activities.ActivityMsgListCircle">
+<activity name="com.wowsai.yundongker.activities.ActivityModifyPassword" windowSoftInputMode="16">
+<activity name="com.wowsai.yundongker.activities.ActivityAttentionList">
+<activity name="com.wowsai.yundongker.activities.ActivityFansList">
+<activity name="com.wowsai.yundongker.activities.ActivitySearch">
+<activity name="com.wowsai.yundongker.activities.ActivityTabSearchResult">
+<activity name="com.wowsai.yundongker.activities.ActivityTabCateCourse">
+<activity name="com.wowsai.yundongker.activities.ActivityBindAccount">
+<activity name="com.wowsai.yundongker.activities.ActivityBindMobile" windowSoftInputMode="16">
+<activity name="com.wowsai.yundongker.activities.ActivityBindMobileVerfy" windowSoftInputMode="16">
+<activity name="com.wowsai.yundongker.activities.ActivityMsgLetterDetail">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131230748" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.wowsai.yundongker.sns.SnsShareActivity" theme="16973840">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityOpusUpload" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityOpusList" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityOpusDetail" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityTabCourseList" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.wowsai.yundongker.activities.ActivityTopicList" windowSoftInputMode="18">
+<activity name="com.wowsai.yundongker.activities.ActivityQAByTag">
+<activity name="com.wowsai.yundongker.activities.ActivityWebView">
+<activity name="com.wowsai.yundongker.sgq.activity.ActivityTabSgq" windowSoftInputMode="16">
+<activity name="com.wowsai.yundongker.sgq.activity.ActivityTabSgqInit">
+<activity name="com.wowsai.yundongker.sgq.activity.ActivitySgqApply">
+<activity name="com.wowsai.yundongker.sgq.activity.ActivitySgqEdit">
+<activity name="com.wowsai.yundongker.sgq.activity.ActivitySgqPublish">
+<activity name="com.wowsai.yundongker.sgq.activity.ActivitySgqCateSelect">
+<activity name="com.wowsai.yundongker.sgq.activity.ActivitySgqDetail" windowSoftInputMode="16">
+<activity name="com.wowsai.yundongker.sgq.activity.ActivitySgqShowIM">
+<activity name="com.tencent.android.tpush.XGPushActivity" theme="16973839" exported="true">
+9
+<service name="com.wowsai.yundongker.servicies.LoadUserDataService">
+<service name="com.wowsai.yundongker.servicies.InitAppService">
+<service name="com.wowsai.yundongker.servicies.CourseSynchronService">
+<service name="com.wowsai.yundongker.sgq.services.SgqSynUploadService">
+<service name="com.wowsai.yundongker.sgq.services.SgqCateSynSaveService">
+<service name="com.wowsai.yundongker.services.NotificationService">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service name="com.tencent.android.tpush.rpc.XGRemoteService" exported="true">
+<service process=":qq_push" name="com.tencent.android.tpush.service.XGDaemonService">
+2
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="com.wowsai.yundongker.receiver.NXXGMessageReceiver">
+0
+Owner: CN=yundongker, OU=www.wowsai.com, O=www.wowsai.com, L=beijing, ST=beijing, C=cn
+Issuer: CN=yundongker, OU=www.wowsai.com, O=www.wowsai.com, L=beijing, ST=beijing, C=cn
+Serial number: 53d71602
+Valid from: Tue Jul 29 11:33:22 CST 2014 until: Mon Nov 29 11:33:22 CST 3013
+Certificate fingerprints: 
+	MD5:62:79:06:20:B5:C8:75:A0:15:4C:4E:5A:64:5E:AF:1C
+	SHA1: 91:6F:12:47:6C:3E:3B:73:3A:31:A4:F4:07:F8:CE:51:72:8A:15:BC
+	SHA256: 89:F4:B6:AA:6D:D1:D2:3D:7D:46:28:F4:8E:61:1C:4A:42:49:60:43:EA:9C:53:CA:3F:26:FC:72:98:A9:12:95
+	Signature algorithm name: SHA1withRSA
+	version: 3

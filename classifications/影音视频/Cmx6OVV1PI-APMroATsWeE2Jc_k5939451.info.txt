@@ -1,0 +1,175 @@
+com.melot.studio
+3
+2.0.0
+14
+19
+29
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.DISABLE_KEYGUARD
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+getui.permission.GetuiService.com.melot.studio
+android.permission.VIBRATE
+android.permission.MANAGE_DOCUMENTS
+android.permission.CHANGE_NETWORK_STATE
+114
+<activity screenOrientation="1" name="com.melot.meshow.main.MainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.external.OpenPlatformWebview" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.main.rank.RoomRankList">
+<activity screenOrientation="1" name="com.melot.meshow.room.RoomStarRankActivity">
+<activity screenOrientation="1" name="com.melot.meshow.external.OpenCodePage" theme="2131427339">
+<activity screenOrientation="1" name="com.melot.meshow.dynamic.UserDynamicList">
+<activity screenOrientation="1" name="com.melot.meshow.dynamic.MessageDetailedImage">
+<activity screenOrientation="1" name="com.melot.meshow.dynamic.RewardTop20Activity">
+<activity screenOrientation="1" name="com.melot.meshow.match.MatchRankActivity">
+<activity screenOrientation="1" name="com.melot.meshow.news.NewsNotification">
+<activity screenOrientation="1" name="com.melot.meshow.news.SingleChat" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.news.chat.MulChat" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.news.chat.ImPhotoPreview">
+<activity screenOrientation="1" name="com.melot.meshow.news.DetailImageShow">
+<activity screenOrientation="1" name="com.melot.meshow.news.NewsGroupNotify">
+<activity screenOrientation="1" name="com.melot.meshow.dynamic.UserDynamicNew" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.melot.meshow.dynamic.UserDynamicNewMV" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.melot.meshow.main.TransActivity" theme="2131427339" exported="true" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.main.Loading" theme="2131427350">
+<activity screenOrientation="1" name="com.melot.meshow.main.WelcomeActivity">
+<activity screenOrientation="1" name="com.melot.meshow.account.QuickRegisterActivity" theme="2131427339" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.room.RoomLauncher" theme="2131427339">
+<activity screenOrientation="1" name="com.melot.meshow.room.ChatRoom" configChanges="1184" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.room.ChannelSetting">
+<activity screenOrientation="1" name="com.melot.meshow.room.ChannelSettingEdit" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.melot.meshow.room.RoomAnnouncementActivity" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.melot.meshow.room.ChoiceSong" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.room.RoomGroups">
+<activity screenOrientation="1" name="com.melot.meshow.account.UserLogin" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.account.KKUserLogin" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.account.UserRegister" windowSoftInputMode="5" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.account.PhoneRegisterVerify" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.melot.meshow.account.RegisterSuccess" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.account.ServiceAgreementActivity">
+<activity screenOrientation="1" name="com.melot.meshow.retrievepw.ForgotPassWordActivity" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.melot.meshow.retrievepw.VerifyCodeActivity">
+<activity screenOrientation="1" name="com.melot.meshow.retrievepw.ResetPassWordActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.more.SettingActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.mynamecard.MyNameCardEdit">
+<activity screenOrientation="1" name="com.melot.meshow.main.mynamecard.CitySetter">
+<activity screenOrientation="1" name="com.melot.meshow.main.NameCard">
+<activity screenOrientation="1" name="com.melot.meshow.main.mynamecard.UserNameCard">
+<activity screenOrientation="1" name="com.melot.meshow.main.mynamecard.UserVideoPlayActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.mynamecard.UserInfoEditActivity" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.melot.meshow.main.mynamecard.NewWorksActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.FansOrFollows">
+<activity screenOrientation="1" name="com.melot.meshow.main.more.BindActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.more.RoomAnimationSet">
+<activity screenOrientation="1" name="com.melot.meshow.main.more.NotifySettingActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.more.NotifyTimeSetActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.more.About">
+<activity screenOrientation="1" name="com.melot.meshow.main.more.FeedBack" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.melot.meshow.imageviewer.NewPhotoViewer" theme="2131427352" configChanges="128">
+<activity screenOrientation="1" name="com.melot.meshow.account.openplatform.OpenPlatformLogin">
+<activity screenOrientation="1" name="com.melot.meshow.room.openplatform.share.OpenPlatformBind">
+<activity screenOrientation="1" name="com.melot.meshow.room.openplatform.share.ShareActivity" windowSoftInputMode="5" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.account.openplatform.OpenPlatformRegiste">
+<activity screenOrientation="1" name="com.melot.meshow.main.ActionWebview">
+<activity screenOrientation="1" name="com.melot.meshow.main.more.ResetPassword" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.RoomSearch" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.contacts.Contacts">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.contacts.MyGroups">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.contacts.GroupMembers">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.contacts.GroupSearch" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.contacts.GroupSearchResultPage">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.contacts.ContactFind">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.contacts.GroupCreate">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.contacts.GroupCard" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.contacts.GroupApplyJoin" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.LiveRoomActivity" launchMode="2">
+<activity screenOrientation="1" name="com.melot.meshow.area.AreaSelectActivity">
+<activity screenOrientation="1" name="com.melot.meshow.fillmoney.FillMoney" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.melot.meshow.fillmoney.PaymentMethods">
+<activity screenOrientation="1" name="com.melot.meshow.fillmoney.AlipayActivity" windowSoftInputMode="32">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity screenOrientation="1" name="com.melot.meshow.fillmoney.PayecoActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.melot.meshow.wxapi.WXPayEntryActivity" exported="true" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.melot.studio.wxapi.WXEntryActivity" theme="16973841" exported="true" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoPluginLoadingActivity" theme="16973839" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoOrderDetailActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoPayResultActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoWebViewActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.payeco.android.plugin.PayecoRiskControlActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.melot.meshow.fillmoney.ChinaUnicomPay" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.melot.meshow.fillmoney.FillMoney2">
+<activity screenOrientation="1" name="com.melot.meshow.fillmoney.FillMoney3">
+<activity screenOrientation="1" name="com.melot.meshow.fillmoney.PaymentUnionPay" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.melot.meshow.main.UserCars">
+<activity screenOrientation="1" name="com.kascend.ui.Kas_UserLogin">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.melot.meshow.room.RoomActivities">
+<activity screenOrientation="1" name="com.melot.meshow.room.RoomPhotoPreView" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.melot.meshow.room.chat.RoomMessageHistory">
+<activity screenOrientation="1" name="com.melot.meshow.match.MatchInfoActivity">
+<activity screenOrientation="1" name="com.melot.meshow.match.MatchSignUpActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.ForeshowActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.rank.RankActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.StarLevelActivity">
+<activity screenOrientation="1" name="com.melot.meshow.match.MatchActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.search.SearchActivity" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.melot.meshow.main.hotmedia.HotMediaActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.hotmedia.HotTabActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.hotmedia.MoreHotTabActivity">
+<activity screenOrientation="1" name="com.melot.meshow.discovery.DynamicActivity">
+<activity screenOrientation="1" name="com.melot.meshow.viewed.ViewedActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.section.SectionActivity" theme="2131427344">
+<activity screenOrientation="1" name="com.melot.meshow.area.AreaDetailActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.liveroom.PopularStarsAreaActivity">
+<activity screenOrientation="1" name="com.melot.meshow.main.ApplyLiveActivity">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" configChanges="160" label="2131361792" windowSoftInputMode="16">
+4
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process="com.melot.studio" enabled="true" name="com.melot.meshow.util.AppStatusService" label="AppStatusService">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+7
+<receiver name="com.melot.meshow.room.openplatform.share.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver name="com.melot.meshow.main.InstallApkReceiver">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver name="com.melot.meshow.main.GexinSdkMsgReceiver">
+1
+<provider process=":pushservice" authorities="downloads.com.melot.studio" name="com.igexin.download.DownloadProvider">
+Owner: CN=melot, OU=melot.cn, O=melot, L=hangzhou, ST=zhejiang, C=86
+Issuer: CN=melot, OU=melot.cn, O=melot, L=hangzhou, ST=zhejiang, C=86
+Serial number: 50586dc4
+Valid from: Tue Sep 18 20:49:08 CST 2012 until: Wed Jun 22 20:49:08 CST 2067
+Certificate fingerprints: 
+	MD5:4D:17:3A:FA:5A:7A:72:A6:3E:3B:E3:78:89:4E:26:F5
+	SHA1: 9E:62:B1:C9:96:E8:5C:1E:48:75:F4:53:83:50:47:0B:FC:A9:C4:04
+	SHA256: 6B:F8:38:1D:62:15:A2:CA:63:9E:DD:99:0A:C7:66:66:8B:EA:5B:3C:2D:49:93:1E:A1:FF:A7:49:A6:61:DF:7D
+	Signature algorithm name: SHA1withRSA
+	version: 3

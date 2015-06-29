@@ -1,0 +1,31 @@
+com.example.whitepaper
+1
+1.0
+8
+17
+6
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity screenOrientation="1" name="com.example.whitepaper.MainActivity" label="2131034112">
+<activity name=".EditActivity">
+<activity screenOrientation="1" name=".TodoActivity" configChanges="160">
+<activity name=".CallActivity" theme="16973835" label="提取到的号码">
+<activity name="cn.waps.offerswebview" configChanges="160">
+0
+0
+0
+Owner: CN=xwd, OU=earth, O=earth, L=sanya, ST=hainan, C=cn
+Issuer: CN=xwd, OU=earth, O=earth, L=sanya, ST=hainan, C=cn
+Serial number: 11425e03
+Valid from: Thu Jul 04 17:06:15 CST 2013 until: Mon Jun 28 17:06:15 CST 2038
+Certificate fingerprints: 
+	MD5:66:3C:28:B8:0B:1B:93:66:07:3F:2A:F5:EC:66:CA:15
+	SHA1: D8:E5:8E:0F:77:E1:B5:53:46:00:F7:07:5A:2B:31:0F:E7:E8:C5:9E
+	SHA256: A6:5F:DF:07:24:F4:C8:66:6A:B2:67:F9:7D:27:96:5E:AB:4D:97:25:09:62:AF:CC:56:35:43:BC:38:6F:BF:54
+	Signature algorithm name: SHA256withRSA
+	version: 3

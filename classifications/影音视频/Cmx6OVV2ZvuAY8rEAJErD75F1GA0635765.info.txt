@@ -1,0 +1,120 @@
+com.sohu.sohuvideo
+4710
+4.7.1
+8
+19
+24
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+61
+<activity screenOrientation="1" name=".FirstNavigationActivityGroup" theme="2131296274" label="2131230720">
+<activity screenOrientation="1" name=".ui.NewbieGuideActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.MainActivity" theme="2131296263" launchMode="2">
+<activity screenOrientation="1" name=".ui.RecommendActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.RecommandActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.RecommendAlbumActivity" theme="2131296266">
+<activity screenOrientation="1" name=".ui.HotPointActivity" theme="2131296266">
+<activity screenOrientation="1" name=".ui.ChannelCategoryActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.FoundActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.ChannelCategoryDetailActivity" theme="2131296266">
+<activity screenOrientation="1" name=".ui.ChannelDetailActivity" theme="2131296266">
+<activity screenOrientation="1" name=".ui.ChannelAutoVideoListActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.ChannelUsTvShowAlbumDetailActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.VideoStreamActivity" theme="2131296265">
+<activity screenOrientation="1" name=".ui.SearchActivity" theme="2131296267">
+<activity screenOrientation="1" name=".ui.ShortVideoCommentActivity" theme="2131296263" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".ui.SweepActivity" theme="2131296263" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".ui.SweepResultActivity" theme="2131296263" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".ui.DialogBuilderActivity" theme="2131296331">
+<activity screenOrientation="1" name=".ui.OfflineActivity" theme="2131296266" launchMode="1">
+<activity screenOrientation="1" name=".ui.UploadActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.SettingsActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.PhoneRegisterActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.ActivateCodeActivity" theme="2131296263">
+<activity screenOrientation="1" name=".paysdk.ui.SohuAgreementActivity" theme="2131296263" launchMode="1">
+<activity screenOrientation="1" name=".wxapi.WXPayEntryActivity" theme="2131296263" exported="true" label="2131230720" launchMode="3">
+<activity screenOrientation="1" name=".ui.FileBrowserActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.DownloadVideosActivity" theme="2131296265">
+<activity screenOrientation="1" name=".ui.FreeflowActivity" theme="2131296265">
+<activity screenOrientation="1" name=".ui.UploadVideoEditActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.PersonalCenterActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.PersonalInfoActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.PersonalNicknameEditActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.PlayHistoryActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.MyAttentionActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.MyMessageActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.SubscribeActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.ProtocalActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.LoginActivity" theme="2131296262" exported="true" windowSoftInputMode="19">
+<activity name="com.sohu.sohuvideo.ui.VideoDetailActivity" theme="2131296265" configChanges="1248" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="0" name="com.sohu.sohuvideo.ui.PlayActivity" theme="2131296264" configChanges="1248" windowSoftInputMode="35" launchMode="0">
+<activity name="com.sohu.sohuvideo.wxapi.WXEntryActivity" exported="true" launchMode="0">
+<activity name=".ui.VipOpenActivity" theme="2131296270" configChanges="1248" launchMode="2">
+<activity screenOrientation="1" name=".ui.WebViewActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.LucencyWebViewActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.QBWebViewActivity" theme="2131296263" windowSoftInputMode="18">
+<activity screenOrientation="0" name=".ui.DLNAControlActivity" theme="2131296263">
+<activity screenOrientation="1" name=".ui.CopyrightActivity" theme="2131296263">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity screenOrientation="1" name=".pay.ui.SohuMoviePayActivity" theme="2131296341">
+<activity screenOrientation="1" name=".pay.ui.SohuMoviePayedFilmListActivity" theme="2131296263">
+<activity screenOrientation="1" name=".pay.ui.SohuMovieOrderListActivity" theme="2131296263">
+<activity screenOrientation="1" name=".pay.ui.SohuMovieCommodityListActivity" theme="2131296263">
+<activity screenOrientation="1" name=".pay.ui.SohuMovieOrderDetailActivity" theme="2131296263">
+<activity name="com.sohu.sohuvideo.control.push.PushTransparentActivity" theme="16973909" exported="true" launchMode="3">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name="com.sohu.app.ads.sdk.core.PadDetailsActivity" configChanges="1184">
+<activity name=".control.update.UpdateActivity" theme="2131296341">
+<activity screenOrientation="1" name=".ui.DownloadEntryActivity" theme="2131296268" configChanges="160" launchMode="3">
+<activity name=".ui.SohuEntryActivity" theme="16973909" exported="true" launchMode="3">
+10
+<service name="com.sohu.sohuvideo.control.download.DownloadService">
+<service process=":upload" name="com.sohu.sohuvideo.control.upload.UploadService">
+<service name="com.sohu.sohuvideo.control.push.PushService">
+<service name="com.sohu.sohuvideo.control.update.UpdateService">
+<service process=":schedulealarm" name="com.sohu.sohuvideo.service.ScheduleAlarmService">
+<service process=":logservice" name="com.sohu.sohuvideo.log.util.LogService">
+<service name="com.sohu.sohuvideo.service.ServiceForWebServer">
+<service name="com.sohu.upload.service.CountService">
+<service name="com.sohu.sohuvideo.service.ThirdLaunchService" exported="true">
+<service name=".service.BookmarkIntentService">
+4
+<receiver name="com.sohu.sohuvideo.service.SohuEntryReceiver" exported="true">
+<receiver name="com.sohu.sohuvideo.control.push.PushBroadcastReceiver">
+<receiver name="com.sohu.sohuvideo.control.push.PushBootReceiver">
+<receiver name="com.sohu.sohuvideo.service.ScheduleAlarmServiceReceiver">
+1
+<provider authorities="com.sohu.sohuvideo" name=".provider.VideoSystemProvider" exported="false">
+Owner: CN=sohuvideo, OU=tv, O=sohu, L=Beijing, ST=Beijing, C=86
+Issuer: CN=sohuvideo, OU=tv, O=sohu, L=Beijing, ST=Beijing, C=86
+Serial number: 4e7c2edc
+Valid from: Fri Sep 23 15:01:48 CST 2011 until: Sat Sep 10 15:01:48 CST 2061
+Certificate fingerprints: 
+	MD5:BA:99:96:11:33:A4:1F:2E:1F:AE:6B:C8:2A:B8:02:73
+	SHA1: 2D:71:0A:90:4C:06:E1:83:BE:44:94:1E:AF:B6:9B:1C:D8:3F:D4:38
+	SHA256: E3:4B:42:C0:AD:AA:1F:43:2F:08:1F:0F:1F:A0:DF:0D:0E:6D:27:70:E1:A4:95:FA:39:7B:47:F1:E6:FF:62:14
+	Signature algorithm name: SHA1withRSA
+	version: 3

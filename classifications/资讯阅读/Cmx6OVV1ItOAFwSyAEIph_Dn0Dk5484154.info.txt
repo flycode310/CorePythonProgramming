@@ -1,0 +1,73 @@
+com.ss.android.article.news
+285
+2.8.5
+8
+17
+13
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.android.launcher.permission.READ_SETTINGS
+android.permission.WRITE_SECURE_SETTINGS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+30
+<activity screenOrientation="1" name=".activity.SplashActivity" theme="2131492984" label="2131427334">
+<activity screenOrientation="1" name=".activity.MainActivity" configChanges="1200">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" exported="true">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.DetailActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.BaseSettingActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.SubscribeActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.DownloadActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.SearchActivity" configChanges="1200" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.CityListActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.SocialMyProfileActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.SocialOtherProfileActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.FavoriteActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.RecommendActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.MediaPlayerActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.profile.ProfileFriendActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.profile.ProfileFriendInviteActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.profile.ProfileFriendMessageActvity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.ReportActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.AdsAppActivity">
+<activity screenOrientation="1" name="com.ss.android.newmedia.feedback.FeedbackActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ss.android.newmedia.feedback.SubmitFeedbackActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.UpdateActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AuthorizeActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AuthActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.LoginActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.CommentActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AccountActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AccountActivity2">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.BrowserActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.SplashAdActivity" theme="2131492984">
+4
+<service name="com.ss.android.article.base.app.ArticleWidgetService" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.ss.android.newmedia.NotifyService">
+<service name="com.ss.android.newmedia.BatchActionService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+5
+<receiver name="com.ss.android.article.base.DownloadReceiver">
+<receiver name="com.ss.android.newmedia.app.DownloadCompleteReceiver">
+<receiver name="com.ss.android.article.base.app.ArticleWidgetProvider" label="2131427334">
+<receiver name="com.ss.android.newmedia.AppNoticeReceiver">
+<receiver name="com.ss.android.newmedia.BootReceiver">
+1
+<provider authorities="com.ss.android.article.base.ImageProvider" name="com.ss.android.article.base.ImageProvider" exported="false">
+Owner: CN=Micro Cao, OU=ByteDance, O=ByteDance, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Micro Cao, OU=ByteDance, O=ByteDance, L=Beijing, ST=Beijing, C=CN
+Serial number: 4efec96a
+Valid from: Sat Dec 31 16:35:54 CST 2011 until: Wed May 18 16:35:54 CST 2039
+Certificate fingerprints: 
+	MD5:AE:A6:15:AB:91:00:15:03:8F:73:C4:7E:45:D2:14:66
+	SHA1: 00:A5:84:E3:75:B5:57:3C:89:E1:F0:6F:5C:F6:0D:0D:65:DD:B6:32
+	SHA256: D7:81:1E:C4:16:6F:EA:6C:C7:20:BA:66:69:9D:C8:4B:58:4A:C9:E6:98:66:13:A7:6D:4E:43:D8:CB:E3:2B:27
+	Signature algorithm name: SHA1withRSA
+	version: 3

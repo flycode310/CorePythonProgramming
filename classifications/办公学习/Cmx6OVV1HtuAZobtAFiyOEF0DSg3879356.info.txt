@@ -1,0 +1,114 @@
+com.snda.inote
+60
+3.9.0
+8
+8
+26
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.BROADCAST_STICKY
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+com.snda.inote.permission.JPUSH_MESSAGE
+android.permission.WRITE_APN_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.PERMISSION_NAME
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+54
+<activity screenOrientation="1" name=".activity.NoteEditActivity" configChanges="160" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name=".activity.WelcomeActivity" label="2131492895" windowSoftInputMode="2">
+<activity name=".activity.TabManagerActivity" configChanges="160" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name=".activity.LoginNewOAActivity" label="2131492895" windowSoftInputMode="2">
+<activity name=".activity.CategoryListActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.RegisterActivity" label="2131492895" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.EmailRegisterActivity" label="2131492895" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.OtherAccountActivity" label="2131492895" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.ExitActivityParent" label="2131492895" windowSoftInputMode="2">
+<activity name=".activity.NoteListActivity" configChanges="160">
+<activity name=".activity.NoteViewActivity" configChanges="160">
+<activity name=".fileselector.FileSelector" configChanges="160">
+<activity name=".activity.TagsListActivity" configChanges="160">
+<activity name=".activity.tabgroup.TagListTabGroupActivity" configChanges="160">
+<activity name=".activity.tabgroup.CategoryTabGroupActivity" configChanges="160">
+<activity name=".activity.tabgroup.EmptyTabGroupActivity" configChanges="160">
+<activity name=".activity.PwdSettingActivity" configChanges="160" launchMode="2">
+<activity name=".activity.view.CategoryChooseActivity" configChanges="160" windowSoftInputMode="34">
+<activity name=".activity.SettingListActivity" configChanges="160" windowSoftInputMode="34">
+<activity name=".activity.AttachListActivity" configChanges="160" windowSoftInputMode="34">
+<activity name=".activity.view.TagChooseActivity" configChanges="160" windowSoftInputMode="34">
+<activity name=".activity.SearchListActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.DrawNoteActivity" configChanges="160">
+<activity name=".activity.view.NoteInfoActivity" configChanges="160">
+<activity name=".activity.view.TagEditActivity" configChanges="160">
+<activity name=".activity.view.CategoryEditActivity" configChanges="160">
+<activity name=".activity.QuickNoteEditActivity" theme="2131558449" configChanges="160" windowSoftInputMode="5">
+<activity name=".activity.FeedbackActivity" windowSoftInputMode="32" launchMode="2">
+<activity name="com.snda.recommend.ui.HtmlAppListActivity">
+<activity name="com.snda.recommend.ui.HtmlAppDetailActivity">
+<activity name="com.snda.recommend.ui.AppListActivity">
+<activity name="com.snda.recommend.ui.AppDetailActivity">
+<activity name="com.snda.recommend.ui.DownloadActivity">
+<activity screenOrientation="1" name=".activity.drawpen.DrawPenActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.drawpen.PenActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.drawpen.DrawActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.richtext.BackgroundSettingsActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.SndaLoginActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.camera.CropActivity" windowSoftInputMode="2">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name=".activity.camera.CameraActivity" theme="16973834" configChanges="160" label="2131493324" taskAffinity="maiku.task.camera">
+<activity screenOrientation="1" name=".activity.camera.PicEditorActivity" windowSoftInputMode="2">
+<activity name=".activity.TagPickerActivity" theme="2131558418" configChanges="160">
+<activity name=".activity.OutSizeDialogActivity" theme="2131558418" configChanges="160" exported="true">
+<activity screenOrientation="1" name=".activity.PlayRecordingActivity" configChanges="160">
+<activity name="com.snda.inote.galley.ImagesViewerActivity" theme="2131558468" configChanges="240" label="2131493498">
+<activity screenOrientation="1" name="com.zijunlin.Zxing.api.CaptureActivity" configChanges="160" windowSoftInputMode="3">
+<activity name=".activity.DataUpgradeActivity">
+<activity name=".activity.WebBrowserActivity" configChanges="128" launchMode="2">
+<activity screenOrientation="1" name="com.zijunlin.Zxing.api.CaptureHistoryActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.HiddenActvity" configChanges="160">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name=".activity.GestureSettingActivity">
+<activity name=".activity.WXPayTestActivity">
+<activity name=".activity.TagsStickyActivity" configChanges="160">
+5
+<service name=".api.MaiKuSyncService">
+<service name=".service.AutoSyncService">
+<service name=".provider.WidgetComponent$UpdateService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+8
+<receiver name=".provider.WidgetSmallComponent" label="2131492900">
+<receiver name=".provider.WidgetComponent" label="2131492898">
+<receiver name=".service.BootBroadcastReceiver">
+<receiver name="com.snda.recommend.services.OnAlarmReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.snda.inote.receiver.JPushReceiver">
+<receiver name=".receiver.NoteBootReceiver">
+1
+<provider authorities=".SuggestionProvider" name=".provider.SearchSuggestionProvider">
+Owner: CN=Kevin Como, OU=note.sdo.com, O=盛大网络, L=上海, ST=上海, C=中国
+Issuer: CN=Kevin Como, OU=note.sdo.com, O=盛大网络, L=上海, ST=上海, C=中国
+Serial number: 4cc15451
+Valid from: Fri Oct 22 17:07:29 CST 2010 until: Tue Oct 16 17:07:29 CST 2035
+Certificate fingerprints: 
+	MD5:F3:7B:93:0B:30:1E:CF:5B:AD:CA:A2:BF:A9:A5:FB:FD
+	SHA1: 36:7A:6F:70:B5:99:56:CF:43:71:A1:4E:59:97:93:7D:8A:E8:7F:A4
+	SHA256: 3F:7C:46:A4:34:23:C7:98:04:65:88:C6:5E:E7:87:C1:8D:67:2F:F4:FC:BB:14:40:FE:1B:B7:27:CC:09:B8:A0
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,37 @@
+com.cp.miaosha_kuaijishiwuzhong
+8
+1.7
+4
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+11
+<activity screenOrientation="5" name=".Main" theme="16973830" label="2131165185">
+<activity screenOrientation="5" name="ChapterExercise" theme="16973830" label="2131165185">
+<activity screenOrientation="5" name="ArticleList" theme="16973830" label="2131165185">
+<activity screenOrientation="5" name="Article" theme="16973830" label="2131165185">
+<activity screenOrientation="5" name="SubChapterExercise" theme="16973830" label="2131165185">
+<activity screenOrientation="5" name="ReviewLibrary" theme="16973830" label="2131165185">
+<activity screenOrientation="5" name="SysSet" theme="16973830" label="2131165185">
+<activity screenOrientation="5" name="QuestionInfo" theme="16973830" label="2131165185">
+<activity screenOrientation="5" name="ReQuestionInfo" theme="16973830" label="2131165185">
+<activity screenOrientation="5" name="More" theme="16973830" label="2131165185">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+0
+0
+0
+Owner: CN=xuwenbing, OU=santi group, O=santi group, L=shanghai, ST=shanghai, C=86
+Issuer: CN=xuwenbing, OU=santi group, O=santi group, L=shanghai, ST=shanghai, C=86
+Serial number: 55219735
+Valid from: Mon Dec 12 14:13:53 CST 2011 until: Mon Dec 03 14:13:53 CST 2046
+Certificate fingerprints: 
+	MD5:70:2F:F0:A6:E2:4C:A7:B8:AE:7D:88:69:DD:76:08:AF
+	SHA1: D5:54:F4:51:FF:19:EC:30:D7:EC:D4:CC:7E:61:5F:AF:C3:86:85:0D
+	SHA256: D6:B5:1C:D5:3E:99:DB:08:99:96:19:A6:41:BE:DC:95:B6:3A:5E:15:CF:F2:EA:BF:9F:97:1A:B8:1A:EB:D9:7F
+	Signature algorithm name: SHA256withRSA
+	version: 3

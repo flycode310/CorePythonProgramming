@@ -1,0 +1,27 @@
+com.zdweilai.WeBrowser.dzjdcxw
+1
+1.0
+3
+4
+5
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+1
+<activity screenOrientation="1" name=".WeBrowser" configChanges="160" label="2131034117">
+1
+<service name=".PushService">
+0
+0
+Owner: CN=Comet Guo, OU=http://timewe.net, O=Timewe, L=Shen Zhen, ST=Guang Dong, C=CN
+Issuer: CN=Comet Guo, OU=http://timewe.net, O=Timewe, L=Shen Zhen, ST=Guang Dong, C=CN
+Serial number: 4e2f76aa
+Valid from: Wed Jul 27 10:23:38 CST 2011 until: Mon Sep 14 10:23:38 CST 2093
+Certificate fingerprints: 
+	MD5:85:DB:B9:D1:1E:4F:FE:71:A1:68:29:B1:F5:ED:52:30
+	SHA1: 98:23:AD:C6:AB:0D:36:62:1C:17:FF:FA:F2:17:B4:3F:82:69:8E:EA
+	SHA256: BD:B6:71:B4:ED:2C:A5:C8:F1:2D:30:95:F5:28:91:5D:61:22:08:77:C8:39:7C:59:E6:49:55:45:97:B2:1A:16
+	Signature algorithm name: MD5withRSA
+	version: 1

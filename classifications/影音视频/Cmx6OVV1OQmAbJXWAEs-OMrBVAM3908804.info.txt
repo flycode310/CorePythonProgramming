@@ -1,0 +1,49 @@
+com.bngy.youdairadio
+3
+1.2
+7
+8
+11
+android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+android.permission.MOUNT_FORMAT_FILESYSTEMS
+android.permission.WRITE_APN_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.CHANGE_CONFIGURATION
+16
+<activity screenOrientation="1" name=".WelcomeActivity" label="2131165187">
+<activity screenOrientation="1" name=".HomePageActivity">
+<activity screenOrientation="1" name=".DrawerPageActivity">
+<activity screenOrientation="1" name=".FirstPageMusicActivity">
+<activity screenOrientation="1" name=".ListModeActivity">
+<activity screenOrientation="1" name="FavouritesActivity">
+<activity screenOrientation="1" name="SettingsActivity">
+<activity screenOrientation="1" name="SoftwareIntroductionActivity">
+<activity screenOrientation="1" name="SoftwareTutorialActivity">
+<activity screenOrientation="1" name="TeamIntroducedActivity">
+<activity screenOrientation="1" name="LawsActivity">
+<activity name="MusicActivity" configChanges="160" exported="true">
+<activity screenOrientation="0" name="WebViewActivity">
+<activity screenOrientation="0" name=".ProgramDetailActivity">
+<activity screenOrientation="1" name=".BlankActivity">
+<activity name="com.bngy.youdairadio.util.ShareActivity" theme="16973839">
+1
+<service name=".musicPlayer.AudioPlayer">
+1
+<receiver name=".MusicIntentReceiver">
+0
+Owner: CN=Chris Wang, O=bonneville, L=Beijing
+Issuer: CN=Chris Wang, O=bonneville, L=Beijing
+Serial number: 51065eb4
+Valid from: Mon Jan 28 19:19:16 CST 2013 until: Fri Jan 22 19:19:16 CST 2038
+Certificate fingerprints: 
+	MD5:54:32:E3:58:69:35:57:D5:EA:22:7F:B7:1A:9F:11:B6
+	SHA1: 12:6D:9E:34:65:1D:36:86:94:AC:A2:74:17:7D:51:4A:A7:E1:D1:73
+	SHA256: 9A:27:D1:BA:95:A5:CB:1F:39:73:EF:7F:19:05:06:72:19:D8:F6:73:D9:AD:43:E0:A5:FD:16:36:65:EA:A0:AF
+	Signature algorithm name: SHA1withRSA
+	version: 3

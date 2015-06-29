@@ -1,0 +1,51 @@
+com.taojin.dungeon.mm
+1
+2.0.0
+10
+-1
+18
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity screenOrientation="1" name="org.cocos2dx.cpp.AppActivity" theme="16973831" configChanges="128" label="2130968664">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.taojin.dungeon.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.snowfish.cn.ganga.offline.helper.SFGameSplashActivity" label="2130968664">
+<activity name="com.aiwu.Splash">
+<activity name="com.snowfish.a.a.s.PA" theme="16973840" configChanges="160" windowSoftInputMode="2">
+<activity name="mm.purchasesdk.iapservice.BillingLayoutActivity" theme="16973839" configChanges="160">
+<activity excludeFromRecents="true" name="safiap.framework.ui.UpdateHintActivity" theme="16973840" configChanges="128" launchMode="3">
+4
+<service enabled="true" name="com.snowfish.a.a.s.ABGSvc">
+<service name="mm.purchasesdk.iapservice.PurchaseService" exported="true">
+<service process="safiap.framework" name="safiap.framework.SafFrameworkManager" exported="true">
+<service process=":remote" name="safiap.framework.logreport.monitor.handler.LogreportHandler">
+1
+<receiver name="safiap.framework.CheckUpdateReceiver">
+0
+Owner: CN=hack, OU=hack, O=hack, L=hack, ST=hack, C=cn
+Issuer: CN=hack, OU=hack, O=hack, L=hack, ST=hack, C=cn
+Serial number: 45e69799
+Valid from: Fri Dec 27 10:21:26 CST 2013 until: Fri Nov 23 10:21:26 CST 4751
+Certificate fingerprints: 
+	MD5:A6:0E:87:C2:3C:A0:82:3A:91:F9:EF:48:F0:2F:B4:E2
+	SHA1: F0:FD:F0:13:6D:03:38:3B:A4:B2:BE:81:A1:4C:D4:B7:78:FB:1F:6C
+	SHA256: 2E:C3:F1:1F:B5:A5:EA:40:F9:39:28:8B:8A:9C:CD:2F:D7:63:96:4C:9D:6F:84:56:4F:DD:EE:AB:BC:7F:DC:E3
+	Signature algorithm name: SHA256withRSA
+	version: 3

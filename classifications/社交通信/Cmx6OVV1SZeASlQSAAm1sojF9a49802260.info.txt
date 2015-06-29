@@ -1,0 +1,53 @@
+lexun.ring
+23
+2.3.2
+8
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+23
+<activity name=".MyTabHostAct" label="2131230721">
+<activity name=".MySubTabHostAct">
+<activity name=".DownloadMgrSubTabHostAct">
+<activity name=".ListViewAct">
+<activity name=".TableAct">
+<activity name=".PhoneRingDownloadAct">
+<activity name=".PhoneRingDownloadMgrAct">
+<activity name=".PhoneRingDownloadByTopicAct">
+<activity name=".PhoneRingDownloadBySearchAct">
+<activity name=".PhoneRingDownloadByTypeAct">
+<activity name=".PhoneRingDownloadRecommendAct">
+<activity name=".PhoneRingDownloadRankAct">
+<activity name=".TopicListAct">
+<activity name=".SearchAct">
+<activity name=".MyAdsAct">
+<activity name=".MyDownloadManagerAct">
+<activity name=".LocalRingAct">
+<activity name=".ProposeAct">
+<activity name=".MoreAct">
+<activity name="com.app.ads.AdsAct">
+<activity name=".SettingAct">
+<activity name="com.app.download.DownloadManagerAct">
+<activity name="com.app.common.SimpleWebViewAct">
+0
+1
+<receiver name=".MyBroadcase">
+0
+Owner: CN=lexun, OU=lexun, O=lexun, L=shenzhen, ST=guangdong, C=cn
+Issuer: CN=lexun, OU=lexun, O=lexun, L=shenzhen, ST=guangdong, C=cn
+Serial number: 4e293e5a
+Valid from: Fri Jul 22 17:09:46 CST 2011 until: Sat Apr 24 17:09:46 CST 2066
+Certificate fingerprints: 
+	MD5:91:3B:F4:51:9E:C7:70:A3:D6:4A:77:10:99:2D:90:7D
+	SHA1: 69:8D:54:B0:9D:23:D9:FE:C6:5F:EC:3A:B1:8D:0B:12:D5:E9:31:F6
+	SHA256: 0D:1E:FC:25:DC:90:15:BE:4F:9F:D9:95:97:57:6C:92:4E:A3:FD:39:EA:48:F8:55:70:B1:9E:BF:B6:6F:23:42
+	Signature algorithm name: SHA1withRSA
+	version: 3

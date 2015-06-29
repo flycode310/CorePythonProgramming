@@ -1,0 +1,32 @@
+com.cg.learntraffic
+5
+4.2
+8
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity screenOrientation="0" name=".activity.LaunchPage">
+<activity screenOrientation="0" name=".activity.AppDialog" theme="2131165184" launchMode="2">
+<activity screenOrientation="0" name=".activity.PromptActivity" launchMode="2">
+<activity screenOrientation="0" name=".activity.MainActivity" launchMode="2">
+<activity screenOrientation="0" name=".activity.HelpActivity" launchMode="2">
+<activity screenOrientation="0" name="com.cg.learntraffic.activity.StoryPageActivity" launchMode="2">
+<activity name="cn.guomob.android.GuomobAdActivity">
+0
+0
+0
+Owner: CN=Mile
+Issuer: CN=Mile
+Serial number: 4eb0f545
+Valid from: Wed Nov 02 15:46:13 CST 2011 until: Fri Oct 09 15:46:13 CST 2111
+Certificate fingerprints: 
+	MD5:E2:DF:D3:A9:CE:32:54:16:D1:8D:B9:62:7E:B0:01:6B
+	SHA1: 90:29:C1:AD:03:27:DC:39:70:ED:25:80:5A:C9:18:A3:DF:C0:C1:0B
+	SHA256: BE:1D:E9:43:C1:A6:A3:90:4B:0D:F8:86:30:51:55:FA:56:5D:E3:85:3A:7A:BD:07:D9:8E:EB:5A:F9:51:B1:9D
+	Signature algorithm name: SHA1withRSA
+	version: 3

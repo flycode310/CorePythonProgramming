@@ -1,0 +1,36 @@
+com.bpgame.dnxy_uc
+1
+1.07.01
+6
+17
+11
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity screenOrientation="0" name="com.Company.ProductName.UCGameApiProxyActivity" configChanges="1073745919" label="2130903040" launchMode="0">
+<activity screenOrientation="0" name="com.Company.ProductName.UCGameApiActivity" configChanges="1073745919" label="2130903040" launchMode="0">
+<activity screenOrientation="0" name="com.Company.ProductName.UCGameApiNativeActivity" configChanges="1073745919" label="2130903040" launchMode="0">
+<activity screenOrientation="0" name="cn.uc.gamesdk.SdkActivity" theme="16973840" configChanges="1184" label="2130903040" windowSoftInputMode="16">
+1
+<service enabled="true" name="com.bp.pn.NotificationService" label="NotificationService">
+0
+0
+Owner: CN=9Game, OU=UC, O=UC, L=GuangZhou, ST=GuangDong Province, C=CN
+Issuer: CN=9Game, OU=UC, O=UC, L=GuangZhou, ST=GuangDong Province, C=CN
+Serial number: 4fdee569
+Valid from: Mon Jun 18 16:23:05 CST 2012 until: Tue Mar 22 16:23:05 CST 2067
+Certificate fingerprints: 
+	MD5:7B:1A:92:EA:D4:8C:3F:48:90:02:42:8D:EF:69:DF:E7
+	SHA1: 90:09:81:AF:8A:38:7D:9D:FA:06:CD:B7:D9:C4:9F:FA:90:FC:ED:7C
+	SHA256: C7:4B:CE:F4:9A:25:DA:9F:CF:EF:5A:6F:72:1A:58:F6:2F:19:DE:EF:39:AD:1B:9C:E1:5B:E3:2E:21:44:5F:E8
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,137 @@
+com.iBookStar.activity
+45
+4.2
+5
+-1
+10
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SEND_SMS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+99
+<activity name="com.iBookStar.activityComm.Splash" theme="2131427329" configChanges="160" launchMode="2">
+<activity name="com.iBookStar.activityComm.TextReader" theme="2131427329" configChanges="128" launchMode="2">
+<activity name="com.iBookStar.activityComm.MyBooksActivity" configChanges="160">
+<activity name="com.iBookStar.activityComm.OpenBookActivity" theme="16973841" configChanges="128" launchMode="2">
+<activity name="com.iBookStar.activityComm.DownloadManagerActivity" configChanges="160">
+<activity name="com.iBookStar.activityComm.PersonalCenterActivity" configChanges="160">
+<activity name="com.iBookStar.activityComm.BaiduPCSFileManager" configChanges="160">
+<activity name="com.iBookStar.activityComm.InforSynActivity" configChanges="160" windowSoftInputMode="36">
+<activity name="com.iBookStar.activityComm.ChangePasswordActivity" configChanges="160" windowSoftInputMode="36">
+<activity name="com.iBookStar.activityComm.WebHelp" configChanges="160">
+<activity name="com.iBookStar.activityComm.WelfareBooksActivity" theme="2131427332" configChanges="160">
+<activity name="com.iBookStar.activityComm.BookshelfSearchActivity" theme="2131427331" configChanges="128" windowSoftInputMode="35">
+<activity name="com.iBookStar.activityComm.BottomTab" theme="2131427347" configChanges="160">
+<activity name="com.iBookStar.activityComm.BottomTabStore" configChanges="160" windowSoftInputMode="34">
+<activity name="com.iBookStar.activityComm.BottomTabCmccStore" configChanges="160" windowSoftInputMode="34">
+<activity name="com.iBookStar.activityComm.BottomTabCnetStore" configChanges="160" windowSoftInputMode="34">
+<activity name="com.iBookStar.activityComm.Bookshelf" configChanges="160">
+<activity name="com.iBookStar.activityComm.Fileman" configChanges="160">
+<activity name="com.iBookStar.activityComm.TopSettingTab" configChanges="160">
+<activity name="com.iBookStar.activityComm.BookStore" configChanges="160">
+<activity name="com.iBookStar.activityComm.BsHotbooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.BsAllBoards" configChanges="160">
+<activity name="com.iBookStar.activityComm.BsAllRanking" configChanges="160">
+<activity name="com.iBookStar.activityComm.BsGoSearch" configChanges="160" windowSoftInputMode="18">
+<activity name="com.iBookStar.activityComm.BsBookCategory" configChanges="160">
+<activity name="com.iBookStar.activityComm.BsGeneralBooksList" configChanges="160">
+<activity name="com.iBookStar.activityComm.BsBookDetail" configChanges="160">
+<activity name="com.iBookStar.activityComm.RecAppStore" configChanges="160">
+<activity name="com.iBookStar.activityComm.GroupSetting" configChanges="160">
+<activity name="com.iBookStar.activityComm.ReaderSetting" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_Login" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsHotbooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsOriginalBooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsCategorybooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsGoSearch" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsAllBoards" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsGeneralBooksList" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_WebCharge" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_Register" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_PrepareCharge" configChanges="160">
+<activity name="com.iBookStar.activityComm.Online_BookContentsManager" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsBookDetail" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsFreebooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsMyOrder" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_ModifyMyOrder" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsReadingList" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsDiscount" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsBookCategory" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cmcc_BsRankingBooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.BottomTabPublishStore" configChanges="160">
+<activity name="com.iBookStar.activityComm.Publish_BsHotbooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Publish_BsBookCategory" configChanges="160">
+<activity name="com.iBookStar.activityComm.Publish_BsAllBoards" configChanges="160">
+<activity name="com.iBookStar.activityComm.Publish_BsFreebooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Publish_BsRankingBooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cnet_BsCategory" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cnet_BsHotBooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cnet_BsBookDetail" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cnet_BsGeneralBooksList" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cnet_BsRecBooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cnet_BsFreeBooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cnet_BsRankingBooks" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cnet_WebLogin" configChanges="160">
+<activity name="com.iBookStar.activityComm.Cnet_WebCharge" configChanges="160">
+<activity name="com.iBookStar.activityComm.AboutiBook" configChanges="160">
+<activity name="com.iBookStar.activityComm.SystemSetting" configChanges="160">
+<activity name="com.iBookStar.activityComm.ReaderGestureSetting" configChanges="160">
+<activity name="com.iBookStar.activityComm.GlobalTextSearch" theme="2131427332" configChanges="128" windowSoftInputMode="37">
+<activity name="com.iBookStar.activityComm.BookmarkManager" configChanges="160">
+<activity name="com.iBookStar.activityComm.BookContentsManager" configChanges="160">
+<activity name="com.iBookStar.activityComm.GroupBookContent" configChanges="160">
+<activity name="com.iBookStar.activityComm.FilePathMarkManager" configChanges="160">
+<activity name="com.iBookStar.activityComm.BookshelfManager" configChanges="160">
+<activity name="com.iBookStar.activityComm.WebReader" configChanges="160">
+<activity name="com.iBookStar.activityComm.WebPictureBrowser" theme="2131427334" configChanges="160">
+<activity name="com.iBookStar.activityComm.ExtraReader" configChanges="160">
+<activity name="com.iBookStar.activityComm.FileSearchResult" configChanges="160">
+<activity name="com.iBookStar.activityComm.ZipFileView" configChanges="160">
+<activity name="com.iBookStar.activityComm.PictureBrowser" configChanges="160">
+<activity name="com.iBookStar.activityComm.FilePathSelect" configChanges="160">
+<activity name="com.iBookStar.activityComm.ReaderOfUmdCartoon" configChanges="160">
+<activity name="com.iBookStar.activityComm.Wizard" configChanges="160">
+<activity name="com.iBookStar.activityComm.WizardLocal" configChanges="160">
+<activity name="com.iBookStar.activityComm.OutFileOpen" theme="2131427335" configChanges="160">
+<activity name="com.iBookStar.activityComm.FtpServer" configChanges="160">
+<activity name="com.iBookStar.activityComm.FontShadowSettingTab" theme="2131427334" configChanges="160">
+<activity name="com.iBookStar.activityComm.FontShadowParamPanel" configChanges="160">
+<activity name="com.iBookStar.activityComm.ColorPickerForShadow" configChanges="160">
+<activity name="com.iBookStar.activityComm.ReaderSettingTab" theme="2131427334" configChanges="160">
+<activity name="com.iBookStar.activityComm.ReaderLayoutToast" theme="2131427334" configChanges="160">
+<activity name="com.iBookStar.activityComm.ReaderSettingToast" theme="2131427334" configChanges="160">
+<activity name="com.iBookStar.activityComm.ColorPicker" theme="2131427334" configChanges="160">
+<activity name="com.iBookStar.activityComm.GeneralTipToast" theme="2131427335" configChanges="160">
+<activity name="com.iBookStar.activityComm.UpDownNaviBar" theme="2131427334" configChanges="160">
+<activity name="com.iBookStar.activityComm.ReadInfoSetting" theme="2131427334" configChanges="160">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity name="com.iBookStar.activity.wxapi.WXEntryActivity" theme="2131427332" exported="true">
+4
+<service name="com.iBookStar.swiftp.FTPServerService">
+<service name="com.iBookStar.activityComm.DownloadService">
+<service name="com.iBookStar.activityComm.ForegroundService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+4
+<receiver enabled="true" name="com.iBookStar.activityComm.MediaButtonReceiver">
+<receiver process=":widget" icon="2130837773" name="com.iBookStar.widget.WidgetProvider4x4" label="2131361795">
+<receiver process=":widget" icon="2130837773" name="com.iBookStar.widget.WidgetProvider4x2" label="2131361796">
+<receiver name="com.iBookStar.activityComm.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+0
+Owner: CN=shengjun.hua
+Issuer: CN=shengjun.hua
+Serial number: 4e268ccc
+Valid from: Wed Jul 20 16:07:40 CST 2011 until: Sun Jul 13 16:07:40 CST 2036
+Certificate fingerprints: 
+	MD5:1C:B4:71:58:A7:25:59:EC:E3:A5:6D:CF:CF:EF:97:B8
+	SHA1: BA:99:9E:60:1D:88:DC:2A:95:C9:F6:04:24:36:16:16:18:6C:37:72
+	SHA256: D4:3F:D5:98:F2:93:C5:C1:11:D5:85:45:03:25:4F:8F:BC:C4:88:B9:3C:9E:82:20:9D:34:B6:64:9B:A8:18:93
+	Signature algorithm name: SHA1withRSA
+	version: 3

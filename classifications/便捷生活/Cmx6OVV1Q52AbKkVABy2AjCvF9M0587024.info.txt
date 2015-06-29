@@ -1,0 +1,37 @@
+com.liunv.webservicedemo
+2
+2.0
+15
+18
+10
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity screenOrientation="1" name="com.liunv.webservicedemo.MainActivity" configChanges="164" label="2131492864" alwaysRetainTaskState="true" launchMode="2">
+<activity name=".config.PreferenceUI">
+<activity name="com.wandoujia.ads.sdk.AppWallActivity" configChanges="1184" label="2131492864" launchMode="1">
+<activity name="com.wandoujia.ads.sdk.AppWidgetContainerActivity" theme="16973840" configChanges="1184" launchMode="1">
+2
+<service process="com.magicmod.mmweather.widgetService" name="com.liunv.webservicedemo.WeatherUpdateService" exported="true" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.wandoujia.ads.sdk.DownloadService">
+1
+<receiver name="com.liunv.webservicedemo.WeatherWidget" label="2131492868">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 339e4f6e
+Valid from: Sat Mar 30 13:07:41 CST 2013 until: Mon Mar 23 13:07:41 CST 2043
+Certificate fingerprints: 
+	MD5:92:DB:F6:9D:E0:9F:40:D4:42:6A:95:CB:47:80:0E:2C
+	SHA1: 45:D7:CA:7A:5B:71:91:98:3B:5C:AF:39:AB:06:2E:8A:FC:6F:88:38
+	SHA256: EB:6A:51:B8:28:E7:E5:9D:DC:15:25:50:AA:34:B4:52:86:50:C3:75:6E:01:E5:44:8E:68:4C:66:67:03:3D:1D
+	Signature algorithm name: SHA256withRSA
+	version: 3

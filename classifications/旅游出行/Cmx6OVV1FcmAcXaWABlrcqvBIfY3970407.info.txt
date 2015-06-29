@@ -1,0 +1,111 @@
+com.tonight.android
+47
+3.2.7
+8
+19
+14
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.tonight.android.permission.MIPUSH_RECEIVE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+68
+<activity screenOrientation="1" name="com.tonight.android.activity.LauncherActivity" theme="16973830" configChanges="160" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.MainActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.CitySelectionActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.EventListActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.EventSearchActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.EventDetailActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.WebActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.CallPhoneActivity" theme="2131296258" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.AllCommentsActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.AllVisitorsActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.LoginActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.RegisterStep1Activity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.RegisterStep2Activity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.RegisterStep3Activity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.RegisterStep4Activity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.DateTimePickerActivity" theme="2131296258" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.GenderPickerActivity" theme="2131296258" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.ResetPassActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.MyDetailActivity" theme="16973830" label="2131230720" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tonight.android.activity.EmotionPickerActivity" theme="2131296258" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.IncomePickerActivity" theme="2131296258" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.FunctionPickerActivity" theme="2131296258" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.OthersDetailActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.SettingActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.AboutYoyuActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.ChangePassActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.AddressItemListActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.EditAddressItemActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.RecommendEventActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.CatagoryPickerActivity" theme="2131296258" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.RecommendorActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.SessionActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.ReportActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.InvitaionActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.UGCTopicDetailActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.BlockedListActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.SelectTicketActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.OrderPaymentActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.SelectAddressActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.WaitingPaymentActivity" theme="2131296259">
+<activity screenOrientation="1" name="com.tonight.android.activity.MyOrdersActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.MemberTopicsActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.MemberEventsActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tonight.android.activity.MyTicketsActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.MyInvalidTicketsActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.TicketDetailActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.InputTxtActivity" theme="2131296258" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.TransferTicketActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.HandleGiftTicketActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.NinePointsCheckActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.TicketCheckerActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.AsynTicketListActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.InputPhoneVcodeActivity" theme="2131296258" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.UGCTopicDetailNopullActivity" theme="16973830" label="2131230720" launchMode="1">
+<activity screenOrientation="1" name="com.tonight.android.activity.UpdateUserEventStep1Activity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.UpdateUserEventStep2Activity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.UpdateUserEventStep3Activity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.UpdateUserEventStep4Activity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.InputNinePointActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.CreateTFActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.EventManagementActivity" theme="16973830" label="2131230720">
+<activity screenOrientation="1" name="com.tonight.android.activity.CreatedEventsActivity" theme="16973830" label="2131230720">
+<activity name=".activity.ObtainPhotoActivity" theme="2131296258">
+<activity name=".activity.ShakeRecommondActivity" theme="2131296262" launchMode="3">
+<activity name=".activity.PhotoViewerActivity" theme="16973830">
+<activity name=".activity.CreateGambitActivity" theme="16973830">
+<activity name=".activity.GambitListActivity" theme="16973830" windowSoftInputMode="16" launchMode="1">
+5
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service name=".services.ExitUploadService">
+<service name=".services.GetNextLaunchImgService">
+4
+<receiver name="com.tonight.android.broadcastreceiver.NetStatusReceiver">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+<receiver name="com.tonight.android.broadcastreceiver.XMPushMessageReceiver" exported="true">
+0
+Owner: CN=jetcai, OU=chujian, O=chujian, L=guangzhou, ST=guangdong, C=cn
+Issuer: CN=jetcai, OU=chujian, O=chujian, L=guangzhou, ST=guangdong, C=cn
+Serial number: 504855e6
+Valid from: Thu Sep 06 15:51:02 CST 2012 until: Mon Jan 23 15:51:02 CST 2040
+Certificate fingerprints: 
+	MD5:7C:7B:55:AE:10:72:B6:1D:E9:D9:B1:52:94:89:92:08
+	SHA1: F4:38:E9:62:D8:5D:1A:2F:07:AA:53:9B:43:02:15:2F:A3:06:A7:65
+	SHA256: 2D:AB:DF:85:77:76:7B:F5:2E:0F:E9:75:16:A9:C9:32:B3:33:03:B6:89:26:1D:BA:C1:82:81:EC:13:35:B9:FA
+	Signature algorithm name: SHA1withRSA
+	version: 3

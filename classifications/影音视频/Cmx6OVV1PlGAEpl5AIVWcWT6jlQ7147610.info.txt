@@ -1,0 +1,98 @@
+com.sohu.sohuvideo
+2700
+2.7
+5
+-1
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.INTERNAL_SYSTEM_WINDOW
+android.permission.CHANGE_WIFI_STATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.WRITE_SETTINGS
+50
+<activity name=".FirstNavigationActivityGroup" configChanges="224" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="0" name=".PlayActivity" theme="16973830" configChanges="224" label="2131493670" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name=".TestSmallWinPlayActivity" theme="16973830" configChanges="224" windowSoftInputMode="34">
+<activity name=".CategoryActivity">
+<activity name=".detail.VideoDetailActivity" theme="16973830" configChanges="224" windowSoftInputMode="34" launchMode="2">
+<activity name=".HomePageActivity">
+<activity name=".UploadActivity" configChanges="224" launchMode="1">
+<activity name=".UploadInfoActivity">
+<activity name=".NewUploadInfoActivity" theme="16973830">
+<activity name=".PreloadActivity" configChanges="224">
+<activity name=".SettingsActivity">
+<activity name=".CopyrightActivity">
+<activity name=".FeedbackActivity">
+<activity name=".FavoritesActivity" configChanges="224">
+<activity name=".IndividualCenterActivity">
+<activity name=".MainActivity">
+<activity name=".VideoLocalActivity">
+<activity name=".VideoDetailRootActivity" theme="16973830" configChanges="224">
+<activity name=".PlayRecordActivity" configChanges="224">
+<activity name=".HistoryActivity" configChanges="224">
+<activity name=".PersonalInformationActivity">
+<activity screenOrientation="1" name=".SearchActivity" theme="2131558403" configChanges="224" launchMode="2">
+<activity name=".VipOpenActivity" theme="2131558403" configChanges="224" launchMode="2">
+<activity name=".DetailActivity" configChanges="224" launchMode="2">
+<activity name=".NewVideoDetailActivity" configChanges="224">
+<activity name=".LoginActivity" windowSoftInputMode="34">
+<activity name=".FilmCriticActivity">
+<activity name=".TalkActivity" configChanges="224">
+<activity name=".LiveDetailActivity">
+<activity name=".RecommendActivity">
+<activity screenOrientation="1" name=".WizardActivity" theme="16973830" configChanges="224" windowSoftInputMode="34">
+<activity name=".SubscribeActivity" configChanges="224">
+<activity name=".AddSubscribeChannelActivity">
+<activity name=".SubscribeVideoListActivity">
+<activity name=".ShareActivity" windowSoftInputMode="34">
+<activity name=".PeriodSubscribeActivity">
+<activity name=".NewbieGuideActivity" configChanges="224" windowSoftInputMode="34" launchMode="1">
+<activity name=".NewbieLoginActivity" windowSoftInputMode="34" launchMode="1">
+<activity name=".NewbieSubscribeActivity" configChanges="224" launchMode="1">
+<activity name=".NewbieSettingsActivity" configChanges="224" launchMode="1">
+<activity name="com.mobcent.share.android.activity.MCShareAppActivity" configChanges="160">
+<activity name="com.mobcent.share.android.activity.MCShareBindSitesActivity" configChanges="160">
+<activity name="com.mobcent.share.android.activity.MCShareMoreInfoActivity" configChanges="160">
+<activity name=".ThirdLoginActivity" configChanges="160">
+<activity name=".AgreementActivity">
+<activity screenOrientation="0" name=".DLNAControlActivity">
+<activity name=".EventViewActivity" configChanges="160">
+<activity name=".FileBrowserActivity">
+<activity name=".RegistActivity" windowSoftInputMode="34">
+<activity multiprocess="true" screenOrientation="1" excludeFromRecents="true" name=".ChannelSelectActivity" theme="16973835" noHistory="true" taskAffinity="sohu.ChannelSelectActivity">
+5
+<service name=".SohuAppWidgetService">
+<service name=".service.SohuVideoService">
+<service name=".floatwindow.FloatWindowService">
+<service name=".logcollector.PostCrashLogService">
+<service name="org.openudid.OpenUDID_service">
+7
+<receiver name=".receiver.SohuVideoServiceReceiver">
+<receiver name=".receiver.PushNotificationReceiver">
+<receiver name=".receiver.UpdateBroadCastReceiver">
+<receiver name=".receiver.SettingChangeReceiver">
+<receiver name=".receiver.AutoUploadReceiver">
+<receiver name=".receiver.SDcardListener">
+<receiver name=".SohuAppWidgetProvider">
+0
+Owner: CN=sohuvideo, OU=tv, O=sohu, L=Beijing, ST=Beijing, C=86
+Issuer: CN=sohuvideo, OU=tv, O=sohu, L=Beijing, ST=Beijing, C=86
+Serial number: 4e7c2edc
+Valid from: Fri Sep 23 15:01:48 CST 2011 until: Sat Sep 10 15:01:48 CST 2061
+Certificate fingerprints: 
+	MD5:BA:99:96:11:33:A4:1F:2E:1F:AE:6B:C8:2A:B8:02:73
+	SHA1: 2D:71:0A:90:4C:06:E1:83:BE:44:94:1E:AF:B6:9B:1C:D8:3F:D4:38
+	SHA256: E3:4B:42:C0:AD:AA:1F:43:2F:08:1F:0F:1F:A0:DF:0D:0E:6D:27:70:E1:A4:95:FA:39:7B:47:F1:E6:FF:62:14
+	Signature algorithm name: SHA1withRSA
+	version: 3

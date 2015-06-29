@@ -1,0 +1,113 @@
+com.chinamobile.cmccwifi
+710430
+7.1.0430
+5
+-1
+19
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+64
+<activity icon="2130837771" screenOrientation="1" name=".WelcomeActivity" label="2131427330">
+<activity screenOrientation="1" name=".ManagerSetActivity" label="2131427331">
+<activity screenOrientation="1" name=".MarketInfoSettingActivity" label="2131427331">
+<activity screenOrientation="1" name=".MaskActivity" theme="2131492890" label="2131427331">
+<activity screenOrientation="1" name=".BusinessMaskActivity" theme="2131492890" label="2131427331">
+<activity screenOrientation="1" name=".newui.IntroduceGuideActivity" theme="2131492890" label="2131427331">
+<activity screenOrientation="1" name="MoreActivity" label="2131427331">
+<activity screenOrientation="1" name="RemindSettingActivity" label="2131427331">
+<activity screenOrientation="1" name="EditPasswordActivity" label="2131427331">
+<activity screenOrientation="1" name="FeedbackActivity" label="2131427331">
+<activity screenOrientation="1" name="FindWlanActivity" label="2131427331">
+<activity screenOrientation="1" name=".HotListGroup" label="2131427331">
+<activity screenOrientation="1" name=".HotAroundListActivity" label="2131427331">
+<activity screenOrientation="1" name=".HotSearchListActivity" label="2131427331" windowSoftInputMode="4">
+<activity screenOrientation="1" name=".RoamHotSearchListActivity" label="2131427331" windowSoftInputMode="4">
+<activity screenOrientation="1" name=".RoamingRatesActivity" label="2131427331" windowSoftInputMode="4">
+<activity screenOrientation="1" name=".RoamingHotspotActivity2" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".RoamingCityListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinamobile.cmccwifi.RoamListActivity">
+<activity screenOrientation="1" name=".CitySelectorActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".HotMapActivity" label="2131427331" launchMode="1">
+<activity screenOrientation="1" name=".RetryActivity" label="2131427331">
+<activity screenOrientation="1" name=".MainActivity" label="2131427331" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".UserAgreementActivity" label="2131427331">
+<activity screenOrientation="1" name=".UserAgreementActivity2" label="2131427331">
+<activity screenOrientation="1" name=".HistoryRecordActivity" label="2131427331">
+<activity screenOrientation="1" name=".ScoreAgreementActivity" label="2131427331">
+<activity screenOrientation="1" name=".ScoreUseRulesActivity" label="2131427331">
+<activity screenOrientation="1" name=".AllAppActivity">
+<activity screenOrientation="1" name=".AboutActivity">
+<activity screenOrientation="1" name=".AutoIntroduceActivity">
+<activity screenOrientation="1" name=".CMCCPEAPIntroduceActivity">
+<activity screenOrientation="1" name=".FirstIntroduceActivity">
+<activity screenOrientation="1" name=".PackageSurplusActivity">
+<activity screenOrientation="1" name=".newui.WLANActivityGroup">
+<activity screenOrientation="1" name=".newui.WLANSelectorActivity">
+<activity screenOrientation="1" name=".newui.ConnectStatusActivity">
+<activity screenOrientation="1" name=".newui.LingXiIntroActivity" theme="2131492890">
+<activity screenOrientation="1" name=".newui.SpiritConnectStatusActivity">
+<activity screenOrientation="1" name=".newui.FrameActivity" theme="16973839">
+<activity screenOrientation="1" name=".newui.FreeConnectStatusActivity">
+<activity screenOrientation="1" name=".newui.ForegroundActivity" theme="2131492890">
+<activity screenOrientation="1" name=".newui.MyWifiConnectStatusActivity">
+<activity screenOrientation="1" name=".newui.NoScrollListActivity">
+<activity screenOrientation="1" name=".newui.OfferWallActivityNew">
+<activity screenOrientation="1" name=".newui.LingXiFrameActivity">
+<activity screenOrientation="1" name=".newui.OfferWallExchangeActivity" theme="16973830">
+<activity screenOrientation="1" name=".newui.OfferWallIntroActivity" theme="16973830">
+<activity screenOrientation="1" name=".AppLauncherActivity" theme="2131492890">
+<activity screenOrientation="1" name=".CMCCRecommandActivity" theme="16973839">
+<activity screenOrientation="1" name=".ReConnActivity" theme="16973839">
+<activity screenOrientation="1" name=".HelpActivity">
+<activity screenOrientation="1" name=".RoamHelpActivity">
+<activity screenOrientation="1" name=".RoamingHotspotActivity">
+<activity screenOrientation="1" name=".DialogActivity" theme="2131492890">
+<activity screenOrientation="1" name=".AdDialogActivity" theme="16973839">
+<activity screenOrientation="1" name="com.chinamobile.cmccwifi.web.RecomedApp">
+<activity screenOrientation="1" name="com.chinamobile.cmccwifi.web.RecommendAppActivity">
+<activity screenOrientation="1" name="com.chinamobile.cmccwifi.newui.HotMapCorrectActivity" theme="16973830">
+<activity name=".VideoActivity" configChanges="160">
+<activity name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="224" windowSoftInputMode="3" launchMode="1">
+<activity process=":webapp" screenOrientation="1" name="com.iflytek.viafly.webapp.WebActivity" theme="16973839" configChanges="176" allowTaskReparenting="true" windowSoftInputMode="35" alwaysRetainTaskState="true" launchMode="1">
+<activity name="com.chinamobile.dm.android.DMActivity" theme="16973830" configChanges="176">
+<activity screenOrientation="1" name="com.chinamobile.cmccwifi.newui.NetworkStateActivity">
+6
+<service name="com.chinamobile.dm.android.DMService">
+<service process="com.chinamobile.cmccwifi.wlanservice" name=".manager.CMCCService">
+<service name=".business.update.UpdateService">
+<service name="com.chinamobile.cmccwifi.manager.TimerHeartBeatService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="com.iflytek.viafly.log.WebAppLogService" exported="true">
+3
+<receiver name="com.chinamobile.cmccwifi.receiver.BootCompletedReceiver">
+<receiver name="com.chinamobile.cmccwifi.receiver.FreeBroadcast">
+<receiver name="com.chinamobile.cmccwifi.receiver.AppCancelDownloadReceiver">
+1
+<provider authorities="com.chinamobile.cmccwifi" name="com.chinamobile.cmccwifi.provider.CMCCProvider" exported="true">
+Owner: CN=随e行, OU=产品研发中心, O=中国移动通信集团广东有限公司, L=广州, ST=广东, C=cn
+Issuer: CN=随e行, OU=产品研发中心, O=中国移动通信集团广东有限公司, L=广州, ST=广东, C=cn
+Serial number: 5080f2aa
+Valid from: Fri Oct 19 14:26:50 CST 2012 until: Thu Feb 20 14:26:50 CST 3012
+Certificate fingerprints: 
+	MD5:AF:3A:A7:DF:5D:22:F2:0E:14:55:E3:61:C8:F5:C7:05
+	SHA1: A0:BC:DF:C4:A3:3B:64:A7:2C:18:CB:95:66:A9:C4:FE:D9:96:DE:7E
+	SHA256: B8:D0:0C:4A:20:C0:16:F0:31:3C:54:69:8D:ED:C0:75:B5:5E:BB:EB:C5:FE:DF:12:5C:D0:13:1A:8C:F7:B8:5B
+	Signature algorithm name: SHA1withRSA
+	version: 3

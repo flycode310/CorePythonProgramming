@@ -1,0 +1,108 @@
+com.qiyi.video
+78
+5.0.3
+4
+-1
+36
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.READ_LOGS
+android.permission.SET_ACTIVITY_WATCHER
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.WRITE_MEDIA_STORAGE
+android.permission.RemoteService
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+android.permission.CHANGE_CONFIGURATION
+28
+<activity screenOrientation="1" name="org.qiyi.android.qisheng.activitys.QishengMainActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".WelcomeActivity" theme="2131361823" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.MainActivity" theme="16973830" configChanges="1073742004" exported="true" label="2131165217" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="org.qiyi.android.gpad.video.MainPadActivity" configChanges="1073742004" label="2131165217" windowSoftInputMode="32" launchMode="3">
+<activity screenOrientation="0" name="org.qiyi.android.commonphonepad.activity.ActivityRecommendFavor" configChanges="1073742004" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="4" name="org.iqiyi.video.activity.PlayerActivity" theme="2131361811" configChanges="160" stateNotNeeded="false" launchMode="2">
+<activity screenOrientation="1" name="org.qiyi.android.video.AccountUIActivity" theme="16973830" configChanges="160" exported="true" launchMode="2">
+<activity screenOrientation="0" name=".wxapi.WXEntryActivity" theme="16973830" configChanges="160" exported="true" launchMode="3">
+<activity screenOrientation="1" name="org.qiyi.android.commonphonepad.WXEntryActivityStart" theme="16973830" configChanges="160" exported="true" launchMode="3">
+<activity screenOrientation="1" name="org.iqiyi.video.yxapi.YXEntryActivity" theme="16973830" configChanges="160" exported="true" launchMode="3">
+<activity screenOrientation="1" name="org.qiyi.android.video.SpecialTopicActivity" theme="16973830" configChanges="160" exported="true" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.GridActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.WebADActivity" theme="16973830" configChanges="160" exported="true" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.PPSGameActivity" theme="16973830" configChanges="160" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.qimo.video.dlna.activity.QimoControllerActivity" theme="2131361817" configChanges="1073742004" label="2131165217" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.share.VideoShareOnVideoListActivity" theme="16973830" configChanges="160" exported="true" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.share.VideoShareOnDeviceActivity" theme="16973830" configChanges="160" exported="true" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.share.VideoShareOnWaitToReceiveActivity" theme="16973830" configChanges="160" exported="true" launchMode="1">
+<activity screenOrientation="0" name="org.qiyi.android.gpad.video.SpecialTopicActivityForPad" theme="16973830" configChanges="160" exported="true" launchMode="1">
+<activity name="org.qiyi.android.video.WebPlayerActivity" theme="16973830" configChanges="160" exported="true">
+<activity screenOrientation="1" name="org.qiyi.android.commonphonepad.BaiduVoiceRecognitionActivity" theme="2131361828" configChanges="160" label="">
+<activity name=".wxapi.WXPayEntryActivity" theme="16973839" exported="true" launchMode="1">
+<activity screenOrientation="1" name="tv.pps.mobile.game.GameActivity">
+<activity screenOrientation="1" name="tv.pps.mobile.game.GameTiePianActivity" theme="2131361851">
+<activity screenOrientation="1" name="org.qiyi.android.video.ShareAPKActivity" theme="16973830" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="org.qiyi.android.video.ShareAPKMainActivity" theme="16973830" configChanges="160" launchMode="0">
+<activity name="com.nd.android.pandahome.widget.activity.PandaWidgetMainActivity" exported="true">
+<activity screenOrientation="1" name="com.qiyi.video.appwidget91.WidgetDetailsActivity" theme="2131361820">
+10
+<service name=".DownloadService">
+<service name="org.openudid.OpenUDID_service">
+<service process=":DownloadingAppService" name="org.qiyi.android.commonphonepad.qyad.DownloadAppService" exported="true">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="tv.pps.mobile.gamecenter.download.DownloadService">
+<service name="tv.pps.bi.service.ListenService" exported="false">
+<service name="tv.pps.bi.proto.SAService">
+<service process=":baiduLocation" enabled="true" name="com.baidu.location.f">
+<service process=":bdservice_v1" name="com.baidu.android.moplus.MoPlusService" exported="true">
+<service process=":video_dowload_service" name="com.iqiyi.video.download.service.RemoteDownloadService">
+14
+<receiver name="org.qiyi.android.commonphonepad.pushmessage.PushMsgBroadCastReceiver">
+<receiver enabled="true" name="org.qiyi.android.commonphonepad.receiver.StartPlayActivityReceiver" exported="true">
+<receiver name="org.qiyi.android.commonphonepad.receiver.StartWelcomeActivityReceiver">
+<receiver name="org.qiyi.android.commonphonepad.receiver.StartPlayerFromWeixinReceiver">
+<receiver name="org.qiyi.android.commonphonepad.receiver.StartPlayerFromThirdEntranceReceiver">
+<receiver name="org.qiyi.android.commonphonepad.receiver.QiMoBordcast">
+<receiver name="org.iqiyi.video.yxapi.AppRegister" permission="im.yixin.sdk.permission.YIXIN_SDK_MESSAGE">
+<receiver name="org.qiyi.android.commonphonepad.pushmessage.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="tv.pps.mobile.game.utils.AppStatusReceiver">
+<receiver name="tv.pps.bi.receiver.ScreenBroadcastReceiver">
+<receiver name="tv.pps.bi.receiver.AlarmReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.moplus.MoPlusReceiver">
+0
+Owner: CN=刘金瑞, OU=奇艺, O=奇艺, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=刘金瑞, OU=奇艺, O=奇艺, L=Beijing, ST=Beijing, C=CN
+Serial number: 4c9da6a0
+Valid from: Sat Sep 25 15:37:04 CST 2010 until: Sun Jun 28 15:37:04 CST 2065
+Certificate fingerprints: 
+	MD5:84:6B:46:B2:6F:2D:95:72:12:4E:4C:FD:77:8E:87:74
+	SHA1: 23:27:02:6C:42:B5:91:E1:8E:12:BD:E1:FD:FD:73:53:F7:BE:05:33
+	SHA256: BF:46:EA:E9:85:C1:AB:0D:63:68:33:67:0C:36:86:BC:44:3E:49:F3:7D:75:DE:C5:90:9A:DC:B5:87:A8:0A:B4
+	Signature algorithm name: SHA1withRSA
+	version: 3

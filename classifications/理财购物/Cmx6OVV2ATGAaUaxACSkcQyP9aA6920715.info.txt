@@ -1,0 +1,83 @@
+luckydog.risk
+20
+AP.4.0429
+7
+16
+9
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+51
+<activity screenOrientation="1" name=".Main" theme="16973830" launchMode="0">
+<activity screenOrientation="1" name=".Welcome" theme="16973830" launchMode="0">
+<activity screenOrientation="1" name=".home.Home" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.Register" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".Log" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".stock.StockList" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".stock.view.StockView" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".tools.WebBrowser" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".weibo.WeiboWrite" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.BuySell" theme="2131558519" windowSoftInputMode="2" launchMode="0">
+<activity screenOrientation="1" name=".message.MessageList" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".message.MessageChat" theme="2131558519" windowSoftInputMode="2" launchMode="0">
+<activity screenOrientation="1" name=".message.FriendApply" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".message.FriendSearch" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".user.User" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".user.TutorList" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".user.TutorList1" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".user.Recommend" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.Mnjy" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.FollowAccount" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.Today" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.History" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.MyProfile" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.MyFollow" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.MyOrder" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.Payment" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.PayFlow" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".weibo.WeiboSocial" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.Password" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.UserAccount" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".wxapi.WXShare" theme="16973840" launchMode="0">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" exported="true">
+<activity screenOrientation="1" name=".wxapi.ShareReceiver" theme="16973840" launchMode="0">
+<activity screenOrientation="0" name=".stock.view.StockHistoryFS" theme="16973831" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.ClosePosition" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.CopyPosition" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".trade.TradeActivity" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".trade.SelectSecret" theme="2131558519" launchMode="0">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name=".wxapi.WXPayEntryActivity" theme="16973840" exported="true">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity screenOrientation="1" name=".home.CoinBuy" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.Reward" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".mnjy.Satisfy" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".weibo.Weiqun" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".weibo.WeiqunWrite" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.Help" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.Account" theme="2131558519" launchMode="0">
+<activity screenOrientation="1" name=".home.AuthBind" theme="2131558519" launchMode="0">
+1
+<service enabled="true" name=".service.MyService">
+2
+<receiver name=".service.MySystemReceiver">
+<receiver name=".Widget">
+0
+Owner: CN=mayiweigu, OU=mayiweigu.com, O=mayiweigu.com, L=beijing, ST=beijing, C=CN
+Issuer: CN=mayiweigu, OU=mayiweigu.com, O=mayiweigu.com, L=beijing, ST=beijing, C=CN
+Serial number: 50878acc
+Valid from: Wed Oct 24 14:29:32 CST 2012 until: Fri Sep 30 14:29:32 CST 2112
+Certificate fingerprints: 
+	MD5:52:2B:57:8B:EF:9B:6F:88:C8:7E:6A:00:23:9B:4F:41
+	SHA1: 0F:8F:CA:81:34:CB:A3:B0:61:82:67:D1:92:E3:06:72:E0:78:98:40
+	SHA256: B1:39:68:29:5D:2D:43:EF:28:B2:73:C8:D0:EE:F0:6F:01:F6:CC:8B:E1:C9:B7:27:63:25:19:AA:E5:26:67:6B
+	Signature algorithm name: SHA1withRSA
+	version: 3

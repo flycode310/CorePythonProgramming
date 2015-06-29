@@ -1,0 +1,43 @@
+com.ccb.android.smsbank
+1
+1.0.0
+6
+19
+9
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.WRITE_SMS
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+14
+<activity icon="2130837528" screenOrientation="1" name=".WelcomeActivity" label="2131230720">
+<activity screenOrientation="1" name=".MainActivity">
+<activity screenOrientation="1" name=".MenuListActivity">
+<activity screenOrientation="1" name=".NoteActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".NoteServiceActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".CommonSMSMenuActivity">
+<activity screenOrientation="1" name=".CommonAcountListActivity">
+<activity screenOrientation="1" name=".AddMenuActivity">
+<activity screenOrientation="1" name=".AddCommonAccountActivity">
+<activity screenOrientation="1" name=".SetNoteReceiptTimeActivity">
+<activity screenOrientation="1" name=".QueryCurrentDetailActivity">
+<activity screenOrientation="1" name=".SetPasswrodActivity">
+<activity screenOrientation="1" name=".SetNoteSendTypeActivity">
+<activity screenOrientation="1" name=".UpdateActivity">
+0
+0
+0
+Owner: CN=中国建设银行股份有限公司, OU=中国建设银行股份有限公司, O=中国建设银行股份有限公司, L=北京市, ST=北京市, C=CN
+Issuer: CN=中国建设银行股份有限公司, OU=中国建设银行股份有限公司, O=中国建设银行股份有限公司, L=北京市, ST=北京市, C=CN
+Serial number: 4e857128
+Valid from: Fri Sep 30 15:35:04 CST 2011 until: Thu Jan 31 15:35:04 CST 3011
+Certificate fingerprints: 
+	MD5:E9:11:24:7E:7D:7A:A0:AC:58:E1:F2:C9:27:02:E7:B8
+	SHA1: 4C:E1:B6:FA:C0:0B:23:7B:AB:B7:4F:3D:EE:61:A8:0B:69:76:00:B7
+	SHA256: C8:19:13:38:F1:17:2B:E7:88:26:6F:EF:54:BC:0C:64:3E:9A:86:B7:07:3B:1D:3E:CA:2F:B7:87:F5:BB:E0:D8
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,109 @@
+com.android.comicsisland.activity
+58
+2.4.20
+8
+-1
+17
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+com.android.comicsisland.activity.permission.MIPUSH_RECEIVE
+android.permission.WRITE_EXTERNAL_STORAGE
+andorid.permission.CHANGE_CONFIGURATION
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+62
+<activity screenOrientation="1" name=".MainActivity" label="2131427362" windowSoftInputMode="32">
+<activity name="com.dlnetwork.DianleGoogleActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name=".BookRackActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".BookShopActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".CategoryActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".ResultSearchActivity" configChanges="160" label="2131427362" windowSoftInputMode="2">
+<activity name=".DownLoadActivity">
+<activity name=".DeleteBookActivity">
+<activity name="com.android.comicsisland.activity.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131361853" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name=".DiscussSelectActivity" theme="2131361824" configChanges="160" windowSoftInputMode="16">
+<activity name=".PublishtopicActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".DiscussBookActivity" configChanges="160" windowSoftInputMode="16">
+<activity name=".UmengShareActivity" theme="16973909">
+<activity screenOrientation="1" name=".CommunityActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".WebViewActivity" configChanges="160" label="2131427362" windowSoftInputMode="16">
+<activity name=".LoginDialogActivity" theme="2131361823">
+<activity name=".FeedBackBookActivity" theme="2131361824" windowSoftInputMode="16">
+<activity name=".DialogResultActivity" theme="2131361822">
+<activity name=".ShareCircleActivity" theme="2131361822">
+<activity screenOrientation="1" name=".MyDiscussActivity" configChanges="160" label="2131427362" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".DiscussActivity" configChanges="160" label="2131427362" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".DiscussAreaActivity" configChanges="160" label="2131427362" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".PubTopicActivity" configChanges="160" label="2131427362" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".DiscussItemActivity" configChanges="160" label="2131427362" windowSoftInputMode="0">
+<activity screenOrientation="1" name=".UpdataBookActivity" configChanges="160" label="2131427362" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".SourcePartActivity" configChanges="160" label="2131427362" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".RecommendActivity" configChanges="160" label="2131427362" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".AppHelpActivity" configChanges="160" label="2131427362" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".HelpActivity" configChanges="160" label="2131427362" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".TabSelectActivity" configChanges="160" label="2131427362" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".HomeAddActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".HomeViewActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".HomeVisitActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".VisitActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".BookDetailActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".DownInfoActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".ComicViewActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".ComicPortraitViewActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="0" name=".ComicLandscapeViewActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".SearchActivity" configChanges="160" label="2131427362" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".MyActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".MoreActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".SoftSettingActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".DownloadManagementActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".DownloadManagementEditActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".FeedBackActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".SinaSendMicroblogActivity" configChanges="160" label="2131427362">
+<activity name=".SinaLoginActivity" configChanges="160" label="2131427362">
+<activity name=".TencentLoginActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".TencentSendMicroblogActivity" configChanges="160" label="2131427362">
+<activity name=".RenrenLoginActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".RenrenSharesActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".DisclaimerActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".AboutActivity" configChanges="160" label="2131427362">
+<activity screenOrientation="1" name=".ChangePathActivity" configChanges="160" label="2131427362">
+<activity name=".ShareDialogActivity" theme="2131361821">
+<activity name=".ShakeDialogActivity" theme="2131361822">
+<activity screenOrientation="1" name=".NoticeActivity" theme="2131361827" label="2131427362">
+5
+<service name="com.dlnetwork.DianleGoogleService">
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service name="com.android.comicsisland.service.PollingService">
+5
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+<receiver name="com.android.comicsisland.broadcast.XiaoMiPushMessageReceiver" exported="true">
+<receiver process=":remote" name="com.android.comicsisland.service.AlarmReceiver">
+<receiver name="com.android.comicsisland.broadcast.TaskReceiver">
+0
+Owner: CN=yuanju, OU=yuanju, O=yuanju, L=shanghai, ST=china, C=86
+Issuer: CN=yuanju, OU=yuanju, O=yuanju, L=shanghai, ST=china, C=86
+Serial number: 2c3453c9
+Valid from: Fri Sep 27 14:08:20 CST 2013 until: Sun Sep 03 14:08:20 CST 2113
+Certificate fingerprints: 
+	MD5:D2:7B:34:DB:20:D1:26:6B:88:7B:62:CA:C0:41:25:70
+	SHA1: 6E:E8:03:75:82:A4:28:90:B5:9F:BC:F6:7D:CF:1F:DB:AF:6C:34:4C
+	SHA256: AD:73:0E:94:E6:37:44:88:28:25:90:62:06:C5:B8:1E:72:45:7D:7D:1B:A7:62:97:5B:2D:8F:8D:6D:71:3F:74
+	Signature algorithm name: SHA256withRSA
+	version: 3

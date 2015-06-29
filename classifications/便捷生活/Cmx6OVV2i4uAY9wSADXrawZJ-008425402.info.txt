@@ -1,0 +1,29 @@
+com.example.wannianli16
+22
+2.0.2
+8
+16
+6
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name="com.wl.wannianli.MainActivity" label="2130968576">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="BannerAd">
+0
+0
+0
+Owner: CN=wei, OU=wei, O=wei, L=beijing, ST=beijing, C=china
+Issuer: CN=wei, OU=wei, O=wei, L=beijing, ST=beijing, C=china
+Serial number: 5ff4c124
+Valid from: Sun Oct 27 19:23:13 CST 2013 until: Fri Aug 12 19:23:13 CST 2287
+Certificate fingerprints: 
+	MD5:51:2D:2A:95:11:D0:5C:F9:6F:EA:AE:67:D1:B4:33:6B
+	SHA1: 18:C5:31:BF:4B:5E:6A:52:81:89:C9:20:CA:3A:58:B1:B2:9C:C7:59
+	SHA256: 5C:9D:AE:FE:04:A4:7A:A5:13:6F:9D:39:DE:08:38:FA:3D:BB:90:56:5B:62:12:24:F8:21:BC:FE:1D:EF:2D:6D
+	Signature algorithm name: SHA256withRSA
+	version: 3

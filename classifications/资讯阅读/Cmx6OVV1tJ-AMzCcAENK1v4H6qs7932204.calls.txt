@@ -1,0 +1,3 @@
+android.util.Log: int w(java.lang.String,java.lang.String)
+android.util.Log: int e(java.lang.String,java.lang.String)
+android.util.Log: int i(java.lang.String,java.lang.String)

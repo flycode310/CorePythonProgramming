@@ -1,0 +1,206 @@
+com.achievo.vipshop
+317
+5.3.2
+9
+19
+29
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+com.achievo.vipshop.permission.MIPUSH_RECEIVE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SETTINGS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+140
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.LodingActivity" theme="2131558416" windowSoftInputMode="34" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.CartHTMLActivity" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.MyCenterActivity" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WareActivity" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.HandOverAnimActivity" theme="2131558495" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.CouponGouActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SkuAssistantActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.TopActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ProductACSActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewProductDetailActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.DetailLargeImageActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ReturnInstructionActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ReceiveOnSiteActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.AlterReceiveOnSiteAddressActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.BrandStoryActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.UserInfoActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SelectBrandActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ReturnGoldActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.LoginAndRegisterActivity" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.AboutRegisterActivity" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.IntegrationWebActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewIntegralActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.BabyListActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.BabyEditActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WebViewActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SimpleWebActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.AboutWalletActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.OnlineServiceActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.FindPasswordViewActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.DetailWebViewActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.ProductDetailImageActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.InsuranceActivtiy">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.AddressActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.AddressNewActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.AddressAuRegActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.BadRouteActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.PaymentHTMLActivity" theme="2131558418" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.NewGiftsActivity" theme="2131558418" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.OrderPrePayListActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.OrderPreReceiveListActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.OrderAllListActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.OrderPrepayDetailActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.OrderPrereceiveDetailActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.OrderAllDetailActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewOrderMergeActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.MergeFailReasonActivity" theme="16973830">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.OrderOverViewActivity2" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewReturnActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.PaymentResponseActivity" theme="2131558418" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.LeaveMessageActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.MessageDetailActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.VipShopPaymentActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletBindActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletPassWordActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletInputActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletWithdrawActivity" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletWithdrawDescActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletInputBankCardInfoActivity" windowSoftInputMode="2" launchMode="1">
+<activity name="com.sa.isecurity.plugin.SAKbdActivity" theme="16973839" configChanges="128" launchMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletBindCardActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletWithdrawalListActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletBankCardInfoActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletWithdrawalInfoActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.NotificationActionActivity" exported="true">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.NotificationActionActivityForMipush" exported="true" launchMode="3">
+<activity name="com.achievo.vipshop.activity.ItemNotFoundActivity" theme="16973835">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewVipProductsActivity" theme="2131558431" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SettingActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.PreViewActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.BeautyActivity" theme="2131558431" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewWebViewActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.HomeViewsActivity" theme="2131558431" launchMode="1">
+<activity name="com.achievo.vipshop.wxapi.WXPayEntryActivity" theme="16973840" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.WalletEditBindingActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.ActivityLoadingActivity" theme="16973831">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.NewSplashActivity" theme="16973831">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewBrandListActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.MyFavorBrandActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.MyFavorActivtiy">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewProductListActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewSpecialActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.MenuChannelActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.StoryActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewProductSpecialActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.GiftSwitchActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ClassifyActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.FliterActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.FliterProductActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.FliterBrandActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.FliterProductListActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ClassifyBrandActivity">
+<activity name="com.achievo.vipshop.wxapi.WXEntryActivity" exported="true" label="2131099759" launchMode="1">
+<activity name="com.achievo.vipshop.activity.CartNotificationActivity" theme="2131558421" launchMode="3">
+<activity excludeFromRecents="true" name="com.achievo.vipshop.newactivity.WareTipsActivity" theme="16973839">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ProblemDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.AnimationActivity" theme="2131558496">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.CustomServiceActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewBankListActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.HomeAdvPopActivity" theme="2131558421" configChanges="160">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewSettingPasswordActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewPreBrandViewActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.MainActivity" theme="2131558431" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SelfServiceOrderListActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SelfServiceDeliveryActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SelfServiceRefundActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SelfServiceInvoiceActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ReturnInfoActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ACSProblemListActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.PaymentQuickPayActivity" theme="2131558418">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.QrActionActivity">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.CaptureActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.CustomGalleryActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.MyQRCodeWebActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.QuickPayBankFormActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.QuickPayCreditFormActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.QuickPaySmsActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.QuickPayNoticeActivity" launchMode="1">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.QuickPayMobileActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.QuickPayPasswordActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.QuickPayPasswordSmsActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.NewCartGiftsActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.ActivateGiftActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SetPasswordActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.ReturnFlowActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.RegisterActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.GuideActivity" theme="16973831">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.AddTransportActivity">
+<activity screenOrientation="1" excludeFromRecents="true" hardwareAccelerated="true" name="com.achievo.vipshop.newactivity.SplashAlarmActivity" theme="16973841" configChanges="160" launchMode="3">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SearchActivity" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.BrowsingHistoryActivity">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.SearchProductlistActivity" theme="16973831">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.FliterSearchActivity" theme="16973831">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.SelectBrandSearchActivity" theme="16973831">
+<activity screenOrientation="1" name="com.achievo.vipshop.activity.SplashInfoActivity" theme="16973831">
+<activity screenOrientation="1" name="com.achievo.vipshop.newactivity.NewPaymentResponseActivity" theme="2131558418" windowSoftInputMode="34">
+12
+<service process=":splashAlarmService" enabled="true" persistent="true" name="com.achievo.vipshop.manage.service.SplashAlarmService" exported="false">
+<service process="com.achievo.vipshop.MqttService" name="com.vipshop.sdk.push.MqttService" label="MqttService">
+<service enabled="true" name="com.achievo.vipshop.manage.service.CartService">
+<service process="com.achievo.vipshop.CartBgService" enabled="true" name="com.achievo.vipshop.manage.service.CartBgService">
+<service name="com.vipshop.sdk.viplog.mechanism.LogService">
+<service name="com.vipshop.sdk.viplog.batch.VipLogService">
+<service name="com.achievo.vipshop.manage.notification.NotifyService">
+<service process=":vipsPushService" enabled="true" name="com.vipshop.sdk.push.VipsHttpPushService" label="Vipshop safe push service">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+5
+<receiver name="com.vipshop.sdk.viplog.batch.VipLogReceiver" exported="false">
+<receiver process="com.achievo.vipshop.MqttService" enabled="true" name="com.vipshop.sdk.push.VipsPushReceiver" label="Vipshop safe push service">
+<receiver name="com.achievo.vipshop.manage.notification.NotifyService$NotifyNetReceiver">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+<receiver name="com.vipshop.sdk.push.MiPushMessageReceiver" exported="true">
+0
+Owner: CN=vipshop, OU=www.vipshop.com, O=vipshop, L=guangzhou, ST=guangdong, C=cn
+Issuer: CN=vipshop, OU=www.vipshop.com, O=vipshop, L=guangzhou, ST=guangdong, C=cn
+Serial number: 4e771886
+Valid from: Mon Sep 19 18:25:10 CST 2011 until: Sat Jul 04 18:25:10 CST 2285
+Certificate fingerprints: 
+	MD5:08:A1:FC:DE:97:F7:F5:E6:4B:AA:E3:61:C8:D4:79:70
+	SHA1: 1E:D5:62:E1:E9:0B:23:AE:3F:9A:40:F8:B2:A6:53:82:B9:5A:47:52
+	SHA256: A7:A4:EC:5B:0B:B0:8B:DB:CA:6F:F3:39:C1:1C:36:19:17:17:95:90:60:46:77:D2:DC:23:51:EB:20:46:D2:48
+	Signature algorithm name: SHA1withRSA
+	version: 3

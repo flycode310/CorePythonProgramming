@@ -1,0 +1,45 @@
+com.sookin.zjjd
+2
+1.1
+8
+10
+11
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+12
+<activity name="com.sookin.globalcloud.ui.MainActivity">
+<activity name="com.sookin.globalcloud.ui.HostActivity">
+<activity name="com.sookin.globalcloud.ui.HomePageActivity" launchMode="1">
+<activity name="com.sookin.globalcloud.ui.FloorActivity" launchMode="1">
+<activity name="com.sookin.globalcloud.ui.ContactUsActivity" launchMode="1">
+<activity name="com.sookin.globalcloud.ui.Map">
+<activity name="com.sookin.globalcloud.ui.MoreInfoActivity" launchMode="1">
+<activity name="com.sookin.globalcloud.ui.AboutUsActivity" launchMode="1">
+<activity name="com.sookin.globalcloud.ui.NotificationActivity" launchMode="1">
+<activity name="com.sookin.globalcloud.ui.AppActivity" launchMode="1">
+<activity name="com.sookin.globalcloud.ui.WebActivity" launchMode="1">
+<activity name="com.sookin.globalcloud.ui.DownLoadActivity" launchMode="1">
+1
+<service name="com.sookin.globalcloud.service.NotificationService">
+1
+<receiver name="com.sookin.globalcloud.service.BootBroadcastReceiver">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 51e8b1db
+Valid from: Fri Jul 19 11:26:19 CST 2013 until: Sun Jul 12 11:26:19 CST 2043
+Certificate fingerprints: 
+	MD5:C7:46:D8:5C:70:42:60:C1:80:F5:5E:7E:32:08:EA:55
+	SHA1: 00:EC:B0:B1:38:1F:CE:D6:F8:8F:7E:0F:D9:89:F4:3C:20:ED:D7:10
+	SHA256: C3:1D:9D:7F:D9:50:F1:EF:D2:C1:10:9B:91:8E:ED:33:BE:B5:72:D1:23:9A:76:5B:77:CD:AC:B6:F6:49:51:71
+	Signature algorithm name: SHA1withRSA
+	version: 3

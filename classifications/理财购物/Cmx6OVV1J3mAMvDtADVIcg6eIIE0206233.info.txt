@@ -1,0 +1,155 @@
+com.rytong.bankps
+1
+1.2.3
+2
+-1
+15
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INSTALL_PACKAGES
+android.permission.SEND_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.INTERNET
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+119
+<activity screenOrientation="1" name=".LPSplashScreen" label="2131427329">
+<activity screenOrientation="1" name="LPLoginView" configChanges="160">
+<activity screenOrientation="1" name="BOCMainView">
+<activity screenOrientation="1" name="BOCDetailView" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="MapViewAndroid">
+<activity screenOrientation="1" name="LPHelpView">
+<activity screenOrientation="1" name="LPWebView">
+<activity screenOrientation="1" name="com.rytong.bankps.LPMapView">
+<activity name=".dazhihui.dzh.dzh" label="2131427329">
+<activity name=".dazhihui.WarnActivity" label="">
+<activity name=".dazhihui.DateActivity" label="2131427329">
+<activity name=".ProtectionActivity" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.view.InitScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.NetSelectScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.BulletScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.MainMenuScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.WorldMarketScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".view.ToldFriendScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.RegisterScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.BrowserScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.HKMarketScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.MinuteScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.StockInfoScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.StockListScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.StockRegionListScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.SVListScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.StockMineListScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.StockAddMineListScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.CashRankingScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.InquireListScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.PartstaticScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.KlineScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.Level2RankingScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.FundListScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.TradeOutsideScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.FutruesScreen" theme="2131165200" configChanges="160" label="">
+<activity name=".dazhihui.view.FiveMinuteListScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.SubMenuScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.StockPondScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.StockPondSMSScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.HotKeySettingScreen" configChanges="160" label="2131427421">
+<activity name=".dazhihui.view.BondScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.FundTextScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.RefreshSettingScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.InterestLevelScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.StockPondMSGScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.StockDetailScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.TableF10Screen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.RadioGroupScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.ScrectScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.view.ShortCutSettingScreen" configChanges="160" label="">
+<activity name=".dazhihui.view.SearchStockScreen" configChanges="160" label="">
+<activity screenOrientation="1" name=".dazhihui.trade.FundTransfer" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundInfo" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundDividend" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundTransfer" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.MobileVerifed" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.MobileLogin" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.TradeMenu" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundMenu" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.IFundMenu" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.TransferMenu" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.AccountList" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.RegionTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.DepartTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.TradeLogin" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.RemoveAccount" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.CancelTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.EntrustTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.BargainTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.HoldingTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.BargainTableH" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.CapitalTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.LuckyTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundOpenTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundHoldingTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundBargainTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundEntrustTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.MoneyListTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.MoneyCheckTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.MoneyListTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.Warrant" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundCancelTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.TransferTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundCompanyTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.Entrust" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundOpenForm" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.BargainForm" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.LuckyForm" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.ProtectorForm" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundBargainForm" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.Transfer" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundEntrust" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundAtone" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.IFundEntrust" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.IFundAtone" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.EntrustHolding" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.Cancel" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.FundCancel" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.SynchCodes" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.ServiceInfo" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.AccountPass" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.InitVerifed" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.newtrade.TradeOutsideScreen" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.CapitalandHoldingTable" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.EntrustTable_today" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.BargainTable_today" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.BargainTable_history" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.EntrustTable_history" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.LuckyTable_history" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.EntrustNew" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.TradeMenuNew" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.TradeChecklistMenu" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.TradeLogin1" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.TradeLogin2" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.InitVerifedChuanCai" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.InitVerifedDongHai" label="2131427329">
+<activity screenOrientation="1" name=".dazhihui.trade.Transfertable_select" label="2131427329">
+<activity screenOrientation="1" name="com.rytong.bankps.dazhihui.trade.TradeLogin2tongyong" label="2131427329">
+1
+<service name="com.rytong.bankps.EmptyService">
+0
+0
+Owner: CN=RYT, OU=RYT, O=RYT, L=Peking, ST=Peking, C=CH
+Issuer: CN=RYT, OU=RYT, O=RYT, L=Peking, ST=Peking, C=CH
+Serial number: 4b822e2f
+Valid from: Mon Feb 22 15:11:43 CST 2010 until: Fri Jul 10 15:11:43 CST 2037
+Certificate fingerprints: 
+	MD5:F6:B1:5A:BD:66:F9:19:51:03:6C:95:5C:B2:5B:06:9F
+	SHA1: 98:3C:F7:4E:DE:58:B5:80:F9:6D:DE:E0:98:64:2C:78:97:19:B5:3F
+	SHA256: B4:8F:75:51:4E:95:6B:E6:BD:7D:56:F1:70:11:36:C8:D7:6F:19:45:9B:D7:24:AC:52:39:0A:57:2B:C0:EC:BF
+	Signature algorithm name: SHA1withRSA
+	version: 3

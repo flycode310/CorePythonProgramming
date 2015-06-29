@@ -1,0 +1,3 @@
+android.util.Log: int d(java.lang.String,java.lang.String)
+java.net.URL: void <init>(java.lang.String)
+android.os.Handler: boolean sendMessage(android.os.Message)

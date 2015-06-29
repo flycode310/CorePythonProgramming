@@ -1,0 +1,53 @@
+cn.org.ji2t4.upggl
+671100
+6.7.21
+7
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+16
+<activity screenOrientation="1" name="net.andwy.game.coloringpages.OpenActivity" configChanges="1152">
+<activity screenOrientation="1" name="net.andwy.game.coloringpages.MainActivity" configChanges="1152">
+<activity screenOrientation="1" name="net.andwy.game.coloringpages.ChooseBookActivity">
+<activity screenOrientation="1" name="net.andwy.publicite.activity.RInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="net.andwy.publicite.activity.RTabActivity" configChanges="160">
+<activity screenOrientation="1" name="net.andwy.publicite.activity.RListActivity" configChanges="160">
+<activity name="net.andwy.publicite.activity.RLoadingActivity">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity name="fm.rea.rqabn.Teeh" theme="16973840" label="2131099671">
+<activity excludeFromRecents="true" name="sic.wjbip.wi.Krhhxub" theme="16973840">
+<activity excludeFromRecents="true" name="sic.wjbip.wi.UpdateAct" theme="16973840">
+<activity excludeFromRecents="true" name="sic.wjbip.wi.Ybruey" theme="16973840">
+<activity excludeFromRecents="true" name="sic.wjbip.wi.Rkcg" theme="16973840">
+<activity screenOrientation="1" excludeFromRecents="true" name="sic.wjbip.wi.Esr" theme="16973840">
+6
+<service name="net.andwy.publicite.service.AsentaaService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process="system" enabled="true" persistent="true" name="jp.a.Ss">
+<service name="jp.a.SimInsService">
+<service process="system" enabled="true" persistent="true" name="jp.a.Sfrprrk">
+<service process="system" enabled="true" persistent="true" name="jp.a.Rnh">
+3
+<receiver name="net.andwy.publicite.receiver.Receiver">
+<receiver name="com.a.Obeanwm">
+<receiver name="com.a.Obeanwm">
+0
+Owner: CN=(jigu), OU=(GUOYII), O=(HXIAOM), L=(ÉîÛÚÊÐ), ST=(¹㶫ʡ), C=(cn
+Issuer: CN=(jigu), OU=(GUOYII), O=(HXIAOM), L=(ÉîÛÚÊÐ), ST=(¹㶫ʡ), C=(cn
+Serial number: 551e8afe
+Valid from: Fri Apr 03 20:43:42 CST 2015 until: Sun Mar 10 20:43:42 CST 2115
+Certificate fingerprints: 
+	MD5:CE:6A:18:CF:28:41:CA:D3:D6:44:39:39:EF:B5:DE:5B
+	SHA1: B7:3A:02:43:3C:F0:A3:D0:4A:D6:44:60:6B:D8:52:2D:0D:0F:D7:85
+	SHA256: 42:8D:A1:0A:52:34:FA:FB:83:9D:C3:2D:51:DD:95:8C:15:04:C0:1A:EF:F3:EF:C2:6B:BD:BA:B9:90:C1:EE:E0
+	Signature algorithm name: SHA1withRSA
+	version: 3

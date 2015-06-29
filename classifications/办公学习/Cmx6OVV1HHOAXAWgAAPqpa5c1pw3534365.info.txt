@@ -1,0 +1,37 @@
+com.james.SmartNotepad
+10
+1.2.8
+5
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name=".NoteList2" label="2131165321">
+<activity screenOrientation="4" name=".NoteEdit2" theme="16973836" configChanges="160" label="2131165322">
+<activity screenOrientation="4" name=".Translate" theme="16973836" configChanges="160" label="Translate">
+<activity name="NoteTitleEdit" theme="16973835" label="2131165323" windowSoftInputMode="4">
+<activity icon="2130837523" name="NoteLiveFolder" label="2131165326">
+<activity name=".SdcardList" label="2131165198">
+<activity name=".Settings" label="2131165196">
+<activity name=".About" label="2131165194">
+<activity name="com.admob.android.ads.AdMobActivity" theme="16973831" configChanges="176">
+0
+1
+<receiver name="com.admob.android.ads.analytics.InstallReceiver" exported="true">
+1
+<provider enabled="true" authorities="com.james.SmartNotepad.NotePad" name=".NotePadProvider" permission="com.android.MY_PERMISSION">
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: 936eacbe07f201df
+Valid from: Fri Feb 29 09:33:46 CST 2008 until: Tue Jul 17 09:33:46 CST 2035
+Certificate fingerprints: 
+	MD5:E8:9B:15:8E:4B:CF:98:8E:BD:09:EB:83:F5:37:8E:87
+	SHA1: 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+	SHA256: A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC
+	Signature algorithm name: SHA1withRSA
+	version: 3

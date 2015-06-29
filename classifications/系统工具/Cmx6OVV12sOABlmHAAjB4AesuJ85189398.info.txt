@@ -1,0 +1,49 @@
+com.december.WirelessUDisk
+9
+9.0
+7
+-1
+14
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+10
+<activity screenOrientation="1" name=".SplashActivity" theme="16973830" configChanges="176" launchMode="2">
+<activity screenOrientation="1" name=".MainActivity" configChanges="176" label="2131034115" launchMode="2">
+<activity screenOrientation="1" name=".ReadLocalPageActivity" configChanges="176" label="2131034115" launchMode="2">
+<activity name=".TuijianListActivity">
+<activity name="com.bypush.PushActivity">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity screenOrientation="1" name="com.vpon.adon.android.WebInApp" configChanges="240">
+<activity name="cn.aduu.adsdk.AdSpotActivity">
+<activity name="com.baidu.AppActivity" configChanges="176">
+3
+<service name="org.swiftp.FTPServerService">
+<service name="com.bypush.ByPushService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+2
+<receiver name="org.swiftp.WidgetProvider" label="2131034139">
+<receiver name="com.bypush.BootReceiver">
+0
+Owner: CN=redhat
+Issuer: CN=redhat
+Serial number: 4fc48391
+Valid from: Tue May 29 16:06:41 CST 2012 until: Sat May 23 16:06:41 CST 2037
+Certificate fingerprints: 
+	MD5:85:CC:F8:0D:B7:05:C9:DA:1E:3B:8C:4D:07:00:AF:9A
+	SHA1: D6:19:C4:F8:5F:DC:1D:AA:F7:EA:97:3B:5A:EC:FB:42:49:5F:34:14
+	SHA256: E8:E4:8E:C4:7D:E0:27:5D:18:51:FE:EE:35:F4:1F:28:18:EB:04:DE:F5:C2:72:15:93:F9:92:44:8D:08:F6:95
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,172 @@
+com.txm
+20
+3.1.1
+11
+21
+37
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.GET_ACCOUNTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.READ_SMS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+com.txm.permission.JPUSH_MESSAGE
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_CONFIGURATION
+108
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.main.LaunchActivity" theme="2131492872">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.main.HomeActivity" theme="2131492872" windowSoftInputMode="0">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.main.GuideActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.main.CityActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelSearchResultActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelFilterActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelSearchConditionActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelDetailActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelServiceActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelGroupBuyingActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelCommentActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelCommentPublishActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelErrorReportActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelReserveSuccessActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelRefundActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelBanquetHallActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.HotelWeddingMenuActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.hotel.ConsultSuccessActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.web.WebActivity" theme="2131492866" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.AllCouponActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.LoginActivity" theme="2131492866" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.RegisterActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.FindBackActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.ResetActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.ProtocolActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalEditActivity" theme="2131492866" windowSoftInputMode="17">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalPortraitActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalOrderActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalFollowActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalCouponActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalRefundActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalBrowseActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalGiftActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalAboutActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalAboutEnterActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalSettingActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalQuestionActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalFeedbackActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.tool.StewardActivity" theme="2131492866" windowSoftInputMode="17">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.tool.LuckyDayActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.tool.LuckyDayScheduleActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.tool.BudgetActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.tool.RegistrationActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.invitation.CaptureActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.invitation.HelpActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.invitation.RecordActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.invitation.PlayActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.invitation.EditActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.invitation.ApplyActivity" theme="2131492866" windowSoftInputMode="17">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.invitation.MineActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.invitation.EiRelevanceActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.invitation.AlbumRelevanceActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.trade.TradeMainActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.trade.CategoryActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.trade.TopicActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.trade.AllTopicActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.trade.AdvertisementActivity" theme="2131492866">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleCreateFirstActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleCreateSecondActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleJoinIdentityActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleJoinPersonalInfoActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleImageDetailActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleContentDetailActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleListActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleMemberActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleInviteActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleInviteSmsActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleMemberDetailActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleAlbumActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CirclePublishActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleProductActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleProductSettingActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleMessageActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleCaptureActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleInfoActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleInfoEditActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleJoinActivity" theme="2131492864">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleJoinSearchActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.tool.MapActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.tool.PhotoActivity" theme="2131492864" configChanges="1184">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalEditActivity_n" configChanges="1184">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalFeedbackActivity_n">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CirclePraiseDetailActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleInviteEditActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleAtActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CirclePhotoActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.tool.EditTextActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.circle.CircleAboutActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.tool.EnlargeImageActivity" theme="2131492870">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.photography.PhotographyMainActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.photography.PhotographyWorkDetailActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.photography.PhotographyImageDetailActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.photography.PhotographyTeamDetailActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.photography.PhotographyBookActivity" theme="2131492874">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.photography.PhotographyCouponActivity" theme="2131492874">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.photography.PhotographyBookFinishActivity">
+<activity screenOrientation="1" name="com.xitaoinfo.android.activity.personal.PersonalOrderActivity_n">
+<activity name="com.taobao.tae.sdk.webview.BaseWebViewActivity">
+<activity name="com.taobao.tae.sdk.ui.LoginWebViewActivity">
+<activity name="com.taobao.tae.sdk.ui.TradeWebViewActivity">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131492877" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.xitaoinfo.android.plugin.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+5
+<service name="com.xitaoinfo.android.service.CircleService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+2
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+0
+Owner: CN=taoximao
+Issuer: CN=taoximao
+Serial number: 533e2aba
+Valid from: Fri Apr 04 11:44:58 CST 2014 until: Sun Mar 11 11:44:58 CST 2114
+Certificate fingerprints: 
+	MD5:6A:82:97:1D:F3:8C:21:59:27:07:A6:70:DD:A1:59:70
+	SHA1: E0:F1:C7:31:34:80:2B:78:9E:15:86:73:6A:BD:7B:A5:01:EB:F2:CE
+	SHA256: 4D:31:9B:45:8C:13:5E:29:26:56:9E:8A:9C:4B:48:B0:72:14:CF:D4:C0:83:44:FE:FD:A0:12:0D:E2:63:16:C3
+	Signature algorithm name: SHA1withRSA
+	version: 3

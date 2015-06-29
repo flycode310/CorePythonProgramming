@@ -1,0 +1,75 @@
+com.pamirs.taoBaoLing
+6
+3.1
+3
+8
+14
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+taobaoling.permission.privateUse
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+37
+<activity screenOrientation="1" name=".activity.MainActivity">
+<activity screenOrientation="1" name=".activity.BindActivity">
+<activity screenOrientation="1" name=".activity.BaseActivity">
+<activity screenOrientation="1" name=".activity.BasechildActivity">
+<activity screenOrientation="1" name=".activity.SecurityCenterActivity">
+<activity screenOrientation="1" name=".activity.ModifyPwdActivity">
+<activity screenOrientation="1" name=".activity.SafeSettingsActivity">
+<activity screenOrientation="1" name=".activity.AccountProtectActivity">
+<activity screenOrientation="1" name=".activity.SafeLogActivity">
+<activity screenOrientation="1" name=".activity.SafeSchoolActivity">
+<activity screenOrientation="1" name=".activity.SafeTabActivity" theme="2131165195">
+<activity screenOrientation="1" name=".activity.OtpActivity">
+<activity screenOrientation="1" name=".activity.DcodeActivity">
+<activity screenOrientation="1" name=".activity.KeyActivity">
+<activity screenOrientation="1" name=".activity.RemoteDeleteActivity">
+<activity screenOrientation="1" name=".activity.SoftPwdActivity">
+<activity screenOrientation="1" name=".activity.HelpActivity">
+<activity screenOrientation="1" name=".activity.SuggestActivity">
+<activity screenOrientation="1" name=".activity.AboutActivity">
+<activity screenOrientation="1" name=".activity.StartPwdActivity">
+<activity screenOrientation="1" name=".activity.MonifyPwdActivity">
+<activity screenOrientation="1" name=".activity.MonifyRemoteActivity">
+<activity screenOrientation="1" name=".activity.AccountLockActivity">
+<activity screenOrientation="1" name=".activity.ForgetPwdActivity">
+<activity screenOrientation="1" name=".activity.TipActivity" theme="2131165184">
+<activity screenOrientation="1" name=".activity.SafeItemContentActivity">
+<activity screenOrientation="1" name=".activity.ShowJiuXingActivity" theme="2131165184">
+<activity screenOrientation="1" name=".activity.AboutUsActivity">
+<activity screenOrientation="1" name=".activity.VersionInfoActivity">
+<activity screenOrientation="1" name=".activity.LicenseAgreementActivity">
+<activity screenOrientation="1" name=".activity.GuideViewDemoActivity">
+<activity name=".client.android.share.BookmarkPickerActivity" label="2131427334">
+<activity name=".client.android.share.AppPickerActivity" configChanges="128" label="2131427333">
+<activity screenOrientation="1" name=".client.android.HelpActivity">
+<activity screenOrientation="1" name=".activity.IndexActivity">
+<activity screenOrientation="0" name=".client.android.CaptureActivity" theme="16973831" configChanges="160" permission="taobaoling.permission.privateUse" windowSoftInputMode="3">
+<activity name=".PreferencesActivity" label="2131427424">
+2
+<service name=".service.WidgetService">
+<service name=".service.ControlService">
+2
+<receiver name="WidgetProvider" label="2131427329">
+<receiver name=".service.UpdateWidget" permission="taobaoling.permission.privateUse">
+0
+Owner: CN=taobao, OU=taobao, O=taobao, L=hangzhou, ST=zhejiang, C=CN
+Issuer: CN=taobao, OU=taobao, O=taobao, L=hangzhou, ST=zhejiang, C=CN
+Serial number: 4c59152e
+Valid from: Wed Aug 04 15:22:22 CST 2010 until: Sun Dec 20 15:22:22 CST 2037
+Certificate fingerprints: 
+	MD5:50:6D:2C:60:49:63:D3:A9:B2:79:4B:A6:48:01:02:4E
+	SHA1: 4D:84:31:44:ED:57:7E:0A:2F:D7:B7:CC:13:DF:CC:C3:82:DF:49:7A
+	SHA256: C5:E9:BC:4C:5C:C7:A3:44:82:C6:27:CB:9A:76:B8:8E:30:B5:09:D0:DA:3B:A5:4A:66:27:42:00:E1:9C:27:43
+	Signature algorithm name: SHA1withRSA
+	version: 3

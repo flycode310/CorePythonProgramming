@@ -1,0 +1,46 @@
+ikey.ayukyo.clock
+2014122201
+2014.12.22.01
+8
+17
+11
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.MOUT_UNMOUNT_FILESYSTEMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity name="com.clock.example.activity.MainActivity" label="365闹钟">
+<activity screenOrientation="1" name="com.clock.example.activity.AlarmActivity" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.clock.example.activity.AlarmClockActivity">
+<activity screenOrientation="1" name="com.clock.example.activity.BrowserPictureActivity">
+<activity screenOrientation="1" name="com.clock.example.activity.ClockDetailActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="teh.hhdh.osoos.mdj.re" label="">
+<activity name="teh.hhdh.osoos.zg.nf" theme="16973840" configChanges="176" launchMode="3">
+<activity name="teh.hhdh.osoos.ge.ekt" theme="16973840" configChanges="176">
+3
+<service name="com.clock.example.service.AlarmService">
+<service name="teh.hhdh.osoos.mdj.eln">
+<service name="teh.hhdh.osoos.zg.mmen">
+4
+<receiver process=":remote" name="com.clock.example.receiver.AlarmReceiver">
+<receiver name="teh.hhdh.osoos.mdj.ia">
+<receiver name="teh.hhdh.osoos.zg.vvre">
+<receiver name="teh.hhdh.osoos.ge.zytq">
+0
+Owner: CN=mm, OU=mm, O=mm, L=mm, ST=mm, C=mm
+Issuer: CN=mm, OU=mm, O=mm, L=mm, ST=mm, C=mm
+Serial number: 544bacd0
+Valid from: Sat Oct 25 21:59:44 CST 2014 until: Sun Oct 12 21:59:44 CST 2064
+Certificate fingerprints: 
+	MD5:8E:F4:86:9A:08:FE:05:98:E4:ED:AB:F4:B6:D9:D5:B0
+	SHA1: E9:0A:85:D8:15:30:B5:8A:5B:B8:60:5C:F9:4B:41:93:B7:53:DF:77
+	SHA256: D3:C3:01:C1:A6:ED:E4:31:5C:63:2C:80:2B:3C:16:B4:82:38:B5:1E:0A:5D:BC:84:C3:F5:77:43:0E:B9:B4:90
+	Signature algorithm name: SHA1withRSA
+	version: 3

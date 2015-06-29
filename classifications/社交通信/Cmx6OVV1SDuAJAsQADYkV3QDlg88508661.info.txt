@@ -1,0 +1,89 @@
+com.juhuicall.packet
+205
+2.0.5
+3
+-1
+28
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_APN_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.REORDER_TASKS
+android.permission.DISABLE_KEYGUARD
+android.permission.MODIFY_PHONE_STATE
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.DEVICE_POWER
+35
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.MainTab" theme="2131361804" launchMode="3">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.MainTabUI" theme="2131361801" uiOptions="1" label="2131165236" windowSoftInputMode="32" alwaysRetainTaskState="true" launchMode="1">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="2131361804" exported="true">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiEmptyActivity" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.MainContact" theme="2131361802" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.MainDial" theme="2131361802" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.MainMomey" theme="2131361802" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.MainSetting" theme="2131361802" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiShowAccoutInfo" theme="2131361802" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiShowContact" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiContactSync" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiShowCallLog" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiShowImage" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiShowData" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiFashDialCall" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiContactSelect" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiCallShowNumberServer" theme="2131361802">
+<activity finishOnTaskLaunch="true" screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiContactEdit" theme="2131361802" configChanges="160" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.EntityActivity" theme="2131361802" configChanges="176">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiProperty" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiContactPublicSelect" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.widget.cropimage.CropImage" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiCallMain" theme="2131361802" configChanges="176" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiLogin" theme="2131361802" configChanges="176" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiRegister" theme="2131361802" configChanges="176" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiForgetPwd" theme="2131361802" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.util.ShowAdWall" theme="2131361802" configChanges="176">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.util.CitySelect" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.util.CounrySelect" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.view.publicUtil.UserFackBookServer" theme="2131361802">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiAdWallFree" theme="2131361802" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiAdWallMoney" theme="2131361802" launchMode="2">
+<activity screenOrientation="1" name="com.wirelessphone.voip.appUi.activity.UiAdWallShowInfo" theme="2131361802">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+3
+<service name="com.wirelessphone.voip.platform.VoipService" exported="false">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="com.baidu.android.pushservice.CommandService" exported="true">
+3
+<receiver name="com.wirelessphone.voip.platform.push.MyPushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=巨惠省, L=九龙区, ST=香港, C=cn
+Issuer: CN=巨惠省, L=九龙区, ST=香港, C=cn
+Serial number: 533272a7
+Valid from: Wed Mar 26 14:24:39 CST 2014 until: Sun Feb 06 14:24:39 CST 2214
+Certificate fingerprints: 
+	MD5:EB:E1:9C:20:37:AF:A0:9C:BB:79:4B:9B:9B:B1:BB:B3
+	SHA1: FD:74:78:7B:A6:3A:3D:DC:95:65:FE:26:90:7B:8D:FE:F9:C4:65:5A
+	SHA256: F8:A3:9F:96:9C:B0:AB:C4:4B:B7:C5:77:77:5C:3E:13:04:33:C0:B4:F8:A0:E9:00:CF:C0:89:56:95:56:FD:78
+	Signature algorithm name: SHA1withRSA
+	version: 3

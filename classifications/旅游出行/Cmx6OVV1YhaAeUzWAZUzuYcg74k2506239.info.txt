@@ -1,0 +1,891 @@
+com.chinamworld.bocmbci
+29
+1.5.12
+8
+-1
+25
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.UPDATE_DEVICE_STATS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+835
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.GuidePageActivity" theme="2131558585" label="2131362409" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.google.zxing.CaptureActivity" theme="2131558584" configChanges="160" windowSoftInputMode="3" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.WelcomeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.LoadingActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.MainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.accmanager.FincAccManagerActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.accmanager.FundTaDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.accmanager.FundTaAccListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.accmanager.FundTaAccListActivity2" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.accmanager.FincAccManagerMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundprice.FundPricesActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundprice.FincFundRecommendDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundprice.FincRecommendFundListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundprice.FundPricesMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundprice.FincFundDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundprice.FincShowFundPricesActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundprice.FincFundTaSettingActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="0" name="com.chinamworld.bocmbci.biz.finc.fundprice.FincFundPricesChartActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundprice.FincFundTaSettingConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundprice.FincFundTaSettingSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundacc.FincFundAccMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundacc.FincFundCheckInAccMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundacc.FincCheckInAccConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundacc.FincCheckInAccSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundacc.FincFundRegistAccMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundacc.FincNoAccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundacc.FincRegistAccAgreeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundacc.FincRegistAccConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.fundacc.FincRegistAccSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeScheduledBuyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeScheduledBuyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeScheduledBuySuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeBuyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeBuyextrDateActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeBuyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeBuySuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeThrowActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeThrowConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.trade.FincTradeThrowSuccesseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundQueryTodayActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundQueryTodayDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundQueryEffectiveDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundQueryEffectiveActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundQueryEffectiveConcernActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundQueryEffectiveConcernSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundqueryMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundDDAbortConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundConcernExtaDayDealSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundConcernExtaDayDealConfirmActivity" theme="2131558584" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FincQueryExtraDayDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FincQueryExtraDayActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundConcernDealConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundConcernDealSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FincQueryHistoryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundQueryHistoryDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FincQueryDQDEActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundQueryDQDEDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundDDAbortSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FincQueryDdTransActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundQueryDdTransDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.myfund.FincFundStatementBalanceActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.myfund.FincFundStatementBalanceDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.myfund.FincFundTransSactionDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.accmanager.FincAccInvestorRightsAttentionActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundDQDEMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FincQueryDQDEUnavailableActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FincQueryDQDEUnavailableDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.orcm.OrcmProductListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.orcm.OrcmProductDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundSecheduBuyModifyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundSecheduBuyModifyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundSecheduBuyModifySuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundSecheduSellModifyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundSecheduSellModifyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.finc.query.FundSecheduSellModifySuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.AccManageActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.AccountTransferDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.AccRelTransManagerActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.RelConfirmInfoActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.RelTranSuccessActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.AccCrcdTransManagerActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.creditcardrepay.RelSelfCreditCardConfirmActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.creditcardrepay.RelSelfCreditCardSuccessActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.creditcardrepay.RelCreditCardRemitConfirmActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.creditcardrepay.RelCreditCardRemitSuccessActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.PreDateExeActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.mybankaccount.PrePeriodExeActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.relevanceaccount.AccInputRelevanceAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.relevanceaccount.AccCreditCardConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.dialogActivity.FinanceIcDetailDialogActivity" theme="2131558402" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.dialogActivity.IcCardDetailDialog" theme="2131558402" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.relevanceaccount.AccCreditCardSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.relevanceaccount.AccDebitCardChooseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.relevanceaccount.AccDebitCardConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.relevanceaccount.AccDebitCardSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.relevanceaccount.AccICCardConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.relevanceaccount.AccICCardSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.lossreport.AccDebitCardLossActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.lossreport.AccLossReportConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.lossreport.AccLossReportSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.lossreport.AccLossReportInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.financeicaccount.MyFinanceIcAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.financeicaccount.FinanceMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.financeicaccount.FinanceIcAccountTransferDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.financeicaccount.MyFinanceIcAccountTransferDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.financeicaccount.transfer.FinanceIcTransferMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.dialogActivity.MedicalDetailDialog" theme="2131558402" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.medical.MedicalAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.medical.MedicalMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.medical.MedicalAccountTransferDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.acc.medical.MyMedicalAccountTransferDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.dept.DeptStorageCashActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.dept.DeptMyTerminalCashActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.QueryProductActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.ProductDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.ProductDescriptionActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.ProductTotalActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.ProductDesActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.InvtBindingRelevanceActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.InvtBindingChooseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.InvtBindingConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.InvtBindingSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.InvtEvaluationInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.TestInvtEvaluationAnswerActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.InvtEvaluationResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.BuyProductChooseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.BuyProductInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.BuyProductConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.BuyProductSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.MyProductListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.OcrmProductListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.dialogActivity.BocBindinglDialogActivity" theme="2131558402" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.NewInvtEvaluationActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.MyProductDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.ChangeBonusModeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.ChangeBonusModeSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.RedeemInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.RedeemConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.RedeemSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.myproduct.ProgressInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.dealhistory.QueryHistoryProductActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.dealhistory.HistoryProductDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.dealhistory.ProductCanceledActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.dealhistory.ProductCanceledSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.XpadApplyAgreement" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.AgreementChooseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.XpadApplyAgreementConfirm" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.productlist.XpadApplyAgreementSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.QueryAgreeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.PeriodAgreeDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.PeriodAgreeEditInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.PeriodAgreeEditConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.PeriodAgreeEditSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.PeriodAgreeCancelActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.PeriodAgreeCancelSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.DextendAgreeDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.DextendAgreeEditInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.DextendAgreeEditConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.DextendAgreeEditSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.DextendAgreeConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.ZextendAgreeDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.ZextendAgreeEditInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.ZextendAgreeEditConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.ZextendAgreeEditSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.ZextendAgreeConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.DextendAgreeSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.queryagreement.ZextendAgreeSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.acctmanager.BocinvtAcctListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.acctmanager.BocinvtAcctDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.acctmanager.DisengageBindResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.acctmanager.DisengageBindConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.acctmanager.BindAcctListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.acctmanager.BindConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.acctmanager.BindResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.TransferInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.TransferConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.TransferResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocinvt.acctmanager.BocinvtAssociateActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.LoginActivity" theme="2131558585" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.findpwd.ForceModifyPwdActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.findpwd.VolumeProtocolActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.findpwd.FindPwdActivity" theme="2131558585" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.findpwd.PwdResetActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.findpwd.PwdResetSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.reg.RegisteActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.reg.RegisteVerifyActivity" theme="2131558585" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.reg.RegisterProtocolActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.reg.RegisterSetNamePwdActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.login.reg.RegisterSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.query.PrmsEntrustConsernDealSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.query.PrmsEntrustConsernDealActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.query.PrmsQueryEntrustNowActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.query.PrmsQueryEntrustNowDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.query.PrmsQueryEntrustHistoryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsFirstSettingSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.price.PrmsPricesActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsAccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsAccMeneActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsAccActivity401" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsAccPositionActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsAccDetailDialogActivity" theme="2131558402" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.query.PrmsQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.query.PrmsQueryDealActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.query.PrmsQueryDealDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.query.PrmsQueryEntrustDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsAccSettingActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.trade.PrmsBuyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.trade.PrmsBuySuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.trade.PrmsTradeBuyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.trade.PrmsTradeSaleActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.trade.PrmsSaleConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.trade.PrmsSaleSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsNoAccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsAccSettingConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.prms.myaccount.PrmsAccSettingSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.pass.EditPassConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.pass.EditLoginPassActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.obligate.EditObligateMessageActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.obligate.ObligateMessageActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.limit.LimitSettingActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.limit.EditLimitMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.limit.EditLimitSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.limit.EditLimitConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.accmanager.AccountManagerActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.accmanager.EditAccAliasActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.accmanager.EditAccAliaSucceesActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.exittime.ExitTimeSettingActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.TransferManagerActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.ConfirmInfoActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.RelConfirmInfoActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.TranSuccessActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.RelTranSuccessActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.PreDateExeActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.PrePeriodExeActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.NoRelConfirmInfoActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.NoRelSuccessActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.NoRelBankOtherConfirmInfoActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.currenttran.NoRelBankOtherSuccessActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.addpayee.QueryExternalBankActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.addpayee.WritePayeeInfoActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.creditcardrepay.RelSelfCreditCardConfirmActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.creditcardrepay.RelSelfCreditCardSuccessActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.creditcardrepay.RelCreditCardRemitConfirmActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.creditcardrepay.RelCreditCardRemitSuccessActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mobiletrans.MobileTranActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mobiletrans.MobileTranConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mobiletrans.MobileTranSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.twodimentrans.TwoDimenTransActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.twodimentrans.SelectAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.twodimentrans.TwoDimenSacnResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.twodimentrans.GenerateDimenConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="android.intent.action.GET_CONTENT" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.ManageTransActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.premanage.QueryDateActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.premanage.QueryDateDetailActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.premanage.CancleDateConfirmActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.managetranrecords.ManageTransRecordActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.managetranrecords.TransRecordDetailActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.managepayee.PayeeListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.managepayee.PayeeDetailActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mobiletrans.MobileTransferQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mobiletrans.MobileTransThirdMenu" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mobiletrans.MobileTransferDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.atmremit.AtmThirdMenu" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.atmremit.AtmRemitChooseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.atmremit.AtmRemitInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.atmremit.AtmRemitConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.atmremit.AtmRemitSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.atmremit.AtmRemitQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.atmremit.AtmRecordDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.atmremit.AtmRecordCancelConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.atmremit.AtmRecordCancelSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitThirdMenu" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitProtocolActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitChooseAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitSetMealInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitAddSharedAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitDelSharedAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitSetMealConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitSetMealModifyInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitSetMealModifyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitSetMealSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitQueryChoiseAccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitQueryMealDetaiActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitQueryMealDetailDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.remit.RemitQuerySetMealCancelConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.CollectMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.CollectListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.CollectAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.modify.CollectModifyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.modify.CollectModifyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.modify.CollectModifyResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.delete.CollectDeleteConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.delete.CollectDeleteResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.setting.CollectProtocolActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.setting.CollectPaylistActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.setting.CollectSettingActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.setting.CollectSettingConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.setting.CollectSettingResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.query.CollectQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.collect.query.CollectQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.LoanAccountListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.LoanQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.LoanAdvanceCountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.LoanAdvanceCountResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.LoanAdvanceCountMatchActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.LoanBaseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanPledge.LoanPledgeAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanPledge.LoanPledgeCdnumberInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanPledge.LoanPledgeInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanPledge.LoanPledgeReadActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanPledge.LoanPledgeconfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanPledge.LoanPledgeSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanRepayAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanRepayAccountDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanRepayAccountInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanRepayAccountConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanProtocolActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanRepayAccountSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanQuery.LoanQueryMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanQuery.LoanQuotaQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanQuery.LoanQuotaQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanQuery.LoanQuotaQueryQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanQuery.LoanUseQueryAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanQuery.LoanUseQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanUse.LoanUseMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanUse.LoanCycleAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanUse.LoanUseInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanUse.LoanUseReadActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanUse.LoanUseConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanUse.LoanUseSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanRepayMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanChangeLoanRepayAccountChooseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanChangeLoanRepayAccountInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanChangeLoanRepayReadActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanChangeLoanRepayAccountConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.loan.loanRepay.LoanChangeLoanRepayAccountSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexRateInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexRateNotifyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.commrequest.ForexInvesAgreeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.commrequest.ForexInvesConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.commrequest.ForexInvesSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexAccSettingActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexNoAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexAccSettingConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexAccSettingSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexQuickTradeSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexQuickCurrentSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.strike.ForexStrikeQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.quash.ForexQuashQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.quash.ForexQuashQueryDateilActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.quash.ForexQuashConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.quash.ForexQuashSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.strike.ForexStrikeQueryInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.strike.ForexStrikeQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexQuickCurrentConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexQuickCurrentSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexQuickTradeConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexRateInfoDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.customer.ForexCustomerRateInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.customer.ForexCustomerFixRateInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.customer.ForexCustomerFixRateDatailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.fidget.BTCCameraSaveActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.two" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.fidget.WebViewForUrl" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.three" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.fidget.BTCFileDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.two" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.fidget.BTCFileListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.two" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.fidget.FidgetMainActivity" theme="2131558585" taskAffinity="com.chinamworld.bocmbci.two" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.fidget.BTCServiceOrgList" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.two" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.fidget.BTCServiceGrid" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.two" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.fidget.BTCServiceHelpDes" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.two" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.fidget.BTCServiceDonwloadList" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.two" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.fidget.BTCWeb" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.two" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.rate.ForexQuickTradeSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.forex.ForexBaseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.FincChangCardSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.FincChangCardActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.FinFdykcActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.FundFdykDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincExtranDaySellActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincBalanceActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincFollowActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincBalanceDetailActivity" theme="2131558584" configChanges="160" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincSellSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.FincFundDueDateListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.FincFundDueDateDetailsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincSellConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincSellSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincFastSellSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincFastSellConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincFastSellSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincScheduSellActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincScheduleSellConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincScheduleSellSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincBoundsTypeSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincBoundsTypeConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincBoundsTypeSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincBalanceResetAccSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincBalanceResetAccConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincBalanceResetAccSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.finc.myfund.MyFincFollowDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.MyCreditCardActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.MyCrcdDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.VirtualBCServiceActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.TransactionQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.CrcdAccDetailQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.CrcdTransDividedActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.CrcdTransDividedConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.CrcdTransDividedSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.CrcdAccountDividedActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.CrcdAccountDividedConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.CrcdAccountDividedSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCardSetupMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdActiveInfo" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdActiveConfirm" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdActiveSuccess" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdGuashiListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdGuashiInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdGuashiConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdGuashiSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCrcdSetupListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCrcdSetupDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPaymentwaySetup" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPaymentwaySetupConfirm" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPaymentwaySetupSuccess" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCrcdSetupReadActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdpaymentSetupAutoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdpaymentSetupAutoSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdServiceSetupListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdServiceSetupDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdServiceInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdServiceInfoConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdServiceInfoSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCrcdSetupSmsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCrcdSetupSmsConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCrcdSetupSmsSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCrcdSetupTransMoneyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCrcdSetupTransMoneyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MyCrcdSetupTransMoneySuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MySupplymentDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.MySupplymentListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnQueryCheckList" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnQueryCheckDetail" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnEmailResetSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnEmailResetConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnEmailResetSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnCheckCloseResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnCheckCloseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnCheckOpenActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnCheckOpenConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnCheckOpenSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdDividedHistoryQueryDetail" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdNoTransQueryListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdHasTransQueryListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdDividedHistoryQueryList" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.MyCardTransMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdDividedAndPreviewConfirm" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdDividedAndPreviewResult" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdDividedDetailListDetail" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.VirtualBCServiceMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.VirtualBCServiceListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.VirtualBCServiceReadActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.VirtualBCServiceWriteActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.VirtualBCServiceWriteConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.VirtualBCServiceWriteSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.VirtualBCListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.MyVirtualBCListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.VirtualBCDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.MyVirtualSetupActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.MyVirtualSetupConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.MyVirtualSetupSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.MyVivtualQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.CrcdTransDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.CrcdQueryBilledTransDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdfuShuQueryListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdFushuQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdXiaofeiQueryListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdPsnCheckCloseConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.MyVirtualGuanLianConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.MyVirtualGuanLianSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.NoCreditCardActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdXiaofeiQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdHasQueryListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.transquery.CrcdHasQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.chinamworld.bocmbci.biz.crcd.mycrcd.virtualservice.MyVirtualHasQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdGlobalRMBAccConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.crcd.mycrcd.crcdSetup.CrcdGlobalRMBAccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.crcd.dialogActivity.CrcdVirtualDialogActivity" theme="2131558402">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.crcd.dialogActivity.CrcdDetailDialogActivity" theme="2131558402">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.zyzx.ZhongYinActivity" theme="2131558585" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.zyzx.ZhongYinBaseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.chsliver.WebViewActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.three" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.remitout.RemitCardListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.remitout.AgencyQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.remitout.AgencyResultListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.remitout.RemitInputInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.remitout.RemitConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.remitquery.RemitQueryChooseCardActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.remitquery.RemitQueryBeforeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.remitquery.RemitQueryInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.drawfromagencey.DrawInputInfoAcitivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.drawfromagencey.DrawConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.drawquery.DrawQueryAcitivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.drawmoney.drawquery.DrawQueryInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.gatherquery.GatherQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.gatherquery.GatherQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.gatherquery.CancelGatherActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.creatgather.CreatGatherInputInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.creatgather.GatherInputPreInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.creatgather.GatherConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.payquery.PayQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.payquery.PayQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.payquery.PayChooseCardActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.payquery.PayInputInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.payquery.PayConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.commenpayer.CommenPayerActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.gatherinitiative.commenpayer.ModifyPhoneNumberActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.savereg.SaveRegularActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.savereg.SaveConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.savereg.SaveAgreeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.savereg.SaveSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.savereg.SaveDateExcActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.savereg.SaveWeekExcActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.myreg.MyRegSaveActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.myreg.MyRegSaveChooseTranInAccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.myreg.MyRegSaveCheckOutConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.myreg.CreateNoticeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.appointmanager.CancleDateConfirmActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.appointmanager.QueryDateActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.appointmanager.QueryDateDetailActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.recordmanager.RegularRecordActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.recordmanager.RegularRecordDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.QureyRecordManagerActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.ydzc.DeptYdzcQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.ydzc.DeptYdzcQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.ydzc.DeptYdzcSetingInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.ydzc.DeptYdzcSetingConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.ydzc.DeptYdzcSetingSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.ydzc.DeptYdzcAppointQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.ydzc.DeptYdzcAppointDeleteConfiemActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.ydzc.DeptYdzcAppointDeleteSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.ydzc.DeptYdzcSetingReadActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.zntzck.DeptZntzckThreeMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.zntzck.DeptZntzckSignSelectActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.zntzck.DeptZntzckSignReadActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.zntzck.DeptZntzckSignConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.zntzck.DeptZntzckSignSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.zntzck.DeptZntzckQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.zntzck.DeptZntzckQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.zntzck.DeptZntzckCancelConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.zntzck.DeptZntzckCancelSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.notmg.NotifyManageActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.notmg.NotifyManageBeforeQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.notmg.NotifyManageInfoConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDAvailableQryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDBuyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDBuyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDBuyResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDPurchasedQryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDPurchasedDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDPurchasedTransDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDRedeemActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.dept.largecd.LargeCDRedeemResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.BillPaymentMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.BillPaymentProvinceActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.BillPaymentCityActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillHadAppliedActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillHadAppliedInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillPaymentSignMsgAddActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillNewApplyMsgAddActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillNewApplyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillNewApplyMsgConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillNewApplySuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillPaymentSignSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillRevocationSignConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillRevocationSignSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillPaymentSignConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.blpt.sign.BillRevocationSignMsgaddActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.invest.InverstBaseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.invest.activity.InvesAgreeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.invest.activity.InvesConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.invest.activity.InvesSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.invest.activity.InvesHasOpenActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.invest.activity.InvtEvaluationInputMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.invest.activity.InvtEvaluationAnswerMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.invest.activity.InvtEvaluationResultMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.zyzx.CalutorActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.EPayMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.BankOfMobileActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.TreatyActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.withoutcard.WithoutCardActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.transquery.TransQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.transquery.TransBomDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.transquery.TransTreatyDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.transquery.TransZYDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.transquery.ZYAccountSelectedActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.servOpen.ServOpenAccountSelectActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.servOpen.ServOpenAgreementActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.servOpen.ServOpenConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.servOpen.ServOpenMsgInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.servOpen.ServOpenResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.modifyQuota.ModifyQuotaConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.modifyQuota.ModifyQuotaInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.modifyQuota.ModifyQuotaResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.setPaymentAcc.SetPaymentAccSelectActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.setPaymentAcc.SetPaymentAccConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.bomobile.setPaymentAcc.SetPaymentAccResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.withoutcard.setPaymentAcc.SetPaymentAccSelectActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.withoutcard.setPaymentAcc.SetPaymentAccInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.withoutcard.setPaymentAcc.SetPaymentAccConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.withoutcard.setPaymentAcc.SetPaymentAccResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.withoutcard.modifyQuota.ModifyQuotaInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.withoutcard.modifyQuota.ModifyQuotaConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.withoutcard.modifyQuota.ModifyQuotaResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.setMerchantRelation.InputMsgActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.setMerchantRelation.ConfirmMsgActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.setMerchantRelation.ReadAgreementActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.setMerchantRelation.SelecteMerchantActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.setMerchantRelation.ResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.modifyQuota.InputQuotaActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.modifyQuota.ConfirmMsgActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.modifyQuota.ResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.epay.myPayService.treaty.detail.MerchantDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.infoserve.InfoServeMainActivity" theme="2131558585" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.infoserve.InfoServeDetialActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.infoserve.InfoServeDetialActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.infoserve.InfoServeWebActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.infoserve.InfoServeSettingActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.infoserve.InfoServeAgreeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.infoserve.NonFixedProductRemindAccountListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.infoserve.NonFixedProductRemindAgreeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.infoserve.NonFixedProductRemindSetActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.infoserve.InfoServeAssistFunctionActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.forth" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.chinamworld.bocmbci.biz.chsliver.ZhongYinMainActivity" theme="2131558585" taskAffinity="com.chinamworld.bocmbci.three" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.cecuritytrade.CecurityTradeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.cecuritytrade.CecurityTransferConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.cecuritytrade.CecurityTransferResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.cecuritytrade.BankTransferResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.historytrade.HistoryTradeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.historytrade.HistoryTradeQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.historytrade.HistoryTradeInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.openacct.OpenAccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.openacct.AcctOpenCardListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.openacct.AcctOpenedInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.openacct.AccOpenStockBranchActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.openacct.AccOpenProtocolActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.openacct.AcctOpenedListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.openacct.AcctOpenMsgConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.openacct.AcctOpenMsgFillActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.openacct.AcctOpenResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.platforacct.PlatforAcctActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.platforacct.PlatforAcctListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.thridmanage.platforacct.PlatforAcctInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.IsForexBaseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.myrate.IsForexMyRateInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexQueryMenuActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexHistoryQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexHistoryQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexZCQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexWpcQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexAccQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexCurrenyWTActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexHistoryWTActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexWTDetaiActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexQuashConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.query.IsForexQuashSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.rate.IsForexRateInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.rate.IsForexMakeRateActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.bail.IsForexBailInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.bail.IsForexBailChoiseBailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.bail.IsForexBailInfoDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.bail.IsForexBailInfoConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.bail.IsForexBailInfoSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.myrate.IsForexMyRateInfoDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.trade.IsForexTradeSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.trade.IsForexTradeConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.trade.IsForexTradeSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexBailProduceActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexProduceDialogActivity" theme="2131558402" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexProduceRadeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexProduceSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexProduceConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexProduceSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexCancelConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexCancelSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexChangeSubmitActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexChangeConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexChangeSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.acc.IsForexSettingBindAccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.acc.IsForexSettingBindAccSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.lsforex.manageacc.IsForexProduceChoiseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="0" name="com.chinamworld.bocmbci.widget.kchart.MyChart_XYActivity" theme="16973834" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.allbond.AllBondListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.allbond.BondInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.bondtran.BuyBondMsgFillActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.bondtran.BuyBondConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.bondtran.BuyBondResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.bondtran.SellBondMsgFillActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.bondtran.SellBondConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.bondtran.SellBondResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="2">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.historytran.HistoryTransferListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.historytran.HistoryTransferInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.mybond.MyBondListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.mybond.AccInfoDialogActivity" theme="2131558402" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.mybond.BondAcctManagerConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.mybond.BondAcctManagerResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.acct.BankAcctListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.acct.NoBankAcctActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.acct.CustomerAgreementActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.acct.AcctSetupResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.acct.OpendAcctConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bond.acct.OpendAcctResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.SBRemitBaseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.mysbremit.ChooseAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.mysbremit.AccountRemainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.mysbremit.SRemitInputInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.mysbremit.SRemitConfirmInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.mysbremit.SRemitSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.mysbremit.BRemitInputInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.mysbremit.BRemitConfirmInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.mysbremit.BRemitSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.histrade.HistoryTradeQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.sbremit.histrade.HistoryTradeDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyproduct.SafetyProductListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyproduct.SafetyProductInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyproduct.SafetyCustomerKnowActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyproduct.SafetyProductBuyMsgFillActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyproduct.SafetyProductBuyMsgConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyproduct.SafetyProductBuyResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyproduct.SafetyCountyChooseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetytemp.SafetyTempProductListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyHoldProductQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyHoldProductQueryDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.ChooseAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyInsuranceReturnActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyInsuContConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyInsuContInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyInsuContSuccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyInsuMaintainInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyInsuMaintainSuccActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyProductIntrActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.SafetyProductIntrDeatilActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhistorytran.SafetyHoldHisQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhistorytran.SafetyHoldHisDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarMoreInfoInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarTypeChooseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarJQXActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarBIZActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CalculationDetilActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.OtherInfoInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarSafetyInfoConfirm" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarSafetyPayVerify" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarSafetyPaySubmit" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarSafetyPaySuccess" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarSafetyPayLose" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.safetyhold.CarSafetyHoldDetil" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.safety.carsafety.CarSafetyMustKnow" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.setacct.SettingAccountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.setting.setacct.SettingAccountResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankTransQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankCardListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankTransInActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankTransInConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankTransInSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankTransOutActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankTransOutConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankTransOutSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankTransDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankYieldsQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankAgreeActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankAgreeDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankSignActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankSignSuccessActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankQueryMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankCommonQuestionActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.cashbank.CashBankCommonQuestionDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.BranchOrderMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.BranchOrderCustomerActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.unvip.BranchOrderUnvipInputInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.unvip.BranchOrderUnvipConfirmInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.unvip.BranchOrderUnvipResultInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.vip.BranchOrderVipInputInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.vip.BranchOrderVipCommonConfirmInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.vip.BranchOrderVipCommonResultInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.vip.BranchOrderVipSpecialComfirmInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.branchorder.vip.BranchOrderVipSpecialResultInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.mapabc.bc.activity.BCMapabcActivity" theme="16973837" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.mapabc.bc.activity.PoiInfoPhoneActivity" theme="16973837" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity name="com.mapabc.bc.activity.DrivingInfoActivity" theme="16973837" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.mytransfer.addpayee.ChooseBankActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.managepayee.PayeeBocInActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.managepayee.PayeeBocOtherActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.managepayee.EbpsPayeeDetailActivity1" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.tran.managetrans.managepayee.PayeeBocEbpsActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocnet.creditcard.CreditCardAcountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocnet.creditcard.CreditCardBillQueryActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocnet.creditcard.CreditCardStatementActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocnet.creditcard.CreditCardStatementDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocnet.debitcard.DebitCardAcountActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocnet.debitcard.DebitCardTransDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocnet.cashacct.CashAcctActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.bocnet.cashacct.CashTransDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.annuity.AnnuityMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name=".biz.plps.annuity.AnnuityAcctSigneConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name=".biz.plps.annuity.AnnuityAcctSigneresultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.annuity.AnnuityAcctInfoDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.annuity.AnnuityAcctInfoListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.annuity.AnnuityAcctInfoTranActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.annuity.AnnuityListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.annuity.AnnuityPlanListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.annuity.AnnuityPlanApplyConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.annuity.AnnuityPlanApplyResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.annuity.AnnuityApplyDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.liveservice.CommServiceActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.liveservice.CommServiceDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.liveservice.LiveServiceMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentSignConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentSignDetailActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentSignInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentSignListActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentSignMsgChangeInputActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentSignMsgChangeResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentSignProtocolActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentSignResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentTerminateConfirmActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentTerminateResultActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.plps.payment.PaymentSignMainActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.audio.AudioKeyBaseActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.audio.AudioKeyInfoActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+<activity screenOrientation="1" name="com.chinamworld.bocmbci.biz.audio.AudioKeyPwdActivity" theme="2131558584" taskAffinity="com.chinamworld.bocmbci.one" launchMode="1">
+9
+<service name="com.chinamworld.bocmbci.fidget.DownLoadService">
+<service name="com.chinamworld.bocmbci.fidget.APPDownLoadService">
+<service name="com.chinamworld.bocmbci.base.service.MapQueueService">
+<service name="com.chinamworld.bocmbci.biz.comm.message.MessageService">
+<service name="com.chinamworld.bocmbci.biz.comm.message.MessageService">
+<service name="com.chinamworld.bocmbci.biz.comm.message.MessageService">
+<service name="com.chinamworld.bocmbci.biz.comm.message.MessageService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.chinamworld.bocmbci.biz.push.PushService">
+2
+<receiver name="com.chinamworld.bocmbci.biz.comm.receiver.BootReceiver">
+<receiver name="com.chinamworld.bocmbci.biz.comm.receiver.ConnectivityReceiver">
+0
+Owner: CN=中国银行, OU=电子银行部, O=中国银行, L=西城区, ST=北京, C=CN
+Issuer: CN=中国银行, OU=电子银行部, O=中国银行, L=西城区, ST=北京, C=CN
+Serial number: 4ded7e9b
+Valid from: Tue Jun 07 09:27:55 CST 2011 until: Fri Feb 06 09:27:55 CST 2511
+Certificate fingerprints: 
+	MD5:65:59:20:D1:4D:4C:98:57:09:E6:CA:C7:FD:16:CD:48
+	SHA1: 11:3B:C5:22:64:26:E0:E9:96:78:B9:30:FD:0D:57:28:56:CE:92:B3
+	SHA256: 9D:4D:96:97:F8:AA:0F:3C:8E:69:D1:05:07:93:CF:E6:42:C9:D6:E5:28:CE:E8:2B:EE:F5:A4:69:0D:2D:4F:06
+	Signature algorithm name: SHA1withRSA
+	version: 3

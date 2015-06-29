@@ -1,0 +1,101 @@
+com.zx.wanggou2014092000003
+52
+3.52
+8
+19
+19
+android.permission.READ_EXTERNAL_STORAGE
+com.zx.wanggou2014092000003.permission.JPUSH_MESSAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+56
+<activity screenOrientation="1" name=".StartActivity" configChanges="128" label="2131427352">
+<activity screenOrientation="1" name=".MainActivity" configChanges="128" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".HomeIntentActivity" configChanges="128" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".base.model.guide.GuideActivity" configChanges="128" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".library.enterprise.EnterpriseDetailActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.enterprise.EnterpriseMapActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.enterprise.EnterpriseLeaveMessageActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.enterprise.EnterpriseProgramActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.deal.DealSupplyDetailActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.deal.DealBuyDetailActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.deal.DealBuyToSupplyActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreAgentActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreMessageShowActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreShakeActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreSearchActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreApplyAgentActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreAgentDetailActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreContactUsActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreContactUsMapActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreNearbyActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.MoreActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.more.HomeIntentActivity" configChanges="128">
+<activity screenOrientation="1" name="com.google.zxing.CaptureActivity" configChanges="128">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.news.NewsDetailActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.shop.ShopProductDetailActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyInformationActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyProductListActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyWantListActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyMessageListActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyOrderActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyFavoriteActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyProductEditActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyWantEditActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyQRCodeActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.LoginActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.RegisterActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.MyMutiEditActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.ChangePasswordActivity" configChanges="128">
+<activity screenOrientation="1" name=".library.user.IndustryListSelectedActivity" configChanges="128">
+<activity name=".library.video.VideoPlayActivity" configChanges="1184">
+<activity name=".library.cart.CartOrderActivity" configChanges="1184">
+<activity name=".BNavigatorActivity" configChanges="1200">
+<activity screenOrientation="1" name=".base.model.department.DepartmentDetailActivity" configChanges="128">
+<activity screenOrientation="1" name=".base.model.imgtextcollection.ImgTextViewPagerActivity" configChanges="128">
+<activity screenOrientation="1" name=".base.common.BuyProductActivity" configChanges="128">
+<activity screenOrientation="1" name=".base.common.ReviewActivity" configChanges="128">
+<activity screenOrientation="1" name=".base.common.WriteReviewActivity" configChanges="128">
+<activity screenOrientation="1" name=".base.common.ProgressWebViewActivity" configChanges="128">
+<activity screenOrientation="1" name=".base.model.joinus.JoinUsDetailActivity" configChanges="128">
+<activity screenOrientation="1" name=".base.model.joinus.JoinUsApplyActivity" configChanges="128">
+<activity screenOrientation="1" name=".base.common.ImageZoomActivity" configChanges="128">
+<activity screenOrientation="1" name=".base.common.ProImageZoomActiviy" configChanges="128">
+<activity name="com.baidu.social.core.PlatformSsoCallBackActivity" theme="16973841" exported="true" label="2131427352">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+4
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name=".base.support.update.UpdateService">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+2
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+0
+Owner: CN=ZhangXing, OU=ZhangXing, O=ZhangXing, L=JiNan, ST=ShanDong, C=CN
+Issuer: CN=ZhangXing, OU=ZhangXing, O=ZhangXing, L=JiNan, ST=ShanDong, C=CN
+Serial number: 135fd120
+Valid from: Sat Dec 10 09:01:25 CST 2011 until: Mon Nov 16 09:01:25 CST 2111
+Certificate fingerprints: 
+	MD5:BF:F4:1A:45:FB:20:73:45:3F:2F:16:D5:3C:E4:61:17
+	SHA1: F8:F9:03:49:BC:8E:26:C0:0A:8B:46:D4:2E:50:C4:48:8C:96:23:A6
+	SHA256: 63:77:CF:63:22:24:75:CF:0F:9E:5D:9C:0C:FB:5F:11:01:80:95:1C:B4:E6:A5:38:5B:C8:B0:15:5C:F6:AA:38
+	Signature algorithm name: SHA256withRSA
+	version: 3

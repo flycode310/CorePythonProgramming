@@ -1,0 +1,158 @@
+com.chinasns.quatelecom
+87
+2.3.4.2
+7
+7
+29
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.RECEIVE_MMS
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.vending.BILLING
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+94
+<activity screenOrientation="1" name="com.chinasns.ui.StartActivity" exported="true" label="2131427462">
+<activity screenOrientation="1" name="com.chinasns.ui.NewVersionsIntroductionActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.LoginActivity" launchMode="2">
+<activity name="com.chinasns.ui.LogoutNotificationDialog" theme="2131492864" launchMode="2">
+<activity screenOrientation="1" name="com.chinasns.ui.RegistActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.RegistFirstActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.RegistPasswordActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.resetpsw.ResetPassword">
+<activity screenOrientation="1" name="com.chinasns.ui.MainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.chinasns.ui.ConfirmSendDialog" theme="2131492954">
+<activity screenOrientation="1" name="com.chinasns.ui.contact.ContactInfoActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.contact.SearchQuaidActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.contact.SearchQuaidUserInfoActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.contact.ContactAddActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.contact.ContactEditActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.chatroom.ThemeDiscussActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.chatroom.ThemeDiscussCreateActivity" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.chinasns.ui.chatroom.ThemeDiscussChooseContactActivityNew">
+<activity screenOrientation="1" name="com.chinasns.ui.chatroom.ThemeDiscussManagerContactActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.chatroom.ThemeDiscussSearchUserActivityNew">
+<activity screenOrientation="1" name="com.chinasns.ui.contact.ContactSearchActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.FastTransSendActivity" theme="2131492864">
+<activity screenOrientation="1" name="com.chinasns.ui.FilesManagerActivity" theme="2131492864">
+<activity screenOrientation="1" name="com.chinasns.ui.SelectSendFileActivity" theme="2131492864">
+<activity screenOrientation="1" name="com.chinasns.ui.ChooseLocationFileActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.FastTransRecvActivity" theme="2131492864">
+<activity screenOrientation="1" name="com.chinasns.ui.GetImageFileActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.newmsg.NewMsgActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.newmsg.ContactListDialog" theme="2131492954">
+<activity screenOrientation="1" name="com.chinasns.ui.chatroom.ChatroomAlterContact" theme="2131492954">
+<activity screenOrientation="1" name="com.chinasns.ui.dialog.DialogActivity" windowSoftInputMode="0" launchMode="2">
+<activity screenOrientation="1" name="com.chinasns.ui.dialog.NewDialogActivity" launchMode="2">
+<activity screenOrientation="1" name="com.chinasns.ui.dialog.SendMethod" theme="2131492954">
+<activity screenOrientation="1" name="com.chinasns.ui.group.AccountActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.AccountUsersActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.AccountUserInfoActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.GroupUserActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.GroupChatroomActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.GroupContactActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.OrgTopicViewActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.OrgTopicAddActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.OrgTopicDetailActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.OrgTipicMemberActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.uploadcontact.UploadContactActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.call.ConferenceCallActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.call.CallActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.call.CallRecordFragmentActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.call.AddPeopleActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.call.ContactListDialog" theme="2131492954">
+<activity screenOrientation="1" name="com.chinasns.ui.call.CallChoosePhoneContactActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinasns.ui.call.CallChooseGroupContactActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.EditPasswordActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.AboutActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.AppVersionActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.AppUpdateDialogActivity" theme="2131492935" launchMode="2">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.HelpActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.photoalbum.PhotoAlbumListActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.photoalbum.UploadPhotographActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.photoalbum.PhotographDetailActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.photoalbum.ReplyPhotographActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.photoalbum.PhotographActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.SettingActivityGroup" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.CallRecordActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.CallRecordDetailActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.CallAccountActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.CallIncrementActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.setting.BillQueryActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.NotifyActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.invite.InviteActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.invite.InvitePrompt" theme="2131492954">
+<activity screenOrientation="1" name="com.chinasns.ui1.lingxi.SpaceGap" configChanges="160">
+<activity screenOrientation="1" name="com.chinasns.ui.popup.ContactRequestPrompt" theme="2131492864">
+<activity screenOrientation="1" name="com.chinasns.ui.customer.CustomerActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.WebViewActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.pegroup.PegroupCreate">
+<activity screenOrientation="1" name="com.chinasns.ui.pegroup.PegroupCreateAndJoinActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.pegroup.PegroupSendRemindSms" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.chinasns.ui.pegroup.SendSmsChoosePhoneActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.chatroom.MeetingSummaryCreateActivity" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.chinasns.ui.chatroom.MeetingSummaryChoosePhoneActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.cooperation.CooperationAddActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.cooperation.CooperationListActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.cooperation.CooperationDetailActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.cooperation.CooperationReplyActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.group.cooperation.SelectNoticeContact" theme="2131492954">
+<activity screenOrientation="1" name="com.chinasns.ui.customer.CustomerAddActivity">
+<activity screenOrientation="1" name="com.chinasns.ui.company.CompanyActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" theme="2131492941" configChanges="160" label="2131427462">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivityEx" configChanges="160" label="2131427462" windowSoftInputMode="16">
+<activity clearTaskOnLaunch="true" name="org.servDroid.ServDroid" label="2131427462">
+<activity name="org.servDroid.LogViewer">
+<activity name="org.servDroid.preference.PreferencesActivity">
+<activity name="com.google.ads.AdActivity" configChanges="432">
+<activity name="com.chinasns.libpush.MainActivity" label="2131427462">
+5
+<service enabled="true" name="com.chinasns.bll.service.csnsplatform" label="csns Service">
+<service name="com.chinasns.common.count.OpenUDID.OpenUDID_service">
+<service name="org.servDroid.server.service.ServerService">
+<service process=":push" name="com.chinasns.libpush.PushService">
+<service name="com.southstandard.payment.PayService">
+9
+<receiver name="com.chinasns.bll.receiver.LogoutNotificationReceiver">
+<receiver name="com.chinasns.ui.invite.InvitePromptReceiver">
+<receiver name="com.chinasns.bll.receiver.BootBroadcastReceiver">
+<receiver name="com.chinasns.bll.receiver.SMSBroadcaseReceiver">
+<receiver process=":push" name="com.chinasns.libpush.AlarmReceiver">
+<receiver process=":push" name="com.chinasns.libpush.ConnectChangeReceiver">
+<receiver name="com.chinasns.bll.service.MessageReceiver">
+<receiver name="org.servDroid.server.service.AutoStartReceiver" label="2131427462">
+<receiver name="com.chinasns.libpush.MessageReceiver">
+1
+<provider authorities="com.chinasns.qua.provider.lingxiprovider" name="com.chinasns.dal.provider.lingxiprovider">
+Owner: OU=sns中心, O=广典集团, L=北京, ST=北京, C=86
+Issuer: OU=sns中心, O=广典集团, L=北京, ST=北京, C=86
+Serial number: 1149ecf2
+Valid from: Mon Apr 01 14:12:11 CST 2013 until: Tue Mar 20 14:12:11 CST 2063
+Certificate fingerprints: 
+	MD5:DC:63:4E:40:62:0D:FE:03:89:29:B8:54:2F:D3:72:E6
+	SHA1: B3:68:D5:07:5E:3D:42:C5:3D:78:3F:11:14:C1:4B:69:59:F6:94:1F
+	SHA256: 11:8E:F8:4F:1A:BC:50:DC:5B:AC:B5:84:8D:5D:ED:2E:B5:D3:82:8E:4C:A8:BC:0F:92:7F:7F:54:15:BC:97:74
+	Signature algorithm name: SHA256withRSA
+	version: 3

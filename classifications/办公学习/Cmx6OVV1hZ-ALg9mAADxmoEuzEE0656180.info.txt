@@ -1,0 +1,23 @@
+net.newtool.netease
+2
+1
+3
+-1
+2
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+1
+<activity name=".main" label="2130968576">
+0
+0
+0
+Owner: CN=newtool, OU=newtool.net, O=newtool.net, L=beijing, ST=beijing, C=086
+Issuer: CN=newtool, OU=newtool.net, O=newtool.net, L=beijing, ST=beijing, C=086
+Serial number: 4cf46a9d
+Valid from: Tue Nov 30 11:08:13 CST 2010 until: Thu Nov 06 11:08:13 CST 2110
+Certificate fingerprints: 
+	MD5:BB:0B:0B:4B:5E:04:A8:76:10:B9:EB:06:03:2A:E9:66
+	SHA1: E2:D1:F6:60:1F:CC:2D:D5:BE:BF:89:92:0C:91:1A:84:0D:9F:A0:CB
+	SHA256: 72:02:D0:BB:B4:80:AA:01:EC:10:79:84:D5:9C:70:AF:8F:22:31:CE:31:DA:9B:37:3F:14:BB:9B:B3:07:AA:D2
+	Signature algorithm name: SHA1withRSA
+	version: 3

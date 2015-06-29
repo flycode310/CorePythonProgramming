@@ -1,0 +1,111 @@
+com.sina.news
+109
+4.7.0
+9
+19
+24
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CLEAR_APP_CACHE
+com.sina.news.permission.SINA_PUSH
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.GET_PACKAGE_SIZE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+53
+<activity screenOrientation="1" name="com.sina.news.ui.PowerOnScreen" configChanges="160" label="2131165203">
+<activity screenOrientation="1" name="com.sina.news.ui.GuideActivity" theme="2131296257" configChanges="160">
+<activity screenOrientation="1" name="com.sina.news.ui.AboutActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.AppListActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.AppInfoActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.MainActivity" theme="2131296257" configChanges="3312" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.sina.news.ui.NewsContentActivity" theme="2131296257" configChanges="3312" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.sina.news.ui.NewsSubjectActivity" theme="2131296257" configChanges="3312">
+<activity screenOrientation="1" name="com.sina.news.ui.SearchListActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.NewsSearchResultActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.FavouritesActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.FontSizeSettingActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.DebugActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.ImageViewerActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.GifActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.DiscussActivity" theme="2131296257" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.sina.news.ui.NewsPictureActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.PictureContentActivity" theme="2131296258" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.sina.news.ui.InnerBrowserActivity" theme="2131296257" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sina.news.ui.LivingPushEntryActivity" theme="2131296257" configChanges="3312">
+<activity screenOrientation="1" name="com.sina.news.ui.LivingActivity" theme="2131296257" configChanges="3312" windowSoftInputMode="50">
+<activity name="com.sina.news.ui.ShareDialogActivity" theme="2131296267" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.sina.news.ui.SendWeiboActivity" theme="2131296257" windowSoftInputMode="21">
+<activity screenOrientation="1" name="com.sina.news.ui.ChannelSubscribeActivity" theme="2131296257" launchMode="2">
+<activity screenOrientation="1" name="com.sina.news.ui.ChannelListActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.news.ui.ChannelCardActivity" theme="2131296257" configChanges="3312">
+<activity screenOrientation="1" name="com.sina.news.ui.LocalStationActivity" theme="2131296257" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.sina.news.ui.NewsSearchActivity" theme="2131296257" configChanges="3312" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.sina.news.ui.RedirectActivity" theme="16973918">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name="com.evernote.client.android.EvernoteOAuthActivity" configChanges="160">
+<activity name="com.sina.news.wxapi.WXEntryActivity" theme="16973840" configChanges="160" exported="true">
+<activity screenOrientation="1" name="com.sina.news.ui.OfflineSettingActivity" theme="2131296257">
+<activity name="com.sina.news.ui.CommentTranActivity" theme="16973840" windowSoftInputMode="21">
+<activity screenOrientation="1" name="com.sina.news.ui.PersonCommentActivity" theme="2131296257" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.sina.news.ui.RecommendActivity" theme="2131296257" configChanges="3312">
+<activity screenOrientation="1" name="com.sina.tianqitong.simple.TqtSimpleActivity" theme="2131296257">
+<activity screenOrientation="1" name="com.sina.tianqitong.simple.CitySelector" theme="2131296257" configChanges="176" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.sina.news.ui.PowerOnAdBrowser" theme="2131296257" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.sina.news.ui.UserTaskLuckyDrawActivity" theme="16973840" launchMode="2">
+<activity screenOrientation="1" name="cn.com.sina.finance.app.MainActivity">
+<activity screenOrientation="1" name="cn.com.sina.finance.app.OptionalActivity">
+<activity screenOrientation="1" name="cn.com.sina.finance.app.HangQingActivity">
+<activity screenOrientation="1" name="cn.com.sina.finance.app.SearchActivity" theme="2131296257" windowSoftInputMode="33">
+<activity screenOrientation="1" name="cn.com.sina.finance.app.StockDetailsActivity" theme="2131296257" configChanges="1184">
+<activity screenOrientation="1" name="cn.com.sina.finance.app.PlateStockListActivity" theme="2131296257">
+<activity name="cn.com.sina.unzipActivity">
+<activity name="com.sina.news.ui.AuthTranslucentActivity" theme="16973840">
+<activity screenOrientation="1" name="com.sina.news.ui.LiveEventActivity" theme="2131296257" configChanges="3312" windowSoftInputMode="34">
+<activity name="com.example.locallog.MainActivity">
+<activity screenOrientation="1" name="cn.com.sina.finance.app.TestActivity" theme="2131296315">
+<activity name="cn.com.sina.finance.app.unzipActivity">
+10
+<service name="com.sina.news.download.UpdateService">
+<service name="com.sina.news.offline.OfflineService" exported="true">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.sina.news.ui.widget.HeadlineWidgetSmall$HeadlineWidgetSmallService">
+<service name="com.sina.news.ui.widget.HeadlineWidgetLarge$HeadlineWidgetLargeService">
+<service name="com.sina.news.ui.widget.HdpicWidget$HdpicWidgetService">
+<service process=":remote" name="com.sina.push.spns.service.SinaPushService" permission="com.sina.news.permission.SINA_PUSH" label="PushDataCenter">
+<service name="com.sina.news.push.SinaSpnsMsgService" exported="false" label="SpnsMsgRecvService">
+<service name="com.sina.news.push.StartPushService">
+<service name="com.sina.news.push.PushService">
+4
+<receiver name="com.sina.news.receiver.BootCompletedReceiver">
+<receiver name="com.sina.news.ui.widget.HeadlineWidgetSmall" label="2131165567">
+<receiver name="com.sina.news.ui.widget.HeadlineWidgetLarge" label="2131165566">
+<receiver name="com.sina.news.ui.widget.HdpicWidget" label="2131165565">
+0
+Owner: OU=Sina.Com Technology (China) Co. Ltd, O=Sina.Com Technology (China) Co. Ltd, L=BeiJing, ST=BeiJing, C=CN
+Issuer: OU=Sina.Com Technology (China) Co. Ltd, O=Sina.Com Technology (China) Co. Ltd, L=BeiJing, ST=BeiJing, C=CN
+Serial number: 4b4ef1bf
+Valid from: Thu Jan 14 18:28:15 CST 2010 until: Fri Jan 02 18:28:15 CST 2060
+Certificate fingerprints: 
+	MD5:18:DA:2B:F1:03:52:44:3A:00:A5:E0:46:D9:FC:A6:BD
+	SHA1: 9D:5C:0B:32:6F:ED:1B:6C:A2:AB:2C:B4:B5:AA:09:AD:FD:D8:85:88
+	SHA256: A0:78:C3:0F:0A:58:E6:3D:06:CA:5F:C7:C4:21:95:F6:A4:94:02:15:D4:BC:D2:3D:94:0B:7E:A0:3E:86:37:9D
+	Signature algorithm name: SHA1withRSA
+	version: 3

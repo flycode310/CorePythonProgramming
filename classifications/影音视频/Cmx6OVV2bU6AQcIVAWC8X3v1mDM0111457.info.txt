@@ -1,0 +1,90 @@
+com.youku.phone
+71
+4.6.5
+14
+19
+14
+android.permission.READ_PHONE_STATE
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+52
+<activity screenOrientation="5" name="com.youku.phone.ActivityWelcome" theme="16973839" configChanges="1184" label="2131624015">
+<activity icon="2130838081" name="com.youku.ui.activity.HomePageActivity" theme="16973918" configChanges="32" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.HistoryActivity" launchMode="2">
+<activity name="com.youku.ui.activity.OtherPersonInfoActivity" launchMode="1">
+<activity name="com.youku.ui.activity.OtherPersonInfoListActivity" configChanges="1184" launchMode="1">
+<activity name="com.youku.phone.login.sns.AuthorizationLoginActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="5" name="com.youku.ui.activity.UpdateActivity" theme="2131689750" configChanges="1184" exported="true" launchMode="2">
+<activity name="com.youku.ui.activity.ChannelRankActivity" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.MyUploadVideoPageActivity" windowSoftInputMode="2">
+<activity name="com.youku.ui.activity.LoginRegistCardViewDialogActivity" theme="16973835" configChanges="1184" windowSoftInputMode="37" launchMode="0">
+<activity name="com.youku.ui.activity.MyUploadPageActivity" launchMode="2">
+<activity name="com.youku.ui.activity.MyFavoritePageActivity" launchMode="2">
+<activity name="com.youku.ui.activity.FavoritePageActivity" configChanges="1184" launchMode="2">
+<activity name="com.youku.ui.activity.HaveBuyActivity" configChanges="1184" launchMode="2">
+<activity name="com.youku.ui.activity.PaidActivity" theme="16973918" configChanges="1184" exported="true" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.SettingsActivity" launchMode="2">
+<activity name="com.youku.ui.activity.CachePageActivity" theme="16973839" exported="true" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.CacheSeriesActivity" configChanges="1184" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.MySubscribeActivity" launchMode="2">
+<activity name="com.youku.phone.search.activity.SearchResultActivity" theme="2131689749" configChanges="1184" windowSoftInputMode="3" launchMode="2">
+<activity icon="2130838052" name="com.youku.ui.search.last.SearchActivity" theme="16973839" configChanges="1184" label="2131624579" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.DetailActivity" theme="2131689751" configChanges="1184" exported="true" label="2131624015" windowSoftInputMode="32" launchMode="2">
+<activity name="com.youku.ui.activity.ChannelActivity" label="2131624015" windowSoftInputMode="32">
+<activity name="com.youku.phone.search.activity.PersonDirectMoreActivity" theme="2131689749" configChanges="1184" label="2131624015" windowSoftInputMode="32">
+<activity name="com.youku.phone.channel.activity.ChannelMainActivity" theme="2131689749" configChanges="1184" label="2131624015" windowSoftInputMode="32">
+<activity name="com.youku.phone.channel.activity.ChannelSubActivity" configChanges="1184" label="2131624015" windowSoftInputMode="32">
+<activity name="com.youku.ui.activity.AppAggreementDialogActivity" theme="16973835" configChanges="1184" label="2131624015" launchMode="2">
+<activity name="com.youku.phone.vip.activity.VipProductActivity" configChanges="1184" label="2131624015" windowSoftInputMode="32">
+<activity name="com.youku.ui.activity.RecommandActivity" label="2131624015">
+<activity name="com.youku.ui.activity.EditTextActivity" theme="2131689750" windowSoftInputMode="16">
+<activity name="com.youku.phone.ticket.activity.TicketMainActivity" theme="2131689749" configChanges="1184" label="2131624015" launchMode="2">
+<activity name="com.youku.phone.ticket.activity.TicketCinemaActivity" configChanges="1184" label="2131624015" launchMode="2">
+<activity name="com.youku.phone.ticket.activity.TicketWebViewActivity" configChanges="1184" label="2131624015" launchMode="2">
+<activity name="com.youku.phone.ticket.activity.MovieDetailActivity" theme="2131689749" label="2131624015">
+<activity name="com.youku.ui.activity.WebViewActivity" configChanges="1184" exported="true" launchMode="2">
+<activity name="com.youku.ui.activity.InteractionWebViewActivity" theme="16973918" configChanges="1184" exported="true" launchMode="0">
+<activity name="com.youku.ui.activity.PacketFlowActivity" configChanges="1184" launchMode="2">
+<activity name="com.zijunlin.Zxing.CaptureActivity" configChanges="1184" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.youku.ui.activity.CaptureResultAcitvity" configChanges="160" windowSoftInputMode="32" launchMode="1">
+<activity name="com.youku.service.push.EmptyActivity" theme="16973839" exported="true" launchMode="2">
+<activity name="com.youku.phone.wxapi.WXEntryActivity" exported="true" taskAffinity="com.tencent.mm" launchMode="2">
+<activity name="com.youku.service.download.EmptyActivity" theme="16973839" launchMode="2">
+<activity name="com.youdo.view.Browser" configChanges="1152">
+<activity name="com.youku.phone.wxapi.WXPayEntryActivity" theme="2131689762" exported="true" launchMode="1">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5AuthActivity" configChanges="224" exported="false">
+<activity name="com.youku.alipay.activity.CallbackActivity" theme="2131689762">
+<activity name="com.taobao.tae.sdk.ui.LoginWebViewActivity">
+<activity name="com.taobao.tae.sdk.ui.TradeWebViewActivity" theme="16973830">
+<activity enabled="false" screenOrientation="1" name="com.alipay.mobile.command.trigger.WebViewTrigger" configChanges="160" exported="true" windowSoftInputMode="3">
+<activity name="com.youku.phone.ticket.activity.CinemaDetailActivity" configChanges="1184" windowSoftInputMode="32" launchMode="2">
+<activity name="android.support.v7.widget.TestActivity" label="RecyclerViewTestActivity">
+1
+<service process=":download" name="com.youku.service.download.DownloadService" label="Youku Download Service">
+2
+<receiver name="com.youku.service.download.DownloadReceiver">
+<receiver name="com.alipay.mobile.command.trigger.NotifyTrigger" exported="true">
+1
+<provider authorities="com.youku.ui.search.provider.SearchSuggestionProvider" name="com.youku.ui.search.provider.SearchSuggestionProvider">
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: 936eacbe07f201df
+Valid from: Fri Feb 29 09:33:46 CST 2008 until: Tue Jul 17 09:33:46 CST 2035
+Certificate fingerprints: 
+	MD5:E8:9B:15:8E:4B:CF:98:8E:BD:09:EB:83:F5:37:8E:87
+	SHA1: 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+	SHA256: A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC
+	Signature algorithm name: SHA1withRSA
+	version: 3

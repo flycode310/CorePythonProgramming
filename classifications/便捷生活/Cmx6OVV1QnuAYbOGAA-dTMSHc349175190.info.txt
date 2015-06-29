@@ -1,0 +1,70 @@
+com.gozap.labi.android
+6
+1.0.7
+5
+-1
+26
+android.permission.SET_WALLPAPER
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_CALENDAR
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.WRITE_APN_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.WRITE_CALENDAR
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+19
+<activity name=".ui.LaBiWelcomeActivity" theme="16973831" configChanges="160">
+<activity name=".ui.LaBiLogonActivity" theme="16973830" configChanges="160" windowSoftInputMode="18">
+<activity name=".ui.LaBiRegisterActivity" theme="2131230735" configChanges="160" windowSoftInputMode="18">
+<activity name=".ui.LaBiActivateActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiManageActivity" theme="2131230735" configChanges="160" launchMode="2">
+<activity name=".ui.LaBiDataSyncActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiLockActivity" theme="2131230735" configChanges="160" launchMode="2">
+<activity name=".ui.LaBiRecoverActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiSettingActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiFileMaintainActivity" theme="2131230736" configChanges="160">
+<activity name=".ui.LaBiPushActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiPushTextActivity" theme="2131230735">
+<activity name=".ui.LaBiServiceHtmlActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiPolicyHtmlActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiHelpActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiChangeMobileActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiFeedbackActivity" theme="2131230735" windowSoftInputMode="18">
+<activity name=".ui.LaBiAdvancedActivity" theme="2131230735" configChanges="160">
+<activity name=".ui.LaBiGuidActivity01" theme="2131230735" configChanges="160">
+1
+<service name=".transaction.authentication.LaBiService">
+4
+<receiver name=".boot.LabiBootBroadcastReceiver">
+<receiver name=".connection.WiFiStateReceiver">
+<receiver name=".transaction.push.SdCardReceiver">
+<receiver name=".transaction.push.SfwBroadcastReceiver">
+0
+Owner: CN=labi, OU=www.labi.com, L=Beijing
+Issuer: CN=labi, OU=www.labi.com, L=Beijing
+Serial number: 4c6ba083
+Valid from: Wed Aug 18 16:57:39 CST 2010 until: Sun Aug 12 16:57:39 CST 2035
+Certificate fingerprints: 
+	MD5:1E:18:71:A0:EB:09:6F:D8:32:DF:C6:E3:C2:51:C2:26
+	SHA1: 33:5A:DE:D7:DF:84:FB:10:A8:52:EC:E6:6D:09:97:8D:88:CD:93:81
+	SHA256: 36:5C:BB:B8:38:83:12:F4:46:D1:E3:DD:91:F8:AF:88:93:90:9B:14:D9:88:C4:90:37:15:7A:A0:8D:AC:DF:C3
+	Signature algorithm name: SHA1withRSA
+	version: 3

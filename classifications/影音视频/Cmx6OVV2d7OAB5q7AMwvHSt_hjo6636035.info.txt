@@ -1,0 +1,30 @@
+mobi.cangol.mobile.onetv
+8
+1.0.8
+8
+18
+4
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+5
+<activity screenOrientation="0" name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="224" windowSoftInputMode="3" launchMode="1">
+<activity name=".MainActivity">
+<activity screenOrientation="0" name=".PlayerActivity" configChanges="224">
+<activity name=".RemindActivity" theme="2131492997" configChanges="224">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+0
+1
+<receiver process=":remote" name=".AlarmReceiver">
+0
+Owner: CN=xuewu.wei
+Issuer: CN=xuewu.wei
+Serial number: 4fe58c46
+Valid from: Sat Jun 23 17:28:38 CST 2012 until: Wed Jun 17 17:28:38 CST 2037
+Certificate fingerprints: 
+	MD5:76:BB:86:8A:32:6E:60:A9:50:08:85:29:FB:84:4B:40
+	SHA1: 11:0A:6A:24:24:D8:19:4E:00:3A:18:33:88:B1:BB:70:ED:F4:F7:DE
+	SHA256: CC:A1:06:3D:F5:D7:01:2B:6E:66:CF:59:CA:89:C9:47:93:35:D6:3E:C3:A1:B2:4B:4B:B9:FF:02:B9:72:7C:ED
+	Signature algorithm name: SHA1withRSA
+	version: 3

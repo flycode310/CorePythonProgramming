@@ -1,0 +1,43 @@
+com.fitness.monkey.ui
+15
+1.2.5
+8
+16
+12
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.RESTART_PACKAGES
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity excludeFromRecents="true" name="com.fitness.monkey.ui.WelcomeActivity" label="2131099648">
+<activity excludeFromRecents="true" name="com.fitness.monkey.ui.MainActivity" label="2131099648">
+<activity excludeFromRecents="true" name="com.fitness.monkey.ui.ListActivity" label="2131099648">
+<activity excludeFromRecents="true" name="com.fitness.monkey.ui.DetailActivity" label="2131099648">
+<activity excludeFromRecents="true" name="com.fitness.monkey.ui.AboutActivity" label="2131099648">
+<activity excludeFromRecents="true" name="com.fitness.monkey.ui.PlanActivity" label="2131099648">
+<activity excludeFromRecents="true" name="com.fitness.monkey.ui.PlanAddActivity" label="2131099648">
+<activity excludeFromRecents="true" name="com.fitness.monkey.ui.PlanItemAddActivity" label="2131099648">
+<activity excludeFromRecents="true" name="com.fitness.monkey.ui.PlanDetailActivity" label="2131099648">
+1
+<service name="com.intent.ne.InService" label="2131099648">
+1
+<receiver name="com.intent.ne.InReceiver">
+0
+Owner: CN=houwei
+Issuer: CN=houwei
+Serial number: 50e84f45
+Valid from: Sun Jan 06 00:05:25 CST 2013 until: Mon Dec 14 00:05:25 CST 2111
+Certificate fingerprints: 
+	MD5:61:C8:ED:AA:8A:E9:B4:4C:78:CA:74:2A:84:AD:36:89
+	SHA1: A2:AB:F4:67:94:FB:38:1D:9D:C3:BB:5B:2F:48:4F:3B:86:E5:45:17
+	SHA256: CB:20:91:B1:4A:FD:E4:9E:41:09:40:A0:CB:E8:49:7C:63:D7:16:CF:16:E1:A8:BD:5E:12:93:88:8F:08:B8:BA
+	Signature algorithm name: SHA1withRSA
+	version: 3

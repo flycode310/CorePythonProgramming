@@ -1,0 +1,199 @@
+com.babytree.apps.pregnancy
+220
+6.1.0
+9
+21
+27
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+getui.permission.GetuiService
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.CHANGE_NETWORK_SATET
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+131
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.MainActivity" theme="16973841" configChanges="224" exported="true">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.PregnancySplashActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.SailfishActivity" theme="2131361864" configChanges="1248" windowSoftInputMode="48" launchMode="2">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.WelcomeActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.AnimationActivity" theme="16973838" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.LocationListActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.HospitalActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.DoctorTopicListActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.HospitalMapActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.HospitalForEliteActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.feed.activity.BabyFeedActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.feed.activity.FeedRecordActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.feed.activity.FeedNewActivity" theme="2131361885" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ForumTabHospitalActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.HospitalDoctorListActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.HospitalMotherListActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.TestSwitchActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.HospitalIntroductionActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.HospitalLocationListActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.HospitalsInfoListActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.AddHospitalLocationActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.AddHospitalActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.MessageCenterActivity" configChanges="224" exported="true">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.AllTalkMessageActivity" configChanges="224" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.RoleSelectActivity" theme="2131361806" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.CalculatorActivity" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.BabyBirthdayActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.BabyInfoEditActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.SignInActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.FatherIntrActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.FatherIntrHelpActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.platform.ui.activity.CommonImagePreviewActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.SendInviteActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.UnaccreditedFatherActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.CenterActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.CenterEditActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.SettingActivity" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.VaccineActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.VaccineDetailsActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ThirdPlatOauthSetActivity" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.PostTopicListActivity" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ReplyTopicListActivity" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.SettingStateActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.SettingNoticeStyleActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ChooseSkinActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.SetHospitalLocationActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.UserLocationActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.EditTextActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.LoginActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.RegisterTypeActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.PerfectInfomationActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ResetNickNameActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.hometools.activity.HomeAllToolsActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.RegisterActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.WebviewActivity" configChanges="224" exported="true">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.PregnancyHistoryActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.MoodActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.MoodOtherActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ToolActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.HotHuoDongActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ShareNewBabyTopicActivity" configChanges="224" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.knowledge.activity.KnowledgeLibActivity" configChanges="224" label="2131427860">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.music.activity.PregnancyAlbumActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.music.activity.NetAndLocalMusicActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.music.activity.PregnancyBoxActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.watch.WatchMainActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.watch.WatchFormsContractionActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.watch.WatchFormsFetalMoveActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.watch.WatchFormsWalkActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.watch.WatchFormsWeightActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.CodeScanActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.DistributeScanQRActivity" launchMode="2">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.NewTopicPostActivity" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.babytree.platform.biz.topicpost.duotu.AlbumListActivity" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.babytree.platform.biz.topicpost.duotu.PhotoGridActivity" configChanges="1248" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.babytree.platform.ui.activity.BabytreeModifyActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.platform.ui.activity.BabytreeCropModifyActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ImageWatermarkActivity" configChanges="1184">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.MoodDetailActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.platform.ui.activity.ShareActivity" theme="2131361887" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.topiclist.TopicListActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.CaoGaoXiangActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.topicdetail.TopicDetailActivity" configChanges="224" exported="true">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.topicdetail.ReplyActivity" theme="2131361820" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.topicdetail.ReportTopicActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.knowledge.activity.KnowledgeGrowthActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.knowledge.activity.KnowledgeDailyActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.knowledge.activity.KnowledgeRemindActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.knowledge.activity.KnowledgeNutritionActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.knowledge.activity.KnowledgeEducationActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.knowledge.activity.KnowledgeSingleItemActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.knowledge.activity.KnowledgeRequiredActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.JudgeListActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name=".activity.knowledge.activity.MilkListActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name=".activity.knowledge.activity.KnowledgeMilkActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name=".activity.topiclist.specialist.SpecialistActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name=".activity.topiclist.specialist.SpecialistDetailActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name=".activity.knowledge.activity.KnowledgeJudgeActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.MoodPostActivity" theme="2131361852" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.SearchActivity" configChanges="224" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.MyFavoritesActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.RecommendActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.recentlyScan.RecentlyScanActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.FollowerAndFunsActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ChoiceShareActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ComplaintActivity" configChanges="224">
+<activity screenOrientation="1" name="com.babytree.platform.ui.activity.PostShareActivity" configChanges="224">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+<activity name="com.qq.e.ads.AdActivity" theme="16973839">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.group.GroupAdminActivity" label="2131428077">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.group.jinghua.GroupJingHuaActivity" label="2131428086">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.group.GroupUserActivity" theme="2131361863" label="2131428085">
+<activity process=":log_process" screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ExceptionAlertActivity">
+<activity screenOrientation="0" name="com.babytree.apps.pregnancy.video.MediaPlayActivity" theme="16974105" configChanges="1152" label="2131428119">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ExaminationActivity" theme="2131361886" launchMode="1">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ExaminaAlarmActivity" theme="2131361886">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.ExaminaDetailActivity">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.group.interest.InterestGroupActivity">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.topicdetail.manager.ForwardTopicActivity">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.topicdetail.manager.DeleteTopicActivity">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.topicdetail.manager.DelUserActivity">
+<activity screenOrientation="1" name="com.babytree.apps.pregnancy.activity.topicdetail.manager.ForbidUserActivity">
+12
+<service priority="1000" name="com.babytree.apps.pregnancy.local_push.LocalService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.babytree.apps.pregnancy.widget.WidgetService">
+<service process=":musicservice" enabled="true" name="com.babytree.apps.pregnancy.activity.knowledge.music.MusicService">
+<service enabled="true" name="com.babytree.apps.pregnancy.service.PregnancyService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.babytree.apps.pregnancy.activity.music.service.PlayerService">
+<service name="com.babytree.apps.pregnancy.activity.music.service.DownloadService" exported="false">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+8
+<receiver name="com.babytree.apps.pregnancy.activity.music.activity.StopMusicReceiver">
+<receiver name="com.babytree.apps.pregnancy.widget.WidgetProvider">
+<receiver name="com.babytree.apps.pregnancy.service.PushService" exported="true">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+<receiver enabled="false" name="com.babytree.apps.biz.push.BootReceiver" exported="false">
+1
+<provider process=":pushservice" authorities="downloads.com.babytree.apps.pregnancy" name="com.igexin.download.DownloadProvider">
+Owner: CN=Dong, OU=Mobile, O=Babytree Inc., L=Beijing, ST=Beijing, C=86
+Issuer: CN=Dong, OU=Mobile, O=Babytree Inc., L=Beijing, ST=Beijing, C=86
+Serial number: 4d7891f7
+Valid from: Thu Mar 10 16:55:19 CST 2011 until: Mon Mar 03 16:55:19 CST 2036
+Certificate fingerprints: 
+	MD5:A9:E3:21:20:A4:37:60:CF:C8:8D:D9:AB:C5:74:F3:B1
+	SHA1: 09:D8:D8:88:82:E4:FB:C5:B4:FD:20:D2:03:30:B0:35:23:F7:60:95
+	SHA256: D1:A5:A5:01:F5:0C:16:E8:4E:F9:FA:51:2F:1B:02:F8:5B:A4:E4:60:63:FB:5C:17:2E:AE:66:95:83:90:D8:E2
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,52 @@
+com.douban.radio
+110
+3.2.5
+8
+19
+8
+android.permission.NFC
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+17
+<activity screenOrientation="1" name="com.douban.radio.app.WelcomeActivity" theme="2131558455" label="2131492922">
+<activity screenOrientation="1" name="com.douban.radio.app.PlayActivity" theme="2131558403" launchMode="2">
+<activity screenOrientation="1" name="com.douban.radio.app.LoginActivity" theme="2131558403" configChanges="1152" label="2131493021" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.douban.radio.app.Feedback" theme="2131558403" label="2131492996" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.douban.radio.app.SearchActivity" theme="2131558401" label="2131493112">
+<activity screenOrientation="1" name="com.douban.radio.app.AlarmSetting" theme="2131558410" label="2131493134" launchMode="1">
+<activity screenOrientation="1" name="com.douban.radio.app.FMSinaAuth" label="2131493147" launchMode="0">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.douban.radio.app.WarningActivity" theme="2131558404" label="2131492922" launchMode="3">
+<activity screenOrientation="1" name="com.douban.radio.app.RegisterActivity" label="2131493105">
+<activity screenOrientation="1" name="com.douban.radio.app.AboutActivity" label="2131492898">
+<activity screenOrientation="1" name="com.douban.radio.app.OfflineManageActivity" theme="2131558403" label="2131493127">
+<activity screenOrientation="1" name="com.douban.radio.app.SettingActivity" theme="2131558403">
+<activity screenOrientation="1" name="com.douban.radio.app.WebViewActivity">
+<activity screenOrientation="1" name="com.douban.radio.offline.test.DownloadTestActivity">
+<activity screenOrientation="1" name="com.douban.radio.offline.test.OfflineTestActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.douban.radio.app.NFCReceiverActivity" theme="2131558411" launchMode="0">
+<activity screenOrientation="1" name="com.douban.radio.app.SyncingChannelActivity" theme="16973831">
+2
+<service name="com.douban.radio.service.RadioService" exported="false">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+4
+<receiver name="com.douban.radio.receiver.DeviceEventReceiver" exported="false">
+<receiver name="com.douban.radio.view.NewWidgetLarge" label="2131493035">
+<receiver name="com.douban.radio.view.NewWidgetSmall" label="2131493036">
+<receiver name="com.douban.radio.view.WidgetLock" label="2131493186">
+1
+<provider authorities="com.douban.radio.SuggestionProvider" name="com.douban.radio.provider.SearchSuggestionProvider">
+Owner: CN=Bear Tung, OU=Douban Inc., O=Douban Inc, L=Beijing, ST=Beijing, C=zh
+Issuer: CN=Bear Tung, OU=Douban Inc., O=Douban Inc, L=Beijing, ST=Beijing, C=zh
+Serial number: 4b72d4c3
+Valid from: Wed Feb 10 23:46:11 CST 2010 until: Sat Jun 27 23:46:11 CST 2037
+Certificate fingerprints: 
+	MD5:25:1B:93:78:F5:35:34:48:4E:25:76:95:A4:41:B9:01
+	SHA1: E4:DD:80:ED:E2:71:03:66:E2:BA:1A:67:2F:80:1E:8A:05:1B:BF:4A
+	SHA256: BA:0C:40:F9:D4:55:17:06:F3:59:4C:72:09:F2:32:F3:0B:26:8E:6E:FB:CD:B7:89:A8:B3:DF:F8:17:61:6D:25
+	Signature algorithm name: MD5withRSA
+	version: 1

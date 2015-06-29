@@ -1,0 +1,35 @@
+cartoon.ninjaturtles.video
+2
+1.2
+8
+18
+7
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity name="com.startapp.android.eula.EULAActivity" theme="16973839" configChanges="176">
+<activity name="com.startapp.android.publish.list3d.List3DActivity" theme="16973829" taskAffinity="cartoon.ninjaturtles.video.AppWall">
+<activity name="com.startapp.android.publish.AppWallActivity" theme="16973839" configChanges="160" taskAffinity="cartoon.ninjaturtles.video.AppWall">
+<activity name="cartoon.ninjaturtles.template.MainActivity" configChanges="1184" label="2131361808">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity name="cartoon.ninjaturtles.topvideo.LoadingActivity" label="2131361814">
+<activity screenOrientation="4" name="cartoon.ninjaturtles.topvideo.FullscreenDemoActivity" theme="16973830" configChanges="1184" label="Youtube Player">
+<activity name="cartoon.ninjaturtles.topvideo.PlayerActivity" configChanges="1184" label="2131361817">
+0
+0
+0
+Owner: CN=signmoble chi
+Issuer: CN=signmoble chi
+Serial number: 546141a8
+Valid from: Thu Jan 16 03:13:26 CST 2014 until: Mon Jan 10 03:13:26 CST 2039
+Certificate fingerprints: 
+	MD5:99:C6:78:AF:36:78:52:CC:94:62:E4:39:0E:76:83:50
+	SHA1: 45:27:9E:56:A4:E6:A0:DE:DE:79:29:BB:8B:52:AF:70:2D:32:E3:ED
+	SHA256: BC:24:C9:92:27:21:58:7A:62:12:FE:59:F7:DF:0C:D4:C6:AE:E6:A9:37:FD:33:79:3E:DA:3B:B0:E3:F9:B5:AC
+	Signature algorithm name: SHA256withRSA
+	version: 3

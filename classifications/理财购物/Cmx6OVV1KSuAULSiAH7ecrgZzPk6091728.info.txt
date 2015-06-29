@@ -1,0 +1,155 @@
+com.inter.trade
+4000
+3.9.3
+8
+18
+23
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.WRITE_SETTINGS
+111
+<activity screenOrientation="1" name=".ui.main.SplashActivity" label="2131427334">
+<activity screenOrientation="1" name=".ui.base.UIManagerActivity">
+<activity screenOrientation="1" name=".ui.main.UpdateHeadActivity">
+<activity screenOrientation="1" name=".ui.main.RealNameAuthActivity">
+<activity screenOrientation="1" name=".ui.agent.AgentShowControlActivity">
+<activity screenOrientation="1" name=".ui.main.DevelopingActivity">
+<activity screenOrientation="1" name=".ui.main.MainTabActivity">
+<activity screenOrientation="1" name=".ui.common.WebViewActivity">
+<activity screenOrientation="1" name=".ui.cridet.RecordDetialActivity">
+<activity screenOrientation="1" name=".ui.creditcard.BankRecordListActivity">
+<activity screenOrientation="1" name=".ui.transfer.TranserRecordActivity">
+<activity screenOrientation="1" name=".ui.returndaikuan.DaikuanSwipActivity">
+<activity screenOrientation="1" name=".ui.wallet.DetialXiangqingActivity">
+<activity screenOrientation="1" name=".ui.main.MainActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.transfer.CommonActivity">
+<activity screenOrientation="1" name=".ui.wallet.RechargeSelectedActivity">
+<activity screenOrientation="1" name=".ui.buyswipcard.DetialActivity">
+<activity screenOrientation="1" name=".ui.order.DetialOrderActivity">
+<activity screenOrientation="1" name=".ui.order.PayActivity">
+<activity screenOrientation="1" name=".ui.wallet.RechargeActivity">
+<activity screenOrientation="1" name=".ui.common.DaikuanActivity">
+<activity screenOrientation="1" name=".ui.cridet.CridetActivity">
+<activity screenOrientation="1" name=".ui.cridet.CridetPayActivity">
+<activity screenOrientation="1" name=".ui.creditcard.BankCardActivity">
+<activity screenOrientation="1" name=".ui.creditcard.MyBankCardNewActivity">
+<activity screenOrientation="1" name=".ui.creditcard.BankListActivity">
+<activity screenOrientation="1" name=".ui.base.FunctionActivity" configChanges="160">
+<activity screenOrientation="1" name=".ui.base.IndexActivity">
+<activity screenOrientation="1" name=".ui.main.UserInfoActivity">
+<activity screenOrientation="1" name=".ui.wallet.DetialMonthActivity">
+<activity screenOrientation="1" name=".ui.checking.LoginActivity">
+<activity screenOrientation="1" name=".ui.coupon.CounponActivity">
+<activity screenOrientation="1" name=".ui.cridet.ConfirmActivity">
+<activity screenOrientation="1" name=".ui.telephone.TelephonePayActivity">
+<activity screenOrientation="1" name=".ui.telephone.TelphonePayRecordActivity">
+<activity screenOrientation="1" name=".ui.qmoney.QMoneyPayActivity">
+<activity screenOrientation="1" name=".ui.qmoney.QMoneyPayRecordActivity">
+<activity screenOrientation="1" name=".ui.waterelectricgas.WaterElectricGasCitySelectActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.waterelectricgas.WaterElectricGasCompanySelectActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.waterelectricgas.WaterElectricGasPayActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.waterelectricgas.WaterElectricGasCityRecordActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.gamerecharge.GameRechargeMainActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.gamerecharge.GameRechargeSelectActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.gamerecharge.GameRechargeInfoActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.agent.AgentUserInfoActivity">
+<activity screenOrientation="1" name=".ui.agent.AgentApplyNewActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.agent.AgentMainContentActivity">
+<activity screenOrientation="1" name=".ui.agent.AgentQueryActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.agent.AgentReplenishActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.agent.AgentQueryWheelDateActivity" theme="2131492888" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.agent.AgentPayActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.TrenchFriendsActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.RedEnvelopesActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.PaymentHistoryActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.AddFriendsActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.ManuallyAddActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.CheckoutCounterActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.PaymentVerificationActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.PaymentSuccessActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.RedCollarActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.inter.trade.ui.trenchfriends.RedCollarDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.agent.AgentAreaAuthorDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.hotel.HotelSelectPriceActivity" theme="2131492888" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.hotel.HotelSelectStarLevelActivity" theme="2131492888" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.coupon.CouponListActivity">
+<activity screenOrientation="1" name=".ui.order.OderHistoryActivity">
+<activity screenOrientation="1" name=".ui.checking.GestureModifyPwdActivity">
+<activity screenOrientation="1" name=".ui.checking.LockActivity">
+<activity screenOrientation="1" name=".ui.checking.LockSetupActivity">
+<activity screenOrientation="1" name=".ui.checking.SafetyLoginActivity">
+<activity screenOrientation="1" name=".ui.checking.SafetyRigesterActivity">
+<activity screenOrientation="1" name=".ui.checking.NewMobileAuthActivity">
+<activity screenOrientation="1" name=".ui.checking.PwdSafetySettingActivity">
+<activity screenOrientation="1" name=".ui.checking.PwdSafetyReplyActivity">
+<activity screenOrientation="1" name=".ui.common.ReadPwdProtectionActivity">
+<activity screenOrientation="1" name=".ui.buyswipcard.BuySwipcardPayActivity">
+<activity screenOrientation="1" name=".ui.buyswipcard.BuySwipCardRecordActivity">
+<activity screenOrientation="1" name=".ui.buyswipcard.BuySwipCardAddressRecordActivity">
+<activity screenOrientation="1" name=".ui.buyswipcard.BuySwipCardCreateAddressActivity">
+<activity screenOrientation="1" name=".ui.buyswipcard.BuySwipCardAddBankCardActivity">
+<activity screenOrientation="1" name=".ui.smsreceivepayment.SelectReceiveBankCardActivity">
+<activity screenOrientation="1" name=".ui.smsreceivepayment.AddReceiveBankCardActivity">
+<activity screenOrientation="1" name=".ui.smsreceivepayment.SmsRecordActivity">
+<activity screenOrientation="1" name=".ui.buylicensekey.BuyLicenseKeyMainActivity">
+<activity screenOrientation="1" name=".ui.buylicensekey.BuyLicenseKeyPayActivity">
+<activity screenOrientation="1" name=".ui.allotlicensekey.AllotLicenseKeyActivity">
+<activity screenOrientation="1" name=".ui.allotlicensekey.AllotLicenseKeyRecordActivity">
+<activity screenOrientation="1" name=".ui.allotlicensekey.ChildAgentActivity">
+<activity screenOrientation="1" name=".ui.agent.DimencodeDownloadActivity">
+<activity screenOrientation="1" name=".ui.msshop.MingShengShopMainActivity">
+<activity screenOrientation="1" name=".ui.main.RegistActivity">
+<activity screenOrientation="1" name=".ui.checking.ForgetPasswordActivity">
+<activity screenOrientation="1" name=".ui.common.HomeMoblieRechangeActivity">
+<activity screenOrientation="1" name=".ui.gamerecharge.GameRechargeBillActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.gamerecharge.GameRechargeSuccessActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.gamerecharge.GameRechargeRecordActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.creditcard.CommonEasyCreditcardPayActivity">
+<activity screenOrientation="1" name=".ui.main.CaptureActivity">
+<activity screenOrientation="1" name=".ui.main.UpdateAppActivity">
+<activity screenOrientation="1" name=".ui.creditcard.MyBankCardActivity">
+<activity screenOrientation="1" name=".ui.coupon.HTBActivity">
+<activity screenOrientation="1" name=".ui.salarypay.SalaryPayMainActivity">
+<activity screenOrientation="1" name=".ui.salarypay.SalaryGetMainActivity">
+<activity screenOrientation="1" name=".ui.checking.SafetyMainActivity">
+<activity screenOrientation="1" name=".ui.checking.SafetyAccountChangeActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.checking.SafetyAccountChangeOnceActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.main.GuideActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.secondaryagent.SecondaryAgentMainActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.cashierdesk.CashierDeskMainActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.licensekeymanager.LicensekeyManagerMainActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.common.WXEntryActivity" exported="true">
+1
+<service enabled="true" name="com.gdseed.mobilereader.swap.MobileReaderCallStateService">
+0
+0
+Owner: CN=dianduo, OU=tongfubao, O="tongfubao network technology Co.,Ltd", L=GZ, ST=GD, C=CN
+Issuer: CN=dianduo, OU=tongfubao, O="tongfubao network technology Co.,Ltd", L=GZ, ST=GD, C=CN
+Serial number: 527c97c1
+Valid from: Fri Nov 08 15:50:25 CST 2013 until: Tue Mar 26 15:50:25 CST 2041
+Certificate fingerprints: 
+	MD5:27:44:43:2B:A7:6E:8D:8C:DC:4A:E5:BB:6C:8B:02:95
+	SHA1: 6E:FC:5C:1E:B5:B9:85:A2:72:FB:6A:F7:7A:17:D7:60:A7:C9:AE:93
+	SHA256: AB:57:10:64:A1:14:23:DE:91:4C:A1:EE:10:1C:39:32:50:FB:D7:43:EC:B0:D5:33:50:D2:10:0F:5F:7B:1C:D6
+	Signature algorithm name: SHA1withRSA
+	version: 3

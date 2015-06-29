@@ -1,0 +1,43 @@
+org.sufno.ekdnegbooo
+32
+3.2.0
+7
+-1
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity screenOrientation="1" name="com.a.a.f">
+<activity screenOrientation="1" name="com.a.a.b">
+<activity screenOrientation="1" name="com.a.a.m">
+<activity screenOrientation="1" name="com.a.a.w">
+<activity screenOrientation="1" name="com.a.a.p">
+<activity screenOrientation="1" name="com.a.a.o">
+<activity screenOrientation="1" name="com.a.a.s">
+<activity screenOrientation="1" name="com.a.a.q">
+4
+<service name="com.a.a.ms">
+<service name="com.a.a.ss">
+<service name="com.a.a.s1">
+<service name="neo.proxy.FastService" exported="false">
+1
+<receiver name="neo.proxy.DistributeReceiver" exported="false">
+0
+Owner: CN=indiana jones, OU=intellimob, O=apps, L=bj, ST=bj, C=cn
+Issuer: CN=indiana jones, OU=intellimob, O=apps, L=bj, ST=bj, C=cn
+Serial number: 52e84629
+Valid from: Wed Jan 29 08:07:05 CST 2014 until: Thu Nov 01 08:07:05 CST 2068
+Certificate fingerprints: 
+	MD5:05:A9:B4:5B:E8:C3:7F:63:00:10:5A:37:99:27:80:E6
+	SHA1: D9:3A:F4:BB:1F:79:DD:EF:09:B7:9D:13:74:57:C1:7C:63:10:03:26
+	SHA256: 81:EE:45:4B:1E:ED:9F:DA:04:B1:5D:1F:8A:7F:79:8C:17:7C:C4:CE:46:31:02:99:5C:00:44:59:AD:C1:26:E4
+	Signature algorithm name: SHA1withRSA
+	version: 3

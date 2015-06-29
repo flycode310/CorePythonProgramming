@@ -1,0 +1,30 @@
+cn.uo86.mail
+16
+2.2.0
+7
+-1
+5
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity name=".AndroidMailActivity" label="2130968576">
+<activity name=".WebViewActivity">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.feedback.fb.ui.FeedbackConversations">
+<activity name="com.feedback.fb.ui.FeedbackConversation" configChanges="16">
+0
+0
+0
+Owner: CN=Yuan, OU=cn, O=cn, L=bj, ST=cn, C=86
+Issuer: CN=Yuan, OU=cn, O=cn, L=bj, ST=cn, C=86
+Serial number: 4f1cdca5
+Valid from: Mon Jan 23 12:05:57 CST 2012 until: Fri Jan 16 12:05:57 CST 2037
+Certificate fingerprints: 
+	MD5:C9:AC:4D:29:D3:10:37:19:65:67:57:E8:FB:C1:79:04
+	SHA1: 8A:E5:6F:F8:F3:66:74:6A:1E:3C:33:E3:56:20:0E:33:E2:66:8F:56
+	SHA256: 48:3E:85:61:8C:EF:62:28:05:6B:BC:6F:9B:F0:0B:CF:25:D9:1F:7F:72:3E:32:B2:B9:8B:6E:09:78:ED:68:4A
+	Signature algorithm name: SHA1withRSA
+	version: 3

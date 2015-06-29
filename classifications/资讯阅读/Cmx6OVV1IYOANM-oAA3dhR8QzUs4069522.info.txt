@@ -1,0 +1,27 @@
+com.softolet.android.trial.billionstories
+4
+1.2.1
+4
+-1
+2
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+5
+<activity name=".BillionStoriesTrial" label="2131099648">
+<activity name=".BookViewActivity" label="2131099648">
+<activity name=".NewPageActivity" label="2131099648">
+<activity name=".ImageListActivity" label="Select Image">
+<activity name=".InfomationActivity" label="Billion Stories Infomation">
+0
+0
+0
+Owner: CN=SofToLet, OU=Development, O=SofToLet, L=Osaka, ST=Osaka, C=jp
+Issuer: CN=SofToLet, OU=Development, O=SofToLet, L=Osaka, ST=Osaka, C=jp
+Serial number: 4a63cc27
+Valid from: Mon Jul 20 09:45:11 CST 2009 until: Fri Dec 05 09:45:11 CST 2036
+Certificate fingerprints: 
+	MD5:69:AE:0C:7E:D9:05:C0:BA:61:F0:7D:48:1A:8B:A4:A5
+	SHA1: E6:61:66:F2:83:12:4A:AB:F7:0A:20:8D:26:53:46:29:95:FE:C6:56
+	SHA256: 95:49:B4:2F:A0:A8:E8:73:DA:8D:49:E2:03:78:BB:0D:0B:3E:F6:9A:7B:C6:54:28:19:56:4D:05:E5:64:74:48
+	Signature algorithm name: SHA1withRSA
+	version: 3

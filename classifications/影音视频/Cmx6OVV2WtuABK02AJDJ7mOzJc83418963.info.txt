@@ -1,0 +1,66 @@
+fm.xiami.main
+24
+2.0.3
+7
+11
+20
+android.permission.READ_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+fm.xiami.main.permission.JPUSH_MESSAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+17
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.StartActivity" theme="16973831" label="2131165248" windowSoftInputMode="32" noHistory="true" launchMode="1">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.MainActivity" label="2131165248" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.ScanActivity" label="scan" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.VerifyInvitedActvity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.LoginActivity" windowSoftInputMode="0">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.AboutIndexActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.IPForbidenActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.RegisterActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.LoginSelectActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.SettingActivity" theme="16973829">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.LocalSettingActivity" theme="16973829">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.SharePopActivity" theme="2131230728">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.ShareBindActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.WebViewActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.ForgetPasswordActivity">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity name="fm.xiami.main.wxapi.WXEntryActivity" exported="true" label="2131165248">
+6
+<service name="fm.xiami.bmamba.PlayService" exported="false" label="xiami music play service">
+<service name="fm.xiami.bmamba.sync.UserOperationSyncService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="fm.xiami.bmamba.PlayService" exported="false" label="music play service">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+3
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="fm.xiami.bmamba.sync.PushReceiver">
+0
+Owner: CN=xiami.com, OU=xiami.com
+Issuer: CN=xiami.com, OU=xiami.com
+Serial number: 4c764010
+Valid from: Thu Aug 26 18:21:04 CST 2010 until: Mon Aug 20 18:21:04 CST 2035
+Certificate fingerprints: 
+	MD5:84:84:84:2A:80:90:84:A8:6D:A1:65:AF:E6:C0:4D:B9
+	SHA1: 11:DE:FE:2C:F9:D8:13:73:EA:98:C8:7F:D5:E4:E5:EC:10:BD:51:40
+	SHA256: C6:27:43:B5:6B:9F:90:29:05:64:4A:D0:DC:12:5E:13:51:A6:F4:F4:77:32:15:D4:29:98:5B:6C:59:69:CA:93
+	Signature algorithm name: SHA1withRSA
+	version: 3

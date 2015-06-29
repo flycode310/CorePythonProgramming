@@ -1,0 +1,80 @@
+com.goojje.app38371762b866f7af9c659efb8edce43c
+4
+4.0
+8
+18
+18
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+41
+<activity screenOrientation="1" name=".FlashActivity" label="2131230720" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".info.NewsActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".info.NewsCategoryActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".info.NewsTabActivity" theme="2131296259" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".info.InformationDetailsActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".info.InfoCommentActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".product.ProductTabActivity" theme="2131296259" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".product.ProductSortActivity" theme="2131296259" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".product.ProductNewActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".product.ProductSortListActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".product.InformationProductActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".product.AccountProductListActivity">
+<activity screenOrientation="1" name=".product.SerachProductListActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".product.ProductCommentActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".sell.SellTabActivity" theme="2131296259" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".sell.LatestBuyActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".sell.LatestSellActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".sell.ReleaseSellActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".sell.InformationSellActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".sell.SellCommentActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".company.IndustryEnterprisesActivity" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".company.CompanyListActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".company.CompanyAllListActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".company.AccountTypeListMessageActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.AppMoreActivity" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".zxing.CaptureActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.APPMapActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.DimensionalCodeDownLoadActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.AppLoginActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".more.AppRegisterActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.AppAboutActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.UserInfoActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.UpdateCompanySortActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.UpdateMobileActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.UpdateContactoActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.UpdateCompanyNameActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.UpdateEmailActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.UpdateAddressActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.UpdateCompanyDescActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.UpdatePwdActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".more.ProductAddActivity" windowSoftInputMode="18">
+1
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+0
+0
+Owner: CN=w, OU=w, O=localhost, L=w, ST=w, C=CN
+Issuer: CN=w, OU=w, O=localhost, L=w, ST=w, C=CN
+Serial number: 54d41d90
+Valid from: Fri Feb 06 09:49:04 CST 2015 until: Sun Jan 13 09:49:04 CST 2115
+Certificate fingerprints: 
+	MD5:60:E7:17:16:25:9B:FD:2F:00:E5:30:D5:A7:F1:73:24
+	SHA1: E0:8F:6C:34:64:39:68:F6:44:7B:02:24:25:05:6F:ED:9D:24:57:7F
+	SHA256: 40:24:1A:3E:9E:4E:3C:7E:75:BE:9C:33:52:0D:07:4C:D0:BD:F2:AD:49:5F:41:E3:31:6F:2E:12:F1:53:EC:31
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,76 @@
+com.donson.szimpulse
+1
+1.0
+8
+8
+19
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.RECEIVE_BOOT_COMPLETED
+getui.permission.GetuiService
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+27
+<activity screenOrientation="1" name="com.donson.szimpulse.android.StartActivity" label="2131165184">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.HomeActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.gym.GymActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.gym.CoachDetailActivity">
+<activity screenOrientation="0" name="com.donson.szimpulse.android.view.gym.VideoActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.news.GymNewsActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.news.IndustryNewsDetailActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.news.ShareToFriendActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.news.TecentAuthorizeActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.gym.MapNavigatorActivity" configChanges="1200">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.MoreActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.SettingActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.ProsonalCentreActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.syllabus.SyllabusActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.syllabus.ViewPagerActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.LoginActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.RegistActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.AboutActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.ResetPasswordActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.ForgetPasswordActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.ProsonalInfoChangeActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.ProIntoNewsActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.more.ProIntoYouhuiActivity">
+<activity screenOrientation="1" name="com.donson.szimpulse.android.view.NotificationActivity">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" exported="true">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+4
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+5
+<receiver name="com.donson.szimpulse.android.receiver.GexinSdkMsgReceiver">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushReceiver" exported="false">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver" exported="false">
+1
+<provider process=":pushservice" authorities="downloads.com.donson.szimpulse" name="com.igexin.download.DownloadProvider">
+Owner: O=英派斯健身
+Issuer: O=英派斯健身
+Serial number: 5386fd8c
+Valid from: Thu May 29 17:27:40 CST 2014 until: Mon May 14 17:27:40 CST 2074
+Certificate fingerprints: 
+	MD5:52:4F:62:99:30:D0:12:95:99:70:4B:8E:3C:9A:D1:03
+	SHA1: B3:F6:D3:0D:04:E1:CE:15:A3:8C:75:E3:B7:69:7C:3F:1D:8A:55:07
+	SHA256: 39:36:F0:E7:7A:71:D9:1C:12:59:8C:C2:32:15:A8:6F:9A:84:91:F7:F8:83:03:71:9B:46:94:F2:9D:01:80:A0
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,120 @@
+com.enniu.u51
+29
+1.1.18.4363
+8
+16
+22
+com.enniu.u51.access_db
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.SENSOR_ENABLE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SENSOR_INFO
+android.permission.CAMERA
+getui.permission.GetuiService
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+62
+<activity icon="2130837893" screenOrientation="1" name="com.enniu.u51.activities.splash.FirstPageActivity" configChanges="160" label="2131230780">
+<activity screenOrientation="1" name=".activities.login.LoginActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.login.RetrivePwdByMobileActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activities.login.RetrivePwdByEmailActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.login.FirstLoginActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.login.RegisterActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activities.login.EmailAccountLoginActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.main.MainActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activities.useragreement.UserAgreementActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.ebank.AlipayIntentActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.useragreement.UserHelpControlActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.useragreement.UserLoginFailHelpActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.useragreement.UserFAQActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.useragreement.UserForgetNameActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.useragreement.UserForgetPasswordActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.ebank.UserBankImportActivity" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name=".activities.setting.GesturePwdActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activities.setting.WeiboResponseActivity" theme="16973840" configChanges="160" exported="true">
+<activity screenOrientation="1" name=".activities.credit.repayment.RepaymentActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.credit.repayment.FuyouPayActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.credit.repayment.FuyouDescActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.credit.repayment.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.setting.SettingSuggestionActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.commservice.CommServiceActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.commservice.ForumActivity" configChanges="160">
+<activity screenOrientation="1" name="com.zhangdan.banka.kh.BankaMainActivity" configChanges="160">
+<activity screenOrientation="1" name="com.zhangdan.banka.activities.WebActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.cash.CashAccountActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activities.safebox.SafeboxAddCardsActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.safebox.SafeboxBankActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.safebox.SafeboxCardholderActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".activities.safebox.SafeboxCardNumActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".activities.safebox.SafeboxCardTypeActivity" configChanges="160">
+<activity screenOrientation="1" name=".activities.safebox.SafeboxRemarkActivity" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".activities.safebox.SafeboxEditCardActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.safebox.camera.SafeboxCameraActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.safebox.backup.SafeboxBackupActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.safebox.SafeboxContactBankActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.credit.billstage.BillStageActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.credit.billstage.BillStageSumActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.credit.billstage.CardStageActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.credit.billstage.CardStageSumActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.creditdetail.annualfee.CreditAnnualFeeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.enniu.u51.activities.creditdetail.annualfee.CreditAnnualFeeListActivity" configChanges="160">
+<activity name="com.enniu.u51.activities.update.UpdateActivity" theme="16973840">
+<activity name="com.enniu.u51.activities.commservice.VehicleViolationActivity" theme="16973840">
+<activity screenOrientation="1" name="com.zufangbao.m51.MainActivity" configChanges="160">
+<activity screenOrientation="1" name="com.zufangbao.m51.CropImageActivity" configChanges="160">
+<activity screenOrientation="1" name="com.umpay.creditcard.android.UmpayActivity" configChanges="176" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.balance6game.housingfund.activity.ShowUserDataActivity">
+<activity screenOrientation="1" name="com.balance6game.housingfund.activity.AddAccountActivity">
+<activity screenOrientation="1" name="com.balance6game.housingfund.activity.AreaListActivity">
+<activity screenOrientation="1" name="com.balance6game.housingfund.activity.RegisterAccountActivity">
+<activity screenOrientation="1" name="com.balance6game.housingfund.activity.GjjMainActivity">
+<activity screenOrientation="1" name="com.balance6game.housingfund.activity.AboutActivity">
+<activity screenOrientation="1" name="com.balance6game.housingfund.activity.GjjFeedbackActivity">
+<activity screenOrientation="1" name="com.balance6game.housingfund.activity.HelpActivity">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+6
+<service name="com.enniu.u51.service.DownloadApkService">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+8
+<receiver name="com.enniu.u51.alarm.RepaymentNotifyReceiver" exported="false">
+<receiver name="com.enniu.u51.alarm.ActivateUserReceiver" exported="false">
+<receiver name="com.enniu.u51.alarm.WakeUpUserReceiver" exported="false">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushReceiver" exported="false">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver name="com.enniu.u51.push.GexinSdkMsgReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver" exported="false">
+2
+<provider authorities="com.enniu.u51" name=".data.db.U51DataProvider" permission="com.enniu.u51.access_db">
+<provider process=":pushservice" authorities="downloads.com.enniu.u51" name="com.igexin.download.DownloadProvider">
+Owner: CN=chenjun, OU=51zhangdan, O=51zhangdan, L=hangzhou, ST=zhejiang, C=ZH
+Issuer: CN=chenjun, OU=51zhangdan, O=51zhangdan, L=hangzhou, ST=zhejiang, C=ZH
+Serial number: 4ff26b2a
+Valid from: Tue Jul 03 11:46:50 CST 2012 until: Wed Apr 06 11:46:50 CST 2067
+Certificate fingerprints: 
+	MD5:65:C6:0E:23:68:BD:B1:74:84:C8:F8:5A:BE:65:72:FA
+	SHA1: A0:A9:41:64:4D:E1:25:48:4F:7E:E9:92:F3:70:B7:93:45:29:7C:71
+	SHA256: 9B:A8:E4:2B:7F:3C:56:EE:4B:4D:E1:13:18:0F:18:53:F5:08:10:EC:20:B7:9A:E7:F2:C5:8D:6D:C2:C1:98:F6
+	Signature algorithm name: SHA1withRSA
+	version: 3

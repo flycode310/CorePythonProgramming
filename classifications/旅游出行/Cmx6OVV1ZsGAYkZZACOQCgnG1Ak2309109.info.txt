@@ -1,0 +1,77 @@
+com.wanda.Activity
+1
+1.0.0
+7
+-1
+12
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RESTART_PACKAGES
+android.permission.CHANGE_CONFIGURATION
+45
+<activity screenOrientation="1" name=".LoadingActivity" label="2131165185">
+<activity screenOrientation="1" name=".FilmDetail_Activity">
+<activity screenOrientation="1" name=".MessageActivity">
+<activity screenOrientation="0" name=".FilmPlayerActivity" label="2131165198">
+<activity screenOrientation="1" name=".GalleryActivity">
+<activity screenOrientation="1" name=".EditDiscussActivity">
+<activity screenOrientation="1" name=".MemberManagerLoginedActivity">
+<activity screenOrientation="1" name=".MemberManagerLoginActivity">
+<activity screenOrientation="1" name=".FilmDetail_Activity_unplay">
+<activity screenOrientation="1" name=".MemberManagerRegistActivity">
+<activity screenOrientation="1" name=".MemberManagerActivity">
+<activity screenOrientation="1" name=".MemberManagerChangePswActivity">
+<activity screenOrientation="1" name=".PerCenIndentTabHostActivity">
+<activity screenOrientation="1" name=".PersonCenterActivity">
+<activity screenOrientation="1" name=".PersonMessageEditActivity">
+<activity screenOrientation="1" name=".PersonTeleEditActivity">
+<activity screenOrientation="1" name=".PerCenIndentAllActivity">
+<activity screenOrientation="1" name=".PerCenIndentNoPayActivity">
+<activity screenOrientation="1" name=".PerCenIndentPaidActivity">
+<activity screenOrientation="1" name=".CinemaDetailsActivity">
+<activity screenOrientation="1" name=".GoogleMapActivity">
+<activity screenOrientation="1" name=".SelectSeatActivity">
+<activity screenOrientation="1" name=".SelectSetmealActivity">
+<activity screenOrientation="1" name=".SelectSetmealOKActivity">
+<activity screenOrientation="1" name=".PaymentActivity">
+<activity screenOrientation="1" name=".PaySuccessActivity">
+<activity screenOrientation="1" name=".BuyTicketActivity">
+<activity screenOrientation="1" name=".PictureActivity">
+<activity screenOrientation="1" name=".HomePageActivity">
+<activity screenOrientation="1" name=".FailureActivity">
+<activity screenOrientation="1" name=".WebActivity">
+<activity screenOrientation="1" name=".PaymentDetailActivity">
+<activity screenOrientation="1" name=".MyBrowser">
+<activity screenOrientation="1" name=".AboutWandaBrowserActivity">
+<activity screenOrientation="1" name=".HelpBookActivity">
+<activity screenOrientation="1" name=".IdeaFeedBackActivity">
+<activity screenOrientation="1" name=".BlinkSinaweiboAcitivty">
+<activity screenOrientation="1" name=".BlinkDoubanAcitivty">
+<activity screenOrientation="1" name=".PaymentBrowserActivity">
+<activity screenOrientation="1" name=".wandaDealBrowserActivity">
+<activity screenOrientation="1" name=".CheckrerulesBrowserActivity">
+<activity screenOrientation="1" name=".Test_videoplayer" configChanges="160">
+<activity screenOrientation="1" name=".AdvertisementCheckrerulesBrowserActivity">
+<activity screenOrientation="1" name=".SelectSetmealOKBrowserActivity">
+<activity screenOrientation="1" name=".LocationOverlay">
+0
+0
+0
+Owner: CN=wanda, OU=wanda, O=wanda, L=beijing, ST=beijing, C=beijing
+Issuer: CN=wanda, OU=wanda, O=wanda, L=beijing, ST=beijing, C=beijing
+Serial number: 4fc71fe0
+Valid from: Thu May 31 15:38:08 CST 2012 until: Mon May 25 15:38:08 CST 2037
+Certificate fingerprints: 
+	MD5:14:A2:FC:36:0B:0F:A1:EA:45:5F:BD:1A:2E:B5:99:C1
+	SHA1: A9:40:A7:41:19:E6:6F:6B:6A:E9:23:0D:F2:6C:0B:25:79:02:47:CC
+	SHA256: 05:26:94:97:C0:A0:DC:B3:03:F7:AF:AA:9A:AD:27:E9:23:35:CA:F1:DE:1C:03:B3:5A:54:8D:54:26:A7:AF:27
+	Signature algorithm name: SHA1withRSA
+	version: 3

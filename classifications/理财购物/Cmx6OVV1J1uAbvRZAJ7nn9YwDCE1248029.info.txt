@@ -1,0 +1,60 @@
+com.android.yzloan
+22
+2.04
+8
+19
+18
+android.permission.GET_TASKS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+13
+<activity screenOrientation="1" name=".yzloan.YiZhenLoan" theme="16973830" label="2131165295">
+<activity screenOrientation="1" name=".view.MainScreen" theme="2131427460" label="2131165295">
+<activity screenOrientation="1" name=".view.UserRegistrationScreen" theme="2131427460" label="2131165295" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".view.UserLoginScreen" theme="2131427460" label="2131165295" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".view.PasswordResetScreen" theme="2131427460" label="2131165295" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".view.SettingViewScreen" theme="2131427460" label="2131165295">
+<activity screenOrientation="1" name=".view.YZContentScreen" theme="2131427460" label="2131165295" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".view.PasswordChangeScreen" theme="2131427460" label="2131165295" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".view.PictureScreen" theme="2131427460" label="2131165295">
+<activity screenOrientation="1" name=".view.GuideScreen" theme="2131427460" label="2131165295">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+6
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.android.yzloan.MyPushIntentService">
+<service name="com.umeng.message.UmengDownloadResourceService">
+3
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+0
+Owner: CN=xun, OU=yizhen, O=shanhai, L=shanyi, ST=china, C=cn
+Issuer: CN=xun, OU=yizhen, O=shanhai, L=shanyi, ST=china, C=cn
+Serial number: 53a931c3
+Valid from: Tue Jun 24 16:07:31 CST 2014 until: Mon Jun 19 16:07:31 CST 2034
+Certificate fingerprints: 
+	MD5:83:AE:4E:5A:21:3C:44:F2:C7:3C:9F:7D:DD:B4:19:67
+	SHA1: A9:09:13:72:EC:E2:FB:0F:A1:45:46:12:C4:9F:F3:B3:0E:B0:13:38
+	SHA256: 79:97:66:72:5D:19:38:71:66:B8:E5:C2:A3:6D:03:71:AE:30:55:51:4B:E6:1E:87:DD:44:75:13:D4:22:68:83
+	Signature algorithm name: SHA1withRSA
+	version: 3

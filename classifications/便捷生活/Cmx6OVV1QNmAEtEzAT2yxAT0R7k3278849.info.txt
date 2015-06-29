@@ -1,0 +1,161 @@
+cn.ledongli.ldl
+421
+4.2.1
+14
+-1
+30
+android.permission.READ_EXTERNAL_STORAGE
+com.android.alarm.permission.SET_ALARM
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+getui.permission.GetuiService
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.GET_TOP_ACTIVITY_INFO
+android.permission.VIBRATE
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+android.permission.CHANGE_CONFIGURATION
+80
+<activity screenOrientation="1" name="cn.ledongli.ldl.widget.UnlockActivity" theme="16973919">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SplashScreenActivity" theme="16973932">
+<activity name="cn.ledongli.ldl.utils.Jump">
+<activity name="cn.ledongli.ldl.utils.ZteJump">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ShareDatacenterActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.HotListWebView" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.QQLoginActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SelectNewActivity" theme="2131230750">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity screenOrientation="1" name="cn.ledongli.ldl.PopupDialogActivity" theme="2131230764">
+<activity screenOrientation="1" name="cn.ledongli.ldl.WelcomePageActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.LeEventsActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.NewPostBriefListActivity" theme="2131230750" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.ledongli.ldl.AppRecActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.MyAccountActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.InviteFriendPageActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SelectPicPopupWindow" theme="2131230773">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ReplyPostPopUpActivity" theme="2131230774" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.ledongli.ldl.MyPostListActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.AddNewActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.PlankShareActivity" theme="2131230774">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ManualStartRecordActivity" theme="2131230750" launchMode="1">
+<activity screenOrientation="1" name="cn.ledongli.ldl.RGMDetailShareActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.NewUserProfileActivity" theme="2131230750" windowSoftInputMode="19">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ManualRGMActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ViewPagerFragment" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SettingForXiaomiActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.NewProfileSportsSelectActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.DataStatsActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.NewTopGroupsActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.PlankMainActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.NewGroupsMeActivity" theme="2131230751">
+<activity screenOrientation="1" name="cn.ledongli.ldl.NewEditGroupActivity" theme="2131230751">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ApplyEnterpriseGroup" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.PlankRankActivity" theme="2131230751">
+<activity screenOrientation="1" name="cn.ledongli.ldl.EnterpriseRankActivity" theme="2131230751">
+<activity screenOrientation="1" name="cn.ledongli.ldl.TieAccountActivity" theme="2131230748">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SearchFriendActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.MainFragmentActivity" theme="2131230751" launchMode="2">
+<activity screenOrientation="1" name="cn.ledongli.ldl.MoreConvertActivity" theme="2131230751">
+<activity screenOrientation="1" name="cn.ledongli.ldl.EditGroupInfoActivity" theme="2131230750" configChanges="1184" windowSoftInputMode="19">
+<activity screenOrientation="1" name="cn.ledongli.ldl.GroupManagementActivity" theme="2131230754">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ShowPostGraphicActivity" theme="2131230754">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ShowWebViewActivity" theme="2131230754">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SearchGroupActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.PublicGroupPostActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.RgmActivityDetail" theme="2131230750" configChanges="1184" windowSoftInputMode="19">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ShareFragmentActivity" theme="2131230750" configChanges="1184" windowSoftInputMode="19">
+<activity screenOrientation="1" name="cn.ledongli.ldl.LoginFragmentActivity" theme="2131230750" configChanges="1184" windowSoftInputMode="19">
+<activity screenOrientation="1" name="cn.ledongli.ldl.LedongStore" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.PostListFromActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.EditProfileActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.GroupRankActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.GroupPostContentActivity" theme="2131230750" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.ledongli.ldl.NewPostContentActivity" theme="2131230750" windowSoftInputMode="19">
+<activity screenOrientation="1" name="cn.ledongli.ldl.GroupContentActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.EditPostActivity" theme="2131230750" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.ledongli.ldl.UserProfileActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SettingActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SettingUserGoal" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SettingCommonProblem" theme="2131230750" uiOptions="1">
+<activity screenOrientation="1" name="cn.ledongli.ldl.IntroductionAnimationActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.CompatibilityTestActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ReplyFragmentActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.GroupLocationActivity" theme="2131230750" windowSoftInputMode="19">
+<activity screenOrientation="1" name="cn.ledongli.ldl.SettingUserInfo" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.AMapActivity" theme="2131230750">
+<activity screenOrientation="1" name="cn.ledongli.ldl.ChatFragmentActivity" theme="2131230750" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.ledongli.ldl.NotificationsActivity" theme="2131230750" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.ledongli.ldl.BackupUploadActivity" theme="2131230764">
+<activity screenOrientation="1" name="cn.ledongli.ldl.BackupRecoveryActivity" theme="2131230764">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="cn.ledongli.ldl.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131230734" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+12
+<service name="cn.ledongli.ldl.service.UmengPushIntentService">
+<service enabled="true" name="cn.ledongli.ldl.service.LedongliService">
+<service enabled="true" name="cn.ledongli.ldl.service.QueryDataService">
+<service enabled="true" name=".service.LogService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.umeng.message.UmengDownloadResourceService">
+18
+<receiver name="cn.ledongli.ldl.widget.LdlAppWidgetProvider">
+<receiver name="cn.ledongli.ldl.service.BootCompletedReceiver">
+<receiver name="cn.ledongli.ldl.service.ExerciseAlarmReciever">
+<receiver name="cn.ledongli.ldl.service.HeartBeatReceiver">
+<receiver name="cn.ledongli.ldl.network.service.NetworkChangeReceiver">
+<receiver name="cn.ledongli.ldl.network.service.TrafficStatsReceiver">
+<receiver name="cn.ledongli.ldl.backup.BatchDataUploaderReceiver">
+<receiver name="cn.ledongli.ldl.motion.FlushFifoReceiver">
+<receiver name="cn.ledongli.ldl.service.ZteCastReceiver" exported="false">
+<receiver name="cn.ledongli.ldl.service.StepsTargetNotificationClearReceiver" exported="false">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="cn.ledongli.ldl.service.LedongliGexinSdkMsgReceiver" exported="false">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+1
+<provider process=":pushservice" authorities="downloads.cn.ledongli.ldl" name="com.igexin.download.DownloadProvider">
+Owner: CN=ledongli, OU=ledongli, O=ledongli, L=beijing, ST=beijing, C=cn
+Issuer: CN=ledongli, OU=ledongli, O=ledongli, L=beijing, ST=beijing, C=cn
+Serial number: 51bad7fc
+Valid from: Fri Jun 14 16:44:44 CST 2013 until: Sat Mar 17 16:44:44 CST 2068
+Certificate fingerprints: 
+	MD5:58:A2:D3:47:0B:BE:0A:BA:A9:37:1B:9B:E6:C6:4D:8A
+	SHA1: E2:84:80:44:5A:9C:5F:D4:D0:45:07:79:37:60:44:23:1D:56:41:37
+	SHA256: 98:51:0D:03:62:47:8E:8F:F4:DA:FB:98:1B:62:86:13:ED:C2:B5:18:D9:35:80:B1:7A:6F:AE:48:59:49:24:AD
+	Signature algorithm name: SHA1withRSA
+	version: 3

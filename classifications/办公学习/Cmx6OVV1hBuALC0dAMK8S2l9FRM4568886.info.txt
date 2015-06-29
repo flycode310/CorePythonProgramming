@@ -1,0 +1,97 @@
+com.somcloud.somnote
+2015032416
+2.1.17
+10
+21
+11
+android.premission.READ_EXTERNAL_STORAGE
+com.somcloud.somnote.permission.C2D_MESSAGE
+com.android.vending.BILLING
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.BROADCAST_STICKY
+android.permission.GET_ACCOUNTS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.google.android.c2dm.permission.RECEIVE
+53
+<activity screenOrientation="1" name="com.somcloud.somnote.ui.phone.SplashActivity" theme="2131558465">
+<activity name="com.somcloud.somnote.ui.phone.NotesActivity" theme="2131558464" windowSoftInputMode="32">
+<activity name="com.somcloud.somnote.ui.phone.NoteEditActivity" theme="2131558464" label="2131492882">
+<activity name="com.somcloud.somnote.ui.phone.NoteViewActivity" theme="2131558464">
+<activity name="com.somcloud.somnote.ui.phone.FolderEditActivity" theme="2131558466" windowSoftInputMode="21">
+<activity name="com.somcloud.somnote.ui.phone.VersionCheckActivity" theme="2131558464">
+<activity name="com.somcloud.somnote.ui.phone.FilePickerActivity" theme="2131558464">
+<activity name="com.somcloud.somnote.ui.phone.SearchActivity" theme="2131558462" windowSoftInputMode="32">
+<activity name="com.somcloud.somnote.ui.phone.AccountActivity" theme="2131558464" label="2131493235">
+<activity name="com.somcloud.somnote.ui.phone.SupportActivity" theme="2131558464" label="2131492989">
+<activity name="com.somcloud.somnote.ui.phone.FontSettingActivity" theme="2131558464" label="2131493237">
+<activity name="com.somcloud.somnote.ui.phone.MultiAccountActivity" theme="2131558464" label="2131493103">
+<activity name="com.facebook.LoginActivity" theme="16973840" label="2131492882">
+<activity name="com.somcloud.somnote.ui.phone.LoginActivity" theme="2131558464">
+<activity name="com.somcloud.somnote.ui.phone.LockActivity" theme="2131558462" launchMode="1">
+<activity name="com.somcloud.somnote.ui.phone.LockSettingActivity" theme="2131558464" label="2131493102">
+<activity name="com.somcloud.ui.WebActivity" theme="2131558464" configChanges="1184">
+<activity name="com.somcloud.somnote.ui.phone.PremiumActivity" theme="2131558464" configChanges="1184">
+<activity excludeFromRecents="true" name="com.somcloud.somnote.appwidget.NoteWidgetFolderConfigure" theme="2131558464" exported="true" label="2131493033">
+<activity excludeFromRecents="true" name="com.somcloud.somnote.appwidget.NoteWidgetFolderConfigureActivity" theme="2131558464" exported="true" label="2131493033">
+<activity excludeFromRecents="true" name="com.somcloud.somnote.appwidget.SingleNoteWidgetConfigureActivity" theme="2131558464" exported="true" label="2131493033">
+<activity name="com.somcloud.somnote.appwidget.WidgetFolderSelectActivity" theme="2131558464" label="2131493033">
+<activity name="com.somcloud.somnote.appwidget.WidgetNoteSelectActivity" theme="2131558464" label="2131493033">
+<activity name="com.somcloud.somnote.ui.phone.ImageViewActivity" theme="2131558464">
+<activity screenOrientation="1" name="com.somcloud.somnote.ui.phone.DrawingTutoialActivity" theme="2131558466">
+<activity screenOrientation="1" name="com.somcloud.somnote.ui.phone.DrawingActivity" theme="2131558464">
+<activity screenOrientation="1" name="com.somcloud.somnote.ui.drawing.XAPnfConnectActivity" theme="2131558462">
+<activity name="com.somcloud.somnote.kakao.KakaoSignupTermsActivity" theme="2131558462">
+<activity name="com.somcloud.somnote.shortcut.LauncherShortcuts">
+<activity name="com.somcloud.somnote.shortcut.DrawingShortcuts">
+<activity screenOrientation="1" name="com.somcloud.somnote.ui.drawing.CalibActivity" theme="2131558462">
+<activity name="com.somcloud.somnote.ui.phone.ThemeStoreActivity" theme="2131558464">
+<activity name="com.somcloud.somnote.ui.phone.ThemeListActivity" theme="2131558464">
+<activity name="com.somcloud.somnote.ui.phone.ThemeInfoActivity" theme="2131558464">
+<activity name="com.somcloud.somnote.ui.phone.ThemeImagePagerActivity" theme="2131558463">
+<activity name="com.somcloud.somnote.ui.phone.SettingActivity" theme="2131558464" label="2131493234">
+<activity name="com.somcloud.somnote.ui.phone.SettingGeneralActivity" theme="2131558464" label="2131493242">
+<activity name="com.somcloud.somnote.ui.phone.GalleryPickerListActivity" theme="2131558464">
+<activity name="com.somcloud.somnote.ui.phone.GalleryPickerGridActivity" theme="2131558464">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+<activity screenOrientation="1" name="net.daum.adam.publisher.impl.AdInterstitialActivity" configChanges="160">
+<activity name="com.somcloud.somnote.ui.phone.FullDialogActivity" theme="2131558466" configChanges="1184">
+<activity screenOrientation="1" name="com.somcloud.somnote.ui.phone.MarketActivity" theme="2131558466">
+<activity name="com.kakao.LoginActivity" theme="2131558466">
+<activity name="com.somcloud.somnote.ui.phone.TutorialActivity" theme="2131558464">
+<activity name="com.somcloud.somnote.ui.phone.AdvertisementFullActivity" theme="16973830">
+<activity name="com.somcloud.ui.novel.NovelWebActivity" theme="2131558464" configChanges="1184">
+<activity name="com.somcloud.ui.novel.NovelMainListActivity" theme="2131558464">
+<activity name="com.mocoplex.adlib.AdlibDialogActivity" theme="16973839" configChanges="176">
+<activity name="com.mocoplex.adlib.AdlibWebBrowserActivity" configChanges="176">
+<activity name="com.mocoplex.adlib.AdlibVideoPlayer" theme="16973830" configChanges="176">
+<activity name="com.nbpcorp.mobilead.sdk.MobileAdBrowserActivity">
+<activity name="android.support.v7.widget.TestActivity" label="RecyclerViewTestActivity">
+5
+<service name="com.somcloud.somnote.service.SyncService">
+<service name="com.somcloud.somnote.appwidget.NoteStackWidgetService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.somcloud.somnote.appwidget.HoneycombNoteListService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.somcloud.somnote.GCMIntentService">
+<service name="com.google.analytics.tracking.android.CampaignTrackingService">
+7
+<receiver enabled="2131165200" name="com.somcloud.somnote.appwidget.NoteStackWidgetProvider" label="2131493336">
+<receiver enabled="2131165199" name="com.somcloud.somnote.appwidget.HoneycombSingleNoteWidgetProvider" label="2131493354">
+<receiver enabled="2131165200" name="com.somcloud.somnote.appwidget.HoneycombNoteListWidgetProvider4x4" label="2131493353">
+<receiver enabled="2131165200" name="com.somcloud.somnote.appwidget.HoneycombNoteListWidgetProvider4x2" label="2131493352">
+<receiver enabled="2131165198" name="com.somcloud.somnote.appwidget.NoteListWidgetProvider" label="2131493316">
+<receiver name="com.google.android.gcm.GCMBroadcastReceiver" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="com.google.analytics.tracking.android.CampaignTrackingReceiver" exported="true">
+1
+<provider authorities="com.somcloud.provider.SomNote" name="com.somcloud.somnote.database.SomNoteProvider" exported="true">
+Owner: CN=Wizard Works, O=Wizard Works, L=Seoul, C=ko
+Issuer: CN=Wizard Works, O=Wizard Works, L=Seoul, C=ko
+Serial number: 4be6867e
+Valid from: Sun May 09 17:55:10 CST 2010 until: Mon Apr 26 17:55:10 CST 2060
+Certificate fingerprints: 
+	MD5:B5:F1:5E:A5:51:70:CB:0C:5D:F3:82:3A:07:30:7E:66
+	SHA1: 18:C9:E4:58:10:38:43:75:FE:6E:78:D3:B6:BB:9C:9F:D1:BB:63:0B
+	SHA256: D4:34:86:39:ED:3B:55:BF:E3:86:22:50:86:2C:1A:59:1E:E2:95:B8:82:01:53:AD:DE:1A:A0:84:0B:49:57:D0
+	Signature algorithm name: SHA1withRSA
+	version: 3

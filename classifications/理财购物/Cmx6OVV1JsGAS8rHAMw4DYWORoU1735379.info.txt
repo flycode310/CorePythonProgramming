@@ -1,0 +1,82 @@
+com.lzwg.app
+9
+2.1
+8
+21
+12
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+40
+<activity screenOrientation="1" name=".ui.LoadingActivity" theme="2131493122">
+<activity screenOrientation="1" name=".ui.MainActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.product.ProductListActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.product.ProductDetailActivity">
+<activity screenOrientation="1" name=".ui.SearchActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.more.ShakeActivity">
+<activity screenOrientation="1" name=".ui.account.RechargeActivity">
+<activity screenOrientation="1" name=".ui.LoginActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.RegisterActivity">
+<activity screenOrientation="1" name=".ui.FindPasswordActivity">
+<activity screenOrientation="1" name=".ui.ResetPasswordActivity">
+<activity screenOrientation="1" name=".ui.WebViewActivity">
+<activity name=".ui.SelectorActivity" theme="2131493123" launchMode="1">
+<activity screenOrientation="1" name=".ui.product.CartActivity">
+<activity screenOrientation="1" name=".ui.checkout.SettlementCenterActivity">
+<activity screenOrientation="1" name=".ui.account.DeliveryAddressSelectorActivity">
+<activity screenOrientation="1" name=".ui.account.DeliveryAddressEditorActivity">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131493151" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name=".wxapi.WXPayEntryActivity" theme="2131493142" exported="true" launchMode="1">
+<activity screenOrientation="1" name=".ui.product.ProductPopActivity" theme="2131493123" launchMode="1">
+<activity screenOrientation="1" name=".ui.GuideActivity">
+<activity screenOrientation="1" name=".ui.product.ProductViewTrackActivity" theme="2131493123" launchMode="1">
+<activity screenOrientation="1" name=".ui.SettingsActivity">
+<activity screenOrientation="1" name=".ui.more.MoreFunctionsActivity">
+<activity screenOrientation="1" name=".ui.checkout.CashierActivity">
+<activity screenOrientation="1" name=".ui.checkout.RechargeCashierActivity">
+<activity screenOrientation="1" name=".ui.account.ProductOrderListActivity">
+<activity screenOrientation="1" name=".ui.account.ProductOrderDetailActivity">
+<activity screenOrientation="1" name=".ui.account.RechargeOrderListActivity">
+<activity screenOrientation="1" name=".ui.account.MyProfileActivity">
+<activity screenOrientation="1" name=".ui.account.MyAccountSafeActivity">
+<activity screenOrientation="1" name=".ui.account.MyNicknameActivity">
+<activity screenOrientation="1" name=".ui.account.PasswordModifyActivity">
+<activity screenOrientation="1" name=".ui.account.BindPhoneActivity">
+<activity screenOrientation="1" name=".ui.account.BindEmailActivity">
+4
+<service process=":push" name="com.umeng.message.UmengService" exported="true" label="PushService">
+<service process=":push" name="com.umeng.message.UmengIntentService">
+<service process=":push" name="com.umeng.message.UmengMessageIntentReceiverService" exported="true">
+<service name="com.umeng.message.UmengDownloadResourceService">
+6
+<receiver process=":push" name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver process=":push" name="com.umeng.message.SystemReceiver">
+<receiver process=":push" name="com.umeng.message.MessageReceiver">
+<receiver process=":push" name="com.umeng.message.ElectionReceiver">
+<receiver name="com.umeng.message.RegistrationReceiver" exported="false">
+<receiver name="com.umeng.message.BootBroadcastReceiver">
+0
+Owner: CN=江苏广电数字传媒有限公司, OU=江苏广电数字传媒有限公司, O=江苏广电数字传媒有限公司, L=南京, ST=江苏, C=86
+Issuer: CN=江苏广电数字传媒有限公司, OU=江苏广电数字传媒有限公司, O=江苏广电数字传媒有限公司, L=南京, ST=江苏, C=86
+Serial number: 3297126b
+Valid from: Tue May 20 17:47:44 CST 2014 until: Wed Feb 20 17:47:44 CST 2069
+Certificate fingerprints: 
+	MD5:3D:B8:05:9D:14:77:BE:C8:BF:68:D3:90:85:EB:C3:43
+	SHA1: 1E:B4:3B:F6:4C:5C:DC:E4:79:33:BB:09:C9:7C:A3:97:B5:A9:EE:67
+	SHA256: E1:68:82:77:77:0E:BD:4E:F8:C9:52:88:4E:1E:FB:31:68:39:05:D1:C4:CE:CC:C6:9B:59:8F:A6:AE:11:C8:0F
+	Signature algorithm name: SHA256withRSA
+	version: 3

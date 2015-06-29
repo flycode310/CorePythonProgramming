@@ -1,0 +1,2 @@
+android.database.Cursor: java.lang.String getString(int)
+android.os.Handler: boolean sendMessage(android.os.Message)

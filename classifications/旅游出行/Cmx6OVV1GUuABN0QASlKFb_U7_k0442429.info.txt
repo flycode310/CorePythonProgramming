@@ -1,0 +1,119 @@
+com.autonavi.minimap
+441
+6.4.1
+7
+-1
+28
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.READ_LOGS
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+org.agoo.android.permission.MESSAGE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.autonavi.permission.ACCESS_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+50
+<activity screenOrientation="1" name="com.autonavi.minimap.Splashy" theme="2131296360" configChanges="160" label="2131230786" noHistory="true">
+<activity name="com.autonavi.minimap.MapActivity" configChanges="1073745332" windowSoftInputMode="32" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="4" name="com.autonavi.minimap.SysNaviSettingActivity">
+<activity screenOrientation="4" name="com.autonavi.minimap.SystemActivity" configChanges="1073741988" label=" ">
+<activity screenOrientation="4" name="com.autonavi.minimap.SwitchCityActivity" theme="2131296303" configChanges="160" label=" ">
+<activity screenOrientation="4" name=".SysMapSettingActivity" configChanges="160" label=" " windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.autonavi.minimap.SystemSet" configChanges="160" label=" ">
+<activity screenOrientation="4" name=".SysAboutActivity" configChanges="160" label=" ">
+<activity screenOrientation="4" name="com.autonavi.minimap.WeiBoActivity" configChanges="160" label=" ">
+<activity screenOrientation="4" name="com.autonavi.minimap.ImgGestureActivity" configChanges="160">
+<activity screenOrientation="4" name=".update.DownloadActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.autonavi.minimap.sso.ChooseCityActivity" theme="2131296344" configChanges="160" label=" ">
+<activity screenOrientation="4" name="com.autonavi.minimap.sso.PswChangeAcitivity" configChanges="192">
+<activity screenOrientation="4" name="com.autonavi.minimap.sso.PswBackActivity" configChanges="192">
+<activity screenOrientation="4" name="com.autonavi.minimap.sns.setting.SnsEditNickActivity" configChanges="128">
+<activity screenOrientation="4" name="com.autonavi.minimap.sns.setting.SnsEditSignActivity" configChanges="128">
+<activity screenOrientation="4" name="com.autonavi.minimap.sns.setting.SnsTelBindActivity" configChanges="160">
+<activity screenOrientation="4" name="com.autonavi.minimap.sns.web.WebViewActivity" configChanges="160">
+<activity screenOrientation="4" name="com.autonavi.minimap.weather.WeatherActivity" configChanges="160" label=" " windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.autonavi.minimap.RTTConnectoHistoryActivity" configChanges="160">
+<activity name="com.autonavi.navi.AutoNaviActivity" configChanges="160">
+<activity screenOrientation="4" name="com.autonavi.minimap.download_road_enlarge.DownLoadRoadEnlargeActivity" configChanges="160">
+<activity name="com.autonavi.minimap.sso.v3.GaoDeLoginActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="4" name="com.autonavi.minimap.sso.v3.PersonSettingActivity" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.autonavi.minimap.sso.v3.RegisterActivity" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.diandao.amap.FloorSelectorActivity" theme="16973830" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.diandao.amap.IndoorMapActivity" theme="16973830" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.diandao.amap.StoreDetailActivity" theme="16973830" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.autonavi.minimap.sys.setting.ProcessPhotoActivity" theme="16973830" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.autonavi.minimap.sso.v3.AccountActivity" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.autonavi.minimap.StorageActivity" theme="2131296303">
+<activity screenOrientation="4" name="com.autonavi.minimap.UserAgreeActivity" theme="16973830">
+<activity screenOrientation="4" name="com.autonavi.minimap.LogSettingActivity" theme="16973830">
+<activity screenOrientation="4" name="com.autonavi.minimap.PanoramaActivity" theme="16973830" configChanges="1200">
+<activity screenOrientation="4" name="com.autonavi.minimap.WeiboNearByActivity" theme="16973830">
+<activity screenOrientation="4" name="com.autonavi.minimap.errorback.ErrorReportBusTransferActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.autonavi.minimap.UserGuideActivity" theme="16973830">
+<activity name="com.autonavi.minimap.sns.setting.SnsEmailBindActivity" configChanges="160">
+<activity screenOrientation="4" name="com.autonavi.minimap.errorback.DoorAddressUpload" windowSoftInputMode="16">
+<activity name="com.autonavi.minimap.sso.PswBackEmailAcitivity" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="4" name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.iflytek.tts.DownloadTTSActivity" configChanges="192" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.amap.V2.Offline.DataDownloadActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity screenOrientation="0" name="com.amap.panorama.mapapi.support.AMapViewActivity" configChanges="1200" label="2131230786">
+<activity excludeFromRecents="true" name="com.alipay.android.mini.window.sdk.MiniLaucherActivity" theme="2131296257" configChanges="128" exported="false" launchMode="1">
+<activity excludeFromRecents="true" name="com.alipay.android.mini.window.sdk.TransContainer" theme="2131296257" configChanges="128" exported="false" launchMode="1">
+<activity screenOrientation="4" excludeFromRecents="true" name="com.alipay.android.mini.window.sdk.MiniPayActivity" theme="2131296257" configChanges="128" exported="false" label="2131230721" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="4" excludeFromRecents="true" name="com.alipay.android.mini.window.sdk.MiniWebActivity" theme="2131296257" configChanges="224" exported="false" launchMode="1">
+12
+<service name="com.autonavi.minimap.layer.service.LayerService">
+<service name="com.autonavi.minimap.UserGuideService">
+<service process=":locationservice" enabled="true" name="com.amap.api.service.AMapService" exported="false">
+<service name="com.autonavi.minimap.share.ShareService">
+<service process=":pushservice" name="com.umeng.message.UmengService" exported="true" permission="org.agoo.android.permission.MESSAGE">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.autonavi.minimap.PushIntentService">
+<service name="com.autonavi.minimap.PushIntentService">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.alipay.android.app.MspService">
+9
+<receiver name="com.autonavi.navi.tools.AutoNaviTelStatusReceiver">
+<receiver name="com.autonavi.minimap.intent.AmapActionBroadcastReceiver">
+<receiver name="com.amap.api.service.BootEventReceiver">
+<receiver priority="1000" name="com.umeng.message.UmengBroadcastReceiver" permission="org.agoo.android.permission.MESSAGE">
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+<receiver name="com.ut.device.BQueryWhoHasOne" exported="true" permission="com.ut.permission.DEVICE_STATE">
+<receiver name="com.ut.device.BFoundIt" exported="true" permission="com.ut.permission.DEVICE_STATE">
+0
+Owner: CN=minimap, OU=mobile department, O=autonavi, L=beijing, ST=beijing, C=cn
+Issuer: CN=minimap, OU=mobile department, O=autonavi, L=beijing, ST=beijing, C=cn
+Serial number: 4c032728
+Valid from: Mon May 31 11:04:08 CST 2010 until: Tue Mar 03 11:04:08 CST 2065
+Certificate fingerprints: 
+	MD5:3F:9E:AE:A4:F2:D4:28:5C:2D:DB:BD:A7:39:13:64:79
+	SHA1: ED:D0:4A:69:6A:0D:CD:41:29:82:0A:1C:03:AB:16:94:3E:C6:C5:3F
+	SHA256: B3:6C:0B:80:CB:24:17:E7:FE:4C:3D:F0:1A:2D:16:3A:7D:84:43:60:4D:D2:76:A2:BC:1A:B0:D3:25:10:2E:3E
+	Signature algorithm name: SHA1withRSA
+	version: 3

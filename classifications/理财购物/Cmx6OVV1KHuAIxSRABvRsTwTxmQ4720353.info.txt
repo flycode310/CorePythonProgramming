@@ -1,0 +1,29 @@
+com.cxzg.m.jrlcmhw
+1
+1.0.0
+8
+17
+4
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.CALL_PHONE
+5
+<activity screenOrientation="1" name="com.cxzg.platform.activity.InitActivity" theme="2131361794" label="2131296256">
+<activity screenOrientation="1" name="com.cxzg.platform.activity.MainActivity" label="2131296256" windowSoftInputMode="32">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name="com.cxzg.platform.activity.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3" stateNotNeeded="true">
+<activity screenOrientation="1" name="com.cxzg.platform.activity.IntroduceActivity">
+<activity name="com.cxzg.m.pnmx.IntroduceActivity" label="2131296275">
+0
+0
+0
+Owner: CN=louis, OU=诚商聚盟, O=诚商聚盟, L=苏州, ST=江苏, C=86
+Issuer: CN=louis, OU=诚商聚盟, O=诚商聚盟, L=苏州, ST=江苏, C=86
+Serial number: 528b0488
+Valid from: Tue Nov 19 14:26:16 CST 2013 until: Wed Aug 22 14:26:16 CST 2068
+Certificate fingerprints: 
+	MD5:82:09:C0:DF:6E:CC:12:82:7E:51:BE:3F:95:21:E1:3B
+	SHA1: 54:33:12:B3:D2:87:3F:D7:E1:B9:DB:8E:8A:9B:5B:26:52:DB:B2:4A
+	SHA256: 7D:56:87:D9:48:8C:38:28:F8:40:31:B4:AA:A4:AE:A6:F7:7A:A5:62:3D:53:9B:C9:FF:29:31:48:4E:D7:BE:1F
+	Signature algorithm name: SHA1withRSA
+	version: 3

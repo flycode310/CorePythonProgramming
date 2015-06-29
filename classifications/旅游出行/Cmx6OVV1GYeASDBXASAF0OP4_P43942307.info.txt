@@ -1,0 +1,164 @@
+cld.navi.mainframe
+6133
+6.6
+8
+-1
+30
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_OWNER_DATA
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.SEND_SMS
+android.permission.DISABLE_KEYGUARD
+android.permission.REORDER_TASKS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.READ_OWNER_DATA
+android.permission.BLUETOOTH
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.BLUETOOTH_ADMIN
+102
+<activity icon="2130837516" name="com.cld.navicm.activity.NaviOneActivity" theme="2131427356" launchMode="3">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CaptureActivity" theme="16973840">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_MyNews" theme="16973840">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CldModeC3" theme="16973840">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CldModeM461" theme="16973840">
+<activity screenOrientation="1" name="com.cld.navicm.mynews.CLoudShareFragment" theme="16973840">
+<activity screenOrientation="1" name="com.cld.navicm.mynews.AKeyCallFragment" theme="16973840">
+<activity screenOrientation="1" name="com.cld.navicm.mynews.SystemFragment" theme="16973840">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CldDialogActivity" theme="2131427356" launchMode="3">
+<activity screenOrientation="1" name="com.cld.navicm.activity.LogoActivity" theme="16973840">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_W">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_Welcome" theme="16973833">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_T" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CldModeA1">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_A2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CldModeB1">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CldModeB2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CldModeB3">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_S1">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_S2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_B2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_B4">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M1">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_S3">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_S4">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_S5">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_A7">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_Region">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_Poi">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_Crossroad">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_N1">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_N11">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_N12">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M3">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M4">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M481">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M482">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M6">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M7">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M5">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M21">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M20">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M8">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M9">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M10" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M35" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M8_1" theme="16973837">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_N13">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_S6">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_H3">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_H4">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CalendarActivity" theme="2131427345">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M3_2_1">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M22">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M16">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M17">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M18">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M47">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_H1">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_Recommend" theme="16973835">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_A3">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_Map" configChanges="160">
+<activity name="cnv.hf.widgets.HFMapModeWidget">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M41" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M23">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M24">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M25">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M26">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M27">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M28">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M29">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M31">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_K32">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M36">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M38">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M39">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M40">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M34">
+<activity screenOrientation="1" name="com.cld.navicm.offlinemap.CM_Mode_OffLineMap" launchMode="2">
+<activity screenOrientation="1" name="com.cld.navicm.offlinemap.CM_Mode_OffLineMap_CityList">
+<activity screenOrientation="1" name="com.cld.navicm.offlinemap.CM_Mode_OffLinemap_City_Details">
+<activity screenOrientation="1" name="com.cld.navicm.offlinemap.CM_Mode_OffLineMap_DownManage">
+<activity screenOrientation="1" name="com.cld.navicm.util.browse.WebBrowse" launchMode="2">
+<activity screenOrientation="1" name="com.cld.navicm.util.browse.WebBrowseInfo" launchMode="2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.WebActivity" theme="16973840" launchMode="2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M37">
+<activity screenOrientation="1" name="com.cld.navicm.notice.NtfDetailsActivity" theme="16973918" launchMode="3">
+<activity screenOrientation="1" name="com.cld.cm.update.CldUpdateVersionActivity" theme="2131427356" launchMode="2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.SynchSelectActivity" theme="2131427356" launchMode="2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M42" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M43" windowSoftInputMode="32">
+<activity name="com.cld.navicm.activity.CM_Mode_M30" exported="true">
+<activity screenOrientation="1" name="com.cld.cm.emode.EngineeringModeActivity">
+<activity screenOrientation="1" name="com.cld.cm.njits.CldModeP1">
+<activity screenOrientation="1" name="com.cld.cm.njits.VideoPointViewActivity" launchMode="2">
+<activity screenOrientation="1" name="com.cld.cm.njits.VideoPointViewPicActivity" launchMode="2">
+<activity screenOrientation="1" name="com.cld.navicm.activity.CM_Mode_M47_1">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131427356" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+4
+<service process="com.cld.logtrace" name="com.cld.log.CldAppMonitorService">
+<service name="com.cld.navicm.service.CldOffLineMapDownLoadService" exported="true">
+<service process="com.cld.navicm.service" name="com.cld.navicm.service.CldPushService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+8
+<receiver name="com.cld.navicm.broadcast.CldUpGradeBroadcastReceiver">
+<receiver name="com.cld.navicm.broadcast.TurnToDeviceReceiver">
+<receiver name="com.cld.navicm.broadcast.SendDataToDeviceReceiver">
+<receiver name="com.cld.navicm.broadcast.CldNetConnectionChangeBroadcastReceiver">
+<receiver name="com.cld.navicm.broadcast.CldPhoneStateReceiver">
+<receiver name="com.cld.navicm.broadcast.CldCloudShareReceiver">
+<receiver name="com.cld.navicm.broadcast.CldSessionInvalidReceiver">
+<receiver name="com.cld.navicm.broadcast.CldConnectedReceiver">
+0
+Owner: CN=CARELAND SOFTWARE Co.Ltd, OU=深圳市凯立德科技股份有限公司, O=深圳市凯立德科技股份有限公司, L=深圳, ST=广东, C=CN
+Issuer: CN=CARELAND SOFTWARE Co.Ltd, OU=深圳市凯立德科技股份有限公司, O=深圳市凯立德科技股份有限公司, L=深圳, ST=广东, C=CN
+Serial number: 4d3d05ea
+Valid from: Mon Jan 24 12:54:02 CST 2011 until: Tue Oct 27 12:54:02 CST 2065
+Certificate fingerprints: 
+	MD5:1F:2D:90:C8:E4:45:F9:7E:7B:29:85:90:AF:FF:6F:09
+	SHA1: 76:B1:B0:FF:9D:8C:D1:1D:85:C9:7D:78:83:76:7B:BB:66:A1:B9:F2
+	SHA256: FE:DE:13:A4:39:31:54:4B:47:3D:E9:DA:94:2E:2C:E9:68:A5:98:99:9A:7D:44:93:50:7B:7E:4E:8F:4D:F8:6F
+	Signature algorithm name: SHA1withRSA
+	version: 3

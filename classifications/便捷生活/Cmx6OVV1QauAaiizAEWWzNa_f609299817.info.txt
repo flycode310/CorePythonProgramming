@@ -1,0 +1,65 @@
+com.package1.Book2.cwcrichangjiankangchangshi
+2
+v1.1
+7
+-1
+14
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+26
+<activity screenOrientation="1" name="com.package1.Book2.Read" configChanges="160">
+<activity screenOrientation="1" name="com.package1.Book2.InActivity">
+<activity screenOrientation="1" name="com.package1.games.download.DownloadActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.package1.games.GameDetailActivity" theme="16973830">
+<activity screenOrientation="1" name="com.package1.games.GameListActivity" theme="16973830">
+<activity screenOrientation="1" name="com.package1.gamecenter.LoginActivity" theme="2131296286">
+<activity screenOrientation="1" name="com.package1.gamecenter.RegisterActivity" theme="16973830">
+<activity screenOrientation="1" name="com.package1.gamecenter.PersonalInfoEditActivity" theme="16973830">
+<activity screenOrientation="1" name="com.package1.ui.activities.StartActivity">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.package1.ui.activities.MainActivity" configChanges="160" windowSoftInputMode="16" alwaysRetainTaskState="true" launchMode="2">
+<activity name="com.package1.ui.activities.AboutActivity" theme="16973835" label="2131230767">
+<activity name="com.package1.ui.activities.EditBookmarkActivity" theme="16973835" label="2131230796">
+<activity name="com.package1.ui.activities.BookmarksListActivity">
+<activity name="com.package1.ui.activities.HistoryListActivity">
+<activity name="com.package1.ui.activities.DownloadsListActivity">
+<activity name="com.package1.ui.activities.AdBlockerWhiteListActivity">
+<activity name="com.package1.ui.activities.BookmarksHistoryActivity" configChanges="160">
+<activity name="com.package1.ui.activities.preferences.PreferencesActivity">
+<activity name="com.package1.ui.activities.preferences.HomepagePreferenceActivity" theme="16973835" label="2131230882">
+<activity name="com.package1.ui.activities.preferences.SearchUrlPreferenceActivity" theme="16973835" label="2131230889">
+<activity name="com.package1.ui.activities.preferences.UserAgentPreferenceActivity" theme="16973835" label="2131230899">
+<activity name="com.package1.ui.activities.MobileViewListActivity">
+<activity name="com.package1.ui.activities.WeaveBookmarksListActivity">
+<activity name="com.package1.ui.activities.preferences.WeavePreferencesActivity">
+<activity name="com.package1.ui.activities.preferences.WeaveServerPreferenceActivity" theme="16973835" label="2131231004">
+<activity name="com.package1.ui.activities.ChangeSkinActivity" theme="16973835">
+2
+<service name="com.package1.games.ClearCacheService">
+<service name="com.package1.download.DownloadService" exported="true">
+1
+<receiver name="com.package1.utils.ProxyChangeReceiver">
+2
+<provider authorities="com.package1.book2.cwcrichangjiankangchangshi.providers.bookmarkscontentprovider" name="com.package1.Book2.cwcrichangjiankangchangshi.providers.BookmarksContentProvider">
+<provider authorities="com.package1.book2.cwcrichangjiankangchangshi.providers.weavecontentprovider" name="com.package1.Book2.cwcrichangjiankangchangshi.providers.WeaveContentProvider">
+Owner: CN=add, OU=ad, O=d, L=dv, ST=c, C=d
+Issuer: CN=add, OU=ad, O=d, L=dv, ST=c, C=d
+Serial number: 10f00139
+Valid from: Tue Feb 19 11:19:04 CST 2013 until: Sat Feb 13 11:19:04 CST 2038
+Certificate fingerprints: 
+	MD5:10:FA:B7:C2:15:CC:3A:F1:DA:E9:F2:02:F4:6D:2B:F7
+	SHA1: 18:6C:F3:6D:52:BB:4A:0D:DA:F4:2D:A7:44:EE:4A:B3:BC:2D:05:33
+	SHA256: 86:00:D6:7A:91:F2:AD:53:E6:10:46:22:77:9F:6A:A7:0F:A2:5B:EC:31:E3:45:02:9D:F4:05:8C:B1:45:EC:DB
+	Signature algorithm name: SHA256withRSA
+	version: 3

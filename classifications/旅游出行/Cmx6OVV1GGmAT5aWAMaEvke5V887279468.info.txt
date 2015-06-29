@@ -1,0 +1,117 @@
+com.baidu.BaiduMap.samsung
+387
+5.0.3
+7
+10
+30
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.READ_SMS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+com.baidu.permission.SHARE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+com.android.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.WRITE_SETTINGS
+62
+<activity screenOrientation="1" name=".BaiduMap" theme="2131492932" configChanges="1073742847" label="2131230725" noHistory="true" launchMode="1">
+<activity screenOrientation="1" name=".common.guide.GuidePage" theme="2131492930" configChanges="1073742847" noHistory="true">
+<activity hardwareAccelerated="true" name=".map.mainmap.MainMapActivity" theme="2131492930" configChanges="1073742847" label="2131230725" launchMode="1">
+<activity screenOrientation="2" name=".map.mainmap.SelectPointActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".map.indoormap.IndoorMapActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".mylocationdetail.MyLocationDetailActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.poi.PoiSearchActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.poi.NearbySearchActivity" configChanges="1073742847" windowSoftInputMode="16">
+<activity screenOrientation="2" name=".search.poi.PoiListActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.poi.PoiDetailActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.poi.BusLineActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.poi.PoiDeepDetailActivity" configChanges="1073742847">
+<activity screenOrientation="1" name=".search.poi.PlaceDeepDetailActivity" configChanges="1073742847">
+<activity screenOrientation="1" name=".search.poi.PlaceCommentEditActivity" theme="16973839" configChanges="1073742847" windowSoftInputMode="2">
+<activity screenOrientation="2" name=".search.poi.SubwayActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.poi.WebShellActivity" configChanges="1073742847">
+<activity screenOrientation="1" name=".search.poi.DiscountDetailActivity" configChanges="1073742847">
+<activity screenOrientation="1" name=".search.poi.GrouponActivity" configChanges="1073742847">
+<activity screenOrientation="1" name=".search.poi.RebateActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.poi.PassBusLineActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".favourite.FavouriteActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".favourite.FavSelectActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".account.UserActivity" configChanges="1073742847" exported="false">
+<activity screenOrientation="2" name=".set.SettingActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".set.AboutActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".set.ServiceItemsActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.route.RouteSearchActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.route.RouteResultBusActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.route.RouteDestinationInputActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".search.route.RouteResultActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".shortcutentry.ShortcutSettingActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".shortcutentry.ShortcutPoiSearchActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".map.localmap.LMActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".ls.FLSListActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".ls.FLSDetailActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".ls.FLSAddActivity" configChanges="1073742847">
+<activity name=".user.UserCenterActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".user.ThemeMapDetailsActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".user.UserCenterFootmarkActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".tour.FeatureRecommendActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".common.software.SoftwareRecommendActivity" configChanges="1073742847">
+<activity screenOrientation="2" name="com.baidu.BaiduMap.component.ComponentContainer" configChanges="1073742847" exported="false" windowSoftInputMode="19">
+<activity name=".BaiduMapLauch" theme="2131492933" configChanges="1073742847" exported="true" label="2131230725" launchMode="2">
+<activity name=".ar.ARActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".map.mainmap.ITSDetailActivity" configChanges="1073742847">
+<activity name="com.baidu.navi.ui.NaviActivity" configChanges="1073742847" alwaysRetainTaskState="true" launchMode="1">
+<activity name="com.baidu.navi.ui.NavRouteResultActivity" theme="16973830" configChanges="1073742847">
+<activity name="com.baidu.navi.ui.NavSettingsActivity" theme="16973830" configChanges="1073742847">
+<activity screenOrientation="1" name=".map.streetscape.StreetScapeActivity" configChanges="1073742847" taskAffinity="com.baidu.BaiduMap.samsung">
+<activity screenOrientation="2" name=".thirdentry.sina.WeiboActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".order.OrderActivity" configChanges="1073742847">
+<activity screenOrientation="2" name=".customize.ui.WarrantyActivity" configChanges="1073742847">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.LoginActivity" theme="2131492926" configChanges="1073742847" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.PhoneRegistActivity" theme="2131492926" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.RegistActivity" theme="2131492926" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.SmsCodeActivity" theme="2131492926" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.FillUnameActivity" theme="2131492926" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.sapi2.ui.ForgetPwdActivity" theme="2131492926">
+<activity screenOrientation="2" name="com.baidu.BaiduMap.samsung.tour.RecommendDetailActivity" configChanges="1073742847">
+<activity name="com.baidu.BaiduMap.samsung.handrouteshare.HandRouteShareBaseActivity" configChanges="1073742847" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.BaiduMap.samsung.handrouteshare.HandRouteSharePActivity" configChanges="1073742847" launchMode="1">
+<activity screenOrientation="0" name="com.baidu.BaiduMap.samsung.handrouteshare.HandRouteShareLActivity" configChanges="1073742847" launchMode="1">
+2
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="com.baidu.BaiduMap.samsung.accessory.AddFavoriteService" exported="true">
+3
+<receiver name="com.baidu.sapi2.share.ShareReceiver" permission="com.baidu.permission.SHARE">
+<receiver name=".map.localmap.LMBroadcastReceiver" exported="false">
+<receiver name="com.baidu.navi.statistics.LBSRouteStatisticsNetworkListener" label="NetworkConnection">
+0
+Owner: CN=Baidu, OU=Baidu Inc., O=Baidu Inc., L=Shanghai, ST=Shanghai, C=CN
+Issuer: CN=Baidu, OU=Baidu Inc., O=Baidu Inc., L=Shanghai, ST=Shanghai, C=CN
+Serial number: 4b9dd8e7
+Valid from: Mon Mar 15 14:51:19 CST 2010 until: Tue Dec 16 14:51:19 CST 2064
+Certificate fingerprints: 
+	MD5:C2:B0:B4:97:D0:38:9E:6D:E1:50:5E:7F:D8:F4:D5:39
+	SHA1: EA:26:37:25:15:DC:A3:0A:14:2E:3F:4D:36:DB:19:33:7A:BC:74:54
+	SHA256: A6:EF:81:7B:FD:6C:08:34:42:A1:49:85:6E:51:03:6F:69:12:C2:DB:6B:60:09:DB:81:27:CD:D6:41:E2:95:A9
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,143 @@
+com.ourlinc.chezhang
+24
+1.24.42675
+7
+18
+18
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+95
+<activity screenOrientation="1" name=".ui.WelcomeActivity" theme="16973831">
+<activity screenOrientation="1" name=".ui.MainActivity" theme="2131230746" windowSoftInputMode="32">
+<activity name=".ui.BossActivity">
+<activity name=".ui.MyAttentionActivity">
+<activity name=".ui.RouteActivity">
+<activity name=".ui.MineActivity">
+<activity screenOrientation="1" name=".ui.DatePickActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.CalendarDialogActivity" theme="2131230742">
+<activity screenOrientation="1" name=".ui.RouteResultActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.RouteCreateActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.OrderFillActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.CoachActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.MyOrderActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.SettingCenterActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.CommonPassengerActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.EditPassengerActivity">
+<activity screenOrientation="1" name=".ui.OrderActivity">
+<activity screenOrientation="1" name=".ui.TicketDetailActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.OrderAddpassengerActivity">
+<activity screenOrientation="1" name=".ui.OrderInsuranceInfoActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.SystemMsgActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.SystemMsgDetailActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.QuestionAnswerActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.AskQuestionActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.MineEditUserinfoActivity">
+<activity screenOrientation="1" name=".ui.MineEditUsericonActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.ScanActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.XianQuanCommentListActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.RouteCommentDetailActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.FeedbackActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.MyCouponActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.MyCouponVoucherActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.MyCouponExchangeActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.ActivityRulesActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.MyCouponCponActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.RouteFeedbackActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.AboutActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.AboutZuoCheActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.BusHelperActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.QuestionDetailActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.MyOrderWithTypeActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.BusImagesActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.RouteCommontActivity" theme="2131230746" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.StationImagesActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.ImageDetialActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.HelperActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.GroupChatActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.RouteDetailActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.VerifyPhoneLoginActivity">
+<activity screenOrientation="1" name=".ui.OtherWayLoginActivity">
+<activity screenOrientation="1" name=".ui.ResetPassOneActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.ResetPassTwoActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.AddPassengerActivity">
+<activity screenOrientation="1" name=".ui.GroupSearch" theme="2131230746">
+<activity screenOrientation="1" name=".ui.RecommendAppActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.TrafficPlanActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.ImageUploadActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.OrderFillCouponActivity" theme="2131230746">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.AwokeActivity" theme="16973919" configChanges="240">
+<activity screenOrientation="1" name=".ui.RewardActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.CommonPoiMapActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.FunctionIntroduceActivity" theme="16973831">
+<activity screenOrientation="1" name=".ui.UserInfoActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.StationInfoActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.RecordOrderActivity">
+<activity screenOrientation="1" name=".ui.BindAccountActivity">
+<activity screenOrientation="1" name=".ui.WXTestActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.WebViewActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.ChangeCoachActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.CoursesActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.AddressBookFriendsActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.AppointmentActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.XianquanActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.CommentSucesssActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.CoachRoutesActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.RouteCommentListActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.ActiveGroupActivity" theme="2131230746">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" exported="true">
+<activity screenOrientation="1" name=".wxapi.WXPayEntryActivity" theme="16973840" exported="true">
+<activity screenOrientation="1" name=".ui.IndexActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.PasswordSettingActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.XianquanQRcodeActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.OrderShowPassengerActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.OrderShowInsuranceActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.QuickOrderFillActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.XianQuanChooseActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.ChooseRingActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.XQFansListActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.PoiEditPageActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.ElectronicTicketActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.OrderRefundActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.SearchXianquanActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.JoinXianquanActivity" theme="2131230746">
+<activity screenOrientation="1" name=".ui.OrderRefundMsgActivity" theme="2131230746">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+8
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.ourlinc.chezhang.background.PushService">
+<service name=".ui.background.CommentImgUploadService">
+<service name=".ui.background.StationImagesUploadService">
+<service name=".ui.background.VehicleImagesUploadService">
+<service name=".ui.background.AwokeService">
+<service name=".ui.background.QuestionImgUploadService">
+<service name=".ui.background.ReplyImgUploadService">
+2
+<receiver name=".ui.receiver.Receiver" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver name="com.ourlinc.chezhang.ui.background.AwokeReceiver">
+0
+Owner: CN=ourlinc, OU=develop, O=mobile, L=gz, ST=gd, C=CHN
+Issuer: CN=ourlinc, OU=develop, O=mobile, L=gz, ST=gd, C=CHN
+Serial number: 53795ee4
+Valid from: Mon May 19 09:31:16 CST 2014 until: Wed May 11 09:31:16 CST 2044
+Certificate fingerprints: 
+	MD5:35:80:B1:D3:25:FB:8A:6F:1C:CB:B9:2B:D1:B7:2B:0B
+	SHA1: AA:C8:7F:16:11:9F:E0:3F:35:1F:77:32:0B:B9:09:A5:E3:CA:3E:F8
+	SHA256: FA:2A:28:38:62:D5:8F:4C:6F:CB:A5:D4:94:B1:F0:A3:88:6C:3E:93:7A:56:99:3A:20:80:06:8D:AB:F1:E8:24
+	Signature algorithm name: SHA1withRSA
+	version: 3

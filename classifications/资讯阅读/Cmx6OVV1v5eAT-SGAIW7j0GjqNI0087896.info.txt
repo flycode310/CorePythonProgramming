@@ -1,0 +1,151 @@
+com.youloft.calendar
+64
+4.3.0
+9
+22
+25
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SET_WALLPAPER
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.DISABLE_KEYGUARD
+android.permission.WRITE_CALENDAR
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.READ_PHONE_SINTERNETWIFI_STATE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+77
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.youloft.calendar.MainActivity" theme="2131623988" configChanges="160" label="2131558558" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.youloft.alarm.ui.activity.AlarmAddActivity" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.ui.activity.AlarmEditActivity" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.usercenter.CropActivity" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.setting.AlarmSettingActivity" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.youloft.calendar.WelcomeActivity" theme="2131623962" allowTaskReparenting="true" windowSoftInputMode="3" noHistory="true">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.youloft.calendar.SwipeGuideActivity" theme="2131623961" allowTaskReparenting="true" windowSoftInputMode="3" noHistory="true">
+<activity screenOrientation="1" name="com.youloft.diary.ui.DairySettingActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.diary.ui.DiaryPassWordSettingActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.modules.dream.DreamDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.HLTimeSActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.StarDetailedActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.HLModernActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.ad.battery.YLBatteryDrActivity" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.CardMangerActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.LunarDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.EveryNoteDetailActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.sync.SyncActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.reciproval.ReciprocalActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.card.weather.WeatherActivity" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.youloft.bodycycle.PhysiologicalActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.LoginActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.LoginSyncActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.card.CardOpenActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.TimeJXActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.WebActivity" theme="2131623984" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.WeatherWebActivity" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.AboutActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.note.CameraActivity" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.note.JiShiSelectActivity" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.usercenter.UserCenterActivity" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.usercenter.UserInfoEditActivity" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.setting.SettingActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.note.JishiSearchActivity" theme="2131624102" windowSoftInputMode="36" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.note.MapActivity" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.CustomActivity" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.BirthDayActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.BankActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.HouseActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.IntervalMonthActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.MeetingActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.MemorialActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.YearActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.MonthActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.WeekActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.IntervalDaysActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.MoreActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.ContactsActivity" launchMode="1">
+<activity showOnLockScreen="true" screenOrientation="1" excludeFromRecents="true" name="com.youloft.alarm.activity.NotifyActivity" theme="16973919" launchMode="0">
+<activity screenOrientation="1" name="com.youloft.selectGood.SelectGoodActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.datecalculation.DateCalculationActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.modules.dream.DreamActivity" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.FeedbackActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.tool.EditToolActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.diary.diarybook.DiaryMainActivity" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.modules.appwidgets.WidgetThemeActivity" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.diary.ui.DiaryActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.gylq.DivinationActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.compass.CompassActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.lady.LadyActivity" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.modules.game.ChooseCityActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.modules.game.MovieActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.match.MatchActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.calendar.sale.SaleActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.modules.game.TicketActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.alarm.activity.AlarmActivity" launchMode="1">
+<activity screenOrientation="1" name="com.youloft.setting.SystemAlarmSettingActivity" launchMode="1">
+<activity name="com.youloft.modules.appwidgets.WidgetConfigActivity" theme="2131623994">
+<activity screenOrientation="1" name="com.youloft.calendar.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.youloft.modules.game.GameActivity" launchMode="1">
+<activity name="android.support.v7.widget.TestActivity" label="RecyclerViewTestActivity">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.newxp.view.handler.umwall.AlimamaWall" configChanges="144" launchMode="2">
+<activity name="com.qq.e.ads.AdActivity" theme="16973839" configChanges="176">
+<activity name="com.baidu.mobad.feeds.BaiduActivity" configChanges="176">
+13
+<service name="com.youloft.calendar.sync.SyncService">
+<service name="com.youloft.alarm.service.UpdateDataService" exported="false">
+<service enabled="true" name="com.youloft.modules.appwidgets.WeatherUpdateService" exported="true">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+<service name="com.umeng.message.UmengDownloadResourceService">
+<service name="com.youloft.calendar.appwidget.AgendaWidgetService" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.youloft.notify.services.NotificationDeleteService">
+<service name="com.youloft.notify.services.DLService">
+<service process=":widget" enabled="true" name="com.youloft.core.appwidget.WidgetService" exported="true">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+16
+<receiver name="com.youloft.alarm.br.AlarmReceiver">
+<receiver name="com.youloft.alarm.br.FestivalAlarmReceiver">
+<receiver name="com.youloft.alarm.br.BootReceiver">
+<receiver name="com.youloft.alarm.br.NotifyClickReceiver">
+<receiver name="com.youloft.calendar.reciever.BootReciever" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+<receiver name="com.youloft.modules.appwidgets.SingleDateAppWidgets" label="2131559241">
+<receiver name="com.youloft.modules.appwidgets.MiddleWidget" label="2131559242">
+<receiver name="com.youloft.modules.appwidgets.LargeAppWidget" label="2131559243">
+<receiver name="com.youloft.modules.appwidgets.AppWidgets4_2" label="2131559244">
+<receiver name="com.youloft.modules.appwidgets.MonthAppWidget" label="2131559247">
+<receiver priority="1000" name="com.youloft.push.receiver.PushReceiver">
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+<receiver name="com.youloft.calendar.appwidget.AgendaWidgetProvider" label="万年历日程">
+<receiver name="com.youloft.core.reciever.CoreReciever" exported="true">
+0
+Owner: CN=owen, OU=owenlin, O=owenlin, L=chongqing, ST=chongqing, C=cn
+Issuer: CN=owen, OU=owenlin, O=owenlin, L=chongqing, ST=chongqing, C=cn
+Serial number: 4dc7facb
+Valid from: Mon May 09 22:31:39 CST 2011 until: Tue Apr 26 22:31:39 CST 2061
+Certificate fingerprints: 
+	MD5:8F:1F:F0:02:6A:5D:82:FF:E3:E7:03:A3:00:CA:88:0F
+	SHA1: DA:13:75:A1:62:E4:39:3C:73:2E:E8:A3:1D:96:3D:29:67:40:F1:00
+	SHA256: 1C:5B:51:10:79:9E:99:1B:AB:EB:0B:FF:61:AD:C8:C9:82:51:30:98:53:4A:D1:A0:CC:38:D1:F7:58:54:D5:45
+	Signature algorithm name: SHA1withRSA
+	version: 3

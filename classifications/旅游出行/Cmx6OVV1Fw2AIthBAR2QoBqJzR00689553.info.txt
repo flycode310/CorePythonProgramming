@@ -1,0 +1,56 @@
+com.ziyou.ls3
+4
+1.2
+8
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+26
+<activity screenOrientation="1" name=".activity.PrepareActivity" label="2131099648">
+<activity screenOrientation="1" name=".activity.MainActivity" windowSoftInputMode="32">
+<activity name=".activity.OfflineAlertActivity" theme="2131165187">
+<activity screenOrientation="1" name=".activity.gonglue.MenuActivity">
+<activity screenOrientation="1" name=".activity.gonglue.POIRankActivity">
+<activity screenOrientation="1" name=".activity.gonglue.POIListActivity">
+<activity screenOrientation="1" name=".activity.gonglue.POIDetailActivity">
+<activity screenOrientation="1" name=".activity.gonglue.POIDescActivity">
+<activity screenOrientation="1" name=".activity.gonglue.POICommentActivity">
+<activity screenOrientation="1" name=".activity.gonglue.ArticleListActivity">
+<activity screenOrientation="1" name=".activity.gonglue.ArticleDetailActivity">
+<activity screenOrientation="1" name=".activity.gonglue.FavoriteActivity">
+<activity screenOrientation="1" name=".activity.impression.IndexActivity">
+<activity screenOrientation="1" name=".activity.impression.PageActivity">
+<activity screenOrientation="1" name=".activity.youji.YoujiListActivity">
+<activity screenOrientation="1" name=".activity.youji.YoujiOnlineListActivity">
+<activity screenOrientation="1" name=".activity.youji.YoujiDetailActivity">
+<activity screenOrientation="1" name=".activity.youji.YoujiShortActivity">
+<activity screenOrientation="1" name=".activity.map.MMapActivity">
+<activity screenOrientation="1" name=".activity.map.POIMapActivity">
+<activity screenOrientation="1" name=".activity.map.MapFavoActvityGroup">
+<activity screenOrientation="1" name=".activity.map.RecentActivity">
+<activity screenOrientation="1" name=".activity.more.MoreActivity">
+<activity screenOrientation="1" name=".activity.more.SettingActivity">
+<activity screenOrientation="1" name=".activity.more.FeedbackActivity">
+<activity screenOrientation="1" name=".activity.UrlActivity">
+1
+<service name=".activity.MsgService">
+0
+0
+Owner: O=org.ziyou
+Issuer: O=org.ziyou
+Serial number: 4f387d57
+Valid from: Mon Feb 13 11:02:47 CST 2012 until: Fri Feb 06 11:02:47 CST 2037
+Certificate fingerprints: 
+	MD5:4E:8E:CA:A4:12:6B:8E:8E:D5:22:1B:0C:84:A3:FC:AA
+	SHA1: 16:ED:1A:F7:02:5C:13:25:C1:40:2A:17:57:FB:74:85:AE:57:D8:1B
+	SHA256: 34:94:0B:47:B2:8A:10:4F:C8:CC:31:4A:82:42:3B:27:FA:A8:4F:1B:5C:32:2F:AF:89:0F:DC:D5:B3:53:8C:30
+	Signature algorithm name: SHA1withRSA
+	version: 3

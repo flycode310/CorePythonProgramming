@@ -1,0 +1,68 @@
+com.ZWSoft.ZWCAD
+7
+2.1.1
+11
+19
+12
+android.permission.REORDER_TASKS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.GET_TASKS
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+27
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWSplashActivity" theme="16973831" configChanges="1184" noHistory="true">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWNewFeatureActivity" theme="16973831" configChanges="1184">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWMainActivity" configChanges="1184" windowSoftInputMode="34" launchMode="2">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWUserActivity" theme="2131230747" configChanges="1184" windowSoftInputMode="34" launchMode="2">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWPremiumProActivity" theme="2131230747" configChanges="1184" windowSoftInputMode="34" launchMode="2">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWDwgViewerActivity" configChanges="1184" launchMode="2">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWOpenFileActivity" theme="16973909" noHistory="true" launchMode="2">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWTextEditorActivity" theme="2131230747" configChanges="1184" windowSoftInputMode="20">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWAttributeEditorActivity" theme="2131230747" configChanges="1184" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.ZWSoft.ZWCAD.Activity.ZWColorPickerActivity" theme="2131230747" configChanges="1184">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWSelectFolderActivity" theme="2131230747" configChanges="1184">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWSelectImageActivity" theme="2131230747" configChanges="1184">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWAuthWebActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.ZWSoft.ZWCAD.Activity.ZWBasicAuthAcitiviy" theme="2131230747" configChanges="1184" windowSoftInputMode="36" launchMode="2">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWExportActivity" theme="2131230747" configChanges="1184">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWSearchOptionActivity" theme="2131230747" configChanges="1184" windowSoftInputMode="48">
+<activity name="com.ZWSoft.ZWCAD.Activity.ZWFeedbackActivity" configChanges="1184" launchMode="2">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131230732" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="org.wordpress.passcodelock.ZWPasscodeUnlockActivity" theme="2131230748" configChanges="1184" noHistory="true">
+<activity screenOrientation="1" name="org.wordpress.passcodelock.PasscodeUnlockActivity" theme="2131230748" windowSoftInputMode="2" noHistory="true">
+<activity name="org.wordpress.passcodelock.ZWPasscodeManagePasswordActivity" theme="2131230747" configChanges="1184" windowSoftInputMode="2">
+<activity name="org.wordpress.passcodelock.ZWPasscodeProtectSettingActivity" theme="2131230745" configChanges="1184" windowSoftInputMode="2">
+5
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.ZWSoft.ZWCAD.AppWidget.ZWLocalRemoteViewsService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service process=":umengService_v1" name="com.umeng.message.UmengService" exported="true">
+<service process=":umengService_v1" name="org.android.agoo.service.ElectionService" exported="true">
+<service name="com.umeng.message.UmengIntentService">
+4
+<receiver name="com.ZWSoft.ZWCAD.AppWidget.ZWWidgetProvider" label="2131165184">
+<receiver name="com.umeng.message.NotificationProxyBroadcastReceiver" exported="false">
+<receiver name="com.umeng.message.RegistrationReceiver">
+<receiver name="com.umeng.message.UmengBroadcastReceiver">
+0
+Owner: OU=ZWSOFT, O=ZWSOFT, L=WuHan, C=86
+Issuer: OU=ZWSOFT, O=ZWSOFT, L=WuHan, C=86
+Serial number: 21a51e5
+Valid from: Fri Dec 06 16:56:16 CST 2013 until: Sun Nov 12 16:56:16 CST 2113
+Certificate fingerprints: 
+	MD5:6C:48:1F:3E:67:1D:26:C4:89:CA:09:23:A5:C6:B8:9A
+	SHA1: 2E:7D:98:60:78:82:5D:11:0C:29:60:22:F6:12:A9:8F:FD:DA:AD:A5
+	SHA256: 39:6E:A7:06:AF:AB:3B:A8:E1:FA:B1:B6:1C:7B:56:3A:BA:C4:A4:F3:A9:65:18:97:97:E7:5E:19:79:AB:1A:4C
+	Signature algorithm name: SHA256withRSA
+	version: 3

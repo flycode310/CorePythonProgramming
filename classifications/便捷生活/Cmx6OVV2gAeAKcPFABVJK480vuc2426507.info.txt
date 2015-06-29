@@ -1,0 +1,56 @@
+com.qikangcorp.wenys
+8
+2.5.0
+4
+-1
+11
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.INSTALL_PACKAGES
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FORCE_STOP_PACKAGES
+android.permission.KILL_BACKGROUND_PROCESSES
+22
+<activity name=".activity.LoadingActivity" label="2131230720">
+<activity name=".activity.MainActivity" windowSoftInputMode="3">
+<activity name=".activity.QuestionActivity">
+<activity name=".activity.NoAnswerActivity">
+<activity name=".activity.SortingActivity">
+<activity name=".activity.QuestionListActivity" windowSoftInputMode="3">
+<activity name=".activity.SearchListActivity" windowSoftInputMode="3">
+<activity name=".activity.AnswerListActivity">
+<activity name=".activity.SecondarySortingActivity">
+<activity name=".activity.AnswerActivity" theme="2131296258">
+<activity name=".activity.AboutActivity">
+<activity name=".activity.UserCenterActivity">
+<activity name=".activity.ChoiceSortingListActivity">
+<activity name=".activity.SicknessSortingActivity">
+<activity name=".activity.SortingQuestionListActivity">
+<activity name=".activity.SymptomSortingActivity">
+<activity name=".activity.SymptomRootSortingListActivity">
+<activity name=".activity.ThanksActivity">
+<activity name=".activity.PasswordSettingActivity" theme="2131296258">
+<activity name=".activity.FeedBackActivity" theme="2131296258">
+<activity name=".activity.CheckPasswordActivity" theme="2131296258">
+<activity name=".activity.WidgetSearchActivity" theme="2131296258">
+1
+<service name=".service.SJYSService">
+2
+<receiver name=".service.BootReceiver">
+<receiver name=".widget.RemindWidget" label="2131230720">
+0
+Owner: CN=广州启康信息科技有限公司, OU=广州启康信息科技有限公司, O=广州启康信息科技有限公司, L=广州, ST=广东, C=cn
+Issuer: CN=广州启康信息科技有限公司, OU=广州启康信息科技有限公司, O=广州启康信息科技有限公司, L=广州, ST=广东, C=cn
+Serial number: 4c8f27ff
+Valid from: Tue Sep 14 15:45:03 CST 2010 until: Mon Jan 15 15:45:03 CST 3010
+Certificate fingerprints: 
+	MD5:8C:97:4A:D8:76:35:2A:38:ED:F5:5D:FB:B1:C6:6F:35
+	SHA1: B1:E9:35:B3:D6:1D:86:3E:21:DE:7A:5C:F6:A9:41:7F:A9:DD:A3:6A
+	SHA256: F5:91:7F:DD:AE:1C:42:30:DB:CD:18:E0:CE:3C:40:08:ED:BE:42:CB:25:35:B8:A9:F6:6D:A9:F6:F8:2B:F3:29
+	Signature algorithm name: SHA1withRSA
+	version: 3

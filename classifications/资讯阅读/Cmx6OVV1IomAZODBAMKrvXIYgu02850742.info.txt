@@ -1,0 +1,188 @@
+com.tencent.news
+466
+4.6.6
+8
+16
+30
+android.permission.WIFI_STATE_CHANGED
+android.permission.GET_TASKS
+com.android.launcher2.permission.READ_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+com.tencent.news.permisson.ACTION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+com.tencent.news.house.permission.RECEIVE_BROADCAST
+133
+<activity screenOrientation="1" name="com.tencent.news.activity.SplashActivity" theme="2131558437" label="2131492891">
+<activity screenOrientation="1" name="com.tencent.news.ui.MainActivity2" configChanges="1184" windowSoftInputMode="35" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.SafeModeActivity" configChanges="160" launchMode="3">
+<activity screenOrientation="1" name="com.tencent.news.ui.TestEmptyActivity" theme="16973841" configChanges="1184" launchMode="3">
+<activity screenOrientation="1" name="com.tencent.news.ui.NewsDetailActivity" configChanges="1184" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.ui.RecommendGuideActivity" theme="16973840" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.ui.RecommendActivity" configChanges="160" windowSoftInputMode="37">
+<activity screenOrientation="1" name="com.tencent.news.ui.CommentViewActivity" theme="16973840" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.rose.RoseSlideShowCommentActivity" theme="16973830" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.ui.PushNewsDetailActivity" configChanges="1184" exported="true" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.ui.WidgetNewsDetailActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.tencent.news.ui.MicroNewsDetailActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.tencent.news.ui.ADInnerJumpActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.tencent.news.ui.NewsJumpActivity" theme="16973840" configChanges="1184" launchMode="3">
+<activity screenOrientation="1" name="com.tencent.news.ui.MicroNewsSpecialListActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="2" name="com.tencent.news.ui.ImageDetailActivity" configChanges="1184" windowSoftInputMode="35">
+<activity screenOrientation="2" name="com.tencent.news.ui.GalleryDetailActivity" theme="16973840" configChanges="1184" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.ui.SettingActivity" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.VideoDetailActivity" configChanges="1184" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.ui.VideoAlbumDetailActivity" configChanges="1184" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.rose.RoseLiveDetailActivity" configChanges="1184" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.ui.SpecialListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.ui.ImgTxtLiveActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.wxapi.WXEntryActivity" theme="2131558439" configChanges="1184" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.wxapi.WXPayEntryActivity" theme="2131558439" configChanges="1184" exported="true" launchMode="2">
+<activity screenOrientation="2" name="com.tencent.news.ui.DetailPreViewActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="2" name="com.tencent.news.ui.LivePreViewActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="2" name="com.tencent.news.ui.LivePreViewActivityForCommentImage" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.tencent.news.ui.SuggestActivity" theme="16973840" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tencent.news.ui.LoginActivity" theme="16973840" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.AboutActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.DebugActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.SupriseDebugActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.DebugAddPushActivity" theme="16973840" configChanges="160" windowSoftInputMode="37">
+<activity screenOrientation="1" name="com.tencent.news.ui.OfflineActivity" configChanges="1184" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.OfflineChannelListActivity" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.webview.WebSearchActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.ui.SinaOuthActivity" theme="16973840" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.webview.WebDetailActivity" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.webview.WebBrowserActivity" theme="16973830" configChanges="160" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.tad.ui.WebAdvertActivity" theme="2131558461" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.tad.ui.WebDialogActivity" theme="16973840" configChanges="160" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.webview.WebMusicActivity" theme="16973840" configChanges="160" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.webview.WebBrowserForItemActivity" theme="2131558461" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.webview.CustomWebBrowserForItemActivity" theme="2131558461" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.ui.LaunchPageActivity" theme="2131558461" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.webview.WebVideoActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.ReLoginActivity" theme="2131558439" configChanges="224">
+<activity screenOrientation="1" name="com.tencent.news.ui.GuideActivity" theme="16973831" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.ui.MyAccountActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tencent.news.ui.ShareInterfaceActivity" theme="16973840" configChanges="160" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.tencent.news.ui.FlowerActivity" theme="16973840" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="0" name="com.tencent.news.ui.LiveVideoActivity" theme="16973831" configChanges="1184">
+<activity screenOrientation="1" name="com.tencent.news.doodle.DoodleCustomStampActivity" theme="16973840" configChanges="160" windowSoftInputMode="21">
+<activity screenOrientation="1" name="com.tencent.news.ui.MenuSettingActivity" theme="16973840" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.DownloadListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.ui.HotAppListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.ui.RssHotActivity" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.rss.RssAddActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.vertical.portfolio.data.ui.PortfolioMarketInfoActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tencent.news.vertical.portfolio.data.ui.PortfolioStockDetailActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tencent.news.vertical.portfolio.data.ui.PortfolioListActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tencent.news.vertical.portfolio.data.ui.PortfolioSearchActivity" configChanges="160" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.tencent.news.vertical.portfolio.data.ui.PortfolioMarketInfoActivityNew" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tencent.news.vertical.portfolio.data.ui.PersonalStockListActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tencent.news.ui.ConstellationActivity" theme="16973840" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tencent.news.webview.StarWebviewActivity" configChanges="1184" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.nsports.ui.nlist.SportRecommendListActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tencent.news.nsports.ui.SportMatchDetailActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tencent.news.nsports.ui.myteam.MyTeamActivity" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tencent.news.nsports.ui.player.PlayerDetailActivity" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tencent.news.rss.RssSearchActivity" theme="16973840" configChanges="160" windowSoftInputMode="36" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.rss.RssAddSubActivity" configChanges="160" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.FavoritesListActivity" configChanges="160" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.RecommendsListActivity" configChanges="160" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.MyCommentActivity" theme="16973840" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.ui.CommentFragmentActivity" configChanges="160" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.ChatActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.pins.PinsNewsDetailActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.tencent.news.ui.FullScreenActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.ui.ReportInvComActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.map.LocationMapActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.map.CommentMapActivity" theme="16973840" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.tencent.news.ui.search.NewsSearch" windowSoftInputMode="34" taskAffinity="" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.search.NewsSearchResultMoreListActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.search.NewsSearchResultListActivity" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.ChatPreviewActivity" windowSoftInputMode="2">
+<activity name="com.tencent.news.ui.MobleQQActivity" theme="2131558439">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.RssMediaActivity" configChanges="160" windowSoftInputMode="35" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.ui.FoucusListActivity" configChanges="160" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.FocusListResultActivity" configChanges="160" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.doodle.DoodleFaceSelectActivity" theme="16973840" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.doodle.DoodleActivity" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.WeiXinFriendZoneMultiImageShare" theme="16973840" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tencent.news.ui.pushsetting.PushSettingActivity" configChanges="1184" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.tencent.news.ui.PublishView" theme="16973840" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.ui.CommonPlayVideoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.CityListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.NewHouseActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.SearchActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.GroupActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.HouseDetailActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.HousePositionActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.GroupDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.SearchResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.UnitActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.HouseSignUpActivity" configChanges="160" windowSoftInputMode="21">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.MapSearchActivity" configChanges="160" windowSoftInputMode="21">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.DiscountActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.news.house.ui.HouseNewsListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.ui.GuestActivity" theme="16973840" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.ui.GuestActivityNew" theme="16973840" configChanges="160" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.ui.UserCommentActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tencent.news.ui.UserRelationListActivity" theme="16973840" configChanges="160" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.CarSearchActivity" configChanges="160" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.CarCityListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.CarHotListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.SerialDetailsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.CarBrandActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.CarDiscountActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.CarDiscountDetailsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.AllCarsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.FindCarActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.car.ui.FindResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.news.webview.WebBrowserForSearchDetailActivity">
+<activity screenOrientation="1" name="com.tencent.news.ui.PublishExpr" theme="16973840" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tencent.news.ui.SupportActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tencent.news.ui.TraceActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tencent.news.ui.EggActivity" theme="16973840" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tencent.midas.proxyactivity.APMidasPayProxyActivity" theme="16973840" configChanges="1184">
+<activity name="com.tencent.midas.wx.APMidasWXPayActivity" theme="16973840" exported="true">
+1
+<service process=":PushService" name="com.tencent.news.push.PushService" exported="false">
+4
+<receiver process=":PushService" name="com.tencent.news.system.BootBroadcastReceiver" exported="false">
+<receiver process=":PushService" name="com.tencent.news.system.PushAlarmReceiver" exported="false">
+<receiver process=":PushService" name="com.tencent.news.system.MonitorServiceReceiver" exported="false">
+<receiver enabled="true" name="com.tencent.news.download.DownloadPackageReceiver" exported="false">
+0
+Owner: CN=Tencent, OU=Tencent, O=Tencent, L=Beijing, ST=Beijing, C=86
+Issuer: CN=Tencent, OU=Tencent, O=Tencent, L=Beijing, ST=Beijing, C=86
+Serial number: 4cf460e2
+Valid from: Tue Nov 30 10:26:42 CST 2010 until: Sat Nov 24 10:26:42 CST 2035
+Certificate fingerprints: 
+	MD5:D2:24:96:53:32:7A:7E:E3:15:86:52:10:E7:4F:03:6B
+	SHA1: BB:60:FE:0F:7F:5B:87:41:55:EB:27:B6:21:56:BF:D7:B0:06:45:58
+	SHA256: 5F:C0:DC:0A:F2:A9:33:2F:7B:9B:58:CE:D1:74:D9:C8:0C:C3:AA:2A:97:34:04:5F:85:D5:6A:F9:63:2A:E3:E3
+	Signature algorithm name: SHA1withRSA
+	version: 3

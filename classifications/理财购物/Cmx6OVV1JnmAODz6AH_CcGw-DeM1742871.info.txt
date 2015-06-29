@@ -1,0 +1,137 @@
+com.xiaomi.shop
+20150520
+3.0.20150520
+10
+19
+27
+com.xiaomi.xmsf.permission.PAYMENT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+com.xiaomi.channel.GAME_SERVICE_PERMISSION
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+com.xiaomi.shop.permission.MIPUSH_RECEIVE
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+android.permission.READ_SYNC_STATS
+android.permission.WRITE_SYNC_SETTINGS
+com.xiaomi.permission.CLOUD_MANAGER
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SYNC_SETTINGS
+android.permission.VIBRATE
+73
+<activity screenOrientation="1" name=".activity.MainTabActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.MainActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name=".activity.SettingActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ImageViewFullActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.PhotoPickerActivity" theme="16973837" configChanges="160">
+<activity name=".activity.PaymentActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ProductDetailsActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ProductDetailsSecondActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.UserCentralActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ProductActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ShoppingActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.CampaignActivity" theme="2131623937" configChanges="160">
+<activity screenOrientation="1" name=".xmsf.account.ui.LoginActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".xmsf.account.ui.RegisterAccountActivity" configChanges="160">
+<activity screenOrientation="1" name=".xmsf.account.ui.AccountUnactivatedActivity" configChanges="160">
+<activity screenOrientation="1" name=".xmsf.account.ui.LicenseActivity" configChanges="160">
+<activity screenOrientation="1" name=".xmsf.account.ui.QuickLoginActivity" theme="2131623997" configChanges="160">
+<activity screenOrientation="1" name=".activity.OrderListActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.CouponActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.AddressActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".activity.WriteReviewActivity" configChanges="160" windowSoftInputMode="16">
+<activity name=".activity.FullScreenImageActivity" theme="16973834" configChanges="160">
+<activity screenOrientation="1" name=".activity.FCodeActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".activity.ShakeActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.AfterSalesActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ColaShakeActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.MiHomeActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.MiHomeAddCommentActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ServiceStationActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.MapActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.MiServiceStationActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ReserveOrderActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.MiPhoneSalesRecordActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.RepairProgressActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.ComboActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.OrderEditActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.InvoiceActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.PayAndShipmentActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.UseCouponActivity" configChanges="160">
+<activity screenOrientation="1" name=".activity.QuickPaymentActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.MessageCheckActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.zxing.CaptureActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.zxing.ResultDisplayActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.PrepaidRechargeActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.RechargeNoticeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.SaleOutRegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.PushIntentForwardActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.SecondCategoryActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.FavoriteProductListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.PaidServiceActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.CommentDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.QaDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.SearchActivity" configChanges="160">
+<activity screenOrientation="0" name="com.xiaomi.shop.activity.FullScreenLandWebActivity" theme="16973834" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.FullScreenWebActivity" theme="16973834" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.chat.activity.MiChatActivity" theme="2131623938" configChanges="1184" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.xiaomi.chat.activity.WebPagerActivity" theme="2131623938" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.chat.activity.GalleryActivity" theme="16973834" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.xiaomi.shop.plugin.PluginAcitivityRoot" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.WelcomeMiHomeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.WelcomeMiHomeReserveActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.KuwanActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.KuwanDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.CustomerServiceActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.ExpressListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.NearbyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.NearbyDetailActivity" configChanges="160">
+<activity name="com.unionpay.uppay.PayActivity" theme="16973837">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" theme="16973837" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" theme="16973837" configChanges="224" exported="false">
+<activity screenOrientation="1" name="com.xiaomi.shop.activity.MiStationActivity" configChanges="160">
+8
+<service name="com.xiaomi.chat.service.ChatIntentService">
+<service enabled="true" name="com.xiaomi.chat.service.ChatService" exported="false">
+<service name=".ShopIntentService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="com.xiaomi.push.service.XMPushService" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service name="com.xiaomi.shop.WelcomeMiHomeService">
+7
+<receiver name="com.ut.device.BQueryWhoHasOne" exported="true" permission="com.ut.permission.DEVICE_STATE">
+<receiver name="com.ut.device.BFoundIt" exported="true" permission="com.ut.permission.DEVICE_STATE">
+<receiver name=".util.AppUpdater$DownloadCompletedReceiver">
+<receiver name="com.xiaomi.shop.ShopPushMessageReceiver" exported="true">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver">
+<receiver name="com.xiaomi.push.service.receivers.PingReceiver">
+<receiver enabled="true" name="com.xiaomi.shop.ui.WelcomeMiHomeAlarmReceicer" exported="true">
+2
+<provider authorities="com.xiaomi.chat" name="com.xiaomi.chat.db.ChatProvider" exported="false">
+<provider authorities="com.xiaomi.shop" name=".db.ShopProvider" exported="false">
+Owner: EMAILADDRESS=miui@xiaomi.com, CN=MIUI, OU=MIUI, O=Xiaomi, L=Beijing, ST=Beijing, C=CN
+Issuer: EMAILADDRESS=miui@xiaomi.com, CN=MIUI, OU=MIUI, O=Xiaomi, L=Beijing, ST=Beijing, C=CN
+Serial number: e552a8ecb9011b7c
+Valid from: Tue Dec 06 11:26:26 CST 2011 until: Sat Apr 23 11:26:26 CST 2039
+Certificate fingerprints: 
+	MD5:70:14:78:A1:E3:B4:B7:E3:97:8E:A6:94:69:41:0F:13
+	SHA1: 7B:6D:C7:07:9C:34:73:9C:E8:11:59:71:9F:B5:EB:61:D2:A0:32:25
+	SHA256: C9:00:9D:01:EB:F9:F5:D0:30:2B:C7:1B:2F:E9:AA:9A:47:A4:32:BB:A1:73:08:A3:11:1B:75:D7:B2:14:90:25
+	Signature algorithm name: SHA1withRSA
+	version: 3

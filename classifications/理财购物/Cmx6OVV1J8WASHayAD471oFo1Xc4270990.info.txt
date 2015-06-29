@@ -1,0 +1,35 @@
+com.ms235
+20150326
+3.10.1.2
+8
+-1
+12
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.intent.action.PACKAGE_ADDED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+com.android.launcher2.settings
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+1
+<activity screenOrientation="1" name="com.ms2354.activity.ActivityMain" theme="16973830" configChanges="160" label="2131165185" launchMode="2">
+1
+<service name="com.psnt.mobile.stock.net.ServiceOfflineMessage" label="2131165350">
+1
+<receiver name="com.psnt.mobile.stock.net.NetBroadcast" label="bootstart2">
+0
+Owner: CN=s, OU=s, O=s, L=s, ST=s, C=s
+Issuer: CN=s, OU=s, O=s, L=s, ST=s, C=s
+Serial number: 4b4e9a6d
+Valid from: Thu Jan 14 12:15:41 CST 2010 until: Mon Jan 08 12:15:41 CST 2035
+Certificate fingerprints: 
+	MD5:C2:91:83:66:0F:C4:83:A3:B8:40:7A:FC:DD:11:B7:E1
+	SHA1: F8:92:E5:5A:75:06:1B:D5:38:C9:0F:39:F0:D5:9B:FD:61:D0:12:C0
+	SHA256: A2:A2:BB:2F:6B:94:58:69:B4:4C:AC:86:C1:96:4E:03:68:5E:FC:E0:1B:AC:F8:82:ED:97:3C:E9:09:07:30:FE
+	Signature algorithm name: SHA1withRSA
+	version: 3

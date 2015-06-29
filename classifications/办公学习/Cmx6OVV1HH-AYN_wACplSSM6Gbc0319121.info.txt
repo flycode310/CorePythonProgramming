@@ -1,0 +1,27 @@
+com.linever.dietmemo.android
+7
+1.0.6
+9
+19
+3
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity logo="2130837740" screenOrientation="1" name="com.linever.dietmemo.android.MainActivity" theme="2131493031" configChanges="1184" label="2131427341">
+<activity screenOrientation="1" name="com.linever.dietmemo.android.ImageViewrActivity" theme="16973833" configChanges="1184" noHistory="true">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+0
+0
+1
+<provider authorities="com.linever.dietmemo.android.dietchipprovider" name="com.linever.dietmemo.android.DietChipProvider" exported="false">
+Owner: CN=Linever, OU=Development, O=Linever Corporation, L=Tokyo, ST=Tokyo, C=jp
+Issuer: CN=Linever, OU=Development, O=Linever Corporation, L=Tokyo, ST=Tokyo, C=jp
+Serial number: 50076e0e
+Valid from: Thu Jul 19 10:16:46 CST 2012 until: Mon Dec 05 10:16:46 CST 2039
+Certificate fingerprints: 
+	MD5:7C:23:11:CE:BA:EB:1B:AC:F7:A1:14:62:AA:F4:84:38
+	SHA1: B8:E2:F1:4A:BB:DD:57:A5:BC:6C:09:F1:C3:16:B9:33:9A:1D:30:C6
+	SHA256: 16:D7:A6:A1:64:78:E9:94:F3:A2:A8:7A:91:6E:B3:0C:9D:44:A3:EC:FB:E9:B4:1E:F8:36:94:C8:9F:50:C3:E2
+	Signature algorithm name: SHA1withRSA
+	version: 3

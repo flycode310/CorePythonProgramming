@@ -1,0 +1,50 @@
+com.shark.egame
+1
+1.0
+5
+-1
+19
+android.permission.SEND_SMS
+android.permission.WRITE_APN_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.DISABLE_KEYGUARD
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+11
+<activity screenOrientation="0" name=".activity.SharkActivity" theme="16973831" configChanges="160" label="2131230757">
+<activity screenOrientation="1" name="com.egame.sdk.uis.EgameTestActivity" theme="16973830" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.egame.sdk.uis.EgameWebActivity" theme="16973830" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.egame.sdk.uis.WelcomeActivity" theme="16973830" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.egame.sdk.uis.ImageViewActivity" theme="16973830" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.egame.sdk.uis.InputPopupActivity" theme="2131296261" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.egame.sdk.uis.MoreActivity" theme="16973830" configChanges="32">
+<activity screenOrientation="1" name="com.egame.sdk.uis.HideSettingActivity" theme="16973830" configChanges="32">
+<activity screenOrientation="1" name="com.egame.sdk.uis.RecomFriendActivity" theme="16973830" configChanges="32">
+<activity screenOrientation="1" name="com.egamefei.sdk.uis.EgamefeeWebActivity" theme="16973830" configChanges="32" windowSoftInputMode="32">
+<activity name="cn.game189.sms.SMS" theme="16973835">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4fa21f2d
+Valid from: Thu May 03 14:01:17 CST 2012 until: Fri May 03 14:01:17 CST 2013
+Certificate fingerprints: 
+	MD5:78:D6:49:28:2D:CB:72:48:D6:C1:FC:BA:1B:A5:84:6A
+	SHA1: 86:12:CF:16:26:B1:6F:76:09:43:41:DC:C3:76:9F:65:43:81:52:00
+	SHA256: E9:67:B6:74:4F:B4:49:3F:D3:1B:F2:63:82:73:71:32:6F:FE:1D:56:9C:8F:27:1B:CA:2B:9F:E3:37:F6:52:5C
+	Signature algorithm name: SHA1withRSA
+	version: 3

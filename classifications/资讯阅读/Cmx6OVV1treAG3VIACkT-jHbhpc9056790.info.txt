@@ -1,0 +1,30 @@
+qiushi.xiaohua
+6
+1.5
+8
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity name=".QiushixiaohuaActivity" label="2131034112">
+<activity name=".InfoActivity" theme="16973831" label="2131034112">
+<activity name=".JieshaoActivity" theme="16973831" label="2131034112">
+<activity name=".ZitiActivity" theme="16973831" label="2131034112">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+0
+0
+0
+Owner: CN=程
+Issuer: CN=程
+Serial number: 41a6995b
+Valid from: Thu Mar 15 00:28:25 CST 2012 until: Sat Feb 20 00:28:25 CST 2112
+Certificate fingerprints: 
+	MD5:46:84:2A:94:5A:CA:07:08:0E:EC:08:41:E5:AA:5A:F9
+	SHA1: 66:0D:D8:DF:59:5A:51:41:E5:84:53:CB:F3:FE:4B:08:3B:BE:F2:4D
+	SHA256: 83:29:1F:F2:EE:91:2C:47:97:EC:44:9A:2D:7F:1D:66:5F:44:B6:C5:72:F1:5D:9C:FA:7C:59:98:46:C3:38:F1
+	Signature algorithm name: SHA256withRSA
+	version: 3

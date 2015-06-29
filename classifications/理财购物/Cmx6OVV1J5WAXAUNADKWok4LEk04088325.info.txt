@@ -1,0 +1,52 @@
+com.etnet.android.iq
+27
+2.8.1
+11
+17
+15
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+com.google.android.c2dm.permission.RECEIVE
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.etnet.android.iq.permission.C2D_MESSAGE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+10
+<activity name="com.etnet.android.widget.MyConfigure" label="2131296829">
+<activity screenOrientation="1" name="com.etnet.android.iq.MainActivity" label="2131296408" windowSoftInputMode="48">
+<activity name="com.etnet.android.iq.Reconnect" theme="2131165252" configChanges="9380">
+<activity name="com.etnet.android.iq.CheckReconnect" theme="2131165245" configChanges="9380">
+<activity screenOrientation="1" name=".Welcome" configChanges="9380">
+<activity screenOrientation="0" name="com.etnet.android.iq.ChartActivity" configChanges="9380">
+<activity screenOrientation="1" name="com.amaze.ad.AmazeAdActivity" configChanges="1184">
+<activity name="com.amaze.ad.AmazeAdPopOverActivity" configChanges="1184">
+<activity name="com.amaze.ad.AmazeAdInstreamVideoActivity" configChanges="1184">
+<activity name="Keyboard_Activity" theme="2131165252">
+3
+<service name="com.etnet.android.widget.MyWidgetService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service name=".gcm.GCMIntentService">
+<service name="com.etnet.android.iq.AppStatusService">
+4
+<receiver name="com.etnet.android.widget.IndexProviderOne" label="2131296834">
+<receiver name="com.etnet.android.widget.IndexProviderTwo" label="2131296835">
+<receiver name="com.etnet.android.widget.RecentSearchProvider" label="2131296836">
+<receiver name="com.etnet.gcm.GCMBroadcastReceiver" permission="com.google.android.c2dm.permission.SEND">
+0
+Owner: CN=Eson, OU=ETNet, O=Android Team, L=SZ, ST=GD, C=CN
+Issuer: CN=Eson, OU=ETNet, O=Android Team, L=SZ, ST=GD, C=CN
+Serial number: 4ea61840
+Valid from: Tue Oct 25 10:00:32 CST 2011 until: Sat Mar 12 10:00:32 CST 2039
+Certificate fingerprints: 
+	MD5:77:E8:95:C0:9A:F8:30:FA:45:08:3A:1F:00:D5:9E:9D
+	SHA1: 3C:A9:D8:42:17:CB:91:78:1A:93:80:E0:D2:43:31:9B:BB:C2:9A:12
+	SHA256: FA:EA:2D:FF:23:B3:D1:45:79:1F:5B:A7:1A:EE:7C:C8:64:D7:25:05:63:E5:75:94:07:CC:2A:36:7E:41:4B:8D
+	Signature algorithm name: SHA1withRSA
+	version: 3

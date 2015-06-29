@@ -1,0 +1,46 @@
+com.et.romotecontrol
+8
+1.5.0
+4
+4
+9
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+16
+<activity screenOrientation="1" name=".MobileControlerActivity" theme="16973830" configChanges="160" label="2131099648">
+<activity screenOrientation="1" name=".AboutSoftActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".MouseAndKeyBoardActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".MCComputerActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".MCMusicActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".MCMovieActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".MCPPTActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".MCToolsActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".MCConnActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.umeng.fb.ui.FeedbackConversations">
+<activity screenOrientation="1" name="com.umeng.fb.ui.FeedbackConversation" configChanges="160">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131230728" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.umeng.socialize.view.CommentActivity" theme="2131230729" configChanges="144">
+<activity name="com.umeng.socialize.view.CommentDetail" theme="2131230729" configChanges="144" noHistory="true">
+<activity name="com.umeng.socialize.view.CommentDetailNoMap" theme="2131230729" configChanges="144" noHistory="true">
+1
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+0
+0
+Owner: CN=zhang chongbiao, OU=yicha, O=yicha, L=chengdu, ST=sichuan, C=086
+Issuer: CN=zhang chongbiao, OU=yicha, O=yicha, L=chengdu, ST=sichuan, C=086
+Serial number: 4ee3050d
+Valid from: Sat Dec 10 15:06:53 CST 2011 until: Wed Dec 03 15:06:53 CST 2036
+Certificate fingerprints: 
+	MD5:A9:71:7B:9B:40:13:E5:7E:B1:D6:36:A2:B8:F4:F9:14
+	SHA1: B7:71:3F:78:0C:10:66:04:F6:D3:A2:D8:54:AD:E6:C4:2C:7A:BC:27
+	SHA256: 7D:86:EF:E9:5D:E7:CB:95:61:E4:24:00:35:DD:85:1B:56:01:E6:DB:D0:D0:D6:EC:A4:E3:3B:CB:CE:3B:B6:E9
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,335 @@
+im.yixin
+195
+2.9.7
+8
+18
+39
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_OWNER_DATA
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.RECORD_VIDEO
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+im.yixin.permission.YIXIN_BROADCAST
+android.permission.USE_SIP
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.INSTALL_SHORTCUT
+im.yixin.sdk.permission.YIXIN_SDK_MESSAGE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_CONFIGURATION
+264
+<activity screenOrientation="1" name="im.yixin.activity.WelcomeActivity" theme="2131558563" label="2131492887">
+<activity screenOrientation="1" name="im.yixin.activity.login.EntranceActivity" theme="2131558563" configChanges="128">
+<activity screenOrientation="1" name="im.yixin.activity.FeedbackActivity" configChanges="128" label="2131493201" windowSoftInputMode="4">
+<activity screenOrientation="1" name="im.yixin.activity.login.RegisterActivity" theme="2131558574" configChanges="128" label="2131493050" windowSoftInputMode="4">
+<activity screenOrientation="1" name="im.yixin.activity.login.multiport.MultiTerminalLoginConfirmActivity" configChanges="128" label="2131493138">
+<activity screenOrientation="1" name="im.yixin.activity.login.multiport.MultiTerminalLoginManageActivity" configChanges="128" label="2131493138">
+<activity screenOrientation="1" name="im.yixin.activity.login.CountrysAndRegionsActivity" configChanges="128" label="2131493130" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.activity.login.LoginActivity" theme="2131558574" configChanges="128" label="2131493046" windowSoftInputMode="2">
+<activity screenOrientation="1" name="im.yixin.activity.login.SimpleLoginActivity" theme="2131558574" configChanges="128" label="2131493046" windowSoftInputMode="4" launchMode="3">
+<activity screenOrientation="1" name="im.yixin.activity.login.ResetPasswordActivity" theme="2131558574" configChanges="128" label="2131493134">
+<activity screenOrientation="1" hardwareAccelerated="true" name="im.yixin.activity.main.MainTabActivity" theme="2131558570" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="im.yixin.activity.YixinProfileActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.SelfBusinessCardActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.official.OfficialAccountProfileActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.official.ReportCenterActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.official.PaSnsPermissionSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.official.PaPermissionSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.official.PaTeamListActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.official.PaTeamDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.YixinProfileModifyAliasActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.LocationAmapActivity" configChanges="160" label="2131493561">
+<activity screenOrientation="1" name="im.yixin.activity.NavigationAmapActivity" configChanges="160" label="2131494838">
+<activity screenOrientation="1" name="im.yixin.activity.LocationGoogleActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.MoreAppsActivity" configChanges="160" label="2131493494">
+<activity screenOrientation="1" name="im.yixin.favorite.activity.TextFavoriteDetailsActivity" configChanges="160" label="2131493336">
+<activity screenOrientation="1" name="im.yixin.favorite.activity.AudioFavoriteDetailsActivity" configChanges="160" label="2131493336">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsFeedDetailActivity" configChanges="160" label="2131493336" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsLongTextViewActivity" configChanges="160">
+<activity icon="2130838715" screenOrientation="1" name="im.yixin.activity.share.ShareToSnsActivity" theme="16973840" configChanges="160">
+<activity icon="2130838164" screenOrientation="1" name="im.yixin.activity.share.ShareToSessionActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.share.SelectShareContactActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.SelectCityCodeActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.message.list.PAMessageListShowActivity" configChanges="160" label="2131493980" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.message.P2PMessageActivity" theme="2131558566" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.carpool.activity.CarPoolMessageActivity" theme="2131558566" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.message.PublicMessageActivity" theme="2131558566" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.message.TeamMessageActivity" theme="2131558566" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.message.LocalContactMessageActivity" theme="2131558566" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.message.YiliaoMessageActivity" theme="2131558566" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.message.info.MessageInfoActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.ForwardSureActivity" theme="2131558618" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.message.VoiceMessageActivity" theme="2131558566" configChanges="160" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="im.yixin.activity.message.FileMessageActivity" theme="2131558566" configChanges="160" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="im.yixin.activity.message.info.TeamInfoActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="im.yixin.activity.message.ChooseReplyToWhenInputAtActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.team.PreviewTeamMemberMoreActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".activity.team.TeamBusinessCardActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.team.TeamAnnouncementSettingActivity" configChanges="160" label="2131493732" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.team.TeamMobileSettingActivity" configChanges="160" label="2131493733" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.team.TeamAddressBookActivity" configChanges="160" label="2131493733" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.filetrans.PreviewFileActivity" configChanges="160" label="2131493565" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.message.search.MessageHistorySearchActivity" theme="2131558539" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.team.TeamNicknameSettingActivity" configChanges="128" windowSoftInputMode="0">
+<activity screenOrientation="1" name="im.yixin.activity.AboutActivity" configChanges="128" label="2131493209">
+<activity screenOrientation="1" name="im.yixin.activity.TreatyActivity" configChanges="128" label="2131493289">
+<activity screenOrientation="1" name="im.yixin.activity.HiberSelectActivity" configChanges="160" label="2131493791" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.activity.DesktopMsglistActivity" theme="2131558563" configChanges="160" launchMode="3">
+<activity screenOrientation="1" name="im.yixin.activity.SelfQrCodeActivity" theme="2131558576" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".activity.team.TeamQrcodeResultActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.setting.PrivacySettingActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.setting.BlackListActivity" configChanges="160" label="2131493189">
+<activity screenOrientation="1" name="im.yixin.activity.AddFriendActivity" configChanges="160" label="2131493424" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.radar.RadarFriendsActivity" theme="2131558575" configChanges="144" label="2131493435">
+<activity screenOrientation="1" name="im.yixin.activity.barcode.CaptureYixinQRCodeActivity" theme="2131558576" label="2131493434">
+<activity screenOrientation="1" name="im.yixin.activity.barcode.CapturePABarcodeActivity">
+<activity hardwareAccelerated="true" name="im.yixin.activity.CustomWebView" theme="2131558577" configChanges="1152">
+<activity screenOrientation="1" hardwareAccelerated="true" name="im.yixin.pa.PAAccountWebView">
+<activity hardwareAccelerated="true" name="im.yixin.activity.official.PALightModeWebView" theme="2131558577" configChanges="1152">
+<activity screenOrientation="1" name="im.yixin.activity.setting.SettingsActivity">
+<activity screenOrientation="1" name="im.yixin.activity.setting.MessageFontSettingActivity" label="2131493298">
+<activity screenOrientation="1" name="im.yixin.activity.ChooseLockPasswordActivity" label="2131493898">
+<activity screenOrientation="1" name="im.yixin.activity.ConfirmLockPasswordActivity" label="2131493199" windowSoftInputMode="3">
+<activity screenOrientation="1" name="im.yixin.activity.setting.SelfProfileActivity" label="2131493246">
+<activity screenOrientation="1" name="im.yixin.activity.setting.SettingSecurityActivity" label="2131493247">
+<activity screenOrientation="1" name="im.yixin.activity.setting.ChangeMobileActivity" label="2131493224" windowSoftInputMode="0">
+<activity screenOrientation="1" name="im.yixin.activity.setting.ModifyPasswordActivity" label="2131493219" windowSoftInputMode="0">
+<activity screenOrientation="1" name="im.yixin.activity.SelfProfileModifyNickActivity" label="2131493399">
+<activity screenOrientation="1" name="im.yixin.activity.SettingSelfTeamNicknameActivity">
+<activity screenOrientation="1" name="im.yixin.activity.SelfProfileModifyRegionActivity">
+<activity screenOrientation="1" name="im.yixin.activity.SelfProfileModifySignatureActivity" windowSoftInputMode="4">
+<activity screenOrientation="1" name="im.yixin.activity.SelfProfileModifyGenderActivity" label="2131493217">
+<activity screenOrientation="1" name="im.yixin.activity.setting.SettingYixinIdActivity" label="2131492917">
+<activity screenOrientation="1" name="im.yixin.activity.LocalContactBusinessCardActivity">
+<activity screenOrientation="1" name="im.yixin.activity.YiliaoBusinessCardActivity">
+<activity screenOrientation="1" name="im.yixin.activity.YiliaoListActivity">
+<activity screenOrientation="1" name="im.yixin.activity.setting.LockAppSettingActivity" label="2131493273">
+<activity screenOrientation="1" name="im.yixin.activity.setting.FriendPermissionSettingActivity">
+<activity screenOrientation="1" name="im.yixin.activity.setting.SnsPermissionSettingActivity">
+<activity screenOrientation="1" name="im.yixin.activity.setting.FriendBlackListSettingActivity">
+<activity screenOrientation="1" name="im.yixin.activity.setting.SnsBlockListSettingActivity" label="2131493371">
+<activity screenOrientation="1" name="im.yixin.activity.setting.FriendMapListSettingActivity">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsSinglePermissionSettingActivity">
+<activity screenOrientation="1" name="im.yixin.activity.setting.ChattingSettingActivity">
+<activity screenOrientation="1" name="im.yixin.activity.setting.NotificationSettingActivity">
+<activity screenOrientation="1" name="im.yixin.activity.setting.NotificationDisturbSettingActivity">
+<activity screenOrientation="1" name="im.yixin.activity.AddFriendByLocalContactsActivity" label="2131493428">
+<activity screenOrientation="1" name="im.yixin.activity.music.activity.MusicSearchActivity" label="2131493554" windowSoftInputMode="32">
+<activity screenOrientation="1" name="im.yixin.activity.official.FindOfficialActivity" theme="2131558540" label="2131492925">
+<activity screenOrientation="1" name="im.yixin.activity.official.RecommendOfficialActivity" label="2131493980" windowSoftInputMode="32">
+<activity screenOrientation="1" name="im.yixin.activity.music.activity.MusicActivity" label="2131494396">
+<activity screenOrientation="1" name="im.yixin.activity.setting.BindYiliaoActivity" label="2131493458">
+<activity screenOrientation="1" name="im.yixin.activity.YixinCandidateActivity">
+<activity screenOrientation="1" name="im.yixin.activity.setting.ChattingBackgroundSettingActivity" label="2131493195">
+<activity name="im.yixin.activity.AndreaBocelli" exported="false">
+<activity name="im.yixin.activity.AboutInfoActivity" exported="false">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.activity.MailPushActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.activity.MailPlugEmailSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.activity.MailPlugFolderSettingActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.plugin.PlugMailFileExplorerUI" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.plugin.PlugMailReadUI" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.plugin.PlugMailContactUI" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.plugin.PlugMailComposeUI" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.plugin.PlugMailAddrUI" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.plugin.PlugMailAttachDownloadUI" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.plugin.PlugMailPreviewUI" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.plugin.PlugMailAttachBrowserUI" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.activity.MailPlugSettingActivity" configChanges="160" label="2131494771" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.activity.BindMailActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.mail.media.ActivityMovieView" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsTimelineActivity" theme="2131558571" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsNormalHomepageFragmentActivity" theme="2131558571" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.GlobalSearchActivity" theme="2131558539" configChanges="160" windowSoftInputMode="0">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsPublicHomepageFragmentActivity" theme="2131558571" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsPADetailsActivity" configChanges="160" label="2131494031" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsCircleNewMessageActivity" configChanges="160" label="2131493352" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsLikePersonListActivity" label="2131493307">
+<activity screenOrientation="1" name="im.yixin.plugin.game.activity.OAuthPermissionActivity">
+<activity screenOrientation="1" name="im.yixin.plugin.game.activity.OAuthPermissionSettingActivity">
+<activity screenOrientation="1" name="im.yixin.plugin.game.activity.AuthorizedGameListActivity">
+<activity screenOrientation="1" name="im.yixin.favorite.activity.FavoriteListActivity" label="2131493553" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsWritePostMsgActivity" configChanges="160" label="2131493357" windowSoftInputMode="3">
+<activity screenOrientation="1" name="im.yixin.plugin.sns.activity.SnsWriteMsgReviewPhotoActivity" theme="2131558576">
+<activity name="im.yixin.activity.ImageViewerActivity" theme="16973830">
+<activity screenOrientation="1" name=".activity.team.TeamQrCodeActivity" theme="2131558576">
+<activity screenOrientation="1" name="im.yixin.activity.PickImageActivity">
+<activity screenOrientation="1" name="im.yixin.activity.CropImageActivity" label="2131493005">
+<activity screenOrientation="1" name="im.yixin.media.picker.activity.PickerAlbumActivity">
+<activity screenOrientation="1" name="im.yixin.media.picker.activity.PickerAlbumPreviewActivity" theme="2131558576" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.AddBuddyVerifyReplyActivity" theme="16973840">
+<activity screenOrientation="1" name="im.yixin.plugin.sip.activity.SipCallActivity" theme="16973833" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".plugin.sip.activity.SipCallNormalECPRecordsActivity" label="2131494134" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name=".plugin.sip.activity.SipCallNormalRecordsActivity" label="2131494134" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="im.yixin.plugin.sip.activity.SipCallTimeRunOutActivity" label="2131494134" windowSoftInputMode="3">
+<activity screenOrientation="1" name="im.yixin.plugin.sip.activity.SipCallDialPanelActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".plugin.sip.activity.ECPCallWaitingActivity" theme="2131558665" windowSoftInputMode="3">
+<activity screenOrientation="1" name="im.yixin.plugin.sip.activity.MultiSelectCityCodeActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".plugin.sip.activity.ECPSipCallRecordDetailActivity" label="2131494160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="im.yixin.activity.GetSipInfoActivity" theme="16973840">
+<activity screenOrientation="1" name=".plugin.sip.activity.SipCallRecordsActivity" theme="16973840">
+<activity screenOrientation="1" name="im.yixin.plugin.voip.activity.VoipActivity" theme="16973834" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="im.yixin.plugin.voip.activity.OneBtnDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="im.yixin.plugin.map.activity.FriendsMapActivity" label="2131494854" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.map.activity.LocationPrivilegeSettingActivity" label="2131494850" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.map.activity.FriendsNotifyActivity" label="2131494887" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.activity.filetrans.FileDownloadActivity" label="2131493565" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.gamemsg.activity.GMGameListActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.gamemsg.activity.GMAddFriendByGameActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.gamemsg.activity.GMGameUserListActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.gamemsg.activity.GMGameMessageActivity" theme="2131558566" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.gamemsg.activity.GMGameMessageListShowActivity" windowSoftInputMode="34">
+<activity screenOrientation="1" name="im.yixin.plugin.gamemsg.activity.GMGameSettingsActivity" theme="2131558564" configChanges="160" label="2131494112">
+<activity screenOrientation="1" name="im.yixin.plugin.gamemsg.activity.GMGameSelfProfileActivity" theme="2131558564" configChanges="160" label="2131494112">
+<activity screenOrientation="1" excludeFromRecents="true" name="im.yixin.sdk.communication.YXEntryActivity" theme="2131558617" configChanges="1184" exported="true" launchMode="1">
+<activity screenOrientation="1" name="im.yixin.sdk.activity.ShareToSessionActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.share.youdao.activity.YdNoteAuthorize2Activity" configChanges="160" label="2131494333">
+<activity screenOrientation="1" name="im.yixin.internal.share.InternalShareToSessionActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.sticker.activity.StickerEditActivity" configChanges="160" label="2131494096">
+<activity screenOrientation="1" name="im.yixin.sticker.activity.StickerRecordActivity" configChanges="160" label="2131494103">
+<activity screenOrientation="1" name="im.yixin.sticker.activity.StickerShopActivity" configChanges="160" label="2131493509">
+<activity screenOrientation="1" name="im.yixin.sticker.activity.StickerShopDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.game.activity.GameCenterActivity" theme="2131558564" configChanges="160" label="2131494109">
+<activity screenOrientation="1" name="im.yixin.plugin.game.activity.GameDetailActivity" theme="2131558564" configChanges="160" label="2131494110">
+<activity screenOrientation="1" name="im.yixin.plugin.game.activity.GameDetailNativeActivity" theme="2131558564" configChanges="160" label="2131494110">
+<activity screenOrientation="1" name="im.yixin.activity.share.InviteFriendActivity" configChanges="164" label="2131494337">
+<activity screenOrientation="1" name="im.yixin.activity.invite.InviteMyCodeActivity" configChanges="164" label="2131494342">
+<activity screenOrientation="1" name="im.yixin.activity.invite.InviteFillCodeActivity" configChanges="128" label="2131494346">
+<activity screenOrientation="1" name="im.yixin.activity.share.WeiboAuthActivity" configChanges="160" label="2131493028">
+<activity screenOrientation="1" name="im.yixin.activity.share.ShareSubmitActivity" configChanges="164" windowSoftInputMode="36">
+<activity screenOrientation="1" name="im.yixin.activity.share.AddFriendByShareActivity" configChanges="164" label="2131492887">
+<activity screenOrientation="1" name="im.yixin.activity.share.BindingShareActivity" configChanges="164" label="2131492887">
+<activity screenOrientation="1" name=".sinaapi.SinaEntryActivity" configChanges="164" exported="true" label="2131492887" windowSoftInputMode="36">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" configChanges="164" exported="true" label="2131492887" windowSoftInputMode="36">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.BindCardFragmentActivity" theme="2131558567" configChanges="164" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.PasswordFragmentActivity" theme="2131558567" configChanges="164" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.ConfirmAddOrOpenCardActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.PasswordManageActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.SelectCardTypeActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.SelectCityActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.mycard.MyCardActivity" configChanges="164" launchMode="2">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.mycard.AllCardActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.mycard.CardDetailActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.PrePayActivity" theme="16973840" configChanges="164" launchMode="1">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.ConfirmOrderActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.QuickVerifyPayPasswordActivity" theme="16973840" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.WalletPayActivity" theme="16973840" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.VerifyPayMessageCodeActivity" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.TradeSuccessActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.PayTreatyActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.ChangeNewCardPayActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.TradeMessageActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.TradeMessageDetailActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.pay.TradePaymentInfoActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.withdraw.PreWithdrawActivity" theme="16973840" configChanges="164" launchMode="1">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.withdraw.QuickWithdrawActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.withdraw.WithdrawMessageListActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.withdraw.WalletWithdrawActivity" theme="16973840" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.withdraw.WithdrawMessageDetailActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.withdraw.WithdrawSuccessActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.wallet.activity.withdraw.SelectWithdrawCardActivity" configChanges="164">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.MainAskActivity" theme="2131558572" label="2131494397">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskShareParseActivity" theme="2131558572" label="2131494397">
+<activity screenOrientation="1" name="im.yixin.activity.CitySelectActivity" theme="2131558572" label="2131494504">
+<activity screenOrientation="1" name="im.yixin.activity.SearchFilterActivity" theme="2131558542" configChanges="160" windowSoftInputMode="0">
+<activity screenOrientation="1" name="im.yixin.plugin.carpool.activity.MainCarpoolActivity" theme="2131558573" label="2131494654">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskProfileActivity" theme="2131558572" label="2131494486">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskFirstLaunchActivity" theme="2131558572" label="2131494412">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskInfoModifyNickActivity" theme="2131558572" label="2131494417">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskSettingsActivity" theme="2131558572" label="2131494424">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskQuestionFilterActivity" theme="2131558572" label="2131494425" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="im.yixin.plugin.ask.activity.AskCategoryFilterActivity" theme="2131558572" label="2131494399" launchMode="1">
+<activity screenOrientation="1" hardwareAccelerated="true" name="im.yixin.plugin.ask.activity.AskQuestionsFilterActivity" theme="2131558572" label="2131494425" launchMode="1">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskDetailActivity" theme="2131558572" label="2131494426" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskDetailInvolvedWithMeActivity" theme="2131558572" label="2131494426" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskAnswerContactListActivity" theme="2131558572" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.plugin.ask.activity.AskPublishQuestionActivity" theme="2131558572" configChanges="148" label="2131494399" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="im.yixin.activity.UriLauncherActivity" theme="2131558563" launchMode="2">
+<activity screenOrientation="1" name="im.yixin.activity.message.media.CaptureVideoActivity" theme="2131558576" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.message.media.PreviewImageFromLocalActivity" theme="2131558576" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="im.yixin.activity.message.media.PreviewImageFromCameraActivity" theme="2131558576" configChanges="160" label="2131492970" windowSoftInputMode="18">
+<activity screenOrientation="1" hardwareAccelerated="true" name="im.yixin.plugin.meet.activity.MeetHomeActivity" theme="2131558575" configChanges="164" label="2131494537">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.MeetSetGenderActivity" theme="2131558575" label="2131494632">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.MeetSetPhotoActivity" theme="2131558575" label="2131494632">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.setting.MeetInteractionListActivity" label="2131494537">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.MeetEntryGuideActivity" theme="16973840">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.MeetNewGuideActivity" theme="16973840">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.MeetCardInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.MeetSettingActivity" theme="2131558671" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.setting.MeetSettingLoveActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.setting.MeetSettingSignatureActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.setting.MeetSettingFavouriteActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.setting.MeetSettingExtInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.setting.MeetSettingRegionActivity" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.setting.MeetSettingSayActivity" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.MeetSessionActivity" theme="2131558566" configChanges="160">
+<activity name="im.yixin.plugin.meet.activity.WatchMeetPictureActivity" theme="2131558576" configChanges="32">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.MeetInteractListActivity" configChanges="160" label="2131494548">
+<activity screenOrientation="1" name="im.yixin.plugin.meet.activity.MeetCallListActivity" configChanges="160" label="2131494604">
+<activity name="im.yixin.activity.media.watch.video.WatchMessageVideoActivity" theme="2131558576" configChanges="1184" label="2131493599">
+<activity name="im.yixin.activity.media.watch.video.WatchFavoriteVideoActivity" theme="2131558576" configChanges="1184" label="2131493599">
+<activity name="im.yixin.activity.media.watch.image.WatchAskPictureActivity" theme="2131558576" configChanges="32">
+<activity name="im.yixin.activity.media.watch.image.WatchFavoritePictureActivity" theme="2131558576" configChanges="32">
+<activity name="im.yixin.activity.media.watch.image.WatchMessagePictureActivity" theme="2131558576" configChanges="32">
+<activity name="im.yixin.activity.media.watch.image.WatchShareMessagePictureActivity" theme="2131558576" configChanges="32">
+<activity name="im.yixin.activity.media.watch.image.WatchSnsHomepagePictureActivity" theme="2131558576" configChanges="32">
+<activity name="im.yixin.activity.media.watch.image.WatchSnsPublicHomepagePictureActivity" theme="2131558576" configChanges="32">
+<activity name="im.yixin.activity.media.watch.image.WatchSnsSharePictureActivity" theme="2131558576" configChanges="32">
+<activity name="im.yixin.activity.media.watch.image.WatchSnsTimelinePictureActivity" theme="2131558576" configChanges="32">
+<activity name="im.yixin.activity.media.watch.image.WatchWebViewPictureActivity" theme="2131558576" configChanges="32">
+<activity screenOrientation="1" name="im.yixin.cooperation.YXCoOperActivity" theme="16973840">
+<activity screenOrientation="1" name=".activity.freeservice.FreeMessageServiceActivity" theme="2131558665" configChanges="160">
+<activity screenOrientation="1" name=".activity.freeservice.SipCallServiceActivity" theme="2131558665" configChanges="160">
+<activity screenOrientation="1" name=".activity.freeservice.PhoneMessageServiceActivity" theme="2131558665" configChanges="160">
+<activity screenOrientation="1" name="im.yixin.activity.RequestContactActivity" theme="16973840">
+<activity screenOrientation="1" name="im.yixin.activity.MobilePairActivity" theme="16973840">
+3
+<service process=":core" enabled="true" name="im.yixin.service.CoreService" exported="false" label="CoreService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="im.yixin.service.MusicService" label="MusicService">
+9
+<receiver name="im.yixin.plugin.voip.VoipBroadcastReceiver" exported="false">
+<receiver name="im.yixin.receiver.LogoutReceiver" exported="false">
+<receiver process=":core" name="im.yixin.service.watcher.BootWatcher">
+<receiver process=":core" name="im.yixin.service.watcher.AlarmWatcher" exported="false">
+<receiver process=":core" name="im.yixin.service.watcher.ConnectivityWatcher">
+<receiver process=":core" name="im.yixin.service.watcher.MountWatcher">
+<receiver name="im.yixin.stat.StatReceiver" exported="false">
+<receiver name="im.yixin.sdk.communication.AppRegisterReceiver">
+<receiver name="im.yixin.cooperation.YXCoOperReceiver" permission="im.yixin.permission.YIXIN_BROADCAST">
+0
+Owner: CN=chinatel
+Issuer: CN=chinatel
+Serial number: 50d3f283
+Valid from: Fri Dec 21 13:24:19 CST 2012 until: Sat Dec 09 13:24:19 CST 2062
+Certificate fingerprints: 
+	MD5:4F:E2:5A:55:3F:04:45:13:A2:E3:14:3F:42:0A:47:CE
+	SHA1: B6:F4:74:D0:FD:4E:62:4C:01:5C:73:96:D8:37:C9:26:D9:E1:09:BB
+	SHA256: 45:C9:74:1D:F5:67:38:42:A8:0A:C4:BD:BF:45:01:D9:4B:E5:04:79:F1:07:5E:28:CC:E8:12:D1:B2:C4:E8:8C
+	Signature algorithm name: SHA1withRSA
+	version: 3

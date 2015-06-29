@@ -1,0 +1,387 @@
+com.facishare.fs
+14677
+4.4.0
+9
+20
+35
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.SENSOR_ENABLE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RUN_INSTRUMENTATION
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SENSOR_INFO
+gexin.permission.GexinService
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.READ_OWNER_DATA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+322
+<activity screenOrientation="1" name="com.facishare.fs.IndexActivity" theme="16973840">
+<activity screenOrientation="1" name="com.facishare.fs.account_system.LoginActivity" label="2131296262" windowSoftInputMode="20" launchMode="2">
+<activity screenOrientation="1" name="com.facishare.fs.account_system.EasyLoginActivity" label="2131296262">
+<activity screenOrientation="1" name=".ui.FsHelperActivity" label="2131296262">
+<activity name=".ui.MultiImageLookActivity" label="2131296262">
+<activity screenOrientation="1" name=".ui.MultiImageGroupLookActivity">
+<activity name=".ui.SingleImageLookActivity" label="2131296262">
+<activity name=".ui.SingleImageMapActivity" label="2131296262">
+<activity screenOrientation="1" name=".ui.ShowPicActivity" label="2131296262">
+<activity screenOrientation="1" name="com.facishare.fs.account_system.ShowPicExActivity" theme="16973830" label="2131296262" launchMode="1">
+<activity screenOrientation="1" name=".MainTabActivity" theme="16973830" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".NoUpdateActivity" windowSoftInputMode="32">
+<activity screenOrientation="4" name=".ui.OfficeBrowserActivity" theme="2131558406" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.CheckWebActivity" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="0" name=".ui.PptPreViewActivity" theme="2131558406" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.remind.Remind" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.remind.RemindActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.MsgFileActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.MsgFileBCActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.ui.setting.AboutActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.ui.setting.FeedBackActivity" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.CircleOfEmployeeActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.PersonAtFrameActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.UserDownFileActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.UserAddContactActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.locationctrl.map.GaodeMapActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.locationctrl.map.MapAddressMoreSelectionActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.ImagePreviewActivity">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.EmpListWithStarTagActivity" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.EmpListInDepActivity" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.DepListWithStarTagActivity" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.SelectAtRangeActivity" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.SelectRangeOnlyEmpAndDepActivity" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.SelectSendRangeActivity" configChanges="32">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.SelectEmpActivity" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.SelectEmpForQixinActivity" configChanges="32" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.ShareRangeActivity">
+<activity screenOrientation="1" name=".ui.XShareRangeActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.XSendShareActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.SendWorkNoticeActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.SendAudioActivity" configChanges="160">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.XSendPlanActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.XSendReplyActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.XSendApproveActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_vote.CreateVoteActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.ApproveFormActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.XSendWorkActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.XSendEventActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.ApproveTravelBillActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.ApproveLoanBillActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.SelectCityActivity" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="4" name=".ui.OfficeActivity" theme="2131558406" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.DraftActivity">
+<activity screenOrientation="1" name=".ui.EncryptionActivity" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".ui.OperationReplyActivity">
+<activity screenOrientation="1" name=".ui.SendReplyActivity">
+<activity screenOrientation="1" name=".ui.PersonDetailActivity">
+<activity screenOrientation="1" name=".ui.XPersonDetailActivity">
+<activity screenOrientation="1" name=".ui.OperationApproveModifyPersonActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.OperationApproveAddPersonActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.account_system.RegUserActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.account_system.ResetPasswordActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.SetDepartmentActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.invite.InvitationColleagueActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.MobileMailListActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.AlbumActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.ImageGridViewActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.PhotoPoolActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.account_system.InitialSettingActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.account_system.CompulsoryPasswordActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.topic.TopicActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.topic.TopicRangeActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.topic.TopicSelectActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.schedule.ScheduleActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.schedule.SendScheduleActivity" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".ui.DayScheduleActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.todo.SendToDoActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.todo.ToDoActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.todo.TodoFragmentActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.CircleActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.CircleReciverActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.account_system.ShowGuideMapActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.account_system.ShowNewGuideMapActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.locationctrl.map.LocationMainActivity">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.locationctrl.map.LocationSendActivity">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.locationctrl.map.LocationActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.locationctrl.XLocationActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.locationctrl.map.SelectLocationActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.invite.InviteFriendActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.invite.InvitationActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.invite.InvitationTreatActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.invite.InvitationDetailActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.UploadLogFilesActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity">
+<activity screenOrientation="1" name=".ui.ContactInfoActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.HomeActivity" theme="2131558407">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.HomeSearchActivity">
+<activity screenOrientation="1" name=".ui.RangeInfoActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.FsNotificationActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.XFeedDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.ui.setting.SettingActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.setting.ContactSecuritySettingActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.setting.AtRemindSettingActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.setting.QRCodeActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.setting.LocationSettingActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.UpdatePwdActivity">
+<activity screenOrientation="1" name=".ui.XPersonDetailEditActivity">
+<activity screenOrientation="1" name=".ui.BindMobilePhoneActivity">
+<activity screenOrientation="1" name=".ui.ScreenshotZoomActivity">
+<activity screenOrientation="1" name=".ui.PersonDetailFloatActivity">
+<activity screenOrientation="1" name=".ui.PersonWorkReplyActivity">
+<activity screenOrientation="1" name=".ui.PersonResourceActivity2">
+<activity screenOrientation="1" name=".ui.XPersonTelEditActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.ShortMessageMainActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.SessionSearchResultActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.QixinSingleImageLookActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.QixinMultiImageLookActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.QixinMultiImageGroupLookActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.EmotionGifLookActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.GroupManageIndexActivity">
+<activity screenOrientation="1" name=".ui.message.GroupSetActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.SelectUserActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.OnlineUserActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.GroupNameUpdateActivity">
+<activity screenOrientation="1" name=".ui.map.MapCameraPhotoPreviewActivity">
+<activity screenOrientation="1" name=".ui.ConversationManageActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.SelectSessionActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.SelectSessionUserActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_vote.VoteActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_vote.AddVoteItemActivity" configChanges="160" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_vote.VoteNameListActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.SessionMsgActivity" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.SessionAttachFilesActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.image.ImageGridActivity" theme="2131558520">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.image.ImagePagerActivity" theme="2131558520">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_groupnotice.NoticeListFragmentActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_groupnotice.NoticeDetailActivity">
+<activity screenOrientation="1" name=".notice.NoticeComposeActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.SessionIntroduction">
+<activity screenOrientation="1" name="com.facishare.fs.contacts_fs.EmployeePickerActivity" theme="2131558520">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.GroupManageIndexBCActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.GroupNameUpdateBCActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.SelectPartnerBCActivity" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.SelectSessionBCActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.SelectUserBCActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.SelectUserBC2ndActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.SessionMsgBCActivity" configChanges="160" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.ShortMessageMainBCActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.QixinMultiImageLookBCActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.XPersonDetailBCActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_session_msg.subbiz_baichuan.SelectSessionUserBCActivity">
+<activity screenOrientation="1" name=".ui.SelectRangeActivity">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.ShowRangeActivity">
+<activity screenOrientation="1" name=".ui.SelectRangeShowActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.topic.MyTopicActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.topic.TopicListActivity">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.topic.TopicListNewActivity">
+<activity screenOrientation="1" name=".ui.CustomerSelectActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".ui.CustomerSelectShowActivity">
+<activity screenOrientation="1" name=".ui.ContactSelectActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".ui.ContactSelectShowActivity">
+<activity screenOrientation="1" name=".ui.CustomerContactSelectActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".crm.calendar.CrmCalendarActivity">
+<activity screenOrientation="1" name=".crm.customer.CrmCustomerManagerActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.customer.CrmContactListActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".crm.SelectContactActivity">
+<activity screenOrientation="1" name=".crm.SelectContactShowActivity">
+<activity screenOrientation="1" name=".crm.contact.ClientContactsTabActivity">
+<activity screenOrientation="1" name=".crm.contact.ClientNameActivity">
+<activity screenOrientation="1" name=".crm.contact.ClientTimeActivity">
+<activity screenOrientation="1" name=".crm.contact.ClientCompanyActivity">
+<activity screenOrientation="1" name=".crm.contact.SortActivity">
+<activity screenOrientation="1" name=".crm.contact.MpActivity">
+<activity screenOrientation="1" name=".crm.contact.ShowResultActivity">
+<activity screenOrientation="1" name=".crm.contact.ClientShareActivity">
+<activity screenOrientation="1" name=".crm.contact.ClientAddQueue">
+<activity screenOrientation="1" name=".crm.contact.ContactOfCustomersListActivity">
+<activity screenOrientation="1" name=".crm.customer.CrmCustomerDetailActivity" configChanges="1073741988" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name=".crm.customer.CustomerEventDetailActivity" launchMode="1">
+<activity screenOrientation="1" name=".crm.customer.CustomerEventListActivity">
+<activity screenOrientation="1" name=".crm.customer.CrmCustomerActivity">
+<activity screenOrientation="1" name=".crm.customer.CrmCustomerLowerCustomerActivity">
+<activity screenOrientation="1" name=".crm.customer.CrmCustomerLowerActivity">
+<activity screenOrientation="1" name=".crm.contact.ClientLowerActivity">
+<activity screenOrientation="1" name=".crm.customer.CrmClientContactActivity">
+<activity screenOrientation="1" name=".crm.customer.SelectTagActivity">
+<activity screenOrientation="1" name=".crm.customer.SelectRemindTimeActivity">
+<activity screenOrientation="1" name=".crm.contact.ContactInfoManagerActivity" configChanges="1073741988" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name=".crm.setting.CrmSettingActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.CrmSearchRepeatedActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.setting.CrmTagListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.setting.CrmTagActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".crm.setting.CrmTagEditActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.setting.CrmLeaderManageActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.setting.CrmLowerManageActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.CrmHomeActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.crm.CrmActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.ui.me.MeActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.FunctionActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.CrmAttachActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.CrmEditorActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.product.ProductActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.product.ProductInfoActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.product.ProductCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.product.ProductDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.product.ProductDetailEditActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.competitor.CompetitorActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.competitor.CompetitorInfoActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.CrmCheckOptionActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.competitor.CompetitorTagActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.competitor.OwnersActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.competitor.OwnersListSelectActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.competitor.CompetitorCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.competitor.CompetitorDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.competitor.CompetitorDetailEditActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.contract.ContractActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.contract.ContractInfoActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.contract.ContractOwnersActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.contract.ContractPaymentPlanActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.contract.ContractPaymentPlanCreateActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.contract.ContractPaymentPlanEditorActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.contract.ContractPaymentRecordActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.contract.ContractPaymentRecordCreateActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.contract.ContractPaymentRecordEditorActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.contract.ContractCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.contract.ContractDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.CrmChooseCustomerActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.OpportunityActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.SalesOpportunityListActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.OpportunityInfoActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.customer.CustomerCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.OpportunityCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.OpportunityDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.OpportunityCompetitorRelationCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.OpportunityProductRelationCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.SelectProductActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.SelectCompetitorActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.SelectContactActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.PreviewContactActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.PreviewProductActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.PreviewCompetitorActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.PreviewContractActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.OpportunityCompetitorRelationDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.opportunity.OpportunityProductRelationDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.contact.ContactInfoDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.contact.ContactFragmentActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.contact.ContactMyAllActivity">
+<activity screenOrientation="1" name=".crm.contact.ContactOppListActivity">
+<activity screenOrientation="1" name=".crm.contact.ContactShareListActivity">
+<activity screenOrientation="1" name=".crm.customer.CustomerFragmentActivity">
+<activity screenOrientation="1" name=".crm.customer.CustomerAllSubActivity">
+<activity screenOrientation="1" name=".crm.CrmContactSubActivity">
+<activity screenOrientation="1" name=".crm.ShowSalesTagActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.customer.CustomerInfoActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.customer.CustomerMyAllActivity">
+<activity screenOrientation="1" name=".crm.customer.CustomerLowerActivity">
+<activity screenOrientation="1" name=".crm.customer.CustomerOppListActivity">
+<activity screenOrientation="1" name=".crm.customer.CustomerContractListActivity">
+<activity screenOrientation="1" name=".crm.customer.CustomerContactListActivity">
+<activity screenOrientation="1" name=".crm.customer.CustomerProductListActivity">
+<activity screenOrientation="1" name=".crm.contact.ContactInfoCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.contact.ContactImportManagerActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".crm.contact.ContactInfoCrmActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.customer.CustomerDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.marketingevent.MarketingEventActivity">
+<activity screenOrientation="1" name=".crm.marketingevent.MarketInfoActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.marketingevent.MarketTagActivity">
+<activity screenOrientation="1" name=".crm.salesclue.SalesClueActivity">
+<activity screenOrientation="1" name=".crm.salesclue.SalesClueInfoActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.salesclue.SalesClueCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.salesclue.SalesClueDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.salesclue.SalesClueCreateOppActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.marketingevent.MarketingEventCreateActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.marketingevent.MarketingEventDetailActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".crm.customer.CustomerChooseContactListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ui.OpenBrowserActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".crm.CrmChartActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_send.XCRMSendShareActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.files.FilePreviewAllImageActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.files.FileSelectedActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.files.FileMainActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.files.FileBrowserActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.common_datactrl.files.FileMediaActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.ShowLikeListActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_remind.TimingMessageFragmentActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_remind.TimingMessageCreateActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.ui.remind.WorkRemindIndexActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_remind.WorkRemindInReserveActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_feed.subbiz_remind.WorkRemindFeedListActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.crm.CrmInfoActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_datareport.DRIndexFragmentActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_datareport.DRSendNewActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_datareport.DRDetailActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_datareport.DRMyDrtBakDataActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_datareport.DRMyDrtBakDatDetailAcitivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_datareport.DRRecordBrowserFragmentActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_datareport.DRUNSendActivity" windowSoftInputMode="35">
+<activity name="com.facishare.fs.biz_function.subbiz_datareport.DRShowModifyDataLogsActivity" windowSoftInputMode="35">
+<activity name="com.facishare.fs.biz_feed.subbiz_send.WorkListFormActivity" configChanges="144" windowSoftInputMode="19">
+<activity name="com.facishare.fs.biz_feed.subbiz_archive.MyFeedArchiveActivity" configChanges="144" windowSoftInputMode="19">
+<activity name="com.facishare.fs.biz_feed.subbiz_archive.MyFeedArchiveSearchActivity" configChanges="144" windowSoftInputMode="19">
+<activity name="com.facishare.fs.biz_feed.subbiz_archive.FeedArchiveManageTagActivity" configChanges="144" windowSoftInputMode="19">
+<activity name="com.facishare.fs.biz_feed.subbiz_archive.FeedArchiveEditTagActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.netdisk.NetDiskActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.netdisk.NetDiskReadedActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.netdisk.NetDiskSearchActivity" configChanges="144">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.netdisk.NetDiskFilePreViewActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.notice.NoticeBCHomeActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.notice.NoticeEvaluationDetailActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.notice.NoticeSearchActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.notice.NoticeEvaluationReplyActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.notice.NoticeDetailBCActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.notice.RichTextWebViewActivityBC" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.notice.SendRangeInfoActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.notice.SendNoticeReplyActivity" configChanges="144" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.photo.MultiImageLookActivityBC" label="2131296262">
+<activity screenOrientation="1" name="com.facishare.fs.biz_function.subbiz_baichuan.photo.SingleImageLookBCActivity" label="2131296262">
+<activity screenOrientation="4" name="com.facishare.fs.biz_function.subbiz_baichuan.office.OfficeBrowserActivityBC" theme="2131558406" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.facishare.fs.biz_function.subbiz_baichuan.office.OfficeActivityBC" theme="2131558406" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="0" name="com.facishare.fs.biz_function.subbiz_baichuan.office.PptPreViewActivityBC" theme="2131558406" configChanges="1184" windowSoftInputMode="32">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+4
+<service name="com.facishare.fs.common_datactrl.services.UpdateService">
+<service name="com.facishare.fs.common_datactrl.services.CardApkUpdateService">
+<service process=":pushservice" priority="1000" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+5
+<receiver name="com.fxiaoke.fxsocketlib.envctrl.FcpHeartBeatReceiver">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushReceiver" exported="false">
+<receiver name="com.facishare.fs.common_datactrl.push.GexinSdkMsgReceiver">
+<receiver name="com.facishare.fs.utils_fs.time.NetworkTimeReceiver">
+1
+<provider writePermission="com.facishare.baichuan.contact.WRITE" authorities="com.facishare.fs.baichuan.contact" name="com.facishare.fs.biz_function.subbiz_baichuan.contact.provider.BaichuanContactProvider" grantUriPermissions="true" exported="false" readPermission="com.facishare.baichuan.contact.READ" label="ContactsProvider">
+Owner: CN=Huiguo Zheng, OU=Develop Center, O="Beijing Facishare Technology CO., LTD.", L=Beijing, ST=Beijing, C=86
+Issuer: CN=Huiguo Zheng, OU=Develop Center, O="Beijing Facishare Technology CO., LTD.", L=Beijing, ST=Beijing, C=86
+Serial number: 5019f3ed
+Valid from: Thu Aug 02 11:28:45 CST 2012 until: Sat Feb 07 11:28:45 CST 2122
+Certificate fingerprints: 
+	MD5:57:16:4B:D2:6B:D2:D0:52:C7:69:02:07:58:2A:E9:5B
+	SHA1: E6:DF:D1:4D:EA:7E:A4:16:DA:64:FB:F9:F3:16:5B:49:CA:2B:F3:F5
+	SHA256: 0C:07:FC:1B:B0:52:83:A8:C8:58:85:1D:77:4E:82:0B:05:94:41:0E:67:BB:19:36:E3:E1:88:A5:E2:27:E5:BC
+	Signature algorithm name: SHA1withRSA
+	version: 3

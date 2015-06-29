@@ -1,0 +1,73 @@
+com.halfbrick.jetpackjoyridepaid
+1710
+1.7.1
+10
+14
+18
+android.permission.READ_EXTERNAL_STORAGE
+com.halfbrick.jetpackjoyride.permission.C2D_MESSAGE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+com.google.android.c2dm.permission.RECEIVE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+com.android.vending.BILLING
+android.permission.INTERNET
+com.android.vending.CHECK_LICENSE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+28
+<activity screenOrientation="0" name="com.halfbrick.mortar.MortarGameActivity" theme="16973831" configChanges="1184" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="6" name="com.halfbrick.mortar.NewsViewer" theme="16973831" configChanges="160">
+<activity name="com.mopub.mobileads.MoPubActivity" configChanges="160">
+<activity name="com.mopub.mobileads.MraidActivity" configChanges="160">
+<activity name="com.mopub.mobileads.MraidBrowser" configChanges="160">
+<activity name="com.mobclix.android.sdk.MobclixBrowserActivity" theme="16973840">
+<activity name="com.greystripe.sdk.GSFullscreenActivity" configChanges="176">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity name="com.inmobi.androidsdk.IMBrowserActivity" configChanges="176">
+<activity name="com.millennialmedia.android.MMActivity" theme="16973840" configChanges="176">
+<activity name="com.millennialmedia.android.VideoPlayer" configChanges="176">
+<activity name="com.jirbo.adcolony.AdColonyOverlay" theme="16973841" configChanges="160">
+<activity name="com.jirbo.adcolony.AdColonyFullscreen" theme="16973834" configChanges="160">
+<activity name="com.jirbo.adcolony.AdColonyBrowser" theme="16973834" configChanges="160">
+<activity name="com.vungle.sdk.VungleAdvert" theme="16973831" configChanges="1184">
+<activity name="com.skynet.android.user.ui.SkynetSettingsActivity" theme="16973831" configChanges="1184" windowSoftInputMode="35">
+<activity name="com.skynet.android.payment.taobao.ui.TaoBaoPayActitity" theme="16973841" configChanges="160" launchMode="2">
+<activity name="com.skynet.android.payment.frame.ui.SkynetPayActivity" theme="16973841" configChanges="1184">
+<activity name="com.skynet.android.impl.ui.SkynetAboutActivity" theme="16973831" configChanges="1184">
+<activity name="com.skynet.android.impl.ui.SkynetGuideActivity" theme="16973831" configChanges="1184">
+<activity name="com.skynet.android.impl.ui.SkynetSplashActivity" theme="16973831" configChanges="1184">
+<activity name="com.skynet.android.impl.ui.SkynetFeedbackActivity" theme="16973831" configChanges="1184">
+<activity name="cn.cmgame.billing.ui.GameOpenActivity" theme="16973831" configChanges="1184">
+<activity name="cn.egame.terminal.paysdk.EgamePayActivity" theme="16973841" configChanges="1184">
+<activity screenOrientation="4" name="com.alipay.sdk.app.H5PayActivity">
+<activity name="com.skynet.android.charge.frame.ui.SkynetChargeActivity" theme="16973831" configChanges="1184">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+4
+<service name="org.openudid.OpenUDID_service">
+<service name="com.halfbrick.mortar.BillingService">
+<service name="com.halfbrick.mortar.GCMIntentServiceFacebook">
+<service name="com.skynet.android.payment.frame.service.F1Service">
+3
+<receiver name="com.halfbrick.mortar.BillingReceiver">
+<receiver name="com.halfbrick.mortar.MortarGCMBroadcastReceiverFacebook" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="com.halfbrick.mortar.LocalNotification">
+0
+Owner: CN=iDreamSky, OU=iDreamSky, O=iDreamSky, L=Shenzhen, ST=Guangdong, C=CN
+Issuer: CN=iDreamSky, OU=iDreamSky, O=iDreamSky, L=Shenzhen, ST=Guangdong, C=CN
+Serial number: 4df190c0
+Valid from: Fri Jun 10 11:34:24 CST 2011 until: Sun Jun 02 11:34:24 CST 2041
+Certificate fingerprints: 
+	MD5:49:2E:1F:EF:AD:99:55:34:E9:56:9B:E2:A0:E8:89:DC
+	SHA1: 24:C0:F2:D7:A3:17:8A:55:31:C7:3C:09:93:A4:67:BE:1A:4A:F0:94
+	SHA256: A1:FD:F9:F3:21:EA:50:B3:E2:1A:AE:C5:05:59:C4:D1:9D:48:A2:44:B7:80:81:26:A4:7F:E8:6F:2B:61:AF:12
+	Signature algorithm name: SHA1withRSA
+	version: 3

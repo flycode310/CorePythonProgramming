@@ -1,0 +1,37 @@
+com.vgoapp.shuishuier.hotel
+5
+1.0
+7
+16
+16
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.CAMERA
+android.permission.RECORD_VIDEO
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+1
+<activity name="com.vgoapp.shuishuier.hotel.Hotel" theme="16973833" configChanges="1204" label="2131034112">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 50d01e20
+Valid from: Tue Dec 18 15:41:20 CST 2012 until: Thu Dec 11 15:41:20 CST 2042
+Certificate fingerprints: 
+	MD5:22:50:CB:55:57:CD:4B:A6:6B:F9:2B:34:9F:41:87:2F
+	SHA1: 75:BF:8A:EC:0E:70:BB:5B:4A:CC:2F:32:79:BA:87:04:16:5D:75:DA
+	SHA256: 35:D2:1B:BD:50:71:08:54:25:BF:23:13:C3:18:71:51:DA:3E:39:AF:1C:A5:B7:B7:DE:5B:A8:5C:FB:26:2E:C6
+	Signature algorithm name: SHA1withRSA
+	version: 3

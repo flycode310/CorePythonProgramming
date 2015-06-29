@@ -1,0 +1,46 @@
+com.orange.player
+10
+0.1
+11
+18
+10
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.MODIFY_AUDIO_SETTINGS
+11
+<activity icon="2130837671" name="org.videolan.vlc.gui.MainActivity" theme="2131492954" configChanges="1152" label="2131427343">
+<activity name="org.videolan.vlc.gui.CompatErrorActivity">
+<activity name="org.videolan.vlc.gui.SearchActivity" configChanges="1152" exported="false">
+<activity name="org.videolan.vlc.gui.AboutActivity" theme="2131492955">
+<activity name="org.videolan.vlc.gui.PreferencesActivity" theme="2131492955">
+<activity name="org.videolan.vlc.gui.BrowserActivity" theme="2131492956" label="2131427395">
+<activity name="org.videolan.vlc.gui.DebugLogActivity">
+<activity name="org.videolan.vlc.gui.video.MediaInfoActivity">
+<activity name="org.videolan.vlc.gui.video.VideoPlayerActivity" theme="2131492959" configChanges="1152">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+1
+<service name="org.videolan.vlc.AudioService">
+4
+<receiver name="org.videolan.vlc.PhoneStateReceiver">
+<receiver name="org.videolan.vlc.widget.VLCAppWidgetProvider" exported="false" label="VLC mini player">
+<receiver name="org.videolan.vlc.RemoteControlClientReceiver">
+<receiver name="com.google.ads.InstallReceiver" exported="true">
+0
+Owner: CN=Will Huang, OU=China, O=Orange, L=ShangHai, ST=ShangHai, C=CN
+Issuer: CN=Will Huang, OU=China, O=Orange, L=ShangHai, ST=ShangHai, C=CN
+Serial number: 38360649
+Valid from: Thu Feb 20 15:45:06 CST 2014 until: Mon Feb 14 15:45:06 CST 2039
+Certificate fingerprints: 
+	MD5:CA:C3:87:A4:0A:7D:68:B9:33:C5:D6:BE:29:21:71:76
+	SHA1: 7F:DD:7D:50:4F:0D:FC:C3:D5:89:C3:E1:B3:1E:EB:DC:00:4B:3F:F9
+	SHA256: F2:CB:CD:0B:F4:B5:1C:26:AA:62:64:59:5C:94:CE:B8:EC:7A:10:1B:52:F2:ED:6C:EC:9E:E7:13:4A:72:51:22
+	Signature algorithm name: SHA256withRSA
+	version: 3

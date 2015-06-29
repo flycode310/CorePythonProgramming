@@ -1,0 +1,74 @@
+com.ebnews
+21
+2.0.1
+8
+15
+15
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.ebnews.permission.MIPUSH_RECEIVE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+28
+<activity screenOrientation="1" name=".IndexActivity" label="2131296256">
+<activity screenOrientation="1" name=".ArticleListActivity">
+<activity screenOrientation="1" name=".ArticleDetailActivity">
+<activity screenOrientation="1" name=".ArticleCommentActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".SubManagementActivity">
+<activity screenOrientation="1" name=".SubHomeListActivity" launchMode="2">
+<activity screenOrientation="1" name=".LoginActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".MoreActivity">
+<activity name="com.tencent.tauth.TAuthView" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".ContactUsActivity">
+<activity screenOrientation="1" name="com.tencent.weibo.webview.OAuthV2AuthorizeWebView">
+<activity screenOrientation="1" name=".WebViewIntent">
+<activity screenOrientation="1" name=".ShareSetActivity">
+<activity screenOrientation="1" name=".CollectActivity">
+<activity screenOrientation="1" name=".TopicActivity">
+<activity screenOrientation="1" name=".GuideActivity">
+<activity screenOrientation="1" name=".HeadlineListActivity">
+<activity screenOrientation="1" name=".EbnewsWebActivity">
+<activity screenOrientation="1" name=".UpdateAppTipDialog" theme="2131361881">
+<activity screenOrientation="1" name=".ShareActiviy" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".ImageShowActivity">
+<activity screenOrientation="1" name=".FeedBackActivity">
+<activity screenOrientation="1" name=".AppsActivity">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131361807" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+6
+<service enabled="true" name=".service.HttpService">
+<service enabled="true" name=".service.CheckVersionService">
+<service enabled="true" name=".service.DownloadAppService">
+<service process="com.ebnews.offlineservice" enabled="true" name=".service.OfflineService" exported="false">
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+4
+<receiver name=".receiver.EbnewsReceiver">
+<receiver name="com.xiaomi.mipush.sdk.PushServiceReceiver" exported="true">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+1
+<provider authorities="com.ebnews.provider.Ebnews" multiprocess="false" name=".provider.EbnewsProvider" syncable="false">
+Owner: CN=亿邦动力网, OU=www.ebrun.com, O=www.ebrun.com, L=北京, ST=北京, C=CN
+Issuer: CN=亿邦动力网, OU=www.ebrun.com, O=www.ebrun.com, L=北京, ST=北京, C=CN
+Serial number: 51356a4f
+Valid from: Tue Mar 05 11:45:19 CST 2013 until: Wed Dec 07 11:45:19 CST 2067
+Certificate fingerprints: 
+	MD5:68:31:06:FA:90:9B:88:F0:7D:3A:FB:85:11:2A:2C:14
+	SHA1: 50:B3:D5:94:15:2D:45:32:7F:D2:6C:0E:F1:F9:4F:01:98:B2:0B:F8
+	SHA256: 90:9B:12:8F:3A:57:C4:DE:58:DD:6C:E3:44:AF:EB:7D:20:84:5A:00:71:9F:CB:92:58:28:D6:E6:FF:6F:97:5A
+	Signature algorithm name: SHA1withRSA
+	version: 3

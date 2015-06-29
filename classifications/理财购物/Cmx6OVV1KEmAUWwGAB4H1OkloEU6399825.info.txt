@@ -1,0 +1,29 @@
+com.jrj.android.pad.hc.jrjfree
+1
+1.2.0
+11
+-1
+8
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RESTART_PACKAGES
+android.permission.WAKE_LOCK
+1
+<activity screenOrientation="6" name="MainActivity" label="2131165195" windowSoftInputMode="48">
+0
+0
+0
+Owner: CN=jrj, OU=jrj, O=jrj, L=beijing, ST=china, C=86
+Issuer: CN=jrj, OU=jrj, O=jrj, L=beijing, ST=china, C=86
+Serial number: 4e38f128
+Valid from: Wed Aug 03 14:56:40 CST 2011 until: Fri Jul 26 14:56:40 CST 2041
+Certificate fingerprints: 
+	MD5:7C:22:B2:99:B6:73:4D:41:C7:6A:D7:C8:47:5C:1C:CC
+	SHA1: 1A:6A:EC:66:3E:11:C1:20:AA:A7:8C:B4:34:02:9C:8D:34:C5:59:03
+	SHA256: CC:77:B1:FE:ED:6B:FD:76:D6:1C:D5:84:25:1F:2A:90:63:D4:62:E4:78:6D:D9:F9:4B:61:6A:B9:3C:7C:5B:25
+	Signature algorithm name: SHA1withRSA
+	version: 3

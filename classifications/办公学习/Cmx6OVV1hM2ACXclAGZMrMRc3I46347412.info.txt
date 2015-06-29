@@ -1,0 +1,70 @@
+com.netease.newsreader.activity
+267
+3.5.0
+5
+15
+18
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_APN_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+com.netease.newsreader.permission.READ
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.netease.newsreader.permission.WRITE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.CHANGE_CONFIGURATION
+11
+<activity screenOrientation="1" name="com.netease.nr.biz.ad.AdActivity" theme="2131296266" configChanges="160" label="2131427328">
+<activity name="com.netease.nr.base.activity.BaseActivity" theme="2131296265" configChanges="160">
+<activity name="com.netease.nr.base.activity.BaseNoAnimationActivity" configChanges="160">
+<activity name="com.netease.nr.phone.main.MainActivity" theme="2131296265" configChanges="160" launchMode="2">
+<activity screenOrientation="0" name="com.netease.nr.biz.plugin.video.VideoPlayActivity" theme="16973831" configChanges="160">
+<activity name="com.netease.nr.biz.news.detailpage.NewsPageActivity" theme="2131296265" configChanges="160" windowSoftInputMode="2">
+<activity name="com.netease.nr.biz.fb.FeedBackList" theme="2131296265" configChanges="160" label="2131427328" launchMode="1">
+<activity name="com.netease.nr.biz.fb.FeedBackDetailList" theme="2131296265" configChanges="160">
+<activity name="com.netease.nr.biz.fb.CreateNewFeedBack" theme="2131296265" configChanges="160" windowSoftInputMode="20" launchMode="1">
+<activity name="com.netease.nr.tablet.main.MainActivity" theme="2131296265" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+12
+<service name="com.netease.nr.biz.offline.OffLineService" exported="false">
+<service name="com.netease.nr.biz.download.DownloadService" exported="false">
+<service name="com.netease.nr.biz.update.AppUpdateService" exported="false">
+<service name="com.netease.nr.biz.push.PushService" exported="true">
+<service name="com.netease.nr.biz.widget.WidgetService4x2">
+<service name="com.netease.nr.biz.widget.WidgetService4x3">
+<service name="com.netease.nr.biz.widget.WidgetService4x1">
+<service name="com.netease.nr.biz.widget.WidgetService4x4">
+<service name="com.netease.nr.biz.offline.SyncDealImageService" exported="false">
+<service name="com.netease.nr.biz.offline.SyncDealImageTwoService" exported="false">
+<service name="com.netease.nr.biz.offline.SyncDealImageThreeService" exported="false">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+7
+<receiver enabled="true" name="com.netease.util.cache.SDcardStateReceiver" exported="false">
+<receiver name="com.netease.nr.biz.fb.FeedBackReceiver">
+<receiver name="com.netease.nr.biz.push.PushReceiver">
+<receiver name="com.netease.nr.biz.widget.WidgetProvider_4_2" label="2131427699">
+<receiver name="com.netease.nr.biz.widget.WidgetProvider_4_3" label="2131427700">
+<receiver name="com.netease.nr.biz.widget.WidgetProvider_4_1" label="2131427698">
+<receiver name="com.netease.nr.biz.widget.WidgetProvider_4_4" label="2131427701">
+2
+<provider writePermission="com.netease.newsreader.permission.WRITE" authorities="com.netease.newsreader" name="com.netease.nr.base.db.BaseContentProvider" exported="false" readPermission="com.netease.newsreader.permission.READ">
+<provider writePermission="com.netease.newsreader.permission.WRITE" authorities="com.netease.newsreader.provider.feedback" name="com.netease.nr.biz.fb.FeedBackProvider" readPermission="com.netease.newsreader.permission.READ">
+Owner: CN=netease, OU=www.163.com, O=www.163.com, L=beijing, ST=beijing, C=CN
+Issuer: CN=netease, OU=www.163.com, O=www.163.com, L=beijing, ST=beijing, C=CN
+Serial number: 4d748f31
+Valid from: Mon Mar 07 15:54:25 CST 2011 until: Fri Jul 23 15:54:25 CST 2038
+Certificate fingerprints: 
+	MD5:F2:7C:25:D9:08:DA:82:8D:F0:29:EB:61:1A:3D:7B:CA
+	SHA1: 05:E7:8C:7D:E5:8D:F1:CC:C6:33:24:38:EB:B5:C3:24:E6:3D:C3:02
+	SHA256: DF:C4:45:FE:6B:FD:96:44:EC:67:D4:40:82:22:06:D3:E9:73:5A:30:D5:0A:53:35:E0:84:F2:11:7E:5C:93:52
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,39 @@
+com.er.tong.jiaotong
+3
+1.2
+4
+18
+12
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+7
+<activity name="com.baidu.mobads.AppActivity" configChanges="176">
+<activity name="com.er.tong.jiaotong.MainActivity" theme="16973834" label="2131230720">
+<activity screenOrientation="1" name=".ContentPage" theme="16973834" configChanges="160">
+<activity screenOrientation="1" name=".Test" theme="16973834" configChanges="160">
+<activity screenOrientation="1" name="com.er.tong.jiaotong.memorygame.MemoryGame" theme="16973834" configChanges="160">
+<activity screenOrientation="1" name=".MoreProducts" theme="16973834" configChanges="160">
+<activity screenOrientation="1" name="com.er.tong.jiaotong.boot.AndyViewPagerActivity" theme="16973834">
+0
+0
+0
+Owner: CN=王烈庆, OU=skyworth, O=sky, L=深圳, ST=广东, C=CN
+Issuer: CN=王烈庆, OU=skyworth, O=sky, L=深圳, ST=广东, C=CN
+Serial number: 515a8679
+Valid from: Tue Apr 02 15:19:21 CST 2013 until: Wed Jan 04 15:19:21 CST 2068
+Certificate fingerprints: 
+	MD5:6F:71:DA:3E:08:78:77:7D:49:F8:EA:21:85:0F:57:40
+	SHA1: AE:88:BD:BA:64:F6:B2:09:DE:2D:6B:EC:C8:53:FC:C8:E0:C7:1A:C8
+	SHA256: A4:F8:79:D0:86:AA:57:85:72:CF:1D:91:75:50:F8:70:C6:8A:A8:A5:44:D1:A8:C0:F1:A0:E4:BA:E1:D1:49:21
+	Signature algorithm name: SHA1withRSA
+	version: 3

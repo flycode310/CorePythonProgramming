@@ -1,0 +1,60 @@
+com.jl.activity
+1
+1.0
+10
+17
+19
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+20
+<activity name="com.jl.activity.SplashActivity" theme="16973830" label="2131230726">
+<activity screenOrientation="1" name="com.jl.activity.MainActivity" theme="16973830" configChanges="160">
+<activity name="com.jl.activity.AboutUsActivity" theme="16973830">
+<activity name="com.jl.activity.DemandRecommendActivity" theme="16973830">
+<activity name="com.jl.activity.WaitForYouActivity" theme="16973830">
+<activity name="com.jl.activity.WaitForYouAbstractActivity" theme="16973830">
+<activity name="com.jl.activity.UserLoginActivity" theme="16973830">
+<activity name="com.jl.activity.UserRegisteActivity" theme="16973830">
+<activity name="com.jl.activity.UserCenterActivity" theme="16973830">
+<activity name="com.jl.activity.CompanyNewsActivity" theme="16973830">
+<activity name="com.jl.activity.ProductRecommendActivity" theme="16973830">
+<activity name="com.jl.activity.UserProductOrderActivity" theme="16973830">
+<activity name="com.jl.activity.ProductDetailsActivity" theme="16973830">
+<activity name="com.jl.activity.CooperationDetailsActivity" theme="16973830">
+<activity name="com.jl.activity.UserManagerActivity" theme="16973830" windowSoftInputMode="2">
+<activity name="com.jl.activity.CompanyIntruActivity" theme="16973830">
+<activity name="com.jl.activity.HotelForPage4" theme="16973830">
+<activity name="com.jl.activity.WebViewActivity" theme="16973830">
+<activity screenOrientation="1" name="com.dree.baidu.map.LocationOverlayDemo" theme="16973830" configChanges="160">
+<activity name="com.baidu.mapapi.search.PlaceCaterActivity" theme="16973830" configChanges="160">
+1
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+0
+0
+Owner: CN=jl
+Issuer: CN=jl
+Serial number: 521cad50
+Valid from: Tue Aug 27 21:44:48 CST 2013 until: Thu Aug 03 21:44:48 CST 2113
+Certificate fingerprints: 
+	MD5:1F:A6:C1:5F:A4:BD:F3:14:B5:7A:F6:4B:A3:05:F4:A3
+	SHA1: FA:44:EE:22:F4:64:4B:A2:C4:F1:3E:42:93:88:38:E2:AD:45:C7:66
+	SHA256: 99:FC:92:16:B0:5D:BC:1E:3F:0F:2A:34:8F:3C:03:CE:61:E7:6A:E0:02:AE:B8:E1:93:84:5A:E1:22:57:3F:72
+	Signature algorithm name: SHA1withRSA
+	version: 3

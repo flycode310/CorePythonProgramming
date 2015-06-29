@@ -1,0 +1,40 @@
+com.lx.ppf7fefa
+1
+1.0
+4
+-1
+14
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.CHANGE_CONFIGURATION
+6
+<activity name="com.lexun.joke.DayJokeAct" theme="16973831" label="2131230720">
+<activity name="com.lexun.joke.ShowAct" theme="16973831">
+<activity name="com.lexun.joke.ShowObject" theme="16973831">
+<activity name="com.lexun.joke.AdsAct" theme="16973831">
+<activity name="com.lexun.joke.ImageSwitcherAct" theme="16973831">
+<activity name="com.lexun.download.DownloadManagerAct" theme="16973831" label="2131230720">
+0
+0
+0
+Owner: CN=lexun, OU=lexun, O=lexun, L=shenzhen, ST=guangdong, C=cn
+Issuer: CN=lexun, OU=lexun, O=lexun, L=shenzhen, ST=guangdong, C=cn
+Serial number: 4e293e5a
+Valid from: Fri Jul 22 17:09:46 CST 2011 until: Sat Apr 24 17:09:46 CST 2066
+Certificate fingerprints: 
+	MD5:91:3B:F4:51:9E:C7:70:A3:D6:4A:77:10:99:2D:90:7D
+	SHA1: 69:8D:54:B0:9D:23:D9:FE:C6:5F:EC:3A:B1:8D:0B:12:D5:E9:31:F6
+	SHA256: 0D:1E:FC:25:DC:90:15:BE:4F:9F:D9:95:97:57:6C:92:4E:A3:FD:39:EA:48:F8:55:70:B1:9E:BF:B6:6F:23:42
+	Signature algorithm name: SHA1withRSA
+	version: 3

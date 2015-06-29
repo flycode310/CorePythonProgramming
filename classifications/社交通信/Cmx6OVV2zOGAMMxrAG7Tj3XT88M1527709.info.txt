@@ -1,0 +1,222 @@
+ect.emessager.email
+33
+3.12.33.1871
+8
+8
+32
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.BROADCAST_STICKY
+ect.emessager.email.permission.READ_MESSAGES
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.FORCE_STOP_PACKAGES
+android.permission.REORDER_TASKS
+org.thialfihar.android.apg.permission.READ_KEY_DETAILS
+ect.emessager.email.permission.READ_ATTACHMENT
+android.permission.INTERNET
+android.permission.READ_SYNC_SETTINGS
+android.ACCESS_NETWORK_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+ect.emessager.email.permission.REMOTE_CONTROL
+ect.emessager.email.permission.DELETE_MESSAGES
+com.android.launcher.permission.WRITE_SETTINGS
+135
+<activity screenOrientation="1" name="ect.emessager.email.activity.Accounts" label="2131362223" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.email.Scroll.MyScrollLayout">
+<activity screenOrientation="1" name="ect.emessager.email.Scroll.OnViewChangeListener">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ImageHelpActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="ect.emessager.email.activity.setup.Prefs" theme="2131427355" configChanges="4" label="2131362297" taskAffinity="ect.emessager.email.activity.setup.Prefs" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.FontSizeSettings" theme="2131427355" configChanges="4" label="2131362755">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.AccountSetupBasics" label="2131362395">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.AccountSetupAccountType" configChanges="4">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.AccountSetupIncoming" configChanges="4" label="2131362415">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.AccountSetupComposition" configChanges="4">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.AccountSetupOutgoing" configChanges="4" label="2131362452">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.AccountSetupOptions" configChanges="4" label="2131362461">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.AccountSetupNames" configChanges="4" label="2131362406">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ChooseFolder" theme="2131427354" configChanges="4" label="2131362226" noHistory="true">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ChooseIdentity" theme="2131427354" configChanges="4" label="2131362660">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ChooseAccount" theme="2131427354" label="2131362661">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ManageIdentities" configChanges="4" label="2131362630">
+<activity screenOrientation="1" name="ect.emessager.email.activity.EditIdentity" configChanges="4" label="2131362632">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.AccountSetupCheckSettings" configChanges="164" label="2131362401">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.AccountSettings" theme="2131427355" configChanges="4" label="2131362509">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.FolderSettings" theme="16973835" configChanges="4" label="2131362590">
+<activity screenOrientation="1" name="ect.emessager.email.activity.FolderList" configChanges="4" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.email.activity.MessageList" theme="2131427363" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.email.activity.MessageStarList" theme="2131427363" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.setup.QQEmailSetupUnSuccess" configChanges="160">
+<activity screenOrientation="1" name=".activity.ChoicePregrammer" configChanges="160">
+<activity screenOrientation="1" name="ect.emessager.email.activity.GraffitiEmailActivity" configChanges="160">
+<activity name=".activity.GraffitiMiniEditor" theme="2131427361" configChanges="180">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ComposeEMail" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.LoveRecommend" configChanges="160">
+<activity screenOrientation="1" name="ect.emessager.email.activity.FWConfirmationActivity">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ModifyPWAnswerActivity" windowSoftInputMode="4">
+<activity screenOrientation="1" name="ect.emessager.email.activity.EMailConversationList" configChanges="160">
+<activity name="ect.emessager.email.activity.MessageView" theme="16973836" configChanges="160">
+<activity screenOrientation="1" name="ect.emessager.email.activity.Search" configChanges="4" label="2131362265">
+<activity screenOrientation="1" name="ect.emessager.email.activity.LauncherShortcuts" configChanges="4" label="2131362223">
+<activity screenOrientation="1" name="ect.emessager.email.activity.AccessibleEmailContentActivity">
+<activity screenOrientation="1" name="ect.emessager.email.view.VerifySignActivity" theme="2131427331" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.main.control.YYCheckActivity" theme="2131427331" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.email.activity.EntryPassword">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ShowActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.InputActiveCodeActivity" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.email.activity.EntryActivity" configChanges="128" windowSoftInputMode="4">
+<activity screenOrientation="1" name="ect.emessager.email.activity.FcJump" configChanges="128" windowSoftInputMode="32">
+<activity screenOrientation="1" hardwareAccelerated="false" name="ect.emessager.email.activity.EMailFunctionList" launchMode="2">
+<activity screenOrientation="1" name=".activity.ESpace" configChanges="160">
+<activity screenOrientation="1" name="ect.emessager.email.activity.PreferenceActivity_CheckUpdate" configChanges="160">
+<activity screenOrientation="1" name="ect.emessager.email.activity.Settings">
+<activity screenOrientation="1" name="ect.emessager.main.emoney.EMoneyOptionActivity">
+<activity screenOrientation="1" name="ect.emessager.main.emoney.EMoneyViewActivity">
+<activity screenOrientation="1" name="ect.emessager.main.emoney.EMoneyWebViewActivity">
+<activity screenOrientation="1" name="ect.emessager.main.emoney.InputInviteEidActivity">
+<activity screenOrientation="1" name="ect.emessager.email.view.DestroyMessageActionActivity" theme="2131427331">
+<activity screenOrientation="1" name="ect.emessager.email.view.MoveToDraftActivity" theme="2131427331">
+<activity screenOrientation="1" name="ect.emessager.email.activity.SecurePreventThift">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ExitAction" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.email.SecurePrevent.PreventThiefPhone" windowSoftInputMode="4">
+<activity screenOrientation="1" name=".SecurePrevent.ModifySecurePassword">
+<activity screenOrientation="1" name=".SecurePrevent.ChangeEntry" windowSoftInputMode="4">
+<activity screenOrientation="1" name=".SecurePrevent.StorageEncryption">
+<activity screenOrientation="1" name=".SecurePrevent.ChoicePreventThiefPassword">
+<activity screenOrientation="1" name=".SecurePrevent.RemoteOperate">
+<activity screenOrientation="1" name=".SecurePrevent.HandleMode">
+<activity screenOrientation="1" name=".SecurePrevent.PreventTheftSetting">
+<activity screenOrientation="1" name=".SecurePrevent.EnterSecureMode">
+<activity screenOrientation="1" name=".SecurePrevent.DecryptionMode">
+<activity screenOrientation="1" name=".SecurePrevent.EasyPreventTheft" windowSoftInputMode="4">
+<activity screenOrientation="1" name=".SecurePrevent.PhoneLocking" theme="16973920" launchMode="2">
+<activity screenOrientation="1" name=".activity.ELActivity">
+<activity screenOrientation="1" name=".SecurePrevent.EmailEntry">
+<activity screenOrientation="1" name=".activity.TimeEmail">
+<activity screenOrientation="1" name=".activity.AdvertiseSetting" theme="2131427331">
+<activity screenOrientation="1" name=".activity.TransmissionEncrypt">
+<activity screenOrientation="1" name="security.Setting.Activity.PhoneLocking" theme="16973920">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.ShakeOneShakeSetting">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" exported="true">
+<activity screenOrientation="1" name=".wx.ShowFromWXActivity">
+<activity screenOrientation="1" name="ect.emessager.main.emoney.pay.YiBaoPayWebView">
+<activity screenOrientation="1" name="ect.emessager.email.activity.MainActivity" configChanges="160" label="2131362218" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.email.activity.EMailContactList" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".activity.EMailCreateAccounts" launchMode="2">
+<activity screenOrientation="1" name=".activity.EMailContactEditActivity">
+<activity screenOrientation="1" name=".activity.AlertAutoDownloadActivity" theme="2131427331">
+<activity screenOrientation="1" name=".activity.ChoiceStartMode">
+<activity screenOrientation="1" name=".activity.CancelUpdateActivity" theme="2131427331" configChanges="160">
+<activity screenOrientation="1" name="ect.emessager.email.activity.ErrorActivity" theme="16973835">
+<activity screenOrientation="1" name="ect.emessager.email.activity.About">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.NotificationSettings" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.SotrageSettings" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.DisplaySettings" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.CompositionSettings" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.SyncSettings" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.GlobalSetting" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.BackgrountSettings" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.InteractionSettings" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.email.activity.MPreventPassword" windowSoftInputMode="4">
+<activity screenOrientation="1" name="ect.emessager.email.activity.BroadcastMessageList" launchMode="2">
+<activity screenOrientation="1" name="ect.emessager.email.activity.VIPTest">
+<activity screenOrientation="1" name="ect.emessager.email.activity.CameraPictureActivity">
+<activity screenOrientation="1" name="ect.emessager.email.activity.CheckEMailMode">
+<activity screenOrientation="1" name="ect.emessager.email.activity.setup.MessagelistShowMode">
+<activity screenOrientation="1" name="ect.emessager.email.activity.IntroductionHelp" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.email.activity.SoftIntroduction" theme="2131427355">
+<activity screenOrientation="1" name="ect.emessager.main.pay.AliPayActivity">
+<activity name="com.paypal.android.MEP.PayPalActivity" theme="16973840" configChanges="160">
+<activity name="ect.emessager.main.pay.samsung.SamsungPayActivity">
+<activity screenOrientation="1" name=".store.ui.InputActiveCodeActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.StoreNaviActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.PayTypeChooseActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.AboutConsumeEmoneyActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.AboutConsumeEmoneyRecordActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.AboutGetEmoneyActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.AboutGetEmoneyRecordActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.AboutProductActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.AboutSuperProductActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.AboutEliteProductActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.AboutPublicProductActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.AboutFreeProductActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.EmoneySetActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.InputPersentCodeActivity">
+<activity name="ect.emessager.main.store.ui.AboutConsumeOrderRecordActivity">
+<activity name="ect.emessager.main.store.ui.AboutConsumeRecorDetailsdActivity">
+<activity name="ect.emessager.main.user.ui.AboutFreeGetVipActivity">
+<activity name="ect.emessager.main.shareui.NoticeActivity" theme="2131427331" launchMode="2">
+<activity name="ect.emessager.main.shareui.MyActivityDialog" theme="2131427331">
+<activity screenOrientation="1" name="ect.emessager.main.user.ui.UserCenterActivity">
+<activity screenOrientation="1" name="ect.emessager.main.user.ui.AlterEidPwdActivity" theme="2131427328">
+<activity screenOrientation="1" name="ect.emessager.main.user.ui.BindEmailActivity">
+<activity screenOrientation="1" name="ect.emessager.main.user.ui.retrievePwdChooseUidActivity">
+<activity screenOrientation="1" name="ect.emessager.main.user.ui.retrievePwdActivity" theme="2131427328">
+<activity screenOrientation="1" name="ect.emessager.main.user.ui.InputEidActivity">
+<activity screenOrientation="1" name="ect.emessager.main.user.ui.RetrieveEidActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.StoreActivity" label="2131362218">
+<activity name="ect.emessager.serve.update.DownActivity">
+<activity screenOrientation="1" name="ect.emessager.main.store.ui.StoreNaviActivity">
+17
+<service name="ect.emessager.email.SecurePrevent.SettingsOperateService">
+<service enabled="true" name="ect.emessager.email.service.BootStrapStartUpService">
+<service enabled="true" name="ect.emessager.email.service.ExistMomentService">
+<service name="ect.emessager.email.service.SensorReceiver">
+<service enabled="true" name="ect.emessager.email.service.MailService">
+<service enabled="true" name="ect.emessager.email.service.PushService">
+<service enabled="true" name="ect.emessager.email.service.PollService">
+<service enabled="true" name=".service.SendSMTSService">
+<service enabled="true" name="ect.emessager.email.service.DownLoadService">
+<service enabled="true" name=".service.CheckUpdateMessageService">
+<service enabled="true" name=".service.RestartService">
+<service enabled="true" name=".service.InitServerStart">
+<service enabled="true" name="ect.emessager.email.service.RemoteControlService" permission="ect.emessager.email.permission.REMOTE_CONTROL">
+<service enabled="true" name="ect.emessager.email.service.SleepService">
+<service enabled="true" name="ect.emessager.email.service.SystemContactContentObserver">
+<service name="ect.emessager.serve.update.DownService">
+<service name="ect.emessager.main.ServerService">
+13
+<receiver name="ect.emessager.email.receiver.BootForPhoneLock">
+<receiver name="ect.emessager.email.receiver.SReceiver" permission="android.permission.BROADCAST_SMS">
+<receiver name=".receiver.WXRegister" permission="com.tencent.mm.plugin.permission.SEND">
+<receiver enabled="true" name="ect.emessager.email.service.BootReceiver">
+<receiver enabled="true" name="ect.emessager.email.service.RemoteControlReceiver" permission="ect.emessager.email.permission.REMOTE_CONTROL">
+<receiver enabled="true" name="ect.emessager.email.service.CoreReceiver">
+<receiver enabled="true" name="ect.emessager.email.receiver.ModifyPreferences">
+<receiver enabled="true" name="ect.emessager.email.receiver.NotifictionUpdate">
+<receiver enabled="true" name="ect.emessager.email.service.FetchResourceBroadcastEMAIL">
+<receiver enabled="true" name="ect.emessager.email.receiver.ShakeHandReceiver">
+<receiver enabled="true" name="ect.emessager.email.service.TackovereMessagerEmailReceiver">
+<receiver enabled="true" name="ect.emessager.email.service.StorageReceiver">
+<receiver name="ect.emessager.serve.utils.MyLocal">
+5
+<provider authorities="ect.emessager.email.attachmentprovider" multiprocess="true" name="ect.emessager.email.provider.AttachmentProvider" grantUriPermissions="true" readPermission="ect.emessager.email.permission.READ_ATTACHMENT">
+<provider writePermission="ect.emessager.email.permission.DELETE_MESSAGES" authorities="ect.emessager.email.messageprovider" multiprocess="true" name="ect.emessager.email.provider.MessageProvider" grantUriPermissions="true" readPermission="ect.emessager.email.permission.READ_MESSAGES">
+<provider authorities="ect.emessager.email.emailvipcontact" multiprocess="true" name="ect.emessager.email.util.EMailVipContentProvider" grantUriPermissions="true">
+<provider authorities="ect.emessager.email.emailupdatecontact" multiprocess="true" name="ect.emessager.email.util.EMailUpdateContentProvider" grantUriPermissions="true">
+<provider authorities="ect.emessager.email.emailcommoncontact" multiprocess="true" name="ect.emessager.email.util.EMailCommonContentProvider" grantUriPermissions="true">
+Owner: CN=eMessager, OU=ECT-China, O=ECT-China, L=Shenzhen, ST=Guangdong, C=86
+Issuer: CN=eMessager, OU=ECT-China, O=ECT-China, L=Shenzhen, ST=Guangdong, C=86
+Serial number: 4e54626b
+Valid from: Wed Aug 24 10:31:07 CST 2011 until: Fri Jul 31 10:31:07 CST 2111
+Certificate fingerprints: 
+	MD5:5C:69:AB:3B:7E:96:B4:BF:A9:AB:18:6A:B0:5B:F4:57
+	SHA1: D8:F2:93:9B:FE:6A:98:1C:AE:94:92:F6:97:56:E7:05:04:AB:CC:73
+	SHA256: EE:02:82:B2:28:BD:3B:10:9D:24:32:6B:A3:4E:7A:51:D1:43:47:1C:B8:AB:BB:37:93:AD:45:16:34:F9:4D:11
+	Signature algorithm name: SHA1withRSA
+	version: 3

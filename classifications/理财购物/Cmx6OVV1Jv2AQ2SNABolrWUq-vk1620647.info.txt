@@ -1,0 +1,64 @@
+com.fx678.mintaiv2.finace
+3
+1.0.3
+7
+-1
+4
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_NETWORK_STATE
+39
+<activity screenOrientation="1" name=".LoginView" label="2131230731">
+<activity screenOrientation="1" name="joey.present.mintaiapp.LogoView" label="2131230731">
+<activity screenOrientation="1" name="joey.present.mintaiapp.Login_reg" launchMode="2">
+<activity screenOrientation="1" name="joey.present.mintaiapp.CalendarView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.MainViewService">
+<activity screenOrientation="1" name="joey.present.mintaiapp.SelectView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.ZhuCe">
+<activity screenOrientation="1" name="joey.present.mintaiapp.MainTab">
+<activity screenOrientation="1" name="joey.present.mintaiapp.MainView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.NewsView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.MinTaiView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.MTRegView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.InforDetailView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.StartView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.OptionalView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.PriceView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.PriceViewTTJ">
+<activity screenOrientation="1" name="joey.present.mintaiapp.PriceViewGG">
+<activity screenOrientation="1" name="joey.present.mintaiapp.SystemView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.DetailTab">
+<activity screenOrientation="1" name="joey.present.mintaiapp.TimeDataView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.KLineView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.TimeDetailView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.FenbiView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYFirstView" launchMode="2">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYLoginView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYUserManageView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYMainTab" launchMode="1">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYMktCenterView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYUserInfoView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYUserHistoryView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYCcmxView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYWtmxView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYJcView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYSjjcView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYZjjcView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYSjpcView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYZjpcView">
+<activity screenOrientation="1" name="joey.present.mintaiapp.jy.JYWarningView">
+1
+<service enabled="true" name="joey.present.mintaiapp.NewsOnTopService">
+0
+0
+Owner: CN=fx678, OU=fx678, O=fx678, L=shanghai, ST=shanghai, C=cn
+Issuer: CN=fx678, OU=fx678, O=fx678, L=shanghai, ST=shanghai, C=cn
+Serial number: 5100d95b
+Valid from: Thu Jan 24 14:48:59 CST 2013 until: Fri Oct 28 14:48:59 CST 2067
+Certificate fingerprints: 
+	MD5:D0:10:64:0D:1E:07:B4:64:EC:36:97:29:7B:5E:B1:6E
+	SHA1: 0F:C2:EC:74:0A:04:FB:1B:25:46:D9:DF:3C:47:58:5F:CF:5C:3E:87
+	SHA256: 75:C3:49:62:37:A5:21:3C:5E:5A:7A:31:9F:3E:52:97:0A:28:A0:22:99:82:67:55:06:35:DC:10:43:76:F0:AF
+	Signature algorithm name: SHA1withRSA
+	version: 3

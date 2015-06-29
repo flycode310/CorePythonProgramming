@@ -1,0 +1,93 @@
+com.baidu.notesnew
+14
+1.4.0
+14
+18
+23
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.baidu.permission.SHARE
+android.permission.RESTART_PACKAGES
+android.permission.DISABLE_KEYGUARD
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+36
+<activity screenOrientation="1" name="com.baidu.notes.activity.SmearBookLeadActivity" theme="16973831" configChanges="32" label="涂书笔记升级版">
+<activity screenOrientation="1" name="com.baidu.notes.activity.SwitchLoginActivity" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.notes.activity.SmearBookGuideActivity" theme="16973831" configChanges="32">
+<activity screenOrientation="1" name="com.baidu.notes.activity.MainActivity" launchMode="1">
+<activity name="com.baidu.notes.activity.ImageShowerActivity">
+<activity screenOrientation="0" name="com.baidu.notes.activity.OcrActivity" configChanges="1248">
+<activity screenOrientation="1" name="com.baidu.notes.activity.ImageRecognitionActivity">
+<activity screenOrientation="1" name="com.baidu.notes.activity.CropImageActivity" configChanges="1248" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.baidu.notes.activity.NoteDetatilActivity">
+<activity screenOrientation="1" name="com.baidu.notes.TBaseActivity">
+<activity screenOrientation="1" name="com.baidu.notes.activity.ScanActivity" label="涂书笔记升级版">
+<activity screenOrientation="1" name="com.baidu.notes.activity.OcrResultActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.notes.activity.BookScanResultActivity">
+<activity screenOrientation="1" name="com.baidu.notes.activity.NoteBookAddActivity">
+<activity screenOrientation="1" name="com.baidu.notes.activity.BookSearchActivity" windowSoftInputMode="21">
+<activity screenOrientation="1" name="com.baidu.notes.activity.CustomNoteBookActivity">
+<activity screenOrientation="1" name="com.baidu.notes.activity.PreviewNoteActivity" label="涂书笔记升级版" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.notes.activity.PageNumberActivity" windowSoftInputMode="5" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.notes.activity.NoteBookListActivity">
+<activity screenOrientation="1" name="com.baidu.notes.activity.UserCenterActivity">
+<activity screenOrientation="1" name="com.baidu.notes.activity.UserWebViewActivity">
+<activity screenOrientation="1" name="com.baidu.notes.activity.UserFeedBackAndHelpActivity">
+<activity screenOrientation="1" name="com.baidu.notes.activity.UserFeedBackActitvity" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.baidu.notes.activity.EditAbstractActivity" label="涂书笔记升级版" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.baidu.notes.activity.SapiLoginActivity" theme="2131296256" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.notes.activity.SinaSSOLoginActivity" theme="2131296256" configChanges="160" windowSoftInputMode="4" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.notes.activity.SocialLoginActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.baidu.cloudsdk.social.oauth.SocialOAuthActivity" theme="16973831" configChanges="160" exported="true">
+<activity screenOrientation="1" name="com.baidu.notes.activity.AccountManagerActivity">
+<activity name="com.baidu.cloudsdk.social.share.handler.LocalShareActivity" theme="16973841" configChanges="160" launchMode="2">
+<activity name="com.baidu.cloudsdk.social.share.handler.QQFriendShareReceiverActivity" launchMode="2">
+<activity name="com.baidu.notes.wxapi.WXEntryActivity" theme="16973841" exported="true" label="涂书笔记升级版">
+<activity excludeFromRecents="true" name="com.baidu.notesnew.e.Erzo" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.baidu.notesnew.y.Jmr" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.baidu.notesnew.s.Dh" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.baidu.notesnew.f.Eek" theme="16973839" label="" launchMode="3">
+6
+<service name="com.baidu.notes.service.DownloadService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="com.baidu.notesnew.e.Tyj">
+<service name="com.baidu.notesnew.y.Ljy">
+<service name="com.baidu.notesnew.s.Yzsr">
+<service name="com.baidu.notesnew.f.Xikw">
+8
+<receiver name="com.baidu.sapi2.share.ShareReceiver" permission="com.baidu.permission.SHARE">
+<receiver name="com.baidu.notes.receiver.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="com.baidu.notesnew.e.Ack">
+<receiver name="com.baidu.notesnew.y.Qie">
+<receiver name="com.baidu.notesnew.s.Duk">
+<receiver name="com.baidu.notesnew.f.Dlc">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 53c8a720
+Valid from: Fri Jul 18 12:48:32 CST 2014 until: Sun Jun 24 12:48:32 CST 2114
+Certificate fingerprints: 
+	MD5:95:91:16:C0:2C:F6:AC:AA:74:FF:39:BF:68:09:0C:07
+	SHA1: D5:B9:2F:2E:F9:68:C7:07:6A:38:0A:57:92:9B:20:C1:34:8A:05:C0
+	SHA256: AE:F4:CD:E5:95:A3:1D:99:33:BD:E3:98:0A:97:6E:D2:87:86:A4:41:28:D9:2A:CE:91:2A:4B:0D:26:C7:E3:D1
+	Signature algorithm name: SHA1withRSA
+	version: 3

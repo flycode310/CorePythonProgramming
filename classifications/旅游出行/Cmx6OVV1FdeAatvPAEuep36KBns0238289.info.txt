@@ -1,0 +1,92 @@
+com.bjjpsk.jpskb
+189
+2.8.3
+9
+19
+13
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.bjjpsk.jpskb.permission.MIPUSH_RECEIVE
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.MOUNT_UNMOUT_FILESYSTEMS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+51
+<activity screenOrientation="1" name="com.bjjpsk.jpskb.LaunchActivity" label="2131296258">
+<activity screenOrientation="1" name="com.jp.train.view.ticket.ChannelQueryByUrlActivity">
+<activity screenOrientation="1" name="com.bjjpsk.jpskb.MainActivity" launchMode="1">
+<activity screenOrientation="1" name="com.bjjpsk.jpskb.GuideActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.QueryResultActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.TrainBookActivity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.Login12306Activity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.TicketBookActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.jp.train.view.advance.PassengerSelectActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.WaitPayOrderActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.OrderPayActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.SelectStationActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.OrderDetailsActivity">
+<activity screenOrientation="1" name="com.jp.train.view.order.OrderMoreActionActivity">
+<activity screenOrientation="1" name="com.jp.train.view.order.OrderResignActivity">
+<activity screenOrientation="1" name="com.jp.train.view.order.OrderReturnTicketActivity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.EditPassengerActivity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.AboutActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.TrainQueryResultActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.SelectCalendarActivity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.HelpActivity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.RegistActivity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.NoticeActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.QueryOfflineActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.StationOfflineActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.TransitOfflienActivity">
+<activity screenOrientation="1" name="com.jp.train.view.advance.TrainOfflineQueryActivity">
+<activity screenOrientation="1" name="com.jp.train.view.ticket.RobTicketActivity">
+<activity screenOrientation="1" name="com.jp.train.view.ticket.MultipleChoiceActivity">
+<activity screenOrientation="1" name="com.jp.train.view.ticket.MultipleChoiceTrainActivity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.SkinActivity">
+<activity screenOrientation="1" name="com.jp.train.view.collection.CollectionActivity">
+<activity screenOrientation="1" name="com.jp.train.view.common.H5WebViewActvity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.RegistSMSActivity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.RegistSucActivity">
+<activity screenOrientation="1" name="com.jp.train.view.personal.RegistSMSActivity2">
+<activity screenOrientation="1" name="com.jp.train.view.advance.TrainQueryActivity">
+<activity screenOrientation="1" name="com.jp.train.view.common.OnShareActivity">
+<activity screenOrientation="1" name="com.jp.train.view.buyticket.BuyTicketAnalysisActivity">
+<activity screenOrientation="1" name="com.jp.train.view.buyticket.BuyTicketContentActivity">
+<activity screenOrientation="1" name="com.jp.train.view.buyticket.BuyTicketNotActivity">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131361810" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.bjjpsk.jpskb.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.umeng.socialize.view.CommentActivity" theme="2131361811" configChanges="144">
+<activity name="com.umeng.socialize.view.CommentDetail" theme="2131361811" configChanges="144" noHistory="true">
+<activity name="com.umeng.socialize.view.CommentDetailNoMap" theme="2131361811" configChanges="144" noHistory="true">
+5
+<service name="com.jp.train.update.UpdateConfigService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+3
+<receiver name="com.jp.train.push.MessageReceiver" exported="true">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+0
+Owner: CN=liweifeng, OU=jpsk, O=jpsk, L=beijing
+Issuer: CN=liweifeng, OU=jpsk, O=jpsk, L=beijing
+Serial number: 12bb54a9
+Valid from: Sun Jan 22 19:53:18 CST 2012 until: Tue Dec 29 19:53:18 CST 2111
+Certificate fingerprints: 
+	MD5:9D:24:81:AB:C6:B7:6F:45:09:4F:A4:58:EB:0F:C9:45
+	SHA1: EF:93:32:67:AF:3F:F2:2D:27:55:BC:38:11:25:F3:C5:38:17:06:A4
+	SHA256: A7:0F:FB:1B:91:EC:0B:F5:0A:36:43:0C:4D:8F:E1:AB:C5:DE:A2:8C:AF:38:92:9D:38:26:BC:D2:51:2B:6A:DD
+	Signature algorithm name: SHA256withRSA
+	version: 3

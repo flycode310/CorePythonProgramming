@@ -1,0 +1,89 @@
+fm.xiami.main
+48
+2.4.7
+8
+17
+28
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.INSTALL_PACKAGES
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+fm.xiami.main.permission.agoo
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.taobao.statistic.permission.DEVICE_STATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+24
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.StartActivity" theme="16973831" label="2131296385" windowSoftInputMode="32" noHistory="true" launchMode="1">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.WalkThroughActivity" noHistory="true">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.MainActivity" label="2131296385" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.ScanActivity" label="scan" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.PlayerActivity" theme="2131361809" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.LoginActivity" windowSoftInputMode="0">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.DeviceBindActivity" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.CommonActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.AboutIndexActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.IPForbidenActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.RegisterActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.LoginSelectActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.MainSettingActivity" theme="2131361870">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.SharePopActivity" theme="2131361801">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.ShareBindActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.WebViewActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.ForgetPasswordActivity">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.InnerBroswerActivity" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.bmamba.activity.UpgradeActivity">
+<activity screenOrientation="1" name="org.acra.CrashReportDialog">
+<activity name="fm.xiami.main.wxapi.WXEntryActivity" exported="true" label="2131296385">
+<activity name="fm.xiami.bmamba.activity.ExchangeActivity">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.nd.android.pandahome.widget.activity.PandaWidgetMainActivity" exported="true">
+7
+<service name="fm.xiami.bmamba.PlayService" exported="false" label="xiami music play service">
+<service name="fm.xiami.bmamba.sync.UserOperationSyncService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="fm.xiami.bmamba.service.DownLoadService">
+<service process=":utremote" name="com.taobao.statistic.module.data.Yolanda">
+<service name="fm.xiami.main.AgooIntentService">
+<service name="android.taobao.agoo.service.AgooService">
+8
+<receiver name="fm.xiami.widget.RemoteControler">
+<receiver name="fm.xiami.bmamba.appwidget.AppWidgetSmall" label="2131296729">
+<receiver name="fm.xiami.bmamba.appwidget.AppWidgetMedium" label="2131296730">
+<receiver name="fm.xiami.bmamba.appwidget.AppWidgetLarge" label="2131296731">
+<receiver name="com.taobao.statistic.core.BQueryWhoHasOne" exported="true" permission="com.taobao.statistic.permission.DEVICE_STATE">
+<receiver name="com.taobao.statistic.core.BFoundIt" exported="true" permission="com.taobao.statistic.permission.DEVICE_STATE">
+<receiver priority="1000" name="android.taobao.agoo.client.AgooBroadcastReceiver">
+<receiver name="fm.xiami.main.wxapi.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+2
+<provider enabled="true" authorities="fm.xiami.bmamba.authorities.musicprovider" multiprocess="false" name="fm.xiami.bmamba.data.MusicProvider" exported="true" permission="fm.xiami.main.permission.musicprovider">
+<provider authorities="fm.xiami.bmamba.data.dataprovider" name="fm.xiami.bmamba.data.DataProvider">
+Owner: CN=xiami.com, OU=xiami.com
+Issuer: CN=xiami.com, OU=xiami.com
+Serial number: 4c764010
+Valid from: Thu Aug 26 18:21:04 CST 2010 until: Mon Aug 20 18:21:04 CST 2035
+Certificate fingerprints: 
+	MD5:84:84:84:2A:80:90:84:A8:6D:A1:65:AF:E6:C0:4D:B9
+	SHA1: 11:DE:FE:2C:F9:D8:13:73:EA:98:C8:7F:D5:E4:E5:EC:10:BD:51:40
+	SHA256: C6:27:43:B5:6B:9F:90:29:05:64:4A:D0:DC:12:5E:13:51:A6:F4:F4:77:32:15:D4:29:98:5B:6C:59:69:CA:93
+	Signature algorithm name: SHA1withRSA
+	version: 3

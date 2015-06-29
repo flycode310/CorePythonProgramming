@@ -1,0 +1,96 @@
+com.postal.maizuo.main
+21
+2.0
+8
+-1
+21
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.DISABLE_KEYGUARD
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+49
+<activity screenOrientation="5" name="com.postal.maizuo.main.EnterActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.SelectCityActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MovieActivity" theme="16973830" configChanges="160" label="2131165196" launchMode="2">
+<activity screenOrientation="5" name="com.postal.maizuo.main.CinemaActivity" theme="16973830" configChanges="160" label="2131165196" launchMode="2">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MovieDetailActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.CinemaPaiqiActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.LoginActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.SelectSeatActivity" theme="16973830" configChanges="160" label="2131165196" launchMode="2">
+<activity screenOrientation="5" name="com.hys.maizuo.main.BookConfirmActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.RegistActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MyBookPiao" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MyBookPiaoDetail" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MyBookSeat" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MyBookSeatDetail" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.CardInfoActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.ScanNoteActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.OrderActivity" theme="16973830" configChanges="160" label="2131165196" launchMode="2">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MoreActivity" theme="16973830" configChanges="160" label="2131165196" launchMode="2">
+<activity screenOrientation="5" name="com.postal.maizuo.main.CinemaDetailActivity" theme="16973830" configChanges="160" label="2131165196" launchMode="2">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MainActivity" theme="16973830" configChanges="160" label="2131165196" windowSoftInputMode="32">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MoviePaiQiActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.YinhuaYouhuiActivity" theme="16973830" configChanges="160" label="2131165196" launchMode="2">
+<activity screenOrientation="5" name="com.postal.maizuo.main.BuyNoteActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.OrderConfirmActivity" theme="16973830" configChanges="160" label="2131165196" windowSoftInputMode="35">
+<activity screenOrientation="5" name="com.postal.maizuo.main.PayActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.GoodsActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.SelectPiaoActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.hys.maizuo.main.BookSeatConformActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.hys.maizuo.main.BookPiaoConformActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.PaySuccessActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.SearchCardActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.FindPasswordActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.ActivateActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="0" name="com.postal.maizuo.main.PlayerActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MaizuokaPayActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.HuodongYouhuiActivity" theme="16973830" configChanges="160" label="2131165196" launchMode="2">
+<activity screenOrientation="5" name="com.postal.maizuo.main.QiangPiaoActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.RecommendAppsActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MyCouponCardActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.MyCouponCardDetailActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.AdActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="5" name="com.postal.maizuo.main.SupportActivity" theme="16973830" configChanges="160" label="2131165196">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity screenOrientation="0" name="com.postal.maizuo.main.ScanActivity" theme="16973831" configChanges="160" label="2131165196" windowSoftInputMode="3">
+<activity name="com.postal.maizuo.main.wxapi.WXEntryActivity" exported="true" label="2131165196" launchMode="1">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity name="com.tencent.tauth.TAuthView" configChanges="224" launchMode="2">
+2
+<service name="com.postal.maizuo.main.server.UpdateService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+4
+<receiver name="com.postal.maizuo.main.server.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="com.postal.maizuo.main.example.DownloadCompleteReceiver">
+0
+Owner: CN=BillyWu, OU=深圳华宇讯科技有限公司, O=www.maizuo.com, L=广东, ST=深圳, C=CN
+Issuer: CN=BillyWu, OU=深圳华宇讯科技有限公司, O=www.maizuo.com, L=广东, ST=深圳, C=CN
+Serial number: 517785af
+Valid from: Wed Apr 24 15:11:43 CST 2013 until: Fri Mar 31 15:11:43 CST 2113
+Certificate fingerprints: 
+	MD5:79:63:12:BD:91:73:AE:48:96:D9:44:48:4F:7D:8B:DC
+	SHA1: C4:8D:95:47:F5:1A:2E:D3:71:F9:84:62:3D:6B:12:8B:B6:07:85:BF
+	SHA256: 4A:53:41:D8:9F:3D:AB:AC:EC:EC:15:52:06:CB:66:71:05:B0:47:F2:DE:66:95:6E:F5:35:AB:DC:4A:14:0D:93
+	Signature algorithm name: SHA1withRSA
+	version: 3

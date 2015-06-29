@@ -1,0 +1,40 @@
+com.chi.han
+13
+2.3
+7
+10
+11
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity screenOrientation="1" name=".ICCalendar" theme="16973830">
+<activity screenOrientation="1" name=".Main" theme="16973830">
+<activity screenOrientation="1" name=".Lunar" theme="16973830">
+<activity screenOrientation="1" name=".Prefs" label="2131230720">
+<activity screenOrientation="1" name=".DayInfo" theme="2131296257" label="2131230720">
+<activity screenOrientation="1" name=".About" theme="16973835">
+<activity screenOrientation="1" name=".FontSize" theme="16973835" label="2131230725">
+<activity screenOrientation="1" name=".MyLocation" theme="16973835">
+1
+<service process=":remote" enabled="true" name="com.baidu.location.f" permission="android.permission.BAIDU_LOCATION_SERVICE">
+0
+0
+Owner: CN=Yubo CHI
+Issuer: CN=Yubo CHI
+Serial number: 4f786482
+Valid from: Sun Apr 01 22:21:54 CST 2012 until: Thu Mar 26 22:21:54 CST 2037
+Certificate fingerprints: 
+	MD5:EE:A7:D1:24:EE:88:D9:09:EA:84:F8:30:7B:32:C6:9B
+	SHA1: 1E:D1:76:EC:CA:9D:92:18:9E:3E:28:A4:93:84:BE:EA:E7:45:B9:C5
+	SHA256: 80:29:92:E1:9C:33:99:9F:8F:47:7C:36:CD:7C:42:22:A9:F4:98:D0:2E:F0:E2:07:90:BC:FD:13:6E:B9:C8:18
+	Signature algorithm name: SHA1withRSA
+	version: 3

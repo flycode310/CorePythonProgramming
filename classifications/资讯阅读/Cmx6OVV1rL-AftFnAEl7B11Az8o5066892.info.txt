@@ -1,0 +1,154 @@
+com.unicom.zworeader.publish
+200
+2.0.0
+8
+8
+19
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.CHANGE_WIFI_STATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.GET_PACKAGE_SIZE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+105
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZWelcomeActivity" theme="16973830" label="2131427328" alwaysRetainTaskState="true" launchMode="1">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookCityTopicInMonthActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3ActivityCommentActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3SlidingMenuActivity" theme="16973830" exported="false" alwaysRetainTaskState="true" launchMode="1">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.BaseContainerFragmentActivity" theme="2131492886" configChanges="416" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3AuthorDetailActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZInsideWebActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3UniversalWebActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZWoReaderWelcomeActivity" theme="16973830" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZRegProvisionsActivity" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.ui.ZOrderDetailActivity" theme="2131492886" configChanges="416" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3MonthlyOrderActivity" theme="2131492886" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.ui.ZPkgDetailActivity" theme="2131492886" configChanges="416" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZMyPkgDetailActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.RevisePasswordAcivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookDetailActivity" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookCatalogueActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.MultiLevelCatalogueActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZAudioBookActivity" theme="16973830" exported="false" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZAudioBookDownLoadManActivity" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.ui.ZBookCommentActivity" configChanges="416" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookCity_downloadActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBaseActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookCity_topic_ContentActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookSelfBottomHelpActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookSelfBottomAboutActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZmyreadhistoryActivity" theme="2131492886" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.ui.ZmyOrderStyleActivity" configChanges="416" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.ui.ZmyWoAccountRecharge" theme="2131492886" configChanges="416" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZmycollectActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3RechargeRecordActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3RechargeSelectActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3MyAccountActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZmybookmarkActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3MyNoticeActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3MemberBenifitActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.ZBookTokenExchangeActivity" theme="2131492886" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.ui.ZBookBuy_singlechaActivity" configChanges="416" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.epay.wopay.WopayWebViewActivity" configChanges="416" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookSelfBottomDialogActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZUpdateDialogActivity" theme="2131492870" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZFindPasswordDialogActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZPersonSpaceActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZPersonSpaceSettingActivity" theme="2131492886" exported="false" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookVersionRemarkActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZPersonSpacePhotoActivity" theme="2131492886" exported="false" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3AllReadThreeThousandActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V5WoTimesActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.TimeLimitedPkgDetailActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.fragment.V3BrandzoneDetailFragmentActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.fragment.V3PaymentMonthZoneDetailFragment" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3FreeActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.H5RankListFragment" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.sort.ZBookCity_sort_secondbooklistActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBook_listActivity" theme="2131492886" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.ui.ZLoginActivity" theme="2131492886" configChanges="416" exported="false" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZRegActivity" theme="2131492886" exported="false" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.V3NotUnionRegActivity" theme="2131492886" exported="false" windowSoftInputMode="32">
+<activity name="com.unicom.zworeader.ui.ZShareOtherActivity" theme="2131492865" configChanges="416" exported="true" launchMode="2">
+<activity name="com.tencent.weibo.sdk.android.component.Authorize">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3ListenBookSendCommentActivity" exported="false" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.H5CommonWebActivity" theme="2131492886" exported="false">
+<activity name="com.unicom.zworeader.ui.activity.V3ReaderMenuActivity" theme="2131492879" configChanges="160" exported="false" launchMode="2">
+<activity screenOrientation="-1" name="com.unicom.zworeader.ui.activity.V3ReaderMenuSettingMoreActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.readercore.ui.V3HtmlReaderMenuActivity" theme="2131492879" exported="false" launchMode="2">
+<activity screenOrientation="3" name="com.unicom.zworeader.readercore.view.MenuReadListActivity" theme="2131492874" configChanges="416" exported="false" launchMode="2">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZMyBookTokenNoUse" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZMyBookTokenExChangeActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZMyBookTokenDetailActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZExchangeBookTokenActivity" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.readercore.view.ZWoReaderNotesMenuActivity" theme="2131492864" configChanges="416" exported="false">
+<activity screenOrientation="3" name="com.unicom.zworeader.readercore.view.ZWoReaderNotesAddActivity" configChanges="416" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.readercore.view.ZWoBooknotesActivity" exported="false">
+<activity name="com.unicom.zworeader.readercore.view.ZSearchReadTextActivity" theme="2131492864" exported="false">
+<activity name="com.unicom.zworeader.ui.activity.V3ReadLastPageTipActivity" theme="2131492864" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.readercore.view.setting.ZSummarySetActivity" theme="2131492864" exported="false">
+<activity screenOrientation="-1" name="com.unicom.zworeader.readercore.view.setting.ZAutoReadSettingActivity" theme="2131492864" exported="false" launchMode="2">
+<activity screenOrientation="-1" name="com.unicom.zworeader.readercore.view.setting.ZReadingJumpSetActivity" theme="2131492864" configChanges="160" exported="false">
+<activity screenOrientation="-1" name="com.unicom.zworeader.ui.activity.V3RecentReadActivity" theme="2131492864" configChanges="160" exported="false">
+<activity screenOrientation="-1" name="com.unicom.zworeader.ui.activity.V3BookCatalogueActivity" theme="2131492864" configChanges="160" exported="false">
+<activity screenOrientation="-1" name="com.unicom.zworeader.readercore.view.image.ImageViewActivity" theme="2131492864" configChanges="160" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.readercore.view.setting.ZTextSetActivity" theme="2131492864" exported="false">
+<activity icon="2130837775" screenOrientation="1" name="com.unicom.zworeader.readercore.view.ZWoReader" theme="16973831" configChanges="160" label="2131427328" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookGiftActivity" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.readercore.ui.HtmlReaderActivity" theme="16973830" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZContinuousOrderActivity" theme="2131492886" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.ZBookSelfTextCatalogueActivity" exported="false">
+<activity name="com.unicom.zworeader.ui.wxapi.WXEntryActivity" exported="true" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.WonderfulAppActivity" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3MyConsumerRecordsActivity" theme="2131492886" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.FileBrowserActivity" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3PluginActivity" theme="2131492886" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3FeedbackActivity" theme="2131492886" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.AddMyOrderLanMuActivity" theme="2131492886" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3SearchMainActivity" theme="2131492886" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.CpAndbookmarkCntlistActivity" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.MyGiveRecordsActivity" theme="2131492886" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.IntegralRuleActivity" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.CloudBookShelfFragmentActivity" theme="2131492886" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.fragment.BookCityTitleActivity" theme="16973840" exported="false">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3ReadMoreMenuActivity" theme="16973841" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.activity.V3BindAccountActivity" exported="false" label="2131427328">
+<activity screenOrientation="1" name="com.unicom.zworeader.ui.V3FileAssocActivity" exported="true">
+7
+<service name="com.unicom.zworeader.framework.service.UpdateForODPService" exported="false">
+<service name="com.unicom.zworeader.framework.service.RegisterService" exported="false">
+<service name="com.unicom.zworeader.framework.service.ReflushTokenService" exported="false">
+<service name="com.unicom.zworeader.framework.service.UploadconfigService" exported="false">
+<service name="com.unicom.zworeader.framework.service.ListenService" exported="false">
+<service name="com.unicom.zworeader.framework.service.WoreaderService" exported="false">
+<service process=":message" name="com.unicom.zworeader.framework.service.RemoteService">
+3
+<receiver name="com.unicom.zworeader.framework.receiver.BootBroadcastReceiver">
+<receiver name="com.unicom.zworeader.framework.receiver.RemoteNoticeReceiver" exported="false">
+<receiver name="com.unicom.zworeader.framework.receiver.ManualLoginSuccessReceiver" exported="false">
+0
+Owner: CN=Zhou YanGuo, OU=Read Operations Center, O=China United Network Communications Corporation Limited, L=Changsha, ST=Hunan, C=CN
+Issuer: CN=Zhou YanGuo, OU=Read Operations Center, O=China United Network Communications Corporation Limited, L=Changsha, ST=Hunan, C=CN
+Serial number: 531537c5
+Valid from: Tue Mar 04 10:17:41 CST 2014 until: Thu Feb 08 10:17:41 CST 2114
+Certificate fingerprints: 
+	MD5:2B:2F:8C:12:01:FD:6A:F3:66:A2:56:95:AF:DD:3C:0A
+	SHA1: 0B:A4:72:A4:CD:97:2A:11:D2:03:45:AD:0E:E9:5C:9F:8D:06:98:18
+	SHA256: 20:69:A0:58:20:77:6D:F3:27:58:64:72:B5:2E:3F:21:9E:00:70:C3:ED:D6:96:D6:06:27:3A:60:D9:02:C1:82
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,53 @@
+group.werdoes.app.hcgl2013
+1
+1.0
+7
+-1
+17
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+11
+<activity name="group.werdoes.app.MainAct" configChanges="160" label="2131034116">
+<activity name="group.werdoes.ads.MainAdsActivity" configChanges="160">
+<activity name="group.werdoes.ads.OfferWallActivity" configChanges="160">
+<activity name="group.werdoes.ads.PushActivity" configChanges="160">
+<activity name="group.werdoes.ads.TabMainActivity" configChanges="160">
+<activity name="group.werdoes.ads.Tab0Activity" configChanges="160">
+<activity name="group.werdoes.ads.Tab1Activity" configChanges="160">
+<activity name="group.werdoes.ads.Tab2Activity" configChanges="160">
+<activity excludeFromRecents="true" name="group.werdoes.ads.ChildOfMA" launchMode="3">
+<activity name="com.huawei.hiad.core.BrowserActivity" configChanges="160">
+<activity name="com.doudou.main.DoudouWebViewActivity" configChanges="160">
+3
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="group.werdoes.ads.ChildOfMS">
+<service name="com.doudou.main.DoudouService">
+2
+<receiver name="group.werdoes.ads.ChildOfMR">
+<receiver name="com.doudou.main.DoudouReceiver">
+0
+Owner: CN=werdoes.inc, OU=werdoes.inc, O=werdoes.inc
+Issuer: CN=werdoes.inc, OU=werdoes.inc, O=werdoes.inc
+Serial number: 50e6734b
+Valid from: Fri Jan 04 14:14:35 CST 2013 until: Sun Dec 11 14:14:35 CST 2112
+Certificate fingerprints: 
+	MD5:21:C8:9D:73:2C:CB:84:08:DE:B3:EA:F2:DE:CE:B0:B9
+	SHA1: 40:8E:DA:EC:5A:38:2E:95:71:14:57:C5:FA:22:5B:B5:AB:7E:F8:D7
+	SHA256: 01:89:B4:D4:29:37:93:23:08:98:38:83:AC:35:29:6E:C3:E9:21:A0:EB:97:03:6C:D0:5A:B9:BC:29:27:14:D7
+	Signature algorithm name: SHA1withRSA
+	version: 3

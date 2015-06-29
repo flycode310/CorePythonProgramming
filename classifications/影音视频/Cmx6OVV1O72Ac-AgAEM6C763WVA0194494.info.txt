@@ -1,0 +1,38 @@
+com.kugou.talking
+1010
+1.0.1
+7
+-1
+9
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+7
+<activity name=".EntryActivity">
+<activity name=".SplashActivity" launchMode="3">
+<activity name=".MainActivity">
+<activity screenOrientation="1" name=".module.setting.PreferencesActivity">
+<activity name=".AboutActivity" theme="2131427328">
+<activity screenOrientation="1" name="cn.sharesdk.framework.AuthorizeActivity" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.kugou.talking.wxapi.WXEntryActivity" exported="true">
+1
+<service name=".download.DownloadService">
+0
+1
+<provider authorities="talkingdatabase" name=".db.TalkingProvider" exported="false">
+Owner: CN=kugou, OU=kugou, O=kugou, L=gz, ST=gd, C=460
+Issuer: CN=kugou, OU=kugou, O=kugou, L=gz, ST=gd, C=460
+Serial number: 51b2eaa7
+Valid from: Sat Jun 08 16:26:15 CST 2013 until: Mon May 15 16:26:15 CST 2113
+Certificate fingerprints: 
+	MD5:86:F3:20:B3:6C:12:C8:C3:70:09:78:9A:FA:03:DB:FF
+	SHA1: 49:48:19:48:80:0F:47:C9:87:8D:0E:DF:FD:17:BD:98:8E:A8:98:20
+	SHA256: 9A:EC:7F:58:07:81:DF:81:69:B2:BA:0B:AA:66:E1:54:F7:C8:ED:24:66:98:BC:97:05:9A:FD:EF:9D:DE:C1:E3
+	Signature algorithm name: SHA1withRSA
+	version: 3

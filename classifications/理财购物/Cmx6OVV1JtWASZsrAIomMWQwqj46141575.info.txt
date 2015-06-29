@@ -1,0 +1,40 @@
+com.uplayonline.traincrisis
+31
+2.0.4
+7
+16
+8
+android.permission.READ_PHONE_STATE
+com.android.vending.BILLING
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.vending.CHECK_LICENSE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity screenOrientation="0" name="com.uplayonline.androidtracker.UPlayUnityActivity" configChanges="1073745919" label="2130968610">
+<activity screenOrientation="0" name="com.tapjoy.TJCOffersWebView" configChanges="160">
+<activity screenOrientation="0" name="com.tapjoy.TapjoyFeaturedAppWebView" configChanges="160">
+<activity screenOrientation="0" name="com.tapjoy.TapjoyVideoView" configChanges="160">
+<activity name="com.tapjoy.TJCVirtualGoods" theme="16973834" configChanges="160">
+<activity name="com.tapjoy.DownloadVirtualGood" theme="16973835" configChanges="160" launchMode="2">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity name="com.unity3d.plugin.downloader.UnityDownloaderActivity">
+2
+<service name="com.uplayonline.AndroidPluginInApp.BillingService">
+<service name="com.unity3d.plugin.downloader.UnityDownloaderService">
+2
+<receiver name="com.uplayonline.AndroidPluginInApp.BillingReceiver">
+<receiver name="com.unity3d.plugin.downloader.UnityAlarmReceiver">
+0
+Owner: CN=infinite, OU=PDA World, O=PDA World, L=PDA World, ST=PDA World, C=HY
+Issuer: CN=infinite, OU=PDA World, O=PDA World, L=PDA World, ST=PDA World, C=HY
+Serial number: 50ef84ef
+Valid from: Fri Jan 11 11:20:15 CST 2013 until: Tue May 29 11:20:15 CST 2040
+Certificate fingerprints: 
+	MD5:94:3D:FE:0F:D5:F3:79:BB:3D:6C:D1:F6:9D:67:9B:8C
+	SHA1: 64:3D:57:DC:67:A9:60:74:3F:74:27:8F:1E:ED:18:19:70:77:3D:5F
+	SHA256: BF:7F:CF:C2:72:1F:FA:30:BD:84:87:50:DF:FD:C5:C1:60:1A:03:66:A3:D9:03:43:D5:2E:96:94:F6:A6:57:36
+	Signature algorithm name: SHA1withRSA
+	version: 3

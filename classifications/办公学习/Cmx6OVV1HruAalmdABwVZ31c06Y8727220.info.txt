@@ -1,0 +1,106 @@
+com.getesoft.g_online
+2
+1.2.1
+13
+18
+21
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+62
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.getesoft.g_online.MainActivity" label="2131099648">
+<activity name="com.getesoft.g_online.baseCalendar.DateTableActivity" configChanges="160" launchMode="2">
+<activity name="com.getesoft.g_online.PlanActivity">
+<activity name="com.getesoft.g_online.TabActivity">
+<activity name="com.getesoft.g_online.tab.WeekActivity">
+<activity name="com.getesoft.g_online.baseCalendar._YearActivity">
+<activity name="com.getesoft.g_online.baseCalendar.DayActivity">
+<activity name="com.getesoft.g_online.baseCalendar._MonthActivity">
+<activity name="com.getesoft.g_online.baseCalendar.ListTaskActivity">
+<activity name="com.getesoft.g_online.baseCalendar.TaskFromMonthActivity">
+<activity name="com.getesoft.g_online.baseCalendar.AddTaskActivity" configChanges="160" launchMode="2">
+<activity name="com.getesoft.g_online.baseCalendar.UserTaskInfoActivity">
+<activity name="com.getesoft.g_online.baseCalendar.VoiceRecognition">
+<activity name="com.getesoft.g_online.baseContacts.ContactViewPagerActivity">
+<activity name="com.getesoft.g_online.baseContacts.FromContactActivity">
+<activity name="com.getesoft.g_online.baseContacts.EmployeeActivity">
+<activity name="com.getesoft.g_online.baseContacts.TabAddEmployee">
+<activity name="com.getesoft.g_online.baseContacts.ContactActivitys">
+<activity name="com.getesoft.g_online.baseContacts.AddContactActivity">
+<activity name="com.getesoft.g_online.baseContacts.AddEmployeeActivity">
+<activity name="com.getesoft.g_online.baseContacts.AddCompanyActivity">
+<activity name="com.getesoft.g_online.baseContacts.SearchCompany">
+<activity name="com.getesoft.g_online.baseContacts.SearchPersonal">
+<activity name="com.getesoft.g_online.baseContacts.SearchManager">
+<activity name="com.getesoft.g_online.baseContacts.PersonalInfoActivity">
+<activity name="com.getesoft.g_online.baseContacts.GroupManager">
+<activity name="com.getesoft.g_online.baseContacts.GroupManagerActivity">
+<activity name="com.getesoft.g_online.LoginActivity" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.RegisterActivity" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.Register_obeyActivity">
+<activity name="com.getesoft.g_online.ForgetPwdActivity">
+<activity name="com.getesoft.g_online.PublicTabs">
+<activity name="com.getesoft.g_online.tab.TabActivity1">
+<activity name="com.getesoft.g_online.tab.TabActivity2">
+<activity name="com.getesoft.g_online.tab.TabActivity3">
+<activity name="com.getesoft.g_online.tab.TabActivity4">
+<activity name="com.getesoft.g_online.AboutActivity">
+<activity name="com.getesoft.g_online.QuesFeedBook">
+<activity name="com.getesoft.g_online.outside_follow.OutsideTraceActivity">
+<activity name="com.getesoft.g_online.outside_follow.OutsideCustActivity">
+<activity name="com.getesoft.g_online.outside_follow.OutsideTraceSon1Activity">
+<activity name="com.getesoft.g_online.outside_follow.QcOutFollowActivity">
+<activity name="com.getesoft.g_online.outside_follow.OutsideTraceSon1Detail">
+<activity name="com.getesoft.g_online.purchase_follow.PurFollowActivity">
+<activity name="com.getesoft.g_online.purchase_follow.PurFollowSon1Activity">
+<activity name="com.getesoft.g_online.purchase_follow.PurFollowSon2Activity">
+<activity name="com.getesoft.g_online.cust_info.CustInfoActivity">
+<activity name="com.getesoft.g_online.cust_info.CustListActivity">
+<activity name="com.getesoft.g_online.purchase_follow.AddPurFollowDialog" theme="2131165190" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.purchase_follow.AddPurFollowSon2Dialog" theme="2131165190" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.purchase_follow.AddPurFollowSon1Dialog" theme="2131165190" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.PublicImageShow" theme="2131165190">
+<activity name="com.getesoft.g_online.outside_follow.OutsideTraceAddDialog" theme="2131165190" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.outside_follow.OutsideTraceSon1AddDialog" theme="2131165190" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.outside_follow.OutsideTraceQcFeedBookAddDialog" theme="2131165190" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.outside_follow.OutQualityReportActivity" theme="2131165190" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.outside_follow.OutsideTraceQualityAddDialog" theme="2131165190" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.UserInfoActivity" windowSoftInputMode="20">
+<activity name="com.getesoft.g_online.CompanyInfo" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.getesoft.g_online.wxapi.WXEntryActivity" theme="2131165190" exported="true">
+2
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.getesoft.g_online.baseCalendar.CalendarServer">
+1
+<receiver name="com.getesoft.g_online.baseCalendar.UpdateReceiver">
+0
+Owner: CN=getsoft, OU=广州盖特软件有限公司, O=广州盖特软件有限公司, L=广州, ST=广东, C=CN
+Issuer: CN=getsoft, OU=广州盖特软件有限公司, O=广州盖特软件有限公司, L=广州, ST=广东, C=CN
+Serial number: 45698a60
+Valid from: Wed Dec 24 19:32:41 CST 2014 until: Thu Sep 26 19:32:41 CST 2069
+Certificate fingerprints: 
+	MD5:CC:3D:9D:41:36:E1:59:03:50:A2:6C:3C:4E:D8:6E:BE
+	SHA1: 11:80:FD:AA:89:04:8B:49:05:5B:30:29:B6:CD:D6:6A:AC:D4:1E:99
+	SHA256: B1:30:E5:C4:1A:F3:5F:7C:12:E6:3D:6C:B7:71:DA:A9:5B:17:79:8A:72:8C:65:5D:C8:CE:76:B6:FF:35:69:71
+	Signature algorithm name: SHA256withRSA
+	version: 3

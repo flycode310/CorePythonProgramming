@@ -1,0 +1,55 @@
+com.fasthealth
+10
+1.6
+8
+19
+12
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+getui.permission.GetuiService.com.fasthealth
+15
+<activity screenOrientation="1" name="com.fasthealth.Welcome" theme="16973833" label="2131427372">
+<activity screenOrientation="0" name="com.cq.videoplayer.VideoPlayerActivity" theme="16973833">
+<activity screenOrientation="1" name="com.fasthealth.MainActivity" theme="16973833">
+<activity screenOrientation="1" name="com.fasthealth.LoginActivity" theme="16973833">
+<activity screenOrientation="1" name="com.fasthealth.MainNoSlidingMenuActivity" theme="16973833">
+<activity screenOrientation="1" name="com.fasthealth.QuestionTrainerActivity" theme="16973833">
+<activity screenOrientation="1" name="com.fasthealth.community.CommMainActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.fasthealth.community.CommTakePhotoActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.fasthealth.community.PhotoEditActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.fasthealth.community.PhotoCommentDetailsActivity" theme="16973833" configChanges="160">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131492970" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+3
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+4
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.fasthealth.PushReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+1
+<provider process=":pushservice" authorities="downloads.com.fasthealth" name="com.igexin.download.DownloadProvider">
+Owner: CN=SUWEN
+Issuer: CN=SUWEN
+Serial number: 43d16f40
+Valid from: Sun Feb 15 23:46:55 CST 2015 until: Thu Feb 09 23:46:55 CST 2040
+Certificate fingerprints: 
+	MD5:9C:9C:F6:29:20:DE:0D:A5:D8:8F:F4:5B:D6:77:4E:1D
+	SHA1: F7:DE:F6:27:DC:77:2B:D7:47:C3:DC:9C:06:43:18:12:0D:E8:97:03
+	SHA256: 0D:40:DB:D3:39:1A:64:71:78:7C:DA:16:A8:55:58:A3:C8:0D:D3:03:5E:0F:A0:40:16:2C:7B:07:62:42:6E:3B
+	Signature algorithm name: SHA256withRSA
+	version: 3

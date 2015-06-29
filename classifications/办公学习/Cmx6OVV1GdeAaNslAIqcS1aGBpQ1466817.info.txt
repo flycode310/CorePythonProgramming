@@ -1,0 +1,137 @@
+com.jh.APP84177.news
+2
+4.0.2
+7
+17
+25
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.ACCESS_FINE_LOCATION
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.SEND_SMS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+82
+<activity screenOrientation="1" name="com.jh.news.start.activity.InitAcitivity" theme="16973841" launchMode="1">
+<activity screenOrientation="1" name="com.jinher.gold.cash.setCashPwdActivity">
+<activity screenOrientation="1" name="com.jinher.gold.cash.submitApplyActivity">
+<activity screenOrientation="1" name="com.jinher.gold.cash.ApplyCashActivityNew">
+<activity screenOrientation="1" name="com.jinher.gold.cash.AcountSelectActivityNew">
+<activity screenOrientation="1" name="com.jinher.gold.cash.BundBankAccountActivity">
+<activity screenOrientation="1" name="com.jinher.gold.cash.BillIntroduceActivity">
+<activity screenOrientation="1" name="com.jh.paymentcomponent.PayActivity">
+<activity screenOrientation="1" name="com.jinher.gold.dialog.PasswordReviseDialog" theme="2131361833">
+<activity screenOrientation="1" name="com.jinher.gold.RechargeActivityNew">
+<activity screenOrientation="1" name="com.jh.news.news.activity.DefaultPaperActivity" theme="16973831" launchMode="1">
+<activity screenOrientation="1" name="com.jh.news.more.activity.NewsSearchActivity">
+<activity screenOrientation="1" name="com.jh.news.usercenter.activity.PersonalInfomationActivity" configChanges="416">
+<activity screenOrientation="1" name="com.jh.contact.ContactActivity" launchMode="2">
+<activity screenOrientation="1" name="com.jh.contact.ContactDetailActivity" label="2131230802" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jh.news.v4.HomePaperActivity" theme="16973831" launchMode="2">
+<activity screenOrientation="1" name="com.jh.news.news.activity.NewsReportActivity">
+<activity screenOrientation="1" name="com.jinher.gold.GoldMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.jinher.gold.RechargeDetailActivity">
+<activity screenOrientation="1" name="com.jinher.gold.GoldTransferActivity" launchMode="2">
+<activity screenOrientation="1" name="com.jinher.gold.CashActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.jinher.gold.cash.CashActivityNew" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.jinher.gold.AddAcountActivity">
+<activity screenOrientation="1" name="com.jinher.gold.RechargeActivity">
+<activity screenOrientation="1" name="com.jinher.gold.ApplyCashActivity">
+<activity screenOrientation="1" name="com.jinher.gold.EarnGoldMethodsActivity">
+<activity screenOrientation="1" name="com.jinher.gold.AcountSelectActivity">
+<activity screenOrientation="1" name="com.jinher.gold.EarnGoldActivity">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.jinher.gold.EarnGoldActivityNew">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.jinher.gold.BaseWebContentActivity">
+<activity screenOrientation="1" name="com.jinher.gold.ResultActivity">
+<activity screenOrientation="1" name="com.jinher.gold.BaseCodeActivity">
+<activity screenOrientation="1" name="com.jinher.gold.BaseSettingCodeActivity">
+<activity screenOrientation="1" name="com.jinher.gold.CashCodeActivity">
+<activity screenOrientation="1" name="com.jinher.gold.CashSettingCodeActivity">
+<activity screenOrientation="1" name="com.jinher.gold.TransCodeActivity">
+<activity screenOrientation="1" name="com.jinher.gold.TransSettingCodeActivity">
+<activity screenOrientation="1" name="com.jh.news.news.activity.MyCommentNewActivity1">
+<activity screenOrientation="1" name="com.jh.news.news.activity.SettingNotificationActivity">
+<activity screenOrientation="1" name="com.jh.news.news.activity.NewsWriterActivity" launchMode="2">
+<activity screenOrientation="1" name="com.jh.news.disclose.activity.NewsDisclosedActivity" configChanges="416">
+<activity screenOrientation="1" name="com.jh.common.login.PhoneBindingActivity" theme="2131361813">
+<activity screenOrientation="1" name="com.jh.common.login.MailbindingActivity" theme="2131361808">
+<activity screenOrientation="1" name="com.jh.news.org.GetOrgInfoActivity">
+<activity screenOrientation="1" name="com.jh.common.app.activity.ApplicationDetailsActivity" theme="2131361844">
+<activity screenOrientation="1" name="com.jh.news.more.activity.PhotoLoadManagerActivity">
+<activity screenOrientation="1" name="com.jh.news.news.activity.MyFavouriteActivity">
+<activity screenOrientation="1" name="com.jh.news.news.activity.NewsCommentActivity" theme="16973839">
+<activity screenOrientation="1" name="com.jh.news.news.activity.NewsCommentListActivity">
+<activity screenOrientation="1" name="com.jh.news.news.activity.NewsContentActivity">
+<activity screenOrientation="1" name="com.jh.news.news.activity.NewsSearchActivity">
+<activity screenOrientation="1" name="com.jh.news.usercenter.activity.UserSettingActivity" configChanges="416">
+<activity screenOrientation="1" name="com.jh.news.v4.table.CustomHtmlUrlActivity" configChanges="416">
+<activity screenOrientation="1" name="com.jh.news.usercenter.activity.SettingNickActivity">
+<activity screenOrientation="1" name="com.jh.news.usercenter.activity.SettingSignActivity">
+<activity screenOrientation="1" name="com.jh.news.more.activity.SettingActivity">
+<activity screenOrientation="1" name="com.jh.common.image.imageswitch.ImageShowActivity">
+<activity screenOrientation="1" name="com.jh.common.about.activity.FeedBackActivityNew" theme="2131361804">
+<activity screenOrientation="1" name="com.jh.news.more.activity.NewsFeedBackActivity" theme="2131361859">
+<activity screenOrientation="1" name="com.jh.news.more.activity.PhotoActivity">
+<activity screenOrientation="1" name="com.jh.common.about.activity.AboutMainActivity">
+<activity screenOrientation="1" name="com.jh.common.app.activity.ApplicationListActivity" theme="2131361844">
+<activity screenOrientation="1" name="com.jh.common.app.activity.ApplicationSearchListActivity" theme="2131361844">
+<activity screenOrientation="1" name="com.jh.common.app.activity.OffersWebView">
+<activity screenOrientation="1" name="com.jh.common.login.LoginActivity" theme="2131361799" launchMode="1">
+<activity screenOrientation="1" name="com.jh.common.login.AccountSafeActivity" theme="2131361802">
+<activity screenOrientation="1" name="com.jh.accountmanager.AccountManagerActivity" theme="2131361803" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.jh.common.login.FindPasswordActivity" theme="2131361806">
+<activity screenOrientation="1" name="com.jh.common.login.PhoneFindPasswordActivity" theme="2131361807">
+<activity screenOrientation="1" name="com.jh.common.login.MailFindPasswordActivity" theme="2131361805">
+<activity screenOrientation="1" name="com.jh.common.login.RegistActivity" theme="2131361800">
+<activity screenOrientation="1" name="com.jh.common.login.MailRegistActivity" theme="2131361801">
+<activity name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="224" windowSoftInputMode="3" launchMode="1">
+<activity name="io.vov.vitamio.activity.VideoPlayActivity" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.renn.rennsdk.oauth.OAuthActivity" configChanges="224">
+<activity screenOrientation="1" name="com.jh.common.share.ShareEditActivity" theme="2131361828" configChanges="224">
+<activity screenOrientation="1" name="com.jh.common.app.activity.ApplicationDetailsPreviewActivity" configChanges="224">
+<activity screenOrientation="1" name="com.jh.common.about.activity.UserExperienceImprovePlanActivity" theme="2131361811">
+<activity screenOrientation="1" name="com.jh.common.about.activity.UserLicenseAgreementActivity" theme="2131361810">
+<activity screenOrientation="1" name="com.jh.common.about.activity.QRCodeActivity" theme="2131361812">
+<activity screenOrientation="1" name="com.jh.common.about.activity.ShareToFriendActivity" theme="2131361828">
+6
+<service name="com.jh.common.messagecenter.MessageCenter">
+<service name="com.jh.common.download.DownloadAndroidService">
+<service name="com.jh.common.upload.UploadAndroidService">
+<service name="com.jh.common.location.JHLocationService">
+<service name="com.jh.common.collect.CollectService">
+<service name="com.jx.plugins.service.PlayerService" exported="true">
+4
+<receiver name="com.jh.news.com.receiver.LogoutReceiver">
+<receiver name="com.jh.news.com.receiver.AppRegister" permission="im.yixin.sdk.permission.YIXIN_SDK_MESSAGE">
+<receiver name="com.jh.news.com.receiver.BootCompleteBroadcast">
+<receiver name="com.jh.news.com.receiver.AlarmBroadcast">
+0
+Owner: CN=jinher, OU=jinher, O=jinher, L=beijing, ST=beijing, C=beijing
+Issuer: CN=jinher, OU=jinher, O=jinher, L=beijing, ST=beijing, C=beijing
+Serial number: 3fdddd5e
+Valid from: Fri May 18 16:21:41 CST 2012 until: Sun Apr 24 16:21:41 CST 2112
+Certificate fingerprints: 
+	MD5:8F:33:90:03:B1:FE:E3:E4:38:FF:3A:FB:95:AD:CD:61
+	SHA1: F0:DE:28:2B:CB:85:87:38:A0:FF:F3:50:F0:34:7F:B9:F0:D1:1D:02
+	SHA256: A7:30:2F:D6:C9:5E:3F:11:E1:AC:98:5D:22:2B:C0:50:23:36:1A:9A:89:FD:4B:CD:60:C5:DA:E0:25:24:15:DE
+	Signature algorithm name: SHA256withRSA
+	version: 3

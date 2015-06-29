@@ -1,0 +1,36 @@
+com.greensoft.jiXianYunDong
+3
+1.0.2
+7
+-1
+12
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name=".TestActivity" label="2131230721">
+<activity icon="2130837513" name=".CubeWallpaper2Settings" theme="16973922" exported="true" label="2131230725">
+<activity name="com.greensoft.ads.wanpu.WanpuView">
+1
+<service name=".CubeWallpaper2" permission="android.permission.BIND_WALLPAPER" label="2131230723">
+0
+0
+Owner: CN=greensoft
+Issuer: CN=greensoft
+Serial number: 4f8f4434
+Valid from: Thu Apr 19 06:46:12 CST 2012 until: Mon Apr 13 06:46:12 CST 2037
+Certificate fingerprints: 
+	MD5:91:C3:AE:C7:60:79:3B:04:5B:44:17:4F:7F:44:32:61
+	SHA1: 88:AC:79:53:9E:58:68:30:BD:06:59:2D:7F:15:47:D5:C0:0A:37:D5
+	SHA256: 42:43:73:18:EF:B7:29:74:75:B7:B0:1B:4C:A5:54:A1:C7:EA:43:7D:6D:F3:CF:94:1B:EA:32:6A:D9:EA:51:F7
+	Signature algorithm name: SHA1withRSA
+	version: 3

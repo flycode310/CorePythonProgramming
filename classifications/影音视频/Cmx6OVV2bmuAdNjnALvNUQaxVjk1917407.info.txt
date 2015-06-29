@@ -1,0 +1,108 @@
+com.clov4r.android.nil
+79
+1.3.288
+5
+11
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.MODIFY_AUDIO_SETTINGS
+76
+<activity screenOrientation="0" name=".MainPlayer" configChanges="128">
+<activity name="DetailDialogActivity" theme="16973835" configChanges="1248">
+<activity screenOrientation="4" name="CMPlayer" configChanges="1216" launchMode="2">
+<activity screenOrientation="4" name="SystemPlayer" configChanges="1184" launchMode="2">
+<activity name=".Setting" configChanges="1248">
+<activity name=".ScanFileActivity" configChanges="1248">
+<activity name="PlayListActivity" configChanges="1184">
+<activity name=".OfflineRegisterActivity">
+<activity name=".entrance.EntranceActivity" configChanges="1184">
+<activity name="com.clov4r.android.recommend.RecommendActivity" theme="2131623962" configChanges="1184">
+<activity name=".entrance.PluginNotifyActivity" configChanges="1184">
+<activity name="MainActivity" configChanges="1248">
+<activity name="ThumbCreateActivity" theme="16973840" configChanges="1248">
+<activity name=".OpenFileActivity">
+<activity name="SensorActivity">
+<activity name="ActivityStreamInput">
+<activity name=".entrance.UserHelpActivity">
+<activity name=".entrance.FileTypeListActivity">
+<activity name="ActivitySearch" configChanges="1152">
+<activity name="ActivityMoboLineVideo" configChanges="1152">
+<activity name="ActivityVideoInfo" theme="16973835">
+<activity name="ActivityScanIntelligentList" theme="2131624102" configChanges="1152">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity name="com.clov4r.android.recommend.ActivityRecommend" configChanges="1248">
+<activity name=".entrance.ActivityPicker" theme="2131624102" configChanges="1248">
+<activity name=".lib.DownloadActivity" configChanges="1248">
+<activity name="com.clov4r.android.recommend.ActivitySkipToMuGua" configChanges="1248">
+<activity name="ActivitySDCardFileExplorer" configChanges="1248">
+<activity name=".ad.RemoveAdMain" configChanges="1248">
+<activity name="com.clov4r.android.game.LucklyDialyActivity" label="2131559339">
+<activity name="com.clov4r.android.game.CardGameActivity" label="2131559339">
+<activity name=".entrance.WelcomeActivity" configChanges="1184" label="2131558933">
+<activity name=".multiplewindow.MultipleWindowActivity" configChanges="1184" label="2131558933">
+<activity name=".multiplewindow.MultipleWindowListActivity" configChanges="1184" label="2131558933">
+<activity name=".gfan.GfanActivity" configChanges="1184" label="2131558933">
+<activity name=".ad.BeautyShowActivity" configChanges="1184" label="2131558933">
+<activity name="com.clov4r.recommend.MoboOnLineVideoActivity">
+<activity screenOrientation="1" name="com.clov4r.recommend.MovieActivity">
+<activity screenOrientation="1" name="com.clov4r.mobo.android.nil.online.Activity.MoboFrame" theme="16973830" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.clov4r.mobo.android.nil.online.Activity.SortActivity" theme="16973830">
+<activity screenOrientation="1" name="com.clov4r.mobo.android.nil.online.Activity.RecommendActivity" theme="16973830">
+<activity screenOrientation="1" name="com.clov4r.mobo.android.nil.online.Activity.DownloadActivity" theme="16973830">
+<activity screenOrientation="1" name="com.clov4r.mobo.android.nil.online.Activity.AccountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.clov4r.mobo.android.nil.online.Activity.HistoryActivity" theme="16973830">
+<activity name="com.clov4r.mobo.android.nil.online.Activity.SortInfoActivity" theme="16973830">
+<activity name="com.clov4r.mobo.android.nil.online.Activity.MovieDetailsActivity" theme="16973830">
+<activity name="com.clov4r.mobo.android.nil.online.Activity.SearchActivity" theme="16973830">
+<activity screenOrientation="1" name="com.kugou.fanxing.mainframe.FanxingActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.entrance.activity.FXEntranceActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.information.activity.InformationMyInfoActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.common.crop.CropImageActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.information.activity.InformationTaInfoActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.information.activity.InformationFansActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.information.activity.InformationFollowActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.information.activity.InformationLeaveMessageActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.information.activity.InformationSubscribeActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.information.activity.FeedbackActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.information.activity.PhotoListActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.information.activity.PhotoGalleryActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.information.activity.PhotoCommentActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.common.liveroom.FxCoreLiveActivity" theme="16973840">
+<activity screenOrientation="1" name="com.kugou.fanxing.user.activity.LoginActivity" theme="2131623950" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.kugou.fanxing.user.activity.RegisterActivity" theme="2131623950" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.kugou.fanxing.user.activity.RegisterDealActivity" theme="2131623950" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.kugou.fanxing.recharge.activity.RechargeActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.recharge.activity.AlipayActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.recharge.activity.MobipayActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.recharge.activity.UPPayActivity" theme="2131623950">
+<activity screenOrientation="1" name="com.kugou.fanxing.core.liveroom.activity.LiveRoomActivity" theme="2131623950" windowSoftInputMode="18" launchMode="2">
+<activity excludeFromRecents="true" name="com.unionpay.uppay.PayActivityEx" theme="2131623950" configChanges="160" label="2131558405" windowSoftInputMode="16">
+<activity excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" theme="2131623940" configChanges="416" label="2131558405">
+<activity name=".ad.UmengAd" theme="16973830" configChanges="144">
+<activity name="com.clov4r.android.recommend.center91.GameCenterActivity" theme="16973830" configChanges="144">
+<activity name="com.clov4r.android.recommend.center91.GameDetailActivity" theme="16973830" configChanges="144">
+<activity screenOrientation="1" name="com.umeng.newxp.view.handler.UMWall" configChanges="144">
+<activity name="com.google.android.gms.ads.AdActivity" theme="16973839" configChanges="4016">
+2
+<service name=".lib.DownloadService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+0
+0
+Owner: CN=Water
+Issuer: CN=Water
+Serial number: 4d209c6b
+Valid from: Sun Jan 02 23:40:27 CST 2011 until: Mon Dec 20 23:40:27 CST 2060
+Certificate fingerprints: 
+	MD5:7B:40:DA:80:4A:8F:15:CF:4D:D1:2F:4B:4E:E2:46:68
+	SHA1: 63:9A:A7:1E:16:8E:6D:AB:B3:CB:F5:8F:6F:87:67:5E:1F:EA:FE:C7
+	SHA256: 8C:17:A3:5B:83:FE:34:D0:16:2F:F8:68:8B:10:60:E5:AC:34:9D:84:44:86:67:CA:77:93:7C:EF:4C:52:08:33
+	Signature algorithm name: SHA1withRSA
+	version: 3

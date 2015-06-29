@@ -1,0 +1,98 @@
+com.stockstar.app
+31
+3.5.0
+8
+18
+14
+android.permission.DISABLE_KEYGUARD
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+56
+<activity screenOrientation="1" name="com.jrj.main.activity.WaitingActivity" label="2131099648">
+<activity screenOrientation="1" name="com.jrj.main.activity.TutorialsActivity" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.jrj.main.activity.MainActivity" configChanges="160" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.jrj.main.activity.StocksSeachActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.jrj.main.activity.IndexContributionActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.jrj.main.activity.ManageMyStocksActivity" configChanges="160" windowSoftInputMode="32">
+<activity name="com.jrj.main.activity.MinChartActivity" configChanges="1184" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.jrj.main.activity.StockDetailActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.jrj.main.activity.StkDetailActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.jrj.main.activity.BsCldarActivity" theme="2131165276" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.jrj.main.activity.AlarmSetUpAcivity" configChanges="160" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.jrj.main.activity.InquiryActivity" configChanges="160" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.jrj.main.activity.InputCommentActivity" theme="16973839" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.jrj.main.activity.InfoCommentListActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.jrj.main.activity.MyCollectActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.jrj.main.activity.InfoContentActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.jrj.stock.trade.LoginedActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.jrj.stock.trade.BindAccountActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.jrj.stock.trade.TradeActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.jrj.stock.trade.FundAndHoldActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.stock.trade.MybrokerActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.stock.trade.BuyStockActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.stock.trade.SellStockActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.stock.trade.CancelOrdersActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.stock.trade.TradeQueryActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.stock.trade.RegistActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.stock.trade.WhatNewYlbActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.stock.trade.ForgetpassActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.LoginActivity" configChanges="160" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.RegistActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.PushSetupActivity" configChanges="160" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.MsgCenterActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.AdviceFeedbackActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.ItemSelectActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.AboutActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.MianZeActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.SetupActivity" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.jrj.main.activity.AppCommendActivity" configChanges="160">
+<activity screenOrientation="1" name="com.jrj.main.activity.ImageEditActivity" configChanges="160">
+<activity screenOrientation="1" name="com.jrj.main.activity.MoreActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.jrj.main.activity.LoginOutActivity" theme="16973839">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.ZqtResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.ZqtOpenAccountActivity" configChanges="160">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.OpenAccountActivity" configChanges="160">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.CompletePersonInfoActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.TelephoneCheckingActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.LoginActivityNew" theme="16973839">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.BindingYingLiBaoActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.ZqtBrokerSelectActivity" configChanges="160">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.ZqtBrowserActivity" configChanges="160">
+<activity screenOrientation="1" name="com.jrj.stock.trade.openactivitys.ZqtBrokerIntroduction" configChanges="160">
+<activity screenOrientation="1" name="com.jrj.main.activity.openactivitys.StockChatRoomListActivity" configChanges="160">
+<activity name="net.sourceforge.simcpux.wxapi.WXEntryActivity" theme="16973840" exported="true" launchMode="2">
+<activity name="com.tencent.connect.avatar.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+3
+<service name="com.jrj.mainapp.datacenter.ConnectMgrService">
+<service name="com.jrj.push.MyPushService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+5
+<receiver name="com.jrj.push.MyNotificationReceiver">
+<receiver name="com.jrj.push.MyPushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="com.tencent.sample.AppRegister" permission="com.tencent.mm.plugin.permission.SEND">
+0
+Owner: CN=jrj, OU=jrj, O=jrj, L=beijing, ST=beijing, C=zhcn
+Issuer: CN=jrj, OU=jrj, O=jrj, L=beijing, ST=beijing, C=zhcn
+Serial number: 4e098f9d
+Valid from: Tue Jun 28 16:23:57 CST 2011 until: Fri Jun 25 16:23:57 CST 2021
+Certificate fingerprints: 
+	MD5:CC:B0:19:B6:4E:FA:62:50:96:C3:0A:8D:E9:F7:2F:B8
+	SHA1: 91:E6:C7:C5:5B:98:92:63:4B:4D:EB:C7:2C:0D:B5:53:93:74:B4:AD
+	SHA256: 37:20:56:12:2C:57:66:FD:80:01:F2:2F:2A:11:84:BD:AF:EC:A9:70:D0:19:8E:AF:97:12:12:1A:89:EE:32:F3
+	Signature algorithm name: SHA1withRSA
+	version: 3

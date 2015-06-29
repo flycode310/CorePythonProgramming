@@ -1,0 +1,228 @@
+com.qiyi.video
+80640
+6.4
+9
+14
+41
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.qiyi.video.permission.MIPUSH_RECEIVE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.WRITE_MEDIA_STORAGE
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.xiaomi.permission.AUTH_SERVICE
+android.permission.CHANGE_CONFIGURATION
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+119
+<activity screenOrientation="1" name="org.qiyi.android.scan.ScanHelpActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.DuboActivity" theme="2131230869" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.GpsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.qimo.QimoActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.TopActivity" theme="2131230834" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.TopicActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.ProgramActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.AdActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.qisheng.activitys.QishengMainActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.PhoneMessageActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.pps.ChannelListActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.PhoneMsgAboutMeActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".WelcomeActivity" theme="2131230827" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.MainActivity" theme="2131230833" configChanges="1073743028" exported="true" label="2131165184" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.PhoneSearchActivity" theme="16973830" configChanges="1073742004" exported="true" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.CategoryLibActivity" theme="16973830" configChanges="1073742004" exported="true" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.account.PhoneAccountActivity" theme="16973830" configChanges="1073742004" exported="true" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="0" name="org.qiyi.android.commonphonepad.activity.ActivityRecommendFavor" configChanges="1073742004" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="4" name="org.iqiyi.video.activity.PlayerActivity" theme="2131230735" configChanges="1184" windowSoftInputMode="35" stateNotNeeded="false" launchMode="2">
+<activity screenOrientation="1" name="org.iqiyi.video.outside.OutSideActivity" theme="2131230734" configChanges="160" stateNotNeeded="false" launchMode="2">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.AccountUIActivity" theme="16973830" configChanges="160" exported="true" launchMode="1">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973830" configChanges="160" exported="true" launchMode="3">
+<activity screenOrientation="1" name="org.qiyi.android.commonphonepad.WXEntryActivityStart" theme="16973830" configChanges="160" exported="true" launchMode="3">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.RouterActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.RouterDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.RouterBindSuccessActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.WebADActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.qimo.video.dlna.activity.QimoControllerActivity" theme="2131230820" configChanges="1073742004" label="2131165184" windowSoftInputMode="32" launchMode="1">
+<activity name="com.xiaomi.account.openauth.AuthorizeActivity" configChanges="128" windowSoftInputMode="2">
+<activity name=".wxapi.WXPayEntryActivity" theme="16973839" exported="true" launchMode="1">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity screenOrientation="1" name="tv.pps.appstore.game.GameCenterActivity" theme="16973830" exported="true" launchMode="2">
+<activity screenOrientation="1" name="tv.pps.appstore.game.activity.AppDetailActivity" theme="16973830" exported="true">
+<activity screenOrientation="1" name="tv.pps.appstore.game.activity.PackDetailActivity" theme="16973830" exported="true">
+<activity screenOrientation="1" name="tv.pps.appstore.game.activity.DetailImagePreviewActivity" theme="16973830" exported="true">
+<activity screenOrientation="1" name="tv.pps.appstore.gamedownload.activity.PPSGameManagerActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="tv.pps.appstore.game.PPSGameCategoryListActivity" theme="16973830">
+<activity screenOrientation="1" name="tv.pps.appstore.game.PPSGameManagerActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="tv.pps.appstore.game.PPSGameGirfActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="org.qiyi.android.video.appstore.GameInstallPopWindow" theme="16973835">
+<activity screenOrientation="1" name="tv.pps.appstore.software.activity.AppStoreMainActivity" theme="16973830" exported="true" launchMode="2">
+<activity screenOrientation="1" name="tv.pps.appstore.software.activity.SoftwareDetailActivity" theme="16973830" exported="true">
+<activity screenOrientation="1" name="tv.pps.appstore.software.activity.SoftwareCategoryListActivity" theme="16973830">
+<activity name="tv.pps.appstore.game.activity.AppstoreForHtmlRequest" theme="16973909">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.ShareAPKActivity" theme="16973830" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.ShareAPKMainActivity" theme="16973830" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.PhonePlayRecordActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.PhoneCollectActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.pps.PhoneGoldActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.pps.GoldWebViewActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.PhoneSettingActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.PhoneFeedbackActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.PhoneDailyNewsActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ugc.activitys.UgcFeedFragmentActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ugc.activitys.UgcOtherTabActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32">
+<activity screenOrientation="1" name="org.qiyi.android.video.ugc.activitys.UgcFriendshipFragmentActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ugc.activitys.UgcVideoFragmentActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.PhoneRemindActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.GuessLikeNewActivity" theme="16973830" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.VideoSquareActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.BillboardActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.FrameJumpActivity" theme="16973909" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.ToCheckMoreActivity" theme="16973830" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.SecondPageActivity" theme="16973830" configChanges="160" launchMode="0">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.CommentsListActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.account.PhoneModifyNickNameActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.CommonWebViewActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.scan.ScanActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="org.qiyi.android.scan.PhoneConfirmLoginBackActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="org.qiyi.android.scan.PhoneScanBackActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.iqiyi.sso.sdk.ui.ShowAccountListActivity" configChanges="160">
+<activity name="com.iqiyi.sso.sdk.ui.SleepyAccountAuthenticatorActivity">
+<activity name="com.iqiyi.sso.sdk.ui.UidActivity" exported="true">
+<activity screenOrientation="1" name="org.qiyi.android.video.ugc.activitys.UgcMyTabActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="32">
+<activity screenOrientation="1" name="android.a.test.VideoPlayTestActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ppq.activitys.CloudActivity" theme="16973830" configChanges="160" exported="true" launchMode="2">
+<activity screenOrientation="1" name="org.qiyi.android.video.ppq.activitys.AlbumActivity" theme="16973830" configChanges="1073742004" exported="true" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ppq.activitys.TimelineActivity" theme="16973830" configChanges="1073742004" exported="true" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ppq.activitys.PPQHomeActivity" theme="16973830" configChanges="1073742004" exported="true" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ppq.activitys.ShareActivity" theme="16973830" configChanges="1073742004" exported="true">
+<activity screenOrientation="1" name="org.qiyi.android.video.ppq.activitys.PreviewActivity" theme="16973830" configChanges="1073742004" windowSoftInputMode="3">
+<activity name="org.qiyi.android.video.ppq.activitys.DetailActivity" configChanges="1184" windowSoftInputMode="19">
+<activity screenOrientation="1" name="org.qiyi.android.video.ppq.activitys.SecondShareActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="org.qiyi.android.video.ppq.activitys.PPQFriendsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.plugin.PhoneMySettingPluginActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.plugin.PhoneMySettingPluginDetailActivity" theme="16973830" configChanges="160" launchMode="2">
+<activity process=":plugin" name="org.qiyi.pluginlibrary.proxy.activity.ActivityProxy" configChanges="432">
+<activity process=":plugin" screenOrientation="4" name="org.qiyi.pluginlibrary.proxy.activity.FragmentActivityProxy" configChanges="1184" windowSoftInputMode="35" stateNotNeeded="false">
+<activity process=":plugin" name="org.qiyi.pluginlibrary.proxy.activity.DialogActivityProxy" theme="2131230839" configChanges="432">
+<activity process=":plugin" name="org.qiyi.pluginlibrary.proxy.activity.translucent.ActivityProxyTranslucent" theme="16973840" configChanges="432">
+<activity process=":plugin" name="org.qiyi.pluginlibrary.proxy.activity.translucent.FragmentActivityProxyTranslucent" theme="16973840" configChanges="432">
+<activity screenOrientation="1" name="org.qiyi.android.video.music.MusicTopListActivity" theme="2131230734" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.music.MusicTopMainActivity" theme="2131230734" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.TicketsMainActivity" theme="16973830" label="2131165184" launchMode="2">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.TestActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.MovieDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.CinemaDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.OrderDetailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.CommonFragmentActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.CityActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.TicketOrdersCenterActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.TicketOrderPayActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.ModifyPhoneActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.QuestionsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.tickets.activitys.TKInvokeActivity" theme="16973909" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.activitys.SpecialPlayListActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="android.a.test.DebugInfoActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.phone.pay.PayBaseActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.phone.pay.PhonePayActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.phone.download.PhoneDownloadActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.phone.download.LocalVideosActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.phone.download.DownloadEpisodesActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="android.a.test.DownloadDebugActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.qiyi.android.video.ui.phone.download.DownloadMoviesActivity" theme="16973830" configChanges="160" launchMode="1">
+<activity process=":plugin" screenOrientation="1" name="org.qiyi.PluginActivity" configChanges="432">
+<activity screenOrientation="1" name="org.qiyi.android.video.qimo.DlanActivity" theme="2131230734" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.iqiyi.video.episodeui.OutterEpisodeActivity" theme="2131230734" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="org.iqiyi.video.download.OutterDownloadActivity" theme="2131230734" configChanges="160" launchMode="1">
+25
+<service name="org.qiyi.android.commonphonepad.pushmessage.PushMessageService" exported="false">
+<service process=":DownloadingAppService" name="org.qiyi.android.commonphonepad.qyad.DownloadAppService" exported="false">
+<service name="org.qiyi.android.commonphonepad.service.MultiDeviceCoWorkService" exported="true">
+<service name="com.sdk.communication.SocketSer" exported="true">
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service name="org.qiyi.android.corejar.qimo.QimoService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="com.baidu.android.pushservice.CommandService" exported="true">
+<service name="tv.pps.appstore.gamedownload.DownloadService">
+<service process=":baiduLocation" enabled="true" name="com.baidu.location.f">
+<service name="com.iqiyi.video.download.QiyiDownloadCenterService" exported="false">
+<service process=".iqiyipushserviceGlobal" name="com.iqiyi.sdk.android.pushservice.PushService" exported="true" label="iQiyiGlobalPushService">
+<service name="com.iqiyi.sso.sdk.service.SleepyAccountsService" exported="true">
+<service name="org.qiyi.android.corejar.deliver.service.PPSDeliverService">
+<service process=":upload_service" enabled="true" name="com.iqiyi.video.upload.ppq.service.UploadService">
+<service process=":pluginInstaller" name="org.qiyi.pluginlibrary.install.PluginInstallerService" exported="false">
+<service process=":pluginDownloadService" name="org.qiyi.android.plugin.download.service.PluginDownloadService">
+<service process=":plugin" name="org.qiyi.android.plugin.ipc.IPCService">
+<service process=":plugin" name="org.qiyi.pluginlibrary.proxy.service.ServiceProxy">
+<service process=":pluginDownloadService" name="org.qiyi.pluginlibrary.proxy.service.SelfLaunchServiceProxy">
+<service process=":file_download_remote_service" name="org.qiyi.basecore.filedownload.FileDownloadRemoteService">
+<service name="org.qiyi.android.video.download.FileDownloadNotificationService">
+<service process=":plugin" name="org.qiyi.pluginnew.service.ServiceProxyNew">
+23
+<receiver name="org.qiyi.android.commonphonepad.pushmessage.JoinActionAlarmReceiver" exported="false">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver name="org.qiyi.android.corejar.deliver.heartbeat.HeartBeatReceiver">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+<receiver name="org.qiyi.android.commonphonepad.pushmessage.xiaomi.XiaoMiPushMessageReceive" exported="true">
+<receiver name="org.qiyi.android.commonphonepad.pushmessage.baidu.PushMsgBroadCastReceiver">
+<receiver enabled="true" name="org.qiyi.android.commonphonepad.receiver.StartPlayActivityReceiver" exported="true">
+<receiver name="org.qiyi.android.commonphonepad.receiver.StartWelcomeActivityReceiver">
+<receiver name="org.qiyi.android.commonphonepad.receiver.StartPlayerFromWeixinReceiver">
+<receiver name="org.qiyi.android.commonphonepad.receiver.StartPlayerFromThirdEntranceReceiver">
+<receiver name="org.qiyi.android.commonphonepad.receiver.QiMoBordcast">
+<receiver name="org.qiyi.android.commonphonepad.receiver.NetworkChangeBroadcast">
+<receiver name="org.qiyi.android.commonphonepad.receiver.AddPackageBroadcast">
+<receiver name="com.iqiyi.video.download.qsv.PCTransferCompleteReceiver">
+<receiver name="org.qiyi.android.commonphonepad.pushmessage.baidu.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="org.qiyi.android.commonphonepad.pushmessage.qiyi.QYPushMessageReceiver">
+<receiver name="com.iqiyi.sdk.android.pushservice.PushServiceReceiver">
+<receiver name="org.qiyi.android.commonphonepad.pushmessage.qiyi.QYPushMsgBroadCastReceiver">
+<receiver name="org.qiyi.android.video.ppq.activitys.ui.upload.UploadVideoNotificationReceiver">
+<receiver name="org.qiyi.pluginlibrary.proxy.BroadcastReceiverProxy" exported="true">
+<receiver process=":pluginDownloadService" name="org.qiyi.android.plugin.download.service.PluginReceiver">
+0
+Owner: CN=刘金瑞, OU=奇艺, O=奇艺, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=刘金瑞, OU=奇艺, O=奇艺, L=Beijing, ST=Beijing, C=CN
+Serial number: 4c9da6a0
+Valid from: Sat Sep 25 15:37:04 CST 2010 until: Sun Jun 28 15:37:04 CST 2065
+Certificate fingerprints: 
+	MD5:84:6B:46:B2:6F:2D:95:72:12:4E:4C:FD:77:8E:87:74
+	SHA1: 23:27:02:6C:42:B5:91:E1:8E:12:BD:E1:FD:FD:73:53:F7:BE:05:33
+	SHA256: BF:46:EA:E9:85:C1:AB:0D:63:68:33:67:0C:36:86:BC:44:3E:49:F3:7D:75:DE:C5:90:9A:DC:B5:87:A8:0A:B4
+	Signature algorithm name: SHA1withRSA
+	version: 3

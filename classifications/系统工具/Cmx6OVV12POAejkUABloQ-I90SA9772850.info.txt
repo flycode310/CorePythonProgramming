@@ -1,0 +1,63 @@
+com.estrongs.android.pop
+71
+1.4.8.8
+4
+-1
+13
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SET_WALLPAPER
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+com.estrongs.android.pop.PERMISSION
+android.permission.BLUETOOTH_ADMIN
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+24
+<activity name="backport.android.bluetooth.RequestEnableActivity" theme="16973840" configChanges="160" label="2131231111" noHistory="true">
+<activity name="backport.android.bluetooth.RequestDiscoverableActivity" theme="16973840" configChanges="160" label="2131231111" noHistory="true">
+<activity name=".view.FileExplorerActivity" theme="16973831" configChanges="160" label="2131230720" launchMode="1">
+<activity name=".view.CreateSmbServerActivity" theme="16973835" configChanges="160">
+<activity name=".view.CreateFtpServerActivity" theme="16973835" configChanges="160">
+<activity name=".view.PopPreferenceActivity">
+<activity name=".view.HelpActivity">
+<activity screenOrientation="4" name=".app.PopNoteEditor" theme="16973836" label="2131230884">
+<activity name=".app.ImageBrowser" configChanges="160">
+<activity name=".app.PopRemoteImageBrowser" configChanges="160">
+<activity screenOrientation="4" name=".app.PopVideoPlayer" configChanges="160">
+<activity screenOrientation="4" name=".app.StreamingMediaPlayer" configChanges="160" launchMode="2">
+<activity name=".view.TitleEditor" theme="16973835" configChanges="160">
+<activity name=".view.SupportActivity" configChanges="160" label="2131231139">
+<activity name=".view.ConfirmTaskCancelDialog" theme="16973835" configChanges="160">
+<activity name=".view.SearchConditionView" theme="16973835" configChanges="160">
+<activity name=".view.NewUserView" theme="16973835" configChanges="160">
+<activity name=".view.Property" theme="16973835">
+<activity name=".view.MultiFilesProperty" theme="16973835">
+<activity name=".app.ZipViewer" configChanges="160" label="2131231145" launchMode="1">
+<activity name=".app.CompressActivity" theme="16973835" configChanges="160" label="2131231145">
+<activity screenOrientation="4" name=".app.ArchiveExtractEditActivity" theme="16973835" configChanges="160" label="2131231164">
+<activity name=".app.ArchiveProgressActivity" theme="16973835" configChanges="160" label="2131231145">
+<activity name=".app.diskusage.DiskUsageActivity" configChanges="160" label="2131231184">
+3
+<service name=".bt.OBEXFtpServerService">
+<service name=".scanner.WifiNetworkScannerService">
+<service name=".app.ArchiveService">
+2
+<receiver name="backport.android.bluetooth.BluetoothIntentRedirector">
+<receiver name=".scanner.WifiStateReceiver">
+1
+<provider authorities="com.estrongs.android.provider.fex" name=".FexProvider">
+Owner: CN=xiao, OU=estrongs, O=estrongs, L=beijing, ST=beijing, C=cn
+Issuer: CN=xiao, OU=estrongs, O=estrongs, L=beijing, ST=beijing, C=cn
+Serial number: 49ae9f02
+Valid from: Wed Mar 04 23:32:18 CST 2009 until: Thu Dec 06 23:32:18 CST 2063
+Certificate fingerprints: 
+	MD5:30:79:A9:83:58:7B:13:F6:86:1D:ED:FB:6F:AD:55:02
+	SHA1: 3B:4C:A2:0E:F5:76:1B:67:13:97:09:99:05:14:6A:59:26:66:FC:E4
+	SHA256: 08:E7:CF:9D:16:6F:82:55:3F:C8:9A:44:7A:DA:FF:3B:F1:7A:B5:3E:A7:9B:97:43:C2:50:FC:DF:C5:7F:A7:5B
+	Signature algorithm name: SHA1withRSA
+	version: 3

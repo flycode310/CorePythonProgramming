@@ -1,0 +1,51 @@
+media.music.musicplayer
+269
+2.6.9
+14
+17
+13
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNAL_SYSTEM_WINDOW
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.MODIFY_AUDIO_SETTINGS
+9
+<activity screenOrientation="1" name="com.arist.activity.WelcomeActivity" theme="16973933" exported="true" label="2131165213">
+<activity screenOrientation="1" name="com.arist.activity.MainActivity" label="2131165213" launchMode="2">
+<activity screenOrientation="1" name="com.arist.activity.MusicPlayActivity" exported="true" label="2131165213" launchMode="2">
+<activity screenOrientation="1" name="com.arist.activity.SkinActivity" label="2131165215">
+<activity name="com.arist.activity.SettingScreen" label="2131165213">
+<activity screenOrientation="1" name="com.arist.activity.ScanMusicActivity" label="2131165213">
+<activity screenOrientation="1" name="com.arist.activity.EquizeActivity" theme="16973933">
+<activity name="com.ijoysoft.appwall.GiftActivity">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+4
+<service stopWithTask="false" name="com.arist.service.MusicPlayService" label="com.arist.service.MusicPlayService">
+<service name="com.arist.service.MusicDownloadService">
+<service name="com.arist.service.MediaScannerService">
+<service name="com.arist.service.DeskLrcService">
+5
+<receiver name="com.arist.widget.Widget4x1White" label="2131165274">
+<receiver name="com.arist.widget.Widget4x1Transparent" label="2131165275">
+<receiver name="com.arist.widget.Widget2x2Transparent" label="2131165276">
+<receiver name="com.arist.service.MediaButtonReceiver" exported="true">
+<receiver name="com.arist.service.RestartPlayerServiceReceiver">
+0
+Owner: CN=Rabbit, OU=Snowrabbit, O=Snowrabbit Team
+Issuer: CN=Rabbit, OU=Snowrabbit, O=Snowrabbit Team
+Serial number: 512c3d8f
+Valid from: Tue Feb 26 12:43:59 CST 2013 until: Thu Feb 02 12:43:59 CST 2113
+Certificate fingerprints: 
+	MD5:D2:06:1E:6C:A5:C1:F3:3E:9C:19:A6:C4:AA:D2:5E:28
+	SHA1: 95:8E:F8:E3:A0:DA:34:24:08:E3:E0:88:B0:47:6D:4F:B2:AD:20:F1
+	SHA256: FE:08:CA:3F:9B:0E:B8:BE:6B:9E:B7:56:8D:D5:1A:D9:E4:E0:BE:68:56:8E:58:E4:42:AF:D4:72:C9:4F:FB:C9
+	Signature algorithm name: SHA1withRSA
+	version: 3

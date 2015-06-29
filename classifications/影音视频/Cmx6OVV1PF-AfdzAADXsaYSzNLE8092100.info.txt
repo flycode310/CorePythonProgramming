@@ -1,0 +1,76 @@
+com.android.iwo.shop.activity
+1
+1.0.0
+8
+17
+20
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+36
+<activity screenOrientation="1" name="com.android.iwo.shop.activity.Welcome" label="2131034112" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.android.iwo.shop.activity.MainActivity" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="SelectActivity">
+<activity screenOrientation="1" name="AboutUs">
+<activity screenOrientation="1" name="MyZero">
+<activity screenOrientation="1" name="DetailActivity">
+<activity screenOrientation="1" name="MessageList">
+<activity screenOrientation="1" name="com.android.iwo.users.ActivationCodeActivity">
+<activity screenOrientation="1" name="AddPhoto">
+<activity screenOrientation="1" name="Chat" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.android.iwo.share.ContactActivity">
+<activity screenOrientation="1" name="FeedBack">
+<activity screenOrientation="1" name="com.android.iwo.users.FindPassWord">
+<activity screenOrientation="1" name="FriendsList">
+<activity screenOrientation="1" name="GetBgImg">
+<activity screenOrientation="1" name="NearActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.android.iwo.users.RegistActivity">
+<activity screenOrientation="1" name="SaveActivity">
+<activity screenOrientation="1" name="com.android.iwo.users.SetNewPassWordActivity">
+<activity screenOrientation="1" name="UpVideo">
+<activity screenOrientation="1" name="UserCenter">
+<activity screenOrientation="1" name="UserInfoEdit">
+<activity screenOrientation="1" name="UserInfoShow">
+<activity screenOrientation="1" name="com.android.iwo.users.UserLogin">
+<activity screenOrientation="1" name="UserSetPas">
+<activity screenOrientation="1" name="UserVideoDetail">
+<activity screenOrientation="1" name="UserVideoList">
+<activity screenOrientation="1" name="UserZero">
+<activity screenOrientation="1" name="ShareActivity">
+<activity screenOrientation="1" name="PictureActivity">
+<activity screenOrientation="1" name="AdWebActivity">
+<activity screenOrientation="1" name="PingLunActivity">
+<activity screenOrientation="1" name="ShopListActivity">
+<activity screenOrientation="1" name="VideoActivity">
+<activity screenOrientation="1" name="PlayRecordedActivity">
+<activity screenOrientation="1" name="MyShowActivity">
+0
+0
+0
+Owner: CN=iwomag, OU=beijing, O=beijing, L=beijing, ST=iwomag, C=000
+Issuer: CN=iwomag, OU=beijing, O=beijing, L=beijing, ST=iwomag, C=000
+Serial number: 51e36932
+Valid from: Mon Jul 15 11:14:58 CST 2013 until: Fri Jul 09 11:14:58 CST 2038
+Certificate fingerprints: 
+	MD5:67:7E:29:03:B3:79:16:CD:A3:34:78:79:E5:C0:CA:6A
+	SHA1: EA:1B:A6:05:92:38:B4:E0:65:7C:D8:05:72:E7:42:E3:23:C6:F7:ED
+	SHA256: 94:72:93:B8:10:66:60:3B:E1:0C:CA:2A:4E:A7:8D:7A:65:74:EE:71:A6:5F:8B:7D:12:BB:D1:B4:9F:1F:11:32
+	Signature algorithm name: SHA1withRSA
+	version: 3

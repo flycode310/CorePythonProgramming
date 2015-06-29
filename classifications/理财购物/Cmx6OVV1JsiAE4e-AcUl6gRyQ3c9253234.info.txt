@@ -1,0 +1,479 @@
+com.chinamworld.main
+33
+3.4.2
+5
+17
+36
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.USE_CREDENTIALS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.SEND_SMS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+com.huawei.authentication.HW_ACCESS_AUTH_SERVICE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.BLUETOOTH_ADMIN
+411
+<activity screenOrientation="1" name="com.ccb.mbs.main.StartActivity" theme="2131361829" label="2131427328">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.ccb.biz.MainActivity" theme="16973840" windowSoftInputMode="34">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.ccb.biz.home.HomeActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.ccb.biz.home.HomeContainer" theme="16973840">
+<activity screenOrientation="1" name="com.ccb.biz.drawer.DrawerLeft">
+<activity screenOrientation="1" name="com.ccb.biz.drawer.CategoryActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.yue.ThirdServiceAct" theme="16973840">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.Lvl2MenuListActivity" theme="2131361828">
+<activity screenOrientation="1" name="com.ccb.biz.invest.InvestMainActivity">
+<activity screenOrientation="1" name="com.ccb.biz.invest.InvestLvl2MenuLccp">
+<activity screenOrientation="1" name="com.ccb.biz.special.SpecialMainActivity">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.hzh.TransferHzhInput" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.hzh.TransferHzhConfirm" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.hzh.TransferHzhSucc" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.hzh.TransferHzhInform" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.hzh.TransferHzhInformSucc" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.fast.TransferFastInput" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.fast.TransferFastConfirm" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.fast.PayeeListActV2" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.fast.TransferFastSucc" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.privilege.PrivilegeMainAct" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.biz.favor.FavorMainActivity">
+<activity screenOrientation="1" name="com.ccb.biz.favor.FavorAddMainAct">
+<activity screenOrientation="1" name="com.ccb.biz.favor.FavorAddLvl2Mbank">
+<activity screenOrientation="1" name="com.ccb.biz.favor.FavorAddLvl2Yue">
+<activity screenOrientation="1" name="com.nantian.framework.view.EbsPListActivity">
+<activity screenOrientation="1" name="com.ccb.login.IndexActivity" theme="2131361799">
+<activity screenOrientation="1" name="com.ccb.login.FirstLoginActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.login.ChangeUserLoginActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.login.LoginActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenServiceActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenInputInfoActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenConfirmActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenInputAccountPwdActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenSuccessActivity" theme="2131361800">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenAgreementActivity" theme="2131361800">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.hzh.TransferHzhFirstActive" theme="2131361800">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.hzh.TransferHzhFirstSucc" theme="2131361800">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenInputValidateActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenInputCredentialsCodeActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenBranchListActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.openservice.OpenCredentialsListActivity" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdInputAmountActivity" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdInputAccountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdPayeeListActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdPayeeListDialogActivity" theme="2131361807">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdListViewDialogActivity" theme="2131361807">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdAccountListDialogActivity" theme="2131361807">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdDepositDialogActivity" theme="2131361807">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdCardActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdActiveActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdActiveSucessActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdChoiceDateActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdLumpActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.GetMoneyAcount" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.SelectAccount" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.SuccessJump" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.SuccsessPage" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdInstallmentActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdWillLiveActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdNoticeDepositActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.TransferHzdNoticeSevenDayActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.MessageNoticeGetter" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.transfer.hzd.MessageNoticeGetterSuccess" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.creditcar.CreditCardMainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.CreditCardRMBRepaymentActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.CreditCardRMBRepaymentConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.CreditCardRMBOtherpaymentConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.CreditCardRMBRepaymentSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.CreditCardRMBRepaymentFirstActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.CreditCardRMBRepaymentSuccse" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinaryMainActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinaryConfirmActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinarySuccessActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinarySendSmsActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinarySmsSuccessActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinaryPayeeListActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinaryChooseBankActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinaryChooseBranchActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinaryChooseProvinceActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinaryChooseCityActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinaryFirstActivity" theme="16973830">
+<activity name="com.ccb.transfer.ordinary.TransferOrdinarySuccess_V1Activity" theme="16973830">
+<activity name="com.ccb.transfer.phonetophone.TransferPhoneToPhoneMainActivity" theme="16973830">
+<activity name="com.ccb.transfer.phonetophone.TransferPhoneToPhoneConfirmActivity" theme="16973830" windowSoftInputMode="20">
+<activity name="com.ccb.transfer.phonetophone.TransferPhoneToPhoneSuccessActivity" theme="16973830">
+<activity name="com.ccb.transfer.phonetophone.TransferPhoneToPhoneConfirmNoPhoneUserActivity" theme="16973830">
+<activity name="com.ccb.transfer.phonetophone.TransferPhoneToPhoneInputNameNoPhoneUserActivity" theme="16973830">
+<activity name="com.ccb.transfer.phonetophone.TransferPhoneToPhonePayeeListActivity" theme="16973830">
+<activity name="com.ccb.transfer.phonetophone.TransferPhoneToPhoneMain_V1_Activity" theme="16973830">
+<activity name="com.ccb.transfer.phonetophone.TransferPhonetophoneFirstActivity" theme="16973830">
+<activity name="com.ccb.transfer.phonetophone.TransferPhonetoPhoneSuccse" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhMainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhFirstActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhSuccse" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhAccountListDialogActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhInputAmountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhCardActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhConCardActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhInputAccountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.transfer.dzh.TransferDzhSucAccActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.intimate.BindIntimateAccountActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.account.intimate.BindIntimateAccountConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.intimate.BindIntimateAccountSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.intimate.IntimateAccountListActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.intimate.IntimateAccountMainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.AddCPFAccountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.AddCPFAccountSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.AddCreditCardAccountSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.AddCreditCardActivity" theme="16973830" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.SelectCardAccountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.AddDepositAccountActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.AddDepositAccountSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.SearchBranchActivity" theme="16973830" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.SelectAccountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.addaccount.AddAccountMainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.SetThemeBackGroudActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.repayment_set.CreditCardRepaymentSetMainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.repayment_set.CreditCardRepaymentSetConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.repayment_set.CreditCardRepaymentSetSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.repayment_set.CreditCardRepaymentSetActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.creditcar.repayment_set.CreditCardRepaymentSetOtherActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.SetMainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.SetAboutActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.SetGesturePasswordActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.VerificationGestureActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.VersionInfoActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.SetCancelActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.LoginOutActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.loginout.LoginOutActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.loginout.LoginOutInputActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.loginout.LoginOutConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.LoginOutOtherActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.LoginOutConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.setting.LoginOutSucessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.lifeservice.phonecharge.PhoneChargePaymentMainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.newfalsh.FeedBackActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.newfalsh.NewFlashActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.newfalsh.NewFlashIsOkActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.MyACCActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.myacc.activate.ActivateActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.myacc.activate.ActivateIsOkActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.loss.LossActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.loss.LossIsOkActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.details.calendar.CalendarView" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.details.DetailsActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.details.MyCalendarActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.details.MyDetailActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.card.CardQueryActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.card.CardQueryIsOkActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.card.CardQueryMonthActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.card.CardQueryMonthTwoActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.btwapview.ui.BTCBankActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.btwapview.ui.BTCDataCellActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.btwapview.ui.BTCCalendarActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.btwapview.ui.BTCCalendarManyDaysAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.btwapview.ui.BTCBankPayActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mobile.shake.ShakeForBalanceActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mobile.shake.BalanceResultActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mobile.shake.ShakeForMobileBankActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.PaperGoldTradingMarketActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.ForeignTradingMarketActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.PaperGoldMarketActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.ForeignNewsActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.sweep.SweepActivtiy" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.act.ActWelcome" theme="16973830" launchMode="3">
+<activity screenOrientation="1" name="com.ccb.biz.favor.FavorSelectCityActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.NobelmetalActicity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.ForeignMarketActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.ForeignPieList" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.safecenter.SafeMessageActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.safecenter.SafeMainActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.biz.yue.YueCarActivity" theme="16973830" launchMode="3">
+<activity screenOrientation="1" name="com.ccb.mobile_ccbwebview.CCBWebviewActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.ForeignSettingActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.biz.transfer.TransferMainTwoActivity" theme="16973830">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.ccb.scan.ScanVolidate" theme="16973830" label="2131427328" windowSoftInputMode="32">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.ccb.scan.FileManagerActivity" theme="16973830" label="2131427328" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.scan.zxing.CaptureActivity" theme="16973831" label="2131427328" launchMode="0">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.ccb.scan.ScanVolidateBtwActivity" theme="16973830" label="2131427328" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.myacc.details.DetailsTwoActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.fund.MyAccFundActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.fund.MyAccFundNextActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.cardapply.CardApplyQueryActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.cardapply.CardApplyActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.cardapply.CardApplyNextActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.cardapply.CardApplyReadActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.cardapply.CardApplyNextIsActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.myacc.cardapply.CardApplyNextIsOKActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.login.UpdatePasswordActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.login.UpdatePswSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.login.BindCheckAccountActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.login.BindCheckAccountSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.login.BindChangeActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.ccb.login.BindChangeSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.main.ActEntry" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.main.ActSkin" theme="16973830">
+<activity screenOrientation="1" name="com.chinamworld.mobile_tool.ComputorActivity" theme="16973830">
+<activity screenOrientation="1" name="com.chinamworld.mobile_tool.RateActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.ibank.SafeTransFerDialog" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.btwapview.ui.widget.CustomDialogActivityForAlertInput" theme="2131361800" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.mobile_pay.CCBPay_MainActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ysh.accountpayment.pay.PaymentActivity" theme="2131361875" label="2131427328">
+<activity screenOrientation="1" name="com.ysh.accountpayment.pay.CommonPayFirstActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.ysh.accountpayment.pay.CommonPaySecondActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.ysh.accountpayment.pay.CommonPayThreeActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.ysh.accountpayment.pay.CommonPaySuccessActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.ysh.accountpayment.pay.PaymentAgreementActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.ysh.accountpayment.pay.PaymentAgreementDetailActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.ysh.accountpayment.pay.PhoneRechargeActivity" theme="2131361873">
+<activity screenOrientation="1" name="com.ccb.biz.DialogActivity" theme="2131361800" windowSoftInputMode="32">
+<activity name="com.ccb.shake_everyday.activity.ShakeMyActivityMainAct" theme="16973830">
+<activity name="com.ccb.shake_everyday.activity.ShakeDescriptionOfActivitiesAct" theme="16973830">
+<activity name="com.ccb.shake_everyday.activity.ShakeDeliveryAddressMainAct" theme="16973830">
+<activity name="com.ccb.shake_everyday.activity.ShakeDeliveryAddressSuccAct" theme="16973830">
+<activity name="com.ccb.shake_everyday.activity.ShakeMyPrizeAct" theme="16973830">
+<activity name="com.ccb.shake_everyday.activity.ShakeMerchantPrizeAct" theme="16973830">
+<activity name="com.ccb.shake_everyday.activity.ShakeMerchantPrizeDetailAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.shake_everyday.activity.ShakeEveryDayMainActivity" theme="16973840" windowSoftInputMode="32">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.ccb.suying.SuYingListActivity" theme="16973830" label="2131427328" windowSoftInputMode="32">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.ccb.suying.SuYingCalendarActivity" theme="16973830" label="2131427328" windowSoftInputMode="32" launchMode="3">
+<activity screenOrientation="1" name="com.ccb.suying.SuYingMainActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.LifeActivity" theme="2131361853">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.LifeGuidActivity" theme="2131361852">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.PaymentAgreementActivity" theme="2131361851" label="2131428948">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.PhoneRechargeActivity" theme="2131361851" label="2131428951" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.PaymentAgreeDetailActivity" theme="2131361851" label="2131428959">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.AccountBankPaymentActivity" theme="2131361851" label="2131428963">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.BankAccountListActivity" theme="2131361851" label="2131428961">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.PhoneRechargeSuccessActivity" theme="2131361851" label="2131428962">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.LifeServiceActivity" theme="2131361851" label="2131428960">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.RechargePayAccountActivity" theme="2131361851" label="2131428964" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.AccountInfoFillActivity" theme="2131361851" label="2131428965">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.AccountInfoFillConfirmActivity" theme="2131361851" label="2131428965">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.AccountActivationActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.AccountActivationSuccessActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.BaseActivity" theme="2131361851" label="2131428966">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.CommonPayAccontInputAccountInfoActivity" theme="2131361851" label="2131428967">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.CommonPaymentActivity" theme="2131361851" label="2131428968">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.CommonPaySuccessActivity" theme="2131361851" label="2131428969">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.CommonPhoneBankActivity" theme="2131361851" label="2131428970" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.city.PListActivity" theme="2131361851" label="2131428972">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.AccountRechargComfireInfoActivity" theme="2131361851" label="2131428974">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.CommonPaymentInfoComfirmActivity" theme="2131361851" label="2131428975" launchMode="0">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.RecieveCashActivity" theme="2131361851" label="2131428996">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.RecieveFillInfoActivity" theme="2131361851" label="2131428998">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.RecieveComfirmInfoActivity" theme="2131361851" label="2131428998">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.ParentActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.gcard.GCardActivity" theme="2131361851" label="2131428999" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.gcard.GCardResultActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.gcard.GCardAmountSelect" theme="2131361851" label="2131429010">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.qpay.QPayActivity" theme="2131361851" label="2131429011" launchMode="0">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.insurance.InsurancePayActivity" theme="2131361851" label="2131429016">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.CinemaTicketActivity" theme="2131361851" label="2131429018">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.MyFavorPaymentActivity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.myfee.MyFeeRecordDetailActivity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.login.SsoCallbackActivity" theme="2131361852">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.myfee.MyFeeAccountValidateActivity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.myfee.MyFeeAccountValidateMsgActivity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.customfee.CustomFee2Activity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.customfee.CustomFeeActivity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.customfee.CustomFeeAddFeeActivity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.customfee.CustomFeeAddFeeSuccessActivity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.customfee.CustomFeeDetailActivity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.mobilepayment.ysh.customfee.CustomFeeChooseActivity" theme="2131361851" label="2131429022">
+<activity screenOrientation="1" name="com.ysh.scan.ScanActivity" theme="2131361853">
+<activity screenOrientation="1" name="com.ysh.scan.ScanCaptureActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ysh.scan.ScanTDCodeResultActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ysh.scan.ScanReceiptQueryResultActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ysh.scan.ScanReceiptQueryActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ysh.scan.ScanSetEmailActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ysh.scan.ScanSetEmailSuccessActivity" theme="2131361851">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.mapquery.CCBBranchMapMainActivity" theme="16973830" label="2131427328" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.BankBranchMapActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.ATMDetailActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.OutletsDetailActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.SelfServiceBankDetailActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.POISurroundingActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ysh.mbs.business.wuhantrafficfine.WuhanTrafficFineActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.nantian.framework.NTCommonActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.commonActivity.NTDrawerActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.commonActivity.NtGestureActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.nantian.framework.ccb.NTCcbSsoCallbackActivity" theme="16973909" exported="true">
+<activity name="com.ccb.mbs.i_share_core.nt.android.share.nt_share_ShareActivity" theme="2131361921" label="2131429116">
+<activity name=".wxapi.WXEntryActivity" theme="16973909" exported="true" label="2131429116">
+<activity name="com.ccb.mbs.i_share_core.nt.android.newsflash.view.NewsflashActivity" theme="2131361921">
+<activity name="com.ccb.mbs.i_share_core.nt.android.share.view.nt_share_SharePreviewActivity">
+<activity name="com.ccb.mbs.personalassert.PersonalAssetActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.buyfund.ExecutionOrderDetailActivity" theme="16973833" configChanges="1204" label="2131427328" windowSoftInputMode="32">
+<activity name="com.ccb.mbs.personalassert.view.buyfund.ExecutionOrderWindowActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.buyfund.ExecutionOrderListActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.buyfund.ExecutionOrderSelectAccountActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.buyfund.ExecutionOrderSuccessActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.buyfund.ExecutionOrderConfirmActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.buyfund.ExecutionOrderXieyiConfirmActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.buyfund.ExecutionOrderXieyiShuActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.searchorder.SearchOrderIndexActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.searchorder.SearchOrderListActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity name="com.ccb.mbs.personalassert.view.searchorder.SearchOrderDetailActivity" theme="16973833" configChanges="1204" label="2131427328">
+<activity screenOrientation="1" name="com.ccb.mbs.merchant.NTMerchantActivity" theme="16973830" label="2131429106" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.mbs.merchant.NTMerchantDetailActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.voicecontrol.VoiceControlActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.voicecontrol.InterlocutionActivity" theme="16973830">
+<activity name="com.ccb.mobile_shop_pay.CheckShopOrderActivity" theme="16973830">
+<activity name="com.ccb.mobile_shop_pay.IdentifyCodeActivity" theme="16973830" windowSoftInputMode="32">
+<activity name="com.ccb.mobile_shop_pay.SelectAccNoActivity" theme="16973830">
+<activity name="com.ccb.mobile_shop_pay.ActiveAccActivity" theme="16973830" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ccb.smb.VoiceUpdateActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.smb.VoiceAuthActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.touchID.TouchIDAddDeviceActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.newfalsh.CcbNewsflashActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.msgcenter.YXMessageCenterActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ccb.msgcenter.YXAccountMsgActivity">
+<activity screenOrientation="1" name="com.ccb.msgcenter.YXMessageSettingActivity">
+<activity screenOrientation="1" name="com.ccb.msgcenter.KuaiXunDeleteAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.msgcenter.YXMsgDeleteActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.booking.BookingQueuingConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.booking.BookingQueuingConfirmActivity2" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.booking.BookingQueuingSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.booking.BookingWithdrawalConfirmActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.booking.BookingWithdrawalSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.NobleMetalTradingMarketAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.signing.NobleMetalSigningMainAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.signing.NobleMetalSigningConfirmAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.signing.NobleMetalSigningSuccessAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginMainAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginDetailAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginInquiryAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginCalendarAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginInquiryDetAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginInquiryDetNoDataAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginIntoInputAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginIntoConfirmAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginIntoSuccessAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginOutInputAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginOutConfirmAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.margin.NobleMetalMarginOutSuccessAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.NobleMetalSetAndHelpMainAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.NobleMetalSetAndHelpTimeDesAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.NobleMetalNoticeMainAct" theme="16973830">
+<activity name="com.ccb.foreign.twowaytrade.ForeignTwowayMarketActivity" theme="16973830">
+<activity name="com.ccb.foreign.twowaytrade.ktkc.GoldTwowayTradeKTKCActivity" theme="16973830">
+<activity name="com.ccb.foreign.twowaytrade.ktkc.GoldTwowayTradeKTKCConfirmActivity" theme="16973830">
+<activity name="com.ccb.foreign.twowaytrade.ktkc.GoldTwowayTradeKTKCSuccessActivity" theme="16973830">
+<activity name="com.ccb.foreign.twowaytrade.gd.GoldTwowayTradeGuaDanActivity" theme="16973830">
+<activity name="com.ccb.foreign.twowaytrade.gd.GoldTwowayTradeGuaDanProfitActivity" theme="16973830">
+<activity name="com.ccb.foreign.twowaytrade.gd.GoldTwowayTradeGuaDanProfitConfirmActivity" theme="16973830">
+<activity name="com.ccb.foreign.twowaytrade.gd.GoldTwowayTradeGuaDanSuccessActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.NobleMetalMixQueryAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.holdpositionquery.HoldPositionQueryAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.holdpositionquery.HoldPositionQueryDetailAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.PendingOrderQueryAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.PendingOrderQuerySummAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.PendingOrderQueryDetailAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.addorder.AddOrderAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.addorder.AddOrderInfoAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.addorder.AddOrderConfAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.addorder.AddOrderSuccAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.cancelorder.CancelOrderConfAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.cancelorder.CancelOrderTwoWayConfAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.cancelorder.CancelOrderAddedOrderConfAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.pendingorderquery.cancelorder.CancelOrderSuccAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.transactionquery.TransactionQueryAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.transactionquery.TransactionQuerySummAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.transactionquery.TransactionQueryDetailAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.foreign.twowaytrade.mixquery.SelectDateAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.EAccountMenuAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.eaccmanage.EAccManagerAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.eaccmanage.BindAccConfirmAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.eaccmanage.BindChangeSuccAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.eaccmanage.BindNoInputAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.eaccmanage.SelectBindAccAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.uploadidcard.EAccountUpLoadIDCardAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.uploadidcard.EAccountUpLoadIDCardSuccessAct">
+<activity screenOrientation="1" name="com.ccb.login.EAccountLoginSetPasswordConfirmActivity" theme="2131361800">
+<activity screenOrientation="1" name="com.ccb.login.EAccountLoginSetPasswordSuccessActivity" theme="2131361800">
+<activity screenOrientation="1" name="com.ccb.login.EAccountLoginSetPasswordMainActivity" theme="2131361800">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.setpw.EAccountSetPwMainAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.setpw.EAccountSetPwAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.setpw.EAccountSetPwSuccessAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.choosecity.AreaChooseActivity">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenMainAct2">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenVerifyAct2">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenSuccessAct2">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountAddAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountAddSuccessAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenNoticeAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenDetailAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenMainAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenNextAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenVerifyAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenSuccessAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenContentAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.open.EAccountOpenServiceAct">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferMainAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferHzhInputAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferDzhInputAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferHzhConfirmAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferDzhConfirmAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferHzhSuccessAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferDzhSuccessAct" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferHzhChooseBranchActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferHzhChooseBankActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferHzhChooseProvinceActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.account.eaccount.transfer.EAccountTransferHzhChooseCityActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.wandianditu.view.BranchMapActivity" theme="16973830">
+<activity screenOrientation="1" name="com.ccb.mbs.merchant.NTMerchantDetailMapActivity" theme="16973830">
+7
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.ccb.setting.GestureService">
+<service name="com.ccb.setting.ProtectService">
+<service process=":yxpush" name="com.ccb.android.yxpush.mif.YXReceiveService" exported="false">
+<service process=":yxpush" name="com.ccb.android.yxpush.mif.YXSendService" exported="false">
+<service name="com.ccb.android.yxpush.mif.YXMonitorService" exported="false">
+<service process=":yxpush" name="com.ccb.android.yxpush.aidl.YXRemotePushService" exported="false">
+5
+<receiver name="com.ccb.utils.Intentbroadcast">
+<receiver name="com.ccb.mbs.i_share_core.nt.android.share.channel.weixin.nt_share_WeixinNotificationReceiver" exported="false">
+<receiver name="com.ccb.msgcenter.util.YXIntentbroadcast" exported="false">
+<receiver name="com.ccb.msgcenter.util.YXMessageBroadcast" exported="false">
+<receiver name="com.ccb.android.yxpush.mif.BootBroadcastReceiver" label="2131427328">
+0
+Owner: CN=中国建设银行股份有限公司, OU=中国建设银行股份有限公司, O=中国建设银行股份有限公司, L=北京市, ST=北京市, C=CN
+Issuer: CN=中国建设银行股份有限公司, OU=中国建设银行股份有限公司, O=中国建设银行股份有限公司, L=北京市, ST=北京市, C=CN
+Serial number: 4e857128
+Valid from: Fri Sep 30 15:35:04 CST 2011 until: Thu Jan 31 15:35:04 CST 3011
+Certificate fingerprints: 
+	MD5:E9:11:24:7E:7D:7A:A0:AC:58:E1:F2:C9:27:02:E7:B8
+	SHA1: 4C:E1:B6:FA:C0:0B:23:7B:AB:B7:4F:3D:EE:61:A8:0B:69:76:00:B7
+	SHA256: C8:19:13:38:F1:17:2B:E7:88:26:6F:EF:54:BC:0C:64:3E:9A:86:B7:07:3B:1D:3E:CA:2F:B7:87:F5:BB:E0:D8
+	Signature algorithm name: SHA1withRSA
+	version: 3

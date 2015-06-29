@@ -1,0 +1,256 @@
+com.dianxinos.dxhome
+5800
+5.8
+7
+14
+61
+com.android.ContactWidget.permission.WRITE_SETTINGS
+org.adwfreak.launcher.permission.READ_SETTINGS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.CLEAR_APP_CACHE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+com.dianxinos.dxhome.permission.WRITE_SETTINGS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.PERSISTENT_ACTIVITY
+com.oppo.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.tencent.qqlauncher.permission.READ_SETTINGS
+android.permission.SEND_SMS
+com.huawei.launcher2.permission.READ_SETTINGS
+ACCESS_WEATHERCLOCK_PROVIDER
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.DISABLE_KEYGUARD
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.EXPAND_STATUS_BAR
+android.permission.MODIFY_PHONE_STATE
+org.adw.launcher_donut.permission.READ_SETTINGS
+com.qihoo360.launcher.permission.READ_SETTINGS
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.BIND_APPWIDGET
+com.fede.launcher.permission.READ_SETTINGS
+org.adw.launcher.permission.READ_SETTINGS
+com.android.launcher.permission.READ_SETTINGS
+net.qihoo.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.SET_WALLPAPER
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SET_WALLPAPER_HINTS
+android.permission.READ_SMS
+com.android.mylauncher.permission.READ_SETTINGS
+com.lge.launcher.permission.READ_SETTINGS
+com.dianxinos.dxhome.permission.READ_SETTINGS
+com.android.ContactWidget.permission.READ_SETTINGS
+android.permission.GET_PACKAGE_SIZE
+android.permission.WRITE_APN_SETTINGS
+com.huawei.android.launcher.permission.READ_SETTINGS
+android.permission.BATTERY_STATS
+com.htc.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_SYNC_SETTINGS
+android.permission.VIBRATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+139
+<activity clearTaskOnLaunch="true" screenOrientation="1" name="com.nd.hilauncherdev.launcher.Launcher" theme="2131492873" configChanges="164" label="2131362016" windowSoftInputMode="32" stateNotNeeded="true" launchMode="2">
+<activity clearTaskOnLaunch="true" screenOrientation="1" name="com.nd.android.launcher.Launcher" theme="16973840" exported="true" windowSoftInputMode="32" stateNotNeeded="true" launchMode="2">
+<activity name="com.nd.hilauncherdev.framework.AppChooserListActivity" theme="2131492919">
+<activity name="com.nd.hilauncherdev.kitset.systemtoggler.BrightnessActivity" theme="16973840">
+<activity name="com.nd.hilauncherdev.kitset.systemtoggler.MyBatteryBrightnessActivity" theme="16973840">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.nd.hilauncherdev.widget.systemtoggler.SystemSwitchDetailActivity" theme="2131492925" configChanges="160">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.app.activity.AppResolverSelectActivity" theme="2131492920">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.folder.activity.FolderRenameActivity" theme="2131492920">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.folder.activity.FolderEncriptTypeChooseActivity" theme="2131492920">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.folder.activity.FolderEncriptSettingActivity" theme="2131492920">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.folder.activity.FolderEncriptEntranceActivity" theme="2131492920">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.widget.feedback.FeedbackActivity" theme="16973837" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.widget.feedback.FeedbackReplyActivity" configChanges="160">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.nd.hilauncherdev.kitset.crop.CropImageActivity" theme="16973830" configChanges="160" label="2131361949">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.nd.hilauncherdev.wallpaper.ShowWallpaperChangeEffectActivity" theme="16973840" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.wallpaper.swapwallpaper.SwapWallpaperSettingActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.wallpaper.swapwallpaper.WallpaperStyleActivity" configChanges="160">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.nd.hilauncherdev.wallpaper.autochange.WallpaperSettingActivity" theme="2131492876" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.nd.hilauncherdev.wallpaper.autochange.SelectWallpaperActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.push.PushMsgRedirectActivity" theme="16973830">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.menu.SystemSettingsActivity" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.menu.systemhardware.PandaHomeCheckMainActivity" theme="2131492876" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.menu.systemhardware.SystemHardwareTestActivity" theme="2131492876" launchMode="2">
+<activity screenOrientation="1" name="com.sec.android.app.screencapture.ScreenCaptureAnimationActivity" theme="16973840" launchMode="3">
+<activity screenOrientation="1" name="com.sec.android.app.screencapture.NoRootRecommendSoftwareActivity" theme="2131492876" launchMode="3">
+<activity screenOrientation="1" name="com.sec.android.app.screencapture.ScreenCaptureCloseNotificationActivity" theme="16973840" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.menu.systemhardware.PandaHomeCheckActivity" theme="2131492876" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.HomeSettingsActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.NotificationSettingActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.SetDefaultLauncherGuideActivity" theme="2131492919">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.ScreenSettingsActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.DrawerSettingsActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.AdvancedSettingsActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.AboutSettingsActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.express.ExpressActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.search.SettingSearchActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.IconAndFontSettingActivity" theme="2131492876">
+<activity enabled="false" name="com.nd.hilauncherdev.settings.DefaultActivity" stateNotNeeded="true" launchMode="3">
+<activity name="com.nd.hilauncherdev.webconnect.versionupdate.SoftUpdateDialog" theme="2131492920">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.nd.hilauncherdev.webconnect.versionupdate.SoftUpdateActivity" theme="2131492873">
+<activity name="com.nd.hilauncherdev.webconnect.versionupdate.WaitForDownloadDialog" theme="2131492920">
+<activity excludeFromRecents="true" name="com.nd.hilauncherdev.myphone.battery.BrightnessActivity" theme="2131492935" taskAffinity="myphone.battery.Brightness">
+<activity process=":hilauncherex_start" screenOrientation="1" name="com.nd.hilauncherdev.readme.ReadMeNewActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.widget.taobao.TaobaoWidgetActivity" theme="2131492924" windowSoftInputMode="36">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.theme.localtheme.ThemeSettingsActivity" theme="2131492876" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.theme.localtheme.LocalThemeManagerActivity" theme="16973830" taskAffinity="com.nd.hilauncherdev.theme.localtheme.LocalThemeManagerActivity" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.theme.iconreplace.IconReplaceActivity" theme="16973830">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.theme.iconreplace.ThemeIconsPreviewActivity" theme="16973830">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.app.activity.AppRenameActivity" theme="2131492920">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.framework.choosedialog.AppChooseDialogActivity" theme="2131492874">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.launcher.edit.PandaShortcutChooseActivity" theme="2131492874">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.launcher.edit.PickShortcutActivity" theme="2131492874">
+<activity process=":hilauncherex_shopv2_process" icon="2130837641" screenOrientation="1" name="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" theme="16973830" windowSoftInputMode="32" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" alwaysRetainTaskState="true" launchMode="2">
+<activity process="com.nd.weather.widget.WidgetService" screenOrientation="1" name="com.nd.weather.widget.UI.weather.UIWeatherFragmentAty" theme="16973830" configChanges="160" launchMode="2">
+<activity process="com.nd.weather.widget.WidgetService" screenOrientation="1" name="com.nd.weather.widget.UI.weather.UIWidgetCityMgrAty" theme="16973840" configChanges="160" windowSoftInputMode="2" taskAffinity="com.nd.weather.widget.panda.ui" launchMode="1">
+<activity process="com.nd.weather.widget.WidgetService" screenOrientation="1" name="com.nd.weather.widget.UI.UICalendarGuideAty" configChanges="160">
+<activity process="com.nd.weather.widget.WidgetService" screenOrientation="1" name="com.nd.weather.widget.UI.weather.UIWeatherSetAty" configChanges="160" launchMode="2">
+<activity process="com.nd.weather.widget.WidgetService" screenOrientation="1" name="com.nd.weather.widget.UI.setting.UISettingActivity" configChanges="160" launchMode="2">
+<activity process="com.nd.weather.widget.WidgetService" screenOrientation="1" name="com.nd.weather.widget.UI.setting.UISettingAboutAty" configChanges="160" launchMode="2">
+<activity process="com.nd.weather.widget.WidgetService" screenOrientation="1" name="com.nd.weather.widget.UI.setting.UISettingWeatherAty" configChanges="160" launchMode="2">
+<activity process="com.nd.weather.widget.WidgetService" screenOrientation="1" name="com.nd.weather.widget.UI.setting.UISettingPmSourceAty" configChanges="160" launchMode="2">
+<activity process="com.nd.weather.widget.WidgetService" screenOrientation="1" name="com.nd.weather.widget.UI.setting.UISubmitOpinionAty" configChanges="160" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.nd.hilauncherdev.menu.personal.AllDownloadManagerActivity" theme="16973830" launchMode="3">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.widget.baidu.zxing.CaptureResultActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.launcher.navigation.settings.SettingsActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.launcher.navigation.SearchActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.settings.assit.movedesk.MoveDeskItemPreActivity" configChanges="160" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.nd.hilauncherdev.appstore.AppStoreSwitchActivity" theme="16973830" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.drawer.view.WallPaperMainActivity" theme="16973830" exported="true" windowSoftInputMode="32" alwaysRetainTaskState="true" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dynamicloader.activity.PluginLoaderActivity" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dynamicloader.activity.PluginLoaderListActivity" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dynamicloader.activity.PluginLoaderTabActivity" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dynamicloader.activity.PluginLoaderActivityGroup" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dynamicloader.activity.PluginLoaderActivityForDialog" theme="2131492864" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" icon="2130838840" clearTaskOnLaunch="true" screenOrientation="1" name="com.nd.hilauncherdev.webapp.activity.ActivityWebAppMain" theme="16973830" label="2131363406" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" name="com.nd.hilauncherdev.webapp.activity.WebAppClientActivity" theme="16973830" configChanges="160" exported="false" windowSoftInputMode="32">
+<activity process=":hilauncherex_shopv2_process" name="com.nd.hilauncherdev.webapp.activity.WebAppAddBookmarkPage" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity process=":hilauncherex_shopv2_process" name="com.nd.hilauncherdev.webapp.activity.ActivityWebAppCat" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity process=":hilauncherex_shopv2_process" name="com.nd.hilauncherdev.webapp.activity.WebAppMenuActivity" theme="2131492944" launchMode="1">
+<activity process=":hilauncherex_shopv2_process" name="com.nd.hilauncherdev.webapp.activity.WebAppShareGridsActivity" theme="2131492946">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.PersonalizeActivityGroup" theme="16973830" windowSoftInputMode="32" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" alwaysRetainTaskState="true" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV2CategoryActivity" theme="16973830" windowSoftInputMode="32" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" alwaysRetainTaskState="true" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV2TagActivity" theme="16973830" windowSoftInputMode="32" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" alwaysRetainTaskState="true" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV2MainActivity" theme="16973830" windowSoftInputMode="32" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" alwaysRetainTaskState="true" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV2ThemeDetailNewActivity" theme="16973830" label="" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV2ThemeDetailMostActivity" theme="16973830" label="" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV2NoResponsibilityActivity" theme="16973830" label="" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.switchview.ScrollPreviewImgActivity" theme="16973830" label="">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV2ThemeByAuthorActivity" theme="16973830" label="">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.eventplan.EventPlanActivity" theme="16973830" label="" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV2ThemeTwoCodeActivity" theme="16973830" label="" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.weixin.OpenURLActivity" theme="16973840" configChanges="224" windowSoftInputMode="2" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.localmanage.ThemeDetailActivity" theme="16973840" launchMode="1">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV2ForSearchViewActivity" theme="16973830" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.localtheme.LocalThemeManagerActivity" theme="16973830" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.lock.LockMainActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.search.activity.ThemeShopSearchActivity" theme="16973830" configChanges="160" windowSoftInputMode="2" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.search.activity.ThemeShopHotwordActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.common.module.ThemeShopV6ModuleDetailActivity" theme="16973830" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.common.module.LocalModuleDetailActivity" theme="16973830" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.lock.LockDetailActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.lock.dxlock.DXLockDetailActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.module.LocalModuleDetailActivity" theme="16973830" label="" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.ring.online.OnLineRingActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.ring.ContactsActivity" theme="16973835" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.ring.ProductRingActivity" theme="16973835" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.ring.online.DownloadActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.ring.online.RingDetailActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.ring.online.OtherRingActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.wallpaper.myphone.mytheme.wallpaper.WallPaperMain" theme="16973840" label="2131361987" windowSoftInputMode="32" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" alwaysRetainTaskState="true" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.wallpaper.myphone.mytheme.wallpaper.WallPaperOhterActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.wallpaper.myphone.mytheme.wallpaper.WallPaperOneKeyListActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.wallpaper.myphone.mytheme.wallpaper.MyPhoneOnlineImagePreviewActivity" theme="16973830" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" launchMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.wallpaper.myphone.mytheme.wallpaper.MyPhoneLocalImagePreviewActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" launchMode="2">
+<activity process=":hilauncherex_myphone" screenOrientation="1" name="com.nd.hilauncherdev.wallpaper.photowallpaper.PhotoImageActivity" theme="16973830">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.wallpaper.myphone.mytheme.crop.CropWallpaperActivity" configChanges="160" label="2131361949" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.wallpaper.myphone.mytheme.crop.CropDrawerBackgroundActivity" configChanges="160" label="2131361949" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.wallpaper.myphone.mytheme.wallpaper.SwapWallpaperSettingActivity" theme="2131492876" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.wallpaper.myphone.mytheme.wallpaper.WallPaperListActivity" configChanges="160" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.myphone.appmanager.AppUninstallActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.nd.hilauncherdev.drawer.t9.T9SearchActivity" theme="2131492923" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.nd.hilauncherdev.widget.systemtoggler.SystemSwitchActivity" theme="16973840" launchMode="2">
+<activity process=":hilauncherex_myphone" screenOrientation="1" name="com.nd.hilauncherdev.wallpaper.photowallpaper.PhotoWallpaperActivity" theme="16973830">
+<activity name="com.nd.hilauncherdev.kitset.resolver.ResolverActivity16" theme="16973913">
+<activity name="com.nd.hilauncherdev.kitset.resolver.ResolverActivity14" theme="16973913">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.drawer.apphide.AppHideActivity" theme="16973841" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.drawer.apphide.AppHideEncriptSettingActivity" theme="16973841">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.drawer.apphide.AppHideEncriptTypeChooseActivity" theme="16973841">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.drawer.apphide.AppHideEncriptEntranceActivity" theme="16973841">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.drawer.apphide.MiBaoActivity" theme="16973830" windowSoftInputMode="1">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.drawer.apphide.AppHideSettingActivity" theme="2131492876">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.drawer.apphide.MibaoQuestionChooseActivity" theme="2131492874" windowSoftInputMode="32">
+<activity excludeFromRecents="true" name="com.baidu.dx.personalize.theme.assit.RecommendLivewallpaperActivity" theme="2131492920" launchMode="2">
+<activity name="com.nd.hilauncherdev.framework.InstallApkActivity">
+<activity screenOrientation="1" name="com.baidu.dx.personalize.uri.UriDeliveryActivity" theme="16973840" windowSoftInputMode="2">
+<activity process=":hilauncherex_shopv2_process" screenOrientation="1" name="com.baidu.dx.personalize.theme.webview.ThemeShopV6NetPlanWebActivity" label="" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<activity screenOrientation="1" name="com.baidu.dx.personalize.ring.ProductRingActivity" theme="16973835" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.nd.hilauncherdev.kitset.util.ApkNotInstallDialogActivity" theme="2131492920">
+<activity name="com.nd.hilauncherdev.webconnect.versionupdate.NotificationRedirectionActivity">
+17
+<service process=":hilauncherex_shopv2_process" name="com.nd.hilauncherdev.wallpaper.WallpaperChangeService">
+<service name="com.nd.hilauncherdev.webconnect.downloadmanage.model.DownloadServerService" exported="false">
+<service name="com.nd.hilauncherdev.webconnect.versionupdate.SoftUpdateService">
+<service name="com.nd.hilauncherdev.webconnect.upgradhint.BeautyUpgradeService">
+<service process="com.nd.weather.widget.WidgetService" enabled="true" name="com.nd.weather.widget.TimeService" exported="true">
+<service process="com.nd.weather.widget.WidgetService" enabled="true" name="com.nd.android.update.DownloadService">
+<service enabled="true" name="com.nd.hilauncherdev.myphone.notificationbar.QuickNtfBarService">
+<service process=":hilauncherex_shopv2_process" name="com.baidu.dynamicloader.service.PluginLoaderService" taskAffinity="com.nd.android.pandahome2.manage.shop.ThemeShopMainActivity">
+<service name="com.nd.hilauncherdev.launcher.support.UserStateService">
+<service name="com.dianxinos.launcher2.dxwidget.WidgetServerService">
+<service process=":hilauncherex_shopv2_process" name="com.baidu.dx.personalize.theme.shop.shop3.down.DownloadService">
+<service name="com.nd.hilauncherdev.webconnect.analysis.RealTimeStateService">
+<service process=":hilauncherex_shopv2_process" name="com.nd.hilauncherdev.export.ExportService" exported="true">
+<service name="com.baidu.dx.personalize.theme.LocalThemeService">
+<service name="com.nd.hilauncherdev.webconnect.downloadmanage.model.DownloadServerService" exported="false">
+<service name="com.nd.hilauncherdev.webconnect.downloadmanage.model.PluginDownloadForwardService" exported="false">
+<service name="com.baidu.dx.personalize.uri.UriDeliveryService" exported="true">
+17
+<receiver name="com.nd.hilauncherdev.launcher.InstallAppFromWidgetReceiver">
+<receiver name="com.nd.hilauncherdev.launcher.broadcast.InstallShortcutReceiver" permission="com.android.launcher.permission.INSTALL_SHORTCUT">
+<receiver name="com.nd.hilauncherdev.launcher.broadcast.UninstallShortcutReceiver" permission="com.android.launcher.permission.UNINSTALL_SHORTCUT">
+<receiver name="com.nd.hilauncherdev.datamodel.ApplicationChangeReceiver">
+<receiver name="com.nd.hilauncherdev.theme.receiver.PandaThemeAskReceiver">
+<receiver name="com.baidu.dx.personalize.theme.receiver.OnlineThemeOperateAssit">
+<receiver process="com.nd.weather.widget.WidgetService" enabled="true" name="com.nd.weather.widget.StartupReceiver">
+<receiver process="com.nd.weather.widget.WidgetService" enabled="true" name="com.nd.weather.widget.BootReceiver">
+<receiver name="com.nd.weather.widget.PandaHome.Receiver.PandaHomeThemeChangeReceiver">
+<receiver name="com.nd.weather.widget.PandaHome.Receiver.InstallReceiver">
+<receiver name="com.nd.hilauncherdev.kitset.analytics.BootTimeReceiver">
+<receiver name="com.nd.hilauncherdev.kitset.analytics.PowerConnectedReceiver">
+<receiver process=":hilauncherex_shopv2_process" name="com.baidu.dynamicloader.receiver.DyanmicWidgetReceiver">
+<receiver name="com.nd.hilauncherdev.datamodel.NetworkChangeReceiver">
+<receiver name="com.nd.hilauncherdev.autowake.BootReceiver">
+<receiver process=":hilauncherex_shopv2_process" name="com.baidu.dx.personalize.theme.shop.shop3.ThemeShopV3LauncherExAPI">
+<receiver name="com.dianxinos.launcher.exported.LRa">
+2
+<provider authorities="com.dianxinos.android.launcher2.settings" name="com.nd.hilauncherdev.launcher.LauncherProvider">
+<provider process="com.nd.weather.widget.WidgetService" authorities="com.dianxinos.calendar.PandahomeProvider" name="com.nd.calendar.provider.PandahomeProvider">
+Owner: CN=Tapas, OU=Tapas Mobile, O=Tapas Mobile, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Tapas, OU=Tapas Mobile, O=Tapas Mobile, L=Beijing, ST=Beijing, C=CN
+Serial number: 4e0bf751
+Valid from: Thu Jun 30 12:10:57 CST 2011 until: Fri Apr 02 12:10:57 CST 2066
+Certificate fingerprints: 
+	MD5:BD:3D:F1:98:D5:0F:0D:AF:A3:C5:80:4D:34:2D:36:98
+	SHA1: EC:D5:A7:AD:A0:AD:65:6E:CE:B9:B8:DE:79:9E:61:C2:0E:71:4D:7F
+	SHA256: 9D:0E:96:FB:EF:DA:D7:37:63:52:B1:AF:E4:62:3F:50:18:41:A2:17:AE:FC:02:34:27:D7:A3:FA:BB:FB:08:0F
+	Signature algorithm name: SHA1withRSA
+	version: 3

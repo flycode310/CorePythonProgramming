@@ -1,0 +1,42 @@
+com.wuchun.exercisetools
+3
+1.2
+3
+18
+13
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+6
+<activity name="com.wuchun.exercisetools.MainActivity" label="2131099653">
+<activity icon="2130837552" name=".WeightCalculator" label="体重检测">
+<activity icon="2130837552" name=".ResultActivity" label="体重检测">
+<activity icon="2130837551" name=".StopWatch" label="秒表">
+<activity icon="2130837529" name=".Pacecount" label="计步器">
+<activity name=".DrawPaceNum" label="2131099653">
+3
+<service name=".WalkingService">
+<service name=".TimeService">
+<service name=".Timer">
+0
+0
+Owner: CN=Jim Wu
+Issuer: CN=Jim Wu
+Serial number: 6c8ab17a
+Valid from: Mon Mar 03 07:39:33 CST 2014 until: Fri Feb 25 07:39:33 CST 2039
+Certificate fingerprints: 
+	MD5:CA:A9:ED:26:2B:C6:B1:F9:E8:9C:3F:99:2D:A2:25:72
+	SHA1: 9B:7A:38:62:B7:23:5D:F6:F9:23:44:85:B0:7C:E0:35:44:47:3D:81
+	SHA256: 4D:2D:F7:98:93:00:C3:EC:82:BF:0F:9D:49:71:1F:18:92:40:DC:E8:A2:22:5A:B3:1F:F2:4F:5B:BE:24:1A:CA
+	Signature algorithm name: SHA256withRSA
+	version: 3

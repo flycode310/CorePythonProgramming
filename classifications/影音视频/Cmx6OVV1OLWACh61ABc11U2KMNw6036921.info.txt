@@ -1,0 +1,55 @@
+com.ss.android.radio.joke
+100
+1.0
+8
+17
+13
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+com.android.launcher.permission.READ_SETTINGS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+14
+<activity screenOrientation="1" name=".activity.SplashActivity" theme="2131361911">
+<activity screenOrientation="1" name=".activity.MainActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ss.android.essay.base.activity.RecommendActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ss.android.essay.radio.activity.AdsAppActivity">
+<activity screenOrientation="1" name="com.ss.android.newmedia.feedback.FeedbackActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ss.android.newmedia.feedback.SubmitFeedbackActivity" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.UpdateActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AuthActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.LoginActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.CommentActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AccountActivity2">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AccountActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.BrowserActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AuthorizeActivity">
+4
+<service name="com.ss.android.essay.radio.activity.AudioPlayerService">
+<service name="com.ss.android.essay.radio.activity.DownloadFileService">
+<service name="com.ss.android.newmedia.NotifyService">
+<service name="com.ss.android.newmedia.BatchActionService">
+4
+<receiver name="com.ss.android.newmedia.AppNoticeReceiver">
+<receiver name="com.ss.android.newmedia.BootReceiver">
+<receiver name="com.ss.android.newmedia.app.DownloadCompleteReceiver">
+<receiver name="com.ss.android.essay.radio.activity.MusicIntentReceiver">
+0
+Owner: CN=Micro Cao, OU=ByteDance, O=ByteDance, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Micro Cao, OU=ByteDance, O=ByteDance, L=Beijing, ST=Beijing, C=CN
+Serial number: 4efec96a
+Valid from: Sat Dec 31 16:35:54 CST 2011 until: Wed May 18 16:35:54 CST 2039
+Certificate fingerprints: 
+	MD5:AE:A6:15:AB:91:00:15:03:8F:73:C4:7E:45:D2:14:66
+	SHA1: 00:A5:84:E3:75:B5:57:3C:89:E1:F0:6F:5C:F6:0D:0D:65:DD:B6:32
+	SHA256: D7:81:1E:C4:16:6F:EA:6C:C7:20:BA:66:69:9D:C8:4B:58:4A:C9:E6:98:66:13:A7:6D:4E:43:D8:CB:E3:2B:27
+	Signature algorithm name: SHA1withRSA
+	version: 3

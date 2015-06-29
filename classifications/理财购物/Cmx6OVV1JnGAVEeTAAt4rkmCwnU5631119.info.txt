@@ -1,0 +1,27 @@
+com.cnzz.site1253763400
+13
+3.13
+8
+17
+5
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity name=".LoadingActivity" theme="16973839">
+<activity name=".WebActivity" theme="16973839">
+0
+0
+0
+Owner: CN=Mark Jones, OU=JavaSoft, O=Sun, C=US
+Issuer: CN=Mark Jones, OU=JavaSoft, O=Sun, C=US
+Serial number: 52356129
+Valid from: Sun Sep 15 15:26:33 CST 2013 until: Sat Jun 11 15:26:33 CST 2016
+Certificate fingerprints: 
+	MD5:82:11:A1:6B:AD:BD:7C:2D:40:85:87:30:4A:F2:85:9C
+	SHA1: 5A:80:7B:C4:98:F8:F0:0A:51:8B:69:07:5B:50:CD:6C:34:2D:DA:A2
+	SHA256: 31:08:D7:13:8B:E1:71:F0:2A:24:ED:D3:BF:78:CF:FB:5C:19:1D:DD:C3:A5:52:F5:5F:DB:01:A3:B1:2D:F2:EC
+	Signature algorithm name: SHA1withRSA
+	version: 3

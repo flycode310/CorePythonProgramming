@@ -1,0 +1,38 @@
+com.soohoot.ptest
+12
+1.0.10
+9
+9
+12
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+6
+<activity screenOrientation="1" name="com.soohoot.ptest.activity.SplashActivity" theme="2131296257">
+<activity name="com.soohoot.ptest.activity.ExercisesListActivity" theme="2131296257" label="2131230725">
+<activity screenOrientation="1" name="com.soohoot.ptest.activity.ExercisesItemActivity" theme="2131296257" configChanges="32">
+<activity screenOrientation="1" name="com.soohoot.ptest.activity.TestScoresActivity" theme="2131296257" configChanges="32">
+<activity screenOrientation="1" name="com.soohoot.ptest.activity.AboutActivity" theme="2131296257" configChanges="32">
+<activity name="com.google.android.gms.ads.AdActivity" configChanges="4016">
+0
+0
+0
+Owner: CN=ruiyu team, OU=ruiyu team, O=ruiyu team, L=chong qing, ST=chong qing, C=CN
+Issuer: CN=ruiyu team, OU=ruiyu team, O=ruiyu team, L=chong qing, ST=chong qing, C=CN
+Serial number: 2283cea4
+Valid from: Tue Dec 04 22:19:15 CST 2012 until: Thu Nov 27 22:19:15 CST 2042
+Certificate fingerprints: 
+	MD5:E9:69:6E:89:B3:B2:B5:01:0D:DE:D4:8F:6B:E8:FB:85
+	SHA1: 7B:A0:2B:07:7F:40:1B:21:59:A1:B2:09:3A:70:51:6C:44:A9:95:F2
+	SHA256: A2:A3:92:24:92:24:F0:78:01:74:E6:08:5D:E3:84:B2:5A:DF:7E:F2:A7:15:8C:9C:80:BA:D1:41:1E:FB:09:81
+	Signature algorithm name: SHA256withRSA
+	version: 3

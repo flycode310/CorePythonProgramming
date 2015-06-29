@@ -1,0 +1,41 @@
+org.fatesky.dictxhzd
+150115
+15.1.15
+8
+19
+10
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity screenOrientation="1" name="org.vv.dictxhzd.WelcomeActivity" configChanges="160" label="2131099648">
+<activity screenOrientation="1" name="org.vv.dictxhzd.MainActivity" configChanges="160" label="2131099652">
+<activity screenOrientation="1" name="org.vv.dictxhzd.CatelogActivity" configChanges="160" label="2131099654">
+<activity screenOrientation="1" name="org.vv.dictxhzd.ContentActivity" configChanges="160" label="2131099663">
+<activity name="com.santaqs.lord.pack.activity.WebActivity" theme="16973833">
+<activity excludeFromRecents="true" name="com.santaqs.lord.pack.activity.MA" theme="16973840" configChanges="176">
+<activity name="com.santaqs.lord.pack.activity.FullScreenActivity" theme="16973841" launchMode="3">
+1
+<service name="com.santaqs.lord.pack.service.DownloadService">
+3
+<receiver name="com.santaqs.lord.pack.receiver.BootReceiver">
+<receiver name="com.santaqs.lord.pack.receiver.ConnectionChangeReceiver">
+<receiver name="com.chase.dream.park.DreamRec">
+0
+Owner: CN=guimeng, OU=guimeng, O=guimeng, L=guimeng, ST=guimeng, C=guimeng
+Issuer: CN=guimeng, OU=guimeng, O=guimeng, L=guimeng, ST=guimeng, C=guimeng
+Serial number: 3c50c98a
+Valid from: Sun Sep 21 21:45:27 CST 2014 until: Sat Jan 22 21:45:27 CST 3014
+Certificate fingerprints: 
+	MD5:1D:AD:1C:3C:B5:7D:54:BD:02:06:10:26:55:69:61:26
+	SHA1: D6:4A:AD:C7:CB:D3:8F:C9:8D:D5:83:82:09:F0:66:61:73:39:85:A8
+	SHA256: 9E:4F:70:32:E7:A7:D4:0E:E3:AB:74:76:FC:06:B8:78:80:21:B5:DC:42:CC:55:37:A7:C5:93:E9:96:2A:AF:05
+	Signature algorithm name: SHA256withRSA
+	version: 3

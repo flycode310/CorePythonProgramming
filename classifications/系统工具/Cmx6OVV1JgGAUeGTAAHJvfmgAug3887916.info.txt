@@ -1,0 +1,31 @@
+com.shengdoushipp.wirelessusbline
+17
+1.3.5
+8
+15
+8
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+2
+<activity screenOrientation="1" name=".WirelessUSBLineActivity" theme="16974123" label="2131034115">
+<activity screenOrientation="1" name="com.waps.OffersWebView" configChanges="160">
+1
+<service name="androidftpserver.FTPServerService">
+0
+0
+Owner: CN=pipi, OU=shengdoushi, O=shengdoushi, L=Çൺ, ST=Çൺ, C=CN
+Issuer: CN=pipi, OU=shengdoushi, O=shengdoushi, L=Çൺ, ST=Çൺ, C=CN
+Serial number: 500d7167
+Valid from: Mon Jul 23 23:44:39 CST 2012 until: Wed Jun 29 23:44:39 CST 2112
+Certificate fingerprints: 
+	MD5:09:E9:35:7A:C2:F4:F6:C6:B0:A7:9E:FE:22:3E:98:07
+	SHA1: 8A:C7:5E:52:FA:2E:3F:89:C3:DF:E9:D3:75:D0:ED:64:9B:59:B7:AF
+	SHA256: 1F:57:C9:E5:9C:AD:EF:57:B8:E8:CA:D2:BC:54:A8:DF:14:B9:AF:08:13:56:C5:EC:00:15:43:B1:82:53:80:AB
+	Signature algorithm name: SHA1withRSA
+	version: 3

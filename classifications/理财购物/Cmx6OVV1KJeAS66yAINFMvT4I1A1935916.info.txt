@@ -1,0 +1,53 @@
+com.handheldfinancial
+1
+1.0
+8
+19
+17
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.GET_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+15
+<activity name="com.handheldfinancial.launcher.WelcomeActivity" theme="2131361811" label="2131296256">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.HomeActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.MoreActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.NewsActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.SupplyActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.LoginActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.RegisterActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.WebActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.ProductActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.SearchActivity" theme="2131361807" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.handheldfinancial.launcher.WebProductContentActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.framework.baidumap.ListMapActivity" noHistory="true">
+<activity screenOrientation="1" name="com.iyangcong.mzing.CaptureActivity" theme="16973837">
+<activity screenOrientation="1" name="com.iyangcong.mzing.ShowActivity" theme="16973837">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+1
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 526092ff
+Valid from: Fri Oct 18 09:46:39 CST 2013 until: Sun Oct 11 09:46:39 CST 2043
+Certificate fingerprints: 
+	MD5:06:F5:0E:07:CC:C3:F0:71:A0:1A:A3:FA:1D:14:29:93
+	SHA1: 67:99:AF:46:6B:4D:D2:EB:90:CB:01:1B:5F:B9:04:7F:60:00:7F:7E
+	SHA256: A3:91:6D:C5:9E:D1:20:FD:D2:E3:6A:6B:48:D3:12:E8:24:73:DE:3F:DB:DE:34:07:E4:49:6C:48:AB:90:4C:22
+	Signature algorithm name: SHA1withRSA
+	version: 3

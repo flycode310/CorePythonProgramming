@@ -1,0 +1,39 @@
+xw.hh.mhua04
+1
+1.0
+4
+-1
+14
+android.permission.READ_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity name=".InitActivity" theme="16973830" label="2130968577">
+<activity name=".ShowActivity" theme="16973830" label="2130968577">
+<activity name="com.tencent.mobwin.MobinWINBrowserActivity">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+1
+<service name="n.service.VersionServicervice.VersionServicervice.VersionServicervice">
+0
+0
+Owner: CN=giveekey, OU=giveekey, O=giveekey, L=giveekey, ST=giveekey, C=CN
+Issuer: CN=giveekey, OU=giveekey, O=giveekey, L=giveekey, ST=giveekey, C=CN
+Serial number: 4f4d9440
+Valid from: Wed Feb 29 10:58:08 CST 2012 until: Thu Feb 16 10:58:08 CST 2062
+Certificate fingerprints: 
+	MD5:BF:60:71:5B:02:A1:FC:4E:3E:E2:88:58:62:50:0D:FC
+	SHA1: 11:B2:A1:DB:CF:D4:92:46:01:FB:55:F9:21:7A:78:41:5F:B7:02:79
+	SHA256: CF:60:C3:E1:38:92:51:F1:15:3C:4F:A6:4F:5C:98:A7:AD:15:65:D4:97:83:3E:83:2B:9A:5F:4E:96:63:EC:AE
+	Signature algorithm name: MD5withRSA
+	version: 1

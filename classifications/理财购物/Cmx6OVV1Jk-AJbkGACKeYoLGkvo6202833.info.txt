@@ -1,0 +1,54 @@
+com.android.cbn
+1
+1.0
+8
+16
+8
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+24
+<activity screenOrientation="1" name=".act.FrameAct" theme="16973833" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".act.MainActivity" theme="16973833" configChanges="160" label="2131034151">
+<activity screenOrientation="1" name=".act.HomePageAct" theme="16973833" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name=".act.zixun.ZiXunListAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.zixun.ZiXunDetailAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.zixun.PublishZiXunAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.SearchAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.product.ProductListAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.product.ProductDetailAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.product.PublishProductAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.business.BusinessListAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.business.BusinessDetailAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.SettingsAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.LoginAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.RegistAct" theme="16973833" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".act.AccountAct" theme="16973833" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".act.AccountSetAct" theme="16973833" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".act.FriendsAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.EnterpriseInfoAct" theme="16973833" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".act.ContactsAct" theme="16973833" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".act.enterprise.EditEnterpriseAct" theme="16973833" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".act.enterprise.EnterpriseCategoryAct" theme="16973833" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".act.enterprise.EnterpriseIntroduceAct" theme="16973833" configChanges="160" windowSoftInputMode="16">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+1
+<service process=":remote" enabled="true" name=".update.BuyiDownloadServer" exported="true">
+1
+<receiver name=".update.InstallReceiver">
+0
+Owner: CN=industry, OU=beijing, O=beijing, L=beijing, ST=beijing, C=10010
+Issuer: CN=industry, OU=beijing, O=beijing, L=beijing, ST=beijing, C=10010
+Serial number: 51778bab
+Valid from: Wed Apr 24 15:37:15 CST 2013 until: Fri Mar 31 15:37:15 CST 2113
+Certificate fingerprints: 
+	MD5:F7:E8:8F:99:91:5D:9D:8E:06:DE:40:31:2A:71:2D:60
+	SHA1: D4:69:16:47:EF:00:1E:E8:BC:71:AC:10:0E:1C:8F:4A:BA:76:E4:D5
+	SHA256: F8:70:1F:4D:87:40:A2:F9:B3:32:40:E7:01:A1:99:A0:F2:AB:95:E6:6C:F5:7C:2E:F9:E4:36:3F:B3:BE:AF:93
+	Signature algorithm name: SHA1withRSA
+	version: 3

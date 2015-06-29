@@ -1,0 +1,35 @@
+com.cloudmosa.puffin
+10155
+3.0.10154M
+8
+14
+11
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.ACCESS_FINE_LOCATION
+com.android.vending.CHECK_LICENSE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+3
+<activity name=".LemonActivity" configChanges="1184" windowSoftInputMode="16" alwaysRetainTaskState="true" launchMode="2">
+<activity name=".NativePlayerActivity" configChanges="1184" label="" launchMode="1">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+1
+<service name=".DownloadService" exported="false">
+0
+0
+Owner: EMAILADDRESS=android@cloudmosa.com, CN=Puffin, OU=Cloudmosa, O=cloudmosa.com, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@cloudmosa.com, CN=Puffin, OU=Cloudmosa, O=cloudmosa.com, L=Mountain View, ST=California, C=US
+Serial number: 9dead53e0f67d918
+Valid from: Mon Nov 22 17:44:27 CST 2010 until: Fri Apr 09 17:44:27 CST 2038
+Certificate fingerprints: 
+	MD5:0F:7B:D4:52:0C:5D:CA:6C:5B:F7:95:F2:66:D2:78:B6
+	SHA1: 81:2D:40:8E:09:D6:EC:C9:60:EB:6A:0C:63:A1:91:EA:DF:01:42:16
+	SHA256: 9A:23:78:CC:2C:A5:7D:DF:8C:A4:73:59:42:59:85:AA:B4:67:B5:79:B7:81:13:95:37:82:E4:A4:7C:43:7C:59
+	Signature algorithm name: SHA1withRSA
+	version: 3

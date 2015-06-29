@@ -1,0 +1,57 @@
+com.lenovo.lewea
+2008136
+2.8.136.140718.1b024b9_all
+10
+-1
+15
+com.android.alarm.permission.SET_ALARM
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.WRITE_SECURE_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.INTERNAL_SYSTEM_WINDOW
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity name="com.lenovo.weather.activity.WelcomeActivity" theme="2131427353" label="2131492864">
+<activity name="com.lenovo.weather.activity.OnlineSearchActivity" configChanges="160" label="2131492864">
+<activity name="com.lenovo.weather.activity.MainActivity" theme="2131427337" label="2131492864">
+<activity name="com.lenovo.weather.activity.LocationCityListActivity" configChanges="160" label="2131492864">
+<activity name="com.lenovo.weather.activity.SettingActivity" configChanges="160" label="2131492864">
+<activity name="com.lenovo.weather.activity.WebWeatherActivity" configChanges="160" label="2131492864">
+<activity name="com.lenovo.weather.activity.CityListActivity" theme="2131427337" configChanges="1152" label="2131492864">
+<activity screenOrientation="1" name="com.lenovo.weather.activity.AppPickerActivity" configChanges="160" label="2131492864">
+5
+<service name="com.lenovo.weather.service.AlarmTaskService">
+<service name="com.lenovo.weather.service.UpdateAppWidgetService" exported="true">
+<service name="com.lenovo.weather.service.AutoLocationService">
+<service name="com.lenovo.weather.service.TimeTickService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+3
+<receiver name="com.lenovo.weather.receiver.CommonReceiver">
+<receiver name="com.lenovo.lewea.widget.ThemeReceiver">
+<receiver name="com.lenovo.lewea.widget.WeatherWidget" label="2131492866">
+6
+<provider authorities="com.lenovo.weather.provider" name="com.lenovo.weather.provider.WeatherProvider" exported="true">
+<provider authorities="com.lenovo.weather.location" name="com.lenovo.weather.location.HabitContentProvider">
+<provider authorities="com.lenovo.acwea.ForcastWeaDBProvider" name="com.lenovo.weather.provider.ForcastWeaDBProvider" exported="true">
+<provider authorities="com.lenovo.acwea.ForcastWeaProvider" name="com.lenovo.weather.provider.ForcastWeaProvider" exported="true">
+<provider authorities="com.lenovo.weather.requestprovider" name="com.lenovo.weather.provider.RequestWeatherProvider" exported="true">
+<provider authorities="com.lenovo.weather.configprovider" name="com.lenovo.weather.provider.WeatherConfigProvider" exported="true">
+Owner: EMAILADDRESS=lenovo@lenovo.com, CN=SmartPhone, OU=RT, O=Lenovo, L=Beijing, ST=Beijing, C=CN
+Issuer: EMAILADDRESS=lenovo@lenovo.com, CN=SmartPhone, OU=RT, O=Lenovo, L=Beijing, ST=Beijing, C=CN
+Serial number: 982dc51ce7d3cd53
+Valid from: Mon Jul 01 15:20:04 CST 2013 until: Tue Apr 03 15:20:04 CST 2068
+Certificate fingerprints: 
+	MD5:9C:91:3B:81:7D:E1:23:99:90:11:53:F8:AE:33:5E:FC
+	SHA1: 16:98:F2:8A:45:D3:A2:83:0C:06:D8:1D:9C:93:ED:A2:DB:FF:B0:9E
+	SHA256: C3:8E:EE:B9:92:18:F3:24:30:00:90:1B:93:CB:65:50:6F:E8:11:10:A9:D6:04:BC:0E:EF:59:D5:18:2A:64:16
+	Signature algorithm name: SHA1withRSA
+	version: 3

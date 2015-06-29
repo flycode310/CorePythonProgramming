@@ -1,0 +1,88 @@
+com.elephantmap
+100
+1.0.0.20140422A
+5
+-1
+16
+android.permission.READ_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+36
+<activity screenOrientation="1" name="com.tigerknows.LauncherActivity" theme="2131361812" configChanges="1073742847" exported="true" label="2131296268" noHistory="true" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.Sphinx" theme="2131361811" configChanges="1073742847" label="2131296268" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name="com.tigerknows.GuideScreenActivity" theme="2131361815" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.more.AboutUsActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.more.AppRecommendActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.poi.POIReportErrorActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.more.SatisfyRateActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="35" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.more.FeedbackActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="36" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.more.ChangeCityActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.more.SettingActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.poi.EditCommentActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="20" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.more.MapDownloadActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.poi.CommentListActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.traffic.TrafficReportErrorActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.traffic.TrafficCompassActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="19" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.user.UserHomeActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="16" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.user.UserLoginRegistActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.user.UserResetPasswordActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="20" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.user.UserUpdateNickNameActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="20" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.user.UserUpdatePasswordActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="20" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.user.UserUpdatePhoneActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="20" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.common.HintActivity" theme="2131361813" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.common.BrowserActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.discover.ShangjiaListActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.more.AddMerchantActivity" theme="2131361814" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.poi.DishActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.common.ViewImageActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.hotel.HotelIntroActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.common.TakeScreenshotActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.ui.common.AddPictureActivity" theme="2131361816" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.share.WeiboSendActivity" theme="2131361810" configChanges="160" windowSoftInputMode="20" launchMode="1">
+<activity screenOrientation="1" name="com.tigerknows.share.QZoneSendActivity" theme="2131361810" configChanges="160" windowSoftInputMode="36" launchMode="1">
+<activity screenOrientation="1" name="com.tencent.tauth.TAuthView" theme="2131361799" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tigerknows.ui.common.ExceptionDialogActivity" theme="2131361810" configChanges="1073742847" windowSoftInputMode="18" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.tigerknows.ui.alarm.AlarmShowActivity" theme="2131361813" configChanges="1073742847" label="2131297385" windowSoftInputMode="18" taskAffinity="com.tigerknows.ui.alarm.AlarmShowActivity" launchMode="2">
+<activity name=".wxapi.WXEntryActivity" theme="2131361810" exported="true" label="2131296268" launchMode="1">
+9
+<service enabled="true" name="com.tigerknows.service.LocationService" exported="false">
+<service enabled="true" name="com.tigerknows.service.SuggestLexiconService" exported="false">
+<service enabled="true" name="com.tigerknows.service.MapStatsService" exported="false">
+<service enabled="true" name="com.tigerknows.service.MapDownloadService" exported="false">
+<service enabled="true" name="com.tigerknows.service.download.DownloadService" exported="false">
+<service name="com.tigerknows.service.PullService" exported="false">
+<service name="com.tigerknows.service.download.AppService" exported="false">
+<service name="com.tigerknows.service.AlarmService" exported="false">
+<service name="com.tigerknows.service.LogService" exported="false">
+6
+<receiver name="com.tigerknows.radar.AlarmInitReceiver">
+<receiver name="com.tigerknows.radar.BootCompleteReceiver">
+<receiver name="com.tigerknows.radar.TimeAdjustReceiver">
+<receiver name="com.tigerknows.radar.ConnectivityChangeReceiver">
+<receiver name="com.tigerknows.radar.RadarReceiver" exported="false">
+<receiver name="com.tigerknows.service.download.ShowAppReceiver" exported="false">
+1
+<provider authorities="com.elephantmap.provider.Tigerknows" name="com.tigerknows.provider.TigerknowsProvider">
+Owner: CN=TigerKnows, OU=TigerKnows, O=TigerKnows, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=TigerKnows, OU=TigerKnows, O=TigerKnows, L=Beijing, ST=Beijing, C=CN
+Serial number: 4c45110e
+Valid from: Tue Jul 20 10:59:26 CST 2010 until: Sat Dec 05 10:59:26 CST 2037
+Certificate fingerprints: 
+	MD5:56:78:75:79:53:F7:4C:33:E3:B8:6A:16:16:87:3A:C5
+	SHA1: D2:4C:08:F1:D7:57:24:85:7B:D1:17:E3:6B:4E:5D:5A:BD:5A:CB:B8
+	SHA256: F2:B6:BA:D4:4B:11:AF:0D:09:F3:28:5A:26:00:26:02:54:46:FC:1D:DC:AE:C4:C4:B4:96:9B:02:0F:B7:49:88
+	Signature algorithm name: SHA1withRSA
+	version: 3

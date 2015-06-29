@@ -1,0 +1,170 @@
+com.imusic.iting
+2004003
+V2.004.003.1546ctch1
+9
+14
+23
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.SEND_SMS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+getui.permission.GetuiService.com.imusic.iting
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+104
+<activity screenOrientation="1" name="com.gwsoft.imusic.imagecache.TestActivity" theme="2131427383" configChanges="1073741828" label="2131296256" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.LoadingActivity" theme="2131427383" configChanges="1073741828" label="2131296256" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.cr.CRFeaturedActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.cr.RingBoxActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.cr.RingBoxListActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.cr.RingListActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.cr.RingCommonActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.cr.MyColorRing" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.myself.CommendOrPresent" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.GuideActivity" theme="2131427383" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.lottery.LotteryMainActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.lottery.LotteryDetailActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.lottery.LotteryWinnersActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.BackgoundOnlineActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.record.WriteMainActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.ClipTabMainActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.EmptyActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.record.DiyCompletedActivity" theme="16973829" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.record.DubListActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.record.RecordMainActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.DIYMainActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.BizCRActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.BizRingActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.CutActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.CuttingActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.ListenActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.DIYSearchActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.RingEditActivity">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.MyDiyActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.DiyMyActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.ShakeActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.DIYFindActivity" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name=".advise.DIYComment" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.share.APPShareActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.DiyDiscoverActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.DIYCuttingCatalogDetailsActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.DIYMakeMainActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.ManagerPersonDiyActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.DiySubjectWebActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.SubjectDetailsActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.LoginUserInfoActivity" theme="2131427383" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activity_TodayrecdetailActivity">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activity_PlayList">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activity_BatchChooseSongs">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Dialog_PopupYinyueku" theme="2131427408">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Dialog_PopupCreategedan" theme="2131427408">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Dialog_AlertDownload" theme="2131427408">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activity_Comment">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activity_GedanInfo">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activty_ResourcesComment">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.diy.DIYComment">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activity_RecentCollertors">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.msgcenter.MsgCommentActivity">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activity_Album">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activity_RingBoxFromAd">
+<activity screenOrientation="1" name="com.gwsoft.iting.musiclib.Activity_UserHome">
+<activity name="com.gwsoft.imusic.share.weibo.SinaWeiboV2">
+<activity name="com.gwsoft.imusic.controller.wxapi.WXEntryActivity" theme="16973839" exported="true" launchMode="1">
+<activity name="com.gwsoft.imusic.share.weibo.TencentWeibo" theme="16973839">
+<activity name="com.tencent.weibo.sdk.android.component.Authorize">
+<activity excludeFromRecents="true" name="com.gwsoft.imusic.controller.yxapi.YXEntryActivity" theme="16973839" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.IMusicMainActivity" theme="16973832" configChanges="1073741828" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.PlayerActivity" theme="16973839" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.MusicCategoryActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.PlaylistActivity" theme="16973839" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.vip.VipMainActivity" configChanges="1073741824">
+<activity process=":mvplayer" screenOrientation="0" name="com.gwsoft.imusic.mv.VideoPlayerActivity" theme="16973838" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.set.StoragePathChooseActivity" configChanges="1073741828">
+<activity name="cn.com.chinatelecom.account.lib.ct.DownloadApkActivity">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.app.AppMainTabFragment" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.MoreFreeDataActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.SleepTimingSet" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.msgcenter.MsgCenterActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.msgcenter.MsgCateActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.systemsettings.SysSettingsActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.systemsettings.SysSettingsOnlineQualityActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.systemsettings.SysSettingsDownloadQualityActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.systemsettings.SysSettingsSongSaveDirActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.feedback.FeedBackActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.feedback.FeedBackWriteActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.feedback.FeedBackMineActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.feedback.FeedBackReplyActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.more.resComment.ResourcesComment">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.webview.WebViewActivity" configChanges="1073741828">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.app.AppDownloadListActivity" configChanges="1073741824">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.app.AppDetailActivity" configChanges="1073741824" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.app.AppDetailPopupActivity" configChanges="1073741824" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.login.LoginActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.login.ThirdLogin" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.login.RegisterUser" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.login.PasswordReset" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.login.Verification" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.base.FullActivity" theme="16973839" configChanges="1073741828" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.registerlogin.JumpLogin" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.playlist.fragment.PlayListInfoActivity" theme="16973832" configChanges="1073741828">
+<activity name="com.gwsoft.imusic.controller.localmusic.ScanDialogActivity" theme="2131427331" launchMode="2">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.localmusic.scan.ScanActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.localmusic.scan.DIYScanFolderActivity" configChanges="1073741828">
+<activity screenOrientation="1" name="com.gwsoft.imusic.controller.localmusic.scan.ScanFilterActivity" configChanges="1073741828">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.gwsoft.imusic.lockScreen.LockActivity" theme="2131427378" configChanges="1073741824" windowSoftInputMode="3" launchMode="3">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+9
+<service name="com.gwsoft.music.service.MusicPlayerService">
+<service name="com.gwsoft.imusic.utils.UpdateService" label="2131296256">
+<service name="com.gwsoft.imusic.service.InformationService">
+<service name="com.gwsoft.imusic.controller.ITing4gMusicService">
+<service name="com.gwsoft.imusic.lockScreen.LockService">
+<service name="com.gwsoft.imusic.service.DeskLrcService">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+13
+<receiver name="com.gwsoft.globalLibrary.util.HeadsetUtil$HeadsetMediaButtonClickReceiver">
+<receiver name="com.gwsoft.imusic.controller.yxapi.YXBroadcastReceiver" permission="im.yixin.sdk.permission.YIXIN_SDK_MESSAGE">
+<receiver name="com.gwsoft.imusic.utils.AppUtils$MvProcessBroadcast">
+<receiver name="com.gwsoft.olcmd.receiver.HandlerCmdReceiver">
+<receiver name="com.gwsoft.olcmd.OLCmdClient$ExecuteReqReceiver">
+<receiver name="com.gwsoft.olcmd.receiver.ConnectionChangeReceiver" label="NetworkConnection">
+<receiver name="com.gwsoft.olcmd.receiver.TipTaskCmdReceiver">
+<receiver name="com.gwsoft.olcmd.receiver.DownloadReceiver">
+<receiver name="com.gwsoft.olcmd.receiver.PushGetuiReceiver" exported="false">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+1
+<provider process=":pushservice" authorities="downloads.com.imusic.iting" name="com.igexin.download.DownloadProvider">
+Owner: CN=imusic, OU=imusic, O=imusic, L=guangzhou, ST=guangzhou, C=cn
+Issuer: CN=imusic, OU=imusic, O=imusic, L=guangzhou, ST=guangzhou, C=cn
+Serial number: 5366f201
+Valid from: Mon May 05 10:05:53 CST 2014 until: Sun Mar 28 10:05:53 CST 2151
+Certificate fingerprints: 
+	MD5:A5:04:E4:BA:77:D3:16:A6:F3:2E:7D:9C:14:B0:07:BA
+	SHA1: 27:88:6C:6D:EF:87:43:6A:C3:60:D8:F6:70:54:4A:6E:27:FA:D6:09
+	SHA256: 87:E0:1E:5B:82:DA:1F:19:CB:8B:88:04:F2:85:D3:68:A3:AE:2F:F7:D5:99:80:86:9E:E0:3D:FE:0E:B5:D5:39
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,46 @@
+net.oneplus.weather
+5
+0.9.55
+18
+21
+12
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+10
+<activity screenOrientation="1" name="net.oneplus.weather.app.LandingActivity" configChanges="1184">
+<activity screenOrientation="1" name="net.oneplus.weather.app.MainActivity" theme="2131492874" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="net.oneplus.weather.app.SettingActivity" theme="2131492874" configChanges="1184" parentActivityName="net.oneplus.weather.app.MainActivity">
+<activity screenOrientation="1" name="net.oneplus.weather.app.AboutActivity" theme="2131492874" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="net.oneplus.weather.app.CopyActivity" theme="2131492874" configChanges="1184">
+<activity screenOrientation="1" name="net.oneplus.weather.test.app.DemoRainViewActivity" configChanges="1184">
+<activity name="net.oneplus.weather.test.app.DemoActivity" label="2131427328">
+<activity screenOrientation="1" name="net.oneplus.weather.app.ShowWeatherActivity" theme="2131492874" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="net.oneplus.weather.app.citylist.CityListActivity" theme="2131492874" configChanges="1184" parentActivityName="net.oneplus.weather.app.MainActivity" label="2131427328">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+2
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+2
+<receiver name="net.oneplus.weather.receiver.SecretCodeReceiver">
+<receiver name="net.oneplus.weather.receiver.AlarmReceiver" exported="true">
+0
+Owner: CN=OnePlus, OU=ROM, O=OnePlus, L=Shenzhen, ST=Guangdong, C=CN
+Issuer: CN=OnePlus, OU=ROM, O=OnePlus, L=Shenzhen, ST=Guangdong, C=CN
+Serial number: feb7d6fc66337664
+Valid from: Tue Mar 24 22:18:50 CST 2015 until: Sat Aug 09 22:18:50 CST 2042
+Certificate fingerprints: 
+	MD5:1E:72:0E:90:5A:CC:49:0E:F3:65:89:7D:94:66:AE:1D
+	SHA1: 8C:2E:44:F5:C2:C0:21:2E:90:54:8A:72:88:DF:AC:57:4D:EC:26:9F
+	SHA256: AB:13:F3:80:53:CE:FE:34:8D:A8:8F:9D:44:79:29:46:7A:C7:D2:8D:7F:05:E6:32:03:F3:BF:A0:4E:85:BB:61
+	Signature algorithm name: SHA1withRSA
+	version: 3

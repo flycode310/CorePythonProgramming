@@ -1,0 +1,33 @@
+com.cx.taoxiaohua
+1
+1.0.0
+5
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity screenOrientation="1" name=".MainTabActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ClassicJokeActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".JokeWebsitesAcitivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".NetworkJokeActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".FavoriteJokeActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".OthersActivity" label="2131099648" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ViewWebActivity" label="2131099648" windowSoftInputMode="3">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4f83926f
+Valid from: Tue Apr 10 09:52:47 CST 2012 until: Wed Apr 10 09:52:47 CST 2013
+Certificate fingerprints: 
+	MD5:43:48:94:25:0F:9C:40:15:AB:1D:DA:7F:6A:9F:88:25
+	SHA1: CD:6E:57:D3:71:BA:F7:E3:1E:AB:5B:E9:93:A4:6A:FA:53:F4:93:97
+	SHA256: 70:AA:27:C0:7E:D0:B9:A9:D6:57:8B:02:A2:5B:72:19:E6:45:EC:15:93:D0:59:D7:75:DE:C4:A3:50:B0:E1:2F
+	Signature algorithm name: SHA1withRSA
+	version: 3

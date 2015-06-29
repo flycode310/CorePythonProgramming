@@ -1,0 +1,28 @@
+com.wt.xiaohua
+4
+3.3
+7
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity name=".ScreenSplash" theme="16973834" configChanges="224" label="2131099649">
+<activity name="com.wt.xiaohua.xiaohuaActivety" theme="2131165185" configChanges="224">
+0
+0
+0
+Owner: CN=Z, OU=WT, O=WT, L=GD, ST=GD, C=CN
+Issuer: CN=Z, OU=WT, O=WT, L=GD, ST=GD, C=CN
+Serial number: 4e508427
+Valid from: Sun Aug 21 12:05:59 CST 2011 until: Tue Feb 25 12:05:59 CST 2121
+Certificate fingerprints: 
+	MD5:8E:69:AA:91:B6:B0:60:77:63:A5:F9:97:DA:56:5C:68
+	SHA1: 7C:D3:DD:13:A4:8D:50:73:93:01:A4:0B:C1:AB:E3:0E:9C:72:23:90
+	SHA256: 84:5D:84:89:58:52:7E:C8:CD:17:87:2C:EC:C8:AD:6E:35:B1:C3:23:53:22:4C:FC:BF:4A:D3:7A:C4:59:22:62
+	Signature algorithm name: SHA1withRSA
+	version: 3

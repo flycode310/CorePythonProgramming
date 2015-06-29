@@ -1,0 +1,29 @@
+com.myhealth.tools.soft.start.activity1119
+1
+1.0
+8
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity name=".HealthTest" theme="16973830" configChanges="160" label="2131361792">
+<activity screenOrientation="0" name=".WebViewActivity" theme="16973830" configChanges="160">
+<activity name="com.newqm.sdkoffer.QuMiActivity" configChanges="160">
+0
+0
+0
+Owner: L=china
+Issuer: L=china
+Serial number: 6068c769
+Valid from: Mon May 06 09:07:08 CST 2013 until: Wed Apr 29 09:07:08 CST 2043
+Certificate fingerprints: 
+	MD5:22:3E:34:27:5F:65:1C:99:27:1B:09:FB:B0:7B:2F:1E
+	SHA1: 0C:4C:93:9E:D7:16:57:F9:94:72:AD:17:8B:AB:4A:E0:7F:3F:7B:8F
+	SHA256: 59:B5:FA:20:6B:9A:B3:95:3E:D9:43:4B:36:F8:65:25:8B:9B:6E:FB:B2:28:F4:87:66:52:F0:98:33:5B:81:E3
+	Signature algorithm name: SHA256withRSA
+	version: 3

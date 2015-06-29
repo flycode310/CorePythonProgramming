@@ -1,0 +1,6 @@
+com.dazhihui.gpad.b: android.os.Message obtainMessage(int,int,int,java.lang.Object)
+android.database.Cursor: java.lang.String getString(int)
+java.net.URL: java.net.URLConnection openConnection()
+android.util.Log: int e(java.lang.String,java.lang.String)
+java.net.URL: void <init>(java.lang.String)
+com.dazhihui.gpad.b: boolean sendMessage(android.os.Message)

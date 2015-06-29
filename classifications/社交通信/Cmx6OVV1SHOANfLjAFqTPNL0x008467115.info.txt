@@ -1,0 +1,104 @@
+com.pgd.rczx.posonline.baidu
+30
+3.6.4
+11
+19
+27
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+com.pgd.rczx.posonline.baidu.permission.JPUSH_MESSAGE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.RESTART_PACKAGES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+49
+<activity name="com.pgd.rczx.posonline.baidu.LoadingActivity" theme="16973830" label="2131427328">
+<activity screenOrientation="1" name=".YjsfActivity" theme="16973833">
+<activity screenOrientation="1" name=".AdressSearchActivity" theme="16973833">
+<activity screenOrientation="1" name="com.example.jpushdemo.MyMessageTXActivity" theme="16973833" windowSoftInputMode="32">
+<activity name=".UseAgreementActivity" theme="16973830" windowSoftInputMode="2">
+<activity name=".OfflineMapActivity" theme="16973830" windowSoftInputMode="2">
+<activity name=".ZBSearchClassActivity" theme="16973830" windowSoftInputMode="2">
+<activity name=".UpdateUserPwdActivity" theme="16973830" windowSoftInputMode="2">
+<activity name=".MessageBoxActivity" theme="16973830" windowSoftInputMode="2">
+<activity name=".MyMessageListActivity" theme="16973830" windowSoftInputMode="2">
+<activity name="com.pgd.pax.posonline.baidu.BjMessageInfoActivity" theme="16973830" windowSoftInputMode="2">
+<activity name="com.pgd.pax.posonline.baidu.CscxActivity" theme="16973830" windowSoftInputMode="2">
+<activity name=".ZBSearchResultActivity" theme="16973830" windowSoftInputMode="2">
+<activity name=".ZBSearchSCActivitiy" theme="16973830" windowSoftInputMode="2">
+<activity name=".ZBSearchPOIInfoActivity" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".BaseMapDemo" theme="16973830">
+<activity screenOrientation="1" name=".AddElectronicFenceActivity" theme="16973833">
+<activity name=".LookElectronicFenceActivity" theme="16973833" windowSoftInputMode="32">
+<activity name=".OnLoginActivity" theme="16973833">
+<activity name=".SetActivity" theme="16973833">
+<activity name=".SetAccActivity" theme="16973833">
+<activity name=".UpdatePwdActivity" theme="16973833">
+<activity screenOrientation="1" name=".CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity name=".SheBeiInfoMainActivity" theme="16973833">
+<activity name=".PoiChcoiesActivity" theme="16973833">
+<activity name=".SaveActivity" theme="16973833" windowSoftInputMode="32">
+<activity name=".UserRemarkActivity" theme="16973833">
+<activity screenOrientation="1" name=".PlayBackTrackActivity" theme="16973833" configChanges="160">
+<activity name=".MyXSJLActivity" theme="16973833">
+<activity name=".MainActivity" theme="16973833" configChanges="1184">
+<activity name=".BaoJingActivity" theme="16973833">
+<activity name=".AboutActivity" theme="16973833">
+<activity name=".CountInfoMainActivity" theme="16973833">
+<activity name=".UpdateSBMActivity" theme="16973833">
+<activity name=".LeftDialogActivity" theme="2131492871">
+<activity name=".RightDialogActivity" theme="2131492873">
+<activity name=".ShouYe" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".CarListActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity name=".MyZuiJinListActivity" theme="16973830">
+<activity name=".MyAttentionListActivity" theme="16973830">
+<activity name=".SetSFCSActivity" theme="16973830" configChanges="160">
+<activity name=".SetPhoneManageActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.pgd.pax.posonline.baidu.sms.CommandListActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pgd.pax.posonline.baidu.sms.SOSListActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pgd.pax.posonline.baidu.sms.TelListActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pgd.pax.posonline.baidu.sms.WatchSettingsActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pgd.pax.posonline.baidu.sms.WatchInfoActivity" theme="16973830" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.pgd.pax.posonline.baidu.sms.WatchAPNSettingActivity" theme="16973830" configChanges="160" windowSoftInputMode="0">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+4
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service name="neo.proxy.FastService" exported="false">
+4
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.example.jpushdemo.MyReceiver">
+<receiver name="neo.proxy.DistributeReceiver" exported="false">
+0
+Owner: CN=hugengzong, OU=mapgoo, O=mapgoo, L=shenzhen, ST=shenzhen, C=zg
+Issuer: CN=hugengzong, OU=mapgoo, O=mapgoo, L=shenzhen, ST=shenzhen, C=zg
+Serial number: 4f4ee134
+Valid from: Thu Mar 01 10:38:44 CST 2012 until: Tue Dec 15 10:38:44 CST 2285
+Certificate fingerprints: 
+	MD5:F1:F0:8C:87:46:74:95:F6:FF:57:23:65:09:EE:B1:D2
+	SHA1: 98:EB:0B:15:3A:6E:3D:C7:10:7B:17:69:E3:E5:BC:8F:EA:54:07:B9
+	SHA256: FF:EA:F2:1D:1F:03:C8:6C:0E:92:AE:DD:58:9B:86:2E:91:70:9D:BF:A2:FE:88:E2:B1:07:5F:3E:67:FD:C8:95
+	Signature algorithm name: SHA1withRSA
+	version: 3

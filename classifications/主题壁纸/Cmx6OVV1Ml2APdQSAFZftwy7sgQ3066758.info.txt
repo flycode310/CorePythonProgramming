@@ -1,0 +1,31 @@
+aimoxiu.theme.zepiazsy
+300
+3.0.0
+7
+-1
+7
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity name=".zepiazsy" theme="16973830" label="2131099655">
+<activity name="com.mobisage.android.MobiSageActivity" configChanges="160" label="2131099655">
+1
+<service enabled="true" name="com.mobisage.android.MobiSageApkService">
+1
+<receiver name="com.mobisage.android.MobiSageAdReceiver">
+0
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: f2a73396bd38767a
+Valid from: Thu Jul 24 05:57:59 CST 2008 until: Mon Dec 10 05:57:59 CST 2035
+Certificate fingerprints: 
+	MD5:5D:C8:20:1F:7D:B1:BA:4B:9C:8F:C4:41:46:C5:BC:C2
+	SHA1: 5B:36:8C:FF:2D:A2:68:69:96:BC:95:EA:C1:90:EA:A4:F5:63:0F:E5
+	SHA256: 28:BB:FE:4A:7B:97:E7:46:81:DC:55:C2:FB:B6:CC:B8:D6:C7:49:63:73:3F:6A:F6:AE:74:D8:C3:A6:E8:79:FD
+	Signature algorithm name: MD5withRSA
+	version: 3

@@ -1,0 +1,39 @@
+com.fenglistudio.hotelking
+1
+1.0
+8
+17
+10
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity screenOrientation="1" name="com.fenglistudio.hotelking.MainActivity" label="2131099648">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="net.youmi.android.AdBrowser" theme="16973837" configChanges="176">
+<activity name="net.youmi.android.SmartBannerActivity" theme="2131165186" configChanges="176">
+<activity name="com.fenglistudio.hotelking.InstallApkActivity" exported="true" label="2131099669">
+3
+<service name="net.youmi.android.AdService" exported="false">
+<service name="net.youmi.android.SmartBannerService" exported="false">
+<service name="com.fenglistudio.hotelking.services.DownloadService" exported="true">
+1
+<receiver name="net.youmi.android.AdReceiver">
+0
+Owner: CN=Xiaofeng Ke, OU=Xiaofeng Ke, O=Xiaofeng Ke, L=Xiamen, ST=Fujian, C=CN
+Issuer: CN=Xiaofeng Ke, OU=Xiaofeng Ke, O=Xiaofeng Ke, L=Xiamen, ST=Fujian, C=CN
+Serial number: 46a74b31
+Valid from: Sun Nov 24 20:37:04 CST 2013 until: Mon Aug 27 20:37:04 CST 2068
+Certificate fingerprints: 
+	MD5:D1:99:48:95:FD:4C:3F:A1:A1:DC:0B:D6:89:B9:87:41
+	SHA1: CA:C5:EB:18:81:1C:23:A6:2E:A6:53:77:6D:2F:48:04:FE:E7:9C:68
+	SHA256: 34:8B:1D:83:71:FD:4D:ED:1A:60:DD:40:2F:2B:58:82:96:8B:6F:E2:00:57:C3:3A:72:1E:87:22:08:FC:B8:EA
+	Signature algorithm name: SHA256withRSA
+	version: 3

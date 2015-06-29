@@ -1,0 +1,48 @@
+tomato.moblie.client.cet4
+8
+1.2.2
+8
+-1
+7
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+20
+<activity icon="2130837602" screenOrientation="1" name="tomato.moblie.client.cet4.StartCET4Activity" theme="16973831" label="英语四级学习系统" launchMode="3">
+<activity icon="2130837602" screenOrientation="1" name="tomato.moblie.client.cet4.WriteWordActivity" theme="16973835" label="英语四级学习系统" launchMode="3">
+<activity icon="2130837602" name="tomato.moblie.client.gushi.AppListActivity" theme="16973837" configChanges="160" label="番茄故事" launchMode="0">
+<activity name="tomato.moblie.client.gushi.QueryResultActivily" theme="16973837" configChanges="160" label="番茄故事">
+<activity name="tomato.moblie.client.gushi.AppNavPanel" theme="16973837" configChanges="160" label="番茄故事" launchMode="0">
+<activity name="tomato.moblie.client.gushi.AppContentActivity" theme="16973837" configChanges="16" label="番茄故事" windowSoftInputMode="5" launchMode="3">
+<activity icon="2130837602" screenOrientation="1" name="tomato.mobile.client.activity.ImageViewActivity" theme="16973831" configChanges="160" label="番茄故事" launchMode="3">
+<activity icon="2130837602" screenOrientation="1" name="tomato.mobile.client.activity.TypeListActivily" theme="16973837" configChanges="160" label="英语四级学习系统" windowSoftInputMode="2" launchMode="3">
+<activity icon="2130837602" name="tomato.moblie.client.cet4.CET4Activity" theme="16973837" label="英语四级学习系统" launchMode="3">
+<activity icon="2130837602" name="tomato.mobile.client.activity.FavourActivily" theme="16973837" configChanges="160" label="英语四级学习系统" launchMode="3">
+<activity name="QueryResultActivily" theme="16973837" configChanges="160" label="英语四级学习系统">
+<activity name="tomato.moblie.client.cet4.CET4TypeNavPanel" theme="16973837" configChanges="160" label="英语四级学习系统" launchMode="3">
+<activity name="tomato.mobile.client.activity.BrowserActivity" theme="16973837" configChanges="160" label="英语四级学习系统" launchMode="3">
+<activity name="CET4ContentActivity" theme="16973837" configChanges="160" label="英语四级学习系统" launchMode="3">
+<activity name="tomato.mobile.client.activity.NewListActivily" theme="16973838" windowSoftInputMode="4" launchMode="0">
+<activity name="tomato.mobile.client.activity.QueryActivily" theme="16973840" windowSoftInputMode="4" launchMode="0">
+<activity name="tomato.mobile.client.activity.HelperActivity" theme="16973840" launchMode="3">
+<activity name="tomato.mobile.commons.activity.MessageActivity" theme="16973837" launchMode="3">
+<activity name="tomato.mobile.client.activity.DownloaderActivity" theme="16973840">
+<activity name="tomato.mobile.client.activity.ContentSettingActivity" theme="16973840">
+0
+1
+<receiver name="tomato.moblie.client.gushi.NetStateReceiver">
+0
+Owner: CN=sbaike.com, OU=www.sbaike.com, O=www.sbaike.com, L=shenzhen, ST=gd, C=86
+Issuer: CN=sbaike.com, OU=www.sbaike.com, O=www.sbaike.com, L=shenzhen, ST=gd, C=86
+Serial number: 4fc37424
+Valid from: Mon May 28 20:48:36 CST 2012 until: Wed May 21 20:48:36 CST 2042
+Certificate fingerprints: 
+	MD5:33:28:11:D9:59:52:00:A4:96:53:0B:09:B1:60:55:FA
+	SHA1: C8:63:CB:58:43:9F:A4:58:26:A7:99:FA:AA:C1:F6:8D:33:85:51:56
+	SHA256: 4E:6C:D5:37:C9:91:0C:6C:F5:BE:A2:60:17:21:65:42:0A:15:EA:06:80:E6:22:2E:2C:1C:3A:8E:85:B5:BF:C4
+	Signature algorithm name: SHA1withRSA
+	version: 3

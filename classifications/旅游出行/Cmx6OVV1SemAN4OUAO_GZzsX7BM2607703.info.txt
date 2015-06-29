@@ -1,0 +1,31 @@
+air.com.luopan.jinzhu
+100000000
+1.0.0
+8
+17
+10
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+1
+<activity screenOrientation="2" name=".AppEntry" theme="2131099649" configChanges="1184" label="2131165197" windowSoftInputMode="18" launchMode="2">
+0
+0
+0
+Owner: CN=Luopan, OU=Luopan Inc, O=Luopan, C=CN
+Issuer: CN=Luopan, OU=Luopan Inc, O=Luopan, C=CN
+Serial number: 34643937383231353a31336566393665653731663a2d37666666
+Valid from: Thu May 30 17:47:22 CST 2013 until: Mon May 31 17:47:22 CST 2038
+Certificate fingerprints: 
+	MD5:E6:C3:D6:70:B2:22:0D:BC:38:72:A6:F7:FC:B8:BF:41
+	SHA1: AC:1E:0D:ED:E1:F5:74:9C:4F:93:70:3D:60:42:2A:31:CE:E3:8C:41
+	SHA256: 3D:C7:08:2E:15:C2:C3:1D:86:87:29:DC:B1:A7:CB:D9:3F:DE:AE:53:63:06:5D:5E:AF:88:A6:ED:15:82:75:E0
+	Signature algorithm name: SHA1withRSA
+	version: 3

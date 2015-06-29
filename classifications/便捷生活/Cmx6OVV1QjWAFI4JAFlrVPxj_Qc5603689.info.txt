@@ -1,0 +1,194 @@
+com.when.coco
+1006
+5.8
+9
+14
+28
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.USE_CREDENTIALS
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.REORDER_TASKS
+android.permission.WRITE_CALENDAR
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_CONFIGURATION
+115
+<activity name=".BaseActivity">
+<activity screenOrientation="1" name=".Main" theme="2131492900" label="2131230855">
+<activity screenOrientation="1" name=".Login" theme="2131492900" label="2131230855">
+<activity screenOrientation="1" name=".ForgotPwdActivity" theme="16973830">
+<activity screenOrientation="1" name=".CalendarGroupCreate" theme="16973830">
+<activity screenOrientation="1" name=".CalendarCreateSuccessful" theme="16973830">
+<activity screenOrientation="1" name=".SearchGroupCalendar">
+<activity screenOrientation="1" name="com.when.coco.groupcalendar.MyGroupActivity" theme="16973830">
+<activity screenOrientation="1" name="com.when.coco.publiccalendar.MyPublicActivity" theme="16973830">
+<activity screenOrientation="1" name=".Tool" theme="16973830">
+<activity screenOrientation="1" name=".LoginActivity" theme="16973830">
+<activity screenOrientation="1" name=".MobileActivity" theme="16973830">
+<activity screenOrientation="1" name=".PhoneRegActivity" theme="16973830">
+<activity screenOrientation="1" name=".VerifyActivity" theme="16973830">
+<activity screenOrientation="1" name=".WidgetActivity">
+<activity screenOrientation="1" name=".RegActivity" theme="16973830" windowSoftInputMode="0">
+<activity screenOrientation="1" name=".ProfileActivity" theme="16973830">
+<activity screenOrientation="1" name=".share.ShareActivity" theme="16973840">
+<activity screenOrientation="1" excludeFromRecents="true" name=".LinkListener" theme="16973840">
+<activity screenOrientation="1" name=".NewMain" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" name=".HuangLiDetail" theme="16973839" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name="com.when.calslq.activity.SlqMonthActivity">
+<activity screenOrientation="1" excludeFromRecents="true" name=".wxapi.WXEntryActivity" theme="16973840" exported="true">
+<activity screenOrientation="1" excludeFromRecents="true" name=".wxapi.WXPayEntryActivity" exported="true" launchMode="1">
+<activity screenOrientation="1" name=".PhotoChooser" theme="16973830">
+<activity screenOrientation="1" name=".GalleryActivity" theme="16973830">
+<activity name=".ScheduleDesEdit" configChanges="224">
+<activity screenOrientation="1" name=".CommentActivity" theme="16973830">
+<activity screenOrientation="1" name=".InviteUser" theme="16973830">
+<activity screenOrientation="1" name=".AlarmSelection">
+<activity screenOrientation="1" excludeFromRecents="true" name=".CalendarAlert" theme="2131492886" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name=".CalendarAlertGuide" theme="2131492886" launchMode="1">
+<activity name="com.when.coco.ScheduleLocation" configChanges="224">
+<activity screenOrientation="1" name=".ScheduleRepeatEdit" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ScheduleRepeatSelection" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".AlertLogin" theme="16973835" launchMode="1">
+<activity screenOrientation="1" name=".CalendarAbout">
+<activity screenOrientation="1" name=".CalendarAccountEdit">
+<activity screenOrientation="1" name=".CalendarAccountReset" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".ThirdAccountActivity" theme="16973830">
+<activity screenOrientation="1" name=".NickActivity" theme="16973830">
+<activity screenOrientation="1" name=".ThirdPartyAccoutActivity">
+<activity screenOrientation="1" name=".CalendarSetup" exported="true">
+<activity screenOrientation="1" name=".CalendarSetupAlarmRings">
+<activity screenOrientation="1" name=".SearchSchedule">
+<activity screenOrientation="1" name=".PushToolsWebView">
+<activity screenOrientation="1" name=".nd.WebviewBaseActivity">
+<activity screenOrientation="1" name=".WidgetSetup">
+<activity screenOrientation="1" name=".GoWidgetSetup4x3">
+<activity screenOrientation="1" name=".WidgetComplexViewSetup">
+<activity screenOrientation="1" name=".WidgetBackgroundSetup">
+<activity screenOrientation="1" name="com.when.coco.weather.WeatherCityManager">
+<activity screenOrientation="1" name="com.when.coco.weather.WeatherAddCity">
+<activity screenOrientation="1" name="com.when.coco.weather.Weather">
+<activity screenOrientation="1" name=".WeeklyCalendarRecommend" theme="2131492884">
+<activity screenOrientation="1" name=".RecommApp" theme="16973830">
+<activity screenOrientation="1" name=".nd.BGEditor" theme="16973830">
+<activity screenOrientation="1" name=".view.LoginPromoteActivity" theme="16973830">
+<activity screenOrientation="1" name="com.when.coco.schedule.ScheduleAMapActivity" theme="16973830">
+<activity name="com.when.coco.schedule.ScheduleNetWorkLocationActivity" theme="16973840">
+<activity screenOrientation="1" name="com.when.coco.schedule.AMapNavigationActivity" theme="16973830">
+<activity screenOrientation="1" name="com.when.coco.schedule.SearchAddressActivity" theme="16973830">
+<activity name="com.when.coco.NoteEdit" configChanges="224">
+<activity icon="2130837963" screenOrientation="1" name="com.when.coco.NoteList" label="365待办" taskAffinity="com.when.coco.note">
+<activity screenOrientation="1" name="com.when.coco.AllEdit" windowSoftInputMode="18" taskAffinity="com.when.coco.edit">
+<activity screenOrientation="1" name="com.when.coco.publiccalendar.PublicActivity" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.when.coco.publiccalendar.HistoryActivity" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.when.coco.groupcalendar.GroupHistoryActivity" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.when.coco.groupcalendar.GroupScheduleListActivity" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.when.coco.groupcalendar.GroupBGActivity" theme="16973830">
+<activity screenOrientation="1" name="com.when.coco.publiccalendar.DetailActivity" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.when.coco.groupcalendar.GroupDetailActivity" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.when.coco.groupcalendar.GroupMemberActivity" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.when.coco.publiccalendar.MessageActivity" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.when.coco.publiccalendar.WebActivity" theme="16973830" windowSoftInputMode="19" taskAffinity="com.when.coco.publiccalendar.WebActivity">
+<activity screenOrientation="1" name="com.when.coco.ScheduleList" theme="16973830" taskAffinity="com.when.coco.schedule">
+<activity screenOrientation="1" name="com.when.coco.Crop" theme="16973830">
+<activity screenOrientation="1" name="com.when.coco.groupcalendar.GroupActivity" theme="16973830" windowSoftInputMode="19">
+<activity name="com.umeng.fb.ConversationActivity" theme="2131492901">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.when.birthday.activity.BirthdayActivity">
+<activity screenOrientation="1" name="com.when.birthday.activity.EditBirthdayActivity">
+<activity screenOrientation="1" name="com.when.birthday.activity.BlessingTemplateActivity">
+<activity screenOrientation="1" name="com.when.birthday.activity.ImportTypeActivity">
+<activity screenOrientation="1" name="com.when.birthday.activity.ImportRepeatActivity">
+<activity screenOrientation="1" name="com.when.birthday.activity.ImportFilterActivity">
+<activity screenOrientation="1" name="com.when.birthday.activity.DeleteBirthdayActivity">
+<activity screenOrientation="1" name="com.when.birthday.activity.SendBlessingActivity">
+<activity screenOrientation="1" name="com.when.birthday.activity.AlarmActivity" theme="2131492886" launchMode="1">
+<activity screenOrientation="1" name=".schedule.GroupScheduleActivity" theme="16973830" windowSoftInputMode="19">
+<activity screenOrientation="1" name=".schedule.PublicScheduleActivity" theme="16973830">
+<activity screenOrientation="1" name=".schedule.HuodongScheduleActivity" theme="16973830">
+<activity screenOrientation="1" name=".schedule.HuodongWebView">
+<activity name="com.when.coco.schedule.ScheduleNoteActivity" theme="16973840">
+<activity name="com.when.coco.schedule.ScheduleAlarmActivity" theme="16973840">
+<activity name="com.when.coco.schedule.ScheduleRepeatActivity" theme="16973840">
+<activity name="com.when.coco.schedule.ScheduleDescriptionActivity" theme="16973840" windowSoftInputMode="20">
+<activity name="com.when.coco.schedule.ScheduleLocationActivity" theme="16973840">
+<activity name="com.when.coco.schedule.ScheduleCalendarSelectionActivity" theme="16973840">
+<activity screenOrientation="1" name="com.when.coco.schedule.OnlineScheduleWebview" theme="16973830">
+<activity screenOrientation="1" name="com.when.coco.schedule.SchedulePreviewActivity">
+<activity screenOrientation="1" name="com.when.coco.schedule.TodoPreviewActivity">
+<activity screenOrientation="1" name="com.when.android.calendar365.messagebox.MessageManager" launchMode="1">
+<activity screenOrientation="1" name="com.when.android.calendar365.messagebox.MessageApprover">
+<activity screenOrientation="1" name="com.when.coco.widget.AppWidgetConfigure" theme="2131492880" label="2131230855">
+<activity screenOrientation="1" name="com.when.coco.widget.WeatherScheduleConfigure" label="2131230855">
+<activity screenOrientation="1" name="com.when.coco.widget.WeatherNumClockWidgetConfigure" theme="16973839" label="2131230855">
+<activity screenOrientation="1" name="com.when.coco.widget.ComplexViewConfigure" label="2131230855">
+<activity screenOrientation="1" name="com.when.calslq.activity.SLQSearchActivity">
+<activity screenOrientation="1" name="com.when.coco.cropimage.CropImage">
+<activity name="com.when.coco.cropimage.MonitoredActivity">
+<activity name=".pay.CocoPayWebActivity">
+<activity name="com.tencent.android.tpush.XGPushActivity" exported="true">
+8
+<service name="com.when.android.calendar365.service.UpdateService">
+<service name=".services.AlarmService">
+<service enabled="true" name="com.when.coco.services.WidgetService" exported="true">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.when.coco.widget.MyRemoteViewsService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.when.coco.widget.ComplexViewRemoteViewsService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service name="com.tencent.android.tpush.rpc.XGRemoteService" exported="true">
+21
+<receiver name=".receiver.UploadReceiver" exported="false">
+<receiver name=".receiver.ServiceReceiver">
+<receiver name=".receiver.SyncReceiver">
+<receiver name=".receiver.AlarmReceiver">
+<receiver name=".receiver.StatReceiver">
+<receiver name=".receiver.NotifyDateReceiver">
+<receiver name=".receiver.NotifyWeatherReceiver">
+<receiver name=".receiver.GetWeatherByLocationReceiver">
+<receiver name="com.when.birthday.receiver.AlarmReceiver">
+<receiver name="com.when.birthday.receiver.BootReceiver">
+<receiver name="com.when.birthday.receiver.TimeSetReceiver">
+<receiver name="com.when.coco.receiver.WidgetReceiver">
+<receiver icon="2130837504" name="com.when.coco.widget.Widget4x3" label="2131230989">
+<receiver icon="2130837504" name="com.when.coco.widget.WeatherScheduleWidget4x3" label="2131231000">
+<receiver icon="2130837504" name=".widget.WeatherNumberClockWidget4x2" label="2131230990">
+<receiver icon="2130837504" name="com.when.coco.widget.ComplexViewWidget4x4" label="2131230991">
+<receiver icon="2130837504" name="com.when.coco.widget.Widget1x1" label="2131230992">
+<receiver icon="2130837504" name="com.when.coco.widget.Widget4x1" label="2131230993">
+<receiver name="com.when.coco.receiver.GoWidgetReceiver">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="com.when.coco.receiver.XGPushReceiver">
+2
+<provider authorities="com.when.coco.birthday.provider.database" multiprocess="true" name="com.when.birthday.dao.BirthdayDatabaseProvider">
+<provider authorities="com.when.coco.provider.database" multiprocess="true" name="com.when.android.calendar365.provider.DatabaseProvider">
+Owner: CN=林思然, OU=北京问日科技有限公司, O=北京问日科技有限公司, L=北京, ST=北京, C=86
+Issuer: CN=林思然, OU=北京问日科技有限公司, O=北京问日科技有限公司, L=北京, ST=北京, C=86
+Serial number: 4c41cb9b
+Valid from: Sat Jul 17 23:26:19 CST 2010 until: Mon Jun 23 23:26:19 CST 2110
+Certificate fingerprints: 
+	MD5:C9:A0:87:00:AB:F1:1F:67:17:86:F1:87:04:AF:1A:89
+	SHA1: 40:CE:C0:B4:2B:E2:74:A1:21:A6:F0:86:BF:CF:31:33:BB:2C:C6:5A
+	SHA256: 9C:FC:51:70:FF:F9:9D:DD:07:0B:8F:CD:53:5F:D1:6C:F9:00:FE:DC:A6:B3:22:8D:ED:7D:EC:0C:5F:15:FD:C1
+	Signature algorithm name: MD5withRSA
+	version: 1

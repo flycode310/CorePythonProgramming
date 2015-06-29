@@ -1,0 +1,117 @@
+fm.xiami.main
+99
+5.0.5
+8
+19
+23
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+getui.permission.GetuiService.fm.xiami.main
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECORD_VIDEO
+android.permission.WRITE_SETTINGS
+android.permission.BLUETOOTH
+android.permission.INTERNET
+android.permission.READ_SETTINGS
+android.permission.ACCESS_FINE_LOCATION
+fm.xiami.main.permission.broadcast
+android.permission.VIBRATE
+android.permission.BLUETOOTH_ADMIN
+android.permission.CHANGE_NETWORK_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+53
+<activity screenOrientation="1" name="com.xiami.v5.framework.component.common.SimpleEmptyFragmentActivity" theme="2131427335" windowSoftInputMode="18" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.feedback.ui.FeedbackActivity" theme="2131427335" windowSoftInputMode="18" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.feedback.ui.BigImageActivity" theme="2131427335" launchMode="3">
+<activity name="fm.xiami.main.wxapi.WXEntryActivity" exported="true">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="fm.xiami.main.HomeActivity" theme="2131427331" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.xiami.v5.framework.schemeurl.SchemeUrlActivity" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name="fm.xiami.main.business.lockscreen.ui.CustomLockScreenActivity" theme="2131427418" windowSoftInputMode="32" taskAffinity="fm.xiami.main.business.lockscreen.ui" launchMode="3">
+<activity screenOrientation="6" name="fm.xiami.main.business.player.ui.SixYearsActivity" theme="2131427334" configChanges="1152" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="fm.xiami.main.business.soundhound.ui.SoungHoundActivity" theme="2131427331" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.usercenter.unicom.UnicomActivity" theme="2131427331" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.usercenter.unicom.UnicomModifyActivity" theme="2131427331" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.usercenter.unicom.UnicomRegActivity" theme="2131427331" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.login.LoginMainActivity" theme="2131427336" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.player.ui.SearchLyricActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.login.XiamiLoginActivity" theme="2131427336" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.main.business.login.TaobaoLoginActivity" theme="2131427336" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.login.XiamiFindPasswordActivity" theme="2131427336" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.login.TaobaoUpgradeActivity" theme="2131427336" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.login.TaobaoBindActivity" theme="2131427336" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.login.TaobaoUpgradeGuideActivity" theme="2131427336" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.login.DeviceBindActivity" theme="2131427336" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.usercenter.ui.ThirdAccountBindActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.usercenter.ui.AvatarActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.SplashActivity" theme="2131427332" configChanges="1184">
+<activity screenOrientation="1" name="fm.xiami.main.business.walkthrough.WalkThroughActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.mymusic.localmusic.LocalMusicScanActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.share.ui.ShareToXiamiServerActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.share.ui.SelectFriendShareActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.share.lyrictemplate.ui.LyricPosterMakeActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.comment.ui.CommentActivity" theme="2131427335" windowSoftInputMode="19" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.messagecenter.UserMessageListActivity" theme="2131427335" windowSoftInputMode="19" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.mymusic.musicpackage.ui.MusicPackageDialog" theme="2131427430">
+<activity screenOrientation="1" name="fm.xiami.main.business.mymusic.musicpackage.ui.MusicPackageOpenDialog" theme="2131427430">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity screenOrientation="1" name="fm.xiami.main.business.player.ui.EqualizerActivity" theme="16973840">
+<activity screenOrientation="1" name="fm.xiami.main.business.player.ui.CustomEqualizerActivity" theme="16973840">
+<activity screenOrientation="1" name="fm.xiami.main.business.overseashield.OverseaShieldActivity" theme="2131427331" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.main.business.feedback.ui.FeedbackEmptyActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.browserwebview.BrowserWebViewActivity" theme="2131427335" windowSoftInputMode="16" launchMode="0">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity screenOrientation="1" name="fm.xiami.main.business.detail.PictureActivity" theme="16973840">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+<activity screenOrientation="6" name="fm.xiami.main.business.mv.ui.MvActivity" theme="2131427334" configChanges="1152" launchMode="1">
+<activity screenOrientation="1" name="fm.xiami.main.business.alarm.AlarmEditActivity" theme="2131427483" launchMode="2">
+<activity screenOrientation="1" name="fm.xiami.main.business.alarm.AlarmListActivity" theme="2131427335" launchMode="0">
+<activity screenOrientation="1" excludeFromRecents="true" name="fm.xiami.main.business.alarm.AlarmStartActivity" theme="2131427418" windowSoftInputMode="32" taskAffinity="fm.xiami.main.business.alarm" launchMode="3">
+<activity screenOrientation="1" name="fm.xiami.main.business.mymusic.editcollect.EditCollectInfoActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.mymusic.editcollect.AddTagActivity" theme="2131427335" windowSoftInputMode="16" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.mymusic.editcollect.EditCollectPromptActivity" theme="2131427335" windowSoftInputMode="32" launchMode="0">
+<activity screenOrientation="1" name="fm.xiami.main.business.mymusic.editcollect.EditDescriptionActivity" theme="2131427335" windowSoftInputMode="16" launchMode="0">
+<activity screenOrientation="1" name="com.alipay.sdk.app.H5PayActivity" theme="2131427335" launchMode="1">
+10
+<service process="fm.xiami.main.player" name="fm.xiami.main.service.PlayService" exported="true" label="xiami music play service">
+<service process="fm.xiami.main.player" name="fm.xiami.main.service.DesktopLyricService">
+<service name="fm.xiami.main.service.MainService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service process=":utremote" name="com.taobao.statistic.module.data.Yolanda">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service name="fm.xiami.main.business.alarm.MediaPlayService">
+<service name="fm.xiami.main.business.splash.StartInitService">
+<service name="com.xiami.v5.framework.LogTrackService">
+10
+<receiver name="fm.xiami.main.GeTuiPushReceiver" exported="false">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver name="fm.xiami.main.business.alarm.AlarmReceiver">
+<receiver process="fm.xiami.main.player" name="fm.xiami.main.business.player.receiver.RemoteController">
+<receiver name="fm.xiami.main.business.appwidget.AppWidgetSmall" label="2131231287">
+<receiver name="fm.xiami.main.business.appwidget.AppWidgetMedium" label="2131231288">
+<receiver name="fm.xiami.main.business.appwidget.AppWidgetLarge" label="2131231289">
+<receiver name="com.gau.go.launcherex.gowidget.GoWidgetReceiver">
+1
+<provider process="fm.xiami.main.player" authorities="fm.xiami.main.contentprovider.PlayContentProvider" name="fm.xiami.main.contentprovider.PlayContentProvider">
+Owner: CN=xiami.com, OU=xiami.com
+Issuer: CN=xiami.com, OU=xiami.com
+Serial number: 4c764010
+Valid from: Thu Aug 26 18:21:04 CST 2010 until: Mon Aug 20 18:21:04 CST 2035
+Certificate fingerprints: 
+	MD5:84:84:84:2A:80:90:84:A8:6D:A1:65:AF:E6:C0:4D:B9
+	SHA1: 11:DE:FE:2C:F9:D8:13:73:EA:98:C8:7F:D5:E4:E5:EC:10:BD:51:40
+	SHA256: C6:27:43:B5:6B:9F:90:29:05:64:4A:D0:DC:12:5E:13:51:A6:F4:F4:77:32:15:D4:29:98:5B:6C:59:69:CA:93
+	Signature algorithm name: SHA1withRSA
+	version: 3

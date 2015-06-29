@@ -1,0 +1,27 @@
+com.gau.go.launcherex.gowidget.calendarwidget
+2
+1.1
+5
+-1
+2
+android.permission.WRITE_CALENDAR
+android.permission.READ_CALENDAR
+1
+<activity excludeFromRecents="true" name=".CalendarActivity" theme="16973835" label="2131099650" launchMode="3">
+0
+2
+<receiver name=".DateReceiver">
+<receiver name=".EixtReceiver">
+2
+<provider authorities="com.gau.go.launcherex.gowidget.calendarwidget.provider" multiprocess="false" name=".CalendarProvider" grantUriPermissions="true">
+<provider authorities="com.gau.go.launcherex.gowidget.calendarwidget.notifyprovider" multiprocess="false" name=".NotifyViewProvider" grantUriPermissions="true">
+Owner: CN=3g.cn, OU=3g.cn, O=3g.cn, L=guangzhou, ST=guangdong, C=020
+Issuer: CN=3g.cn, OU=3g.cn, O=3g.cn, L=guangzhou, ST=guangdong, C=020
+Serial number: 4c6de35b
+Valid from: Fri Aug 20 10:07:23 CST 2010 until: Tue Aug 14 10:07:23 CST 2035
+Certificate fingerprints: 
+	MD5:89:E4:89:C4:A6:D6:E2:E6:F3:CF:D1:DD:B1:FF:87:BF
+	SHA1: 4A:CE:2A:33:E9:CD:31:13:AD:BB:0E:BC:E4:EE:D9:0C:5F:43:33:8B
+	SHA256: 14:CE:B7:0D:FB:9E:C5:8B:F4:3F:7B:3B:BA:F1:72:A7:D1:D4:62:69:30:A8:27:80:12:75:D9:4B:60:60:FA:06
+	Signature algorithm name: SHA1withRSA
+	version: 3

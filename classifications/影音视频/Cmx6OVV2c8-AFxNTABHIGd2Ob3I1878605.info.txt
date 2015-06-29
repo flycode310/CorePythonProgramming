@@ -1,0 +1,42 @@
+com.nimblesoft.equalizervideo
+2
+1.0.1
+-1
+-1
+10
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_CONTACTS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+8
+<activity name="cn.voilet.videoplayer.VideoLibraryActivity" configChanges="160" windowSoftInputMode="48">
+<activity name="cn.voilet.videoplayer.VideoPlayerActivity" configChanges="160">
+<activity name="com.startapp.android.eula.EULAActivity" theme="16973839" configChanges="176">
+<activity name="com.startapp.android.publish.list3d.List3DActivity" theme="16973829" taskAffinity="com.nimblesoft.equalizervideo.AppWall">
+<activity name="com.startapp.android.publish.AppWallActivity" theme="16973839" configChanges="160" taskAffinity="com.nimblesoft.equalizervideo.AppWall">
+<activity screenOrientation="1" excludeFromRecents="true" name="net.mz.callflakessdk.core.ActivityCallTerminate" configChanges="160" label="2131165184" windowSoftInputMode="16" noHistory="true" launchMode="3">
+<activity screenOrientation="1" name="net.mz.callflakessdk.core.ActivityAdBannerURL" label="2131165184" windowSoftInputMode="1" launchMode="1">
+<activity screenOrientation="1" name="net.mz.callflakessdk.core.ActivityAds" label="2131165184" windowSoftInputMode="1" launchMode="1">
+1
+<service enabled="true" name="net.mz.callflakessdk.core.ServiceBannerCaching">
+3
+<receiver enabled="true" name="net.mz.callflakessdk.core.ReceiverCall" exported="true">
+<receiver enabled="true" name="net.mz.callflakessdk.core.ReceiverPackageAdded" exported="true">
+<receiver enabled="true" name="net.mz.callflakessdk.core.ReceiverPackageRemoved" exported="true">
+0
+Owner: CN=tanwh, OU=voilet, O=voilet, L=gaozhou, ST=voilet, C=ZN
+Issuer: CN=tanwh, OU=voilet, O=voilet, L=gaozhou, ST=voilet, C=ZN
+Serial number: 757e0638
+Valid from: Fri Mar 09 15:41:47 CST 2012 until: Sat Feb 25 15:41:47 CST 2062
+Certificate fingerprints: 
+	MD5:30:A6:54:B7:79:FF:B8:83:B4:B5:91:BB:D8:4B:33:B5
+	SHA1: 9A:BF:B1:36:D9:F7:AD:56:B9:D7:14:F7:25:55:33:60:F2:EE:02:58
+	SHA256: 07:37:CE:D9:06:68:5F:1C:08:83:46:64:A4:34:2D:F7:1E:B5:58:95:BE:F3:C2:EB:C9:16:9B:AF:F3:DF:DA:D2
+	Signature algorithm name: SHA256withRSA
+	version: 3

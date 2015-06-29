@@ -1,0 +1,48 @@
+com.MobileTicket
+52
+2.1
+8
+-1
+16
+android.permission.USE_CREDENTIALS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+com.google.android.c2dm.permission.RECEIVE
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.ACCESS_FINE_LOCATION
+com.MobileTicket.permission.C2D_MESSAGE
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+7
+<activity screenOrientation="1" name=".MobileTicket" configChanges="1184" label="2131165184" windowSoftInputMode="32" launchMode="2">
+<activity name="com.worklight.common.WLPreferences" label="Worklight Settings">
+<activity name=".WebPayActivity">
+<activity name="cn.domob.wall.core.download.DActivity">
+<activity name=".MobileTicketShare">
+<activity name=".ScreenShotSaveImg">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+3
+<service name=".GCMIntentService">
+<service name=".ForegroundService">
+<service name="com.arrownock.push.PushService">
+2
+<receiver name="com.google.android.gcm.GCMBroadcastReceiver" permission="com.google.android.c2dm.permission.SEND">
+<receiver enabled="true" name="com.arrownock.cordova.plugin.AnPushCDVPluginReceiver" exported="false">
+0
+Owner: CN=12306, OU=rails, O=ztc, L=beijing, ST=beijing, C=01
+Issuer: CN=12306, OU=rails, O=ztc, L=beijing, ST=beijing, C=01
+Serial number: 520c9714
+Valid from: Thu Aug 15 16:53:40 CST 2013 until: Sat Jul 22 16:53:40 CST 2113
+Certificate fingerprints: 
+	MD5:C6:82:46:8B:0F:E9:EC:13:DE:E7:81:F2:EF:5C:CE:21
+	SHA1: D9:C8:C3:97:49:E3:D5:14:8B:0B:25:94:C5:1C:19:3B:2A:04:00:EB
+	SHA256: 53:A2:50:8D:2E:FC:EF:95:DE:AD:F8:FF:74:EF:41:EA:DC:D1:E9:6F:BC:C4:9B:53:D7:41:78:78:06:C0:19:04
+	Signature algorithm name: SHA1withRSA
+	version: 3

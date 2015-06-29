@@ -1,0 +1,33 @@
+com.besta.app.dict.kxzd
+15
+1.0.15
+10
+10
+9
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_MEDIA_STORAGE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+4
+<activity name="TransparentActivity" theme="16973840" label="2131296256">
+<activity name=".KXMainActivity" label="2131296256" windowSoftInputMode="2">
+<activity name=".KXBuShouJianZiActivity" configChanges="1168" label="2131296256">
+<activity name="com.besta.app.dict.kxzd.KXDanZiChaXunActivity" configChanges="1168" label="2131296256">
+0
+0
+0
+Owner: CN=Android.XA017.platform, OU=RD10, O=Besta, L=Xi'an, ST=Shaanxi, C=CN
+Issuer: CN=Android.XA017.platform, OU=RD10, O=Besta, L=Xi'an, ST=Shaanxi, C=CN
+Serial number: a47ef8a76e52fd87
+Valid from: Tue Nov 01 19:30:16 CST 2011 until: Sat Mar 19 19:30:16 CST 2039
+Certificate fingerprints: 
+	MD5:0A:34:F8:A8:DA:03:82:05:4F:D7:D1:88:9F:86:4C:4F
+	SHA1: 5C:8E:D5:B4:7F:74:3A:15:20:7A:74:CB:D7:2D:81:7F:06:4B:AD:38
+	SHA256: 49:5E:36:1A:9B:9C:C2:33:6C:4D:26:32:8C:10:EA:26:E2:92:67:1C:DA:CA:E1:20:15:44:0F:BC:E3:78:4E:0E
+	Signature algorithm name: SHA1withRSA
+	version: 3

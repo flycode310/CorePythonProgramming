@@ -1,0 +1,36 @@
+com.nnsvo.bcchkd11692.animal
+150
+1.5.0
+10
+15
+13
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+3
+<activity screenOrientation="1" name=".bcchkd11692a" theme="16973833" label="2131099648">
+<activity name=".bcchkd11692w" configChanges="160">
+<activity name="cn.waps.OffersWebView" configChanges="160">
+0
+0
+0
+Owner: CN=wolfkiefer, OU=ReadGaGa.com, O=ReadGaGa.com, L=beijing, ST=beijing, C=cn
+Issuer: CN=wolfkiefer, OU=ReadGaGa.com, O=ReadGaGa.com, L=beijing, ST=beijing, C=cn
+Serial number: 4e3153dd
+Valid from: Thu Jul 28 20:19:41 CST 2011 until: Wed Aug 21 20:19:41 CST 2052
+Certificate fingerprints: 
+	MD5:06:EE:5B:1C:20:9E:77:1E:C2:8E:69:0A:2B:17:8D:43
+	SHA1: C1:1C:0E:C6:35:E3:9B:2C:7E:70:D8:21:34:55:E5:D5:35:0F:87:A3
+	SHA256: 80:40:E5:DA:84:E1:09:A3:A2:D2:B4:FE:E5:39:7E:84:D5:E6:46:47:2D:18:FF:FE:31:6E:06:3D:28:47:54:F4
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,38 @@
+com.duomi.duomiFM
+9
+1.6.0
+4
+-1
+7
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+7
+<activity screenOrientation="1" name=".DuomiFM" configChanges="128" label="2131230720" windowSoftInputMode="32" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="DuomiFM_ReLogin">
+<activity screenOrientation="1" name=".DuomiFMSongInfo">
+<activity screenOrientation="1" name=".DuomiFM_Feedback">
+<activity screenOrientation="1" name=".DuomiFM_About">
+<activity screenOrientation="1" name=".DuomiFM_Setting">
+<activity name="com.duomi.advertisement.AdvertisementList">
+2
+<service name=".media.MediaService">
+<service process=":remote" name=".download.DownloadService">
+1
+<receiver name=".appwidget.DuomiFM_AppWidget">
+1
+<provider authorities="com.duomi.duomiFM.db" name=".db.DuomiDataProvider">
+Owner: CN=Alfred, OU=KXT, O=kxt.com, L=Beijing, ST=Beijing, C=86
+Issuer: CN=Alfred, OU=KXT, O=kxt.com, L=Beijing, ST=Beijing, C=86
+Serial number: 4ba9e0bd
+Valid from: Wed Mar 24 17:51:57 CST 2010 until: Fri Feb 28 17:51:57 CST 2110
+Certificate fingerprints: 
+	MD5:96:BD:8D:78:84:16:E7:BD:A2:82:44:53:40:9A:52:67
+	SHA1: 48:1F:4C:31:29:66:89:61:4C:DD:DB:74:C2:8E:25:04:F5:EA:96:96
+	SHA256: 15:62:05:E8:78:B1:6B:76:5C:5C:CD:7B:B7:16:6F:8A:EE:C4:BF:43:9C:87:C8:A2:11:68:3B:BB:5B:D0:BD:39
+	Signature algorithm name: SHA1withRSA
+	version: 3

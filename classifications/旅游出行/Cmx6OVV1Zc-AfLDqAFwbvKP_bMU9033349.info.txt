@@ -1,0 +1,33 @@
+com.boc.bocsoft.phone
+3
+1.0
+9
+18
+10
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.MODIFY_AUDIO_SETTINGS
+3
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.boc.bocsoft.phone.activity.business.splash.MEBSplashActivity" label="2131230729">
+<activity screenOrientation="1" name="com.boc.bocsoft.phone.activity.business.main.MEBMainActivity" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.boc.bocsoft.phone.activity.business.guide.MEBGuideActivity" windowSoftInputMode="34">
+0
+0
+0
+Owner: CN=中国银行, OU=中国银行-电子渠道开发部
+Issuer: CN=中国银行, OU=中国银行-电子渠道开发部
+Serial number: 4c081450
+Valid from: Fri May 30 14:08:50 CST 2014 until: Tue May 24 14:08:50 CST 2039
+Certificate fingerprints: 
+	MD5:1F:FE:B3:95:FD:3B:D9:52:92:FF:D4:75:99:46:6E:61
+	SHA1: 91:04:25:9C:B3:27:A1:7D:54:80:F9:C5:E3:44:D7:B1:78:05:3F:3E
+	SHA256: A0:17:7B:4A:DC:BE:17:19:3E:3B:AC:BB:A7:33:60:A2:82:39:FA:AB:F4:25:2E:73:5E:CA:C7:B6:2F:41:0E:E5
+	Signature algorithm name: SHA256withRSA
+	version: 3

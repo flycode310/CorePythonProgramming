@@ -1,0 +1,175 @@
+com.mobiq.tiaomabijia
+114
+3.55
+8
+18
+32
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+com.mobiq.feimaor.permission.JPUSH_MESSAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.USE_CREDENTIALS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.REORDER_TASKS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+105
+<activity screenOrientation="1" name="com.mobiq.feimaor.FeimaorActivity" theme="2130968601" label="2131230797" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.mobiq.feimaor.sale.FMTypeActivity" theme="16973839">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMNearBranchShopActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMShopBranchDetailActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.say.FMSayActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.plan.FMPlanPreviewActivity" theme="16973839">
+<activity screenOrientation="1" name="com.mobiq.feimaor.compare.FMChoicePhotoActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.compare.FMPhotoActivity" theme="16973831">
+<activity screenOrientation="1" name="com.mobiq.feimaor.code.FMCreateResultActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.code.FMTelephoneCreateActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.code.FMSmsCreateActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.code.FMEmailCreateActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.code.FMClipBoardCreateActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.code.FMCardCreateActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.code.FMUrlCreateActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.code.FMTextCreateActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.code.FMCreateTwoDimensionCodeActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.plan.FMPlanListDialog" theme="16973839" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.mobiq.feimaor.plan.FMEditPlanDetailNameActivity" theme="16973839">
+<activity screenOrientation="1" name="com.mobiq.feimaor.plan.FMEditPlanDetailActivity" theme="16973839">
+<activity screenOrientation="1" name="com.mobiq.feimaor.plan.FMEditPlanNameActivity" theme="16973839">
+<activity screenOrientation="1" name="com.mobiq.feimaor.plan.FMShoppingPlanDetailActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.mobiq.feimaor.plan.FMShoppingPlanActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.mobiq.feimaor.compare.FMWebviewActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.compare.FMNoGoodsPriceActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.compare.FMTwoDimensionCodeActivity">
+<activity screenOrientation="1" name="cx.hell.android.pdfview.OpenFileActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mobiq.feimaor.FMHolidayActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.sale.FMLocalDMActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.sale.FMDMCollectActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.sale.FMWebActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.sale.FMSaleListActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.sale.FMShopTypeActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.sale.FMGoodSaleActivity">
+<activity multiprocess="true" hardwareAccelerated="true" name="com.mobiq.feimaor.sale.FMDMActivity" configChanges="1152" largeHeap="true" launchMode="3">
+<activity screenOrientation="1" name="com.mobiq.feimaor.my.FMWeiboLoginActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.mobiq.feimaor.my.FMModificationUsernameActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.my.FMLoginActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.mobiq.feimaor.setting.FMAppsActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.setting.FMSuggestFeedbackActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.my.FMMyCollectActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.my.FMMyCommentActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.my.FMBarcodeHistoryActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.setting.FMSettingActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMTaobaoActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMShopDetailActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMAdvisoryActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMMessageErrorActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMRelatedSaleActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMShareActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMGoodsDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.mobiq.feimaor.parity.FMComparePriceActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMCommentActivity" theme="2131361813" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMShopCommentActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.parity.FMFrindCommentActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.search.FMSearchListActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.search.FMSearchActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.mobiq.feimaor.FMChangeCityActivity">
+<activity screenOrientation="0" name="com.mobiq.feimaor.compare.FMCaptureActivity" theme="16973831">
+<activity screenOrientation="1" name="com.mobiq.feimaor.compare.FMInputBarcodeActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.compare.CompareActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.FMMainActivity" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.mobiq.feimaor.my.FMMyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.mobiq.feimaor.sale.FMSaleActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobiq.feimaor.FMScanActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobiq.feimaor.welfare.FMExchangeTheHallActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.function.FMRetrievePasswordActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.mobiq.feimaor.function.FMExchangeHistoryActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.setting.FMModificationPassWordActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.mobiq.feimaor.setting.FMModificationHeadActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.welfare.FMEarnMoneyActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.welfare.FMWelfareAreaActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.setting.FMModificationDatumActivity" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.mobiq.feimaor.function.FMExchangeActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.mobiq.feimaor.function.FMRegisterActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.mobiq.feimaor.function.FMLoginActivity" windowSoftInputMode="16">
+<activity name="com.mobiq.ymcatmoney.AdBrowser" theme="16973837" configChanges="1200">
+<activity name="com.ingamead.yqbsdk.YqbActivity" configChanges="1184">
+<activity name="com.mobiq.feimaor.welfare.MyNativeView">
+<activity screenOrientation="1" name="com.feimbijia.MkynjoNativeDetailActivity">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.mobiq.feimaor.view.WQVideoView" theme="16973839" configChanges="1184">
+<activity name="com.wq2feimao.sdk.WQActionHandler" configChanges="1184">
+<activity hardwareAccelerated="true" name="com.wq2feimao.sdk.WQBrowser" configChanges="1184">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.mobiq.tiaomabijia.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="com.qihoo.gamead.activity.LightAppActivity" theme="16973840" configChanges="160" launchMode="1">
+<activity screenOrientation="1" name="com.qihoo.gamead.activity.AppDetailActivity" theme="16973837" configChanges="160" launchMode="1">
+<activity name="com.qihoo.psdk.app.QStatActivity" theme="16973840" launchMode="3">
+<activity name="net.miidiwall.SDK.MyWallActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qiang.escore.scorewall.ShowWallActivity" configChanges="160">
+<activity screenOrientation="1" name="com.qiang.escore.sdk.view.DetailActivity" configChanges="160">
+<activity name="com.dmcatmoney.dm.DMActivity" theme="16973830" configChanges="1200">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMCircleActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMThemeListActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMPostDetailActivity" configChanges="1184" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMForumPostListActivity" theme="2131361814" configChanges="1184">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMCommentListActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMPostSubmitActivity" theme="2131361813" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMMyMessageActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMAlbumsActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMSelectPicturesActivity">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMReplyActivity" theme="2131361812" label="2131231483">
+<activity screenOrientation="1" name="com.mobiq.feimaor.circle.activity.FMMyMessageCommentActivity" label="2131231484">
+<activity name="com.mobiq.feimaor.circle.activity.FMBigPicPageActivity" theme="2131361804" configChanges="1184">
+11
+<service name="com.mobiq.ymcatmoney.AdService" exported="false">
+<service name="com.mobiq.ymcatmoney.ExpService" exported="false">
+<service name="com.ingamead.yqbsdk.YqbService">
+<service name="com.mobiq.feimaor.welfare.MyService">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service name="com.qihoo.gamead.download.DownloadService">
+<service process=":QEvent" name="com.qihoo.gamead.event.QEventService" exported="false">
+<service process=":QRemote" name="com.qihoo.psdk.remote.QRemoteService" exported="true">
+<service process=":QLocal" name="com.qihoo.psdk.local.QLocalService" exported="true">
+<service name="com.dmcatmoney.dm.DMService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+7
+<receiver name="com.mobiq.feimaor.plan.AlarmReceiver">
+<receiver name="com.mobiq.ymcatmoney.AdReceiver">
+<receiver name="com.mobiq.ymcatmoney.os.OffersReceiver" exported="false">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.mobiq.feimaor.MyReceiver">
+<receiver name="com.qihoo.psdk.local.QBootReceiver" permission="android.permission.RECEIVE_BOOT_COMPLETED">
+0
+Owner: CN=HongWei Xu, OU=Development, O=Beijing MoZhi ShiJi, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=HongWei Xu, OU=Development, O=Beijing MoZhi ShiJi, L=Beijing, ST=Beijing, C=CN
+Serial number: 4fa3aac9
+Valid from: Fri May 04 18:09:13 CST 2012 until: Tue Apr 28 18:09:13 CST 2037
+Certificate fingerprints: 
+	MD5:A4:BA:94:19:CD:6A:CA:A5:E0:4D:A3:2A:2F:C9:10:6F
+	SHA1: 9B:96:FF:A0:85:FF:50:F7:3B:3C:5F:2C:BF:D5:37:49:0F:B4:AE:CD
+	SHA256: 42:46:1A:AD:FF:48:4E:00:55:BD:13:00:96:F6:63:2F:26:92:65:7B:5F:B9:77:03:0B:A7:13:DA:1A:C3:80:79
+	Signature algorithm name: SHA1withRSA
+	version: 3

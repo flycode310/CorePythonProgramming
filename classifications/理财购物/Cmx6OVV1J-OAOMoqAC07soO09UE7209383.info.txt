@@ -1,0 +1,67 @@
+com.chamberlain.shuyinzi
+113
+1.1.3
+7
+15
+9
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+38
+<activity screenOrientation="1" name="com.chamberlain.activity.WelcomeActivity" label="2131230723">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoanListActivity" label="2131230723">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoanDetailActivity" label="2131230723">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoanFilterActivity" label="2131230723">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoanExaminationActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoanExamination2Activity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoanExamination3Activity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.FinanceDetailActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.InvestDetailActivity" configChanges="160" label="2131230723" windowSoftInputMode="32" launchMode="1">
+<activity screenOrientation="1" name="com.chamberlain.activity.InvestFilterActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.BankMapActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.CityChoiseActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.MyLoanListActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.MyTabActivity" label="2131230723" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.chamberlain.activity.HomeActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoanActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.InvestActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.FinanceActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.BankActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.TabHostActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.ToolActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.RegistActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoginActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoginedActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.ForgetPwdActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.ChangePwdActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.HouseLoanActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.PersonalTaxActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.HouseTaxActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.EarlyRepaymentActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.UserInfoActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.AddLoanInfoActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.LoanGalleryActivity" configChanges="160" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.MoreActivity" label="2131230795" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.AboutActivity" label="2131230963" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.HelpActivity" label="2131230963" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.NewsActivity" label="2131230723" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chamberlain.activity.TestMapActivity" configChanges="176" label="2131230723" windowSoftInputMode="32">
+0
+0
+0
+Owner: CN=25
+Issuer: CN=25
+Serial number: 4ea0d05d
+Valid from: Fri Oct 21 09:52:29 CST 2011 until: Tue Oct 14 09:52:29 CST 2036
+Certificate fingerprints: 
+	MD5:2D:43:C4:D4:4B:43:87:C5:53:23:C1:60:A0:79:D7:F6
+	SHA1: 5A:E1:38:CC:85:A0:86:FA:AC:28:77:AD:0B:2E:3B:CF:E8:C4:40:6B
+	SHA256: 2A:BE:73:23:B6:E7:A7:3A:65:C7:8A:AA:BB:6A:21:48:08:B4:C1:3E:D0:A8:DC:A9:74:B3:4B:FC:E4:EB:D4:79
+	Signature algorithm name: SHA1withRSA
+	version: 3

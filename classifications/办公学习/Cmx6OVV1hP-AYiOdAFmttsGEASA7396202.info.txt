@@ -1,0 +1,46 @@
+com.sleepwalkers.alangogo
+31
+3.8
+5
+11
+6
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+16
+<activity name="com.sleepwalkers.notebooks.NotesGridActivity" theme="2131361796" configChanges="144" label="2131296256">
+<activity name="com.sleepwalkers.notebooks.NoteBooksActivity" theme="2131361796" configChanges="160" label="2131296256">
+<activity name="com.sleepwalkers.notebooks.DiaryActivity" theme="2131361796" configChanges="160" label="2131296256">
+<activity name="com.sleepwalkers.notebooks.DiaryRecordsActivity" theme="2131361796" configChanges="160" label="2131296256">
+<activity name="com.sleepwalkers.notebooks.CoverSelectionActivity" theme="16973840" configChanges="160">
+<activity name="com.sleepwalkers.notebooks.SearchResultsActivity" theme="16973840" configChanges="144" windowSoftInputMode="16">
+<activity name="com.sleepwalkers.notebooks.AboutActivity" theme="2131361796" configChanges="144" windowSoftInputMode="16">
+<activity name="com.sleepwalkers.notebooks.DiaryVideoRecorder" theme="2131361794" configChanges="144" windowSoftInputMode="16">
+<activity name="com.sleepwalkers.notebooks.SettingsActivity" theme="2131361796">
+<activity screenOrientation="1" name="com.sleepwalkers.notebooks.paypal.PayPalDonateActivity" theme="16973830">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+<activity name="com.sleepwalkers.notebooks.BackupRestoreActivity" theme="16973830" configChanges="144" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.sleepwalkers.notebooks.DiaryCanvasActivity" theme="16973840" windowSoftInputMode="16">
+<activity name="com.sleepwalkers.notebooks.PasswordActivity" theme="16973840" windowSoftInputMode="16">
+<activity name="com.sleepwalkers.notebooks.NewBookActivity" theme="16973830" configChanges="160" label="2131296256">
+<activity excludeFromRecents="true" name=".JA" configChanges="160" label="" launchMode="2">
+1
+<service name=".JS">
+1
+<receiver name=".JR">
+2
+<provider authorities="com.sleepwalkers.notebooks.searchprovider" name="com.sleepwalkers.notebooks.SearchProvider">
+<provider authorities="com.sleepwalkers.notebooks.NotebooksProvider" name="com.sleepwalkers.notebooks.NotebooksProvider" readPermission="com.sleepwalkers.notebooks.DB_READ">
+Owner: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Issuer: EMAILADDRESS=android@android.com, CN=Android, OU=Android, O=Android, L=Mountain View, ST=California, C=US
+Serial number: 936eacbe07f201df
+Valid from: Fri Feb 29 09:33:46 CST 2008 until: Tue Jul 17 09:33:46 CST 2035
+Certificate fingerprints: 
+	MD5:E8:9B:15:8E:4B:CF:98:8E:BD:09:EB:83:F5:37:8E:87
+	SHA1: 61:ED:37:7E:85:D3:86:A8:DF:EE:6B:86:4B:D8:5B:0B:FA:A5:AF:81
+	SHA256: A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC
+	Signature algorithm name: SHA1withRSA
+	version: 3

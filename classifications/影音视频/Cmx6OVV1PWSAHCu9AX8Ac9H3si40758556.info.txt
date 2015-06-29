@@ -1,0 +1,145 @@
+air.fyzb3
+20150605
+5.9.2
+9
+19
+32
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+air.fyzb3.permission.JPUSH_MESSAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_PACKAGE_RESTARTED
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+getui.permission.GetuiService.air.fyzb3
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_USER_PRESENT
+android.permission.WRITE_CALENDAR
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+65
+<activity name="net.slidingmenu.tools.AdBrowser" theme="16973837" configChanges="1200">
+<activity name="com.fengyunview.AdviewWebView">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbMainActivity2" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbWelcomActivity" theme="2131230768">
+<activity screenOrientation="1" name="com.fyzb.activity.Whatsnew" theme="2131230763" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbLoginActivity" theme="2131230762" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbCombinedPlayActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.AllChannelCategoryActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.OldAllChannelCategoryActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.settings.FyzbSettingsActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.fyzbZhangyuDownloadActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.fyzbZhangyuDownloadV2Activity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.settings.FyzbDanmakuSettingActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.settings.FyzbGeneralSettingActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.settings.FeedbackActivity" theme="2131230763" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.settings.FyzbAboutActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbDownloadPageActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbShakeActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.PlaybillActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbCustomPlayActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbGuessActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbGuessGambleActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbGuessMybetsActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbGuessResultActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbGuessChampionshipActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbMarketActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbMarketPayActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbMarketPayGoldActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbMarketPayHosityActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPostBarHomeActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPostBarIndexActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPostBarVideoActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPostBarTopicesActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPostBarTopicRepliesActivity" theme="2131230764" launchMode="1">
+<activity screenOrientation="4" name="com.fyzb.activity.FyzbPostBarPhotoViewActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPersonInfoActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPersonalPageActivity" theme="2131230763" launchMode="1">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbSearchResultActivity" theme="2131230763" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.filechooser.FileChooserActivity" theme="2131230763">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPayChooseActivity" theme="2131230763">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbBuyTicketsChooseActivity" theme="2131230763">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbWebviewActivity" theme="2131230763">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPlayWebViewActivity" theme="2131230763">
+<activity screenOrientation="0" hardwareAccelerated="true" name="com.fyzb.activity.FyzbFullScreenPlayWebViewActivity" theme="2131230763">
+<activity screenOrientation="3" name="com.fyzb.activity.FyzbAdWebViewActivity" theme="2131230762">
+<activity screenOrientation="0" name="com.fyzb.activity.SignatureWebviewActivity" theme="2131230762">
+<activity screenOrientation="1" name="com.fyzb.activity.WapAlipayActivity" theme="2131230763">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity" theme="2131230763">
+<activity screenOrientation="1" name="com.fyzb.activity.CoolAppActivity" theme="2131230763">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.fyzb.activity.FyzbSearchVSourceAddressActivity" theme="2131230763" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPostBarNewTopicActivity" theme="2131230763" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPostbarSelectPicViewActivity" theme="2131230763">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.tencent.open.yyb.AppbarActivity" theme="16973840" configChanges="1184">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbSelectVSourceActivity" theme="2131230763" windowSoftInputMode="48">
+<activity screenOrientation="1" name="org.videolan.vlc.gui.video.VideoPlayerActivity" theme="2131230772" configChanges="1184" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="6" name="org.videolan.vlc.gui.video.VideoPlayerActivity2" theme="16973830" configChanges="1152" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.AlipayActivity" theme="2131230763" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbBuyTicketsActivity" theme="2131230763" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="1" name="com.fyzb.activity.FyzbPayRecordActivity" theme="2131230763" launchMode="2">
+<activity name="com.fyzb.postbar.photo.PhotoAlbumActivity" theme="2131230763">
+<activity name="com.fyzb.postbar.photo.PhotoActivity" theme="2131230763">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+15
+<service name="net.slidingmenu.tools.AdService" exported="false">
+<service name="net.slidingmenu.tools.ExpService" exported="false">
+<service name="com.fyzb.service.FyzbDownloadService" exported="false">
+<service name="com.fengyunview.DownloadService">
+<service enabled="true" name="com.fyzb.service.FyzbReportService">
+<service enabled="true" name="com.fyzb.service.FyzbService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":exceptionReporter" name="de.quist.app.errorreporter.ExceptionReportService">
+<service name="org.videolan.vlc.AudioService">
+<service enabled="true" name="com.fyzb.floatplay.FyzbFloatPlayService" configChanges="1152">
+<service process=":push" enabled="true" name="com.fyzb.service.FyzbFService" exported="true">
+<service process=":push" enabled="true" name="com.fyzb.service.FyzbPushService" exported="true">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+12
+<receiver name="net.slidingmenu.tools.AdReceiver">
+<receiver name="com.fyzb.coolapp.CoolAppDownloadCompleteReceiver">
+<receiver name="com.fyzb.coolapp.CoolAppInstallCompletedReceiver">
+<receiver process=":alarm" enabled="true" name="com.fyzb.receiver.AlarmReceiver">
+<receiver name="com.fyzb.receiver.FyzbPlayControlBroadcastReceiver">
+<receiver process=":push" name="com.fyzb.receiver.BootBroadcastReceiver" exported="true">
+<receiver process=":push" name="com.fyzb.receiver.FStopReceiver" exported="false">
+<receiver name="com.fyzb.push.GetuiMainReceiver" exported="false">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+1
+<provider process=":pushservice" authorities="downloads.air.fyzb3" name="com.igexin.download.DownloadProvider">
+Owner: CN=风云直播, OU=, O=, C=CN
+Issuer: CN=风云直播, OU=, O=, C=CN
+Serial number: 2d353166316535633a31336130636331363362663a2d38303030
+Valid from: Thu Sep 27 20:02:11 CST 2012 until: Mon Sep 28 20:02:11 CST 2037
+Certificate fingerprints: 
+	MD5:C9:F3:92:5E:0A:F4:21:AF:F9:A4:F8:EE:07:68:17:06
+	SHA1: F5:33:F7:FD:E1:35:0A:2F:25:91:76:CF:07:92:30:78:2A:87:3E:44
+	SHA256: 4D:29:EC:EE:8C:C8:1E:48:A9:DA:2E:A0:AE:2C:32:68:E0:B9:CA:F6:F8:6A:3B:31:F2:14:70:00:C4:D8:8F:FA
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,225 @@
+cn.beartech.mobileoffice.act
+27
+1.7.1
+14
+16
+25
+android.permission.USE_CREDENTIALS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.GET_ACCOUNTS
+android.permission.RESTART_PACKAGES
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.READ_CALENDARR
+android.permission.ACCESS_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+171
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.AppStart" configChanges="164">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.main.MainActivity" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.Login" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.Register_AuthAct" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.Register_BaseInfoAct" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.UserSelectAct" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.UserInvitedListAct" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.InvitedSucessPageAct" configChanges="164" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.Register_SetLeaderAct" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.ModifyPw_AuthAct" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.ModifyPw_DoAct" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.Register_OpensoftwareAct" theme="2131361861" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.main.ActEntrance" theme="2131361861" configChanges="4" label="移动办公室" launchMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.main.ActShortcut" configChanges="4" label="移动办公室">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.contacts.ContactsAct" configChanges="4" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.contacts.NewFriendsActivity" configChanges="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.contacts.ExternalContactDetailsActivity" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.contacts.ExternalContactDetailsNotAddActivity" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.contacts.AddExternalContactActivity" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.contacts.PhoneContactActivity" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.contacts.Organization_serchAct" theme="2131361841" configChanges="36" windowSoftInputMode="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.set.SetAct" configChanges="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.set.RecomendAct" configChanges="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.set.LanguageAct" configChanges="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.set.AboutAct" configChanges="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.set.VsersionAct" configChanges="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.set.HelpAct" configChanges="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.clocking.OutWorkListAct" configChanges="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.set.NotifycationAct" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.person.PersonInfoAct" theme="2131361794" configChanges="4">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.person.PersonMessageList" configChanges="36" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.person.PersonMessageAct" theme="2131361794" configChanges="36" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.clocking.ClockingAct" theme="2131361794" configChanges="36" windowSoftInputMode="34" launchMode="0">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.assets.AssetsActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.assets.AuditRecordDetailActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.assets.AuditedRecordDetailActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.assets.NewApplyActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.legwork.LegWorkActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.legwork.WorkOrderFeedbackActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.legwork.NewReportActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.gallery.GalleryActivity" theme="16974065" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.legwork.NoticesDetailActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.legwork.NoticesCreateActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.legwork.ReplyNoticesActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.legwork.ViewOriginalImageActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.schedule.ScheduleActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.schedule.EditEventActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.schedule.EventDetailActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.schedule.EventDetailActivity2" theme="2131361794" configChanges="1184" windowSoftInputMode="34" launchMode="1">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.schedule.MemberListActivity" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.micro_chat.Micro_chatAct" configChanges="36" launchMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.person.UerIconAct" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.notice.NoticeAct" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.notice.Notice_New" theme="2131361794" configChanges="36">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.notice.NoticeDetialAct" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.notice.SalarysheetDetialAct" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.person.PersonScoreList" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.micro_chat.Micro_chat_comment_act" theme="16973830" configChanges="36">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.micro_chat.Micro_chat_detail" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.micro_chat.Micro_VoteDetail" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.micro_chat.Micro_newChat" theme="2131361794" configChanges="36">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.micro_chat.ImagePhotoAct" configChanges="36">
+<activity screenOrientation="0" name="cn.com.beartech.projectk.act.micro_chat.VideoViewActivity" configChanges="36">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.micro_chat.Micro_chat_IssuesList" configChanges="36">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.GuideActivity" theme="16973831" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.init.GuideVerticalActivity" theme="16973831" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.document_center.DcumentAct" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.document_center.Document_Detail" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.document_center.PurviewDetail" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.document_center.Document_discussAct" configChanges="36">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.document_center.ShowPDF" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.document_center.DoucmentUploadAct" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.clocking.ClockingSubmitAct" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.kaoqin.BuKaSubmitAct" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.clocking.ExtraWorkApply" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.kaoqin.ExtraWorkApply" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.email.Act_EmailList" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.email.Act_EmailNew" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.email.Act_EmailDetial" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.email.Act_EmailEntrance" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.memberselect.ActMemberSelect" theme="2131361794" configChanges="36" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.email.ActFileDownLoad" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.pubv.previewImg.ActPreViewImage" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.email.ActDocList" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.clocking.ConfirmDialog" theme="2131361838" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.clocking.CheckInStepTwo" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.clocking.WorkRecordDetailAct" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.clocking.CheckInStepThree" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.Act_EmailEntrance" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.myclass.MyClassAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.ActMain" theme="2131361861" configChanges="4" label="移动办公室" launchMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.answer.FgQuestion_serchAct" theme="2131361861" configChanges="36" windowSoftInputMode="4">
+<activity screenOrientation="0" name="cn.com.bc.pk.sd.act.vedio.ActStudyMain" theme="16973831" configChanges="4" label="移动办公室" launchMode="2">
+<activity screenOrientation="0" name="cn.com.bc.pk.sd.act.vedio.ActStudyMain_PPT" theme="16973831" configChanges="4" label="移动办公室" launchMode="2">
+<activity screenOrientation="0" name="cn.com.bc.pk.sd.act.vedio.VideoFormatActivity" theme="16973831" configChanges="1184">
+<activity screenOrientation="0" name="cn.com.bc.pk.sd.act.vedio.VideoViewActivity" theme="16973831" configChanges="1184">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.mycollect.MyCollectAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.mymsg.MyMsg" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.CourseDetail" theme="2131361861" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.download.DownloadListActivity" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.Colleagues" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.DiscussAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.answer.Question_Detail" configChanges="36" launchMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.answer.Question_And_Answerdetail" configChanges="36" launchMode="0">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.answer.Relay_Act" theme="2131361794" configChanges="36">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.answer.PutQuestion_Act" theme="2131361794" configChanges="36">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.ColleaguesAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.DiscussionAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.DiscussionDetail" theme="2131361861" configChanges="164" windowSoftInputMode="2" launchMode="0">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.DiscussionNew" theme="2131361861" configChanges="164" windowSoftInputMode="20">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.InfomationAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.ExamAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.FeedbackAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.FeedbackTestAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.ExamTestAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.bc.pk.sd.act.course.ExamResultAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.pubv.imgselector.ImgSelectorActivity" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.pubv.imgselector.ImgsActivity" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.notice.SalarysheetAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.dailyweekly.DayWeeklyAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.dailyweekly.DayWeekReportDetial" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.dailyweekly.WriteDayWeekAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.approvalprocess.ApproveProcessMainAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.approvalprocess.Finance_ProcessListAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.approvalprocess.Finance_ProjAdvanceAct" theme="2131361861" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.approvalprocess.Finance_SupplierpaymentAct" theme="2131361861" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.approvalprocess.Finance_BusinesTripAct" theme="2131361861" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.approvalprocess.Finance_EntertainAct" theme="2131361861" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.approvalprocess.Finance_PropertyAct" theme="2131361861" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.approvalprocess.Finance_NormalAct" theme="2131361861" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.approvalprocess.Finance_PersonelAct" theme="2131361861" configChanges="164" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.task.TaskAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.task.Task_newAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.todo.ToDoListAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.CancelMeeting_Act" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.MeetingDetail" theme="2131361794" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.MeetingExtension" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.MeetingGroundsforRefusal" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.MeetingAppointment" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.Meeting_Act" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.MeetingActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.NewMeetingActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.MeetingDetailsActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.MeetingRefuseActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.MeetingCancelActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meeting.MeetingDelayOperateActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.question.QuestionMainAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.question.QuestionDetialAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.question.QNewORCommentAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.person.personelmanager.PersonelListAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.person.personelmanager.PersonelMainFragAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.projectmanager.MainAct" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.projectmanager.ProjectDetailActivity" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.projectmanager.DynamicDetailActivity" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.projectmanager.ProjectDynamicCommentActivity" theme="2131361861" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.kaoqin.ClockingAct" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.kaoqin.CheckInStepThree" theme="2131361794" configChanges="36" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.schedule2.Schedule2Activity" configChanges="164" windowSoftInputMode="18" launchMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.schedule2.EditEventActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.schedule2.ScheduleListActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.schedule2.AddressListActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingroom.MeetingRoomActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingroom.CreateRoomActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingroom.MeetingRoomListActivity" configChanges="164" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingroom.MeetingRoomDetailActivity" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingroom.MeetingRoomDetailActivity2" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingmanager.MainFragmentAct" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingmanager.MeetingDetialAct" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingmanager.MeetStateDetialAct" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingmanager.MeetingCreatNewAct" configChanges="164" windowSoftInputMode="2">
+<activity screenOrientation="1" name="cn.com.beartech.projectk.act.meetingmanager.MeettingAddressListAct" configChanges="164" windowSoftInputMode="2">
+6
+<service name="cn.com.beartech.projectk.service.S_VersionUpdate">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":remote" enabled="true" name="cn.com.beartech.projectk.service.PushServiceRemote" exported="true">
+<service name="cn.com.beartech.projectk.service.TrackLocationService">
+<service name="cn.com.bc.pk.sd.service.DownVideoService">
+<service name="cn.com.bc.pk.sd.download.DownloadService">
+3
+<receiver name="cn.com.beartech.projectk.service.NetworkStateReceiver">
+<receiver name="cn.com.beartech.projectk.act.schedule.AlarmReceiver">
+<receiver name="cn.com.beartech.projectk.act.schedule2.AlarmReceiver">
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 536dd772
+Valid from: Sat May 10 15:38:26 CST 2014 until: Mon May 02 15:38:26 CST 2044
+Certificate fingerprints: 
+	MD5:0F:D3:0A:10:F8:67:A1:5C:86:01:7B:25:28:1C:26:D5
+	SHA1: AC:1E:8A:BB:3E:14:09:2D:67:2F:43:FA:AB:0B:B3:AD:BE:B7:72:4C
+	SHA256: 5C:67:68:D5:1D:39:D1:F9:4F:42:7E:8A:EE:A1:E1:35:3A:01:E1:2C:E5:BE:DC:06:B4:AF:4D:7A:7D:34:5D:C3
+	Signature algorithm name: SHA1withRSA
+	version: 3

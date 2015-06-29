@@ -1,0 +1,78 @@
+com.ivodani.comicsisland.activity
+26
+2.1.80
+8
+-1
+12
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+andorid.permission.CHANGE_CONFIGURATION
+android.permission.CHANGE_WIFI_STATE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+43
+<activity screenOrientation="1" name=".MainActivity" label="2131296257" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".BookRackActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".CategoryActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".ResultSearchActivity" configChanges="160" label="2131296257">
+<activity name=".DownLoadActivity">
+<activity name=".DeleteBookActivity">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131230776" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity name=".UmengShareActivity" theme="16973909">
+<activity screenOrientation="1" name=".RecommendActivity" configChanges="160" label="2131296257" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".AppHelpActivity" configChanges="160" label="2131296257" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".HelpActivity" configChanges="160" label="2131296257" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".TabSelectActivity" configChanges="160" label="2131296257" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".HomeAddActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".HomeViewActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".HomeVisitActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".VisitActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".BookDetailActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".DownInfoActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".ComicViewActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="0" name=".ComicPortraitViewActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="0" name=".ComicLandscapeViewActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".SearchActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".MyActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".MoreActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".SoftSettingActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".DownloadManagementActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".DownloadManagementEditActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".FeedBackActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".SinaSendMicroblogActivity" configChanges="160" label="2131296257">
+<activity name=".SinaLoginActivity" configChanges="160" label="2131296257">
+<activity name=".TencentLoginActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".TencentSendMicroblogActivity" configChanges="160" label="2131296257">
+<activity name=".RenrenLoginActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".RenrenSharesActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".DisclaimerActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".AboutActivity" configChanges="160" label="2131296257">
+<activity screenOrientation="1" name=".ChangePathActivity" configChanges="160" label="2131296257">
+<activity name=".ShareDialogActivity" theme="2131230752">
+<activity name=".ShareSubDialogActivity" theme="2131230751">
+<activity screenOrientation="1" name=".NoticeActivity" theme="2131230755" label="2131296257">
+1
+<service name="com.ivodani.comicsisland.service.PollingService">
+2
+<receiver process=":remote" name="com.ivodani.comicsisland.service.AlarmReceiver">
+<receiver name="com.ivodani.comicsisland.broadcast.TaskReceiver">
+0
+Owner: CN=yuanju, OU=yuanju, O=yuanju, L=shanghai, ST=china, C=86
+Issuer: CN=yuanju, OU=yuanju, O=yuanju, L=shanghai, ST=china, C=86
+Serial number: 2c3453c9
+Valid from: Fri Sep 27 14:08:20 CST 2013 until: Sun Sep 03 14:08:20 CST 2113
+Certificate fingerprints: 
+	MD5:D2:7B:34:DB:20:D1:26:6B:88:7B:62:CA:C0:41:25:70
+	SHA1: 6E:E8:03:75:82:A4:28:90:B5:9F:BC:F6:7D:CF:1F:DB:AF:6C:34:4C
+	SHA256: AD:73:0E:94:E6:37:44:88:28:25:90:62:06:C5:B8:1E:72:45:7D:7D:1B:A7:62:97:5B:2D:8F:8D:6D:71:3F:74
+	Signature algorithm name: SHA256withRSA
+	version: 3

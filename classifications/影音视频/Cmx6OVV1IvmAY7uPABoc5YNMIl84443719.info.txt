@@ -1,0 +1,42 @@
+com.ifeng.video
+4110
+4.1.1
+9
+14
+13
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+6
+<activity screenOrientation="0" name="com.ifeng.video.LaunchActivity" configChanges="160" label="2131361817">
+<activity screenOrientation="0" name="com.ifeng.video.MainTabActivity" configChanges="3312" launchMode="2">
+<activity screenOrientation="0" name="com.ifeng.video.HomePageActivity" configChanges="3312">
+<activity screenOrientation="0" name="com.ifeng.video.LiveActivity" configChanges="3312" launchMode="3">
+<activity screenOrientation="0" name="com.ifeng.video.ColumnActivity" configChanges="3312">
+<activity screenOrientation="0" name="com.ifeng.video.DetailVideoPlayActivity" theme="2131165223" configChanges="3312" exported="true" launchMode="2">
+2
+<service process=":external" name=".service.PushService" exported="true">
+<service name=".service.UpdateService">
+1
+<receiver name="com.ifeng.video.receiver.NetworkReceiver">
+0
+Owner: CN=ifeng.com, OU=Phoenix Online (Beijing) Infomation Technology Co.Ltd., O=Phoenix Online (Beijing) Infomation Technology Co.Ltd., L=Beijing, ST=Beijing, C=CN
+Issuer: CN=ifeng.com, OU=Phoenix Online (Beijing) Infomation Technology Co.Ltd., O=Phoenix Online (Beijing) Infomation Technology Co.Ltd., L=Beijing, ST=Beijing, C=CN
+Serial number: 4be3754a
+Valid from: Fri May 07 10:04:58 CST 2010 until: Mon Apr 17 10:04:58 CST 2090
+Certificate fingerprints: 
+	MD5:9D:95:E8:91:FA:60:7E:92:68:B9:1A:8C:3D:D5:07:2B
+	SHA1: F8:68:B2:50:9E:DA:DF:BE:7E:C0:24:20:5A:DE:6A:CA:61:8B:23:B9
+	SHA256: 8D:CB:8B:55:BA:D7:72:41:DA:69:11:0E:1A:14:10:FC:6D:36:32:78:E0:F5:4F:20:1B:16:27:28:35:50:7E:79
+	Signature algorithm name: SHA1withRSA
+	version: 3

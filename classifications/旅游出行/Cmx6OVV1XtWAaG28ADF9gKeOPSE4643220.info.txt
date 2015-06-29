@@ -1,0 +1,76 @@
+com.yuersoft.liansuojiudian.cyx
+1
+1.0
+8
+15
+11
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CALL_PHONE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+44
+<activity name=".StartActcity" theme="16973833" label="2131165184">
+<activity screenOrientation="1" name=".MainActivity">
+<activity screenOrientation="1" name=".ZeroActivity">
+<activity screenOrientation="1" name=".OneActivity">
+<activity screenOrientation="1" name=".TwoActivity">
+<activity screenOrientation="1" name=".ThreeActivity">
+<activity screenOrientation="1" name=".FourActivity">
+<activity screenOrientation="1" name=".FiveActivity">
+<activity screenOrientation="1" name=".RecruitActivity">
+<activity screenOrientation="1" name=".JobActivity">
+<activity screenOrientation="1" name=".ListNewsInfoActivity">
+<activity screenOrientation="1" name=".WebNewInfoActivity">
+<activity screenOrientation="1" name=".AboutUsActivity">
+<activity screenOrientation="1" name=".ExhibitionInfoActivity">
+<activity screenOrientation="1" name=".ExHallInfoActivity">
+<activity screenOrientation="1" name=".RecInfoActivity">
+<activity screenOrientation="1" name=".JobInfoActivity">
+<activity screenOrientation="1" name=".SellerInfoActivity">
+<activity screenOrientation="1" name=".BuyInfoActivity">
+<activity screenOrientation="1" name=".SupplyInfoActivity">
+<activity screenOrientation="1" name=".SearchActivity">
+<activity screenOrientation="1" name=".LoginActivity">
+<activity screenOrientation="1" name=".RegCompanyActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".TradeTypeActivity">
+<activity screenOrientation="1" name=".TradeTypeOneActivity">
+<activity screenOrientation="1" name=".MemberActivity">
+<activity screenOrientation="1" name=".ProvinceActivity">
+<activity screenOrientation="1" name=".CityActivity">
+<activity screenOrientation="1" name=".ReviseCompanyActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".PublicProductActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".BuyProductActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".PublicJobActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".RecruitManagementActivity">
+<activity screenOrientation="1" name=".ProductManagementActivity">
+<activity screenOrientation="1" name=".BuyProManageActivity">
+<activity screenOrientation="1" name=".RevisePubProActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".RevisePubBuyActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".RevisePubJobActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".RegPerMemActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".RegisterActivity">
+<activity screenOrientation="1" name=".PubWantJobActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".RegWantJobActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ReviseProMemActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".LocationActivity" theme="16973830">
+1
+<service process=":remote" name=".UpdateService" exported="true">
+0
+0
+Owner: CN=q
+Issuer: CN=q
+Serial number: 77259d1c
+Valid from: Thu Oct 18 14:53:37 CST 2012 until: Mon Oct 12 14:53:37 CST 2037
+Certificate fingerprints: 
+	MD5:42:70:C4:CA:EB:C3:62:CD:BF:50:77:E8:EE:0D:75:7D
+	SHA1: D8:B7:73:1B:F8:B5:68:72:30:94:33:2B:A0:A3:14:76:0F:D7:7D:A3
+	SHA256: 15:44:4C:6D:59:12:E8:69:51:2E:B8:85:9C:89:17:8E:62:C2:53:CA:94:71:87:61:E9:2D:30:72:FE:6B:15:89
+	Signature algorithm name: SHA256withRSA
+	version: 3

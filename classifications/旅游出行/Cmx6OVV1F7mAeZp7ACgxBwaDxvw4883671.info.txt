@@ -1,0 +1,61 @@
+com.baike.sjgdbl
+13
+1.6
+3
+-1
+12
+android.permission.INSTALL_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+28
+<activity name="com.hudong.androidbaike.LoadImage" label="2131165200">
+<activity screenOrientation="1" name="com.hudong.androidbaike.ArticleList">
+<activity screenOrientation="1" name="com.hudong.androidbaike.ArticleListNew">
+<activity screenOrientation="1" name="com.hudong.androidbaike.ArticleShow">
+<activity screenOrientation="1" name="com.hudong.androidbaike.WendaQuestionListActivity">
+<activity screenOrientation="1" name="com.hudong.androidbaike.WendaAnswerListActivity">
+<activity screenOrientation="1" name="com.hudong.androidbaike.WendaCommentListActivity">
+<activity screenOrientation="1" name="com.hudong.androidbaike.ImageShow" theme="16973839">
+<activity screenOrientation="1" name="com.hudong.androidbaike.IndexActivity">
+<activity screenOrientation="1" name="com.hudong.androidbaike.ArticleClassifyList">
+<activity screenOrientation="1" name="com.hudong.androidbaike.About">
+<activity screenOrientation="1" name="com.hudong.androidbaike.AdShow">
+<activity screenOrientation="1" name="com.hudong.androidbaike.AppList">
+<activity screenOrientation="1" name="com.hudong.androidbaike.TabWidget" theme="16973830" launchMode="2">
+<activity screenOrientation="1" name="com.hudong.androidbaike.Register">
+<activity screenOrientation="1" name="com.hudong.androidbaike.Login">
+<activity screenOrientation="1" name="com.hudong.androidbaike.ArticleFavList">
+<activity screenOrientation="1" name="com.hudong.androidbaike.MoreIndexActivity">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+<activity name="net.youmi.android.spotad.AdActivity" configChanges="176">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="com.adwo.adsdk.AdwoAdBrowserActivity" label="2131165200">
+<activity name="com.google.ads.AdActivity" configChanges="176">
+<activity name="com.wooboo.adlib_android.AdActivity" configChanges="160">
+<activity name="com.wooboo.adlib_android.FullActivity" configChanges="160" launchMode="2">
+<activity name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.umeng.fb.ui.FeedbackConversations">
+<activity name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+1
+<service enabled="true" name="com.hudong.androidbaike.service.UpdateService">
+0
+0
+Owner: CN=qing yi zeng, OU=hudong, O=hudong, L=beijing, ST=beijing, C=CN
+Issuer: CN=qing yi zeng, OU=hudong, O=hudong, L=beijing, ST=beijing, C=CN
+Serial number: 4d96e3c3
+Valid from: Sat Apr 02 16:52:19 CST 2011 until: Wed Mar 26 16:52:19 CST 2036
+Certificate fingerprints: 
+	MD5:8C:DC:3E:D9:60:75:E2:88:E5:7B:C6:AC:27:EA:FD:17
+	SHA1: AC:E2:E3:6A:CC:F3:BF:E3:94:27:33:CE:EA:9A:7A:CC:B4:C6:35:50
+	SHA256: FF:84:09:C4:2D:8D:24:49:A9:E7:EF:77:BB:E4:71:CC:06:A6:B0:99:59:98:C8:A7:0D:E3:F8:37:0B:43:4C:D1
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,221 @@
+cn.com.cmbc.mbank.xw
+28000
+2.8
+8
+-1
+28
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.NFC
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.RECEIVE_USER_PRESENT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+permission.INTERACT_ACROSS_USERS_FULL
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+166
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.MainActivity" label="2131361793">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.MBankLoginActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.SettingActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.SettingHisListActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.HazardHintActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.HazardHintActivityFirst" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.CMBCMapView" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.WebMapActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.AtmWebMapActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.BusinessTravelActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.trainticket.TrainTicket" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.MBankMenuView" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.SaveServerActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.FundInvestActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.FinaceServerActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.DaiXiaoChanPin" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.SmallJieShouHuiActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.XinYongKa" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCXinYongKaActivity" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.CreditCardActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCCardSetUp" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.SinaWeiBoActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCCardIntroduce" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCNewestActivityListView" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCActivityDetailView" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.CreditCardShortMsgActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.NobleMetalActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.IndividualSetupActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.notice.BankNoticeView" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.notice.BankNoticeDetailView" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.notice.BankNoticeListView" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.charge.ChargeStandardView" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.charge.ChargeStandardMenu2Activity" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.charge.ChargeDetailView" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.contactus.ContactUsActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.contactus.MoreServe" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.electicorder.OrderVerify" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.electicorder.ImageDownloadActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="0" name="cn.com.cmbc.mbank.electicorder.ImageDownloadChildrenActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.electicorder.CodeResult" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.electicorder.ClientVerifyCode" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeServiceActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeQueryQueueList" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeReserveActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeReserveDetailActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeReserveToQueue" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeQueueActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.AtmQueryActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.AtmAreaListActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.AtmNodeSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeDetailActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeMessageActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.finance.FinanceSaveRateActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.finance.FinanceLoanRateActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.finance.MBankFundActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.finance.MBankFundQueryResultActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.finance.MBankForeignActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.account.MBankAccount" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.account.MBankHome" exported="false" label="2131361793" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.account.CreditCardWebActivity" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.account.SuspensionWebActivity" theme="16973840" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.MoneyAssistantActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.AssistantMenuActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.AssistantGeRenDaiKuanActivity" theme="16973837" exported="false" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.SaveScatteredActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.SaveWholeActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.CurrentDepositActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.CallDepositActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.LoadHouseActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.LoadRateListActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.financialassistant.LoadRepayDetailListActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.PublicGoodDonationActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.huidan.Huidan" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="0" name="cn.com.cmbc.mbank.huidan.HuidanChildren" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.twodimentioncode.EditorTwoCodeActivity" configChanges="160" exported="false" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.contactus.ShortMsgServer" configChanges="160" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.PrivateBankActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.HuiLifeActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.HuiLifeChildActivity" configChanges="160" exported="false" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.privatebank.PrivateBankOtherMainActivity" configChanges="160" exported="false" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.privatebank.ShangShcoolActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.privatebank.FeijinrongServiceActivity" configChanges="160" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCCardDetailActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCwoyaobanka" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ShortMsgMainActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ShortMsgSignIntroActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ChuXuServiceActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.AccountSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.DaikuanServiceActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ZhuanZhangActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.OpenAccountSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.AccountYuErSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.AccountDetailSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.AccountJiJinYuErSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.AccountLiCaiFenErSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ChuXuHuoQiToDingQiActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ChuXuDingqiToHuoQiActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ChuXuMoneyToMoneyActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ChuXuNoticeChunKuanActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ZzSameNameActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ZzHangNeiZhuanZhangActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.ZzKuaHangZhuanzActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.CcErduSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.CcHuanKuanDateActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.CcZhangDanSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.CcJiFenSearchActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.CcBillAddressQueryActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.shortmsgbank.CcBenHangRefundActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity name="cn.com.cmbc.mbank.LandscapeActivity" configChanges="160">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.twodimentioncode.CMBC_TwoDimentionCodeActivity" theme="16973837" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.twodimentioncode.ElectricMoneyCreateActivity" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.twodimentioncode.encoding.CaptureActivity" configChanges="160" exported="false" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.twodimentioncode.TDCRecordDetailActivity" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.eshop.EShopeMerchantActivity" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.eshop.EshopMerchantListActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.eshop.EshopMerchanrDetailActivity" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.eshop.EshopMerchanMoreActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.eshop.pinying.EshopCitySelectActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.eshop.pinying.HuiLifeCitySelectActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.GridViewItemActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.MBankMainView" exported="false" label="2131361793" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.addmenu.AddMenuActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.addmenu.AddMyAccountActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.contactus.OurServiceActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.MyAccount" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.ZhuanZhangHuiKuan" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.ZiJinGuiJi" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.TouziLiCai" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.ErWeiMa" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.DaiKuanFuWu" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.DaiKuanFuWuXW" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.JiaoFeiChongZhi" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.CaiPiao" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCXinYongKaChaXun" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCXinYongKaHuanKuan" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.creditcard.CCXinYongKaFenQi" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.XiAnGongJiJin" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.XiaoWeiYinHang" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.xiaoweiyinhang.DUIGONGZHUANZHANG" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.xiaoweiyinhang.QIYECAIWUSHI" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobilebank.xiaoweiyinhang.LESHOUYINGUANLI" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity name="cn.com.cmbc.mbank.activity.mobile.ShowDialogActivity" theme="16973840" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.RatingActivity" theme="16973840" exported="false" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.CarServer" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.huilifeserver.HuilifeMainActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.mobile.JinJiCunJiHuaActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity name="cn.com.cmbc.mbank.keyboard.DigitKeyboardAct" theme="16973839" configChanges="160">
+<activity name="cn.com.cmbc.mbank.keyboard.AccountKeyboardAct" theme="16973839" configChanges="160">
+<activity name="cn.com.cmbc.mbank.keyboard.PlainNumKeyboardAct" theme="16973839" configChanges="160">
+<activity name="cn.com.cmbc.mbank.keyboard.PassguardKeyboardAct" theme="16973839" configChanges="160">
+<activity name="cn.com.cmbc.mbank.keyboard.PassguardKeyboardActDS" theme="16973839" configChanges="160">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.eshop.EShopMerchantActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.share.ShareWebView" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity name="cn.com.cmbc.mbank.wxapi.WXEntryActivity" theme="16973839" exported="true" launchMode="1">
+<activity name="cn.com.cmbc.mbank.activity.AppUpdateActivity" theme="16973835" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.ChangeSkinActivity" exported="false">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.ListViewActivity">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.MoreServiceActivity">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.ShareMenuActivity" theme="16973840" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.UpdatePageActivity" theme="16973840" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.node.NodeCityChoiceActivity" theme="2131427378" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.DataStrip" theme="2131427378" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.activity.GaoDeMapActivity" theme="2131427378" exported="false" label="2131361793" windowSoftInputMode="32">
+<activity name="cn.com.cmbc.mbank.nfc.NFCActivity" theme="2131427378" exported="false" label="2131361793">
+<activity screenOrientation="1" name="cn.com.cmbc.mbank.twodimentioncode.QRPayCodeCreateActivity" exported="false" label="2131361793" windowSoftInputMode="32">
+4
+<service name="cn.com.cmbc.mbank.monitor.CMBCMonitorService">
+<service process="cn.com.cmbc.mbank.xw.pushservice" name="com.igexin.sdk.aidl.GexinMsgService" exported="false" label="NotificationCenterAIDL">
+<service process="cn.com.cmbc.mbank.xw.pushservice" name="com.igexin.sdk.GexinMainService" exported="false" label="NotificationCenter">
+<service name="cn.com.cmbc.mbank.xw.push.CmbcPushService" exported="true">
+3
+<receiver name="cn.com.cmbc.mbank.ExitBroadcastReciever" exported="false">
+<receiver name="cn.com.cmbc.mbank.xw.push.PushMsgReceiver" exported="true">
+<receiver name="com.igexin.sdk.GexinSdkReceiver">
+0
+Owner: CN=yao, OU=yitong, O=yitong, L=shanghai, ST=shanghai, C=cn
+Issuer: CN=yao, OU=yitong, O=yitong, L=shanghai, ST=shanghai, C=cn
+Serial number: 4d0d970c
+Valid from: Sun Dec 19 13:24:28 CST 2010 until: Mon Sep 21 13:24:28 CST 2065
+Certificate fingerprints: 
+	MD5:6C:36:26:44:63:71:91:7E:9E:25:90:BE:B5:DA:12:3B
+	SHA1: 26:85:76:AF:6F:50:DA:40:19:6E:18:D6:E0:59:D2:A7:21:37:36:38
+	SHA256: 46:82:68:F9:28:DF:8B:5F:73:17:FB:CF:BE:A2:EB:BF:25:F2:F2:08:26:DE:BE:D8:2A:DD:11:C1:B9:2F:BE:55
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,42 @@
+com.ving365.wgjj
+1
+1.0.1
+9
+17
+13
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+8
+<activity screenOrientation="1" name="com.ving365.wgjj.startAcitvity" theme="16973831" label="2131165184">
+<activity name="com.baidu.mapapi.search.PlaceCaterActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.ving365.wgjj.baidumap.BaiduPoiSearch">
+<activity screenOrientation="1" name="com.ving365.wgjj.baidumap.PerimeterSearchFunction">
+<activity screenOrientation="1" name="com.ving365.wgjj.MainActivity">
+<activity screenOrientation="1" name="com.ving365.wgjj.WhatsnewPagesA" theme="16973831">
+<activity screenOrientation="1" name="com.ving365.wgjj.menu.Main_Home">
+<activity name="com.ving365.wgjj.menu.Left_Menu">
+1
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+0
+0
+Owner: CN=cib, OU=cib, O=cib, L=东莞, ST=东莞, C=CN
+Issuer: CN=cib, OU=cib, O=cib, L=东莞, ST=东莞, C=CN
+Serial number: 234c5fa8
+Valid from: Mon Dec 30 17:16:25 CST 2013 until: Wed Dec 06 17:16:25 CST 2113
+Certificate fingerprints: 
+	MD5:46:5D:24:74:44:4E:AB:4F:DC:E4:C1:BF:0A:03:DD:97
+	SHA1: 22:22:5F:20:B6:2C:7B:06:1C:3A:57:AE:D5:A3:68:36:17:38:51:2D
+	SHA256: E3:7F:AB:88:A3:18:CB:D5:83:86:66:B0:31:3C:87:34:A5:2A:8E:F4:54:9B:62:0C:05:94:A3:23:89:19:40:D2
+	Signature algorithm name: SHA256withRSA
+	version: 3

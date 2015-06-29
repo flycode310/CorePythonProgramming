@@ -1,0 +1,78 @@
+com.e.jiajie.user
+9
+2.2.0
+8
+17
+27
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.ACCES_MOCK_LOCATION
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.AUTHENTICATE_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.READ_SMS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.USE_CREDENTIALS
+android.permission.SEND_SMS
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+27
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.LaunchActivity" theme="2131361882">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.Launch_Activity" theme="2131361882">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.LogInActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.MainActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.MainActivity2" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.BookOrderActivity" theme="2131361909" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.ServeRangeActivity">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.SiftAuntNewActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.ShareActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.HistoryActivity">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.MyOneOrderActivity">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.CheckInviteCodeActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.UserInfoActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.PunishActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.AuntActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.SendPlaceActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.PriceActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.IntegralActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.IntegralChangeActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.HelpActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.AboutActivity" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.CommentAuntActivity">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.BookOrderPlaceActivity">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.SmsInviteActivity" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.e.jiajie.user.activity.PhotoToShareActivity" configChanges="160">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" exported="true">
+2
+<service name="com.e.jiajie.user.service.OrderStateChangeService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+2
+<receiver name="com.e.jiajie.user.broadcast.BootBroadcastReceiver">
+<receiver name="com.e.jiajie.user.broadcast.UserPresentBroadcastReceiver">
+0
+Owner: CN=ejiajie, OU=ejiajie, O=ejiajie, L=beijing, ST=beijing, C=CN
+Issuer: CN=ejiajie, OU=ejiajie, O=ejiajie, L=beijing, ST=beijing, C=CN
+Serial number: 5cd6e8e0
+Valid from: Wed Jul 03 14:17:59 CST 2013 until: Tue Nov 03 14:17:59 CST 3012
+Certificate fingerprints: 
+	MD5:5B:43:E8:9E:07:E4:3D:76:5D:46:01:23:EC:37:86:71
+	SHA1: 4E:9F:16:55:7A:46:1D:17:AC:95:74:9C:45:DC:08:56:24:01:2C:98
+	SHA256: F1:73:D5:07:DA:AF:7A:DB:39:B4:3E:6E:F5:9B:56:55:76:DC:CF:58:55:66:8B:73:65:16:CF:4F:8C:E4:0F:30
+	Signature algorithm name: SHA256withRSA
+	version: 3

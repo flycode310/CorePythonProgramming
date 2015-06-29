@@ -1,0 +1,34 @@
+com.cn.mk.activity
+1
+1.0
+4
+-1
+7
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity name="com.cn.mk.activity.CalendarActivity" label="2131034113">
+<activity name="com.cn.mk.activity.ScheduleView" label="2131034113">
+<activity name="com.cn.mk.activity.ScheduleTypeView" label="2131034113">
+<activity name="com.cn.mk.activity.ScheduleInfoView" label="2131034113">
+<activity name="com.cn.mk.activity.ScheduleAll" label="2131034113">
+<activity name="com.cn.mk.activity.CalendarConvert" label="2131034113">
+<activity name="net.youmi.android.appoffers.YoumiOffersActivity" configChanges="176">
+0
+0
+0
+Owner: CN=inmyfree, OU=inmyfree, O=inmyfree, L=china, ST=sz, C=86
+Issuer: CN=inmyfree, OU=inmyfree, O=inmyfree, L=china, ST=sz, C=86
+Serial number: b344862
+Valid from: Sun Jan 06 10:30:10 CST 2013 until: Sat May 09 10:30:10 CST 3012
+Certificate fingerprints: 
+	MD5:47:7A:DB:49:81:C5:3B:6E:53:53:5C:47:33:D8:E2:1C
+	SHA1: 70:E1:2E:5C:B7:88:BB:05:63:0F:E3:04:B8:15:AA:91:AB:84:63:64
+	SHA256: 6F:78:1C:AB:B3:2B:F8:1A:CF:A2:7D:78:1E:F7:BF:A7:3E:17:5D:1A:19:E5:0F:10:B5:17:0A:67:06:90:F2:85
+	Signature algorithm name: SHA256withRSA
+	version: 3

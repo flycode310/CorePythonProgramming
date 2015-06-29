@@ -1,0 +1,144 @@
+com.ss.android.article.news
+448
+4.4.8
+8
+17
+20
+android.permission.READ_EXTERNAL_STORAGE
+com.android.launcher.permission.INSTALL_SHORTCUT
+getui.permission.GetuiService.com.ss.android.article.news
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_SECURE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+com.ss.android.article.news.permission.MIPUSH_RECEIVE
+android.permission.ACCESS_FINE_LOCATION
+com.android.launcher.permission.READ_SETTINGS
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+70
+<activity screenOrientation="1" name=".activity.SplashActivity" theme="2131558652" label="2131492883">
+<activity screenOrientation="1" name=".activity.MainActivity" configChanges="1200">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" exported="true">
+<activity screenOrientation="1" name=".wxapi.WXPayEntryActivity" theme="2131558852" exported="true">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false">
+<activity screenOrientation="3" name="com.alipay.sdk.auth.AuthActivity" configChanges="224" exported="false">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.DetailActivity" theme="2131558659" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.ArticleCommentActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.EssayDetailActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.BaseSettingActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.DownloadActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.PgcActivity" theme="2131558659">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.CategoryActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.EntryGroupListActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.MineActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.UpdateDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.SearchActivity" theme="2131558659" configChanges="1200" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.BaseDiscoverActivity" theme="2131558659" configChanges="1200" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.PgcSearchActivity" theme="2131558659" configChanges="1200" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.CityListActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.SocialMyProfileActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.SocialOtherProfileActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.FavoriteActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.RecommendActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.RepostActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.PgcRepostActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.MediaPlayerActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.profile.ProfileFriendActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.PgcReaderActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.AddFriendActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.profile.ProfileFriendInviteActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.profile.UpdateMsgActvity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.profile.UpdateNotificationActvity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.ReportActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.ForumActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.ProfileUpdateActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.MobileActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.EditProfileActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.UploadContactsPromptActivity" theme="2131558852">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.AdsAppActivity">
+<activity screenOrientation="1" name="com.ss.android.newmedia.feedback.FeedbackActivity" launchMode="1">
+<activity screenOrientation="1" name="com.ss.android.newmedia.feedback.SubmitFeedbackActivity" windowSoftInputMode="32" launchMode="1">
+<activity name="com.nd.android.pandahome.widget.activity.PandaWidgetMainActivity" exported="true">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.PermanentNotifyActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.UpdateActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AuthorizeActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AuthActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.LoginActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.BindActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.CommentActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.TopicActivity" theme="2131558659">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.ForwardActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AccountActivity">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.AccountActivity2">
+<activity name="com.ss.android.sdk.activity.BrowserActivity" theme="2131558659" configChanges="1168">
+<activity screenOrientation="1" name="com.ss.android.sdk.activity.SplashAdActivity" theme="2131558652">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.DiggActivity">
+<activity icon="2130839381" excludeFromRecents="true" name="com.ss.android.sdk.activity.SingleTaskBrowserActivity" configChanges="1168" label="2131493332" taskAffinity="com.ss.android.article.news.singletask" launchMode="2">
+<activity icon="2130839381" screenOrientation="1" excludeFromRecents="true" name="com.ss.android.newmedia.ad.launcher.LauncherAdHandleActivity" theme="16973835" exported="true" label="2131493332" taskAffinity="com.ss.android.article.news.singletask" launchMode="2">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+<activity screenOrientation="1" name="com.umeng.newxp.view.UMDetail" configChanges="144" launchMode="0">
+<activity name="com.ss.android.newmedia.downloads.SizeLimitActivity" theme="16973835" launchMode="2">
+<activity name="com.ss.android.newmedia.downloads.DownloadDeleteActivity" theme="16973835" launchMode="2">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.profile.MessageTabActvity">
+<activity screenOrientation="1" name="com.ss.android.article.base.activity.CreateDongtaiActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.imagechooser.ImageChooserActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.imagechooser.ImageChooserFolderActivity">
+<activity screenOrientation="1" name="com.ss.android.article.base.imagechooser.ImagePreviewActivity">
+16
+<service name="com.ss.android.article.base.app.ArticleWidgetService2" exported="true">
+<service name="com.ss.android.article.base.app.ArticleWidgetService" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.ss.android.article.base.app.ArticleWidgetClientService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.ss.android.newmedia.BatchActionService">
+<service name="com.ss.android.newmedia.message.MessageHandler">
+<service process=":push" name="com.ss.android.message.NotifyService" exported="true">
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+<service process=":DownloadingService" name="com.umeng.common.ufp.net.DownloadingService">
+<service name="com.ss.android.newmedia.downloads.DownloadService">
+<service name="com.ss.android.newmedia.downloads.DownloadHandlerService">
+15
+<receiver name="com.ss.android.article.base.DownloadReceiver">
+<receiver name="com.ss.android.newmedia.app.DownloadCompleteReceiver">
+<receiver name="com.ss.android.article.base.app.ArticleWidgetProvider" label="2131492883">
+<receiver name="com.dianxinos.launcher2.dxwidget.DXWidgetProvider">
+<receiver name="com.ss.android.newmedia.AppNoticeReceiver">
+<receiver process=":push" priority="2147483647" name="com.ss.android.message.MessageReceiver">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+<receiver name="com.xiaomi.push.service.receivers.MIPushMessageHandler" exported="true">
+<receiver name="com.igexin.sdk.GeTuiPushMessageHandler" exported="false">
+<receiver name="com.igexin.sdk.SsPushReceiver">
+<receiver name="com.igexin.sdk.SsPushManagerReceiver" exported="false">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+<receiver process=":pushservice" name="com.igexin.download.DownloadReceiver">
+<receiver name="com.ss.android.newmedia.downloads.DownloadReceiver">
+3
+<provider authorities="com.ss.android.article.base.ImageProvider" name="com.ss.android.article.base.ImageProvider" exported="false">
+<provider process=":push" authorities="com.ss.android.common.multiprocess.SHARE_PROVIDER_AUTHORITY143" name="com.ss.android.common.util.MultiProcessSharedProvider" exported="true">
+<provider process=":pushservice" authorities="downloads.com.ss.android.article.news" name="com.igexin.download.DownloadProvider">
+Owner: CN=Micro Cao, OU=ByteDance, O=ByteDance, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Micro Cao, OU=ByteDance, O=ByteDance, L=Beijing, ST=Beijing, C=CN
+Serial number: 4efec96a
+Valid from: Sat Dec 31 16:35:54 CST 2011 until: Wed May 18 16:35:54 CST 2039
+Certificate fingerprints: 
+	MD5:AE:A6:15:AB:91:00:15:03:8F:73:C4:7E:45:D2:14:66
+	SHA1: 00:A5:84:E3:75:B5:57:3C:89:E1:F0:6F:5C:F6:0D:0D:65:DD:B6:32
+	SHA256: D7:81:1E:C4:16:6F:EA:6C:C7:20:BA:66:69:9D:C8:4B:58:4A:C9:E6:98:66:13:A7:6D:4E:43:D8:CB:E3:2B:27
+	Signature algorithm name: SHA1withRSA
+	version: 3

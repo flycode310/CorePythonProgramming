@@ -1,0 +1,128 @@
+com.crossmo.calendar
+91
+1.6.4
+5
+-1
+22
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.WRITE_CALENDAR
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+74
+<activity screenOrientation="1" name=".UI.activitys.HomeCalendarActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".UI.activitys.ImportActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.AppDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.VideoShowActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.AudioPlayActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.GudieActivity" configChanges="160">
+<activity name=".UI.activitys.ImageShowFlipperActivity">
+<activity name=".UI.activitys.AlarmAlertActivity" theme="16973839" configChanges="160" launchMode="2">
+<activity name=".UI.activitys.PrivilegeViewActivity">
+<activity screenOrientation="1" name=".UI.activitys.GroupBuyInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.NotesMoneyActivity" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".UI.activitys.NotesMoneyDeatilActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.SettingVoiceActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.NotesMoneyYearMonthActivity" configChanges="160">
+<activity screenOrientation="0" name=".UI.activitys.SyllabusActivity">
+<activity screenOrientation="0" name=".UI.activitys.SyllabusAddActivity" theme="2131492868" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.KfcMdlImageShowActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.FileSchedulActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.AppListActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.RecordActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.AudioActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.TakePhotoActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.MyCalendarChoseActivity" theme="2131492868" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.YearMonthSelect" theme="2131492868" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.SyllTimeSelectActivity" theme="2131492868" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarZhouqiActivity" theme="2131492868" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarNewActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".UI.activitys.CalendarModiflyActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name=".UI.activitys.CalendarSetActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarSearchActivity" configChanges="160" windowSoftInputMode="4">
+<activity screenOrientation="1" name=".UI.activitys.CalendarCloudActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarUploadingActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarUpDownActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarLoginActivity" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name=".UI.activitys.CalendarUserRegisterActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarUserCenterActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarChaJianActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarBirthdayShopActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarLiPinActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarLiPinListActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarLiPinDetailActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.NewSetAddressActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.YouhuiGouActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarAboutActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarWebLoginActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarBirthdayActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarBirthdayCreateActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.HekaListActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.HekaInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarTrainTicketActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.GameListActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.GameInfoActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarBirthdayModiflyActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.MonthDaySelect" theme="2131492868" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarJuhuiActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarJuhuiShopInfoActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarJuhuiShopInfoActivity1" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarShopInfoMapActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.HuangLiActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarSkinActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarFesActivity" configChanges="160">
+<activity name=".UI.activitys.MenuActivity" theme="2131492868">
+<activity name=".UI.activitys.CalendarGradeActivity" theme="2131492878">
+<activity screenOrientation="1" name=".UI.activitys.CalendarReViewrEventActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarNewYearCardStepOneActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarNewYearCardStepTwoActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarNewYearCardListActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarNewYearEditActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarNewYearHeCiListsActivity" configChanges="160">
+<activity screenOrientation="1" name=".UI.activitys.CalendarNewYearHeCiListsActivity2" configChanges="160">
+<activity name="com.umeng.socialize.view.ShareActivity" theme="2131492878" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity name="com.tencent.tauth.AuthActivity">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+5
+<service enabled="true" name="com.crossmo.calendar.service.CalendarService" label="alendarService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service process=":remote" enabled="true" name="com.crossmo.calendar.service.CloudService" label="alendarService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+7
+<receiver name=".service.ScanSdReceiver">
+<receiver name=".service.AlarmReceiver">
+<receiver name=".service.NetworkChangeBroadcastReceiver">
+<receiver name=".service.AlarmReceiver2">
+<receiver name="com.crossmo.calendar.widget.WidgetMonth" label="2131427399">
+<receiver name="com.crossmo.calendar.business.synccloud.UpLoadRceiver">
+<receiver name=".service.HolidayAlarmReceiver">
+0
+Owner: CN=crossmo.olebar, OU=olebar.inc, O=olebar.inc, L=beijing, ST=beijing, C=86
+Issuer: CN=crossmo.olebar, OU=olebar.inc, O=olebar.inc, L=beijing, ST=beijing, C=86
+Serial number: 4b5ff6aa
+Valid from: Wed Jan 27 16:17:46 CST 2010 until: Tue May 30 16:17:46 CST 3009
+Certificate fingerprints: 
+	MD5:CA:A1:F7:FB:DD:81:97:B4:E4:71:70:21:FE:E2:5C:EB
+	SHA1: 87:95:A7:13:94:C0:08:23:37:71:9D:C1:0A:E2:01:EC:0C:9F:25:12
+	SHA256: 60:37:3D:0F:A1:0C:7C:1A:AA:7B:89:BD:1D:4D:A6:DE:3F:6A:4A:14:84:6A:2B:8C:5C:49:B2:69:D8:FB:18:91
+	Signature algorithm name: MD5withRSA
+	version: 1

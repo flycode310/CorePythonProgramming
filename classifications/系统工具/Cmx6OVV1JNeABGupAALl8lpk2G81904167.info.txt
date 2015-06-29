@@ -1,0 +1,26 @@
+cn.edu.cust
+1
+1.0
+7
+-1
+1
+android.permission.WRITE_EXTERNAL_STORAGE
+5
+<activity name=".Main" label="2130968577">
+<activity name=".Showall">
+<activity name=".ViewItem">
+<activity name=".Edit2">
+<activity name=".About" theme="16973835" label="2130968585">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4f5f2b2d
+Valid from: Tue Mar 13 19:10:37 CST 2012 until: Wed Mar 13 19:10:37 CST 2013
+Certificate fingerprints: 
+	MD5:32:C3:42:D7:B8:59:3D:AF:EC:9A:C1:7A:0E:E9:17:4A
+	SHA1: 23:46:FB:59:D3:F8:21:15:31:AE:CD:E4:93:93:4E:29:9D:89:F5:F9
+	SHA256: C0:33:BD:A0:DE:7A:76:17:2E:BE:FA:2A:32:CF:24:86:D2:B4:CF:64:44:BF:5D:87:29:92:7F:87:CD:C9:ED:E6
+	Signature algorithm name: SHA1withRSA
+	version: 3

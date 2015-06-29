@@ -1,0 +1,40 @@
+com.foxit.mobile.pdf.rms
+22
+3.3.1.0423
+8
+21
+8
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+com.android.email.permission.READ_ATTACHMENT
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RUN_INSTRUMENTATION
+android.permission.ACCESS_NETWORK_STATE
+11
+<activity name="com.fuxin.filemanager.FM_MainActivity" configChanges="1184" label="2131492877" windowSoftInputMode="32">
+<activity screenOrientation="10" name="com.fuxin.readviewer.RV_ReadViewerAct" configChanges="1188" launchMode="2">
+<activity name="com.fuxin.filemanager.FM_Settings" configChanges="1184">
+<activity name="com.fuxin.module.emailreview.Setting_TrackerListFragment" configChanges="1184">
+<activity name="com.fuxin.filemanager.FM_About" configChanges="1184">
+<activity name="com.fuxin.filemanager.FM_Help" configChanges="1184">
+<activity icon="2130837741" name="com.microsoft.aad.adal.AuthenticationActivity" theme="2131558414" configChanges="1184" label="2131493069">
+<activity name="com.microsoft.rightsmanagement.ui.EmailActivity" theme="2131558404" exported="false" windowSoftInputMode="2">
+<activity name="com.microsoft.rightsmanagement.ui.PolicyPickerActivity" theme="2131558404" exported="false" windowSoftInputMode="2">
+<activity name="com.microsoft.rightsmanagement.ui.UserPolicyViewerActivity" theme="2131558404" exported="false" windowSoftInputMode="2">
+<activity name="com.microsoft.rightsmanagement.ui.ConsentActivity" theme="2131558404" exported="false" windowSoftInputMode="2">
+1
+<service name="com.fuxin.filemanager.wifi.WIFI_HTTPService">
+0
+0
+Owner: CN=Dean Wang, OU=Embbed Foxit, O=Foxit Coopration, L=Beijing, C=86
+Issuer: CN=Dean Wang, OU=Embbed Foxit, O=Foxit Coopration, L=Beijing, C=86
+Serial number: 4ec07e34
+Valid from: Mon Nov 14 10:34:28 CST 2011 until: Wed Oct 21 10:34:28 CST 2111
+Certificate fingerprints: 
+	MD5:31:FD:1A:58:2B:B5:7F:98:F1:FD:47:E0:66:F5:66:04
+	SHA1: 24:A5:5D:5F:48:43:31:0F:F6:BC:90:6F:98:4C:FC:A6:0B:DF:39:EC
+	SHA256: C3:EF:DF:99:D4:FC:66:78:F2:BB:7C:89:EC:C0:DB:5C:D4:F8:31:3C:A0:7B:79:6A:35:54:BB:35:AC:BF:62:88
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,42 @@
+com.mgapp.nbalive
+1
+2.1.1
+14
+18
+11
+android.permission.READ_PHONE_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity name="com.mgapp.nbalive.SplanshActivity" label="2131165184">
+<activity name="DetialActivity">
+<activity screenOrientation="0" name="io.vov.vitamio.activity.InitActivity" configChanges="3312" windowSoftInputMode="3" launchMode="1">
+<activity process=":vitamio" screenOrientation="0" name="com.wxcily.xunplayer.player.ui.VideoActivity" theme="16973834" launchMode="2">
+<activity name="DeskTopActivity">
+<activity name="PostActivity">
+<activity name="YuGaoActivity">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+2
+<service process=":vitamio" name="com.wxcily.xunplayer.player.VideoService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+0
+0
+Owner: CN=Zhang
+Issuer: CN=Zhang
+Serial number: 6bda3f2e
+Valid from: Mon Feb 09 14:25:52 CST 2015 until: Sun Jun 12 14:25:52 CST 3014
+Certificate fingerprints: 
+	MD5:68:F3:C5:AF:D4:F9:70:76:37:21:C1:44:93:77:70:DB
+	SHA1: 4C:F5:F1:BB:17:C3:5F:37:3C:0A:3B:B6:74:33:49:69:C5:11:BA:84
+	SHA256: DA:7F:B1:8C:21:71:B0:3A:3D:13:FE:94:DA:A4:1E:DE:BE:8A:76:22:42:DF:0F:D7:B8:E2:11:FE:B3:9C:42:2D
+	Signature algorithm name: SHA256withRSA
+	version: 3

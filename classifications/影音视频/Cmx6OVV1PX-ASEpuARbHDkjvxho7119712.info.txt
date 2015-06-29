@@ -1,0 +1,133 @@
+com.yingpeng.fifa
+1
+1.0.0
+14
+18
+20
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.CHANGE_CONFIGURATION
+89
+<activity name="com.yingpeng.fifa.MainActivity" theme="16973833" label="2131099667">
+<activity screenOrientation="1" name="cn.sharesdk.framework.AuthorizeActivity" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.onekeyshare.ShareAllGird" theme="16973840" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="cn.sharesdk.onekeyshare.SharePage" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYMainActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYFeedBackActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="0" name="com.yingpeng.fifa.activity.GMYTestLiveVideoPlayActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYSearchActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYLiveActivityStyle1" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYLiveActivityStyle2" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYFavAndHistoryActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_BundlePhone" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYLiveActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.TJLImgUrlActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYWebViewActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYNewsActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYUserCentreActivity" theme="16973833" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYChannelActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYWebViewItemActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_BundleEmail" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYLoginActivity" theme="16973833" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYUserInfo" theme="16973833" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.TJLSignActivity" theme="16973839" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYSetting" theme="16973833" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".activity.GMYLoginAndFriends" theme="16973833" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYMessageNotice" theme="16973833" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYPayforCentre" theme="16973833" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYChannelItemActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.TJLCompetitionActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYPrePlayActivity" theme="16973833" configChanges="1184" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYRegisterActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYTestThreeLogin" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYPrePlayLiveActivity" theme="16973833" windowSoftInputMode="23">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_User" theme="16973833" windowSoftInputMode="23" launchMode="2">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYVerify_Activity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYNEWChannelActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_Verify" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYAboutUsActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYWelcomeActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.TabHostActivity" theme="16973833" configChanges="1184" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.TJLPageArticleListActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="0" name="com.yingpeng.fifa.activity.GMYPlayerActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16" launchMode="1">
+<activity name="io.vov.vitamio.activity.InitActivity" theme="16973830" configChanges="3312" windowSoftInputMode="3" launchMode="1">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.yingpeng.fifa.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="com.yingpeng.fifa.yxapi.YXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_AddUserOnLine" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_FriendDetail" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.fragment.Fragment_FriendHistory" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_Friends" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_FriendsOnLine" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_AlterInfo" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_NewFriends" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYVideoListActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_UserOnLine" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.Activity_Zone" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYFavAndHistoryActivity1" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.yingpeng.fifa.activity.GMYFavHisZoneActivity" theme="16973833" configChanges="1184" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.BbsActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ForumListActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ForumPublishActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ForumInfoActivity" theme="16973833" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ForumInfoActivity2" theme="16973833" windowSoftInputMode="48">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.CommentActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.AlbumListActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.chat.InputActivity" theme="16973839" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.GalleryActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.SearchActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.ForumLoginActivity" theme="16973833" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.ReplayActivity" theme="16973833" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UserInfoActiviy" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.EditUserInfoActivity" theme="16973833" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.MessageActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.MsgPrivateDetailActivity" theme="16973833" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UserArticlesActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UserCommentArticlesActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UserForumActivity" theme="16973833">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UpdateMimaActivity" theme="16973833" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.UpdateMobileActivity" theme="16973833" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.RegisterActivity" theme="16973833" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.touch18.bbs.ui.user.CenterWebCenterActivity" theme="16973833">
+<activity name="com.bodong.dianjinweb.downloadmanager.DianJinDownloadManager" theme="16973833" configChanges="160" launchMode="2">
+<activity name="com.bodong.dianjinweb.web.DianjinWebAcitivity" theme="16973833" configChanges="160" launchMode="2">
+<activity name="com.yingpeng.fifa.activity.CommonHeaderActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.umeng.socialize.view.ShareActivity" theme="2131165213" configChanges="144" windowSoftInputMode="20" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.weibo.webview.OAuthV1AuthorizeWebView" label="2131099667">
+<activity screenOrientation="1" name="com.tencent.plus.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+3
+<service name="io.vov.vitamio.VitamioService" exported="false">
+<service persistent="true" name="com.yingpeng.fifa.serviceyp.HeartBeatService" exported="false" label="heartbeat">
+<service name="com.bodong.dianjinweb.service.DianJinService">
+1
+<receiver name="com.yingpeng.fifa.activity.GMYLoginAndFriends$AcceptFriendBroadCast" permission="xxx">
+0
+Owner: CN=GaoYang, OU=yingpeng, O=yingpeng, L=sz, ST=gd, C=0086
+Issuer: CN=GaoYang, OU=yingpeng, O=yingpeng, L=sz, ST=gd, C=0086
+Serial number: 539173ee
+Valid from: Fri Jun 06 15:55:26 CST 2014 until: Tue May 31 15:55:26 CST 2039
+Certificate fingerprints: 
+	MD5:64:94:F4:F9:75:73:B1:5C:EF:CA:8E:1D:17:02:14:DD
+	SHA1: 48:51:9D:D7:06:F1:C8:51:2C:CE:4E:F2:B5:68:07:48:9B:05:7E:55
+	SHA256: 00:A3:02:26:47:49:EB:78:FF:51:4A:73:78:19:E9:06:98:29:7C:9D:4E:56:9F:8F:6B:CD:54:B2:A3:86:F9:52
+	Signature algorithm name: SHA1withRSA
+	version: 3

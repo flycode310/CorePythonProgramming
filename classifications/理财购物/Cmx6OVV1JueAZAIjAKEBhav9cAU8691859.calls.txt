@@ -1,0 +1,5 @@
+android.location.LocationManager: android.location.Location getLastKnownLocation(java.lang.String)
+android.location.Location: double getLatitude()
+android.location.Location: double getLongitude()
+java.net.URL: java.net.URLConnection openConnection()
+java.net.URL: void <init>(java.lang.String)

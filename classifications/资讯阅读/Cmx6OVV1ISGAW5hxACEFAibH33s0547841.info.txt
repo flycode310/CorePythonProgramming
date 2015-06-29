@@ -1,0 +1,29 @@
+com.lemon.xhtd6
+1
+1.0
+4
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.INTERNET
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity screenOrientation="1" name="com.lemon.MainActivity" label="2131034113">
+<activity name="net.youmi.android.AdActivity" configChanges="176">
+1
+<service name="com.lemon.MusicService">
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4e984b70
+Valid from: Fri Oct 14 22:47:12 CST 2011 until: Sun Oct 06 22:47:12 CST 2041
+Certificate fingerprints: 
+	MD5:B0:4F:11:E9:39:12:E1:40:52:C1:D2:CE:9C:1B:1D:08
+	SHA1: 8C:A1:E8:4F:93:90:BC:33:E7:A9:6C:49:59:7D:57:80:39:82:53:96
+	SHA256: 7C:DE:2F:5F:6D:04:B0:17:F6:2A:60:A5:DF:82:CA:8C:C7:FF:D1:3B:E9:06:A0:59:D7:D6:4A:F0:D6:62:60:09
+	Signature algorithm name: MD5withRSA
+	version: 1

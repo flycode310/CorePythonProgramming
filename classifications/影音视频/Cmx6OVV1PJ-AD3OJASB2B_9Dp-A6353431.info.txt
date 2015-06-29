@@ -1,0 +1,91 @@
+com.smile.gifmaker
+420
+4.20
+10
+21
+18
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.BROADCAST_STICKY
+android.permission.GET_PACKAGE_SIZE
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+45
+<activity screenOrientation="1" name="com.yxcorp.gifshow.HomeActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.record.CameraActivity" theme="2131427373" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.preview.PhotoBeautifyActivity" theme="2131427373" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.MyProfileActivity" theme="2131427371" configChanges="176" label="2131361798" windowSoftInputMode="0" launchMode="1">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.ReminderActivity" theme="2131427371" configChanges="176" label="2131361798" launchMode="1">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.record.AlbumListActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.record.AlbumBrowseActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.preview.MusicPickerActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.record.VideoBrowseActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.LocalActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.UsersActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.ReviewActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.record.VideoClipActivity" theme="2131427372" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.record.JointActivity" theme="2131427372" configChanges="176" label="2131361798">
+<activity process=":preview" screenOrientation="1" name="com.yxcorp.gifshow.activity.preview.PreviewActivity" theme="2131427372" configChanges="176" label="2131361798">
+<activity process=":preview" screenOrientation="1" name="com.yxcorp.gifshow.activity.preview.AdvEditorActivity" theme="2131427372" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.share.ShareActivity" theme="2131427371" configChanges="128" label="2131361798" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.share.ForwardActivity" theme="2131427371" configChanges="128" label="2131361798" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.PhotoActivity" theme="2131427371" configChanges="176" label="2131361798" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.PhotoLinkActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.ProfileActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.MessageActivity" theme="2131427371" configChanges="176" label="2131361798" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.WebAuthActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.WeiboSSOActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.QQSSOActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.LoginActivity" theme="2131427372" configChanges="128" label="2131361798" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.LoginVerifyActivity" theme="2131427372" configChanges="128" label="2131361798" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.SignupActivity" theme="2131427372" configChanges="128" label="2131361798" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.RetrievePsdActivity" theme="2131427372" configChanges="128" label="2131361798" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.BindPhoneActivity" theme="2131427372" configChanges="128" label="2131361798" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.SelectCountryActivity" theme="2131427372" configChanges="128" label="2131361798" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.login.ProtocolActivity" theme="2131427372" configChanges="128" label="2131361798" windowSoftInputMode="34">
+<activity screenOrientation="1" hardwareAccelerated="false" name="android.camera.ImageCropActivity" theme="2131427371" configChanges="160" label="2131361829">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.GifshowProfileActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.SettingsActivity" theme="2131427371" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.AddFriendsActivity" theme="2131427371" configChanges="176" label="2131361798" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.ContactsListActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.SinaWeiboListActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.BlacklistActivity" theme="2131427372" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.share.UploadingActivity" theme="2131427371" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name="com.yxcorp.gifshow.activity.share.UploadedActivity" theme="2131427370" configChanges="176" label="2131361798">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="2131427371" configChanges="176" exported="true" label="2131361798">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+5
+<service enabled="true" name="com.yxcorp.gifshow.service.EventLoggerService" exported="false">
+<service enabled="true" name="com.yxcorp.gifshow.service.UploadService" exported="false">
+<service enabled="true" name="com.yxcorp.gifshow.service.QProxyService" exported="false">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+3
+<receiver name="com.yxcorp.gifshow.receiver.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+0
+Owner: CN=caohe, OU=hecao.info, O=hecao.info, L=beijing, ST=beijing, C=CN
+Issuer: CN=caohe, OU=hecao.info, O=hecao.info, L=beijing, ST=beijing, C=CN
+Serial number: 4e269662
+Valid from: Wed Jul 20 16:48:34 CST 2011 until: Thu Apr 22 16:48:34 CST 2066
+Certificate fingerprints: 
+	MD5:0F:93:8C:4F:09:95:A8:3C:9B:F3:1F:0C:64:32:25:89
+	SHA1: FA:61:DF:24:6A:72:19:EC:14:CE:1E:03:76:95:F4:88:9E:3E:A5:52
+	SHA256: 0A:35:0C:6F:BF:39:A9:39:B3:4D:4A:4F:47:0A:93:D9:61:D5:54:89:0B:A8:C3:7F:F8:CC:CE:BA:0A:3B:1D:7D
+	Signature algorithm name: SHA1withRSA
+	version: 3

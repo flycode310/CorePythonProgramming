@@ -1,0 +1,43 @@
+com.evrycmn.apksya
+13
+1.54
+8
+19
+12
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.MODIFY_AUDIO_SETTINGS
+9
+<activity name="com.evrycmn.apksya.SplashActivity" label="2131165184">
+<activity name="com.evrycmn.apksya.MainActivity" launchMode="2">
+<activity name="com.evrycmn.apksya.VideoActivity" launchMode="2">
+<activity name="com.evrycmn.apksya.UpdateActivity" launchMode="2">
+<activity name="com.evrycmn.apksya.InitActivity" theme="16973830" configChanges="240" windowSoftInputMode="3" launchMode="1">
+<activity name="com.evrycmn.apksya.MusicActivity" launchMode="2">
+<activity name="com.evrycmn.apksya.HistoryActivity" launchMode="2">
+<activity name="com.evrycmn.apksya.FavoriteActivity" launchMode="2">
+<activity name="com.evrycmn.apksya.VideoPlayerActivity" theme="16973830" configChanges="240" launchMode="2">
+2
+<service name="com.evrycmn.apksya.MusicService">
+<service name="io.vov.vitamio.VitamioService" exported="false">
+0
+0
+Owner: CN="feng  tong", OU=zggtongtools, O=zggongtools, L=sz, ST=sz, C=Zg
+Issuer: CN="feng  tong", OU=zggtongtools, O=zggongtools, L=sz, ST=sz, C=Zg
+Serial number: 51a51b4c
+Valid from: Fri Jan 09 09:26:35 CST 2015 until: Sun Dec 16 09:26:35 CST 2114
+Certificate fingerprints: 
+	MD5:DC:8D:C9:D3:FF:7D:E9:1D:3A:A1:9F:6D:7E:6A:60:AE
+	SHA1: 02:3B:F2:56:6D:56:04:2B:86:43:05:F9:00:01:6F:E8:D9:55:C1:CD
+	SHA256: D4:65:9B:7F:FF:96:92:78:77:60:05:28:F2:C9:AB:DD:BB:3E:8F:DC:EC:ED:1C:9E:7D:BA:7C:FD:1C:66:FC:3F
+	Signature algorithm name: SHA256withRSA
+	version: 3

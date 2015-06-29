@@ -1,0 +1,69 @@
+com.olivephone.edit
+105
+1.0.89
+7
+-1
+6
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+38
+<activity name="com.box.androidlib.activities.BoxAuthentication" configChanges="160">
+<activity name="com.olivephone.office.explorer.OfficeSplash" configChanges="1184" label="2131165184">
+<activity name="com.olivephone.office.explorer.OfficePanelActivity" configChanges="1184" label="2131165184">
+<activity name="com.olivephone.office.explorer.OfficeBaseActivity" configChanges="1184">
+<activity name="com.olivephone.office.explorer.OfficeNewDocumentActivity" configChanges="160">
+<activity name="com.olivephone.office.explorer.UpdateActivity" theme="16973839" configChanges="1184">
+<activity name="com.olivephone.edit.gdocs.GDocsLoginActivity" theme="16973839" configChanges="1184" windowSoftInputMode="18">
+<activity name="com.olivephone.edit.dropbox.DropboxLoginActivity" theme="16973835" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.olivephone.office.explorer.FTPServiceActivity">
+<activity name="com.dropbox.client2.android.AuthActivity" theme="16973840" configChanges="144" launchMode="2">
+<activity name="com.olivephone.office.ErrorActivity">
+<activity name="com.olivephone.edit.util.SaveFolderChooser" configChanges="32">
+<activity name="com.olivephone.office.launcher.EditorLauncher">
+<activity name="com.olivephone.office.launcher.WordEditorLauncher">
+<activity name="com.olivephone.office.launcher.ExcelEditorLauncher">
+<activity name="com.olivephone.office.launcher.PowerpointLauncher">
+<activity name="com.olivephone.office.entry.PptDefault">
+<activity name="com.olivephone.office.launcher.PDFLauncher">
+<activity screenOrientation="3" name="com.olivephone.office.launcher.ExtendedFormatLauncher" configChanges="32" label="2131165184">
+<activity name="com.olivephone.office.word.dialog.FileSaveAs" theme="2131230785">
+<activity screenOrientation="-1" name="com.olivephone.office.word.WordEditor" configChanges="1073742079" windowSoftInputMode="16">
+<activity name="com.olivephone.office.word.WordSettings">
+<activity name="com.olivephone.office.word.WordChooseSavePathActivity">
+<activity name="com.olivephone.office.word.WordPreferencesActivity">
+<activity name="com.olivephone.office.excel.ExcelViewer" configChanges="160" windowSoftInputMode="18">
+<activity name="com.olivephone.office.excel.save.FileSaveAs">
+<activity name="com.olivephone.edit.excel.ExcelDefault">
+<activity name="com.olivephone.office.powerpoint.PowerPointActivity" configChanges="160">
+<activity name="com.olivephone.edit.pdf.PDFDefault">
+<activity name="com.artifex.mupdf.MuPDFActivity">
+<activity screenOrientation="1" name="com.artifex.mupdf.OutlineActivity" configChanges="32">
+<activity name="com.olivephone.edit.chm.ChmContent" configChanges="32">
+<activity name="com.olivephone.edit.chm.ChmDisplay" configChanges="32">
+<activity name="com.olivephone.edit.chm.ChmViewer" configChanges="32">
+<activity screenOrientation="3" name="com.olivephone.edit.rtf.RtfView" configChanges="32">
+<activity icon="2130837837" screenOrientation="3" name="com.olivephone.edit.mht.MHTView" configChanges="32">
+<activity name="com.olivephone.edit.htm.HtmlViewer" configChanges="32">
+<activity name="com.olivephone.edit.common.DefaultEntry">
+2
+<service name="com.olivephone.office.explorer.swiftp.FTPServerService">
+<service name="com.olivephone.office.explorer.service.DownloadService">
+3
+<receiver name="com.olivephone.office.explorer.service.NetworkConnectChangedReceiver">
+<receiver name="com.olivephone.office.explorer.OfficeBroadcastReceiver">
+<receiver name="com.olivephone.office.explorer.service.NetworkConnectChangedReceiver">
+0
+Owner: EMAILADDRESS=oliveoffice@oliveoffice.com, CN=www.oliveoffice.com, OU=OliveOffice, O=OlivePhone Ltd, L=Wuhan, ST=Hubei, C=CN
+Issuer: EMAILADDRESS=oliveoffice@oliveoffice.com, CN=www.oliveoffice.com, OU=OliveOffice, O=OlivePhone Ltd, L=Wuhan, ST=Hubei, C=CN
+Serial number: c82b6033eba205bc
+Valid from: Mon Sep 27 16:20:39 CST 2010 until: Fri Feb 12 16:20:39 CST 2038
+Certificate fingerprints: 
+	MD5:5C:4D:39:84:14:19:33:6D:19:98:E0:81:BB:47:71:EB
+	SHA1: 00:FC:69:CB:C5:ED:C0:50:B1:80:1C:1D:97:82:34:24:FE:87:5C:18
+	SHA256: BE:B7:6B:95:5F:73:D9:A1:CF:A8:B0:16:DC:CA:18:49:CE:6D:5D:EA:75:1E:A2:14:F9:57:37:5D:8F:D2:84:CB
+	Signature algorithm name: SHA1withRSA
+	version: 3

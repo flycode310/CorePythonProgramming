@@ -1,0 +1,142 @@
+com.tg520cx.tg
+1429860171
+2.6.2
+7
+15
+26
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.DISABLE_KEYGUARD
+android.permission.RECEIVE_USER_PRESENT
+com.tg520cx.tg.permission.JPUSH_MESSAGE
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+android.permission.CHANGE_CONFIGURATION
+83
+<activity screenOrientation="1" name="com.tg520cx.tg.StartActivity" label="2131558464">
+<activity screenOrientation="1" name="com.tg520cx.tg.citylist.CityListActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tg520cx.tg.DealActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.dealsearch.DealSearchActivity" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tg520cx.tg.dealsearch.SearchResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.NearActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.game.shake.ShakeRedActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.deal.DealDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.DealAbout" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.CateDealActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.order.SubmitOrderActivity" configChanges="160" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tg520cx.tg.telbind.TelBingActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tg520cx.tg.telbind.OrderPhoneBindActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tg520cx.tg.PrizeResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.coupon.SendCouponNum" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.PrizeListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.LotteryResult" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.ConfirmOrderActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.tg520cx.tg.MyActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.qrcode.CouponQRScanning" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.LoginActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.RegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.collection.CollectionListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.MoreActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.MyAccountActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.PayResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.coupon.MyCouponListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.coupon.CouponInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.AboutActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.main.MainTabActivity" configChanges="160" windowSoftInputMode="32" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="1" name="com.tg520cx.tg.MainTabActivityb" configChanges="160" windowSoftInputMode="32" alwaysRetainTaskState="true" launchMode="2">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.share.ShareOuthActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.account.UserModifyPassword" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tg520cx.tg.GeneralWebView" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.album.DealAlbumActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.feedback.FeedBackActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.share.RebateDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.adress.ConsigneeList" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.adress.AddConsigneeActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.adress.ExpresesActivirty" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.order.OrderDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.evaluation.EvaluationActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.verify.VerifyCouponActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.verify.VerifyCouponResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.verify.ConsumeCouponResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.payment.YeePayWebDialog" theme="2131427345" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.payment.ICBCWebDialog" theme="2131427345" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.evaluation.CommentActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.evaluation.CommentResultActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.order.OrderListTabActivity" theme="2131427340" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.seller.SellerListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.order.RefundOrderActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.seller.SellerDetailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.search.SearchListTabActivity" theme="2131427340" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.account.FindPasswordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.account.EmailRegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.deal.WeekRecommendActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.category.AllCategoryActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.deal.TopicListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.map.MyMapActivity" configChanges="160">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.map.SellerLocationMap" configChanges="160">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" configChanges="160" label="2131558464">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivityEx" configChanges="160" label="2131558464" windowSoftInputMode="16">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tg520cx.tg.function.share.ShareInvitationActivity" configChanges="160">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyPayMoneyWayActivity" configChanges="48" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyCreditCardPayActivity" configChanges="48" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyOrderFormActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyBindPayActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyBindCardsActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyOrderInfoActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyChooseCardActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyMakeSureDeleteCardsActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyPayResultActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyPayActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.QmoneyAgreementActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.qmoney.ui.MemChooseBankActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.yintong.secure.activity.BaseActivity" theme="16973840" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="3" name="com.alipay.sdk.app.H5PayActivity" configChanges="224" exported="false" windowSoftInputMode="18">
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+9
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.yintong.secure.service.PayService" exported="false">
+<service persistent="true" name="com.tg520cx.tg.service.GetTokenService">
+<service persistent="true" name="com.tg520cx.tg.service.GetCatalogService">
+<service persistent="true" name="com.tg520cx.tg.service.GetSortKeyService">
+<service persistent="true" name="com.tg520cx.tg.service.GetAppConstantsService">
+<service persistent="true" name="com.tg520cx.tg.service.DownloadService">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+4
+<receiver name="com.tg520cx.tg.receiver.BootBroadcastReceiver">
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver enabled="true" name="com.tg520cx.tg.receiver.PushMessageReceiver">
+0
+Owner: L=苍溪
+Issuer: L=苍溪
+Serial number: 35cd4df8
+Valid from: Wed Jun 04 14:13:03 CST 2014 until: Tue May 08 14:13:03 CST 2125
+Certificate fingerprints: 
+	MD5:21:FD:2E:3E:D8:5C:C7:97:E0:DB:BE:4F:8C:0D:1A:89
+	SHA1: CE:61:77:12:60:46:F4:3C:29:5E:9E:23:E6:FC:26:21:37:75:A2:F5
+	SHA256: 2C:AC:D8:C1:CB:C7:2A:8D:ED:61:16:18:95:20:7A:9E:64:E5:6A:AC:AB:F3:EC:92:24:3B:B5:DA:32:70:7E:3A
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,36 @@
+com.vllge89325746
+3
+3.2
+9
+-1
+10
+android.permission.READ_PHONE_STATE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.launcher.permission.READ_SETTINGS
+android.permission.ACCESS_NETWORK_STATE
+5
+<activity screenOrientation="1" name="com.ebook.CoverActivity" label="2131099648">
+<activity screenOrientation="1" name="com.ebook.ReadEbookActivity" configChanges="1184" label="2131099648">
+<activity screenOrientation="1" name="com.ebook.AdActivity" configChanges="1184" label="2131099648">
+<activity screenOrientation="1" name="com.ebook.DecriptionActivity" configChanges="1184" label="2131099648">
+<activity screenOrientation="1" name="com.ebook.MuluActivity" configChanges="1184" label="2131099648">
+1
+<service name="com.service.InstallService">
+0
+0
+Owner: CN=gamediy
+Issuer: CN=gamediy
+Serial number: 5f974565
+Valid from: Fri Apr 04 15:10:08 CST 2014 until: Mon Mar 15 15:10:08 CST 2094
+Certificate fingerprints: 
+	MD5:C7:0F:FC:9C:75:EA:0F:BB:4E:D5:74:7D:87:4B:EA:30
+	SHA1: 1F:4C:09:3A:CC:63:A4:14:EA:04:76:E0:98:BE:4A:CC:F2:5B:7E:FE
+	SHA256: 27:89:23:F4:7B:17:22:51:F3:99:8B:02:21:11:77:46:DD:1A:63:9E:58:8B:AB:9B:6E:3A:CD:E6:67:C2:61:1A
+	Signature algorithm name: SHA256withRSA
+	version: 3

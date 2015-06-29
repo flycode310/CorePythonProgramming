@@ -1,0 +1,68 @@
+com.taoban.tuijian.ui
+16
+2.1
+10
+17
+16
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.USE_CREDENTIALS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_USER_PRESENT
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+24
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.SplashActivity" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.DetailActivity" theme="16973830" exported="true" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.GuideActivity" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.MainActivity" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.PullToRefreshGridActivity" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.CommentActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.LoginActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.RegisterActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.SearchIndexActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.SearchListActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.SettingActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.AboutActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.MessageActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.FuliActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.ShowActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.FeedBackActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taoban.tuijian.ui.PushSettingActivity" theme="16973830" windowSoftInputMode="2" launchMode="1">
+<activity name="com.taoban.tuijian.ui.WebViewActivity" theme="16973830" windowSoftInputMode="2">
+<activity name="com.taoban.tuijian.ui.ShareToWeiboActivity" theme="16973830" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="1">
+<activity screenOrientation="1" name="com.renn.rennsdk.oauth.OAuthActivity" configChanges="224">
+<activity process="com.taoban.tuijian.pushservice" excludeFromRecents="true" name="com.igexin.sdk.SdkActivity" theme="16973840" taskAffinity="android.task.SdkActivityTask">
+<activity name="com.tencent.weibo.sdk.android.component.ReAddActivity">
+<activity name="com.tencent.weibo.sdk.android.component.Authorize">
+3
+<service process="com.taoban.tuijian.pushservice" name="com.igexin.sdk.coordinator.SdkMsgService" exported="true" label="NotifyCenterAIDL">
+<service process="com.taoban.tuijian.pushservice" name="com.igexin.sdk.SdkMainService" exported="false" label="NotifyCenter">
+<service process="com.taoban.tuijian.pushservice" name="sdk.download.DownloadService">
+4
+<receiver name="com.taoban.tuijian.ui.GexinSdkMsgReceiver">
+<receiver name="com.igexin.sdk.coordinator.NotificationCenterAIDLReceiver">
+<receiver name="com.igexin.sdk.SdkReceiver">
+<receiver name="sdk.download.DownloadReceiver" exported="false">
+1
+<provider process="com.taoban.tuijian.pushservice" authorities="sdk.download.com.taoban.tuijian" name="sdk.download.DownloadProvider">
+Owner: CN=taoban, OU=taoban, O=taoban, L=beijing, ST=beijing, C=86
+Issuer: CN=taoban, OU=taoban, O=taoban, L=beijing, ST=beijing, C=86
+Serial number: 5c0aa426
+Valid from: Tue Sep 17 15:28:22 CST 2013 until: Sat Sep 11 15:28:22 CST 2038
+Certificate fingerprints: 
+	MD5:8F:0B:31:02:80:58:29:9A:63:1B:39:44:AF:12:0E:EA
+	SHA1: 8C:46:CF:53:D0:60:5D:4A:3D:EA:9D:D4:59:90:C3:4B:BC:E3:82:FD
+	SHA256: 82:AC:F9:3F:06:35:74:D2:02:45:40:46:86:73:3A:48:14:A7:D6:22:16:30:91:D5:95:97:AE:02:9F:FA:8D:DD
+	Signature algorithm name: SHA256withRSA
+	version: 3

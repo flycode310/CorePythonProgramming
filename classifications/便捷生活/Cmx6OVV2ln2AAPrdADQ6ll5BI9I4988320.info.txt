@@ -1,0 +1,107 @@
+org.ccc.mm
+243
+2.4.3
+10
+10
+14
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+60
+<activity icon="2130837680" name=".activity.HomeActivity" theme="2131361976" label="2131296256">
+<activity name=".activity.MemoDetailsActivity" label="2131296852">
+<activity name=".activity.MemoEditActivity" label="2131296847" windowSoftInputMode="1">
+<activity name=".activity.SettingsActivity" label="2131296657">
+<activity name=".activity.MMCategoryList" label="2131296708">
+<activity name=".activity.MemoListActivity" label="2131296708">
+<activity name=".activity.SettingsMainActivity" label="2131296657">
+<activity name=".activity.ExportToTxtActivity" label="2131296896">
+<activity name=".activity.ImportFromTxtActivity" label="2131296895">
+<activity name=".activity.MemoRemindActivity" theme="16973839">
+<activity name=".activity.DeletedMemoListActivity" label="2131296889">
+<activity name=".activity.ImportExportSettingsActivity" label="2131296893">
+<activity name=".activity.ImportExportSettingsMainActivity" label="2131296893">
+<activity name="org.ccc.gdbase.activity.BackupEditActivity" label="2131296327">
+<activity name="org.ccc.gdbase.activity.BackupListActivity" label="2131296328">
+<activity name="org.ccc.gdbase.activity.NetworkBackupEditActivity" label="2131296329">
+<activity name="org.ccc.gdbase.activity.NetworkRestoreEditActivity" label="2131296330">
+<activity name="org.ccc.gdbase.activity.BackupSettingsActivity" theme="2131361974" label="2131296325">
+<activity name="org.ccc.base.activity.BackupSettingsMainActivity" theme="2131361974" label="2131296325">
+<activity name="org.ccc.gdbase.activity.AboutActivity" label="2131296659">
+<activity name="org.ccc.gdbase.activity.LogActivity" label="2131296256">
+<activity name="org.ccc.gdbase.activity.ConfigActivity" label="2131296256">
+<activity name="org.ccc.base.activity.ShowAdsActivity">
+<activity name="org.ccc.gdbase.activity.AppListActivity" label="2131296690">
+<activity name="org.ccc.base.activity.NeedOffersActivity" theme="16973835" label="2131296690">
+<activity name="org.ccc.base.activity.RemoveAdsDialog" label="2131296256">
+<activity name="org.ccc.gdbase.activity.OffersTestActivity" label="2131296256">
+<activity name="org.ccc.gdbase.activity.FileSelector">
+<activity name="org.ccc.gdbase.activity.SelectRingtoneActivity" label="2131296596">
+<activity name="org.ccc.gdbase.activity.DatetimeEditActivity" label="2131296521" windowSoftInputMode="1">
+<activity name="org.ccc.gdbase.activity.DatetimeListActivity" label="2131296519">
+<activity name="org.ccc.gdbase.activity.PrivacySettingsActivity" label="2131296531">
+<activity name="org.ccc.mm.activity.MemoShowSettingsActivity" label="2131296925">
+<activity name="org.ccc.mm.activity.MemoShowSettingsMainActivity" label="2131296925">
+<activity name="org.ccc.mm.activity.RemindSettingsActivity" label="2131296916">
+<activity name="org.ccc.mm.activity.RemindSettingsMainActivity">
+<activity name="org.ccc.gdbase.activity.PrivacySettingsMainActivity" label="2131296531">
+<activity name="org.ccc.gdbase.activity.ChangeSecurityQuestion" label="2131296547">
+<activity name="org.ccc.gdbase.activity.ChangePasswordActivity" label="2131296532">
+<activity name="org.ccc.gdbase.activity.LoginActivity" label="2131296530" windowSoftInputMode="4">
+<activity name="org.ccc.gdbase.activity.ForgetPasswordActivity" label="2131296554">
+<activity name="org.ccc.base.activity.CheckUpdateActivity" theme="16973835">
+<activity name="org.ccc.base.activity.DialogActivity" theme="16973835">
+<activity name="org.ccc.gdbase.activity.AlarmEditActivity" label="2131296461" windowSoftInputMode="1">
+<activity name="org.ccc.gdbase.activity.HelpListActivity">
+<activity name="org.ccc.mm.activity.HelpContent1Activity">
+<activity name="org.ccc.mm.activity.HelpContent2Activity">
+<activity name="org.ccc.base.activity.SupportAuthorDialog" label="2131296256">
+<activity name="org.ccc.base.activity.ShowHTMLActivity" theme="16973840">
+<activity name="org.ccc.gdbase.activity.SelectBkImageActivity" label="2131296385">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+<activity name="com.umeng.fb.ConversationActivity">
+<activity name="com.umeng.fb.ContactActivity">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity name=".wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity name="com.fw.tzfive.activity.FwWebActivity" launchMode="3">
+<activity excludeFromRecents="true" name="com.fw.tzfive.activity.FwMA" theme="16973840" configChanges="176">
+<activity screenOrientation="1" name="com.fw.tzfive.activity.FwSActivity" theme="16973841" configChanges="160" launchMode="3">
+<activity screenOrientation="1" name="com.fw.tzfive.activity.FwAdDetailActivity" theme="16973833" launchMode="0">
+<activity screenOrientation="1" name="com.fw.tzfive.activity.FwWallAdListActivity" theme="16973833" launchMode="0">
+5
+<service name="org.ccc.mm.other.DeleteExpiredMemoService">
+<service name="org.ccc.base.backup.BackupService">
+<service name="org.ccc.base.other.WakescreenService">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+<service name="com.fw.tzfive.service.FwDservice">
+8
+<receiver name="org.ccc.base.activity.BackupListActivityWrapper$RestartReciver">
+<receiver name="org.ccc.mm.other.MemoWidget" label="2131296907">
+<receiver name="org.ccc.mm.other.MemoWidget2" label="2131296908">
+<receiver name="org.ccc.mm.other.MemoWidget3" label="2131296909">
+<receiver name=".core.MMStartupReciver">
+<receiver name=".core.MMRemindReciver">
+<receiver name="com.fw.tzfive.receiver.FwBReceiver">
+<receiver name="com.fw.tzfive.receiver.FwCCReceiver">
+0
+Owner: CN=FangJue Cai
+Issuer: CN=FangJue Cai
+Serial number: 4f76c26d
+Valid from: Sat Mar 31 16:38:05 CST 2012 until: Wed Mar 25 16:38:05 CST 2037
+Certificate fingerprints: 
+	MD5:57:D3:A7:2C:A0:28:2E:48:7D:85:09:49:51:A1:67:79
+	SHA1: 55:75:67:09:7E:FD:09:83:0C:BA:C9:71:96:ED:71:14:74:01:8A:0D
+	SHA256: DB:3D:A8:2B:27:C3:19:44:82:D1:CE:0F:18:97:36:6D:CD:C9:C2:72:EA:DC:41:3E:9F:48:66:BB:B0:D7:26:60
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,53 @@
+com.palmtrends_sjb
+1
+1.0.0
+7
+11
+10
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+20
+<activity screenOrientation="1" name="com.sjb.ui.InitActivity" label="2131230740">
+<activity screenOrientation="1" name="com.sjb.ui.MainActivity" label="2131230740">
+<activity screenOrientation="1" name="com.sjb.ui.HomeActivity" label="2131230740">
+<activity screenOrientation="1" name="com.sjb.ui.ImageDetailActivity" label="2131230740">
+<activity screenOrientation="1" name="com.sjb.ui.MyWeiboInfoActivity" label="2131230740">
+<activity screenOrientation="1" name="com.sjb.ui.ArticleActivity" configChanges="160">
+<activity screenOrientation="1" name="com.sjb.ui.AritcleCommentActivity" configChanges="160">
+<activity screenOrientation="1" name="com.sjb.ui.ArticleCommentsActivity" configChanges="160">
+<activity screenOrientation="1" name="com.sjb.ui.SettingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.palmtrends.setting.FeedBack" configChanges="160">
+<activity screenOrientation="1" name="com.sjb.ui.FavoritesActivity" configChanges="160">
+<activity screenOrientation="1" name="com.palmtrends.setting.TextSize" configChanges="160">
+<activity screenOrientation="1" name="com.palmtrends.setting.Version" configChanges="160">
+<activity screenOrientation="1" name="com.palmtrends.weibo.WeiboBangdingActivity" configChanges="160">
+<activity screenOrientation="1" name="com.palmtrends.weibo.WeiboGuanliActivity" configChanges="160">
+<activity screenOrientation="1" name="com.palmtrends.weibo.WeiboInfoActivity" configChanges="160">
+<activity screenOrientation="1" name="com.palmtrends.weibo.WeiboForwardActivity" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.palmtrends.weibo.WeiboCommentActivity" configChanges="160" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.palmtrends.weibo.WeibofenxiangActivity" configChanges="160" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.palmtrends.weibo.WeiboShowImageActivity" configChanges="160">
+2
+<service name="com.palmtrends.apptime.AppTimeStatisticsService">
+<service enabled="true" name="com.palmtrends.push.PushService">
+1
+<receiver name="com.palmtrends.push.PushReceiver">
+0
+Owner: CN=li, OU=palmtrends, O=palmtrends, L=chongqing, ST=chongqing, C=86
+Issuer: CN=li, OU=palmtrends, O=palmtrends, L=chongqing, ST=chongqing, C=86
+Serial number: 5065614b
+Valid from: Fri Sep 28 16:35:23 CST 2012 until: Tue Sep 22 16:35:23 CST 2037
+Certificate fingerprints: 
+	MD5:62:33:BD:48:0C:F5:CD:44:08:F2:68:02:4B:89:C3:F5
+	SHA1: B8:3E:D1:DF:0A:E2:22:9E:7B:C1:0D:E7:3C:12:B2:8C:FA:1D:D2:D0
+	SHA256: CD:18:9C:8C:5E:69:BC:08:C9:DC:9E:39:2A:91:A6:EE:9A:B0:9B:A7:13:CE:5C:E8:5F:90:63:92:93:E2:F4:47
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,117 @@
+com.wangpiao.ui
+17
+4.0.1
+11
+17
+21
+android.permission.ACCES_MOCK_LOCATION
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.RESTART_PACKAGES
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.CAMERA
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.VIBRATE
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_NETWORK_STATE
+android.permission.ACCESS_MOCK_LOCATION
+74
+<activity name="com.android.wangpiao.WelcomeActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.AdActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.MovieActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CinemaActivity" theme="2131165190" label="2131099669" launchMode="1">
+<activity screenOrientation="1" name="com.android.wangpiao.MovieActivityHbt" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.MovieDetailActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CinemaMessage" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CinemaSearchActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CinemaTimeAct" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CinemaDetail" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CinemaMessageGym" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.MovieFilmPlActivity_old" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CinemaPlActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.MovieSelectSeatActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.seat.SeatActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CinemaIntroduction" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.BrowserActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterVIPPayDetailActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterLoginActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterRegistrationActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterSettingActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterSearchScopeActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterBrowsingActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterCityListActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterOtherActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterAboutActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterFeedBackActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyConcernActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterCinemaActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterCinemaItemActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterFilmActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyAccountActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterVIPPayDetailsActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterVIPRechargeActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterVIPRechargeDetailActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterVIPConsumptionDetailActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterVIPConsumptionListActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterVIPRechargeListActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterEditLoginPwdActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterEditTransactionPwdActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterBindCardActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterBindCardCashCardActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterBindCardPassCardActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterBindCardNewCardActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterBindCardCashCardItemActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyOrderActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyTicketOrderListActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyTicketOrderNoPayActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyTicketOrderPayActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyTicketOrderAllActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyTicketOrder_itemActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyViewingCodeOrderListActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyViewingorderPayActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyViewingorderNoPayActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyViewingorderAllActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyViewingCodeItemActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyTicketOrderDetailActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterMyViewingOrderDetailActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.PayTicketSubOrdersActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.PayViewingSubOrdersActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.Pay_VIPActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.PayChangePayTypeMyTicketActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.PaySuccessActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterAgreementActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.PayChangePayTypeMyViewingActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.PayCardActivity" theme="2131165190" label="2131099669" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterHelpActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CinemaMapActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.MovieFilmPlActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.CenterLoginAndRegAllActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.android.wangpiao.ChannelActivity" theme="2131165190" label="2131099669">
+<activity screenOrientation="1" name="com.alipay.android.app.sdk.WapPayActivity">
+<activity screenOrientation="1" name="com.android.wangpiao.PushMsgActivity" theme="16973839" configChanges="1073742847" launchMode="2">
+2
+<service name="com.android.wangpiao.msgpush.PushMsgService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4f602b67
+Valid from: Wed Mar 14 13:23:51 CST 2012 until: Thu Mar 14 13:23:51 CST 2013
+Certificate fingerprints: 
+	MD5:7A:37:07:11:B7:24:F9:BA:4F:41:69:44:29:B8:AD:EE
+	SHA1: 47:B2:79:14:A4:B2:16:78:21:8B:49:84:2B:F4:F0:2E:DB:A3:20:3E
+	SHA256: 0F:20:F2:66:41:4A:A1:79:3D:B9:7A:FA:37:77:CA:0A:CE:DA:C3:32:99:78:3E:3C:9D:16:A1:A5:B4:B1:5C:90
+	Signature algorithm name: SHA1withRSA
+	version: 3

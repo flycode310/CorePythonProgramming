@@ -1,0 +1,36 @@
+dopool.player
+53
+3.3.1
+5
+10
+5
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+4
+<activity screenOrientation="0" name=".MainActivity" theme="2131361798" configChanges="176" exported="true" label="2131296279" windowSoftInputMode="16" launchMode="2">
+<activity screenOrientation="0" name="dopool.MediaPlay.VideoActivity" theme="2131361798" configChanges="48" launchMode="2">
+<activity screenOrientation="0" name="dopool.MediaPlay.AudioActivity" theme="2131361798" configChanges="48" launchMode="2">
+<activity screenOrientation="0" name="dopool.MediaPlay.ThirdPlayActivity" theme="2131361798">
+2
+<service name="dopool.MediaPlay.AudioService">
+<service process=":push" name="dopool.push.PushMessageService">
+4
+<receiver name="dopool.broadcastReceiver.ReserveReceiver">
+<receiver name="dopool.push.DataAnalyticsReceiver">
+<receiver name="dopool.broadcastReceiver.SyncMyDopoolInfoBroadCast">
+<receiver name="dopool.push.BootReceiver">
+1
+<provider authorities="com.dopool.providers.personprovider" name=".PersonContentProvider">
+Owner: CN=Bin Li, OU=Inc, O=Dopool, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Bin Li, OU=Inc, O=Dopool, L=Beijing, ST=Beijing, C=CN
+Serial number: 4ae1780f
+Valid from: Fri Oct 23 17:31:59 CST 2009 until: Sun Sep 29 17:31:59 CST 2109
+Certificate fingerprints: 
+	MD5:4D:69:A9:40:30:7F:DC:6B:C6:7B:C0:85:55:08:29:9E
+	SHA1: BD:98:D0:67:E9:D4:AC:71:30:A4:66:6C:6A:E2:AF:31:42:F0:E2:34
+	SHA256: A5:45:CB:E0:CF:DC:FF:75:9B:E1:E3:FA:12:C0:0E:5D:0D:D1:30:21:56:60:B5:B0:B0:3F:8B:66:D1:AE:A8:90
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,94 @@
+com.no4e.note
+9
+1.1.3
+8
+17
+25
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.CAMERA
+com.no4e.note.permission.JPUSH_MESSAGE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.SEND_SMS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+41
+<activity name="cn.jpush.android.ui.PushActivity" theme="16973840" configChanges="160">
+<activity screenOrientation="1" name="com.no4e.note.activities.MainActivity" label="2131099649">
+<activity screenOrientation="1" name="com.no4e.note.EditNote.NoteEditorActivity" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.no4e.note.activities.VoiceRecordActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.activities.ImageAttachmentViewerActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.activities.AudioAttachmentPlayerActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.activities.CustomCameraActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.activities.PreCreateNoteCameraActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.activities.PreCreateNoteVoiceRecorderActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.activities.PreCreateNoteImageViewerActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.activities.NormalCameraActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.activities.NormalVoiceRecordActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.LibraryItemNoteList.LibraryItemNotesListActivity" label="" windowSoftInputMode="2" launchMode="2">
+<activity screenOrientation="1" name="com.no4e.note.activities.UserLoginActivity" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.no4e.note.activities.UserRegisterActivity" label="" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.no4e.note.activities.QRCodeActivity" theme="16973831" label="2131099649">
+<activity screenOrientation="1" name="com.no4e.note.activities.CaptureActivity" theme="16973831" configChanges="160">
+<activity screenOrientation="1" name="com.no4e.note.activities.MyInfoActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.no4e.note.activities.CompanyInfoActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.no4e.note.LibraryItemList.LibraryItemListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.no4e.note.activities.LocationActivity" configChanges="160">
+<activity screenOrientation="1" name="com.no4e.note.RelativeLibrary.RelativeLibraryListActivity">
+<activity screenOrientation="1" name="com.no4e.note.activities.SettingActivity">
+<activity screenOrientation="1" name="com.no4e.note.EditNote.NoteEditorMoreInputFieldListActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.ShareNotes.SendNoteQRActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.ShareNotes.ReceiveNoteQRActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.LibraryItemNoteList.TransferNoteListActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.Signin.SigninCompanyListActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.ShareNotes.ShakeActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.SplashScreenActivity" label="2131099649">
+<activity screenOrientation="1" name="com.no4e.note.ShareNotes.ReceviedNoteQRBeforeActivity" label="2131099649">
+<activity screenOrientation="1" name="com.no4e.note.guide.GuideActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.ShareNotes.WeitianURLQRCodeNoteListActivity" label="2131099736">
+<activity screenOrientation="1" name="com.no4e.note.controls.WNListViewActivity" label="2131099737">
+<activity screenOrientation="1" name="com.no4e.note.activities.QrcodeResultActivity" label="2131099737">
+<activity screenOrientation="1" name="com.no4e.note.LibraryItemDetail.LibraryItemDetailActivity" label="">
+<activity screenOrientation="1" name="com.no4e.note.LibraryItemDetail.RelativeNoteListActivity" label="2131099744">
+<activity screenOrientation="1" name="com.no4e.note.ShareNotes.SendNoteInputEmailActivity" label="2131099748">
+<activity screenOrientation="1" name="com.no4e.note.browser.BrowserActivity" configChanges="1152" label="2131099752">
+<activity screenOrientation="1" name="com.no4e.note.activities.NoticeActivity" label="2131099752">
+<activity screenOrientation="1" name="com.no4e.note.activities.AboutWeiTianNoteAcitvity" label="2131099752">
+4
+<service enabled="true" name="cn.jpush.android.service.DownloadService" exported="false">
+<service enabled="true" name="cn.jpush.android.service.PushService" exported="false">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+4
+<receiver enabled="true" name="cn.jpush.android.service.PushReceiver">
+<receiver enabled="true" name="com.no4e.note.JPushCustomerReceiver">
+<receiver name="cn.jpush.android.service.AlarmReceiver">
+<receiver name=".NetworkChangeReceiver">
+0
+Owner: O=Weitian
+Issuer: O=Weitian
+Serial number: 51724b4e
+Valid from: Sat Apr 20 16:01:18 CST 2013 until: Sun Mar 27 16:01:18 CST 2112
+Certificate fingerprints: 
+	MD5:C2:A6:89:5D:02:CF:D2:DC:61:1E:73:C3:75:8F:C8:EF
+	SHA1: D0:8C:F2:A1:48:CA:6E:78:0B:F9:40:97:BF:73:F9:F0:B6:AE:27:21
+	SHA256: 10:79:F9:39:89:0E:01:8F:E3:B7:5D:1C:E6:E4:F2:E8:A1:88:6E:F1:9B:49:45:C3:DB:57:CA:62:39:EE:A9:A9
+	Signature algorithm name: SHA1withRSA
+	version: 3

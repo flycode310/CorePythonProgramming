@@ -1,0 +1,49 @@
+cn.baixiu.singlecomiconline551
+1
+1
+7
+-1
+11
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+13
+<activity screenOrientation="1" name="cn.baixiu.singlecomiconline.ui.Activity_Comic" configChanges="160" alwaysRetainTaskState="true">
+<activity screenOrientation="1" name="cn.baixiu.singlecomiconline.core.ActivityGroup_Base" configChanges="160">
+<activity name="cn.baixiu.singlecomiconline.ui.Activity_Preview" configChanges="160">
+<activity screenOrientation="1" name="cn.baixiu.singlecomiconline.ui.View_VolumeList" configChanges="160">
+<activity screenOrientation="1" name="cn.baixiu.singlecomiconline.ui.View_LocalVolume" configChanges="160">
+<activity screenOrientation="1" name="cn.baixiu.singlecomiconline.ui.View_CommentList" configChanges="160">
+<activity screenOrientation="1" name="cn.baixiu.singlecomiconline.ui.View_Mark" configChanges="160">
+<activity screenOrientation="1" name="cn.baixiu.singlecomiconline.ui.View_Comic" configChanges="160">
+<activity screenOrientation="1" name="cn.baixiu.singlecomiconline.ui.PreferenceActivity_Setting" configChanges="160">
+<activity name="com.PushService.android.AppListActivity" theme="16973839">
+<activity name="com.adsmogo.adview.AdsMogoWebView">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="com.adwo.adsdk.AdwoAdBrowserActivity" label="Adwo广告">
+4
+<service name="cn.baixiu.singlecomiconline.util.Service_DownloadComic">
+<service name="com.PushService.android.PushService">
+<service process=":remote" name="com.adsmogo.controller.service.UpdateService" exported="true">
+<service process=":remote" name="com.adsmogo.controller.service.CountService" exported="true">
+1
+<receiver name="com.PushService.android.BootBroadCastReceiver">
+0
+Owner: CN=baixiu
+Issuer: CN=baixiu
+Serial number: 504ca33a
+Valid from: Sun Sep 09 22:10:02 CST 2012 until: Thu Sep 03 22:10:02 CST 2037
+Certificate fingerprints: 
+	MD5:96:FA:7D:53:3C:91:03:3E:AC:54:53:F7:9F:9F:08:71
+	SHA1: A0:37:1D:6A:68:B4:07:23:44:92:CF:74:B8:87:FB:B7:4D:BD:3A:C3
+	SHA256: 0C:6C:D6:10:76:CA:7A:F4:32:D9:64:F1:E8:31:C8:74:AB:C3:97:DF:E5:49:6C:5A:D1:3A:AB:51:2A:7F:7D:E2
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,173 @@
+cn.safetrip.edog
+4009472
+4.0.3
+10
+-1
+47
+android.permission.WRITE_INTERNAL_STORAGE
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+com.tencent.mm.permission.GET_QRCODE_INFO
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+com.tencent.mm.plugin.permission.WRITE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+com.tencent.mm.plugin.permission.READ
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+com.tencent.mm.plugin.permission.SEND
+com.tencent.mm.permission.MM_VIDEO_RECORDER_UI
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+com.tencent.mm.ext.permission.READ
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INTERACT_ACROSS_USERS_FULL
+com.tencent.mm.oauth.permission.SEND
+android.permission.BAIDU_LOCATION_SERVICE
+android.permission.DISABLE_KEYGUARD
+android.permission.REORDER_TASKS
+android.permission.RECEIVE_USER_PRESENT
+android.permission.SYSTEM_ALERT_WINDOW
+com.android.vending.BILLING
+android.permission.WRITE_SETTINGS
+com.tencent.mm.permission.MM_MESSAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+com.tencent.mm.permission.LOGOUT
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+com.tencent.mm.ext.permission.WRITE
+android.permission.CHANGE_NETWORK_STATE
+com.tencent.mm.gwallet.BILLING
+cn.safetrip.edog.permission.JPUSH_MESSAGE
+android.permission.CHANGE_CONFIGURATION
+96
+<activity name="com.chetuobang.app.SplashScreenActivity" theme="16973840" configChanges="1073743099" label="2131099648">
+<activity name="cn.safetrip.edog.ResultActivity" configChanges="1073743099" exported="true">
+<activity name="com.chetuobang.app.GuideViewActivity" theme="16973840" configChanges="1073743099">
+<activity name="com.chetuobang.app.mapchat.CreateChatActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.main.MapMainActivity" configChanges="1073743099" label="2131099648" launchMode="2">
+<activity name="com.chetuobang.app.main.ReportEventActivity" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.main.RestRouteInfoActivity" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.main.MultiRouteActivity" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.main.ImpededRoadActivity" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.main.MultiRouteTrackListActivity" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.main.MultiRouteTrackDetailActivity" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.mapvoice.ReportVoiceActivity" theme="2131296262" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.mapvoice.VoiceHelpActivity" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="autopia_3.group.MyAutopiaActivity" configChanges="1073743099" label="2131100488">
+<activity name="autopia_3.group.MyZoneActivity" configChanges="1073743099">
+<activity name="autopia_3.group.AreaWebViewActivity" configChanges="1073743099" label="2131100488" launchMode="2">
+<activity name="autopia_3.group.AddFriendActivity" configChanges="1073743099" label="2131100032">
+<activity name="autopia_3.group.ChatMessageActivity" configChanges="1073743099" label="2131100482" windowSoftInputMode="16">
+<activity name="autopia_3.group.ExchangeAwardActivity" configChanges="1073743099" label="2131100124">
+<activity name="autopia_3.group.ExchangeInputNumActivity" configChanges="1073743099" label="2131100124" windowSoftInputMode="32">
+<activity name="autopia_3.group.ModifyAutopiaNumActivity" configChanges="1073743099">
+<activity name="autopia_3.group.ModifyAutopiaNumSnsActivity" configChanges="1073743099">
+<activity name="autopia_3.group.ModifyMyNickNameActivity" configChanges="1073743099" windowSoftInputMode="16">
+<activity name="autopia_3.group.MyAutopiaGetGoldActivity" configChanges="1073743099" label="2131100124">
+<activity name="autopia_3.group.MyCarActivity" configChanges="1073743099" label="2131100124">
+<activity name="autopia_3.group.pub.SurveyActivity" configChanges="1073743099" label="2131100124">
+<activity name="autopia_3.group.MyDataActivity" configChanges="1073743099">
+<activity name="autopia_3.group.MyFriendActivity" configChanges="1073743099" label="2131100032">
+<activity name="autopia_3.group.MyRankingActivity" configChanges="1073743099" label="2131100124" launchMode="2">
+<activity name="autopia_3.group.MyDrivingRecordActivity" configChanges="1073743099" label="2131100124">
+<activity name="autopia_3.group.DrivingRecordSetActivity" configChanges="1073743099" label="2131100124">
+<activity name="autopia_3.group.UserAutopiaActivity" configChanges="1073743099" label="2131100124">
+<activity name="autopia_3.group.MyGenderActivity" configChanges="1073743099">
+<activity name="autopia_3.group.MyCarIconActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.settings.SettingsActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.settings.ModifyParamsSettingsActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.settings.AboutActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.settings.WebviewActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.settings.UserFeedbackActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.settings.ContactInfoActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.settings.ElecEyeSettingsActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.LoginActivity" configChanges="1073743099" windowSoftInputMode="16">
+<activity name="autopia_3.group.sharelogin.SNSLoginActivity" configChanges="1073743099">
+<activity name="autopia_3.group.userinfo.UserInfoActivity" configChanges="1073743099">
+<activity name="autopia_3.group.userinfo.AttentionTopicActivity" configChanges="1073743099">
+<activity name="autopia_3.group.userinfo.MyLoveCarActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.ShareAcountActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.ResetPasswdActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.InputCheckNumActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.RegisterActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.SetPhonePasswordActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.AddfriendTwoActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.FindFriendActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.AddPhoneNumberActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.FindPasswdByEmailActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.RegistNicknameActivity" configChanges="1073743099">
+<activity name="autopia_3.group.sharelogin.UserAgreementActivity" configChanges="1073743099">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity name="com.tencent.tauth.AuthActivity" label="2131099761" noHistory="true">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1073743099">
+<activity name="com.chetuobang.app.messagebox.MessageBoxActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.messagebox.MBAddFriendActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.messagebox.NoticeUnfoldActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.messagebox.NoticeRedPacketActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.messagebox.AutopiaWebBrowserActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.mapchat.ChatActivity" configChanges="1073743099" windowSoftInputMode="16">
+<activity name="com.chetuobang.app.traffic.TrafficActivity" configChanges="1073743099" windowSoftInputMode="16">
+<activity name="com.chetuobang.app.traffic.TrafficPointInfoActivity" configChanges="1073743099" windowSoftInputMode="16">
+<activity name="com.chetuobang.app.traffic.TrafficHorContentActivity" configChanges="1073743099" windowSoftInputMode="16">
+<activity name="com.chetuobang.app.offlinemap.OfflineMapActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.offlinemap.ChoiceStorageActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.search.SearchMainActivity" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.SearchResultActivity" configChanges="1073743099" label="2131099700" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.SearchCategoryActivity" configChanges="1073743099" label="2131099701" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.SearchMoreCategoryActivity" configChanges="1073743099" label="2131099703" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.SearchFavoriteActivity" configChanges="1073743099" label="2131099704" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.SearchAddFavoriteActivity" configChanges="1073743099" label="2131099705" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.SearchFavoriteAddAliasActivity" configChanges="1073743099" label="2131099706" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.SearchAddPointActivity" configChanges="1073743099" label="2131099706" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.SearchSelectPoiMapActivity" configChanges="1073743099" label="2131099703" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.search.SearchPoiDetailActivity" label="2131099703" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.chatroom.ChatRoomActivity" theme="2131296264" configChanges="1073743099" windowSoftInputMode="32" launchMode="3">
+<activity name="autopia_3.group.NearFriendFilterActivity" configChanges="1073743099" label="2131100944" windowSoftInputMode="32">
+<activity name="autopia_3.group.userinfo.SelectCarModelActivity" configChanges="1073743099" label="2131101082" windowSoftInputMode="32">
+<activity name="autopia_3.group.userinfo.MisMatchCarActivity" configChanges="1073743099" label="2131101083" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.track.MyTrackActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.track.MyTrackDetailActivity">
+<activity name="com.chetuobang.app.track.HomeOfficeSettingActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.track.TrackMultiRouteActivity" configChanges="1073743099">
+<activity name="com.chetuobang.app.parking.ParkingRecordActivity" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.parking.ParkingToWhereActivity" windowSoftInputMode="32">
+<activity name="com.chetuobang.app.parking.ParkingFindMyCarActivity" configChanges="1073743099" windowSoftInputMode="32">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity name="autopia_3.group.sharelogin.WBShareActivity" configChanges="1073743099">
+<activity name=".wxapi.WXEntryActivity" theme="16973839" configChanges="1073743099" exported="true">
+<activity name="com.iflytek.voiceads.request.IFLYBrowser" configChanges="1073743099">
+5
+<service name="autopia_3.group.service.DownLoadCarService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService" exported="true">
+<service name="com.chetuobang.app.offlinemap.service.DownloadOLMapService" exported="false">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.chetuobang.app.view.MVideoRecordService">
+5
+<receiver name="autopia_3.group.notification.ExitAppReceiver" exported="true">
+<receiver name="com.safetrip.push.PushMessageReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="com.chetuobang.app.parking.ParkingServiceBroadcastReceiver" exported="true">
+0
+Owner: CN=Ben Yang, OU=Safetrip, O=www.safetrip.cn, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Ben Yang, OU=Safetrip, O=www.safetrip.cn, L=Beijing, ST=Beijing, C=CN
+Serial number: 4d733180
+Valid from: Sun Mar 06 15:02:24 CST 2011 until: Thu Feb 28 15:02:24 CST 2036
+Certificate fingerprints: 
+	MD5:B5:24:F2:FA:74:CC:21:18:1E:13:02:F2:55:93:75:B2
+	SHA1: 07:3D:34:1A:6C:5C:62:DA:28:CB:83:3A:2C:10:A7:CD:BF:BA:8C:56
+	SHA256: 09:B4:8D:9A:EC:32:56:99:9D:2B:CA:2D:D1:50:66:D8:D3:96:F6:CF:12:1D:30:4A:00:77:59:DF:7F:1D:71:2D
+	Signature algorithm name: SHA1withRSA
+	version: 3

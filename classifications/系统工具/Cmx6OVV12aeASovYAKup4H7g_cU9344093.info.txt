@@ -1,0 +1,68 @@
+com.apprush.game.chinesechar
+21
+6.10
+8
+15
+10
+android.permission.ACCESS_COARSE_UPDATES
+android.permission.READ_PHONE_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+33
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.HomeActivity" theme="16973840" configChanges="1152" label="2131165203" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.IdiomActivity" theme="16973840" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.FavoriteActivity" theme="16973830" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.CategoryActivity" theme="16973830" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.CategoryEntryActivity" theme="16973830" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.book.BookActivity" theme="16973840" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.book.ContentsActivity" theme="16973830" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.book.SearchActivity" theme="16973830" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.about.AboutActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="1" name="com.apprush.play.about.HopeActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="1" name="com.apprush.play.about.ContactActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="1" name="com.apprush.play.about.ThanksActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="1" name="com.apprush.play.about.DonateActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="1" name="com.apprush.play.setting.SettingActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="1" name="com.apprush.play.setting.LanguageActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="1" name="com.apprush.play.setting.TypefaceActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.RecommendActivity" theme="16973830" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnidioms.BrowserActivity" theme="16973830" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnzicard.CardActivity" theme="16973840" configChanges="1152" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.apprush.play.cnzicard.guess.GuessGuideActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="0" name="com.apprush.play.cnzicard.guess.GuessGameActivity" theme="16973841" configChanges="1152">
+<activity screenOrientation="1" name="com.apprush.play.cnzicard.guess.GuessResultActivity" theme="16973830" configChanges="1152">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.apprush.play.cnzicard.WallpaperActivity" theme="2131427363" configChanges="1152" stateNotNeeded="true" noHistory="true">
+<activity screenOrientation="1" name="com.umeng.fb.ui.SendFeedback" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.umeng.fb.ui.FeedbackConversations">
+<activity screenOrientation="1" name="com.umeng.fb.ui.FeedbackConversation" configChanges="16">
+<activity name="cn.domob.android.ads.DomobActivity" theme="16973839">
+<activity name="com.tencent.exmobwin.banner.MobWINBrowserActivity">
+<activity name="com.tencent.exmobwin.banner.DialogActivity" theme="16973835">
+<activity name="com.qq.e.ads.AdActivity" theme="16973839">
+<activity name="com.qq.e.ads.GdtBrowserActivity">
+<activity name="com.qq.e.appwall.AppwallActivity" configChanges="176">
+<activity name="com.qq.e.ads.InterstitialAdActivity" theme="16973840" configChanges="176">
+5
+<service enabled="true" icon="2130837583" name="com.apprush.cnzicard.wallpaper.CardWallpaper" permission="android.permission.BIND_WALLPAPER" label="2131165203">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+<service name="com.qq.e.comm.DownloadService" exported="false">
+0
+0
+Owner: CN=chuyangchangxi, OU=chuyangchangxi, O=chuyangchangxi, L=fuzhou, ST=fujian, C=ZH
+Issuer: CN=chuyangchangxi, OU=chuyangchangxi, O=chuyangchangxi, L=fuzhou, ST=fujian, C=ZH
+Serial number: 4f4d832c
+Valid from: Wed Feb 29 09:45:16 CST 2012 until: Fri Feb 05 09:45:16 CST 2112
+Certificate fingerprints: 
+	MD5:63:CD:C4:34:82:55:35:71:A1:01:E4:B5:00:9B:58:4B
+	SHA1: 45:AF:43:1C:DC:04:F9:C4:D3:4B:A1:BC:32:EE:79:1E:21:08:08:8C
+	SHA256: F5:49:BE:6B:FC:CE:16:3D:62:F5:2D:CE:BB:70:7F:4F:B4:91:92:AD:8C:9B:FB:30:CF:89:FB:B4:6F:DE:A3:1D
+	Signature algorithm name: SHA1withRSA
+	version: 3

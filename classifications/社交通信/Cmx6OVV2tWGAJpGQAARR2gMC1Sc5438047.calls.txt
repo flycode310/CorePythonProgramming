@@ -1,0 +1,3 @@
+android.content.ContentResolver: android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String)
+android.database.Cursor: java.lang.String getString(int)
+android.util.Log: int i(java.lang.String,java.lang.String)

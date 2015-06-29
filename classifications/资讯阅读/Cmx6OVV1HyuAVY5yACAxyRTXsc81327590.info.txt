@@ -1,0 +1,59 @@
+com.kuyun.activity
+4
+1.3.1
+8
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_SETTINGS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+32
+<activity screenOrientation="1" name="KuyunStartActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name=".KuyunMainActivity" theme="16973833" configChanges="160" label="2131230723">
+<activity screenOrientation="1" name=".KuyunMainLoginActivity" theme="16973833" configChanges="160" label="2131230723">
+<activity screenOrientation="1" name=".MainPageActivity" theme="16973833" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name=".ReadingContent" theme="16973830" configChanges="160" label="2131230723">
+<activity screenOrientation="1" name=".KuyunPersonActivity" theme="16973833" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name="KuyunLoginActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="KuyunRegistActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="KuyunRegistPhoneActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="KuyunLoginWeiboActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="KuyunWeiboActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="KuyunPersonGexingActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="KuyunPersonPhoneActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="KuyunPersonEmailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="KuyunPersonPsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="KuyunFindPsActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="KuyunPinglunActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="KuyunFindPsEmailActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="KuyunFindPsPhoneActivity" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.kuyun.setting.KuyunSettingAccount" theme="16973830" configChanges="160">
+<activity screenOrientation="1" name="com.kuyun.setting.KuyunSettingAppSetting" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.kuyun.setting.KuyunSettingPrivacyActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.kuyun.setting.KuyunSettingAboutActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.kuyun.setting.KuyunSettingPrivacyagreementActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.kuyun.setting.KuyunSettingChoiceActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.kuyun.setting.KuyunUserHelpActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name="com.kuyun.setting.SettingAppOfferActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name=".KuyunSubActivity" theme="16973833" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".KuyunChannelContentActivity" theme="16973833" configChanges="160">
+<activity screenOrientation="1" name=".KuyunChannelSearchActivity" theme="16973833" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".KuyunMyChannelActivity" theme="16973833" configChanges="160" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".KuyunWebViewActivity" theme="16973833" configChanges="160" windowSoftInputMode="2">
+0
+0
+2
+<provider authorities="com.kuyun.provider" name="com.kuyun.sql.KuyunProvider">
+<provider authorities="com.kuyun.reader.provider" name="com.kuyun.sql.KuyunLogicProvider">
+Owner: CN=kyyd, OU=tenfen, O=tenfen, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=kyyd, OU=tenfen, O=tenfen, L=Beijing, ST=Beijing, C=CN
+Serial number: 4fc4873a
+Valid from: Tue May 29 16:22:18 CST 2012 until: Wed Mar 02 16:22:18 CST 2067
+Certificate fingerprints: 
+	MD5:30:97:54:73:D4:CB:5B:31:46:51:F2:59:E4:63:4E:29
+	SHA1: 70:50:57:6B:EB:BC:AC:93:C3:54:E6:10:6F:BF:21:8E:5B:E8:40:70
+	SHA256: CF:87:9C:D6:60:67:99:94:E1:18:ED:72:1C:1B:4C:F9:0E:0E:C4:1A:FF:55:41:B9:49:1A:DA:31:F9:FB:38:FD
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,290 @@
+kvpioneer.cmcc
+44
+4.3.1
+7
+17
+55
+android.permission.MOUNT_FORMAT_FILESYSTEMS
+android.permission.WRITE_CALL_LOG
+android.permission.READ_LOGS
+android.permission.RECEIVE_SMS
+android.permission.GET_ACCOUNTS
+android.permission.READ_CONTACTS
+android.permission.CALL_PHONE
+android.permission.WRITE_CONTACTS
+android.permission.CLEAR_APP_CACHE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.SET_PREFERRED_APPLICATIONS
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.MANAGE_ACCOUNTS
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+android.permission.FLASHLIGHT
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.RECEIVE_WAP_PUSH
+android.permission.SEND_SMS
+android.permission.RECEIVE_MMS
+android.permission.WRITE_SECURE_SETTINGS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+android.permission.CHANGE_COMPONENT_ENABLED_STATE
+com.qihoo.antivirus.update.permission.clear_sdk
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.PROCESS_OUTGOING_CALLS
+android.permission.WRITE_SMS
+com.htc.launcher.permission.WRITE_SETTINGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_SMS
+com.qihoo.antivirus.update.permission
+android.permission.GET_PACKAGE_SIZE
+android.permission.WRITE_APN_SETTINGS
+android.permission.BROADCAST_PACKAGE_REMOVED
+com.htc.launcher.permission.READ_SETTINGS
+android.permission.REORDER_TASKS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.READ_CALL_LOG
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+164
+<activity screenOrientation="1" name=".ui.SplashActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".barcode.CaptureActivity" configChanges="224" label="2131493536" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name=".ui.MainActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name=".speedup.DesktopWidgetActivity" theme="2131361836" configChanges="224" label="2131493669" windowSoftInputMode="3" launchMode="3">
+<activity screenOrientation="1" name=".customize.mm.GiftWareMainActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".customize.mm.DetialActivity" configChanges="224">
+<activity screenOrientation="1" name=".kill.KillMainActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".pushmanage.PushMsgNoticeListActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".ui.SoftManagerActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".ui.SoftManagerSetActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".ui.RootInfoActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.DialogTrafficLimitResetActivity" theme="2131361794" configChanges="224">
+<activity screenOrientation="1" name=".flow.FlowTimePickerActivity" theme="2131361794" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".flow.FlowIdleSettingActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.FlowProductActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.FlowProductWebActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".flow.FlowAppDetailActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.FlowPackageActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.VersionPagerActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.ExperiencingActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.AttributionActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.SystemSettingActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".ui.FrequentTelActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.LogActivityGroup" configChanges="224">
+<activity screenOrientation="1" name=".ui.FrequentTelDetial" configChanges="224">
+<activity screenOrientation="1" name=".ui.VirusNewListActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.KillSetActivity" configChanges="224">
+<activity screenOrientation="1" name=".ui.VirusDetailActivity" configChanges="224">
+<activity screenOrientation="1" name=".phonecheck.PhoneCheckActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".speedup.ProcessManageActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.FlowRankActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".flow.FlowMonitorSettingActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.FlowMonitorSetSimInfoActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.share.FlowShareMainActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".flow.share.FlowShareWelcomeActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".flow.share.FlowShareHelpActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".flow.share.FlowShareEnjoyActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.share.FlowShareMemberActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".flow.share.FlowShareInviteActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.share.ContactListActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.donation.FlowDonationMainActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".flow.donation.FlowDonationWelcomeActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".flow.donation.FlowDonationHelpActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".flow.donation.FlowDonationEnjoyActivity" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".flow.donation.FlowDonationAddActivity" configChanges="224" windowSoftInputMode="32">
+<activity screenOrientation="1" name=".flow.donation.FlowDonationSetLimitActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.donation.FlowDonationAdjustActivity" configChanges="224">
+<activity screenOrientation="1" name=".kill.NewKillCloudForRapidActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".kill.NewKillCloudForRapidDetilActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".kill.NewKillLocalInfoActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptMainActivity" configChanges="224" label="2131492949" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptionFakeActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptBlackAndWhiteActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".giftware.DownloadAppsActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.IpCallSettingActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.DialogUpdateActivity" theme="2131361794" configChanges="224" launchMode="0">
+<activity screenOrientation="1" name=".express.ExpressSettingActivity" configChanges="224" windowSoftInputMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.express.IdentifyTimePickerActivity" theme="2131361794" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name="kvpioneer.cmcc.ui.IdentifyTimePickerActivity" theme="2131361794" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.DialogDownloadActivity" theme="2131361794" configChanges="224" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.DialogTaskScanActivity" theme="2131361794" configChanges="224" launchMode="0">
+<activity screenOrientation="1" name=".ui.DialogLibUpdateInfo" theme="2131361794" configChanges="224" label="2131492949" launchMode="2">
+<activity screenOrientation="1" name=".ui.DialogLibUpdate" theme="2131361794" configChanges="224" label="2131492949" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="kvpioneer.cmcc.applock.DialogHideActivity" theme="2131361794" configChanges="224" launchMode="3">
+<activity screenOrientation="1" name=".ui.AboutActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".ui.AboutUsActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".ui.DialogClearNotifyActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".ui.ProtocolActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".ui.HelpActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".ui.UserFeedbackActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".ui.ShareActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".ui.ToolActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".ui.widgets.KVWebView" configChanges="224" launchMode="2">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.NoIpcallNumImportActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.ShareBySms_AddContacts_Activity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.ShareBySmsActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.DialogManuallyCreateNoIpcallNumActivity" theme="2131361794" configChanges="224">
+<activity screenOrientation="1" excludeFromRecents="true" name=".ui.NoIpcallNumSettingActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.ImpSmsListActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".ads.BootManageActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptSettingActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptionModSetActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptionAddWords" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptionDisturbModSetActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptionEidtModeActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.BWListAddActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptionWhiteList" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptionBlackList" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptionPhonesignTypeEdit" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptMarkDataActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptMarkStrangeActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".intercept.activity.InterceptReportActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" excludeFromRecents="true" name=".kill.DialogMonitorActivity" theme="2131361794" configChanges="224" launchMode="0">
+<activity screenOrientation="1" excludeFromRecents="true" name=".kill.DialogMutipleVirActivity" theme="2131361794" configChanges="224" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name=".phonesign.activity.StrangeCallActivity" theme="2131361836" configChanges="224" label="2131492949" launchMode="3">
+<activity screenOrientation="1" name=".phonesign.activity.PhonesignMarklistActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".intercept.activity.ImpAddActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".intercept.activity.ImportFromContact" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".guard.BodyGuardProtocolActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".guard.GuardActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".guard.GuardDetailActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".guard.GuardOtherDetailActivity" configChanges="224" windowSoftInputMode="16">
+<activity screenOrientation="1" name=".intercept.activity.MyTimePickerDia" theme="2131361794" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".adstop.AdstopMainActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".adstop.MoreActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".adstop.AdManageDetailActivity" configChanges="224">
+<activity screenOrientation="1" name=".barcode.BarcodeResultActivity" configChanges="224">
+<activity screenOrientation="1" name=".flow.FreePackageTip" configChanges="224">
+<activity screenOrientation="1" name=".clean.TrashClearActivity" configChanges="224">
+<activity screenOrientation="1" name=".phonesign.activity.PhoneSignSetActivity" configChanges="224">
+<activity screenOrientation="1" name=".pushmanage.PushMsgDetailActivity" configChanges="224">
+<activity screenOrientation="1" excludeFromRecents="true" name=".pushmanage.PushMsgNotifyActivity" theme="2131361794" configChanges="224" launchMode="1">
+<activity screenOrientation="1" excludeFromRecents="true" name=".flow.FlowLockScreenActivity" theme="2131361794" configChanges="224" launchMode="1">
+<activity screenOrientation="1" name=".billbutler.BillButlerMainActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".billbutler.BillButlerSetActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".billbutler.BillButlerSetCountryActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".billbutler.BillDetailActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".billbutler.BillPackageActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".billbutler.BillRemindActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".power.PermissionMainActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".power.PermissionSetActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".power.PermissionCategoryChild" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".power.PermissionSoftCategory" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".power.PermissionSoftCategoryChild" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".power.PermissionLogActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".power.FlowPermissionActivity" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name=".speedup.UnIgnoreProcessActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.scanauthorise.ScanAuthoriseActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.movepkg.MovePkgMainActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.uninstallapp.UninstallAppActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.scanauthorise.ScanAuthoriseIgnoreListActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.flow.FlowNewMainActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".speedup.IgnoreProcessNewActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name=".privacy.PrivacyMainActivity" label="2131493776">
+<activity screenOrientation="1" name=".privacy.HomeActivity" label="2131493776">
+<activity screenOrientation="1" name=".privacy.SettingActivity" label="2131493787">
+<activity screenOrientation="1" name=".privacy.pass.UnlockActivity" label="2131493784">
+<activity screenOrientation="1" name=".privacy.pass.UnlockActivity2" label="2131493784" launchMode="3">
+<activity screenOrientation="1" name=".privacy.pass.SettingLockActivity" label="2131493785">
+<activity screenOrientation="1" name=".privacy.pass.SecurityIssueActivity" label="2131493786">
+<activity screenOrientation="1" name=".privacy.MediaPrivacyActivity" label="2131493778">
+<activity screenOrientation="1" name=".privacy.MediaAddLocalActivity" label="2131493789">
+<activity screenOrientation="1" name=".privacy.SelectGroupMediaActivity" label="2131493783">
+<activity screenOrientation="1" name=".privacy.PhotoActivity" theme="16973837" label="2131493788">
+<activity screenOrientation="1" name=".privacy.pass.ForgetPasswordActivity" label="2131493777">
+<activity screenOrientation="1" name=".privacy.FilePrivacyActivity" label="2131493782">
+<activity screenOrientation="1" name=".privacy.FileAddLocalActivity" label="2131493792">
+<activity screenOrientation="1" name="kvpioneer.cmcc.flow.FlowSetTotalActivity" configChanges="224" windowSoftInputMode="3" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.flow.FlowMonthKnotActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.billbutler.BillDetailMoreActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.applock.MainAppLockActivity" configChanges="224" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.applock.MainAppHideActivity" configChanges="224" windowSoftInputMode="19" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.applock.AppLockSettingActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.applock.AppLockTipActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.applock.AppLockTimePickerActivity" theme="2131361794" configChanges="224" label="2131492949">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="cn.sharesdk.demo.wxapi.WXEntryActivity" theme="16973840" configChanges="1184" exported="true">
+<activity screenOrientation="1" name="kvpioneer.cmcc.report.activity.ReportActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.report.activity.AddNumMsgActivity" configChanges="224">
+<activity screenOrientation="1" name="kvpioneer.cmcc.report.activity.AddedPhotoActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.report.activity.AddPhotoActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.report.activity.SelectGroupMediaActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.report.activity.ReportListActivity" configChanges="224" launchMode="2">
+<activity screenOrientation="1" name="kvpioneer.cmcc.report.activity.ReportResultActivity" configChanges="224" launchMode="2">
+31
+<service name=".service.ServiceVerUpdate">
+<service name=".service.ServiceVerDownLoad">
+<service name=".service.ServiceTaskScan">
+<service name=".service.ServiceTimeTick">
+<service name=".service.ServiceRegister">
+<service name=".service.ServiceKvpioneer">
+<service name=".service.ServiceGetCloudSms">
+<service name=".service.ServiceCloudSet">
+<service name=".giftware.DownloadService">
+<service name=".giftware.ServiceUpdateNotify">
+<service name=".service.ExpressIncomingCallService">
+<service name=".service.IncomingCallService">
+<service name=".service.OutgoingCallService">
+<service name=".service.LockScreenService">
+<service name=".service.InstallService">
+<service name=".service.InstallScanService">
+<service name=".power.FirewallSvc">
+<service name="kvpioneer.cmcc.power.PackageService">
+<service name=".adstop.ScanAPKInstallingService">
+<service name=".service.AppInitService">
+<service process=":InitAppPowerPrc" name=".service.InitPowerService">
+<service name=".service.InitIgnoreService">
+<service name=".service.PhoneSignDown">
+<service name=".service.BarcodeThread">
+<service name=".service.UninstallCleanService">
+<service process="kvpioneer.cmcc.processtool" name=".remoteservice.process.ProcessToolServiceRemote">
+<service process=":uninstallPrc" name=".service.uninstallProcess">
+<service name="kvpioneer.cmcc.clean.ClearService" exported="false">
+<service process="kvpioneer.cmcc.scan" name="com.htjf.engine.scan.handle.ScanServiceRemote" label="安全中心扫描服务">
+<service process=":apk_scan" name="kvpioneer.cmcc.clean.sdk.ApkScanService" exported="false" label="ApkScanService">
+<service process=":update" name="com.qihoo.antivirus.update.UpdateService">
+19
+<receiver name=".receiver.ScreenReceiver">
+<receiver name=".receiver.SMSReceiver">
+<receiver name=".receiver.MmsReceiver" permission="android.permission.BROADCAST_WAP_PUSH">
+<receiver name=".receiver.PhoneStatReceiver">
+<receiver name=".receiver.IpCallReceiver">
+<receiver name=".receiver.TELReceiver">
+<receiver name=".receiver.RecevierBoot" label="2131492949">
+<receiver name=".receiver.DateChangeReceiver">
+<receiver name=".receiver.NetChangeReceiver">
+<receiver name=".receiver.ReceiverLocalPrompt">
+<receiver name=".receiver.SimReceiver">
+<receiver name=".giftware.DelGiftNotify">
+<receiver name=".receiver.InstallReceiver">
+<receiver name=".receiver.UninstallReceiver" label="2131492949">
+<receiver name=".receiver.ReceiverShutDown" label="2131492949">
+<receiver name=".receiver.WholeReceiver">
+<receiver name=".receiver.PhonesignReceiver">
+<receiver name=".receiver.DownloadInstallAppsReceiver">
+<receiver description="2131492949" name=".receiver.AdminReceiver" permission="android.permission.BIND_DEVICE_ADMIN" label="2131492949">
+1
+<provider authorities="com.htjf.nullprovider2" name="com.htjf.security.client.NullProvider" grantUriPermissions="true" exported="true">
+Owner: CN=中国移动通信集团广东有限公司, OU=中国移动通信集团广东有限公司, O=中国移动, L=广州, ST=广东, C=CN
+Issuer: CN=中国移动通信集团广东有限公司, OU=中国移动通信集团广东有限公司, O=中国移动, L=广州, ST=广东, C=CN
+Serial number: 4fd9acf9
+Valid from: Thu Jun 14 17:20:57 CST 2012 until: Sat May 21 17:20:57 CST 2112
+Certificate fingerprints: 
+	MD5:5D:A0:27:48:D1:A6:AC:BE:D7:3E:54:EE:63:18:0D:9E
+	SHA1: 84:DE:00:B8:4E:1F:CC:51:9B:1F:8D:0B:15:9D:CA:C6:C8:CD:BD:D2
+	SHA256: F9:AB:01:FD:98:7A:C8:2D:EB:8A:B4:05:DF:08:67:04:AC:86:8C:B7:67:21:CF:D4:CD:C9:51:F2:D3:6D:85:55
+	Signature algorithm name: SHA1withRSA
+	version: 3

@@ -1,0 +1,62 @@
+com.jdbl.ui
+1050001
+1.0.2
+7
+-1
+9
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_WIFI_STATE
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.ACCESS_NETWORK_STATE
+33
+<activity screenOrientation="1" name="com.jdbl.ui.SplashActivity" theme="16973830">
+<activity screenOrientation="1" name="MainActivity">
+<activity screenOrientation="1" name="SearchNearbyHotelActivity">
+<activity screenOrientation="1" name="SearchHotelActivity">
+<activity screenOrientation="1" name="MyOrderListActivity">
+<activity screenOrientation="1" name="BookHotelActivity">
+<activity screenOrientation="1" name="HotelRoomStyleActivity">
+<activity screenOrientation="1" name="HotelCommentsActivity">
+<activity screenOrientation="1" name="HotelDetailsActivity">
+<activity screenOrientation="1" name="HotelIntroductionActivity">
+<activity screenOrientation="1" name="HotelListActivity">
+<activity screenOrientation="1" name="HotelPictureActivity">
+<activity screenOrientation="1" name="MyOrderDetailsActivity">
+<activity screenOrientation="1" name="com.jdbl.calendar.DateWidget" theme="2131296258">
+<activity screenOrientation="1" name="LiveDaySet" theme="2131296258">
+<activity screenOrientation="1" name="LocationOverlay">
+<activity screenOrientation="1" name="CitySetDialog" theme="2131296258">
+<activity screenOrientation="1" name="DistanceSetDialog" theme="2131296258">
+<activity screenOrientation="1" name="PositionSetDialog" theme="2131296258">
+<activity screenOrientation="1" name="SearchHotelListActivity">
+<activity screenOrientation="1" name="SelectHotelSetDialog" theme="2131296258">
+<activity screenOrientation="1" name="SecondSelectHotelSetDialog" theme="2131296258">
+<activity screenOrientation="1" name="AddOrderActivity">
+<activity screenOrientation="1" name="RoomNumSetDialog" theme="2131296258">
+<activity screenOrientation="1" name="GoHotelTimeSetDialog" theme="2131296258">
+<activity screenOrientation="1" name="AddOrderSecondActivity">
+<activity screenOrientation="1" name="OrderSummitDetailsActivity">
+<activity screenOrientation="1" name="OrderSummitResultActivity">
+<activity screenOrientation="1" name="CityMoreSetDialog" theme="2131296258">
+<activity screenOrientation="1" name="UpdateDialog" theme="2131296258">
+<activity screenOrientation="1" name="MyBrowsedHotelActivity">
+<activity screenOrientation="1" name="LiveDateDaySetDialog" theme="2131296258">
+<activity screenOrientation="1" name="CityMoreSetDialogTest" theme="2131296258">
+0
+0
+0
+Owner: CN=jdbl
+Issuer: CN=jdbl
+Serial number: 50b41b89
+Valid from: Tue Nov 27 09:46:49 CST 2012 until: Fri Nov 25 09:46:49 CST 2022
+Certificate fingerprints: 
+	MD5:9A:9C:08:A3:48:69:73:AB:14:FD:1C:7F:17:61:1B:CC
+	SHA1: 16:75:AF:66:F9:70:4E:C7:6A:61:28:C9:17:0C:95:F4:25:72:B4:68
+	SHA256: B2:5F:14:49:64:23:7E:0A:F0:31:F3:B6:F9:DD:17:41:67:62:A4:16:0F:94:F2:A4:48:36:3D:A4:E1:96:5D:18
+	Signature algorithm name: SHA1withRSA
+	version: 3

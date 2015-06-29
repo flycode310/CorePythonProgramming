@@ -1,0 +1,26 @@
+com.holiestar.newscamera
+3
+1.0.3
+8
+13
+4
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+2
+<activity screenOrientation="1" name="com.holiestar.newscamera.MainActivity" theme="16974065" label="2131099648">
+<activity name="com.google.ads.AdActivity" configChanges="4016">
+0
+0
+0
+Owner: CN=SUKI, OU=HOLIESTAR, O=HOLIESTAR, L=TAIWAN, ST=KS, C=TW
+Issuer: CN=SUKI, OU=HOLIESTAR, O=HOLIESTAR, L=TAIWAN, ST=KS, C=TW
+Serial number: e1124aa
+Valid from: Fri May 03 02:55:36 CST 2013 until: Sat Feb 04 02:55:36 CST 2068
+Certificate fingerprints: 
+	MD5:37:AA:EB:E6:33:2A:FF:3B:50:57:D9:B0:17:A8:8A:18
+	SHA1: F2:74:4C:5F:55:93:B7:53:29:FF:37:B7:D6:BC:64:2B:BE:15:65:CC
+	SHA256: 45:A3:BD:BB:5E:83:40:48:6C:30:15:F4:52:D1:88:8B:FA:20:6F:61:52:87:93:A1:B3:D6:82:69:DD:9F:9A:09
+	Signature algorithm name: SHA256withRSA
+	version: 3

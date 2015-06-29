@@ -1,0 +1,61 @@
+com.pdswp.su.smartcalendar
+90
+2.7.4
+8
+8
+15
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+21
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.WelcomeNote" theme="16973831">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.SmartNoteActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.AddNoteActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.LoginActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.RegActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.ForgetActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.BackupNoteActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.AboutNoteActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.HelpActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.AppConfigActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.SetPwdActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.FunctionActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.DonateActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.VoiceActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.MediaActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.DevActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.UserActivity" theme="16973830">
+<activity screenOrientation="1" name="com.pdswp.su.smartcalendar.activity.user.ChangeUserNameActivity" theme="16973830">
+<activity name="com.umeng.fb.ConversationActivity" theme="16973830">
+<activity name="com.umeng.fb.ContactActivity" theme="16973830">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+2
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+3
+<receiver process=":smartcalendering" screenOrientation="1" name="com.pdswp.su.smartcalendar.service.AlarmReceiver">
+<receiver process=":smartcalendering" name="com.pdswp.su.smartcalendar.service.AutoReceiver">
+<receiver name="com.pdswp.su.smartcalendar.widget.NoteAppWidget">
+0
+Owner: CN=suzhenpeng, OU=noname, O=noname, L=nanyang, ST=henan, C=CN
+Issuer: CN=suzhenpeng, OU=noname, O=noname, L=nanyang, ST=henan, C=CN
+Serial number: 4f13efe3
+Valid from: Mon Jan 16 17:37:39 CST 2012 until: Fri Jan 09 17:37:39 CST 2037
+Certificate fingerprints: 
+	MD5:3E:75:6B:40:EF:B3:41:E6:FE:7B:6B:E8:56:A0:C5:D3
+	SHA1: FF:D8:CB:D7:A4:A6:C0:80:C0:04:AF:6F:91:16:9D:04:E8:F4:26:2C
+	SHA256: C5:6A:A2:6B:4A:45:9E:2E:A1:6A:5E:B9:61:EF:95:BD:DA:9E:68:A6:13:3B:38:CF:3D:81:55:C0:9B:E9:90:C6
+	Signature algorithm name: SHA1withRSA
+	version: 3

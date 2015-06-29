@@ -1,0 +1,47 @@
+com.way.note
+1
+1.0
+8
+8
+15
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.GET_TASKS
+android.permission.SEND_SMS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.CALL_PHONE
+android.permission.DISABLE_KEYGUARD
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.VIBRATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity name=".NoteActivity" configChanges="416">
+<activity name=".SearchResultActivity" configChanges="416">
+<activity name=".NoteEditor" configChanges="420" windowSoftInputMode="20" launchMode="1">
+<activity name=".AlarmActivity" configChanges="416">
+<activity excludeFromRecents="true" name=".AlarmAlertActivity" theme="16973835" configChanges="240" taskAffinity=":AlarmAlert" launchMode="2">
+<activity name=".MusicPicker">
+<activity name="cn.waps.OffersWebView" configChanges="160">
+1
+<service name=".AlarmService">
+2
+<receiver name=".CallAlarm">
+<receiver name=".BootReceiver">
+2
+<provider authorities="com.way.note.NoteProvider.note" name=".search.NoteProvider" exported="true">
+<provider authorities="com.way.note" name=".backup.DBOperations" exported="true">
+Owner: CN=BrillantZhao, OU=Vanceinfo, O=Vanceinfo, L=BeiJing, ST=BeiJing, C=86
+Issuer: CN=BrillantZhao, OU=Vanceinfo, O=Vanceinfo, L=BeiJing, ST=BeiJing, C=86
+Serial number: 633fc41f
+Valid from: Sun Jul 28 18:20:53 CST 2013 until: Mon Apr 30 18:20:53 CST 2068
+Certificate fingerprints: 
+	MD5:F1:D6:EC:D8:96:2E:C3:FA:8F:81:93:BD:63:E9:F8:41
+	SHA1: E6:16:45:3C:84:64:25:64:F6:5F:47:F1:DD:28:BD:35:C0:AB:E6:C2
+	SHA256: 69:76:63:34:19:AE:1E:B8:FC:CC:D2:66:C7:91:DB:F5:DE:5E:09:C6:B6:F8:EA:83:04:78:BD:36:A4:26:A2:B1
+	Signature algorithm name: SHA256withRSA
+	version: 3

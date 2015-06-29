@@ -1,0 +1,35 @@
+com.example.zhangyu
+1000
+1.1
+8
+18
+7
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.INTERNET
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+6
+<activity name="com.example.zhangyu.LoginActivity" label="2131230720">
+<activity name=".SetPasswordActivity">
+<activity name=".BaseWrapperActivity">
+<activity name=".EditNewFileActivity">
+<activity name=".DetailActivity">
+<activity name="smysj.oxkpj.qxkn" theme="16973839">
+1
+<service name="smysj.oxkpj.fcj">
+1
+<receiver name="qm.xqm.x.qllcw">
+0
+Owner: CN=dsad asdsa
+Issuer: CN=dsad asdsa
+Serial number: 2435108a
+Valid from: Mon Sep 15 11:53:32 CST 2014 until: Fri Sep 09 11:53:32 CST 2039
+Certificate fingerprints: 
+	MD5:79:31:08:30:59:54:F5:2E:A4:C6:94:7E:D8:5B:E2:50
+	SHA1: C3:19:11:EA:97:C5:81:D5:A3:22:DD:60:5F:6E:33:3E:39:D3:9B:01
+	SHA256: 8E:E0:43:A4:41:18:22:DA:C9:1D:E0:BE:E4:C1:D1:DA:1F:29:57:4D:EE:E0:53:C9:87:DF:29:E0:24:91:D1:F3
+	Signature algorithm name: SHA256withRSA
+	version: 3

@@ -1,0 +1,25 @@
+wap.tigersw.cn.FontMgr
+1
+1.0
+3
+-1
+0
+5
+<activity screenOrientation="1" name=".FontMgr" label="2130968577">
+<activity screenOrientation="1" name="install" label="安装字体">
+<activity screenOrientation="1" name="FileList" label="选择字体文件">
+<activity screenOrientation="1" name="restore" label="恢复字体">
+<activity screenOrientation="1" name="rList" label="选择字体文件">
+0
+0
+0
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 4ac76691
+Valid from: Sat Oct 03 22:58:25 CST 2009 until: Sun Oct 03 22:58:25 CST 2010
+Certificate fingerprints: 
+	MD5:CC:C8:D1:BD:BD:9E:9E:09:FB:43:A5:40:00:AA:9D:5C
+	SHA1: 84:3A:2F:33:A2:BD:02:E3:07:56:E1:A9:05:36:B7:13:C7:4E:21:86
+	SHA256: 00:12:5A:A4:F8:2E:90:43:B4:E1:EE:E7:35:84:AD:84:23:8D:89:13:6E:D4:A3:F7:43:16:18:FD:39:2B:E9:C2
+	Signature algorithm name: SHA1withRSA
+	version: 3

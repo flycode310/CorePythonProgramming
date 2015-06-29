@@ -1,0 +1,232 @@
+com.gdctl0000
+45
+2.3.8
+8
+19
+26
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.WRITE_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.ACCESS_GPS
+android.permission.READ_SMS
+android.permission.CAMERA
+android.permission.SYSTEM_OVERLAY_WINDOW
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+com.gdctl0000.permission.PUSH_SERVICE
+bearing.permission.push.service
+android.permission.SEND_SMS
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+175
+<activity screenOrientation="1" name=".SplashActivity" theme="16973834" label="2131361792">
+<activity screenOrientation="1" name=".MainNewActvity" theme="16973834" launchMode="2">
+<activity screenOrientation="1" name=".LoginActivity" launchMode="2">
+<activity screenOrientation="1" name=".DialogWarning" theme="2131492874" launchMode="2">
+<activity screenOrientation="1" name=".DwImg" theme="2131492875" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeList" launchMode="2">
+<activity screenOrientation="1" name=".Act_Flow_Wap" launchMode="2">
+<activity screenOrientation="1" name=".Act_Charge_Ok" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeNew" launchMode="2">
+<activity screenOrientation="1" name=".DailyFlowActivity" launchMode="2">
+<activity screenOrientation="1" name=".Act_FaultDetail" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeCard" launchMode="2">
+<activity screenOrientation="1" name=".Act_ComplaintDetail" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeOne" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeTwo" launchMode="2">
+<activity screenOrientation="1" name=".Act_FaultList" launchMode="2">
+<activity screenOrientation="1" name=".Act_Function" launchMode="2">
+<activity screenOrientation="1" name=".Act_Fault" launchMode="2">
+<activity screenOrientation="1" name=".Act_ComplaintList" launchMode="2">
+<activity screenOrientation="1" name=".activity.preferential.Act_preferential" launchMode="2">
+<activity screenOrientation="1" name=".activity.password.Act_changePassword" launchMode="2">
+<activity screenOrientation="1" name=".activity.password.Act_changePassword_first" launchMode="2">
+<activity screenOrientation="1" name=".activity.password.Act_changePassword_second" launchMode="2">
+<activity screenOrientation="1" name=".activity.password.Act_changePassword_third" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeThree" launchMode="2">
+<activity screenOrientation="1" name=".Act_InstallMoveDetail" launchMode="2">
+<activity screenOrientation="1" name=".Act_InstallMoveDetailNew" launchMode="2">
+<activity screenOrientation="1" name=".Act_InstallMove" launchMode="2">
+<activity screenOrientation="1" name=".Act_InstallMoveEvaluate" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeFour" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeOk" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeError" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChargeBankList" launchMode="2">
+<activity screenOrientation="1" name=".Act_3GCharge" launchMode="2">
+<activity screenOrientation="1" name=".Act_3GCardQuery" launchMode="2">
+<activity screenOrientation="1" name=".FlowQueryActivity" launchMode="2">
+<activity screenOrientation="1" name=".SpendQueryActivity" launchMode="2">
+<activity screenOrientation="1" name=".AddedServiceActivity" launchMode="2">
+<activity screenOrientation="1" name=".Act_ServiceList" launchMode="2">
+<activity screenOrientation="1" name=".TabMain" launchMode="2">
+<activity screenOrientation="1" name=".ChargeBillListActivity" launchMode="2">
+<activity screenOrientation="1" name=".activity.business.Act_BusinessProcess" launchMode="2">
+<activity screenOrientation="1" name=".Act_3GFlowQurey" launchMode="2">
+<activity screenOrientation="1" name=".Act_AreaCode" launchMode="2">
+<activity screenOrientation="1" name=".El_Main_Detail" launchMode="2">
+<activity screenOrientation="1" name=".Act_Flow" launchMode="2">
+<activity screenOrientation="1" name=".Act_Complaint" launchMode="2">
+<activity screenOrientation="1" name=".Act_Charge_Log2" launchMode="2">
+<activity screenOrientation="1" name=".Act_Charge_Log1" launchMode="2">
+<activity screenOrientation="1" name=".Act_Wap_New" launchMode="2">
+<activity screenOrientation="1" name=".Act_Wap" launchMode="2">
+<activity screenOrientation="1" name=".Act_OnlineBooking_Wap" launchMode="2">
+<activity screenOrientation="1" name=".activity.business.Act_BusinessSetList" windowSoftInputMode="34" launchMode="2">
+<activity screenOrientation="1" name=".Act_ServiceConveList" launchMode="2">
+<activity screenOrientation="1" name=".Act_FlowQuery" launchMode="2">
+<activity screenOrientation="1" name=".Act_ChangePhone" launchMode="2">
+<activity screenOrientation="1" name=".Act_ServiceYingYe" launchMode="2">
+<activity screenOrientation="1" name=".Act_ServiceYingYeList" launchMode="2">
+<activity screenOrientation="1" name=".Act_ServiceYingYeDetail" launchMode="2">
+<activity screenOrientation="1" name=".MapActivity" theme="16973834" launchMode="2">
+<activity screenOrientation="1" name=".CaptureActivity" theme="16973831">
+<activity screenOrientation="1" name="com.gdctl0000.activity.qualityapplications.Act_QualityApplication" launchMode="2">
+<activity screenOrientation="1" name=".activity.qualityapplications.Act_Recommend" launchMode="2">
+<activity screenOrientation="1" name=".activity.qualityapplications.Act_Ranking" launchMode="2">
+<activity screenOrientation="1" name=".activity.qualityapplications.Act_TianYi" launchMode="2">
+<activity screenOrientation="1" name="com.gdctl0000.activity.qualityapplications.Act_APPDetails" launchMode="2">
+<activity screenOrientation="1" name="com.gdctl0000.activity.qualityapplications.Act_Classification" launchMode="2">
+<activity screenOrientation="1" name="com.gdctl0000.activity.qualityapplications.Act_ClassificationDetails" launchMode="2">
+<activity screenOrientation="1" name="com.gdctl0000.activity.qualityapplications.Act_Management" launchMode="2">
+<activity screenOrientation="1" name=".Act_UserInfo" launchMode="2">
+<activity screenOrientation="1" name=".Act_InstallMoveList" launchMode="2">
+<activity screenOrientation="1" name=".Act_InstallMoveListNew" launchMode="2">
+<activity screenOrientation="1" name=".Act_Service_Wifi" launchMode="2">
+<activity screenOrientation="1" name=".Act_Service_Scan">
+<activity screenOrientation="1" name=".Act_MyYouHui" launchMode="2">
+<activity screenOrientation="1" name="com.gdctl0000.app.Act_base" theme="2131492868" launchMode="2">
+<activity screenOrientation="1" name=".Act_FlowDetail">
+<activity screenOrientation="1" name=".Act_SpendYecx1" launchMode="2">
+<activity screenOrientation="1" name=".PersonalCenterActivity" launchMode="2">
+<activity screenOrientation="1" name=".Act_SpendYecx2" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyYouHuiYeDetail" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyPackage_CardMain" launchMode="2">
+<activity screenOrientation="1" name=".Act_4g_New" launchMode="2">
+<activity name="com.gdctl0000.activity.qualityapplications.Act_declare" theme="2131492874">
+<activity name="com.gdctl0000.view.Wz3gDialog" theme="2131492874">
+<activity screenOrientation="1" name="com.gdctl0000.activity.qualityapplications.Act_Search" launchMode="2">
+<activity screenOrientation="1" name="com.gdctl0000.activity.qualityapplications.Act_SearchDetails" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyTaoCan" launchMode="2">
+<activity screenOrientation="1" name=".Convert_Add_Activity" launchMode="2">
+<activity screenOrientation="1" name=".ConvertAccAddressActivity" launchMode="2">
+<activity screenOrientation="1" name=".ConvertActivity" launchMode="2">
+<activity screenOrientation="1" name=".ConvertCollect" launchMode="2">
+<activity screenOrientation="1" name=".ConvertInfoActivity" launchMode="2">
+<activity screenOrientation="1" name=".ConvertMainActivity" launchMode="2">
+<activity screenOrientation="1" name=".ConvertOrderSearch" launchMode="2">
+<activity screenOrientation="1" name=".ConvertSearchResult" launchMode="2">
+<activity screenOrientation="1" name=".ConvertShipActivity" launchMode="2">
+<activity screenOrientation="1" name=".ConvertSortResult" launchMode="2">
+<activity screenOrientation="1" name=".Act_IreadTab" launchMode="2">
+<activity screenOrientation="1" name=".Act_IreadList" launchMode="2">
+<activity screenOrientation="1" name=".IreadDetailActivity" launchMode="2">
+<activity screenOrientation="1" name=".IreadVoiceActivity" launchMode="2">
+<activity screenOrientation="1" name=".IreadManagerActivity" launchMode="2">
+<activity screenOrientation="1" name=".Act_MusicTab" launchMode="2">
+<activity screenOrientation="1" name=".CallDivertActivity" launchMode="2">
+<activity screenOrientation="1" name=".Act_MusicList" launchMode="2">
+<activity screenOrientation="1" name="com.gdctl0000.activity.preferential.Act_winning" launchMode="2">
+<activity screenOrientation="1" name=".IMusicDetailActivity" launchMode="2">
+<activity screenOrientation="1" name=".Act_AddFlow" launchMode="2">
+<activity name=".IMusicDialogActivity" theme="2131492874">
+<activity screenOrientation="1" name=".activity.business.Act_BusinessList2" launchMode="2">
+<activity screenOrientation="1" name=".activity.business.Act_BusinessDetail" launchMode="2">
+<activity screenOrientation="1" name=".UpdateDialog" theme="2131492874" launchMode="2">
+<activity screenOrientation="1" name=".DialogMsg" theme="2131492874" launchMode="2">
+<activity screenOrientation="1" name=".Act_NewYouHuiDetail" launchMode="2">
+<activity screenOrientation="1" name=".Act_Setting" launchMode="2">
+<activity screenOrientation="1" name=".AboutActivity" launchMode="2">
+<activity screenOrientation="1" name=".FeedbackActivity" launchMode="2">
+<activity screenOrientation="1" name=".SpendListActivity" launchMode="2">
+<activity screenOrientation="1" name=".SpendListDetailActivity" launchMode="2">
+<activity screenOrientation="1" name=".Act_Person_Business" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyPackage" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyPackageLX" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyPackageJM" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyPackageLX_Detail" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyPackage_CardAddress" launchMode="2">
+<activity screenOrientation="1" name="com.gdctl0000.activity.preferential.Act_Calls" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name=".ExperienceHall" launchMode="2">
+<activity screenOrientation="1" name=".Life4G" launchMode="2">
+<activity screenOrientation="1" name="com.gdctl0000.activity.qualityapplications.Life4GMore" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyPackageDialogLx" theme="2131492874" launchMode="2">
+<activity screenOrientation="1" name=".Act_MyPackageDialogJm" theme="2131492874" launchMode="2">
+<activity screenOrientation="1" name=".TestActivity" launchMode="2">
+<activity screenOrientation="1" name=".broadband.Act_InstallOne" launchMode="2">
+<activity screenOrientation="1" name=".broadband.Act_InstallOk" launchMode="2">
+<activity screenOrientation="1" name=".broadband.Act_InstallError" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_MainAct" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_RadarScanMainAct" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_LinkManAct" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_AddressListAct" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_QRcode" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_QRcodeOp" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_SendFlowFinishAct" theme="2131492874" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_Q_Flow" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_Circle" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_SendRecordAct" launchMode="2">
+<activity screenOrientation="1" name=".sendflow.SF_RuleIntroAct" launchMode="2">
+<activity screenOrientation="1" name=".electron.El_Main" launchMode="2">
+<activity screenOrientation="1" name=".electron.El_Main_Detail" launchMode="2">
+<activity screenOrientation="1" name=".ContactsActivity" launchMode="2">
+<activity name=".ContactsBackupActivity" theme="2131492874">
+<activity name=".ContactsRecoverActivity" theme="2131492874">
+<activity name=".ContactsTipActivity" theme="2131492874">
+<activity name=".ShareActivity" theme="2131492874">
+<activity name=".ShareDialogActivity" theme="2131492874">
+<activity name=".ShareBusinessSMSActivity" theme="2131492874">
+<activity name=".ShareBusinessActivity" theme="2131492874">
+<activity name=".ShareConvertActivity" theme="2131492874">
+<activity name=".ShareConvertSMSActivity" theme="2131492874">
+<activity name=".ShareAPPActivity" theme="2131492874">
+<activity name=".ShareAPPSMSActivity" theme="2131492874">
+<activity name=".SetLiuliangActivity" theme="2131492874">
+<activity name=".Set3GUserActivity" theme="2131492874">
+<activity name=".ShareNewYouHuiActivity" theme="2131492874">
+<activity name=".ShareNewYouHuiSMSActivity" theme="2131492874">
+<activity name=".Act_liuliangtixing" theme="2131492874">
+<activity name=".Act_yuetixing" theme="2131492874">
+<activity name=".WgLoginActivity" theme="2131492874">
+<activity name=".MessageManagerMenuActivity">
+<activity name=".WebViewActivity">
+<activity name=".WebViewShopActivity">
+<activity name=".WebViewDDCXActivity">
+<activity name="Act_nearTheOperatingRoom">
+<activity screenOrientation="1" excludeFromRecents="true" name="com.unionpay.uppay.PayActivity" configChanges="160" label="2131361792" windowSoftInputMode="16">
+<activity name="com.gdctl0000.speedmeasure.Act_SpeedMeasure">
+5
+<service name=".service.DownloadService">
+<service name=".widget.WgService">
+<service name=".service.PushService" permission="com.gdctl0000.permission.PUSH_SERVICE">
+<service process=":BearingPushService" name="us.bestapp.bearing.PushService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+6
+<receiver name="com.gdctl0000.activity.qualityapplications.BroadRecevier" label="2131361792">
+<receiver name=".service.ConnectionService">
+<receiver name="com.gdctl0000.widget.GrayWidget" label="2131361792">
+<receiver name="com.gdctl0000.service.BootReceiver">
+<receiver name=".service.MyBearingPushReceiver">
+<receiver process=":BearingPushService" name="us.bestapp.bearing.push3.ReStartServiceBroadcastReceiver">
+0
+Owner: CN=广东电信, OU=广东电信, O=广东电信, L=广州, ST=广东, C=86
+Issuer: CN=广东电信, OU=广东电信, O=广东电信, L=广州, ST=广东, C=86
+Serial number: 4db41804
+Valid from: Sun Apr 24 20:31:00 CST 2011 until: Mon Jan 25 20:31:00 CST 2066
+Certificate fingerprints: 
+	MD5:B6:B8:F5:57:BD:BB:7A:E2:CE:97:50:93:B7:8E:7B:2A
+	SHA1: F8:E4:8D:86:48:31:C5:AE:87:3F:A1:16:AD:74:27:29:75:E2:1E:AC
+	SHA256: AE:8C:54:EB:C8:82:FE:CE:BD:7E:73:F0:AD:08:80:24:F3:6D:50:0A:7A:F5:5A:E4:92:29:EE:F9:DE:8A:17:16
+	Signature algorithm name: SHA1withRSA
+	version: 3

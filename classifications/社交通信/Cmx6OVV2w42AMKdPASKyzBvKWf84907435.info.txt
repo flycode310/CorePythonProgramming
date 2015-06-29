@@ -1,0 +1,110 @@
+dopool.player
+84
+6.0.2
+8
+20
+28
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.CHANGE_WIFI_MULTICAST_STATE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+getui.permission.GetuiService.dopool.player
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.READ_CALENDAR
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.SEND_SMS
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.WRITE_CALENDAR
+android.permission.RECEIVE_USER_PRESENT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+45
+<activity screenOrientation="1" name=".SplashActivity" theme="2131493101" label="2131427344">
+<activity icon="2130837718" screenOrientation="1" name="com.starschina.dopool.main.MainActivity" theme="2131493102" configChanges="1184" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" name="com.starschina.dopool.specialdetails.SpecialDetailsActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.guide.GuideActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.recommendation.LabelsActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.search.SearchActivity" theme="16973840" launchMode="1">
+<activity screenOrientation="1" name="com.starschina.dopool.search.SearchResultActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.starschina.dopool.hotspot.VideoListActivity" configChanges="1184" launchMode="1">
+<activity screenOrientation="1" name="com.starschina.dopool.column.ColumnActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.channelfenlei.ChannelfenleiActivity" theme="2131493053" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.actions.ActionsActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.columns.ColumnsActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.webshow.WebViewActivity" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="0" name="com.starschina.dopool.webshow.VideoWebViewActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.push.TextPushActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.favorite.FavoriteActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.record.RecordActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.setting.SettingActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.setting.AboutActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.downloadcenter.DownloadCenterActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.epg.EpgActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.todayrecomment.TodayRecommendActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.cooperation.CooperationActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.login.LoginActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.cooperation.ChannelActivity" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.phonelogin.PhoneLoginActivity" theme="16973833" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.forgetpwd.ForgetPasswordActivity" theme="16973833" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.userinfomation.UserCenterActivtiy" theme="2131493102" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.editname.EditNikeNameActivity" theme="16973833" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.editadress.EditAdressActivity" theme="16973833" configChanges="1184">
+<activity screenOrientation="1" name="com.starschina.dopool.taobaoapp.TaobaoAppActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.starschina.dopool.share.ShareActivity" configChanges="1184">
+<activity name="com.starschina.dopool.webshow.GoldMallActivity">
+<activity screenOrientation="1" name="com.starschina.dopool.reserved.ReservedActivity" configChanges="1184">
+<activity screenOrientation="0" name="com.starschina.dopool.player.MediaPlayerActivity" configChanges="1184" launchMode="2">
+<activity screenOrientation="1" name="com.starschina.dopool.specialplayer.SpecialPlayerActivity" configChanges="1184" launchMode="2">
+<activity name="com.tencent.connect.avatar.ImageActivity">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="160">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.taobao.newxp.view.UMDetail" configChanges="144" launchMode="0">
+<activity screenOrientation="1" hardwareAccelerated="true" name="com.taobao.newxp.view.handler.umwall.AlimamaWall" configChanges="144" launchMode="2">
+<activity name="com.sina.weibo.sdk.component.WeiboSdkBrowser" configChanges="160" exported="false" windowSoftInputMode="16">
+<activity screenOrientation="1" name="dopool.player.wxapi.WXEntryActivity" theme="16973840" configChanges="160" exported="true" launchMode="1">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.sdk.PushActivity" theme="16973840" exported="false" taskAffinity="com.igexin.sdk.PushActivityTask">
+<activity process=":pushservice" excludeFromRecents="true" name="com.igexin.getuiext.activity.GetuiExtActivity" theme="16973840" configChanges="176" exported="false" taskAffinity="android.task.myServicetask">
+8
+<service process=":push" name="dopool.push.PushMessageService" exported="true">
+<service name="com.starschina.dopool.downloadcenter.DownloadService">
+<service process=":DownloadingService" name="com.taobao.munion.base.download.DownloadingService" exported="true">
+<service name="com.sina.weibo.sdk.net.DownloadService" exported="false">
+<service process="com.chance.AdService" name="com.chance.engine.AdService" exported="true">
+<service process=":pushservice" name="com.igexin.sdk.PushService" exported="true" label="NotificationCenter">
+<service process=":pushservice" name="com.igexin.download.DownloadService">
+<service process=":pushservice" name="com.igexin.getuiext.service.GetuiExtService">
+8
+<receiver name="dopool.push.PushConnectivityReceiver" exported="true">
+<receiver name="com.starschina.reserver.ReserveReceiver">
+<receiver name="com.starschina.push.PushNotification" exported="false">
+<receiver name="com.starschina.push.PushGTReceiver" exported="false">
+<receiver name="com.igexin.sdk.PushReceiver">
+<receiver name="com.igexin.sdk.PushManagerReceiver" exported="false">
+<receiver name="com.igexin.download.DownloadReceiver">
+<receiver name="com.igexin.getuiext.service.PayloadReceiver" exported="false">
+1
+<provider process=":pushservice" authorities="downloads.dopool.player" name="com.igexin.download.DownloadProvider">
+Owner: CN=Bin Li, OU=Inc, O=Dopool, L=Beijing, ST=Beijing, C=CN
+Issuer: CN=Bin Li, OU=Inc, O=Dopool, L=Beijing, ST=Beijing, C=CN
+Serial number: 4ae1780f
+Valid from: Fri Oct 23 17:31:59 CST 2009 until: Sun Sep 29 17:31:59 CST 2109
+Certificate fingerprints: 
+	MD5:4D:69:A9:40:30:7F:DC:6B:C6:7B:C0:85:55:08:29:9E
+	SHA1: BD:98:D0:67:E9:D4:AC:71:30:A4:66:6C:6A:E2:AF:31:42:F0:E2:34
+	SHA256: A5:45:CB:E0:CF:DC:FF:75:9B:E1:E3:FA:12:C0:0E:5D:0D:D1:30:21:56:60:B5:B0:B0:3F:8B:66:D1:AE:A8:90
+	Signature algorithm name: SHA1withRSA
+	version: 3

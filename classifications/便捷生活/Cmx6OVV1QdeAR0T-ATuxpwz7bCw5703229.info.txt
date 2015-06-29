@@ -1,0 +1,211 @@
+com.apricotforest.dossier
+46
+4.2.1
+11
+21
+34
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.BROADCAST_STICKY
+android.permission.ACCESS_DOWNLOAD_MANAGER
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.BATTERY_STATS
+android.permission.KILL_BACKGROUND_PROCESSES
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.RECEIVE_USER_PRESENT
+android.permission.DISABLE_KEYGUARD
+android.permission.BLUETOOTH
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+com.apricotforest.dossier.permission.MIPUSH_RECEIVE
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+android.permission.CHANGE_CONFIGURATION
+139
+<activity name="com.xingshulin.push.PushMessagesBridgeActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.MainLoadingActivity" theme="16973831" configChanges="160" label="2131427674">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.UnRelatedListActivity" configChanges="160">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.NewCaseActivity" configChanges="160" windowSoftInputMode="35" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.BaseInformationActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.PatientInforActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.OtherActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.FollowUpSchematicActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupChatHistoryActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.AddFollowUpPatientActivity" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupAddPatientActivity" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupPatientSetActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupImportedPatientsActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.manage.FollowupManageActivity" launchMode="1">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.manage.FollowupIntroductionActivity" launchMode="1">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.manage.VisitsTimeActivity" launchMode="1">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.manage.SelectGroupSendPatientActivity" launchMode="1">
+<activity screenOrientation="1" name="com.apricotforest.dossier.discover.MedicalCircleActivity" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.discover.MyPeerActivity" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.discover.XSLWorldActivity" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.discover.PeerMessageActivity" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.AttachmentActivity" configChanges="160" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.SearchRecordActivity" windowSoftInputMode="5">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.WebViewActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FormWebViewActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupChatActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.LinkRecordActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.DiagnosisActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.GuideWebViewActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.ViewPagerActivity" theme="16973831">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.set.SdManageActivity">
+<activity screenOrientation="0" name="com.apricotforest.dossier.activity.VideoViewPlayingActivity" theme="16973831" configChanges="160" exported="true" label="PlayingActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.ocr.OcrTxtActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.BrowseDossierActivity" exported="true" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.BrowseDossierMoreActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.SlidingViewPagerActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.VideoRecordActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.ContinuousCaptureActivity" configChanges="160">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.RemindManageActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.RemindActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.AddRemindActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.ShortcutsAddRemindActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.TxtActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.IndexPdActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.SetPdActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.OpenPdActivity" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.ImageGridViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.AttachViewPagerActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.ShareContinuousCaptureActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.ShareTxtActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.ShareDetailsActivity" configChanges="160" windowSoftInputMode="19">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.friends.ShareUserDetailed">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.friends.AddFriendsActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.friends.ManageShareGruopActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.friends.AddShareGroupUserActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.friends.SelectMobilShareActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.NewShare" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.SharetoListActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.ShareMedicalListActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.ShareImageGridViewActivity" configChanges="160">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.CheckToUser">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.ShareViewPagerActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.share.ShareAttachViewPagerActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.MainTabActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.SelectAttachmentTypeActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.TagListActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.EditTagActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.SelectFormActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.FormWebViewActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.ManageTagActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.GlobalNotificationDialogActivity" theme="16973839">
+<activity screenOrientation="1" name="com.apricotforest.dossier.activity.set.PushManageActivity">
+<activity screenOrientation="1" name="com.ApricotforestCommon.Brower.URLBrowerByTitleActivity" configChanges="128">
+<activity screenOrientation="1" name="com.ApricotforestCommon.Brower.URLBrowerActivity" configChanges="128">
+<activity screenOrientation="1" name="com.ApricotforestCommon.picShow.PicDealActivity" configChanges="128">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.LoginActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.QuickLoginActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.RegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.RegisterSecondActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.RegisterThirdActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.RegisterForthActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.FindPwdActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.UpdatePasswordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.ResetPasswordActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.TurnToDoctorManagerActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.TieMobileActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.TieEmailActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.UserInfoManagerActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.UserVerityActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.SpecialClass.SpecialistActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.SpecialClass.SpecialListV2Activity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.DoctorLicenceAuthActivity" configChanges="128" label="2131427674" launchMode="2">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.MobileActiveByLoginActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.MobileActiveByRegActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.EmailActiveActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.SMSVerifyRegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.ApricotforestUserManage.SMSRegisterActivity" configChanges="160">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.usercenter.more.MoreActivity" configChanges="128" label="2131427674" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.usercenter.more.SettingActivity" configChanges="128" label="2131427674" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.usercenter.more.SetImgQualityActivity" configChanges="128" label="2131427674" launchMode="2">
+<activity name="com.apricotforest.dossier.wxapi.WXEntryActivity" theme="16973841" exported="true" label="2131427674">
+<activity name="com.baidu.cloudsdk.social.share.handler.LocalShareActivity" launchMode="2">
+<activity screenOrientation="1" name="com.baidu.cloudsdk.social.oauth.SocialOAuthActivity" theme="16973841" exported="true">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupChatImageGridActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupChatCaptureActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.solution.FollowupSolutionListActivity" launchMode="1">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.solution.FollowupUserdefinedSolutionPreviewActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.solution.FollowupCustomizedSolutionActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.solution.FollowupUserDefinedSolutionModifyActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.activity.main.TemplateBaseinfoActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.solution.FollowupSetStartTimeActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.manage.FollowupGroupNotificationHistoryActivity" launchMode="2">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.manage.FollowupGroupNotificationActivity" windowSoftInputMode="20">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupImageFullViewActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.solution.FollowupSolutionStoreActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.solution.FollowupSolutionStoreItemDetails">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.resource.patienteducation.FollowupPatientEducationListActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.resource.patienteducation.FollowupDiseaseListActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.resource.patienteducation.FollowupPatientEducationStoreListActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.resource.patienteducation.FollowupPatientEducationDetailsActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.resource.FollowupResourcePreviewActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupEditPatientContactActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.ContactRelationshipActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupPatientActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupSettingActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupSolutionScheduleListActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.PatientContactEditActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupPatientFillChartListActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupSolutionChooseActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.medicalrecord.usercenter.FeedbackLocalActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FeedbackWebViewActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.BannerWebViewActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.FollowupToolBoxActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.personalsite.FollowupPersonalSiteActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.personalsite.FollowupPersonalSiteBasicInfoActivity">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.personalsite.FollowupPersonalSiteWebView">
+<activity screenOrientation="1" name="com.apricotforest.dossier.followup.personalsite.FollowupPersonalSiteInfoEditActivity">
+<activity name="com.tencent.android.tpush.XGPushActivity" theme="16973839" exported="true">
+<activity name="com.umeng.update.UpdateDialogActivity" theme="16973840">
+10
+<service name="com.tencent.android.tpush.rpc.XGRemoteService" exported="true">
+<service name="com.apricotforest.dossier.sync.UploadService">
+<service name="com.apricotforest.dossier.sync.DownloadService">
+<service name="com.ApricotforestCommon.UpdateApk.UpdateAppService">
+<service name="com.apricotforest.dossier.followup.UploadImageService">
+<service process=":pushservice" enabled="true" name="com.xiaomi.push.service.XMPushService">
+<service enabled="true" name="com.xiaomi.mipush.sdk.PushMessageHandler" exported="true">
+<service enabled="true" name="com.xiaomi.mipush.sdk.MessageHandleService">
+<service process=":xg_service_v2" persistent="true" name="com.tencent.android.tpush.service.XGPushService" exported="true">
+<service process=":DownloadingService" name="com.umeng.update.net.DownloadingService">
+8
+<receiver name="com.apricotforest.dossier.activity.messge.XSLPushMessageReceiver" exported="true">
+<receiver name="com.apricotforest.dossier.service.Alarmreceiver">
+<receiver name="com.apricotforest.dossier.service.BootBroadcastReceiver">
+<receiver name="com.xiaomi.push.service.receivers.NetworkStatusReceiver" exported="true">
+<receiver process=":pushservice" name="com.xiaomi.push.service.receivers.PingReceiver" exported="false">
+<receiver name="com.xingshulin.push.MiPushMessageReceiver" exported="true">
+<receiver process=":xg_service_v2" name="com.tencent.android.tpush.XGPushReceiver">
+<receiver name="com.xingshulin.push.XGPushMessageReceiver">
+0
+Owner: CN=病历夹, OU=杏树林, O=杏树林信息技术（北京）有限公司, L=北京, ST=北京, C=86
+Issuer: CN=病历夹, OU=杏树林, O=杏树林信息技术（北京）有限公司, L=北京, ST=北京, C=86
+Serial number: 51c7d016
+Valid from: Mon Jun 24 12:50:30 CST 2013 until: Fri Jun 18 12:50:30 CST 2038
+Certificate fingerprints: 
+	MD5:5B:29:C0:CF:7C:7E:B3:6E:48:6D:C2:98:24:67:CB:69
+	SHA1: 1F:05:72:5B:38:40:60:5E:3F:85:B1:56:A5:61:B1:C2:04:24:08:BD
+	SHA256: 34:16:4F:A7:05:93:92:1B:C5:D9:63:07:51:84:80:F2:7E:80:9C:D5:F1:82:7F:BD:F8:69:2F:DC:D4:DA:EB:B2
+	Signature algorithm name: SHA1withRSA
+	version: 3

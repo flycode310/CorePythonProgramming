@@ -1,0 +1,53 @@
+com.feistma.videoonline.flash
+100
+1.0.0
+5
+-1
+11
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.WAKE_LOCK
+android.permission.ACCESS_NETWORK_STATE
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+18
+<activity screenOrientation="1" name="com.appoffer.videoonline.Welcome" theme="16973838" configChanges="176" label="2131099649">
+<activity screenOrientation="1" name="com.appoffer.videoonline.VideoOnlineActivity" label="2131099649" launchMode="2">
+<activity screenOrientation="1" name="com.appoffer.videoonline.VideoDetailActivity" configChanges="176">
+<activity screenOrientation="0" name="com.appoffer.videoonline.VideoPlayer" theme="16973830">
+<activity name="android.eikitlyyt.appoffer.CommonAOActivity" theme="16973830">
+<activity screenOrientation="1" name="android.eikitlyyt.appoffer.CommonPActivity" theme="16973835" configChanges="176">
+<activity name="com.mobclick.android.UmengFeedback">
+<activity name="com.feedback.ui.SendFeedback" windowSoftInputMode="16">
+<activity name="com.feedback.ui.FeedbackConversations">
+<activity name="com.feedback.ui.FeedbackConversation" configChanges="16">
+<activity screenOrientation="1" name="com.appoffer.videoonline.Activity1">
+<activity screenOrientation="1" name="com.appoffer.videoonline.SetActivity">
+<activity screenOrientation="1" name="com.appoffer.videoonline.VideoListActivity">
+<activity screenOrientation="1" name="com.appoffer.videoonline.HistroyActivity">
+<activity screenOrientation="1" name="com.appoffer.videoonline.SearchActivity">
+<activity name="com.appoffer.videoonline.download.DownloadActivity" launchMode="2">
+<activity screenOrientation="1" name="com.appoffer.videoonline.download.ChooseEpisodeActivity">
+<activity screenOrientation="0" name="com.appoffer.videoonline.ui.NewVideoPlayer" theme="16973830">
+2
+<service name="android.eikitlyyt.CommonPService">
+<service name="com.andfly.download.DownloadService">
+2
+<receiver name="android.eikitlyyt.CommonInstallReceiver">
+<receiver name="com.appoffer.videoonline.download.GlobDownloadReceiver">
+0
+Owner: CN=android, OU=ywwap, O=azrj, L=guangzhou, ST=guangdong, C=zh
+Issuer: CN=android, OU=ywwap, O=azrj, L=guangzhou, ST=guangdong, C=zh
+Serial number: 4ea528dc
+Valid from: Mon Oct 24 16:59:08 CST 2011 until: Tue Jul 27 16:59:08 CST 2066
+Certificate fingerprints: 
+	MD5:14:D4:34:49:5B:7B:FD:0B:19:39:0C:F5:25:84:5F:B4
+	SHA1: 71:17:AF:F0:34:F2:AE:75:D4:F0:D9:D9:17:85:C6:42:38:AB:A8:F2
+	SHA256: 58:7F:52:B8:7C:E0:FF:88:EF:3F:AB:87:09:85:F3:8E:91:9C:A1:86:02:FB:E6:09:A6:A6:9F:D3:13:E5:B6:0A
+	Signature algorithm name: SHA1withRSA
+	version: 3

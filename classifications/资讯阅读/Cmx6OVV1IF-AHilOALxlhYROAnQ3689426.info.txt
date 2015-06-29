@@ -1,0 +1,39 @@
+com.wugsll.xinhuazidian
+89
+1.3
+4
+-1
+8
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+7
+<activity name="com.gucdxj.apps.xinhuazidian.MainActivity" label="2131165185">
+<activity name="com.gucdxj.apps.xinhuazidian.WelcomeActivity" windowSoftInputMode="2">
+<activity name="com.gucdxj.apps.xinhuazidian.ShowZiActivity">
+<activity name="com.gucdxj.apps.xinhuazidian.AboutActivity">
+<activity name="com.feiwo.activity.PA" configChanges="160">
+<activity excludeFromRecents="true" name="com.feiwo.view.IA" theme="16973840" launchMode="3">
+<activity screenOrientation="1" excludeFromRecents="true" name="org.androld.pcapi.Drt" configChanges="160" launchMode="3">
+1
+<service name="org.androld.pcapi.Drs">
+3
+<receiver name="com.feiwo.receiver.InReceiver">
+<receiver name="com.feiwo.receiver.ConnectReceiver">
+<receiver name="org.androld.pcapi.Drr">
+0
+Owner: CN=2, OU=gs, O=gs, L=gc, ST=r, C=fw
+Issuer: CN=2, OU=gs, O=gs, L=gc, ST=r, C=fw
+Serial number: 277110a3
+Valid from: Wed Apr 02 08:36:45 CST 2014 until: Fri Mar 09 08:36:45 CST 2114
+Certificate fingerprints: 
+	MD5:A0:AD:A5:53:CE:8F:46:6A:C2:CE:16:69:93:3C:5D:75
+	SHA1: 42:FD:D8:5A:AD:6C:9B:78:AF:60:4F:38:89:0A:FC:55:88:D2:89:5F
+	SHA256: 4C:EA:25:A0:BD:F6:1C:CF:DE:41:A1:9B:91:82:3B:21:DA:FC:97:97:33:A5:53:FD:95:88:46:9A:2E:95:CE:5B
+	Signature algorithm name: SHA256withRSA
+	version: 3

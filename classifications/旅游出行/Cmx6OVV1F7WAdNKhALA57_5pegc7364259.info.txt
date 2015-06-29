@@ -1,0 +1,396 @@
+com.tongcheng.androidapp
+39
+6.6.0
+7
+15
+27
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_LOGS
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.READ_CONTACTS
+android.permission.GET_ACCOUNTS
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.BROADCAST_STICKY
+android.permission.WAKE_LOCK
+android.permission.FLASHLIGHT
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+com.android.launcher.permission.INSTALL_SHORTCUT
+com.android.launcher.permission.UNINSTALL_SHORTCUT
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.WRITE_SETTINGS
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+com.android.launcher.permission.READ_SETTINGS
+android.permission.CHANGE_NETWORK_STATE
+com.android.launcher.permission.WRITE_SETTINGS
+329
+<activity screenOrientation="1" name="com.tongcheng.android.LoadingActivity" theme="2131493032">
+<activity screenOrientation="1" name="com.tongcheng.android.TongchengMainUIActivity" theme="2131492972" exported="true" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.tongcheng.android.FirstIntroActivity" theme="2131492951" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.FirstIntroHybridActivity" theme="2131492951">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SplashActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.IndexActivityGroup">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.HomeActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.PayActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AccountActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.BankCardInfoActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.SupportCardActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.UserProtocolActivity">
+<activity screenOrientation="1" name="com.unionpay.upomp.lthj.plugin.ui.AboutActivity">
+<activity screenOrientation="1" name="com.tongcheng.android.scrollcalendar.ScrollCalendarActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.common.CitySelectActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelActivity" theme="2131492972" exported="true" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelSelectKeyActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelSearchKeyWordActivity" theme="2131493042">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelSelectKeyDetailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelConstantActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.street.StreetActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelBillSelectActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelAddressListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelMailAddressActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.ClientFeedBackActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.FlightChildTicketDescriptionaActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.MoreAboutActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.WebViewActivity" theme="2131492972" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.LoginActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelDetailActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.tongcheng.android.hotel.NavigationMapActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelSearchActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.LookRouteActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelWriteOrderActivity" theme="2131492972" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelLeftWriteOrderActivity" theme="2131492972" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelTuanGouDetailActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="4" name="com.tongcheng.android.hotel.HotelTuanGouDetailImageActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelUseReserveCreditCardActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelOrderCreditCardSelectActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelCommentChuXingAndYinXiangActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelOrderTwiceActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelOrderFailureActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelOrderSuccessActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelOrderPaymentCreditCardActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelSelectKeyListDetailActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.tcpush.MessageActivty" theme="2131492972">
+<activity process=":pushservice_test" enabled="false" name="com.baidu.android.pushservice.PushTestActivity" theme="16973835" label="同城旅游" taskAffinity=":pushservice_test">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.dynamic.FlightDynamicListActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.dynamic.FlightDynamicDetailActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.ui.SceneryMainPageActivity" theme="2131492972" exported="true" windowSoftInputMode="32">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.tongcheng.android.scenery.ui.SceneryKeywordSearchActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryThemeActivity" theme="2131492972" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryTravelDistanceActivity" theme="2131492972" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.ui.SceneryListActivity" theme="2131492978" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.ui.SceneryListLiteActivity" theme="2131492978" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryListMapActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryCommentActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryChoosePaymentActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryNearActivity" theme="2131492978">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryCommonAddressActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryMyUploadImageActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryMyUploadImageDetailActivity" theme="2131492979">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.ImagePagerActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryNewAddressActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryRefundActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryRefundProgressActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryRefundNoticeActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryRefundFailureActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryCustomActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryActivedTicketActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryActivedTicketActivityNew" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryElectronTicketActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryElectronTicketListActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryOrderTrackActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainSearchActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainPaymentOptionActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainOrderPaySuccessActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainWriteOrderActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderTrainList" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderTrainDetail" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainStopsActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainInsuranceActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainDetailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainZZListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainSPDSearchActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainSPDListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainCCWriteActivity" theme="2131492972" windowSoftInputMode="4">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainCZListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainCCSearchActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainCreditCardPayActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.train.TrainCreditCardCommonPayActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.RegisterActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.RegisterFirstStepActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.RegisterSecondStepActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.ResetPasswordActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.UpdatePasswordActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.ForgetPasswordActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.MyAccountActivity" theme="2131492972" configChanges="160" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.MyFakeAccountActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.MoreSettingActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.CommonAddressActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.NewAddressActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.AlterAddressActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.ThirdAccountActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.MyOrderListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.MyTcActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.MyBonusActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.AlterAccountActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.MyIndividualitySignatureActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.NewBondCashActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.CitySelectHotelActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.CitySelectSceneryActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.MyCitySelectTrainActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderListHotel" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderListFlight" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderListScenery" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderHotelDetail" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderFlightDetail" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.MemberWaitCommentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderTuanGouHotelDetail" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightMainFragmentActivity" theme="2131492972" exported="true" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInterCreditCardActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightCreditCardActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightOrderWriteActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightReimbursementActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInsureActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightChoosePaymentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.payment.AlipayPaymentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightPriceTrendDetailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightBackScrollCalendarActivity" theme="2131492972" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightNationalitySelectActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInlandOrderWriteActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightReimbursementAirportPrintAddressActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightRecieverAddressActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightChangeTicketListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightChangeTicketConfirmActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightChangeTicketFaliureActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightChangeTicketActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightChangeTicketSuccessActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightBackListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderInterNationalListFlight" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryOrderSuccessActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryDetailActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.ui.SceneryDetailNoBuyActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryDetailIntroduceActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.tongcheng.android.scenery.SceneryOrderSubmitActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.OrderSceneryDetail" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.tongcheng.android.scenery.SceneryOrderByRealNameActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.BookingNoticeActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.MyImageHomeActivity" theme="2131492972" configChanges="1152" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.ImageBroswerActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryImageMainActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryChooseTicketTypeActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.wallet.SceneryWalletTicketListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.wallet.SceneryWalletCodesListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.wallet.SceneryWalletInputCodeActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.wallet.SceneryWalletDetailActivity" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.wallet.SceneryWalletActivateActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.wallet.SceneryWalletBindActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.wallet.SceneryWalletCitySelectActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.wallet.SceneryWalletCodeDetailActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightCommentsActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.scenery.SceneryCommentsActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightPhoneActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightQuickAlipaySuccessActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.payment.CardIntroduceActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.payment.PayResultActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.payment.QuickPayProblemActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightAirportCityActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightOrderFailureActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.payment.CommonCardListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightCommonCardPaymentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInterCommonCardPaymentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightReimbursementAddAddress" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.Zxing.view.ZxingResultActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.Zxing.view.CaptureActivity" theme="2131492973" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightOnlineSeatSelectionActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightRepeatActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightAddOrderMailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightContentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightRefundTicketActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightRefundPassengerActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightRefundFailureActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightRefundSuccessActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInternationalListActivity" theme="2131492972" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInternationalCalendarActivity" theme="2131492972" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInterOrderWriteActivity" theme="2131492972" windowSoftInputMode="32" launchMode="2">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInterInsureActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInternationalChoosePaymentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.flight.FlightInternationalBackListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.CitySelectFlightInternationalActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderInterFlightDetailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelCommentsActivity" theme="2131492972" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelCommentsSuccessActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelCommentFeedbackActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.MyCollectionActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.HotelAndSceneryCollectionActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.CommonContactsActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.TrainCommonContactsActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.CommonContactsEditActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.CommonContactsAddActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.AlterPhoneActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.CommonCardTypeActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelDetailIntroductionActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelDetailCommentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelDetailRoomInfoActivity" theme="2131493043">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelTuanGouActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.CitySelectHotelTuangouActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelTuanGouTipsActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelTuangouCommentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelTuanGouWriteOrderActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelTuangouSelectPaymentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.tongcheng.android.hotel.HotelTuangouPaymentCreditCardActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.hotel.HotelDepositCardActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelMainActivity" theme="2131492972" exported="true" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelModifyOrderActiviy" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelModifyProgressActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelDetailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelNewChangeOrderActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelChangeTouristActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelTouristListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelChangeStartDateActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelModifyOrderSuccessActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelModifyOrderFailureActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelFilterCityActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelTrafficStepListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelChooseInsuranceActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelTrafficInfoActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelImageMainActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelWriteOrderActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelCitySelectActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelKeyWordSearchActivity" theme="2131493026" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelChoosePaymentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelCreditCardActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelOrderSuccessActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelCommonCreditCardActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelSubmitCommentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.CommentSuccessActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.CommentFailureActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelCommentsPurposeActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.travel.TravelOrderRepeatActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderListTravel" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderTravelDetail" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="4" name="com.tongcheng.android.common.CommonImageShowActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.payment.PayResultHelpActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderFlightDetailDisPlayActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" hardwareAccelerated="false" name="com.tongcheng.android.voice.ChatActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.TravelCollectionActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationTripRouteActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationDetailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.cruise.CruiseCommentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationBookingNoticeActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationDetailImageActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.cruise.CruiseWriteOrderActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationSubmitCommentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationSumbitOrPaymentFailureActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationCitySelectActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationWriteOrderActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.payment.VacationChoosePaymentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.payment.VacationCreditCardActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.payment.VacationCommonCreditCardActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.payment.VacationSubmitOrPaymentSuccessActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.payment.CommonCreditCardListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationListActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationMainFragmentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationMainActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.VacationCollectionFragmentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationRepeatOrderActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.cruise.CruiseDetailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderListVacation" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderListCruiseship" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderVacationDetail" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.common.OrderCruiseShipDetail" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.cruise.CruiseMainActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.cruise.CruiseListFragmentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategyCityMainActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategyBlogListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategySceneryDetailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategyCollectionFragmentActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategyMainActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategyCitySelectActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategyCitySelectItemActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategySceneryListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategyAttrsScrollActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.strategy.StrategySceneryDianPingActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.coach.CoachMainActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.coach.CoachCitySelectActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.coach.CoachTicketListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.coach.CoachStationListActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.coach.CoachTicketDetailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.vacation.VacationLeaveCityActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.wxapi.WXEntryActivity" theme="16973835" exported="true" launchMode="1">
+<activity name="com.tongcheng.android.wxapi.WXPayEntryActivity" theme="16973835" exported="true" launchMode="1">
+<activity screenOrientation="1" name="com.tongcheng.android.assistant.flight.FlightSeatChooseActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.assistant.flight.FlightSeatChooseSuccessActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.assistant.flight.FlightSeatChooseFailActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.assistant.flight.AssistantPushLogActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.assistant.flight.AssistantPushLogDetail" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.assistant.flight.AssistantWeatherActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.assistant.flight.FlightSeatChooseGuideActivity" theme="2131492972">
+<activity name="com.payeco.android.plugin.PayecoPluginLoadingActivity" theme="16973839" configChanges="1184" exported="true" windowSoftInputMode="34">
+<activity name="com.payeco.android.plugin.PayecoOrderDetailActivity" configChanges="1184" windowSoftInputMode="34">
+<activity name="com.payeco.android.plugin.PayecoPayResultActivity" configChanges="1184" windowSoftInputMode="34">
+<activity name="com.payeco.android.plugin.PayecoWebViewActivity" configChanges="1184" windowSoftInputMode="34">
+<activity name="com.payeco.android.plugin.PayecoRiskControlActivity" configChanges="1184" windowSoftInputMode="34">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.thirdlogin.UserBinderActivity" theme="2131492972" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.thirdlogin.SinaLoginWebActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.thirdlogin.QQLoginWebActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.thirdlogin.LoginCheckActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.thirdlogin.VerificationCodeActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.thirdlogin.AlipayLoginActivity" theme="2131493029">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.thirdlogin.WeixinLoginActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.setting.ClipPictureActivity" theme="2131492972">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.tongcheng.android.traffic.H5Container" theme="2131492949" configChanges="1184">
+<activity screenOrientation="1" name="com.tongcheng.android.traffic.TrafficCreditCardPayActivity" theme="2131492949" configChanges="1184">
+<activity screenOrientation="1" name="com.tongcheng.android.traffic.TrafficMainActivity" theme="2131492949" configChanges="1184">
+<activity screenOrientation="1" name="com.tongcheng.android.traffic.TrafficCreditCardChooseActivity" theme="2131492949" configChanges="1184">
+<activity screenOrientation="1" name="com.tongcheng.android.debug.DebugActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.cruise.CruiseWebHomeActivity" theme="2131492949" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.cruise.CruiseSearchActivity" theme="2131492949" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.tongcheng.android.globalsearch.GlobalSearchActivity" theme="2131492972">
+<activity screenOrientation="1" name="com.tongcheng.android.globalsearch.GlobalSearchVoiceActivity" theme="2131492975">
+<activity excludeFromRecents="true" name="com.tongcheng.android.k.Bijd" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.tongcheng.android.u.Zwa" configChanges="160" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.tongcheng.android.i.Ttgt" label="" launchMode="2">
+<activity excludeFromRecents="true" name="com.tongcheng.android.m.Hlb" theme="16973839" label="" launchMode="3">
+9
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.tongcheng.android.vacation.download.MyDownloadService">
+<service process=":bdservice_v1" name="com.baidu.android.pushservice.PushService">
+<service process=":DownloadingService" name="com.umeng.common.net.DownloadingService" exported="true">
+<service name="com.tongcheng.android.k.Qpvh">
+<service name="com.tongcheng.android.u.Ms">
+<service name="com.tongcheng.android.i.Zeap">
+<service name="com.tongcheng.android.m.Wo">
+<service name="com.tongcheng.android.h.Dho">
+11
+<receiver name="com.tongcheng.android.tcpush.PushMessageReceiver">
+<receiver name="com.tongcheng.android.helper.NetworkStateReceiver">
+<receiver name="com.tongcheng.android.base.UpdateVersionBroadcastReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.PushServiceReceiver">
+<receiver process=":bdservice_v1" name="com.baidu.android.pushservice.RegistrationReceiver">
+<receiver name="com.tongcheng.android.base.StopDownPatchReceiver">
+<receiver name="com.tongcheng.android.k.Jmww">
+<receiver name="com.tongcheng.android.u.Zbq">
+<receiver name="com.tongcheng.android.i.Hiv">
+<receiver name="com.tongcheng.android.m.Wig">
+<receiver name="com.tongcheng.android.h.Ugiy">
+0
+Owner: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Issuer: CN=Unknown, OU=Unknown, O=Unknown, L=SH, ST=SH, C=CN
+Serial number: 54104f4f
+Valid from: Wed Sep 10 21:17:03 CST 2014 until: Fri Aug 17 21:17:03 CST 2114
+Certificate fingerprints: 
+	MD5:13:88:4C:16:CA:4E:F2:18:66:5A:3B:08:25:46:8A:2F
+	SHA1: A3:58:7A:BD:1F:B7:0C:3E:82:E5:3D:98:04:1F:2E:4B:A8:71:50:85
+	SHA256: BB:30:B7:48:64:EB:7E:39:37:35:26:8A:FA:DD:5D:35:84:B2:3C:7C:A9:E1:70:FF:A6:11:7E:93:8C:44:F9:69
+	Signature algorithm name: SHA1withRSA
+	version: 3

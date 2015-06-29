@@ -1,0 +1,32 @@
+com.scliang.srl
+5
+1.2
+7
+-1
+6
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.VIBRATE
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_NETWORK_STATE
+3
+<activity screenOrientation="1" name=".MainAct" theme="2131230723" configChanges="224" label="2131099648" launchMode="2">
+<activity screenOrientation="1" name="TextScheduleAct" theme="2131230724" configChanges="224" label="2131099648">
+<activity screenOrientation="1" name=".ScheduleAlarmAct" theme="2131230726" configChanges="224" label="2131099648">
+0
+3
+<receiver name=".receiver.BootCompReceiver">
+<receiver name=".receiver.UpdateAlarmReceiver">
+<receiver name=".receiver.AlarmOperationReceiver">
+0
+Owner: CN=Shang Chuanliang, L=Beijing
+Issuer: CN=Shang Chuanliang, L=Beijing
+Serial number: 4dcba7fa
+Valid from: Thu May 12 17:27:22 CST 2011 until: Tue Sep 12 17:27:22 CST 3009
+Certificate fingerprints: 
+	MD5:2F:55:4F:A1:4F:29:12:AE:6E:0B:57:E1:78:A8:33:D8
+	SHA1: 27:F1:01:8A:13:2B:92:06:7E:DC:F8:F6:AD:BE:47:84:86:30:74:1C
+	SHA256: C4:A1:64:C0:8C:96:FD:16:65:FB:E2:65:34:F6:2F:45:10:94:F4:F5:C0:1D:15:11:FC:19:8E:3E:E2:1A:5F:66
+	Signature algorithm name: SHA1withRSA
+	version: 3

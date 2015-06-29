@@ -1,0 +1,6 @@
+android.util.Log: int d(java.lang.String,java.lang.String)
+android.util.Log: int e(java.lang.String,java.lang.String)
+android.util.Log: int i(java.lang.String,java.lang.String)
+android.telephony.TelephonyManager: java.lang.String getLine1Number()
+android.telephony.TelephonyManager: java.lang.String getDeviceId()
+android.content.pm.PackageManager: java.util.List queryIntentActivities(android.content.Intent,int)

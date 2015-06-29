@@ -1,0 +1,35 @@
+bj.tuangou.activity
+4
+1.4.1
+4
+-1
+5
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.READ_LOGS
+android.permission.ACCESS_NETWORK_STATE
+10
+<activity screenOrientation="1" name=".MainLoadingActivity" theme="2131034112" label="2131165184">
+<activity screenOrientation="1" name=".TabMainActivity" label="2131165184">
+<activity screenOrientation="1" name=".MainActivity" label="2131165184">
+<activity screenOrientation="1" name=".HotActivity" label="2131165184">
+<activity screenOrientation="1" name=".FoodActivity" label="2131165184">
+<activity screenOrientation="1" name=".RestActivity" label="2131165184">
+<activity screenOrientation="1" name=".FaceActivity" label="2131165184">
+<activity screenOrientation="1" name=".SearchResultActivity" label="2131165184">
+<activity screenOrientation="1" name=".ProductActivity" theme="2131034113" label="2131165184">
+<activity name="com.mobclick.android.UmengFeedback">
+0
+0
+0
+Owner: L=HangZhou
+Issuer: L=HangZhou
+Serial number: 4d74ec56
+Valid from: Mon Mar 07 22:31:50 CST 2011 until: Tue Feb 22 22:31:50 CST 2061
+Certificate fingerprints: 
+	MD5:17:90:2F:3C:EA:C0:BF:67:3D:31:68:DC:AF:24:81:10
+	SHA1: 27:84:A2:08:CE:06:C8:69:D2:78:01:C7:13:22:46:45:05:50:5C:23
+	SHA256: 70:D3:CA:78:A2:21:F6:77:DA:91:6A:68:B1:D2:BE:C8:F0:76:1D:FE:E0:17:12:19:D3:61:4F:49:DE:A3:F3:02
+	Signature algorithm name: SHA1withRSA
+	version: 3

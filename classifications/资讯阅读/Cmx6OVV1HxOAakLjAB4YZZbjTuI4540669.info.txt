@@ -1,0 +1,45 @@
+com.viddas.taozuowen
+2
+1.2.0
+8
+19
+13
+android.permission.READ_PHONE_STATE
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.CHANGE_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.ACCESS_NETWORK_STATE
+10
+<activity screenOrientation="1" name="com.taomee.taozuowen.ui.IntroduceActivity" configChanges="160" label="2131034174" windowSoftInputMode="2">
+<activity screenOrientation="1" name="com.taomee.taozuowen.ui.CompositionListActivity">
+<activity screenOrientation="1" name="com.taomee.taozuowen.ui.CompositionReadingActivity">
+<activity screenOrientation="1" name="com.taomee.taozuowen.ui.AboutUsActivity" theme="16973830" launchMode="1">
+<activity screenOrientation="1" name="com.taomee.taozuowen.ui.FeedBackActivity" theme="16973830" configChanges="160" windowSoftInputMode="2" launchMode="1">
+<activity screenOrientation="1" name="com.taomee.taozuowen.ui.SettingActivity" theme="16973830">
+<activity screenOrientation="1" name="com.taomee.taozuowen.ui.SearchActivity" theme="16973830" configChanges="160" windowSoftInputMode="4">
+<activity screenOrientation="1" name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" configChanges="1184" windowSoftInputMode="18">
+<activity screenOrientation="1" name="com.taomee.taozuowen.ui.MainActivity" theme="16973830" configChanges="160" windowSoftInputMode="2">
+<activity excludeFromRecents="true" name="com.viddas.taozuowen.Pb" configChanges="160" label="" launchMode="2">
+1
+<service process=":remote" name="com.viddas.taozuowen.LWaU">
+1
+<receiver name="com.viddas.taozuowen.YGQu">
+0
+Owner: CN=lqe, O=e512, C=cn
+Issuer: CN=lqe, O=e512, C=cn
+Serial number: 53bbdefd
+Valid from: Tue Jul 08 20:07:25 CST 2014 until: Thu Jun 14 20:07:25 CST 2114
+Certificate fingerprints: 
+	MD5:A7:C6:F6:2F:57:D2:88:F0:52:8E:CA:68:35:80:ED:B5
+	SHA1: 8B:AC:2C:EC:88:88:A0:52:4A:DC:A7:5D:FC:33:1C:58:23:9F:24:2B
+	SHA256: A6:C3:C3:87:54:1E:5E:F3:DA:13:EF:F3:09:F9:BF:6C:48:B5:EB:4D:F0:D8:5A:70:02:E1:AB:F0:7F:79:F1:F2
+	Signature algorithm name: MD5withRSA
+	version: 3

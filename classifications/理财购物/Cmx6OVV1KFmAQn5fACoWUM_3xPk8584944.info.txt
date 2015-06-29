@@ -1,0 +1,69 @@
+com.chinat2t11359wc.templte
+1
+1.0
+8
+19
+13
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.ACCESS_WIFI_STATE
+android.permission.GET_ACCOUNTS
+android.permission.CALL_PHONE
+android.permission.READ_PHONE_STATE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.MANAGE_ACCOUNTS
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.ACCESS_NETWORK_STATE
+36
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.SplashActivity" label="2131230781" launchMode="2">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.MainActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.LoginActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.RegisterActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.ForgetpasswordActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.RegisterEmailActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.RegisterPhoneActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.RegisterPhoneTwoActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.CommonDetailsActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.SearchActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.CategoryListActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.CommentAcytivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.UserCenterActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.ChangeUserNameActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.ChangePhoneActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.ChangePasswordActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.ChangeEmailActivity">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.ManagerAddressActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.AddAddress" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.SetActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.AdviceFedback" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.AboutUs" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.ChangeAddress">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.RecommendApp">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.AnouncementDetail">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.AnouncementList">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.Collection">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.ShopCar" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.FillinOrder" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.OtherAddress" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.OrderListActivity" windowSoftInputMode="32">
+<activity screenOrientation="1" name="com.zxing.zxingdemoforlm.CaptureActivity" theme="16973831" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name="com.chinat2t.tcp001.activity.OrderDetail" windowSoftInputMode="32">
+<activity name="cn.sharesdk.framework.ShareSDKUIShell" theme="16973840" windowSoftInputMode="18">
+<activity name="com.chinat2t.tcp001.wxapi.WXEntryActivity" theme="16973840" exported="true">
+<activity excludeFromRecents="true" name=".yxapi.YXEntryActivity" theme="16973840" exported="true" launchMode="1">
+0
+0
+0
+Owner: CN=chinat2t, OU=chinat2t, O=chinat2t, L=Beijing, ST=Beijing, C=86
+Issuer: CN=chinat2t, OU=chinat2t, O=chinat2t, L=Beijing, ST=Beijing, C=86
+Serial number: 52fc964d
+Valid from: Thu Feb 13 17:54:21 CST 2014 until: Sun Jul 26 17:54:21 CST 2082
+Certificate fingerprints: 
+	MD5:C4:B5:B9:31:33:24:42:AB:43:A7:02:91:58:86:81:D5
+	SHA1: 2D:C2:CE:40:E5:D3:11:D3:26:63:A8:F9:07:AF:CD:25:A1:C6:71:DD
+	SHA256: BA:58:FF:DC:73:FD:2A:7D:A5:24:7A:9C:14:2E:F8:E7:E2:22:1C:BA:8D:79:C2:AD:2B:93:46:5F:4B:F8:74:E5
+	Signature algorithm name: SHA1withRSA
+	version: 3

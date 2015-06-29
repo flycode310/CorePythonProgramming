@@ -1,0 +1,133 @@
+com.android.chrome
+2311111
+42.0.2311.111
+14
+21
+28
+com.android.chrome.permission.READ_WRITE_BOOKMARK_FOLDERS
+android.permission.WRITE_EXTERNAL_STORAGE
+com.sec.enterprise.knox.MDM_CONTENT_PROVIDER
+android.permission.ACCESS_WIFI_STATE
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.GET_ACCOUNTS
+com.android.chrome.TOS_ACKED
+android.permission.CAMERA
+com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+android.permission.ACCESS_FINE_LOCATION
+android.permission.MANAGE_ACCOUNTS
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.launcher.permission.INSTALL_SHORTCUT
+android.permission.NFC
+android.permission.USE_CREDENTIALS
+com.android.chrome.permission.C2D_MESSAGE
+com.google.android.c2dm.permission.RECEIVE
+android.permission.MODIFY_AUDIO_SETTINGS
+com.google.android.providers.gsf.permission.READ_GSERVICES
+android.permission.READ_SYNC_STATS
+android.permission.WRITE_SYNC_SETTINGS
+android.permission.INTERNET
+android.permission.READ_SYNC_SETTINGS
+android.permission.VIBRATE
+com.chrome.permission.DEVICE_EXTRAS
+com.android.browser.permission.READ_HISTORY_BOOKMARKS
+28
+<activity name="com.google.android.apps.chrome.document.ChromeLauncherActivity" theme="16973909">
+<activity persistableMode="2" hardwareAccelerated="true" name="com.google.android.apps.chrome.document.DocumentActivity" theme="2131362079" configChanges="1200" exported="true" windowSoftInputMode="16" autoRemoveFromRecents="false" taskAffinity="">
+<activity icon="2130903045" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.document.IncognitoDocumentActivity" theme="2131362097" configChanges="1200" exported="true" windowSoftInputMode="16" autoRemoveFromRecents="false" taskAffinity="">
+<activity windowBackground="2130837813" hardwareAccelerated="true" name="com.google.android.apps.chrome.ChromeTabbedActivity" theme="2131362079" configChanges="1200" exported="true" windowSoftInputMode="16" launchMode="2">
+<activity windowBackground="2130837813" hardwareAccelerated="true" name="com.google.android.apps.chrome.third_party.samsung.MultiInstanceChromeTabbedActivity" theme="2131362079" configChanges="1200" exported="true" windowSoftInputMode="16">
+<activity name="com.google.android.apps.chrome.sync.ui.PassphraseActivity" theme="2131362080" autoRemoveFromRecents="true">
+<activity name="com.google.android.apps.chrome.bookmark.ManageBookmarkActivity" theme="2131362082" configChanges="1200" label="2131296925" windowSoftInputMode="34">
+<activity name="com.google.android.apps.chrome.firstrun.FirstRunActivity" theme="2131362081" configChanges="1200" label="2131296997" windowSoftInputMode="34" launchMode="1">
+<activity name="com.google.android.apps.chrome.preferences.PreferencesInternal" theme="2131362040" configChanges="1200" exported="false" label="2131296375">
+<activity hardwareAccelerated="true" name="com.google.android.apps.chrome.EmbedContentViewActivity" theme="2131362054" configChanges="1200">
+<activity name="com.google.android.apps.chrome.prerender.PrerenderAPITestActivity" theme="2131362080" exported="true">
+<activity name="com.google.android.apps.chrome.enhancedbookmark.EnhancedBookmarkActivity" theme="2131362095" configChanges="1200">
+<activity name="com.google.android.apps.chrome.enhancedbookmark.EnhancedBookmarkDetailActivity" theme="2131362092" configChanges="1200">
+<activity persistableMode="1" excludeFromRecents="true" name="com.google.android.apps.chrome.webapps.WebappManager" theme="16973909" exported="true" taskAffinity=".WebappManager">
+<activity documentLaunchMode="1" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity" theme="2131362080" configChanges="1200" label="2131297086">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity0" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity0" launchMode="2">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity1" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity1" launchMode="2">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity2" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity2" launchMode="2">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity3" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity3" launchMode="2">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity4" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity4" launchMode="2">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity5" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity5" launchMode="2">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity6" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity6" launchMode="2">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity7" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity7" launchMode="2">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity8" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity8" launchMode="2">
+<activity icon="2130903041" persistableMode="1" hardwareAccelerated="true" name="com.google.android.apps.chrome.webapps.WebappActivity9" theme="2131362080" configChanges="1200" label="2131297086" taskAffinity="com.android.chrome.webapps.WebappActivity9" launchMode="2">
+<activity excludeFromRecents="true" hardwareAccelerated="true" name="com.google.android.apps.chrome.videofling.ExpandedControllerActivity" theme="2131362079" configChanges="1200" label="Chrome.ExpandedControllerActivity" noHistory="true" launchMode="2">
+<activity excludeFromRecents="true" name="com.google.android.apps.chrome.document.CipherKeyActivity" theme="16973909" launchMode="3">
+<activity enabled="true" icon="2130903042" hardwareAccelerated="true" name="com.google.android.apps.chrome.ShortcutActivity" theme="2131362054" label="2131296944">
+38
+<service name="org.chromium.chrome.browser.sync.ChromeBrowserSyncAdapterService" exported="false">
+<service name="com.google.android.apps.chrome.precache.PrecacheService" exported="false">
+<service name="com.google.android.apps.chrome.appwidget.bookmarks.BookmarkThumbnailWidgetService" exported="false" permission="android.permission.BIND_REMOTEVIEWS">
+<service name="com.google.ipc.invalidation.external.client.contrib.MultiplexingGcmListener" exported="false">
+<service name="org.chromium.components.invalidation.InvalidationClientService" exported="false">
+<service name="com.google.ipc.invalidation.ticl.android2.TiclService" exported="false">
+<service name="com.google.ipc.invalidation.ticl.android2.channel.AndroidMessageSenderService" exported="false">
+<service enabled="true" name="com.google.ipc.invalidation.ticl.android2.channel.AndroidMessageReceiverService" exported="false">
+<service name="org.chromium.components.gcm_driver.GCMListener" exported="false">
+<service name="org.chromium.chrome.browser.notifications.NotificationService" exported="false">
+<service name="com.google.android.apps.chrome.ChromePrerenderService" exported="true">
+<service name="com.google.android.apps.chrome.crash.MinidumpUploadService" exported="false">
+<service name="com.google.android.apps.chrome.omaha.OmahaClient" exported="false">
+<service process=":sandboxed_process0" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService0" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process1" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService1" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process2" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService2" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process3" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService3" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process4" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService4" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process5" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService5" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process6" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService6" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process7" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService7" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process8" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService8" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process9" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService9" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process10" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService10" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process11" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService11" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process12" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService12" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process13" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService13" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process14" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService14" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process15" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService15" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process16" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService16" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process17" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService17" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process18" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService18" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":sandboxed_process19" isolatedProcess="true" name="org.chromium.content.app.SandboxedProcessService19" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":privileged_process0" isolatedProcess="false" name="org.chromium.content.app.PrivilegedProcessService0" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":privileged_process1" isolatedProcess="false" name="org.chromium.content.app.PrivilegedProcessService1" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service process=":privileged_process2" isolatedProcess="false" name="org.chromium.content.app.PrivilegedProcessService2" exported="false" permission="com.android.chrome.permission.CHILD_SERVICE">
+<service name="com.google.android.apps.chrome.videofling.NotificationTransportControl$ListenerService">
+<service stopWithTask="true" name="com.google.android.apps.chrome.MediaCaptureNotificationService" exported="false">
+15
+<receiver name="com.google.android.apps.chrome.minutemaid.ChainedAccountsChangedReceiver">
+<receiver name="com.google.android.apps.chrome.precache.PrecacheServiceLauncher">
+<receiver name="org.chromium.chrome.browser.firstrun.ToSAckedReceiver" permission="com.android.chrome.TOS_ACKED">
+<receiver enabled="true" name="com.google.android.apps.chrome.appwidget.bookmarks.BookmarkThumbnailWidgetProvider" label="2131296888">
+<receiver name="com.google.android.apps.chrome.appwidget.bookmarks.BookmarkWidgetProxy" exported="false">
+<receiver name="com.google.ipc.invalidation.external.client.contrib.MultiplexingGcmListener$GCMReceiver" exported="true" permission="com.google.android.c2dm.permission.SEND">
+<receiver name="com.google.ipc.invalidation.ticl.android2.AndroidInternalScheduler$AlarmReceiver" exported="false">
+<receiver name="com.google.ipc.invalidation.external.client2.contrib.AndroidListener$AlarmReceiver" exported="false">
+<receiver name="com.google.ipc.invalidation.ticl.android2.channel.AndroidMessageReceiverService$Receiver" exported="false">
+<receiver name="org.chromium.components.gcm_driver.GCMListener$Receiver" exported="false">
+<receiver name="org.chromium.chrome.browser.notifications.NotificationService$Receiver" exported="false">
+<receiver name="org.chromium.chrome.browser.download.OpenDownloadReceiver">
+<receiver name="org.chromium.base.PowerStatusReceiver">
+<receiver name="com.no.real.class.needed.receiver" exported="false">
+<receiver name="com.google.android.apps.chrome.videofling.LockScreenTransportControl$MediaButtonIntentReceiver">
+4
+<provider authorities="com.android.chrome.ChromeBrowserProvider;com.android.chrome.browser;com.android.chrome" name="com.google.android.apps.chrome.ChromeBrowserProvider" exported="true">
+<provider authorities="com.android.chrome.icing" name="com.google.android.apps.chrome.icing.IcingProvider" exported="true">
+<provider authorities="com.android.chrome.AutofillDataProvider" name="com.google.android.apps.chrome.autofill.AutofillDataProvider" exported="true">
+<provider authorities="com.android.chrome.FileProvider" name="android.support.v4.content.FileProvider" grantUriPermissions="true" exported="false">
+Owner: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Issuer: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Serial number: c2e08746644a308d
+Valid from: Fri Aug 22 07:13:34 CST 2008 until: Tue Jan 08 07:13:34 CST 2036
+Certificate fingerprints: 
+	MD5:CD:E9:F6:20:8D:67:2B:54:B1:DA:CC:0B:70:29:F5:EB
+	SHA1: 38:91:8A:45:3D:07:19:93:54:F8:B1:9A:F0:5E:C6:56:2C:ED:57:88
+	SHA256: F0:FD:6C:5B:41:0F:25:CB:25:C3:B5:33:46:C8:97:2F:AE:30:F8:EE:74:11:DF:91:04:80:AD:6B:2D:60:DB:83
+	Signature algorithm name: MD5withRSA
+	version: 3

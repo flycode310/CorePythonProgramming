@@ -1,0 +1,88 @@
+com.lphtsccft
+1406150303
+2.1.4
+10
+-1
+30
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.READ_SOCIAL_STREAM
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.RESTART_PACKAGES
+android.permission.READ_PHONE_STATE
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.ACCESS_GPS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.CONTROL_LOCATION
+android.permission.ACCESS_MOCK_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.RECORD_AUDIO
+android.permission.WAKE_LOCK
+com.android.voicemail.permission.ADD_VOICEMAIL
+android.permission.SEND_SMS
+android.permission.WRITE_APN_SETTINGS
+android.permission.ACCESS_ASSISTED_GPS
+android.permission.WRITE_SECURE_SETTINGS
+android.permission.MODIFY_AUDIO_SETTINGS
+android.permission.WRITE_SETTINGS
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.VIBRATE
+android.permission.CHANGE_CONFIGURATION
+34
+<activity screenOrientation="1" name=".android.simple.app.MainActivity" theme="16973830" configChanges="176" label="2131296257" launchMode="2">
+<activity screenOrientation="1" name=".android.simple.app.tztActivityMsg" launchMode="2">
+<activity screenOrientation="1" name="com.lphtsccft.android.simple.app.tztRestartActivity" launchMode="2">
+<activity screenOrientation="1" name="com.lphtsccft.android.simple.config.htsccftui.HtKaiHuVideoActivity">
+<activity screenOrientation="1" name="com.lphtsccft.android.simple.config.htsccftui.HtWebKaiHuActivity" configChanges="160" launchMode="2">
+<activity screenOrientation="1" name="com.lphtsccft.android.simple.config.htsccftui.HtGuideActivity">
+<activity screenOrientation="1" name="com.lphtsccft.android.simple.config.htsccftui.HtLoginActivity">
+<activity screenOrientation="1" name="com.lphtsccft.android.simple.config.htsccftui.VideoActivity">
+<activity screenOrientation="1" name="com.lphtsccft.android.simple.config.htsccftui.TztHtTmpChatWindowActivity">
+<activity name="org.vudroid.pdfdroid.PdfViewerActivity" configChanges="160" windowSoftInputMode="16">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.share.HtscShareActivity" theme="2131165187">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity screenOrientation="1" name="com.tencent.connect.common.AssistActivity" theme="16973840">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatMessage">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatCustomManager">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatCustomerNetwork">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatInfomation">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.layout.ExpressOneActivity">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.layout.ExpressTwoActivity">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.layout.ExpressThireActivity">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.layout.ExpressFourActivity">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.layout.ExpressFiveActivity">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatCustomManagerOne">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatCustomManagerTwo">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatCustomManagerThire">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatCustomManagerFour">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatCustomManagerFive">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.chatitem.RtChatCustomManagerSix">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.palmhall.layout.PalmChatLayout" windowSoftInputMode="18">
+<activity name="com.lphtsccft.rtdl.palmhall.layout.LargeImageActivity" theme="2131165191">
+<activity name="com.lphtsccft.rtdl.palmhall.util.ImgFileListActivity">
+<activity name="com.lphtsccft.rtdl.palmhall.util.ImgsActivity">
+<activity name="com.lphtsccft.rtdl.palmhall.chatitem.NewAddActivity">
+<activity screenOrientation="1" name="com.lphtsccft.rtdl.share.CustomSinaShareActivity" theme="2131165187" windowSoftInputMode="18">
+2
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service enabled="true" name="com.lphtsccft.android.simple.app.tztMsgService">
+2
+<receiver name="com.lphtsccft.android.simple.app.BootCompletedReceiver">
+<receiver name="com.lphtsccft.rtdl.share.yixin.AppRegister" permission="im.yixin.sdk.permission.YIXIN_SDK_MESSAGE">
+0
+Owner: CN=fenghuo, OU=fenghuo, O=company, L=nanjing, ST=jiangsu, C=CN
+Issuer: CN=fenghuo, OU=fenghuo, O=company, L=nanjing, ST=jiangsu, C=CN
+Serial number: 4af0d030
+Valid from: Wed Nov 04 08:52:00 CST 2009 until: Fri Oct 11 08:52:00 CST 2109
+Certificate fingerprints: 
+	MD5:63:A6:AF:42:35:FF:33:EA:B4:30:3B:BB:91:23:FD:D7
+	SHA1: 0D:ED:5B:2A:C3:C6:40:44:B4:8C:97:EF:2B:FB:7E:6A:6C:86:24:47
+	SHA256: 44:6D:82:A8:63:0B:81:F2:AB:AF:19:8C:AB:EE:15:A7:2C:E5:75:30:0E:EF:CA:BE:3D:F1:B9:7E:50:5C:A9:B8
+	Signature algorithm name: SHA1withRSA
+	version: 3

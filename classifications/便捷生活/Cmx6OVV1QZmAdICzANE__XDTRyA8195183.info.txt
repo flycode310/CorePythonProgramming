@@ -1,0 +1,173 @@
+com.yihu.medical
+33
+3.25
+8
+10
+29
+android.permission.READ_EXTERNAL_STORAGE
+android.permission.GET_TASKS
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.WRITE_SMS
+android.permission.ACCESS_WIFI_STATE
+android.permission.RECEIVE_SMS
+android.permission.ACCESS_COARSE_LOCATION
+android.permission.CALL_PHONE
+android.permission.READ_CONTACTS
+android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+android.permission.READ_PHONE_STATE
+android.permission.READ_SMS
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.CAMERA
+android.permission.ACCESS_FINE_LOCATION
+android.permission.ACCESS_NETWORK_STATE
+android.permission.WAKE_LOCK
+android.permission.RECORD_AUDIO
+android.permission.SEND_SMS
+android.permission.INTERACT_ACROSS_USERS_FULL
+android.permission.KILL_BACKGROUND_PROCESSES
+android.permission.RECEIVE_USER_PRESENT
+android.permission.DISABLE_KEYGUARD
+android.permission.SYSTEM_ALERT_WINDOW
+android.permission.INTERNET
+android.permission.CHANGE_WIFI_STATE
+android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+android.permission.VIBRATE
+android.permission.CHANGE_NETWORK_STATE
+114
+<activity screenOrientation="1" name=".manager.AppStart" label="2131361838">
+<activity screenOrientation="1" name=".ui.MainActivity">
+<activity screenOrientation="1" name=".ui.MainHomePageActivity">
+<activity screenOrientation="1" name=".ui.HomePageMyRegister">
+<activity screenOrientation="1" name=".ui.HomePageMyRegisterHistory">
+<activity screenOrientation="1" name=".ui.RegisterDocActivity">
+<activity screenOrientation="1" name=".ui.RegDepartActivity">
+<activity screenOrientation="1" name=".ui.RegHospitalListActivity">
+<activity screenOrientation="1" name=".ui.RegDocListActivity">
+<activity screenOrientation="1" name=".ui.RegDocDeiltActivity">
+<activity screenOrientation="1" name=".ui.PersonCenterOrderPlanActivity">
+<activity screenOrientation="1" name=".ui.OrderPlanGroupActivity">
+<activity screenOrientation="1" name=".ui.OrderPlanPersonalActivity">
+<activity screenOrientation="1" name=".ui.MemberSelectActivity">
+<activity screenOrientation="1" name=".ui.UserCenterPayGroupActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.PayActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.PayPlanActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.PayRegActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.AtvWebPay">
+<activity screenOrientation="1" name=".ui.MainCircleActivity">
+<activity screenOrientation="1" name=".ui.MainToolActivity">
+<activity screenOrientation="1" name=".ui.AreaListActivity">
+<activity screenOrientation="1" name=".ui.AreaProviceListActivity">
+<activity screenOrientation="1" name=".ui.HomePageMyFavoritesActivity">
+<activity screenOrientation="1" name=".ui.Login">
+<activity screenOrientation="1" name=".ui.AtvUserCenterPerfectInfo">
+<activity screenOrientation="1" name=".ui.ForgetPwdActivity">
+<activity screenOrientation="1" name=".ui.UserRegister">
+<activity screenOrientation="1" name=".ui.InteractiveInformationActivity">
+<activity screenOrientation="1" name=".ui.MainPersonalCenterActivity">
+<activity screenOrientation="1" name=".ui.PersonCenterSmsActivity" windowSoftInputMode="35">
+<activity screenOrientation="1" name=".ui.PersonCenterFeedbackActivity">
+<activity screenOrientation="1" name=".ui.FeedbackListActivity">
+<activity screenOrientation="1" name=".ui.FeedbackDetailActivity">
+<activity screenOrientation="1" name=".ui.MsgDetailActivity">
+<activity screenOrientation="1" name=".ui.PersonCenterPushSetActivity">
+<activity screenOrientation="1" name=".ui.PersonCenterPatientsagumentActivity">
+<activity screenOrientation="1" name=".ui.GuidePage">
+<activity screenOrientation="1" name=".ui.IntegratingSystemActivity">
+<activity screenOrientation="1" name=".ui.IntegratingDetailActivity">
+<activity screenOrientation="1" name=".ui.PersonCenterAboutActivity">
+<activity screenOrientation="1" name=".ui.PersonCenterScanActivity">
+<activity screenOrientation="1" name=".ui.ScanCaptureActivity" configChanges="160" windowSoftInputMode="3">
+<activity screenOrientation="1" name=".ui.SearchDocActivity">
+<activity screenOrientation="1" name=".ui.AskDoc">
+<activity screenOrientation="1" name=".ui.DepartByProviceListActivity">
+<activity screenOrientation="1" name=".ui.ExpertDocList">
+<activity screenOrientation="1" name=".ui.ScreenHosDepartDise">
+<activity screenOrientation="1" name=".ui.DepartGrid">
+<activity screenOrientation="1" name=".ui.HospitalByDepart">
+<activity screenOrientation="1" name=".ui.PersonCenterAccountGroupActivity">
+<activity screenOrientation="1" name=".ui.AccountGroupBasicInfoActivity">
+<activity screenOrientation="1" name=".ui.MemberManageActivity">
+<activity screenOrientation="1" name=".ui.MemberListManageActivity">
+<activity screenOrientation="1" name=".ui.AccountGroupUpdatePwdActivity">
+<activity screenOrientation="1" name=".ui.HospitalDetailActivity">
+<activity screenOrientation="1" name=".ui.AreaListActivitySearchDoc">
+<activity screenOrientation="1" name=".ui.DocDetailActivity">
+<activity screenOrientation="1" name=".ui.DepartDetailActivity">
+<activity screenOrientation="1" name=".ui.DepartDetailNewActivity">
+<activity screenOrientation="1" name=".ui.MainGroupTjt">
+<activity screenOrientation="1" name=".ui.TjtHospitalListActivity">
+<activity screenOrientation="1" name=".ui.TjtHospitalDetailActivity">
+<activity screenOrientation="1" name=".ui.TjtBespeakActivity">
+<activity screenOrientation="1" name=".ui.TjtAddBespeakJsonActivity">
+<activity screenOrientation="1" name=".ui.TjtLunchDetailActivity">
+<activity screenOrientation="1" name=".ui.HomePageMyConsultActivity">
+<activity screenOrientation="1" name=".ui.ChannelPostsListActivity">
+<activity screenOrientation="1" name=".ui.UserPostsListActivity">
+<activity screenOrientation="1" name=".ui.CircleListActivity">
+<activity screenOrientation="1" name=".ui.PostDetailActivity">
+<activity screenOrientation="1" name=".ui.InteractiveInformationNewActivity">
+<activity screenOrientation="1" name=".ui.PostTopicActivity">
+<activity screenOrientation="1" name=".ui.ReplyPostActivity">
+<activity screenOrientation="1" name=".ui.MyRepalyPostActivity">
+<activity screenOrientation="1" name=".ui.MyFavoritesActivity">
+<activity screenOrientation="1" name=".ui.SpaceActivity">
+<activity screenOrientation="1" name=".ui.ConsultDetail">
+<activity screenOrientation="1" name=".ui.ConsultDetail_Image">
+<activity screenOrientation="1" name=".ui.AreaListActivity_New">
+<activity screenOrientation="1" name=".map.MyMapActivity" launchMode="2">
+<activity screenOrientation="1" name=".ui.BranchDaoZhen">
+<activity screenOrientation="1" name=".ui.UserAttentionListActivity">
+<activity screenOrientation="1" name=".ui.UserFansListActivity">
+<activity screenOrientation="1" name=".ui.MyRepalyPostListActivity">
+<activity screenOrientation="1" name=".ui.EditInfoActivity">
+<activity screenOrientation="1" name=".ui.HospitalInfoActivity">
+<activity screenOrientation="1" name=".ui.JobsListActivity">
+<activity screenOrientation="1" name=".ui.TjtRecordInfoActivity">
+<activity screenOrientation="1" name=".ui.PersonCenterPayListActivity">
+<activity screenOrientation="1" name=".ui.UserPointsActivity">
+<activity screenOrientation="1" name=".ui.IQTestActivity">
+<activity screenOrientation="1" name=".ui.ToolsFoodBP">
+<activity screenOrientation="1" name=".ui.MemoryTestActivity">
+<activity screenOrientation="1" name=".ui.PreProductionTestActivity">
+<activity screenOrientation="1" name=".ui.RhythmTestActivity">
+<activity screenOrientation="1" name=".ui.FoodGridActivity" windowSoftInputMode="2">
+<activity screenOrientation="1" name=".ui.RhythmResultActivity">
+<activity screenOrientation="1" name=".ui.PreProductionResultActivity">
+<activity screenOrientation="1" name=".ui.PersonCenterShareActivity">
+<activity screenOrientation="1" name=".ui.PersonalCenterShareActivity">
+<activity screenOrientation="1" name=".ui.IQTextExplanationActivity">
+<activity screenOrientation="1" name=".ui.MemoryTextExplanationActivity">
+<activity screenOrientation="1" name=".ui.BannerWebActivity">
+<activity screenOrientation="1" name="com.yihu.medical.order.OrderCenterActivity">
+<activity screenOrientation="1" name="com.yihu.medical.order.OrderDetailsActivity">
+<activity screenOrientation="1" name="com.yihu.medical.order.PaymentOrderActivity">
+<activity screenOrientation="1" name="com.yihu.medical.order.AppointmentSuccess">
+<activity screenOrientation="1" name=".wxapi.WXEntryActivity" theme="16973839" exported="true">
+<activity screenOrientation="1" name=".wxapi.WXPayEntryActivity" theme="16973839" exported="true">
+<activity screenOrientation="1" name=".order.RegDocFillInUserInfo">
+<activity name=".alarm.AlarmAlertActivity" theme="2131427372" label="2131361838" launchMode="3">
+<activity name="com.tencent.tauth.AuthActivity" noHistory="true" launchMode="2">
+<activity name="com.tencent.connect.common.AssistActivity" theme="16973840" configChanges="1184">
+6
+<service name=".service.UpdateService">
+<service process=":remote" enabled="true" name="com.baidu.location.f">
+<service name="com.yihu.medical.update.UpDateService">
+<service name=".iman.IMServerMessage">
+<service name=".iman.IMMessageHandler">
+<service name="com.arrownock.push.PushService">
+4
+<receiver process=".Remote" name=".alarm.AlarmReceiver">
+<receiver name=".alarm.AlarmInitReceiver">
+<receiver name="com.yihu.medical.iman.IMNotifyClickEvent" exported="false">
+<receiver name="com.yihu.medical.iman.AnCustomReceiver">
+0
+Owner: CN=Shi Qiang, OU=www.yihu.com, O=健康之道, L=福州, ST=福建, C=86
+Issuer: CN=Shi Qiang, OU=www.yihu.com, O=健康之道, L=福州, ST=福建, C=86
+Serial number: 361a3fb5
+Valid from: Sat Aug 03 15:03:20 CST 2013 until: Sun May 06 15:03:20 CST 2068
+Certificate fingerprints: 
+	MD5:19:A7:06:D1:49:C4:CF:31:53:1D:C8:93:BF:9F:C1:83
+	SHA1: F3:BA:12:08:73:B3:16:46:CB:9A:B1:E3:8B:D8:CC:4E:4A:E5:16:85
+	SHA256: 85:B7:0A:DB:88:99:DC:B6:C2:78:DA:45:F7:F4:D9:4D:79:39:C0:21:7C:A5:A1:27:6D:B9:FB:95:93:D6:62:9F
+	Signature algorithm name: SHA256withRSA
+	version: 3

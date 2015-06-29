@@ -1,0 +1,33 @@
+com.singer
+1
+1.0
+7
+-1
+4
+android.permission.READ_PHONE_STATE
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.INTERNET
+android.permission.ACCESS_NETWORK_STATE
+9
+<activity screenOrientation="1" name="com.juzi.main.TheAdVirtualGoods">
+<activity screenOrientation="1" name="com.juzi.main.DownLing">
+<activity screenOrientation="1" name="com.juzi.main.WebActivity" theme="16973840" configChanges="160">
+<activity name=".activity.Main" label="2130968577">
+<activity name=".activity.GridViewActivity" label="2130968577">
+<activity name=".activity.Index" label="2130968577">
+<activity name=".activity.About" label="2130968577">
+<activity name=".activity.BaseActivity" label="2130968577">
+<activity name=".activity.More" label="2130968577">
+0
+0
+0
+Owner: CN=yilantianxia, OU=yilantianxia, L=Beijing China
+Issuer: CN=yilantianxia, OU=yilantianxia, L=Beijing China
+Serial number: 501f580a
+Valid from: Mon Aug 06 13:37:14 CST 2012 until: Fri Jul 31 13:37:14 CST 2037
+Certificate fingerprints: 
+	MD5:45:D3:33:3B:DD:72:4A:C8:E8:33:1F:57:97:A8:30:A4
+	SHA1: 06:E7:C1:A7:72:D0:3B:52:79:16:2F:A0:EF:93:CE:22:B2:E4:55:71
+	SHA256: 09:65:C7:96:84:06:B9:C3:AF:80:66:0D:F4:61:F9:5B:48:1E:E7:D7:0F:15:A9:23:C1:3A:CE:2A:45:10:3E:2A
+	Signature algorithm name: SHA1withRSA
+	version: 3
