@@ -1,0 +1,102 @@
+<org.apache.http.impl.client.DefaultHttpClient: org.apache.http.HttpResponse execute()>;执行网络请求;remote,spread,system;0.5
+<org.apache.http.client.HttpClient: org.apache.http.HttpResponse execute()>;执行网络请求;remote,spread,system;0.5
+
+<java.net.URL: void <init>()>;初始化网络连接;remote,spread,system;0.5
+
+<android.content.Context: void startActivity()>;启动新的activity;rogue;0.5
+<android.content.Context: void startActivities()>;启动新的activity;rogue;0.5
+<android.content.Context: android.content.ComponentName startService()>;启动新的服务;rogue;0.5
+<android.content.Context: boolean bindService()>;启动新的服务;rogue;0.5
+<android.content.Context: void sendBroadcast()>;发送广播;rogue;0.5
+
+<android.content.ContentResolver: android.net.Uri insert()>;向内容uri中插入数据;system,fraud,rogue;0.5
+<android.content.ContentResolver: int delete()>;删除content provider中的数据;system,fraud,rogue;0.5
+<android.content.ContentResolver: int update()>;修改content provider中的数据;system,fraud,rogue;0.5
+<android.content.ContentResolver: android.database.Cursor query()>;查询content provider中的数据;sysem,fraud,rogue;0.5
+
+<android.app.Activity: void startActivity()>;启动新的activity;rogue;0.5
+<android.app.Activity: void startActivities()>;启动新的activity;rogue;0.5
+<android.app.Activity: void startActivityForResult()>;启动新的activity;rogue;0.5
+<android.app.Activity: void startActivityFromChild()>;启动新的activity;rouge;0.5
+<android.app.Activity: void startActivityFromFragment()>;启动新的activity;rouge;0.5
+<android.app.Activity: void startActivityIfNeeded()>;启动新的activity;rouge;0.5
+<android.app.Activity: android.content.ComponentName startService()>;启动新的service;rouge;0.5
+<android.app.Activity: boolean bindService()>;启动新的service;rouge;0.5
+<android.app.Activity: void sendBroadcast()>;发送广播;rouge;0.5
+<android.app.Activity: void sendBroadcastAsUser()>;发送广播;rouge;0.5
+<android.app.Activity: void sendOrderedBroadcast()>;发送有序广播;rogue;0.5
+<android.app.Activity: void sendOrderedBroadcastAsUser()>;发送有序广播;rouge;0.5
+<android.app.Activity: void sendStickyBroadcast(android.content.Intent)>;发送广播;rouge;0.5
+<android.app.Activity: void sendStickyOrderedBroadcast()>;发送广播;rogue;0.5
+
+<android.app.Activity: void setResult()>;设置返回结果;payment,privacy;0.5
+
+<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putBoolean()>;设置共享bool型数据;expense,fraud;0.5
+<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putFloat()>;设置共享float型数据;expense,fraud;0.5
+<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putInt()>;设置共享int型数据;expense,fraud;0.5
+<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putLong()>;设置共享long型数据;expense,fraud;0.5
+<android.content.SharedPreferences$Editor: android.content.SharedPreferences$Editor putString()>;设置共享string型数据;expense,fraud;0.5
+
+<android.content.IntentFilter: void addAction(java.lang.String)>;设置action;privacy,payment,expense;0.5
+<android.telephony.SmsManager: void sendTextMessage()>;发送短信息;payment,privacy,expense;0.5
+<android.telephony.SmsManager: void sendMultipartTextMessage()>;发送短信信息;payment,privacy,expense;0.5
+<android.telephony.SmsManager: void sendDataMessage()>;发送信息;payment,privacy,expense;0.5
+<java.net.Socket: void connect()>;发送网络数据;payment,privacy,expense;0.5
+<java.net.Socket: void <init>()>;创建网络链接;payment,privacy,expense;0.5
+<android.os.Handler: boolean sendMessage()>;发送信息;payment,privacy,expense;0.5
+
+<android.content.Context: android.content.Intent registerReceiver()>;注册接收器;payment,privacy,expense;0.5
+
+<android.media.MediaRecorder: void setVideoSource(int)>;设置vedio;rogue;0.5
+<android.media.MediaRecorder: void setPreviewDisplay()>;设置预览展示;rogue;0.5
+<android.media.MediaRecorder: void start();启动多媒体刻录;rogue;0.5
+
+<android.content.Context: void sendBroadcast()>;发送广播信息;rouge;0.5
+
+<java.net.URLConnection: void setRequestProperty()>;设置请求优先级;system,rouge;0.5
+<android.content.Intent: android.content.Intent setAction()>;设置intent的action;payment,privacy,system,rogue;0.5
+<android.content.Intent: android.content.Intent setClassName()>;设置intent类名;payment,privacy,system,rogue;0.5
+<android.content.Intent: android.content.Intent setComponent()>;设置intent组件;payment,privacy,system,rogue;0.5
+
+<java.net.URL: void set()>;设置url;payment,privacy,expense;0.5
+
+<java.io.Writer: void write()>;文件写;privacy;0.5
+<java.io.FileOutputStream: void write()>;文件写;privacy;0.5
+<java.io.OutputStream: void write()>;文件写;privacy;0.5
+
+<android.util.Log: int d()>;记录debug信息;privacy;0.5
+<android.util.Log: int e()>;记录error信息;privacy;0.5
+<android.util.Log: int i()>;记录info信息;privacy;0.5
+<android.util.Log: int v()>;记录详细日志信息;privacy;0.5
+<android.util.Log: int w()>;记录warn信息;privacy;0.5
+<android.util.Log: int wtf()>;记录崩溃出错信息;privacy;0.5
+
+%bundle sinks
+<android.os.Bundle: void putBinder()>;向bundle中添加binder;privacy;0.5
+<android.os.Bundle: void putBoolean()>;向bundle中添加爱bool型数据;privacy;0.5
+<android.os.Bundle: void putBundle()>;向bundle中添加bundle型数据;privacy;0.5
+<android.os.Bundle: void putByte()>;向bundle中添加字节型数据;privacy;0.5
+<android.os.Bundle: void putByteArray()>;向bundle中添加字节数组;privacy;0.5
+<android.os.Bundle: void putChar(java.lang.String,char)>;向bundle中添加char类型;privacy;0.5
+<android.os.Bundle: void putCharArray(java.lang.String,char[])>;向bundle中添加数组字符串;privacy;0.5
+<android.os.Bundle: void putCharSequence()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putCharSequenceArrayList()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putDouble()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putFloat()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putFloatArray()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putInt()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putIntArray()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putIntegerArrayList()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putLong()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putLongArray()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putParcelable()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putSerializable()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putShort()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putShortArray()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putSparseParcelableArray()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putString()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putStringArray()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putStringArrayList()>;向bundle中添加数据;privacy;0.5
+<android.os.Bundle: void putAll()>;向bundle中添加数据;privacy;0.5
+
+<org.apache.http.message.BasicNameValuePair: void <init>()>;向网络资源添加数据;payment,expense,system;0.5

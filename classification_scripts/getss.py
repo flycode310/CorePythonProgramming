@@ -46,16 +46,27 @@ def gen_ss():
 
 
 def gen_power():
+    detail_list = []
     # get the source list
-    ss_file = open("SourcesAndSinks.txt")
-    sources_list = []
-    for line in ss_file:
-        if re.search('_SOURCE_', line):
-            call_name = line.split(' -> ')[0]
-            call_no_para = call_name.split('(')[0] + '()>'
-            if call_no_para not in sources_list:
-                sources_list.append(call_no_para)
+    sources_file = open("sources.txt")
+    for line in sources_file:
+        if line != '\n' and line[0] != '%':
+            details = line.split(';')
+            detail_list.append(details)
+    sources_file.close()
+    # get the sink list
+    sinks_file = open("sinks.txt")
+    for line in sinks_file:
+        if line != '\n' and line[0] != '%':
+            details = line.split(';')
+            detail_list.append(details)
+    sinks_file.close()
+    detail_dict = {}
+    for detail in detail_list:
+        detail_dict[detail[0]] = detail[1:3]
 
+
+    # get power form mysql
     # query the mysql
     conn = MySQLdb.Connect(host="localhost", user="root", passwd="root", db="asec", port=3306, charset='utf8')
     cur = conn.cursor()
@@ -78,6 +89,7 @@ def gen_power():
     conn.commit()
     conn.close()
 
+    # write detail to powerconfig
     files_dir = "powerconfig/"
     files_list = []
     # open file
@@ -86,18 +98,20 @@ def gen_power():
     # write file
     for call in power_dict:
         power_list = power_dict[call]
+        detail_list = detail_dict[call]
         for index in range(0, 11):
             if power_list[index] != 0.0:
-                files_list[index].write(call + ';' + str(power_list[index]))
-                if call in sources_list:
-                    files_list[index].write(' -> _SOURCE_\n')
-                else:
-                    files_list[index].write(' -> _SINK_\n')
+                line_str = call + ';' + \
+                           detail_list[0].decode('utf-8') + ';' + \
+                           detail_list[1].decode('utf-8') + ';' + \
+                           str(power_list[index]).decode('utf-8') + '\n'
+
+                files_list[index].write(line_str.encode('utf-8'))
     # close file
     for index in range(0, 11):
         files_list[index].close()
 
 
 if __name__ == '__main__':
-    gen_ss()
+    # gen_ss()
     gen_power()

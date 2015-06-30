@@ -16,7 +16,7 @@
 <java.net.Socket: void <init>(java.net.InetAddress,int,java.net.InetAddress,int)> -> _SINK_
 <java.net.Socket: void <init>(java.lang.String,int)> -> _SINK_
 <java.net.Socket: void <init>(java.lang.String,int,boolean)> -> _SINK_
-<java.net.Socket: void <init>(java.lang.String,int,java.net.InetAddress,int)>
+<java.net.Socket: void <init>(java.lang.String,int,java.net.InetAddress,int)> -> _SINK
 <java.net.Socket: void connect(java.net.SocketAddress)> -> _SINK_
 
 %发送信息

@@ -1,33 +1,33 @@
-<android.content.ContentResolver: android.database.Cursor query()>;0.03 -> _SOURCE_
-<android.util.Log: int w()>;0.08 -> _SINK_
-<android.database.Cursor: java.lang.String getString()>;0.04 -> _SOURCE_
-<android.content.pm.PackageManager: java.util.List getInstalledPackages()>;0.03 -> _SOURCE_
-<android.telephony.gsm.GsmCellLocation: int getLac()>;0.02 -> _SOURCE_
-<android.util.Log: int v()>;0.04 -> _SINK_
-<android.content.pm.PackageManager: java.util.List queryBroadcastReceivers()>;0.01 -> _SOURCE_
-<android.os.Handler: android.os.Message obtainMessage()>;0.06 -> _SOURCE_
-<android.util.Log: int e()>;0.08 -> _SINK_
-<android.net.wifi.WifiInfo: java.lang.String getSSID()>;0.02 -> _SOURCE_
-<java.net.URLConnection: java.io.InputStream getInputStream()>;0.02 -> _SOURCE_
-<android.content.pm.PackageManager: java.util.List queryIntentServices()>;0.01 -> _SOURCE_
-<android.os.Handler: boolean sendMessage()>;0.04 -> _SINK_
-<java.net.URLConnection: void setRequestProperty()>;0.01 -> _SINK_
-<java.net.URL: java.net.URLConnection openConnection()>;0.04 -> _SOURCE_
-<android.bluetooth.BluetoothAdapter: java.lang.String getAddress()>;0.01 -> _SOURCE_
-<java.net.URLConnection: java.io.OutputStream getOutputStream()>;0.01 -> _SOURCE_
-<android.location.Location: double getLongitude()>;0.03 -> _SOURCE_
-<java.net.URL: void <init>()>;0.04 -> _SINK_
-<android.telephony.gsm.GsmCellLocation: int getCid()>;0.02 -> _SOURCE_
-<android.util.Log: int i()>;0.06 -> _SINK_
-<android.location.LocationManager: android.location.Location getLastKnownLocation()>;0.02 -> _SOURCE_
-<android.content.ContentResolver: int delete()>;0.01 -> _SINK_
-<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>;0.01 -> _SOURCE_
-<android.telephony.TelephonyManager: java.lang.String getLine1Number()>;0.01 -> _SOURCE_
-<android.telephony.TelephonyManager: java.lang.String getDeviceId()>;0.05 -> _SOURCE_
-<android.content.ContentResolver: int update()>;0.01 -> _SINK_
-<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>;0.03 -> _SOURCE_
-<android.content.pm.PackageManager: java.util.List queryIntentActivities()>;0.02 -> _SOURCE_
-<android.content.ContentResolver: android.net.Uri insert()>;0.01 -> _SINK_
-<android.util.Log: int d()>;0.06 -> _SINK_
-<android.location.Location: double getLatitude()>;0.03 -> _SOURCE_
-<java.util.Locale: java.lang.String getCountry()>;0.03 -> _SOURCE_
+<android.content.ContentResolver: android.database.Cursor query()>;查询content provider中的数据;sysem,fraud,rogue;0.03
+<android.util.Log: int w()>;记录warn信息;privacy;0.08
+<android.database.Cursor: java.lang.String getString()>;获取数据库表中请求列的数据;privacy;0.04
+<android.content.pm.PackageManager: java.util.List getInstalledPackages()>;获取已经安装的包;privacy;0.03
+<android.telephony.gsm.GsmCellLocation: int getLac()>;获取GSM位置;privacy;0.02
+<android.util.Log: int v()>;记录详细日志信息;privacy;0.04
+<android.content.pm.PackageManager: java.util.List queryBroadcastReceivers()>;查询注册的broacdast receiver;privacy;0.01
+<android.os.Handler: android.os.Message obtainMessage()>;返回获取的特定数据;privacy;0.06
+<android.util.Log: int e()>;记录error信息;privacy;0.08
+<android.net.wifi.WifiInfo: java.lang.String getSSID()>;获取无线ssid;privacy;0.02
+<java.net.URLConnection: java.io.InputStream getInputStream()>;获取网络资源输入流;payment,expense;0.02
+<android.content.pm.PackageManager: java.util.List queryIntentServices()>;查询注册的service;privacy;0.01
+<android.os.Handler: boolean sendMessage()>;发送信息;payment,privacy,expense;0.04
+<java.net.URLConnection: void setRequestProperty()>;设置请求优先级;system,rouge;0.01
+<java.net.URL: java.net.URLConnection openConnection()>;获取url连接信息;payment,expense,system,rogue;0.04
+<android.bluetooth.BluetoothAdapter: java.lang.String getAddress()>;获取蓝牙适配器;privacy;0.01
+<java.net.URLConnection: java.io.OutputStream getOutputStream()>;获取网络资源输出流;payment,expense;0.01
+<android.location.Location: double getLongitude()>;获取地理经度;privacy;0.03
+<java.net.URL: void <init>()>;初始化网络连接;remote,spread,system;0.04
+<android.telephony.gsm.GsmCellLocation: int getCid()>;获取GSMID;privacy;0.02
+<android.util.Log: int i()>;记录info信息;privacy;0.06
+<android.location.LocationManager: android.location.Location getLastKnownLocation()>;获取最近的位置;privacy;0.02
+<android.content.ContentResolver: int delete()>;删除content provider中的数据;system,fraud,rogue;0.01
+<android.telephony.TelephonyManager: java.lang.String getSimSerialNumber()>;获取sim卡序列号;privacy;0.01
+<android.telephony.TelephonyManager: java.lang.String getLine1Number()>;获取本机手机号;privacy;0.01
+<android.telephony.TelephonyManager: java.lang.String getDeviceId()>;获取设备号;privacy;0.05
+<android.content.ContentResolver: int update()>;修改content provider中的数据;system,fraud,rogue;0.01
+<android.telephony.TelephonyManager: java.lang.String getSubscriberId()>;获取运营商的信息;privacy;0.03
+<android.content.pm.PackageManager: java.util.List queryIntentActivities()>;查询注册的activity;privacy;0.02
+<android.content.ContentResolver: android.net.Uri insert()>;向内容uri中插入数据;system,fraud,rogue;0.01
+<android.util.Log: int d()>;记录debug信息;privacy;0.06
+<android.location.Location: double getLatitude()>;获取地理纬度;privacy;0.03
+<java.util.Locale: java.lang.String getCountry()>;获取当前所在国家;privacy;0.03
